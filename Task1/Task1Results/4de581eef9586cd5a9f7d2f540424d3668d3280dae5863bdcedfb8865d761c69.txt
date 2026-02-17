@@ -1,0 +1,1198 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Из рассказов охотника-переселенца (Бунин) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"22122ad4-9a49-4209-8495-df9d2316424f","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Из_рассказов_охотника-переселенца_(Бунин)","wgTitle":"Из рассказов охотника-переселенца (Бунин)","wgCurRevisionId":5590964,"wgRevisionId":5590964,"wgArticleId":1013542,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Страницы с не вики-заголовками","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru","Импорт/az.lib.ru/Николай Григорьевич Бунин","Проза","Сборники рассказов","Николай Григорьевич Бунин","Литература 1900 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Из_рассказов_охотника-переселенца_(Бунин)","wgRelevantArticleId":1013542,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5590964,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":200000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Из рассказов охотника-переселенца (Бунин) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Из_рассказов_охотника-переселенца_Бунин rootpage-Из_рассказов_охотника-переселенца_Бунин skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%98%D0%B7+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2+%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0+%28%D0%91%D1%83%D0%BD%D0%B8%D0%BD%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%98%D0%B7+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2+%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0+%28%D0%91%D1%83%D0%BD%D0%B8%D0%BD%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%98%D0%B7+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2+%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0+%28%D0%91%D1%83%D0%BD%D0%B8%D0%BD%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%98%D0%B7+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2+%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0+%28%D0%91%D1%83%D0%BD%D0%B8%D0%BD%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-I"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#I">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>I</span>
+			</div>
+		</a>
+		
+		<ul id="toc-I-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-II"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#II">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>II</span>
+			</div>
+		</a>
+		
+		<ul id="toc-II-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-III"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#III">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>III</span>
+			</div>
+		</a>
+		
+		<ul id="toc-III-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-IV"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#IV">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>IV</span>
+			</div>
+		</a>
+		
+		<ul id="toc-IV-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-V"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#V">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>V</span>
+			</div>
+		</a>
+		
+		<ul id="toc-V-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-VI"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#VI">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>VI</span>
+			</div>
+		</a>
+		
+		<ul id="toc-VI-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-I_2"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#I_2">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>I</span>
+			</div>
+		</a>
+		
+		<ul id="toc-I_2-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-II_2"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#II_2">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>II</span>
+			</div>
+		</a>
+		
+		<ul id="toc-II_2-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ПРИМЕЧАНИЯ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ПРИМЕЧАНИЯ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>ПРИМЕЧАНИЯ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ПРИМЕЧАНИЯ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Из рассказов охотника-переселенца (Бунин)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%98%D0%B7+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2+%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0+%28%D0%91%D1%83%D0%BD%D0%B8%D0%BD%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;oldid=5590964" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_%28%D0%91%D1%83%D0%BD%D0%B8%D0%BD%29&amp;id=5590964&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2598%25D0%25B7_%25D1%2580%25D0%25B0%25D1%2581%25D1%2581%25D0%25BA%25D0%25B0%25D0%25B7%25D0%25BE%25D0%25B2_%25D0%25BE%25D1%2585%25D0%25BE%25D1%2582%25D0%25BD%25D0%25B8%25D0%25BA%25D0%25B0-%25D0%25BF%25D0%25B5%25D1%2580%25D0%25B5%25D1%2581%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BD%25D1%2586%25D0%25B0_%28%25D0%2591%25D1%2583%25D0%25BD%25D0%25B8%25D0%25BD%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2598%25D0%25B7_%25D1%2580%25D0%25B0%25D1%2581%25D1%2581%25D0%25BA%25D0%25B0%25D0%25B7%25D0%25BE%25D0%25B2_%25D0%25BE%25D1%2585%25D0%25BE%25D1%2582%25D0%25BD%25D0%25B8%25D0%25BA%25D0%25B0-%25D0%25BF%25D0%25B5%25D1%2580%25D0%25B5%25D1%2581%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BD%25D1%2586%25D0%25B0_%28%25D0%2591%25D1%2583%25D0%25BD%25D0%25B8%25D0%25BD%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_%28%D0%91%D1%83%D0%BD%D0%B8%D0%BD%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_%28%D0%91%D1%83%D0%BD%D0%B8%D0%BD%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_%28%D0%91%D1%83%D0%BD%D0%B8%D0%BD%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_%28%D0%91%D1%83%D0%BD%D0%B8%D0%BD%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_%28%D0%91%D1%83%D0%BD%D0%B8%D0%BD%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_%28%D0%91%D1%83%D0%BD%D0%B8%D0%BD%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Из рассказов охотника-переселенца</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%91%D1%83%D0%BD%D0%B8%D0%BD" title="Автор:Николай Григорьевич Бунин">Николай Григорьевич Бунин</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1900</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/b/bunin_n_g/text_0010.shtml">az.lib.ru</a></span>  • Старый знакомый<br />
+Вихряй</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%91%D1%83%D0%BD%D0%B8%D0%BD" title="Автор:Николай Григорьевич Бунин">Николай Григорьевич Бунин</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<center>Рассказы</center>
+<p>Русский охотничий рассказ / Сост., авт. предисл. и&#160;примеч. М.&#160;М. Одесская. — М.: Советская Россия, 1991.
+</p>
+<center>СОДЕРЖАНИЕ</center>
+<p>Старый знакомый. <i>Из&#160;рассказов охотника-переселенца</i>
+</p><p>Вихряй. <i>Из&#160;рассказов охотника-переселенца</i>
+</p>
+<center>Старый знакомый</center>
+<center><i>Из&#160;рассказов охотника-переселенца</i></center>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading4"><h4 id="I">I</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=1" title="Редактировать раздел «I»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Долго, нескончаемо долго тянулась непривычная для&#160;меня северная зима…
+</p><p>Морозов трескотня и&#160;вой снежных метелей вместе с&#160;плакучим стоном знакомого филина на&#160;башнях соседнего монастыря до&#160;того пробирали меня в&#160;собственной моей квартире, в&#160;особенности по&#160;ночам, что&#160;какое-то&#160;непоседство дома развилось во&#160;мне до&#160;степени неодолимой потребности ездить и&#160;ездить… Куда? Зачем? — это было для&#160;меня безразлично, лишь&#160;бы&#160;не сидеть дома с&#160;глазу на&#160;глаз с&#160;томительною скукой и&#160;постоянным одиночеством.
+</p><p>Процедура сборов и&#160;езды, сокращая время, наполняла мою жизнь. Как&#160;новинка, мне было по&#160;душе это добровольное скитанье по&#160;лесным дебрям сурового севера, охотничьи стоянки в&#160;убогих деревушках редкого населения и&#160;всегда простодушно-милая долгая беседа с&#160;местными мужичками, промышлявшими охотой. Словом, я&#160;скоро вошел во&#160;вкус бродячей жизни и, не&#160;разбирая ни&#160;состояния погоды, ни&#160;расстояния местностей, постоянно метался по&#160;разъездам и&#160;рыскал по&#160;всевозможным зимним охотам за&#160;птицей и&#160;зверем. Бывало, едва успеешь возвратиться с&#160;какой-нибудь из&#160;этих экспедиций, как&#160;ко мне уже является один из&#160;моих летних приятелей с&#160;предложением ехать на&#160;новую. Там — лоси обстоялись, и&#160;их обошли, там — сгонного медведя обложили. Все это было, как&#160;говорится, «нашему козырю под&#160;масть», и&#160;я без&#160;отказа катил вновь за&#160;добрую сотню, а&#160;иной раз и&#160;больше верст.
+</p><p>Так коротая тяжелое время холодной зимы, промаячился я&#160;до конца марта. И&#160;вот в&#160;одно солнечное морозное утро вместе с&#160;благовестом монастырского колокола к&#160;обедне будил меня мой старик Данилыч с&#160;докладом, что&#160;какой-то&#160;незнакомый мужичок приехал издалека и&#160;ждет меня с&#160;письмом на&#160;кухне.
+</p><p>— Спроси письмо и&#160;подай, пожалуйста, сюда! — поручаю я&#160;ему, не&#160;желая слишком скоро покидать всегда под&#160;утро особенно приятную постель. Но&#160;мой Данилыч возвращается с&#160;объявлением, что&#160;мужичок ему письма не&#160;отдает, а&#160;требует непременно повидать меня самого.
+</p><p>Основательно предположив из&#160;этого о&#160;важности дела, я&#160;попросил позвать крестьянина в&#160;комнату и, наскоро одевшись, вышел к&#160;нему в&#160;сопровождении своей лягавой собаки, по&#160;обыкновению вместе спавшей и&#160;в одно время просыпавшейся со мною.
+</p><p>У&#160;дверей прихожей комнаты, переминаясь от&#160;долгой дороги, в&#160;засаленном полушубке и&#160;стареньком армячке стоял невзрачный с&#160;виду мужичок с&#160;белобрысой жиденькой бородкой и&#160;такими&#160;же волосами на&#160;голове, но&#160;с черными и&#160;необыкновенно юркими глазами; слегка вздернутый кверху нос и&#160;тонкие угловатые губы придавали его лицу какое-то&#160;плутовато-задорное выражение. В&#160;одной руке он&#160;держал свой капелюх из&#160;оленевой шкуры шерстью вверх чрезвычайно безобразного покроя, а&#160;другою, глубоко запустив за&#160;пазуху полу шубка, доискивался чего-то&#160;спрятанного там.
+</p><p>Зорко окинув мое лицо при&#160;появлении, он&#160;хриповатым голосом произнес какое-то&#160;короткое приветствие и&#160;тут&#160;же выстрелил глазами в&#160;сторону моей собаки, которая в&#160;это время любознательно обнюхивала заскорузлую полу его кафтана, затем снова взглянув на&#160;меня и, наконец, вероятно, удовлетворившись своим обзором, он&#160;вслух проговорил и&#160;свое об&#160;этом впечатление: «Должно, тот самый и&#160;есть, и&#160;собака — желтая…» И&#160;только тогда вытащил из-за&#160;пазухи толстый сверток грязной ситцевой тряпицы, в&#160;котором бережно было завернуто письмо без&#160;всякого адреса.
+</p><p>— На-ко, погляди, туда попал аль нет?.. — развертывая тряпицу и&#160;подавая мне послание, значительно промолвил он. Потом этой самою тряпицей он&#160;кокетливо утер нос и&#160;бороду и&#160;снова препроводил ее за&#160;пазуху, оставив, кстати, там и&#160;свою руку; в&#160;таком положении, поглядывая с&#160;боку на&#160;меня, оставался он&#160;в ожидании ответа, пока я&#160;читал письмо.
+</p><p>В&#160;письме заключалось короткое предложение приехать на&#160;медвежью охоту по&#160;указанию посылаемого крестьянина. Почерк бойкий, орфография правильная, подписано «Ваш старый знакомый» — и&#160;только.
+</p><p>— От&#160;кого это? — спрашивал я.
+</p><p>— Да&#160;от&#160;Ивана Тимофеича, самый ён послал и&#160;бесприменно наказывал, чтобы ты приехал.
+</p><p>Не зная ни&#160;одного из&#160;знакомых под&#160;таким именем, я&#160;был немало удивлен приглашением и&#160;для разъяснения дела снова обратился к&#160;посланцу:
+</p><p>— Да&#160;кто он&#160;такой?..
+</p><p>— Ивана-то&#160;Тимофеича не&#160;знаешь?.. — в&#160;свою очередь с&#160;некоторым сомнением переспросил меня мужичок.
+</p><p>— Не знаю.
+</p><p>— Да&#160;наш писарь молодой, Скобин Иван Тимофеич!.. Може, забыл?.. — вразумительно стал толковать он&#160;мне и&#160;для вящего убеждения добавил: — И&#160;прочие господа наши съезжаются туда&#160;же, все будут тебя ждать…
+</p><p>— А&#160;ехать далеко?
+</p><p>— Не, не&#160;горазде далече! Я&#160;бы&#160;еще вечор на&#160;своей поспел, да, признаться, притомилась за&#160;дорогу, бросил в&#160;Варгольском селе, да&#160;уж так кой с&#160;кем сюда и&#160;Добежал…
+</p><p>Я, должно быть, невольно поморщился при&#160;этих сведениях о&#160;расстоянии, потому что&#160;внимательно следивший за&#160;моим выражением мужик очень уж заискивающим тоном поспешил прибавить:
+</p><p>— Да&#160;уж я&#160;доведу до&#160;места вашу честь — абы только поезжай!.. Низко просят, вочень кланяются, — закончил он&#160;свое посольство.
+</p><p>Из&#160;дальнейших вопросов и&#160;ответов, последовавших с&#160;обеих сторон, я&#160;мог уразуметь только одно, что&#160;какие-то&#160;господа Из&#160;местных жителей соседней губернии пограничного уезда непременно желают, чтобы я&#160;участвовал в&#160;их охоте на&#160;медведя, и&#160;при этом выходило как-то&#160;так, что&#160;без меня и&#160;самая охота у&#160;них состояться не&#160;может. Но&#160;кто именно были эти господа, я&#160;все-таки не&#160;добился, хотя и&#160;узнал, что&#160;главным образом орудует в&#160;этом деле неизвестный мне, но&#160;якобы хорошо знающий меня Иван Тимофеич, по-видимому, весьма важное лицо, состоящее в&#160;должности главного волостного писаря очень большой волости, откуда, собственно, им и&#160;был командирован этот посланный за&#160;мною.
+</p><p>Но&#160;все эти обстоятельства не&#160;так озадачивали меня, как&#160;дальность расстояния, выразившаяся в&#160;многозначительном «негоразд», ибо этот «негоразд» в&#160;настоящем случае тянулся наверняка на&#160;двести верст…
+</p><p>Однако, несмотря на&#160;это, любезное приглашение незнакомых мне людей показалось для&#160;меня настолько лестным, а&#160;главное, моя собственная страсть к&#160;шатанью была в&#160;ту пору настолько сильна, что&#160;результатом всего воспоследовало мое не&#160;менее любезное соглашение. Спустя несколько часов мы&#160;вместе с&#160;посланцем и&#160;милой лайкой Жучком, поступившим ко&#160;мне в&#160;услужение от&#160;друга Нестора, поспешно катили на&#160;паре почтовых по&#160;большой О.....ой дороге.
+</p>
+<div class="mw-heading mw-heading4"><h4 id="II">II</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=2" title="Редактировать раздел «II»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>На&#160;здешних почтовых станциях нередко случается встречать лошадей с&#160;замечательно резвой побежкой, напоминающих по&#160;виду лошадей, известных под&#160;именем шведок; искалеченные от&#160;непосильного труда и&#160;значительно измельчавшие от&#160;постоянной бескормицы, они&#160;все-таки легко везут путника верст по&#160;пятнадцати в&#160;час по&#160;здешним дорогам, благодаря этому езда здесь, невзирая на&#160;стужу и&#160;подчас непогодь, иногда имеет свою прелесть. Обыкновенно только при&#160;выезде со станции «гусевая» запряжка лошадей немного осложняет дело тем, что&#160;передняя лошаденка, почти всякая, неохотно покидая свое стойло, непременно пробует сунуться то&#160;в одни, то&#160;в другие ворота соседних дворов, где ее встречают с&#160;боков выразительные крики ямщиков, а&#160;сзади вместе со зловещим свистом длинного кнута гремит грозный голос самого хозяина: «Ку-у-да&#160;ты, животина?!» В&#160;силу этого наконец животина, волей-неволей, выметывается на&#160;надлежащую дорогу, и&#160;тут, как&#160;бы стакнувшись заодно с&#160;коренником, вдруг оба разом подхватывают в&#160;полный карьер версты на&#160;две, на&#160;три, а&#160;иногда и&#160;более до&#160;тех пор, пока бесчеловечно передернутый коренник устанавливается на&#160;крупную размашистую рысь, а&#160;уносная — на&#160;широкий спорый галоп, которыми и&#160;продолжают оба отчеканивать уже во&#160;всю остальную часть дороги. Хорошая это и&#160;веселая езда!.. Не успеешь порядком вдуматься во&#160;что-нибудь, как&#160;уже тебя подкатят к&#160;фонарным столбам следующей станции. «Вот и&#160;добежали!..» — говорит вам весь белый, запушенный морозом ямщик, бойко спрыгивая со своего сиденья на&#160;облучке. И&#160;тут как-то&#160;даже неохотно вылезаешь из&#160;саней и&#160;из-под&#160;сугробов заметавшего тебя снега и&#160;всегда невольно обернешься посмотреть, как&#160;стоят эти животинки, словно курящиеся в&#160;густом дыму от&#160;собственного Пота: широкий коренник, задравши на&#160;бок кудлатую голову, ухищряется стереть об&#160;оглоблю ледяную сосульку, образовавшуюся под&#160;его ноздрями, а&#160;понурившаяся до&#160;земли уносная жадно скребет у&#160;крыльца дорогу, доставая зубами обледенелый утоптанный снег.
+</p><p>А&#160;вид здешних лесов зимою чего стоит?!. Конечно, кто долго жил или&#160;много ездил по&#160;снежному пути нашего севера, тому не&#160;в диковинку его зимние красы. Но&#160;кто никогда не&#160;видал этих громадных лесных пространств с&#160;вечно зеленеющими иглами под&#160;густым инеем 20R-ного мороза, тот не&#160;может вообразить себе всей прелести этой, подчас Дивной и&#160;постоянно своеобразной красоты.
+</p><p>После двухчасовой езды мы&#160;подъехали к&#160;станции того села, где накануне была оставлена притомившаяся лошадь моего проводника, и&#160;порешили с&#160;ним на&#160;том, что&#160;отсюда, сколько будет можно, он&#160;поедет на&#160;своей, а&#160;потом опять оставит лошадь и&#160;пересядет ко&#160;мне уже до&#160;конца дороги.
+</p><p>Пока ладилась запряжка лошадей в&#160;мои сани, сидя под&#160;окном почтовой станции, я&#160;видел, как&#160;мой спутник, вывернувшись из&#160;ворот соседнего двора на&#160;своей буренькой лошаденке в&#160;длинных пошевнях, крупной рысью прокатил околицей вперед по&#160;нашей дороге. Скоро и&#160;мне запрягли лошадей. Место проводника, сидевшего со мною, заменила моя лайка; соскучившись во&#160;всю дорогу лежать в&#160;ногах под&#160;одеялом, Жучок с&#160;радостью выбрался на&#160;свободу и, торжественно поместившись рядом со мною, преважно водил носом по&#160;сторонам и&#160;молча скалил зубы на&#160;своих собратьев, отчаянным брехом провожавших нас по&#160;деревне.
+</p><p>По&#160;ровной лесной просеке скоро завиднелась впереди нас темная точка, но&#160;нескоро, едва только на&#160;половине станции мы&#160;поравнялись с&#160;нею: это ехал мой Терентий Иванов на&#160;своем буром. Обгоняя его по&#160;дороге, я&#160;хотя и&#160;крикнул ему «поспешай», но&#160;был вполне уверен, что&#160;мне долгонько придется поджидать его на&#160;станции, однако ж, к&#160;удивлению моему, только что&#160;мне приготовили лошадей, как&#160;знакомый капелюх моего спутника по-прежнему мелькнул мимо станционного дома; ходовитым шагом, свежо и&#160;бойко шел его слегка замылившийся и&#160;весь заиндевевший конь… За&#160;околицей он&#160;дал себя объехать и, приладившись в&#160;упор за&#160;моею парой, уже не&#160;отставал во&#160;всю дорогу, о&#160;чем мне постоянно напоминал шорох санных полозьев сзади и&#160;изредка конское пофыркивание за&#160;моей спиною.
+</p><p>Судя по&#160;усердию, с&#160;которым мой проводник отправлял свою обязанность в&#160;отношении моей персоны, я&#160;начал опасаться за&#160;бедное животное, чтобы оно не&#160;пало жертвою его исполнительной натуры, и&#160;потому предположил остаться переночевать на&#160;одной из&#160;следующих станций.
+</p><p>В&#160;душной, жарко натопленной и&#160;по обыкновению нестерпимо вонючей избе нам подали самовар, поставили на&#160;стол большую крынку молока, рядом положили подобие какой-то&#160;снеди в&#160;образе кольцеобразных камней (известных и&#160;здесь под&#160;именем баранок), и&#160;мы, поглощая чашку за&#160;чашкой горячую воду, завели с&#160;новым приятелем долгую беседу на&#160;тему, оправдывающую поговорку: «У&#160;кого что&#160;болит, тот о&#160;том и&#160;говорит».
+</p><p>Происходя по&#160;прямой линии от&#160;соседних иноверцев — зырян, мой Терентий Иванович в&#160;числе прочих качеств унаследовал от&#160;своих предков и&#160;самую нежнейшую любовь ко&#160;всевозможным капканам, петлям и&#160;силкам, почему очень сильно возмущался против распространения огнестрельного оружия в&#160;их местности.
+</p><p>— Шуму уж оченно много от&#160;этого самого пороха бывает, — говорил он&#160;под конец нашей беседы, — и&#160;опять&#160;же чует его зверь далеко, ну, известно, и&#160;торопится уходить в&#160;спокойные места, все дальше да&#160;глубже. А&#160;у&#160;нас, значит, с&#160;кажинным годом что&#160;зверя, что&#160;птицы — все меньше да&#160;меньше… В&#160;старину-то, бывало, птицу всякую — петлей, а&#160;зверя — железами, а&#160;не то&#160;так и&#160;на рогатину добывали. Оно и&#160;милое дело выходило!.. Поборятся себе тишком, по-любезному: спорол мужичок медведя, надрал с&#160;его пудов пять сала — жги всю зиму некупленный свет, а&#160;шкуру на&#160;Торжок свезет, выручит золотой на&#160;подати — оно и&#160;ладно… Дело тихое, никому невдомек — значит, при&#160;этом и&#160;осурочить тебя некому. Да&#160;и&#160;зверь-то — иной, поди, тут&#160;же, только что&#160;не рядышком лежит, а&#160;и не&#160;почует, что&#160;с товарища, значит, шубу на&#160;базар снесли… Потому лежит ён в&#160;спокойствии и&#160;сам, пожалуй, дождется свово череду… Вот таким-то&#160;побытом и&#160;промышляли… А&#160;ныне с&#160;этими фузеями коли-то&#160;коли какого подужают, а&#160;шуму-то, шуму на&#160;целый лесь подымут… — закончил свою речь мой собеседник, вставая из-за&#160;стола и&#160;опрокидывая кверху донышком последнюю чашку. Он&#160;покрестился на&#160;икону, поблагодарил меня за&#160;угощение и&#160;пОлез спать на&#160;печку, откуда немедленно послышался храп во&#160;всю носовую завертку.
+</p><p>На&#160;дворе шумела метель, в&#160;трубе завывал ветер…
+</p>
+<div class="mw-heading mw-heading4"><h4 id="III">III</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=3" title="Редактировать раздел «III»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Сделавшаяся с&#160;утра оттепель обратилась к&#160;вечеру в&#160;хмару, и&#160;сырая, тонкая изморозь поползла в&#160;воздухе. Уже темные сумерки были на&#160;дворе, когда мы&#160;добрались до&#160;места и&#160;остановились у&#160;широкого крыльца большого дома казенной архитектуры с&#160;вывеской во&#160;всю длину карниза: «Волостное Правление такой-то&#160;волости».
+</p><p>Изнутри дома сквозь оттаявшие окна бил яркий свет на&#160;улицу и, длинными полосами разрезая в&#160;тумане вечернюю мглу, освещал местами красные прутья и&#160;краснопегие стволы больших берез, росших в&#160;виде украшения под&#160;самыми окнами; несколько человеческих фигур зачем-то&#160;копошились у&#160;крыльца.
+</p><p>— Здесь стоят приезжие охотники? — почти уверенный, заранее в&#160;ответе, без&#160;всякой надобности спросил я, вылезая из&#160;саней.
+</p><p>— Здеся-тка, здеся, проходи в&#160;сенцы, ваша милость, — разом заговорили эти темные тени, и&#160;руки их почтительно потянулись к&#160;головам за&#160;шапками.
+</p><p>Из&#160;сеней пахнуло на&#160;меня обыкновенным запахом деревенского жилья: какой-то&#160;кислоты, дегтя и&#160;свежей соломы. Черною глубокой дырой встретила нас с&#160;Жучком кромешная тьма из-за&#160;сенной двери, и&#160;только по&#160;звуку голосов, гомонивших где-то&#160;в доме, я&#160;начал осторожно двигаться вперед, стараясь впотьмах нащупать дверь в&#160;комнату, но&#160;вместо дверей скоро наткнулся на&#160;чужую собаку. По&#160;недружелюбному тону густой собачьей октавы, послышавшейся под&#160;моими ногами, и&#160;по шелесту соломы я&#160;безошибочно мог догадаться, что&#160;обеспокоенный мною пес поднимается со своего ложа и&#160;уж, конечно, не&#160;благодарить&#160;же меня хочет… Предположив, что&#160;это мог быть один из&#160;бульдогов, — быть может, даже не&#160;в единственном числе — расположенных здесь в&#160;ожидании охоты, я&#160;подхватил на&#160;руки свою лайку и&#160;остановился в&#160;самом глупом положении человека, готового немедленно заорать о&#160;помощи в&#160;ожидании еще невидимой опасности.
+</p><p>По&#160;счастию, кем-то&#160;отворенная в&#160;эту минуту дверь спасла меня от&#160;конфуза, а&#160;моего Жучка от&#160;зубов (как&#160;впоследствии оказалось) действительно громадного меделяна, и, вваливая за&#160;собой густые облака холодного пара, я, наконец, попал в&#160;большую освещенную комнату, нечто вроде прихожей, куда уж явственно доносился шумный говор многочисленной публики, расположившейся по&#160;всему дому.
+</p><p>Освободившись от&#160;дохи и&#160;башлыка, на&#160;которых пушистыми слоями держался во&#160;многих местах наметанный за&#160;дорогу снег, я&#160;с приятным ощущением комнатной теплоты и&#160;телесной свободы присоединился к&#160;обществу.
+</p><p>Тут сидела и&#160;ходила перемешанная вкупе разнообразнейшая смесь одежд и&#160;лиц: оленевый ергак, романовский полушубок, драповое пальто и&#160;прочие костюмы менее определенных форм и&#160;названий, совершенно мне неизвестных. Костюмы завершались, конечно, лицами, из&#160;которых в&#160;первый момент для&#160;меня мелькали только самые рельефные их части: носы, усы и&#160;бороды самых разнообразных цветов и&#160;размеров; только один какой-то&#160;военный в&#160;форменном сюртуке светился сзади почтенной лысиной, а&#160;с боков блистал бритой округлостию своих щек. Все это гудело вместе, разговаривая, вдруг и&#160;также вместе приступило ко&#160;мне с&#160;своими возгласами, вопросами и&#160;рассказами, так что&#160;некоторое время я&#160;изображал собою волка среди собачьей стаи, окружившей его, однако с&#160;миролюбивыми намерениями (если только когда-нибудь бывают подобные намерения при&#160;встрече волков с&#160;собаками?..).
+</p><p>Не зная в&#160;лицо ни&#160;одного из&#160;этих людей, я&#160;решительно недоумевал, чему я&#160;обязан своим присутствием в&#160;их обществе, но&#160;тоже раскланивался насколько мог по-светски и&#160;бормотал какие помнились приветствия или, вернее говоря, огрызался приличными ответами и&#160;с понятным нетерпением желал поскорее увидеть часто упоминаемую и&#160;теперь личность Ивана Тимофеева, который должен был наконец разрешить мое загадочное здесь появление.
+</p><p>Окинув взглядом комнату, мне прежде всего бросился в&#160;глаза стоявший на&#160;середине ее деревянный выкрашенный стол с&#160;листом белой бумаги, приклеенным к&#160;нему по&#160;углам сургучом. На&#160;этой бумаге в&#160;знакомой форме столбцов и&#160;длинных клеточек пестрели карандашом написанные цифры: курочек, ремизов и&#160;вистов; лежащие тут&#160;же две колоды карт вразумительно доказывали своим потускневшим и&#160;распухшим видом, что&#160;седьмая по&#160;счету, а&#160;может быть и&#160;более, пулька еще не&#160;окончена и&#160;любимое развлечение скучающей без&#160;дела публики еще продолжается. Синеватые облака табачного дыма, не&#160;совсем безукоризненного достоинства, тихо колеблясь, широкими слоями плавали во&#160;всей комнатной атмосфере. Сивушный букет русского рома и (известной своей популярностию) французской водки резко шибанули мне в&#160;нос, выдавая свое обильное присутствие в&#160;углу на&#160;круглом столе под&#160;образами; лохматые куски оборванной колбасы и&#160;обнаженный остов копченого сига, как&#160;неразлучные спутники этой жидкости, стояли там&#160;же рядом, в&#160;числе прочей снеди.
+</p><p>По&#160;углам комнаты и&#160;кое-где в&#160;простенках между стульями тускло светились разнокалиберные ружья, чернели лакированные кобуры револьверов и&#160;блистали рукоятки охотничьих ножей, даже одна черкесская шашка зачем-то&#160;попала сюда&#160;же и&#160;предательски белелась своею костяною змееобразною головкой.
+</p><p>«Ну, лишь&#160;бы&#160;было по&#160;чем, а&#160;то есть чем», — подумал я, не&#160;без внутреннего удовольствия озирая и&#160;собравшуюся братию, и&#160;весь этот разнохарактерный арсенал, свезенный ими на&#160;ратное дело…
+</p><p>Успевшая между тем вдоволь осмотреть меня публика не&#160;замедлила показать и&#160;себя мне как&#160;новому собрату. Физиономии начали вытыкаться ко&#160;мне ближе и&#160;обращаться прямо с&#160;добродушными укорами вроде следующих:
+</p><p>— Пора, батенька, пора! — с&#160;хрипом басила одна из&#160;бород над&#160;самым моим ухом.
+</p><p>— Совсем заждались вас, — наддавал рядом с&#160;нею другой голос.
+</p><p>— Если&#160;бы&#160;не подъехали сегодня, завтра уж хотели одни брать… — заговорил какой-то&#160;хохлатый юнец.
+</p><p>— Да, хотели! — грубо перебивают юношу неизвестно откуда подвернувшиеся щетинистые усы. — Хотели-то&#160;еще вчера, да&#160;брать-то&#160;нечего. Тебе ведь сказал Скобин, что&#160;до них (причем усы мотнули головой на&#160;меня) не&#160;покажет зверя, так, стало быть, что&#160;ж&#160;бы&#160;ты брать-то&#160;пошел?.. Да&#160;где&#160;же это он&#160;сам? Иван Тимофеич? А&#160;Иван Тимофеич? — кричат усы и&#160;улетучиваются.
+</p><p>— Позвольте с&#160;вами познакомиться, — протягивается ко&#160;мне белая, мясистая лапа с&#160;октавистым баритоном и&#160;ощутительным запахом перегорелого алкоголя, и&#160;предо мною вместо исчезнувших усов вырастает гладко выбритое круглое лицо с&#160;погонами на&#160;плечах форменного вицмундира. — Местный становой пристав здешнего уезда, — говорит оно и&#160;быстро переходит в&#160;ласково-игривый тон. — Вот, батенька, какие времена настали, в&#160;своем кутке власти нет… Скобин говорит: «Не дам вам зверя, пока не&#160;подъедет мой знакомый, — и&#160;кончено». Вот мы&#160;вас и&#160;ждем, третий день ждем… я&#160;уж сегодня пять пулек сыграл… Что&#160;с&#160;ним поделаешь? Такой он&#160;у нас набалованный парень — либерал! Просто либерал Тимофеич? Я&#160;его так и&#160;величаю, — сострил вицмундир и&#160;сам, обрадовавшись своей остроте, залился добродушным хохотом.
+</p>
+<div class="mw-heading mw-heading4"><h4 id="IV">IV</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=4" title="Редактировать раздел «IV»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В&#160;это время ко&#160;мне подошел очень красивый мужчина с&#160;светло-русыми волосами, подрезанными в&#160;скобку, разделявшуюся посредине лба в&#160;обе стороны крупными кольцами красивых кудрей; свеженькаая, темная бородка только что&#160;запушила края его щек, а&#160;верхняя губа начала оттеняться густыми, мягкими усами. На&#160;нем была синяя суконная поддевка и&#160;щегольские козловые сапоги, в&#160;которые мягкими складками уходили широкие плисовые шаровары. Розовая рубаха с&#160;высоким косым воротом, видневшаяся из-под&#160;распахнутой поддевки, довершала костюм. Вообще, вся его мужественная и&#160;замечательно стройная фигура вполне Представляла образцовый тип чисто русской красоты и&#160;молодецкой силы.
+</p><p>Ко&#160;мне он&#160;подошел как&#160;хозяин и, радушно приветствуя меня, предложил, указывая на&#160;стол с&#160;закуской: «Погреться с&#160;дороги, чем бог послал…»
+</p><p>При&#160;одном взгляде на&#160;эти синие умные глаза, а&#160;главное, при&#160;первом звуке его голоса я&#160;без всякой рекомендации сейчас&#160;же узнал давно и&#160;далеко случайно встреченного мною одного из&#160;охотников, замечательно дельного в&#160;охоте по&#160;перу и&#160;до дерзости смелого по&#160;зверю… Этому охотнику и&#160;тогда еще очень хотелось побывать со мною на&#160;медвежьей охоте, но&#160;не удалось, и&#160;он тогда&#160;же, шутя, дал мне слово, что&#160;рано или&#160;поздно, а&#160;уж мы&#160;с ним сходим на&#160;медведя… Вскоре затем я&#160;потерял его из&#160;вида, а&#160;впоследствии совсем забыл и&#160;о самой нашей встрече.
+</p><p>И&#160;вот, точно сбывшийся сон, стоял здесь передо мною этот действительно мой старый знакомый, но&#160;уже не&#160;молодой парень, а&#160;вполне сложившийся мужчина, по-своему деловой человек — волостной писарь, на&#160;которого за&#160;его письменную удаль и&#160;солидную жизнь богатый и&#160;почтенный волостной старшина, как&#160;говорится, не&#160;надышится.
+</p><p>— Ба! Иван Тимофеич!.. Какими судьбами?.. Вот не&#160;ожидал… Ну, здравствуй, милый человек!.. Как&#160;поживаешь?.. — заговорил я, здороваясь с&#160;ним, столько&#160;же удивленный, столько и&#160;обрадованный этой встречей.
+</p><p>— Да&#160;вот-с, как&#160;сами видите, помаленьку, живем, пока бог грехам терпит…
+</p><p>— Верен&#160;же ты, друг, как&#160;я вижу, на&#160;своем слове, верен… Позвал&#160;же на&#160;медведя, да&#160;еще с&#160;каким сюрпризом… Ну, спасибо тебе за&#160;добрую память…
+</p><p>— Помилуйте, не&#160;за что. Много вам благодарны, что&#160;не отказались… ведь проехали неблизко!.. — И&#160;его красивое лицо выразило неподдельную улыбку полнейшего удовольствия, затем, припоминая подробности нашей первой с&#160;ним встречи, мы&#160;весело разговорились.
+</p><p>В&#160;комнате появилось новое для&#160;меня лицо, сам хозяин — волостной старшина Дмитрий Савелич по&#160;прозванию Закат — высокий, благообразный старик с&#160;библейским выражением на&#160;лице и&#160;с длинной окладистой бородою, совсем белою на&#160;концах. Осанистый без&#160;важности и&#160;почтительный без&#160;унижения, он&#160;очень радушно принимал своих гостей и, услыша мой отказ от&#160;выпивки, немедленно распорядился, чтобы мне подали чаю.
+</p><p>Между тем прерванная моим появлением игра и&#160;беседа вскоре завязались вновь. Вновь послышались отрывочные возгласы игроков, добивающих бесконечную пульку: «Семь бубны»… «вист один»… «прошу втемную»… и&#160;тому подобные. Кто не&#160;участвовал в&#160;игре, толковал об&#160;охоте; комические и&#160;трагические анекдоты и&#160;действительные случаи из&#160;полевой жизни так и&#160;сыпались кругом с&#160;приличными комментариями каждого. Каждому хотелось говорить, рассказывать на&#160;известную тему: если не&#160;о своих собственных деяниях, то&#160;хоть о&#160;подвигах знакомой собаки… Но&#160;в&#160;то&#160;же время почти все не&#160;забывали частенько навещать передний угол с&#160;вдохновляющею влагой. В&#160;комнатке становилось шумно и&#160;жарко.
+</p><p>Незаметно отделившись от&#160;общества, мы&#160;с Иваном Тимофеевичем уселись в&#160;сторонке, и&#160;я принялся за&#160;чай, которым меня угощала родная дочка Дмитрия Савелича, Аленушка.
+</p><p>Как&#160;сейчас гляжу на&#160;это живое олицетворение народной похвалы: «кровь с&#160;молоком»… и&#160;в самой поре девического возраста. Яркая брюнетка с&#160;большими темно-серыми глазами и&#160;густыми, необыкновенно подвижными бровями. Стройно держится на&#160;ней цветистый русский сарафан с&#160;широкими и&#160;высоко подобранными рукавами кисейной рубахи, на&#160;голове алеет шелковая косыночка, заколотая у&#160;подбородка, а&#160;из-под&#160;этой косыночки ползут назад ее роскошные черные косы, и&#160;только пониже пояса оканчиваются они&#160;затейливыми бантиками из&#160;красной ленточки.
+</p><p>С&#160;поклоном деревенской грации и&#160;с едва слышным «пожалуйте-с» всякий раз становилась она передо мной, держа в&#160;руках поднос, на&#160;котором даровал горячий чай, стояли сливки, лежала кучка свежих баранок и&#160;лимон, и&#160;я поневоле как-то&#160;дольше обычного принимал от&#160;нее стакан (вероятно, все размышляя, чего&#160;бы&#160;захватить к&#160;чаю).
+</p><p>— Вам не&#160;угодно&#160;ли&#160;варенья? — спросила она меня. — У&#160;нас есть брусника в&#160;сахаре и&#160;малина есть, я&#160;сейчас подам… — Но&#160;тут&#160;же, взглянув на&#160;моего соседа, зарделась и&#160;сама что&#160;твоя ягодка под&#160;росою… а, вследствие этого, воспользовавшись предлогом, она так быстро скользнула за&#160;дверь, что&#160;я уже вслед поблагодарил ее за&#160;предложение и, не&#160;любя ничего сладкого, однако ж, попросил зачем-то&#160;малины.
+</p><p>— Петька! ей!! Петька!.. — раздается между прочим веселый голос из-за&#160;карточного стола. — Слышал историю-то? Семь, без&#160;трех отладил — вот ты и&#160;восчувствуй, моя дорогая.
+</p><p>— Валяй, Федя! — откликается кто-то&#160;из угла, занятый там поглощением французской водки. — Валяй, дружище, в&#160;мою голову, все свезем — на&#160;то у&#160;нас с&#160;тобой и&#160;компания.
+</p><p>И&#160;затем этот компаньон, покрякивая от&#160;выпивки и&#160;утирая бороду, -направляется к&#160;нам и&#160;начинает убедительно приставать к&#160;моему собеседнику.
+</p><p>— Иван Тимофеич, спой хоть одну за&#160;весь вечер, а? Разуважь, друг! Хвати тройку серо-пегих!.. Я&#160;гитарку подам, а?..
+</p><p>Но&#160;Иван Тимофеич не&#160;слышит или&#160;только притворяется, что&#160;не слышит этой просьбы, и&#160;заводит со мною деловую речь о&#160;применении в&#160;действие (тогда еще нового) устава о&#160;воинской повинности.
+</p><p>— Да&#160;ну ее к&#160;богу, эту повинность, сказано — нас не&#160;возьмут, и&#160;шабаш! Голубчик, одолжи! Хоть одну-то&#160;за вечер, — подвигаясь к&#160;нам и&#160;подсовывая гитару, пристает подгулявший господин, называемый Петькой.
+</p><p>— Нет, уж увольте, пожалуйста, — степенно отнекивался Иван Тимофеич, которому, надо полагать, успели вдоволь надоесть вся эта компания и&#160;всякие песни на&#160;их потеху,
+</p><p>— Друг, облагодетельствуй! Только одну: серо-пегих на&#160;заре — и&#160;кончено… Больше и&#160;просить не&#160;стану…
+</p><p>— Хорошо-с, я&#160;после, — отделывается отсрочкой Иван Тимофеич, и&#160;довольный проситель успокоивается обещанием.
+</p><p>В&#160;таком порядке и&#160;идет весь вечер.
+</p><p>Под&#160;конец совсем уже осоловевший любитель пения снова лезет к&#160;Ивану Тимофеичу и&#160;на этот раз, поддержанный прочей братией, добивается своего. Иван Тимофеич взял гитару и, удалившись в&#160;угол комнаты, поместился на&#160;стуле, слегка попробовал строй, переложил ногу на&#160;ногу и, встряхнув своими кудрями, взял несколько бойких цыганских аккордов.
+</p><p>Аккорды стройно прозвучали и&#160;затихли… Петька с&#160;ожесточением зашикал на&#160;публику, те послушно начали смолкать, в&#160;дверях появилась Аленушка.
+</p><p>Послышалась тихая музыка, и&#160;вместе с&#160;ней сначала тоже тихо, словно подневольно, нехотя полилась одна из&#160;заунывных песен наших старинных ямщиков: «Не вечерняя то, братцы, заря спотухать рано стала…»
+</p><p>Пленительно хорошо и&#160;вместе как-то&#160;сразу грустно обхватила всех эта песня. Обхватила, понесла и&#160;закачала слух и&#160;душу каждого на&#160;волнах своих заветных звуков… Скоро прижукнувшиеся слушатели совсем поникли, а&#160;песня, постепенно разливаясь, все сильнее и&#160;сильнее давила их своим впечатлением вместе с&#160;словами прощальной тоски умирающего ямщика, как&#160;он посылает своим малым детушкам «благословеньице», молодой жене — «бракоразрешеньице»! Всем было невыразимо хорошо, но&#160;жутко, тяжело, и&#160;плакать всем хотелось…
+</p><p>Последние слова песни певец ловко закончил переливистым, настоящим россейским подголоском и, как&#160;будто далеко-далеко отделившись, тихо замер со всеми своими звуками где-то&#160;там, в&#160;неведомой дали… Очарование вышло полное! Все общество задыхалось от&#160;душевного волнения и&#160;в самых разнообразных позах надолго окаменело в&#160;немой картине. Но&#160;замечательнее всех из&#160;этой группы обрисовались две фигуры в&#160;стороне: это пробравшийся на&#160;цыпочках во&#160;время пения к&#160;столу с&#160;закуской становой и&#160;перед ним сам старшина — Дмитрий Савелич. Первый, с&#160;налитою рюмкой в&#160;одной руке и&#160;многозначительно поднявши вверх другую, неподвижно стоял, склонивши набок голову, и&#160;всем своим видом как&#160;бы спрашивал у&#160;остального общества: «Каков голосок?..» А&#160;последний, безмолвно ответствуя на&#160;этот вызов, совсем закрыл глаза от&#160;удовольствия и, придерживая сложенными на&#160;животе перстами свой халат, только равномерно покачивал головою и&#160;словно&#160;бы&#160;тянул свое бесконечное: н-н-да-с, ра-зу-ва-жил-с!!.
+</p><p>На&#160;полу сидел Петька и, крепко запустивши руки в&#160;свои волосы, заливался горькими слезами…
+</p>
+<div class="mw-heading mw-heading4"><h4 id="V">V</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=5" title="Редактировать раздел «V»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Прихвативший за&#160;ночь легонький морозец поднастил талый снежок, и&#160;образовавшаяся на&#160;верхнем его слое корка представляла удобную ходьбу на&#160;лыжах. Охотники очень дорожат этим «черепком» и&#160;всегда спешат воспользоваться им до&#160;солнечного пригрева, легко его растопляющего, а&#160;потому компания поднялась очень рано и&#160;под предводительством окладчика Терентия двинулась в&#160;лес в&#160;самую пору, когда на&#160;небе еще и&#160;не брезжилась утренняя зорька; только я&#160;сверх обыкновения, заспавшись с&#160;дороги, опоздал настолько, что&#160;приходилось одному догонять охоту уже на&#160;пути, для&#160;меня задержался и&#160;Иван Тимофеич.
+</p><p>Хлебнувши наскоро чайку и&#160;не внимая его успокоительным «успеем» и «догоним», я&#160;суетливо собирался и&#160;скоро был готов. Когда мы&#160;с ним выходили на&#160;крыльцо, чтобы садиться ехать, на&#160;дворе все еще было темно, так что, проходя сенями, я&#160;едва мог рассмотреть женскую фигуру в&#160;меховой шубейке, наскоро накинутой в&#160;один рукав, и&#160;в большом платке, покрытом с&#160;головою. Фигура, прижавшись, стояла у&#160;притолоки сенной двери, и, когда мы&#160;поравнялись с&#160;нею, чуть слышно раздались слова: «Что&#160;же вы, Иван Тимофеич, так и&#160;поедете, ничего с&#160;собой не&#160;взявши?» Я&#160;узнал голос Аленушки… Иван Тимофеич тоже полушепотом что-то&#160;весело ответил на&#160;ее вопрос и&#160;на несколько мгновений задержался с&#160;нею.
+</p><p>У&#160;крыльца, неспокойно переминаясь в&#160;ожидании седоков, стояла большая раскормленная лошадь, запряженная в&#160;сани с&#160;затейливо расписанным задком, а&#160;перед ней, запустив руки под&#160;мышки своего дырявого армяка, почесывался всем телом полусонный, взъерошенный работник, и, громко зевая, он&#160;как-то&#160;в одно время и&#160;молитву творил, крестя свой рот, и&#160;принимался ругаться с&#160;лошадью за&#160;ее нетерпеливые движения.
+</p><p>Вырвавшись из&#160;темноты сеней, Иван проворно вскочил в&#160;сани и&#160;сам взялся за&#160;вожжи.
+</p><p>— Что&#160;же ты ружье-то&#160;не взял? — спросил я&#160;у него.
+</p><p>— На&#160;что&#160;оно мне? Там и&#160;без меня будет кому палить.
+</p><p>— Ну, хоть&#160;бы&#160;рогатину про&#160;случай захватил.
+</p><p>— А&#160;рогатину, если понадобится, и&#160;там найдем…
+</p><p>— Ну как&#160;знаешь…
+</p><p>Лошадь начала переходить на&#160;крупную рысь. Резкий утренничек, окончательно сгоняя ночную дремоту, пронизывал нас своею прохладой и&#160;слегка похватывал за&#160;открытые уши. По&#160;деревне тянуло горьким дымом сжигаемой соломы, перекликались знакомые петухи, и&#160;кое-где на&#160;задворках начинали поскрипывать ворота; в&#160;высоте над&#160;нами ярко горели звезды…
+</p><p>Когда мы&#160;немного отъехали, я, как&#160;бы размышляя про&#160;себя, заговорил:
+</p><p>— А&#160;молодец девушка эта, Алена Дмитриевна… Промолчал Иван, словно не&#160;слышал моего голоса.
+</p><p>— Славная из&#160;нее будет хозяйка и&#160;добрая жена, — продолжал я&#160;в том&#160;же тоне.
+</p><p>Отмолчался й на&#160;этот раз мой спутник, только закашлялся как-то&#160;подозрительно, точно ему табак в&#160;горло попал.
+</p><p>«Эк тебя пришибло…» — подумал я, и&#160;почему-то&#160;мне непременно захотелось допытаться от&#160;него ответа.
+</p><p>— Правду я&#160;говорю, Иван Тимофеич, или&#160;нет?
+</p><p>— Это насчет чего-с? — притворился он, наконец отзываясь.
+</p><p>— Да&#160;вот насчет Алены Дмитриевны! Милый она, на&#160;мой взгляд, человек.
+</p><p>— Это без&#160;сомнения-с… И&#160;сам Дмитрий Савелич об&#160;этом ведает не&#160;хуже нашего, потому и&#160;цену им полагает настоящую, высокую цену.
+</p><p>— Как&#160;цену?.. Для&#160;кого&#160;же это?
+</p><p>— Да&#160;уж известно, не&#160;для нашего брата, пустоцвета… А&#160;вот в&#160;Петрозаводске у&#160;него приятель есть, лесом промышляет, сказывают, тысяч на&#160;сто в&#160;год обороту ведет, так за&#160;него дочку-то&#160;сплавить норовит нынешней весной — даром что&#160;тот ему в&#160;ровесники годится и&#160;с полдюжины своих ребят имеет.
+</p><p>— Да&#160;как&#160;же это!.. А&#160;ты-то? — сорвалось у&#160;меня.
+</p><p>— Что&#160;ж я-то? Я&#160;тут ни&#160;при чем… Нужный я&#160;Закату человек, вот он&#160;меня и&#160;поблажает, для&#160;своей&#160;же пользы дорожит мною. А&#160;ежели что — так он&#160;без горя распрощается со мною.
+</p><p>— Ну а&#160;она-то&#160;как&#160;же?
+</p><p>— А&#160;что&#160;же она может поделать, против отцовской власти нешто кто пойдет? Так и&#160;ее дело,..
+</p><p>Разговор прекратился, Иван задумался, а&#160;лошадь все бежала машистой рысью, и&#160;мы споро подвигались вперед.
+</p><p>— Велик зверь-то&#160;в обкладе? — спросил я, желая отвлечь его от&#160;горьких дум.
+</p><p>— Медведица крупная и&#160;с тремя детками.
+</p><p>— Почему&#160;же известно, что&#160;с тремя?
+</p><p>— Да&#160;уж вылезать начинают теперь — дело к&#160;весне идет, — около берлоги пображивают. Терентий на&#160;проверку ходил, так по&#160;следам сосчитал.
+</p><p>Проехав версты две по&#160;бойкой дороге, мы&#160;свернули в&#160;лес на&#160;неторный следок, проложенный нашими охотниками. Тяжелая лошадь начала просовываться в&#160;рыхлый снег, глубоко грузла в&#160;нем всеми ногами и, выбиваясь, оборвала на&#160;себе шлею… Перед&#160;нами занималась заря, и&#160;недалеко впереди уже виднелась растянувшаяся процессия наших.
+</p><p>Вдруг там что-то&#160;случилось, все заметались, загомонили, и&#160;общая тишина сразу нарушилась.
+</p><p>Охотники, выправляя на&#160;ходу свои ружья, суетливо рассыпались по&#160;разным сторонам. Впереди громыхнул дуб летный выстрел, и&#160;ему в&#160;ответ по&#160;высокому лесу гулко прокатился свирепый медвежий рев.
+</p><p>— Вот ведь, так и&#160;думал, что&#160;переполошат раньше времени… Эх вы, черти болухманные!!! — неизвестно кого выругал Иван Тимофеевич, сдавая к&#160;общему обозу свою лошадь, и, наскоро пристроив лыжи, мы&#160;с ним кинулись влево по&#160;густому мелколесью.
+</p><p>— Как&#160;думаешь, уйдет? — спросил я, стараясь не&#160;отставать от&#160;него на&#160;ходу.
+</p><p>— Навряд&#160;бы&#160;ей уйти, деток не&#160;должна сразу бросить, надо поспевать…
+</p><p>Впереди нас через&#160;молодой низкий ельник высились огромные, раскидистые сосны, и&#160;оттуда доносился людской оживленный говор вместе с&#160;заливистым собачьим лаем. Казалось, и&#160;недалеко, но&#160;на берложных охотах в&#160;этой лесистой и&#160;обильной снегом местности чаще: всего случается попадать в&#160;такое положение, что&#160;отчетливо слышишь все голоса и&#160;прочие звуки общей тревоги, а&#160;самого тебя не&#160;допускает какой-нибудь ненавистный взлобок и&#160;неприменимые на&#160;нем лыжи — ни&#160;видеть дела и&#160;ни участвовать в&#160;нем… Самое это мучительное состояние для&#160;охотника, и&#160;как раз в&#160;таком положении были мы&#160;с Иваном, стараясь как&#160;можно скорее пробиться к&#160;желанному месту.
+</p><p>Вскоре навстречу нам попался запыхавшийся бегущий мужичок в&#160;распоясанном армяке и&#160;без шапки. Он&#160;шибко улепетывал назад, таща за&#160;собою длинную рогатину; его взмокший под&#160;всклокоченными волосами лоб, побелевшее лицо и&#160;как-то&#160;странно, сама собою трясущаяся борода выражали крайнюю степень его отчасти комического, но&#160;вместе и&#160;очень сильного испуга.
+</p><p>— Эй!.. Андрюха, что&#160;там случилось? — окликнул его Иван.
+</p><p>— Ох, чутоньку не&#160;съела, Иван Тимофеич, да&#160;спасибо, скоро ушла. Упустили самоё-то, только детки застались… Ах, ох, ох!..
+</p><p>— Так, это есть за&#160;что благодарить, — проворчал Иван Тимофеич. — А&#160;ты-то&#160;куда удираешь?
+</p><p>— Да&#160;вот шапку потерял, провались она совсем… — очевидно, сбрехал мужичок и&#160;задвигался было своим следом.
+</p><p>— Андрей, дай-ка мне рогатину-то, ты с&#160;своей шапкой, може, и&#160;без нее справишься.
+</p><p>Мужик нехотя вернулся и, конфузливо отдавая рогатину, опять было затянул свое: «Да&#160;упустили, Иван Тимофеич, как&#160;есть, совсем ушла».
+</p><p>— Ну, ладно, поспешай к&#160;обозу-то, а&#160;то, неровен час — догонит… — И&#160;мужичок, расшатываясь на&#160;лыжах, покатился действительно к&#160;тому месту, где стояли наши лошади.
+</p><p>Наконец мы&#160;выбились на&#160;редколесье и&#160;скоро очутились в&#160;середине разбросанной группы мужиков и&#160;охотников. Все они&#160;шумно потешались над&#160;тем, как&#160;молодой, еще совсем серый медвежонок, одуревший от&#160;общего гама, пугливо совался в&#160;разные стороны по&#160;чистине и, неловко перетраивая своею словно спутанной побежкой, наискивал местечка, как&#160;бы юркнуть хоть под&#160;снеговой субой. За&#160;ним с&#160;самым уморительным видом ныряла по&#160;снегу моя лайка: то, цепляясь за&#160;пальцы его задних ног, она тащилась в&#160;таком положении, усиливаясь остановить зверя, то&#160;перекувыркиваясь вместе, они&#160;оба по&#160;уши зарывались снегом и&#160;все-таки продолжали свое дело. Медвежонок по&#160;временам вырывался, садился и&#160;грозно фурскал на&#160;собаку, а&#160;безотвязная лайка взвизгивала от&#160;злости и&#160;снова кидалась к&#160;нему…
+</p><p>— В&#160;жмурки, в&#160;жмурки играют!.. Эх! чертенок — опять вырвался!!. — ревели людские голоса. И&#160;действительно, тут выходило что-то&#160;очень похожее на&#160;эту детскую игру. Немного далее с&#160;другим братишкой этого младенца, накрывая его всею своей тяжестью, кончал озлобившийся меделян, а&#160;в стороне лежал уже бездыханный труп третьего… Вполне довольная публика гоготала от&#160;удовольствия.
+</p><p>Однако эта всех потешающая сцена не&#160;вызвала даже и&#160;Улыбки на&#160;лицо истинного охотника Ивана. Едва удостоив взглядом эту ребячью потеху, он&#160;только спросил, не&#160;обращаясь ни&#160;к кому в&#160;особенности: «Где&#160;же сама-то&#160;пролезла?»
+</p><p>В&#160;ответ загалдело по&#160;обыкновению разом несколько голосов, из&#160;которых только с&#160;трудом можно было разобрать, что&#160;медведица, раненная общим залпом при&#160;первом появлении, ушла «вон туда», проломившись прямиком «вон там по&#160;чащуге», — причем по&#160;воздуху махалось несколько рук и&#160;указывалось несколько совсем различных направлений.
+</p><p>— А&#160;где Терентий? — поинтересовался Иван, и&#160;ему по-прежнему целым хором отвечали, что&#160;Терентий увязался за&#160;ней и&#160;больше уж не&#160;показывался.
+</p><p>— Не пойдет от&#160;детей, здесь запала… — вслух размышлял про&#160;себя Иван Тимофеич и, вскинув на&#160;плечо рогатину, молча направился проследить звериный лаз.
+</p><p>Я, разумеется, потянулся за&#160;ним&#160;же, а&#160;за мной на&#160;посвист сначала подвалилась моя лайка, а&#160;потом пришел и&#160;меделян; уставшие от&#160;возни собаки, высунув языки, тяжело носили боками и&#160;постоянно похватывали на&#160;ходу снег.
+</p><p>Немного пройдя, нам стали попадаться кровавые капли на&#160;следу зверя, и&#160;вскоре этот след вывел нас на&#160;чистую котловину мшарного болота, по&#160;которому из-под&#160;густых наносов снежной массы изредка виднелись небольшие куржастые верхушки чахлых сосенок и&#160;местами торчали громадные пни давно сгнившего леса. Небольшое болотце кругом, как&#160;в рамке, окаймлялось густой зарослью молодого ельника, а&#160;за ним далее высоким темным бором.
+</p><p>По&#160;напутанным следам было очевидно, что&#160;зверь не&#160;один раз вывертывался на&#160;эту чистину и, судя по&#160;крови, сильно раненный проходил тут в&#160;разных направлениях.
+</p><p>Пока мы&#160;разбирали петли, стараясь определить из&#160;щх последний выход, в&#160;недальнем расстоянии от&#160;нас протянулся тихий сигнальный свист, которым обыкновенно перекликаются охотники, находясь в&#160;близком присутствии зверя, — и&#160;на лесной опушке показалась тщедушная фигура Терентия. Должно быть, чересчур согревшись от&#160;ходьбы, он&#160;раскидался по&#160;дороге и&#160;теперь стоял на&#160;лыжах только в&#160;одной холщовой синей рубашке и&#160;шерстяной фуфайке, натянутой на&#160;нем в&#160;обхват, как&#160;трико на&#160;акробате. Стоя на&#160;месте, он&#160;хотя и&#160;знаками, но&#160;совершенно ясно показывал нам, что, сделав обход, не&#160;нашел выхода зверя и&#160;что зверь должен быть здесь. Эта пантомима вдруг прервалась самым отчаянным лаем наших собак, недалеко от&#160;нас, в&#160;чаще наткнувшихся взрячь на&#160;зверя, а&#160;вслед затем, с&#160;треском и&#160;ревом ломая по&#160;пути сухой валежник, выкатилась из&#160;леса лохматая темная масса и&#160;в виду нашем припала на&#160;брюхо у&#160;снегового субоя.
+</p><p>На&#160;светлом поле чистого снега отчетливо выказались темные формы огромной медведицы во&#160;всей ее свирепой, страшной красоте… Около нее, как&#160;сама воплощенная ярость, в&#160;полнейшем азарте вертелись наши собаки.
+</p><p>Терентий, как&#160;ближе нас стоявший, первый покатился к&#160;зверю, держа наперевес свою рогатину, при&#160;этом мне послышалось, что&#160;он даже взвизгнул: надо полагать, что&#160;и на&#160;него нашел азарт не&#160;хуже собачьего… Но&#160;тут за&#160;быстротою действий я&#160;не мог хорошо рассмотреть, как&#160;случилось такое обстоятельство: почти в&#160;один момент рогатина Терентия, описывая дугу в&#160;воздухе, полетела в&#160;одну сторону, а&#160;сам он, зарываясь снегом, буквально катком покатился в&#160;другую. Свирепый рев барахтавшейся по&#160;снегу медведицы и&#160;неистовый вопль лезущих на&#160;нее собак завершили достойным хором всю эту быструю сцену.
+</p><p>— Вот как&#160;ловко перебирает, — похвалил Иван Тимофеич зверя, без&#160;малейшего смущения вглядываясь в&#160;эту схватку.
+</p><p>— Поберегите-ка заряд, может, я&#160;один с&#160;ней управлюсь, — проговорил он&#160;мне и&#160;ровными, неторопливыми шагами двинулся вперед, мелькая передо мною широкою спиной своей новенькой дубленки.
+</p><p>Но&#160;не&#160;успел он&#160;пройти и&#160;половины расстояния, отделявшего его от&#160;места боя, как&#160;навстречу ему, оскалив свою страшную пасть и&#160;выставляя блестящие, вершковые зубы, со вздыбленною шерстью и&#160;плотно прижатыми ушами, свертываясь клубом, кинулась медведица — сама… И&#160;тут мне впервые довелось воочию увидеть, как&#160;люди в&#160;одиночку принимают медведя на&#160;рогатину.
+</p><p>Заметя наступательное движение зверя, охотник остановился и, подавшись в&#160;сторону, слегка прислонился к&#160;ближайшему пню, соскочил с&#160;лыж, выправил рогатину и, по-видимому, спокойно ожидал напора.
+</p><p>Не добежав нескольких шагов на&#160;четвереньках, медведица с&#160;ужасающим ревом поднялась на&#160;задние лапы и, с&#160;пеной у&#160;рта простирая объятия, полезла на&#160;охотника, но, ловко (по&#160;месту<sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>) встреченная рогатиной, наткнулась на&#160;острие железа, рявкнула, навалилась еще сильнее, и&#160;вслед за&#160;тем оба, охотник и&#160;зверь, начали вместе опускаться вниз, словно стоя тонули в&#160;снегу… Какой-то&#160;черный лоскут взметнулся вверх над&#160;ними…
+</p><p>Хотя все это происходило не&#160;далее тридцати шагов перед&#160;моими глазами, но&#160;в первый момент мне представилось, что&#160;она уже смяла охотника и&#160;сидит на&#160;нем, и&#160;я едва удержался от&#160;рискованного выстрела по&#160;зверю в&#160;этой почти слившейся группе. Только подойдя ближе, я&#160;рассмотрел, что&#160;Иван опу стился на&#160;одно колено и&#160;крепко нажимает этим коленом древко рогатины, не&#160;допуская его еще глубже уходить в&#160;рыхлый снег, а&#160;наткнувшийся на&#160;рогатину зверь налегает всем передом на&#160;оружие, стараясь через&#160;него достать когтями охотника.
+</p><p>Держа обеими руками рогатину, Иван всем корпусом откинулся назад и, сколько мог, отворачивал в&#160;сторону свое лицо, спасая его от&#160;когтей зверя; справа от&#160;него лежала на&#160;снегу сбитая шапка, а&#160;из левой щеки его каплями струилась по&#160;полушубку кровь.
+</p><p>Темная, пенистая кровь из&#160;широкой раны в&#160;груди зверя толстой струей бежала по&#160;древку рогатины и&#160;обливала руки охотника; зверь хрипел и&#160;захлебывался, но&#160;все еще продолжал наседать на&#160;рогатину… «В&#160;ухо…» — не&#160;сводя своих глаз с&#160;потухающих зрачков зверя, проговорил мне Иван, но&#160;таким каким-то&#160;странно беззвучным голосом, что&#160;я невольно в&#160;это мгновение взглянул на&#160;его лицо: очень красивое и&#160;всегда с&#160;милым выражением, теперь оно страшно искривилось какою-то&#160;неестественной улыбкой, жестокой, нехорошей…
+</p><p>Мой выстрел в&#160;упор по&#160;голове зверя покончил эту драму; голова, качнувшись от&#160;удара в&#160;бок, тихо склонилась книзу, а&#160;Вытянутые вперед лапы, точно сразу пересеченные, бессильно повисли. Иван выпустил из&#160;рук рогатину и&#160;быстро отскочил в&#160;сторону с&#160;словами: «Ух!.. тяжелый черт какой!!!» Зверь медленно рухнулся ничком в&#160;снег, и&#160;по его спине волнообразно зашевелилась шерсть — несомненный признак агонии…
+</p><p>К&#160;нам подскочил успевший оправиться Терентий и&#160;с умилением глядел поочередно то&#160;на издыхающего медведя, то&#160;на самого Ивана Тимофеича, поднял его шапку и, заботливо отряхая с&#160;нее снег, с&#160;какой-то&#160;совсем уж блаженною улыбкой приговаривал:
+</p><p>— Важно! Иван Тимофеич, ей-богу — важно!!.
+</p><p>— Ух! Да&#160;какой&#160;же тяжелый, — все повторял Иван, вытирая снегом свои окровавленные руки. И&#160;только теперь заметив кровь на&#160;груди своего полушубка, он&#160;провел рукою себя по&#160;лицу, с&#160;удивлением посмотрел на&#160;испачканную ладонь, снова приложил ее к&#160;лицу и&#160;вопросительно взглянул на&#160;нас, дескать: аль достал?..
+</p><p>— Ничего… Не совсем испортил, — успокоил я&#160;его насчет физиономии, по&#160;которой, однако ж, резко обозначались три кровавые полосы.
+</p><p>Терентий&#160;же тем временем с&#160;задором, весьма простительным для&#160;потерпевшего человека, повествовал о&#160;себе: как&#160;ён — к&#160;ему, а&#160;тот — зараз цап! — за&#160;палку, да&#160;и метнул, нечистая его сила! так что, ты — туды, а&#160;ён — себе, вон куды… Да&#160;котом, котом, словно кто с&#160;крутого порога в&#160;шею поднес.
+</p><p>Прочие охотники поспешно стягивались к&#160;нам. Пошел осмотр, говор, откуда-то&#160;появилась неизбежная бутылка, и&#160;над трупом пошла круговая в&#160;поминовение.
+</p><p>— Поедемте домой, — шепнул мне Иван Тимофеич, и, попросивши господ охотников не&#160;опаздывать ко&#160;щам, мы&#160;с ним по-прежнему отправились вдвоем; я&#160;правил лошадью, а&#160;он придерживал у&#160;лица мокрый платок. На&#160;крыльце в&#160;числе прочих встретила нас Аленушка; бедненькая, она так рыбкой и&#160;затрепетала, когда увидела своего дружка раненым.
+</p><p>— Ваня, желанный мой! Что&#160;же это с&#160;тобой, — вырвалось у&#160;неё при&#160;всех.
+</p><p>— Ничего, Алена Дмитриевна! Как&#160;есть — ничего… Маленько зубы заболели, — успокоил он&#160;ее, улыбнулся ей по-своему тепло таково и&#160;поспешил пройти в&#160;комнаты.
+</p><p>Часа через&#160;два прибыла остальная охота и&#160;привезли зверей. Пошли общие рассказы, началась безобразная выпивка, веселый говор, приятельский шум… я&#160;стал собираться домой, обещая Ивану приехать к&#160;нему в&#160;августе на&#160;стрельбу тетеревей.
+</p>
+<div class="mw-heading mw-heading4"><h4 id="VI">VI</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=6" title="Редактировать раздел «VI»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Спустя месяцев пять, в&#160;самый развал тетеревиной стрельбы по&#160;выводкам вспомнил я&#160;свое обещание навестить Ивана Тимофеича и&#160;направился охотой в&#160;его сторону с&#160;ружьем и&#160;собакой, но, по&#160;обыкновению, мелочами да&#160;лядинами, яровыми, да&#160;болотцами, и&#160;на третий день подбились мы&#160;с Гризеткой до&#160;того, что&#160;не только ходить, но&#160;даже и&#160;ехать дальше не&#160;хотелось, не&#160;хотелось и&#160;домой возвращаться, не&#160;повидавшись с&#160;старым знакомым. Расположился я&#160;передневать в&#160;деревушке по&#160;пути и&#160;завернул в&#160;первый попавшийся двор.
+</p><p>Время стояло рабочее, весь народ выбрался в&#160;поле, в&#160;жилье — безлюдье, тишь… Одни только малые ребятишки от&#160;скуки дерутся между собой, да&#160;они&#160;же и&#160;горланят с&#160;голода… Изредка кое-где в&#160;роли хозяйки ворчит на&#160;них почти недвижимая от&#160;хворобы баба или&#160;умирающая от&#160;дряхлости старуха. Масса мух всюду носится докучными роями и&#160;безотвязно липнет ко&#160;всему — жар, пекло… Сухой, горячий воздух нестерпимо давит на&#160;дворе, несносные мухи и&#160;горластые ребятишки не&#160;дают возможности взойти в&#160;хозяйскую избу, пришлось убраться под&#160;навес сарая.
+</p><p>С&#160;горем пополам добился я&#160;самовара, разостлал свою безответную верблюжью чуйку и&#160;при температуре в 25R тепла принялся прохлаждаться над&#160;горячим кипятком… Тут&#160;же подле меня крепко заснула моя утомившаяся собака и&#160;громко бредила во&#160;сне, судорожно подергивая передними ногами. Начинают слышаться голоса.
+</p><p>— Так собака желтая, ты говоришь? — спрашивает мужской голос.
+</p><p>— Желтая, желтая… — отвечает закашлявшаяся баба.
+</p><p>— Что&#160;же ён так один там и&#160;сидит себе?
+</p><p>— Один, как&#160;есть, один, чай хлебает… Подь к&#160;ему, коли знакомый, подь, кормилец.
+</p><p>— Ну, коли желтая собака, так бесприменно ён и&#160;есть… — рассуждает уже в&#160;одиночестве голос мужика и&#160;направляется в&#160;мою сторону.
+</p><p>— Чай и&#160;сахар, чести вашей!.. — приветствует он, останавливаясь передо мною и&#160;снимая шляпу, глядит, ухмыляется. — Что, небось не&#160;взгадаешь?..
+</p><p>— Нет, брат, что-то&#160;запамятовал, — сознаюсь я, не&#160;в состоянии будучи сразу сообразить, где&#160;бы&#160;я видел эту курносую рожу, но, как&#160;во сне, мне припоминается, что&#160;именно эта самая рожа когда-то&#160;уже глядела на&#160;меня и&#160;именно так&#160;же нахально, плутовато, как&#160;и теперь.
+</p><p>— А&#160;помнишь, медведку-то&#160;брали с&#160;Иваном Тимофеичем в&#160;амшарном болоте?
+</p><p>— Терентий!!.
+</p><p>— Самый я&#160;и есть… — осклабился мужик и&#160;преважно протянул мне свою растопыренную пятерню.
+</p><p>— Какими путями? Ах, милый человек! Рассказывай, как&#160;меня нашел?
+</p><p>— Да&#160;по&#160;делу был тутотка, недалеко (он&#160;назвал местность). Вечор заехал на&#160;Торжок, там мужики и&#160;сказывают, что&#160;видали какой-то&#160;барин-лесовик проехал, охотой займается; желтая собака с&#160;им… и&#160;по обличию-то, как&#160;показывали, так ено выходит на&#160;тебя схоже… Вот я&#160;и страфил: не&#160;ён&#160;ли?.. — мекаю себе… А&#160;зараз завернул на&#160;деревню лошадь попоить, мне и&#160;двор ребятенки указали, где ты приставши, ну, вот я&#160;и зашел доглядеть: человек-то, мол, знакомый…
+</p><p>— Ну, спасибо, теплая душа, спасибо, что&#160;не забыл, садись, чайку попьем, да&#160;расскажи, как&#160;там ваши поживают, Иван Тимофеич что&#160;поделывает? Алена Дмитриевна здорова&#160;ли?
+</p><p>Терентий бережно опустил на&#160;землю свою черную поярковую шляпу с&#160;неизменною тряпицею внутри, вальяжно распахнул полы своего нового армяка, чем предъявил мне чистую белую рубаху и&#160;новые нестерпимо вонявшие дегтем сапоги, и&#160;умостился передо мною. Вообще, он&#160;имел вид праздничный и&#160;находился, как&#160;мне показалось, маленько в&#160;подпитии.
+</p><p>— Иван Тимофеич наш — ф-фю-ить… — начал он, вы разительно свистнув и&#160;махнувши рукой в&#160;пространство.
+</p><p>— Как, что&#160;такое?.. А&#160;Алена-то&#160;Дмитриевна, жива&#160;ли?
+</p><p>— Это Закатова дочка-то? Ах! уж не&#160;говори! Той доля еще хуже выпала…
+</p><p>— Да&#160;рассказывай толком, что&#160;там произошло!
+</p><p>— Да&#160;вот видишь, в&#160;Петровский мясоед ее выдали замуж, За&#160;богача ее приладил Закат, за&#160;петрозаводского торговца.... У&#160;нас на&#160;селе и&#160;свадьбу играли. Веселая была… И&#160;боже мой! какая веселая… Ден, почитай, шесть хороводились, все село скружилось от&#160;Закатовой водки… И&#160;счету нет, сколько этого самого винища сокрушили… Всякий подходи, пей, сколько влезет; так бочонки с&#160;корцами и&#160;стояли без&#160;запрету…
+</p><p>— Иван-то&#160;был на&#160;этой свадьбе? — перебиваю я&#160;розовые воспоминания моего рассказчика.
+</p><p>— Как&#160;же, во&#160;все время был. И&#160;такой это веселый: песнями заливается, что&#160;твоя пташка певчая звенит… На&#160;музыку примется гостей потешать — так вокруг его все и&#160;не отходят; горазд веселый был… Да&#160;однова утром хватились, а&#160;его след простыл… Туда, сюда, как, — мол, где? Шабаш! Как&#160;в&#160;воду канул — и&#160;по се два дни…
+</p><p>— Да, может, он&#160;и в&#160;самом деле того…
+</p><p>— Чего?.. Думаешь, взаправду пропал?..
+</p><p>— Помилуй бог! Такому&#160;ли&#160;молодцу без&#160;время пропадать… Пущай его живет, господь с&#160;им!
+</p><p>— Да&#160;ты-то&#160;почему знаешь, слух, что&#160;ли, какой о&#160;нем был?
+</p><p>— Нет, братец мой, зачем там слух, отколь ему и&#160;быть, а&#160;сам ён, значит, такое завещание оставил!..
+</p><p>— Как&#160;завещание?.. Кому?..
+</p><p>— А&#160;так, всем нам… На&#160;другой день опосля его полез, вишь, старшина-то&#160;в казенный сундук, ан — там шиш ночевал: двух тысячев — как&#160;и не&#160;бывало. Только наместо денег лежит расписочка от&#160;Ивана Тимофеича, его собственная расписочка… И&#160;повиняется он&#160;в этой самой расписочке всему нашему миру в&#160;своем деле. «Так и&#160;так, — говорит, — вы, — говорит, — крещеные, не&#160;обижайтесь на&#160;меня за&#160;это, потому не&#160;на вас эта беда рушиться должна, а&#160;что творю я&#160;ее ради кровопивца вашего — Заката, чтоб ему за&#160;погибель своей дочки и&#160;в доме так&#160;же было пусто, как&#160;в этом сундуке… Опять&#160;же насчет розысков обо мне, — тоже наказывает, — не&#160;затруждайтесь… Потому — не&#160;изловить вам меня, что&#160;вольного ветра в&#160;чистом поле»… С&#160;тем, значит, он&#160;всех и&#160;покинул… Галды-то&#160;галды что&#160;поднялось в&#160;ту пору и&#160;на селе и&#160;в Закатовой хате, — страсть!.. Да&#160;ведь что&#160;поделаешь?.. Погалдели, погалдели — да&#160;на том и&#160;съехали… Боле всех был разлютовавшись новый зятек Закатов; слышно, все кричал: «Своих двадцать тысячев дам, абы этого супостата поймать да&#160;в кандалы засадить»… Поглядел Закат в&#160;те поры на&#160;своего зятька, покачал головой да&#160;и говорит ему: «Нет, сватушка желанный, не&#160;казнить нам с&#160;тобой и&#160;не наказывать этого человека, потому удаль у&#160;негоя во&#160;всех делах есть необыкновенная, даже не&#160;людская»… С&#160;тем тот и&#160;спокойствие принял, а&#160;деньги, известно, Закат из&#160;своей мошны положил в&#160;казенный ящик… Вот он&#160;им какие похмелки справил, Иван-то&#160;Тимофеич… — злорадно засмеявшись, закончил Терентий и&#160;тут&#160;же почему-то&#160;вставил свое замечание: — А&#160;и&#160;певал&#160;же он&#160;хорошо… уж таково&#160;ли&#160;хорошо, что&#160;иной раз слушаешь, а&#160;самого тебя так вот слезой и&#160;прошибает.
+</p><p>— Ну, а&#160;с Аленушкой-то&#160;что&#160;же случилось? — спросил я.
+</p><p>— А&#160;вот что&#160;с ней приключилось: отыгравши это у&#160;нас свадебку честным манером, поехали молодые домой. Ну, она, известно, с&#160;воли-то&#160;заскучала; дня два, вишь, без&#160;просухи все плакала там, дома-то, да&#160;на третий пошла бытко за&#160;ягодой в&#160;лес и&#160;по сей час не&#160;вернулась… Искали, искали… по&#160;болотам да&#160;по борам, кажись, все и&#160;мышиные-то&#160;норочки перерыли, а&#160;ее и&#160;звания нет, и&#160;признаку никакого не&#160;осталось, словно как&#160;в огне сгорел человек!..
+</p><p>— Сам&#160;же Закат жив?
+</p><p>— А&#160;что&#160;же ему подеется, нашему Дмитрию Савеличу? Богу не&#160;нужен, а&#160;черт его и&#160;сам не&#160;возьмет, — сострил мужик, глубоко ненавидевший своего мироеда-старшину.
+</p><p>— Небойсь жалеет о&#160;дочке-то?
+</p><p>— Еще&#160;бы&#160;не жалеть… Наши бабы балакали, по&#160;слухам от&#160;матушки попадьи, что&#160;он отцу Василию признавался сам: «Всего&#160;бы, говорит, имущества решился, коли б можно было вернуть Аленушку», — да&#160;и Ваню, сказывают, ему жаль… Они, видишь, у&#160;него благословенья просили, так не&#160;захотел в&#160;те-то&#160;поры, а&#160;теперь каится… Да&#160;ведь сказано: близок свой локоть, да&#160;укусить не&#160;достанешь — так и&#160;это дело. Сгубил старый Закат их обеих… А&#160;люди-то&#160;какие были!! На&#160;всем свете подобия такой парочки не&#160;встретишь… — заключил свое повествование мой собеседник и&#160;полюбопытствовал узнать, не&#160;в их&#160;ли&#160;стороны я&#160;думаю отсюда ехать.
+</p><p>— Нет, душевный человек, мне туда теперь не&#160;по дороге, — ответил я&#160;ему и&#160;на тот&#160;же день повернул оглобли кдому.
+</p><p>Безлунная северная ночь назойливо светила мне в&#160;дороге и&#160;как-то&#160;болезненно раздражала мое и&#160;без того невеселое настроение — в&#160;ушах у&#160;меня заливались Ивановы песни, а&#160;перед глазами шевелилась Аленушкина черная бровь…
+</p><p><i>1876&#160;г.</i>
+</p><p><i>г. Кирилов</i>
+</p>
+<center>ВИХРЯЙ</center>
+<center>Из&#160;рассказов охотника-переселенца</center>
+<div class="mw-heading mw-heading4"><h4 id="I_2">I</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=7" title="Редактировать раздел «I»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Солнечные ясные дни, стоявшие в&#160;половине августа, надолго предвещали неизменчиво хорошую погоду; мне было скучно, и&#160;как охотника меня тянуло в&#160;поле.
+</p><p>Невольная, но&#160;тяжелая тоска но&#160;оставленной стороне и&#160;милым дорогим мне людям уже крепко начинала въедаться в&#160;мою одинокую здесь жизнь… и&#160;я ради развлечения с&#160;особенным усердием принялся за&#160;службу. Разъезжая неразлучно с&#160;ружьем и&#160;собакой и&#160;увлекаемый новизною местности и&#160;любимой страстью к&#160;охоте, я&#160;лесами и&#160;болотами пробирался по&#160;границам соседних губерний: Вологодской и&#160;Олонецкой.
+</p><p>Много погубил я&#160;птичьих душ в&#160;этой экспедиции и, вволю натешив собственную душу ощущениями охоты, на&#160;десятый только день повернул домой тоже глухими проселками, продолжая по&#160;дороге захватывать с&#160;собакой притаманные местечки лесной дичи.
+</p><p>Дни держались жаркие, сухие, зори теплые, росистые, а&#160;вечерами почти постоянно поигрывала зарница.
+</p><p>В&#160;один особенно жаркий день бродившие с&#160;полудня в&#160;форме комковой ваты белые облачка под&#160;вечер сплотились темными слоями, задвинули полнеба, и&#160;из-за&#160;них густая сине-лиловая туча полезла кверху черною стеной. Начала поблескивать молния, и&#160;вдали, точно под&#160;землею, отдавались зловещие перекаты глухого гула… Узкая дорога болотистой почвой пролегала по&#160;огромному лесу сплошных елей и&#160;сосен словно по&#160;густой аллее старинного господского сада, и&#160;хотя до&#160;ближайших станций или&#160;селения мне осталось верст 15, но, зная по&#160;опыту, что&#160;таскающие «по&#160;делам службы» нашего брата мелкого чиновника вечно тощие обывательские животы ни&#160;перед какою катастрофой в&#160;мире не&#160;прибавят резвости, я&#160;равнодушно относился к&#160;своему положению в&#160;ожидании дождевой ванны на&#160;открытой телеге.
+</p><p>Стемнело ранее обыкновенного и&#160;как-то&#160;очень быстро. Стемнело и&#160;притихло ненадолго… Вскоре налетел легкий ветерок и&#160;колыхнул сначала только верхи самых высоких дерев, потом другой, словно ему в&#160;подмогу, прошумел пониже, усилился, порывисто и&#160;гулко пронесся в&#160;вышине и&#160;забушевал по&#160;всему лесу. По&#160;листве и&#160;сухой дороге, как&#160;просыпавшиеся орехи, защелкали крупные капли дождевой воды, и&#160;под ними, словно дымом, закурилась лежавшая на&#160;всем толстым слоем пыль. Блеск молнии становился сильнее и&#160;чаще, трескучие удары грома делались ощутительнее и&#160;вследствие лесистой местности почти не&#160;умолкали в&#160;своих перекатах… Страшная северная гроза разразилась с&#160;таким обильным ливнем, каких я&#160;не запомню во&#160;всю мою жизнь на. нашем юге… Это просто перепрокинулась какая-то&#160;кадушка величиною во&#160;весь видимый горизонт и&#160;сплошною массой воды непрерывно поливала сверху так, что&#160;становилось чувствительно тяжело от&#160;одного ее давления. А&#160;электричество, так кажется, со всего света собралось собственно на&#160;этот пункт для&#160;своего разряжения: постоянно освещаемый лес стонал и&#160;точно как&#160;бы вздрагивал под&#160;этим шумом, какая-то&#160;трескотня ревела в&#160;нем неумолкаемою канонадой, и&#160;только особенно сильные удары по&#160;временам резко отдавались среди общего гула, как&#160;заряды бомбандических орудий среди непрерывной штуцерной стрельбы… Иногда вслед за&#160;этими отдельными ударами ярко вспыхивало пламя загоравшихся деревьев, но&#160;следом&#160;же и&#160;погасало заливаемое сверху обильным дождем. Кругом явственно слышался удушливый запах горючей серы…
+</p><p>Продолжать какое&#160;бы&#160;то ни&#160;было движение под&#160;этой стихийной сумятицей, конечно, и&#160;думать было нечего. Да&#160;к&#160;тому&#160;же догадливый возница еще с&#160;первых приемов этого шквала предложил мне выпрячь лошадей и&#160;опрокинуть телегу для&#160;возможной защиты от&#160;дождя — все, дескать, «покрышка будет, а&#160;через нее и&#160;на нас не&#160;каждая капля канет»…
+</p><p>Вследствие этого мудрого предложения в&#160;скором времени наша телега, перевернутая кверху колесами и&#160;подпертая с&#160;одного бока колом, представляла вид настороженной западни для&#160;ловли жаворонков, но&#160;вместе с&#160;тем и&#160;образовала действительно некоторое убежище от&#160;воды, так что, завернувшись в&#160;кожаную чуйку, я&#160;довольно комфортабельно умостился со своею собакой под&#160;ее навесом, заботливо спасая от&#160;воды только сумку с&#160;порохом да&#160;ящик с&#160;ружьем.
+</p><p>Ямщик попался мне болтливый, добродушный малый средних лет. Сначала все повествовал он&#160;об охотничьих подвигах соседских зырян, как&#160;они чуть&#160;ли&#160;не голыми руками за&#160;куцые хвосты медведей ловят, потом совсем неожиданно завел было речь о&#160;нечистой силе, да&#160;скоро смекнувши, что&#160;это не&#160;подходит к&#160;настоящим обстоятельствам, оробел сам от&#160;своих рассказов, как-то&#160;сразу оборвался и&#160;затих, тяжело вздыхая и&#160;бормоча вслух какую-то&#160;молитву. А&#160;дождь, не&#160;переставая, накрывал нас водяною массой… Сильнее прежнего треща и&#160;раскатываясь, стучал сердитый гром, электрический огонь светил не&#160;прерываясь, и&#160;какой-то&#160;особенный шум стоял над&#160;лесом, так что&#160;по временам в&#160;самом деле представлялось, будто вся местность сама ходила кругом.
+</p><p>Отбивая зубами сыпучую дробь, моя собака тряслась от&#160;страха и&#160;постоянно жалась под&#160;меня, да&#160;и вместе нам приходилось жутко, смутно.
+</p><p>Вода сделала свое дело. Побывши часа два под&#160;этой блокадой, на&#160;нас не&#160;осталось буквально сухой нитки, и&#160;тонкие стройки холодной влаги, просачиваясь местами через&#160;одежду, неприятно лазали, в&#160;особенности за&#160;спиной, от&#160;чего неудержимая дрожь пробирала все тело.
+</p><p>Наконец туча заметно сдвинулась, гроза стала затихать, и&#160;необыкновенный ливень, принявши форму обыкновенного дождя, потянулся ровными толстыми струями. Кругом было темно, как&#160;на самом дне глубокой закрытой ямы. Так темно, что&#160;привязанные к&#160;телеге лошади совершенно сливались с&#160;окружающим мраком, и&#160;только шелест изредка побрякивавшей на&#160;них сбруи да&#160;тоскливые вздохи самих животных иногда напоминали об&#160;ихнем соседстве. С&#160;полчаса еще прождали мы&#160;отхода тучи, и&#160;не из&#160;того, чтобы спешить доехать, а&#160;только ради какого-нибудь движения, чтобы согреть свои коченеющие члены, мы&#160;с ямщиком принялись запрягать лошадей. Вода стояла до&#160;колен, и&#160;мы, как&#160;цапли, бродили по&#160;ней, распутывая ощупью проволочные снасти. Кое-как&#160;уладившись с&#160;этим делом, попробовали было тронуться вперед, но&#160;на пути по&#160;сплошному разливу воды, покрывавшему дорогу, стали попадаться сваленные деревья — обыкновенный след только что&#160;прошедшей бури, — и&#160;мы поневоле остановились вновь в&#160;ожидании рассвета.
+</p><p>Ветер упал совсем, дождь начал тоже переставать, и&#160;в лесу стала устанавливаться тишина, только по&#160;земле бурливо журчала кругом отливающаяся вода, да&#160;тяжело шлепали дождевые капли, постоянно катившиеся с&#160;дерев на&#160;мокрую землю, вдали гудела отошедшая туча… Мы&#160;молча стояли на&#160;дороге.
+</p><p>Еще немного раньше этого мне раза два послышались как&#160;будто отдаленные звуки какой-то&#160;песни, но&#160;теперь совершенно ясно начал доноситься мужской голос, певший где-то&#160;в глубине леса, к&#160;удивлению моему, известный романс: «Что&#160;ты, травушка, рано в&#160;поле пожелтела…» И&#160;как&#160;же пел? В&#160;жизнь свою я&#160;не слыхивал даже на&#160;дорогих подмостках столичных сцен ничего более симпатического, как&#160;этот сильный и&#160;чистым серебром звенящий тенор: то&#160;безысходною тоской, то&#160;бесшабашной удалью заливался, этот голос, и&#160;чудно музыкальные звуки, таинственно стройно нарушая окружающую тишину ночного безмолвия, как-то&#160;особенно глубоко проникали в&#160;душу, словно своевольно перебирали в&#160;ней заветные струны давно пережитого горя и&#160;еще неизведанной, но&#160;сладкой грусти… Мы&#160;оба с&#160;ямщиком заслушались песни и, как&#160;заколдованные, не&#160;шевелясь, сидели до&#160;тех пор, пока продрогший и&#160;не сочувствующий нашему вниманию коренник перекочнул дугою и&#160;звякнул колоколом — голос немедленно затих…
+</p><p>— Что&#160;это такое? — спросил я.
+</p><p>— Этто-та, — протянул мужик и&#160;с видимым волнением в&#160;голосе не&#160;сразу ответил мне, — это Вихряй потешается.
+</p><p>— Что&#160;такое Вихряй? — переспросил я, ожидая по&#160;суеверному обычаю здешней стороны услыхать какое-нибудь легендарное повествование об&#160;этом певце.
+</p><p>Но&#160;сверх ожидания ямщик мне объяснил, что&#160;Ванька Вихряй — просто молодой парень, с&#160;нынешней весны появившийся в&#160;их местности — так, «благой человек»… Говорят, откель-то&#160;снизу с&#160;коноводами<sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> пришел да&#160;вот и&#160;приютился здесь. Птицу всякую страфляет, а&#160;иной раз и&#160;зверя попадет… Живет себе без&#160;всякой работы — так на&#160;слободе болтается, а&#160;человек ничего, смирный, обиды от&#160;его никому нет, ну, значит, и&#160;его не&#160;трогают. А&#160;к&#160;тому&#160;же он&#160;стариков наших в&#160;кабаке песнями тешит. Становому дичину всякую таскает. Вот и&#160;теперь, должно, за&#160;рябками ухаживал, припоздал…
+</p><p>— А&#160;уж ловок он&#160;насчет этой всякой птицы, — продолжал мой рассказчик, — так и&#160;кто его знает, как&#160;он может все по-ихнему потрафить? У&#160;его и&#160;ружья-то&#160;нет, а&#160;так руками берет, и&#160;шабаш!! Теперича, к&#160;примеру, заквохчет тетерька — зараз и&#160;ен по&#160;ее… али рябок там засвистит — в&#160;аккурате передразнит, сам к&#160;нему так и&#160;придет… Оно известно, должно, «не&#160;без чего» такие дела приставляет… — многозначительно закончил он.
+</p><p>В&#160;это время, как&#160;будто в&#160;подтверждение рассказа моего собеседника, невдалеке от&#160;нас отчетливо и&#160;как нельзя более натурально затоковал, косач-тетерев… До&#160;того натурально горячо забормотал он&#160;и расчуфыкался, что&#160;мне даже и&#160;в голову не&#160;пришло о&#160;невозможности подобного явления в&#160;эту пору, а&#160;только обдало охотничьей лихорадкой от&#160;знакомых милых звуков… Но&#160;ямщик мой хотя, по-видимому, был не&#160;охотник, но, как&#160;местный житель, скоро сообразил, что&#160;эта птица и&#160;таким голосом кричит во&#160;всем году одно только время и&#160;то лишь раннею весною, а&#160;на исходе лета этого не&#160;бывает, почему тут&#160;же и&#160;пояснил мне:
+</p><p>— Ишь балуется, это он, значит, нас заслышал…
+</p><p>— Да&#160;почем&#160;же он&#160;мог нас заслышать?
+</p><p>— Вихряй-ат?! Хм! по&#160;духу… это уж такой дошлый человек, може, и&#160;подойдет.
+</p>
+<div class="mw-heading mw-heading4"><h4 id="II_2">II</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=8" title="Редактировать раздел «II»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Крепко занял меня рассказ ямщика об&#160;этом «дошлом» человеке, да&#160;и голос его, давно затихший в&#160;воздухе, казалось, все еще звенел и&#160;переливался в&#160;моем свежем воспоминании. Мне очень захотелось непременно взглянуть в&#160;лицо самого певца и&#160;поближе рассмотреть его всего. Опасаясь, чтобы он&#160;не прошел, минуя нас лесом, я&#160;попробовал обратиться к&#160;ямщику За&#160;советом.
+</p><p>— Давай покличем?
+</p><p>— Хуже, не&#160;пойдет… Парень — натурный… — отвечал ямщик. После такой аттестации мне оставалось в&#160;этом деле рассчитывать только на&#160;милость самой судьбы, и&#160;я терпеливо замолчал.
+</p><p>Минут пять прошло в&#160;томительном положении, вдруг почти над&#160;нашими головами, как&#160;будто налетевшая птица, метнувшись в&#160;сторону, всплеснула крыльями, и&#160;вместе с&#160;этим тоскливо-скверный крик ночного филина, уныло огласив окрестность, диким хохотом раскололся по&#160;лесу.
+</p><p>— Ах ты, богом проклятая птица, чтоб тебя выворотило!! — набожно крестясь, с&#160;испугом вскрикнул мой ямщик. Моя собака приподнялась на&#160;телеге и&#160;злобно заворчала.
+</p><p>— Асинька? — отозвался ласковый голос, точно открывшийся клапан дорогой гармонии, и&#160;у самой телеги, чуть не&#160;между нами, точно из&#160;земли, выросла какая-то&#160;темная фигура.
+</p><p>— Тьфу! Вихряй, чертов сын! Чего балуешь, проклятый шатун… — громко сплюнул и&#160;оприветствовал фигуру мой ямщик.
+</p><p>— Асинька! Почто лаешь? — еще нежнее протянул тот&#160;же голос.
+</p><p>— Вот барина спужал, — свернул на&#160;меня сконфуженный возница и&#160;принялся всячески укорять прибывшего за&#160;ночное баловство.
+</p><p>— Кова, бацька, барина — нацальник? — осторожно спросил Вихряй.
+</p><p>— Известно, начальник, коли парой едет, а&#160;ты тут сычом рыкаешь, — внушительно продолжал тот.
+</p><p>— Не знал, бацька, бог побей, не&#160;знал, чал, так-кой знамый опинился<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>, — оправдывался самым туземным полудиким наречием, и&#160;по некоторым ноткам, выражавшим неподдельный испуг в&#160;его голосе, мне показалось, что&#160;он хочет оставить нас — уйти, а&#160;между тем меня сильнее прежнего тянуло к&#160;этому человеку, я&#160;заговорил с&#160;ним сам.
+</p><p>— Все это, Иван, неправда, никого ты не&#160;напугал, и&#160;я не&#160;начальник, а&#160;просто охотник, вот даже с&#160;собакой езжу, и&#160;ружье со мной есть. Ты лучше расскажи-ка мне, нет&#160;ли&#160;у вас тут поблизости тетеревиных выводков или&#160;мощных глухарей. Хотелось&#160;бы&#160;за ними поохотиться.
+</p><p>— Тетерь много, бацька, в&#160;лесе, — отвечал Вихряй, — крупок много на&#160;болоте, а&#160;рябков и&#160;того боле скопляется везде тутотка… Да&#160;вы как&#160;путиной-ать (т. е. куда едете)? Честь ваша! — Ямщик назвал ему следующую станцию.
+</p><p>— И — их!! А&#160;тамо-тка, тамо! Что&#160;рябка, тетерьки… — с&#160;добродушием детского восторга воскликнул он.
+</p><p>— Поедем со мной, — предложил я&#160;ему, — поводишь по&#160;хорошим местам — денег заплачу.
+</p><p>— Асинька-с?!
+</p><p>— Слышь, барин те денег даст, коли птицу всякую ему покажешь, — пояснил ямщик.
+</p><p>— Птицу ништо, показать можно, — соглашается наконец понявший в&#160;чем дело Вихряй и&#160;после некоторого раздумья взмащивается по&#160;указанию ямщика на&#160;передок телеги.
+</p><p>По&#160;его команде: «Кряни<sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>, желанный», — мы&#160;снова двинулись по&#160;черной прогалине темного леса. Зашлепали некованые лошади по&#160;размокшей глине, зашумела вода под&#160;колесами и, ныряя по&#160;колеям дороги, телега поплыла по&#160;жидкой грязи…
+</p><p>— Ну, теперенька запевай, Вихряй, песню, — обратился к&#160;нему мой возница, дружески подталкивая его локтем.
+</p><p>— Спой, говорю, какую ни&#160;на есть: потешь барина-то… — ямщик повторяет. Но&#160;тот отмалчивается и&#160;на этот раз как&#160;будто не&#160;слышит.
+</p><p>— Слышь, повесели, говорят тебе… — приставал к&#160;нему возница.
+</p><p>— Асинька-те?! — послышался наконец вместо песни его отзыв, и&#160;снова молчок.
+</p><p>Я&#160;понял, что&#160;он дожидается моей просьбы об&#160;этом, и&#160;действительно, на&#160;первое&#160;же мое предложение охотно ответил: «Для&#160;че не&#160;порыкать», — и&#160;вскоре затянул какую-то&#160;дикую бессмыслицу местного сочинения.
+</p><p>По&#160;мере рассветающей зари стали выясняться окружающие предметы, и&#160;я начал всматриваться в&#160;фигуру моего случайного спутника. Толстая мокрая рубаха плотно облегала его широкие плечи и&#160;мускулистую спину, перетянутую, как&#160;у благочестивого бернардинца, обрывком посконной веревки. Шапки не&#160;было на&#160;голове, и&#160;ее заменяли родимые космы торчащих вверх волос; космы эти, как&#160;запрокинувшаяся шерсть, стояли дыбом толстыми вихрами и&#160;придавали всей его голове странный вид какого-то&#160;дикого растения. На&#160;ногах хотя болтались обрывки обуви наподобие зырянских пим, сшитых из&#160;оленьей кожи шерстью вверх, но&#160;голые пальцы, храбро выглядывавшие на&#160;белый свет из-под&#160;лохматых дыр этой покрышки, ясно доказывали, что&#160;эта часть его костюма носится только для&#160;вида. В&#160;руках он&#160;держал недлинную рогатину и&#160;небольшой, чем-то&#160;наполненный мешочек.
+</p><p>«По&#160;шерсти и&#160;кличка дана», — невольно подумал я, любуясь своей находкой и&#160;в то&#160;же время напрасно стараясь объяснить себе эту странную растительность волос на&#160;голове моего нового знакомого.
+</p><p>Скоро весь восток загорелся утренней зарею. По&#160;зубчатым верхам угрюмого леса ярко брызнули первые лучи восходящего солнца, тепло и&#160;мягко разлился их свет по&#160;мшистым стволам вековой хвои, и&#160;приветливо весело таково зарделось надо всем тихое, теплое утро… Проснулся лес, горячим паром задымились попадавшиеся на&#160;пути болота, и&#160;в них зашевелилась дневная жизнь… Сотни звуков и&#160;разнородных голосов послышались кругом, как&#160;бы приветствуя эту тишь после ночной бури.
+</p><p>Непреодолимая дремота овладела мной с&#160;восходом солнца. Докучная воркотня воды, однообразно плескавшейся под&#160;колесами телеги, еще больше клонила ко&#160;сну, располагала к&#160;грезам. По&#160;временам я&#160;бессознательно открывал глаза и&#160;тупо оглядывал местность: кругом и&#160;перед нами виднелся лес и&#160;лес, угрюмый, темный, с&#160;неподвижными верхушками еловых дерев, с&#160;неизменным запахом смолистой хвои… А&#160;мнe почему-то&#160;вспоминались давно прошедшие, но&#160;вечно милые годы ранней молодости, мерещится тихая тамбовская степь с&#160;шумным привалом псовой охоты и&#160;встают знакомые типы родной стороны: сытые помещики с&#160;их дворовой челядью, поджарые скакуны под&#160;высокими седлами, тощие псы в&#160;цветных ошейниках — и&#160;стоном стоит над&#160;этой пестрою картиной общий говор, громкий смех, молодецкий посвист и&#160;безобидно выразительная русская брань…
+</p><p>Под&#160;этими сладкими видениями, полусонный, я&#160;дотянулся, наконец, до&#160;желанных жилья и&#160;станции. Покой и&#160;сон мне представлялись высшими благами, и&#160;на мои упавшие силы даже животворящий коньяк не&#160;производил своего спасительного действия и&#160;как-то&#160;совсем на&#160;душу не&#160;шел. Попробовал я&#160;предложить этого снадобья моему спутнику Вихряю, но, к&#160;удивлению, дикарь отказался от&#160;водки, я&#160;назвал коньяк виноградным вином и&#160;повторил ему предложенье, но&#160;он отказался положительно с&#160;простодушным увереньем, что&#160;во всю свою жизнь, кроме простой воды, он&#160;ничего не&#160;пробовал и&#160;пить не&#160;умеет.
+</p><p>— Да&#160;оно известно, — поддержал его плутоватый с&#160;виду мужичок — тут&#160;же стоящий хозяин — где, дескать, ему, Вихряю, знать такое ангельское кушанье, коли он&#160;и в&#160;церкви-то&#160;божьей едва&#160;ли&#160;когда бывал…
+</p><p>Последний тихо улыбнулся на&#160;эту остроту и&#160;уж совершенно по-детски попросил меня отдать его долю догадливому хозяину.
+</p><p>Мужик слегка сконфузился, но&#160;выпил с&#160;удовольствием и, значительно крякнув, проговорил с&#160;сожалением:
+</p><p>— Глупый… не&#160;понимаешь ты смаку в&#160;этаком добре.
+</p><p>Далеко за&#160;полдень стояло солнце, когда после долгого сна в&#160;сеновале на&#160;мягкой постилке из&#160;свежей душистой травы меня разбудил легкий скрип ворот, в&#160;которые протискивался Вихряй, держа обеими руками большую крынку с&#160;молоком для&#160;моей собаки.
+</p><p>Не показывая признаков пробуждения, я&#160;принялся рассматривать этого человека. Войдя в&#160;сарай, он&#160;поставил на&#160;пол свою ношу и, тихо подманив собаку к&#160;корму, опустился и&#160;сам на&#160;сено рядом с&#160;нею. Облокотись на&#160;одну руку, лежал он&#160;ко мне боком и&#160;от нечего делать заигрывал с&#160;моей Гризеткой. Та усердно уплетала поставленную ей снедь, а&#160;он былинкою травы потихоньку пошевеливал у&#160;ней за&#160;ухом; докучное прикосновение беспокоило собаку, и&#160;она по&#160;временам отрывалась от&#160;еды и&#160;ляскала по&#160;сторонам зубами, стараясь поймать воображаемую муху, но&#160;мухи, конечно, не&#160;оказывалось, и&#160;она, щелкнув по&#160;воздуху, принималась снова за&#160;еду, а&#160;он, снова за&#160;свою поделку.
+</p><p>Во&#160;все это время детски игривая и&#160;вполне довольная улыбка не&#160;сходила с&#160;его симпатичного и&#160;замечательно красивого лица, в&#160;особенности&#160;же заразительно приятно смеялись его большие синеватые глаза, в&#160;которых так много светилось спокойного разума и&#160;душевной силы, что, несмотря на&#160;все старания этого человека постоянно изображать собою юродствующего дурака, сейчас&#160;же делалось подозрительным его настоящее положение. Даже самый убор на&#160;его голове в&#160;образе стоячих вихров показался мне теперь не&#160;более как&#160;искусственным произведением его&#160;же собственного парикмахерского таланта (может быть, с&#160;участием просто древесной смолы). А&#160;тут еще этот чудный вчерашний голос, который, не&#160;подозревая присутствия людей, поёт романсы цивилизованного содержания, а&#160;при людях только может бормотать неясные звуки полудикого наречия.
+</p><p>Все это вместе взятое, то&#160;есть внешний вид и, так сказать, внутреннее содержание этого субъекта, озарило в&#160;моих глазах совершенно новым светом всю фигуру моего случайного знакомца, и&#160;почему-то&#160;эта фигура живо тут напомнила мне статного коршуна с&#160;перешибленным крылом, на&#160;которого я&#160;часто засматривался в&#160;детстве, встречая его на&#160;широком дворе нашего соседа. Во&#160;всяком случае для&#160;меня сделалось теперь несомненным одно, что&#160;встреченный мною экземпляр — суть «птица» и&#160;птица, как&#160;надо полагать, «высокого полета», но&#160;попавшая сюда, очевидно, уже с&#160;обрезанными крыльями, вот и&#160;живет себе смиренно, живет, конечно, до&#160;тех пор, пока не&#160;отрастут ее подрезанные маховые перья…
+</p><p>— Пойдем-ка поищем зорькой тетеревиных выводков или&#160;мошников, — предложил я&#160;ему, покидая свою лежку.
+</p><p>— Ништо, спытать удачи можно, — с&#160;веселой готовностью ответил он&#160;и тут&#160;же по-своему объяснил мне, что&#160;рядом за&#160;деревней начинались амшары и&#160;еловый бор, в&#160;котором водилось много тетеревей, и&#160;в том&#160;же бору у&#160;него, Вихряя, даже и&#160;теперь стояли силки на&#160;эту птицу.
+</p><p>— Оно и&#160;ладно, пойдем, кстати, и&#160;снасти осмотрим.
+</p><p>Часу в&#160;пятом вечера, собравшись наскоро, Вихряй с&#160;неизменной рогатиной в&#160;руках, а&#160;я с&#160;своей двустволкой за&#160;плечами перелезли деревенскую изгородь и&#160;врезались в&#160;большой, высокий бор, до&#160;того заросший густой порослью молодой хвои, что&#160;с трудом можно было продираться друг за&#160;другом. Несмотря на&#160;жаркий день, в&#160;лесу было прохладно и&#160;темно от&#160;густой тени, и&#160;лишь изредка кое-где между верхушками сплошных дерев пробивался голубой свет чистого безоблачного неба — кругом ^было сыро и&#160;даже как-то&#160;мрачно.
+</p><p>Долго тянулись мы&#160;таким порядком, перебрасываясь изредка короткими речами, в&#160;смысле и&#160;выражении которых я&#160;скоро подметил, что&#160;мой дикарь сделался как&#160;будто доверчивее, заговорил проще, отвечал умнее. На&#160;ходу мы&#160;не раз натыкались на&#160;выводки рябчиков, но&#160;в такой сплошной чаще, что&#160;только слушали, как&#160;эта пестрая семья, с&#160;треском взрываясь, звенела крыльями и&#160;перемещалась куда-то&#160;далее.
+</p><p>Я&#160;начинал уже утомляться и&#160;скучать бесплодною ходьбою, как&#160;в это время выбравшийся на&#160;маленькую полянку редколесья мой замысловатый спутник остановился и&#160;с уверенностью проговорил: «А&#160;рябки-то&#160;здеся можно побить». Почему рябки были именно в&#160;этом месте и&#160;как их можно было побить, я&#160;решительно не&#160;понимал, совершенно не&#160;зная до&#160;того времени этой охоты, но&#160;тем не&#160;менее послушно остановился, ожидая его дальнейших указаний. Вихряй начал посвистывать… и&#160;скоро снявшийся из&#160;глубины леса молодой рябчик с&#160;разлету ткнулся в&#160;вершину елки, под&#160;которой мы&#160;стояли, и&#160;немедленно слился с&#160;ее древесиной так искусно, что&#160;рассмотреть мне его не&#160;удавалось при&#160;всем моем старании и&#160;указаниях товарища; вглядываясь&#160;же по&#160;направлению его руки и&#160;собственной памяти в&#160;то место, куда действительно на&#160;моих глазах засел рябчик, я&#160;отчетливо видел корявый ствол дерева с&#160;его правильно расположенными сучками, видел висячие ветки мелкой хвои на&#160;этих сучках и&#160;даже тонкую на&#160;них паутину, но&#160;птицы не&#160;различал… Наконец, это мне надоело, и&#160;я, отступаясь, проговорил: «Да&#160;ну его к&#160;черту! Возьми, коли хочешь, ружье — убей сам!»
+</p><p>Товарищ мой, видимо, обрадовался этому предложению, он&#160;с заметным удовольствием принял от&#160;меня широкую двустволку и&#160;моментально расплющил несчастный предмет моих тщетных поисков. Почти вслед за&#160;выстрелом другой рябчик, шлепнув крылышками, вцепился в&#160;полдерева соседней ели и, хитро растянувшись по&#160;ее стволу, затаился — этого видел даже и&#160;я. Но&#160;Вихряй, поднимая убитого, лаконически-деликатно спросил у&#160;меня: «Можно?»
+</p><p>«Валяй!» И, подобно первому, как&#160;разорванная тряпка, скатился и&#160;этот под&#160;его рукою.
+</p><p>Таким образом, в&#160;течение часа, преспокойно лежа под&#160;деревом, я&#160;только любовался, как&#160;этот, по-видимому, неопытный дикарь шлепал рябчиков и&#160;тут&#160;же уверял меня, что&#160;он отродясь впервой осмелился взять в&#160;руки эту «страшную фузею» и&#160;боится этого снаряда не&#160;менее нечистой силы, из&#160;чего я, конечно, не&#160;верил ни&#160;единому слову — и, наконец, тут&#160;же случившийся пассаж убедил меня окончательно в&#160;его вранье.
+</p><p>Во&#160;время этой стрельбы молодые (уже ставшие на&#160;крыло) утки выводками сновали над&#160;лесом, размещаясь к&#160;вечеру по&#160;своим знакомым озерам. Вихряй давно завистливо поглядывал на&#160;эти вереницы свистящих комков. Давно ему крепко хотелось полохнуть в&#160;какую-нибудь из&#160;этих стай, но&#160;птицы, держась не&#160;в меру выстрела, продолжали мелькать стороною по&#160;верхушкам высокого леса, и&#160;он только по-прежнему провожал их глазами.
+</p><p>Но&#160;вот звенящий шелест от&#160;шума крыльев послышался к&#160;нам ближе, и&#160;из-за&#160;верхов громадной сосны вытянулась над&#160;нашими головами станица кряковых; на&#160;одно только мгновение появились утки на&#160;чистой прогалине лесных вершин, суетливо шарахнулись в&#160;сторону от&#160;нас, но&#160;этого мгновенья оказалось вполне достаточно для&#160;того, чтобы выстрел, брызнувший вослед исчезающей стае, догнал свою жертву уже снова над&#160;лесною чащей, и&#160;свернувшийся кряковень, тяжело кувыркаясь в&#160;воздухе, безжизненно повис на&#160;сучках раскидистой березы,.. Быстрота и&#160;меткость этого удара сделали&#160;бы&#160;честь любому артисту в&#160;охотничьем деле.
+</p><p>Не говоря ни&#160;слова, я&#160;только крякнул от&#160;удовольствия, глядя на&#160;этот молодецкий выстрел, но, надо полагать, что&#160;мое безмолвное удивление вышло уже слишком многозначительно, потому что&#160;я сейчас&#160;же увидел перед&#160;собой невинно улыбающуюся рожу стрелка с&#160;его любимым окликом: «Асинька-с?!»
+</p><p>— Ничего-с! Угодил как&#160;быть следует… — как-то&#160;невольно в&#160;его тоне сорвался у&#160;меня ответ.
+</p><p>Вскоре мы&#160;оставили поляну, чтобы засветло дойти проведать его снасти.
+</p><p>Между дремучим бором угрюмых елей и&#160;сосен и&#160;небольшим взгорьем мелкого разнолесья нешироким коридором простлалось мшарное болотце, в&#160;средине его мочевинка, вокруг потная кайма с&#160;зеленой сочною травою. Болотце это примкнуло к&#160;взгорью, на&#160;котором по&#160;боровому вереску рассыпался брусничный ягодник, морошка и&#160;можжевельные кусты.
+</p><p>Вблизи этого-то&#160;притаманного местечка и&#160;таились на&#160;погибель пернатых лакомок зырянские снаряды моего приятеля — петли и&#160;слопцы.
+</p><p>Крупные перья кем-то&#160;съеденного мошника и&#160;кругом пестревший пух еще какой-то&#160;птицы вместе с&#160;разрытой кучкой муравейника и&#160;глубоко примятою травой сразу указали нам на&#160;посещение этой местности, кроме птиц, и&#160;еще какими-то&#160;животными.
+</p><p>— Ишь, проклятый лончак<sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> опять приходил; вот и&#160;глухаря в&#160;силках слопал, — ворчит Вихряй, рассматривая поличные улики посетителя, и&#160;предлагает мне остаться здесь на&#160;нынешнюю ночь: — Може, и&#160;опять припрется шатун лохматый…
+</p><p>Предложение было принято, в&#160;охотничьей сумке у&#160;меня нашлась пара пуль, пригнанных по&#160;гладкоствольному ружью, и&#160;я закатил эти шарики в&#160;стволы вместо дроби, расположившись ожидать шатуна тут&#160;же, на&#160;самом месте содеянной им покражи.
+</p><p>С&#160;горизонта давно уже свалилось солнце, и&#160;розовый фон его следов картинно просвечивался между темными силуэтами могучих сосен и&#160;вековых пирамидальных елей, стоявших перед&#160;нами густою стеною. Заревой туман, тихо всплывая, забелелся, и&#160;в тонком вечернем воздухе отчетливо послышались разнообразные голоса окрестных обитателей. В&#160;болоте начали отзываться молодые журавли, и&#160;вскоре, родительски покурлыкивая им в&#160;ответ, из-за&#160;леса появился старый; мерно взмахивая своими огромными крыльями, он&#160;низко протянул над&#160;нами и, спиралью обогнув болото, спустился в&#160;его крепях… Где-то&#160;вдалеке голодный переярок затянул мудреное соло из&#160;печальной арии на&#160;свое проклятое житье в&#160;стороне от&#160;нас, как&#160;в порожнюю бочку бухнул выпь, а&#160;над нашими головами назойливо чирикала какая-то&#160;птичка.
+</p><p>Опрокинутый рог молодого месяца показался на&#160;чистом небе, и&#160;кое-где чуть видно замерцали звезды; одна из&#160;них скатилась — мой товарищ мечтательно заговорил по&#160;этому поводу.
+</p><p>— Вон звездочка погасла, видно, чья-нибудь безгрешная душенька богу понадобилась…
+</p><p>— Почему так? — полюбопытствовал я, поддерживая разговор.
+</p><p>— Да&#160;уж это всегда так: умрет святой человек, и&#160;непременно в&#160;это время одна звездочка погаснет на&#160;небе.
+</p><p>— Ну, а&#160;когда умирают грешные, что&#160;бывает?
+</p><p>— Грешные? Ничего не&#160;бывает, разве только дежурный чертенок в&#160;кремень постучит, ну, где-нибудь в&#160;глухом месте и&#160;блеснет искорка, да&#160;и то&#160;редко, больше все так, ничего не&#160;бывает.
+</p><p>— А&#160;ты, Иван, чертей боишься? — спросил я&#160;у него, зная общую наклонность здешних жителей к&#160;суеверию.
+</p><p>— Нет, что&#160;же их бояться? Заживо не&#160;тронут, а&#160;умрешь, и&#160;сам к&#160;ним попадешь.
+</p><p>— Почем&#160;же ты знаешь, что&#160;после смерти попадешь куда-нибудь?
+</p><p>— Я-то&#160;доподлинно не&#160;знаю, а&#160;старики по&#160;кабакам за&#160;выпивкой болтают, что, как&#160;умрешь, так сейчас тебя с&#160;чертями по&#160;этапу и&#160;отправят на&#160;тот свет… А&#160;там уж, известно, и&#160;жди своего решения — либо самого тебя на&#160;вечные времена в&#160;огонь посадят, или, того еще хуже, к&#160;каторжной работе приставят — друзей поджаривать велят, — поясняет он&#160;мне с&#160;самым простодушнейшим выражением в&#160;лице и&#160;голосе, только в&#160;глубине его глаз при&#160;этом светятся искорки, умные такие, плутоватые.
+</p><p>— Ну, а&#160;насчет себя-то&#160;ты как&#160;полагаешь, по&#160;своим делам — в&#160;каторжную или&#160;на поселенье угодишь туда?..
+</p><p>Улыбнулся он&#160;над моим наивным вопросом и, не&#160;отвечая, как-то&#160;странно посмотрел на&#160;меня, точно в&#160;свою очередь хотел мне задать вопрос вроде следующего: «Уж не&#160;из полицейских&#160;ли&#160;ты, дескать, будешь, что&#160;тебя так очень уж забирает?..» И&#160;мне сделалось как-то&#160;неловко, просто совестно перед&#160;этим человеком, точно я&#160;его и&#160;в самом деле чем-нибудь обидел. Разговор прекратился.
+</p><p>Я&#160;сидел под&#160;нависшими ветвями старой ели и&#160;внимательно вглядывался в&#160;постепенно темневшую передо мной лесную глубь и&#160;в узкую полоску за&#160;ней потухающей зари, а&#160;в голове у&#160;меня роились невеселые думы о&#160;судьбе моего загадочного товарища, и&#160;преобладающей из&#160;этих дум все-таки было крайнее желание разгадать его настоящее положение.
+</p><p>Успокаиваясь и&#160;затихая, постепенно замолкала дневная жизнь, и&#160;кругом делалось тихо, неподвижно-тихо, как-то&#160;пустынно-сонливо; дремота почудилась даже в&#160;самом воздухе… Один только неугомонный пугач тоскливо ухал в&#160;глубине леса, и&#160;то как-то&#160;лениво, изредка, словно и&#160;он засыпал… Вдруг за&#160;моей спиной сначала потихоньку, робко таково, раз, другой свистнул, потом сильнее и&#160;громче защелкал соловей, сделал какое-то&#160;милое коленце с&#160;переломом и&#160;раскатился своей забористой трелью… Я&#160;обернулся с&#160;понятным удивлением и&#160;вместо птицы увидал красивое лицо Вихряя с&#160;его детскою улыбкой; он, видимо, наслаждался созерцанием природы в&#160;ее ночном безмолвии и&#160;как нельзя более гармонично нарушал теперь это безмолвие пленительными звуками ее вольного певца.
+</p><p>— Где это ты слышал такого дорогого соловья? — спросил я&#160;у него, думая застать врасплох этого великого артиста в&#160;своем роде, но&#160;он, нисколько на&#160;этот раз не&#160;стесняясь, ответил мне просто:
+</p><p>— В&#160;Курской губернии есть Обоянский уезд, так там они&#160;самые лучшие живут.
+</p><p>— А&#160;ты там давно был?
+</p><p>— Давно и&#160;не помню когда.
+</p><p>— Что&#160;же ты там делал?
+</p><p>— Да&#160;вот у&#160;певчих пташек песенкам учился, — ответил он&#160;с такой улыбкой, от&#160;которой я&#160;по-прежнему почувствовал себя как-то&#160;неловко и, чтобы выйти из&#160;этого состояния, обратился к&#160;нему с&#160;прямою просьбой:
+</p><p>— Иван, голубчик! Скажи мне, кто ты такой?
+</p><p>— Асинька-с? — недослышал он&#160;моего вопроса, и&#160;мне показалось, что&#160;выразительные глаза его затуманились в&#160;эту минуту не&#160;то тревогою сомнения, не&#160;то желанием откровенной людской беседы. Вот, думаю себе, еще один удачный людской вопрос — и&#160;передо мной польется живая повесть загадочной жизни этого интересного человека, но&#160;он по-прежнему стоял молча и&#160;не то&#160;во что-то&#160;вслушивался, не&#160;то о&#160;чем-то&#160;вспоминал; я&#160;был уверен, что&#160;в эти моменты перед&#160;ним проходит его лучшее былое время, его прежняя далеко не&#160;такая жизнь, и&#160;как-то&#160;невольно у&#160;меня сорвалось вновь:
+</p><p>— Слышишь, расскажи, Иван…
+</p><p>Но&#160;в&#160;эту минуту ночной тревожный крик случайно испуганной вороны пронесся из&#160;глубины болота и&#160;заставил вздрогнуть нас обоих.
+</p><p>— Слушай туда, что-то&#160;лезет, — почти беззвучно проговорил Иван, указывая мне по&#160;направлению крика и&#160;припадая к&#160;земле у&#160;меня за&#160;спиною.
+</p><p>Эти слова имели на&#160;меня магическое действие. В&#160;один миг всякие расспросы и&#160;даже самый герой меня интересовавшего романа были забыты, обычный восторг охотника обхватил меня всего, и&#160;я, как&#160;говорится, замер на&#160;месте, окаменел в&#160;чуткой неподвижности.
+</p><p>Вскоре действительно послышался какой-то&#160;шорох впереди нас, вот хрустнула сухая ветка, и&#160;от этого ничтожного звука затрепетало сердце, сдавленное приливом сладостных надежд, а&#160;в висках громко застучали жилки.
+</p><p>Но&#160;совсем потухшая заря и&#160;густой сумрак окружающего леса, несмотря на&#160;лунный полусвет, слабо освещавший верхи дерев, внизу стушевали все, не&#160;допуская различать предметы далее шагов десяти перед&#160;глазами, а&#160;желанный гость все подвигался в&#160;нашу сторону привычною ему тропою. Отчетливо доносились его осторожно неуклюжие шаги, с&#160;легким треском ломавшие сухие ветки под&#160;своей тяжелою стопою, и&#160;по временам, точно тяжелые вздохи, даже показывали, как&#160;подозрительно он&#160;обнюхивал воздух, — и&#160;нетерпеливое воображение охотника рисует мне хорошо знакомую круглую морду, ее темный оскал с&#160;блестящими вершковыми зубами и&#160;изумленно злобный взгляд. Но&#160;темень! Ненавистная темень скрывает эту живую картину, и&#160;снова обхватывает всего жгучий трепет желанной встречи, а&#160;в мыслях носится усердная о&#160;ней мольба.
+</p><p>Кто из&#160;охотников не&#160;переживал этих невыразимо приятных, но&#160;вместе и&#160;мучительно тяжелых минут страстного выжидания своего выстрела на&#160;слуху или&#160;на виду осторожного зверя? Эх! — хороши, дороги, но&#160;и долги&#160;же эти минуты бывают охотнику!! Перещупают они&#160;и пошевелят в&#160;нем каждую жилочку своим опасением за&#160;какую-нибудь проклятую случайность лишиться этого выстрела в&#160;данную минуту… В&#160;такой-то&#160;момент моя собака зачуяла близость зверя и, прижимаясь ко&#160;мне, боязливо заворчала… О, проклятие!
+</p><p>Заставляя ее молчать, я&#160;придавил ее коленом, но&#160;было уже поздно: зверь понял засаду. Его движенья вдруг затихли, раздалось два-три медвежьих плевка, и, покряхтывая с&#160;испуга, он&#160;торопливо начал удаляться в&#160;сторону от&#160;нас.
+</p><p>Только истые — именно по&#160;этому зверю искусившиеся — охотники в&#160;состоянии понять и&#160;достойно оценить всю тяжесть обиды моего положения в&#160;ту минуту. Помню, что&#160;мне на&#160;всем просторе ночной свежести вдруг сделалось сразу почему-то&#160;душно и&#160;я в&#160;первый раз в&#160;жизни вознегодовал тогда на&#160;излишнее чутье моей доброй собаки, так не&#160;вовремя проявленное ею… Скрипя зубами и&#160;изрыгая плодовитую русскую ругню, Иван кинулся в&#160;сторону болота наперед пути уходившего медведя; конечно, это была попытка более чем бесполезная, но&#160;удержаться от&#160;нее он, видимо, не&#160;мог и&#160;надолго пропал от&#160;меня, вероятно, по&#160;слуху преследуя в&#160;болоте зверя.
+</p><p>Тихий ветерок, тянувший из&#160;лесной чащи, вместе с&#160;наркотическим запахом хвойной растительности так через&#160;час времени донес мне мелодические звуки Иванова голоса. Он&#160;возвращался с&#160;другой уже стороны и&#160;по своему обыкновению на&#160;ходу напевал песню. Задушевная «Лучина-лучинушка», как&#160;дорогая свирель, переливалась, словно таяла в&#160;воздухе, и&#160;волшебно выговаривала мило знакомые слова народной поэзии: «Что&#160;же ты, березовая, не&#160;ярко горишь, не&#160;вспыхиваешь…» Горесть и&#160;досада на&#160;неудавшееся дело стали у&#160;меня отходить под&#160;этими звуками, и&#160;я заслушался песни до&#160;какого-то&#160;забвения. Так что&#160;голос подошедшего товарища, раздавшийся над&#160;моим ухом, разбудил меня не&#160;то от&#160;легкого забытья не&#160;то от&#160;тяжелых дум.
+</p><p>— Домой, что&#160;ли, пойдешь, аль здесь поспим? Я&#160;пажок<sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup> разведу, — проговорил он, и&#160;мы остались в&#160;лесу ночевать.
+</p><p>Скоро вспыхнул костер сухого валежника, набранного тут&#160;же привычною рукой Ивана; трепеща и&#160;разливаясь ярким пламенем, быстро прогорел смолистый сушняк и&#160;тихо задымился, потухая; захрапел мой товарищ, подсунувшись К&#160;самой грудке горящих головней, задремал и&#160;я.
+</p><p>Над&#160;лесом повис сплошною массою густой туман — предвестник ясного утра — и&#160;мягко затопил своей молочной пеленою верхи высоких дерев, когда мы, тронувшись с&#160;своей ночевки, пролезли немного краем болота, пересекли напрямик густо заросшую молодым березняком гривку и&#160;выбрались на&#160;опушку. На&#160;востоке забелелась полоска утренней зари, а&#160;перед нами открылась заманчивая площадь зеленой луговины с&#160;своими мягкими пожнями, мелким кочкарником и&#160;тощими кустиками редких березок — этими излюбленнейшими местечками благородной болотной дичи.
+</p><p>Соскучась бездействием, моя собака с&#160;неукротимым восторгом принялась обыскивать белую росистую зелень; водяные брызги сыпались из-под&#160;ее ног, и&#160;по мокрой траве прихотливыми узорами ложилась за&#160;ее следом темная полоса тонкой тропы. Вскоре она прихватила «в&#160;настоящую» и, красиво рисуясь, солидно провела шагов тридцать, вытянулась, переступила еще шаг, другой и&#160;застыла, как&#160;мертвая, в&#160;одной из&#160;тех неподвижно-грациозных поз, на&#160;которые даже не&#160;охотники с&#160;удовольствием засматриваются на&#160;картинах, а&#160;мы, ружейники, чуть&#160;ли&#160;не каждый день радуемся на&#160;самый оригинал в&#160;натуре.
+</p><p>Зашедши под&#160;перед, я&#160;по обыкновению сам вытоптал птицу. Тяжелый дупель лениво снялся из&#160;травы и, керкнув на&#160;подъеме, неторопливо, ровно, как&#160;по струнке, потянул вдоль луговины… Раздался выстрел, и&#160;свернувшийся долгоносик комочком скатился в&#160;мокрую траву.
+</p><p>Место было хорошее, настоящее дупелиное, жировое. Смышленый мой пес то&#160;карьером носился в&#160;кругах, то&#160;челноком пробирал площадку, находил и&#160;становился — стрельба шла удачная, без&#160;промахов. Не спуская глаз с&#160;собаки, Иван восхищался ее работой и&#160;вдруг останавливал меня словами: «Гляди-ка, упала, не&#160;встает».
+</p><p>Но&#160;я&#160;знал, что&#160;обозначало это падение… Всегда, когда моей Гризетке приходилось при&#160;поиске «на&#160;всех духах» натыкаться чутьем на&#160;дичь, она немедленно падала и&#160;крепко залегала на&#160;земле, в&#160;особенности&#160;же мило выполняла она это именно над&#160;дупелями и, испытанная не&#160;один раз, в&#160;таком положении могла оставаться целые часы… А&#160;потому (каюсь по&#160;совести) мне захотелось побравировать в&#160;глазах моего талантливого спутника, и&#160;я, притворяясь, что&#160;не слышу его указанья, потихоньку начал свертывать папироску, готовясь курить.
+</p><p>— Да&#160;пойдем&#160;же скорее к&#160;ней, после покуришь… — уже с&#160;нетерпением приступал он&#160;ко мне.
+</p><p>— Ничего, пусть полежит, дождется, — равнодушно отвечаю я&#160;и, преспокойно закуривая, опускаюсь отдохнуть на&#160;первую попавшуюся кочку.
+</p><p>Помучив его изрядной паузой, я, наконец, поднялся, и&#160;мы неспешно подошли к&#160;собаке. В&#160;небольшой впадинке между кочами болотца неподвижно лежала она, вытянувшись во&#160;всю свою длину, и&#160;даже жмурилась от&#160;удовольствия… С&#160;любовью погладив ее волнистую спину, я&#160;тихо промолвил обычныe слова своей команды: «Поди вперед, поди!» Собака тронулась, немного пролезла на&#160;брюхе, вытянула и&#160;прижала свою голову между передними ногами… и&#160;снова замерла — ни&#160;с места…
+</p><p>Во&#160;все это время чуткий к&#160;делу охоты Вихряй, кажется, дрожал от&#160;волнения и&#160;сдавленным шепотом приговаривал над&#160;собакой:
+</p><p>«Ох, да&#160;и сударушка&#160;же дорогая! Вот неоценимый-то&#160;дружок…»
+</p><p>Из-за&#160;ближайшей кочки одновременно снялись пара дупелей и&#160;сейчас&#160;же под&#160;прямым углом раскололись в&#160;разные стороны, я&#160;сделал дуплет по&#160;обоим, и, пока пороховой дым расстилался по&#160;мокрой траве, заслоняя для&#160;меня результат удара, душевный, всегда невольно крикливый возглас товарища приветствовал мой удачный выстрел.
+</p><p>Таким образом, потешаясь за&#160;милую душу, пар пять подобрали мы&#160;на этом месте, и&#160;уже высоко взошедшее солнышко и&#160;вполне обогревшийся денек как-то&#160;сразу сильно напомнили нам о&#160;законном времени серьезного подкрепления своих сил едой и&#160;долгим отдыхом.
+</p><p>Впереди нас, виляя кручью желтых обрывистых берегов, катилась какая-то&#160;река, на&#160;другой ее стороне снова темнела синяя гряда высокого леса, а&#160;за ним, по&#160;словам Ивана, была и&#160;та деревушка, из&#160;которой мы&#160;вышли накануне, но&#160;до переправы или&#160;брода нам приходилось пройти еще с&#160;десяток добрых верст, тогда как&#160;прямиком значительно можно было сократить дорогу и&#160;скорехонько добраться к&#160;месту. Усталые ноги, протестуя на&#160;дальнейшую работу, как-то&#160;самовольно начинали зацепляться чуть не&#160;за каждую кочку и&#160;в недалеком будущем угрожали совершенным ослушанием; ружье и&#160;сумка — эта привычная ноша охотника, — по&#160;обыкновению, вдруг ни&#160;с того ни&#160;с сего увеличились в&#160;своем удельном весе и&#160;теперь немилосердно тянули плечи; сверху давило жаркое солнце, и&#160;внутри болезненно хозяйничал мучительный голод, приходилось плохо…
+</p><p>— Эх, если&#160;бы&#160;попалась лодка, — вслух подумал я, смутно рассчитывая на&#160;помощь моего спутника в&#160;этом деле.
+</p><p>— А&#160;что&#160;ж, може, и&#160;набредем где-нибудь, тут бывают, — утешил он, и&#160;мы продолжали тянуться берегом реки вниз по&#160;ее течению.
+</p><p>Счастие послужило нам. В&#160;скором времени зоркий глаз Вихряя насмотрел едва заметную корму маленького ботика, искусно спрятанного на&#160;той стороне реки под&#160;нависшими лозами береговой ракиты.
+</p><p>— А-га! Вот она!! — радостно вскрикнул он, указывай мне свою находку. — Ложись тут — отдыхай пока… — А&#160;сам завернул за&#160;первый попавшийся куст и&#160;начал там снимать свое рубище, намереваясь вплавь отправиться за&#160;лодкой.
+</p><p>В&#160;ожидании этой дорогой услуги со стороны моего товарища я&#160;с удовольствием привалился на&#160;берегу и&#160;через минуту увидел, как&#160;разоблачившийся Вихряй со всего размаха шарахнулся с&#160;береговой кручи в&#160;речную глубь, исчез надолго под&#160;водою, и&#160;только на&#160;самой середине реки вновь показался его белый торс, и&#160;сильные руки твердо и&#160;быстро заработали над&#160;водною струею, он&#160;свободно и&#160;легко переплывал реку. Немного повозившись на&#160;той стороне, он&#160;разыскал по&#160;обычаю недалеко спрятанное весло и, вскочивши в&#160;челн, отпихнулся от&#160;берега, раза два взмахнул веслом — и&#160;утлая душегубка, судорожно покачиваясь, начала подвигаться к&#160;этому боку. Не доезжая берега, он&#160;бросил весло на&#160;дно лодки и, сильно толкнувши ее к&#160;отмели, сам снова погрузился в&#160;воду с&#160;головою и&#160;вышел только опять под&#160;тем&#160;же кустом, где и&#160;прежде раздевался, стыдливо прячась от&#160;меня. Но, накидывая на&#160;себя рубаху, он, должно быть, в&#160;забытьи повернулся ко&#160;мне спиною, и&#160;тут уж не&#160;знаю, был&#160;ли&#160;то обман моего зрения вследствие истомы и&#160;голода или&#160;ложное освещение слишком яркого солнца, но&#160;только мне ясно показалось, что&#160;бледно-красноватые рубцы бороздят белую спину Вихряя в&#160;форме той зловещей симметрии, которая напоминает собою неизгладимые следы сквозь стройного путешествия.
+</p><p>Обман&#160;ли&#160;это был или&#160;горькая правда? До&#160;сих пор объяснить не&#160;умею, как&#160;тоже не&#160;умею выразить тех странных ощущений, какие я&#160;почувствовал в&#160;первые минуты этого открытия или&#160;представленья…
+</p><p>Желая сократить последний путь, я&#160;пробовал на&#160;ходу заговорить с&#160;Иваном:, о&#160;чем-то&#160;спросил у&#160;него, но&#160;он вспомнил свое любимое «асинька», протянул мне в&#160;ответ раза два это словечко, и&#160;я поневоле унялся с&#160;своими расспросами. Вообще, стало заметно, как&#160;по мере нашего приближения к&#160;жилью и&#160;людям он&#160;начинал впадать в&#160;тон своей вчерашней роли и&#160;глупого местного наречия.
+</p><p>Дотащились мы&#160;до деревни как&#160;раз в&#160;самую пору, когда вследствие усталости и&#160;голода каждый шаг еще становился для&#160;Меня мучительным страданием, да&#160;и пора было мне совсем убираться восвояси.
+</p><p>Часа через&#160;два пара разновидных кляч в&#160;лохматой сбруе, кое-как&#160;запряженные в&#160;невообразимо трескучую телегу, каким-то&#160;торжественным курц-галопом подкатились к&#160;окну избы, в&#160;которой я&#160;с своей собакой дохлебывал чуть&#160;ли&#160;уже не&#160;третий горшок перетопленного противного молока.
+</p><p>Прощаясь с&#160;Иваном, я&#160;подал ему трехрублевую бумажку с&#160;благодарностью за&#160;труд и&#160;компанию со мною.
+</p><p>— Не почто, бацька, горазд не&#160;почто, — отвечал он, низко кланяясь и&#160;конфузливо, не&#160;сразу принимая от&#160;меня деньги.
+</p><p>— Коли обойдешь на&#160;зиму медведя, подай весточку — приеду, непременно приеду и&#160;с тобой хоть на&#160;трех разом пойду.
+</p><p>— Можно, честь ваша! Этто-то&#160;можно, только не&#160;поленись приехать, а&#160;зверя тут будет…
+</p><p>Затем он&#160;поднял на&#160;руках мою собаку и, сажая в&#160;телегу, громко поцеловал ее в&#160;самое чутье, тихо промолвив при&#160;этом: «Ну, прощай и&#160;ты, умная…»
+</p><p>Крестьяне, бывшие тут праздными зрителями нашего расставанья, дружно загрохотали над&#160;этой нежностью, а&#160;глазевшая с&#160;крыльца хозяйская бабенка возмутилась этим до&#160;того, что&#160;громко плюнула на&#160;самого Вихряя и&#160;тут&#160;же обозвала его почему-то «паскудною мордой»…
+</p><p>Рассохшаяся тележонка, скрипя и&#160;подрыгивая всеми своими суставами, поползла со двора.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ПРИМЕЧАНИЯ"><span id=".D0.9F.D0.A0.D0.98.D0.9C.D0.95.D0.A7.D0.90.D0.9D.D0.98.D0.AF"></span>ПРИМЕЧАНИЯ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=9" title="Редактировать раздел «ПРИМЕЧАНИЯ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><b>БУНИН НИКОЛАЙ ГРИГОРЬЕВИЧ</b> (1834—1902) — автор книги «Рассказы охотника» (1900, 1910). Сын винного пристава, служил акцизным надзирателем под&#160;началом М.&#160;А. Языкова, знакомого И. С.&#160;Тургенева по&#160;кругу Белинского. Заядлый охотник, Н. Г.&#160;Бунин пешком исходил «роскошные местности патриархальной Малороссии и&#160;северные земли Новгородского и&#160;Витебского краев». Ружейную охоту Бунин любил, как&#160;писал в&#160;предисловии к&#160;своей книге, «за&#160;тишину ее наслаждения, как&#160;более других способствующую общению человека с&#160;природой».
+</p><p>По&#160;воспоминаниям А. Н. Мошина «Новое о&#160;великих писателях» (Спб., 1908), которым, однако, нельзя полностью доверять, так как&#160;в них имеются существенные фактические неточности, Н. Г.&#160;Бунин встречался в&#160;доме М.&#160;А. Языкова с&#160;Тургеневым, Достоевским, Некрасовым, Салтыковым-Щедриным. Сам Бунин в&#160;предисловии к&#160;своей книге писал: «Самым счастливым в&#160;жизни и, конечно&#160;же, самым драгоценным для&#160;меня было мое знакомство с&#160;незабвенным Иваном Сергеевичем Тургеневым». Согласно версии А. Н. Мошина, Н. Г.&#160;Бунин послал оттиск рассказа «Наповал!!!», посвященного И. С.&#160;Тургеневу, в&#160;Париж адресату. Тургенев якобы ответил автору письмом, которое сгорело во&#160;время пожара в&#160;квартире Бунина, погибло также и&#160;собрание сочинений Тургенева с&#160;дарственной надписью, присланное из&#160;Франции. Документов, подтверждающих такую версию, найти не&#160;удалось.
+</p><p>Во&#160;время охотничьих скитаний Н. Г.&#160;Бунин сдружился с&#160;художником-акварелистом П. П. Соколовым, известным своими иллюстрациями к «Запискам охотника» Тургенева. Соколов посвятил Н. Г.&#160;Бунину стихотворное «Дружеское послание», в&#160;котором обещал проиллюстрировать книгу своего товарища по&#160;охоте. К&#160;сожалению, эти иллюстрации (по&#160;воспоминаниям Л. И. Писарева — друга Н. Г.&#160;Бунина, в&#160;доме которого писатель жил два последних года перед&#160;смертью, рисунки Соколова к&#160;рассказам висели в&#160;комнате Бунина) найти не&#160;удалось. Заставки&#160;же к&#160;рассказам в&#160;книге Бунина, выполненные в&#160;виньеточной манере, не&#160;соответствуют стилю П. П. Соколова, по-видимому, это оттиски с&#160;немецких изданий. Текст поэмы «Дружеское послание» Бунин, как&#160;и обещал, поместил в&#160;своей книге.
+</p><p>Охотничьи рассказы Н. Г.&#160;Бунин начал публиковать в&#160;журнале Л. П. Сабанеева «Природа и&#160;охота» в 70-е гг. Отдельно был издан в&#160;виде брошюры «Из&#160;забытой тетради» (Тула, 1895)&#160;рассказ «Лука Иванович Долбняков и&#160;его Букетка», впоследствии включенный в&#160;сборник. В&#160;книгу также вошли изданные отдельными оттисками рассказы «Наповал!!!» (Природа и&#160;охота. 1881)&#160;и «Захолустник в&#160;столице» (Псовая и&#160;ружейная охота. 1896). Рассказ «Старый знакомый», на&#160;который откликнулся Тургенев, впервые был напечатан в&#160;журнале «Природа и&#160;охота» (1881. № 3). Высокую оценку рассказам Бунина дал библиофил Н. Ю. Анофриев (Охотничья библиография. Брест-Литовск, 1905).
+</p><p>В&#160;старинном русском городе Борисоглебске, на&#160;родине писателя, не&#160;осталось о&#160;нем никакой памяти, кроме записи в&#160;архиве: «Бывший старший надзиратель III округа акцизных сборов Витебской губернии надворный советник Н. Г.&#160;Бунин умер 5 октября 1902&#160;года, похоронен 7 октября 1902&#160;года». Не сохранился и&#160;памятник на&#160;могиле писателя, сооруженный на&#160;средства от&#160;пожертвований, организованных по&#160;инициативе Московского общества охоты, как&#160;не сохранилось и&#160;само кладбище: город разросся, кладбище оказалось в&#160;центре, и&#160;совсем недавно было решено его снести. И&#160;только книга «Рассказы охотника» спасла Николая Григорьевича Бунина от&#160;небытия.
+</p><p>Тексты печатаются по&#160;изд.: Бунин Н. Г.&#160;Рассказы охотника. Спб., 1900.
+</p><p><br />
+</p>
+<style data-mw-deduplicate="TemplateStyles:r4837660">.mw-parser-output .hr-custom{height:1px;width:40em;margin-left:auto;margin-right:auto;margin-top:5ex;margin-bottom:5ex}</style><hr class="hr-custom" style="width:8em;margin-left:0ex; margin-right:auto; margin-top: 2ex; margin-bottom: 2ex;" /><div class="references-small" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">В&#160;левую сторону груди, снизу вверх под&#160;третье ребро. <i>(Примеч. автора.)</i></span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Коноводами здесь называют погонщиков лошадей, на&#160;которых тянутся грузовые суда вверх по&#160;течению реки Шексны. <i>(Примеч. автора.)</i></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Знакомый остановился. <i>(Примеч. автора.)</i></span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Значит — трогай. <i>(Примеч. автора.)</i></span>
+</li>
+<li id="cite&#95;note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Перегодовалое животное.</span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Пажок — называется костер. <i>(Примеч. автора.)</i></span>
+</li>
+</ol>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐74cbb9fbd5‐jtg9l
+Cached time: 20260215200732
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.105 seconds
+Real time usage: 0.165 seconds
+Preprocessor visited node count: 310/1000000
+Revision size: 182452/2097152 bytes
+Post‐expand include size: 8916/2097152 bytes
+Template argument size: 1172/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2651/5000000 bytes
+Lua time usage: 0.044/10.000 seconds
+Lua memory usage: 1987115/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  123.305      1 -total
+ 90.77%  111.920      1 Шаблон:Отексте
+  6.76%    8.333      1 Шаблон:Примечания
+  3.98%    4.912      1 Шаблон:---
+  1.09%    1.342      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1013542:|#|:idhash:canonical and timestamp 20260215200732 and revision id 5590964. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Из_рассказов_охотника-переселенца_(Бунин)&amp;oldid=5590964">https://ru.wikisource.org/w/index.php?title=Из_рассказов_охотника-переселенца_(Бунин)&amp;oldid=5590964</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%91%D1%83%D0%BD%D0%B8%D0%BD" title="Категория:Николай Григорьевич Бунин">Николай Григорьевич Бунин</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1900_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1900 года">Литература 1900 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BD%D0%B5_%D0%B2%D0%B8%D0%BA%D0%B8-%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Импорт/lib.ru/Страницы с не вики-заголовками">Импорт/lib.ru/Страницы с не вики-заголовками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%91%D1%83%D0%BD%D0%B8%D0%BD" title="Категория:Импорт/az.lib.ru/Николай Григорьевич Бунин">Импорт/az.lib.ru/Николай Григорьевич Бунин</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 31 июля 2025 года в 04:40.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Из рассказов охотника-переселенца (Бунин)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-pkfpl","wgBackendResponseTime":122,"wgPageParseReport":{"limitreport":{"cputime":"0.105","walltime":"0.165","ppvisitednodes":{"value":310,"limit":1000000},"revisionsize":{"value":182452,"limit":2097152},"postexpandincludesize":{"value":8916,"limit":2097152},"templateargumentsize":{"value":1172,"limit":2097152},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2651,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  123.305      1 -total"," 90.77%  111.920      1 Шаблон:Отексте","  6.76%    8.333      1 Шаблон:Примечания","  3.98%    4.912      1 Шаблон:---","  1.09%    1.342      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.044","limit":"10.000"},"limitreport-memusage":{"value":1987115,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Николай Григорьевич Бунин\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"Старый знакомый\u003Cbr\u003E\\\nВихряй\",\n    [\"published\"] = \"1900\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/b/bunin_n_g/text_0010.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Из рассказов охотника-переселенца\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.codfw.main-74cbb9fbd5-jtg9l","timestamp":"20260215200732","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

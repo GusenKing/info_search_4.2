@@ -1,0 +1,1221 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Картинки-невидимки (Андерсен) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"0b437f20-367a-4485-9f06-c7149bf9e9eb","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Картинки-невидимки_(Андерсен)","wgTitle":"Картинки-невидимки (Андерсен)","wgCurRevisionId":5586464,"wgRevisionId":5586464,"wgArticleId":998565,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru","Импорт/az.lib.ru/Ганс Христиан Андерсен","Переводы с датского языка","Проза","Сборники рассказов","Ганс Христиан Андерсен","Литература 1847 года","Анна Васильевна Ганзен"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Картинки-невидимки_(Андерсен)","wgRelevantArticleId":998565,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5586464,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Картинки-невидимки (Андерсен) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Картинки-невидимки_Андерсен rootpage-Картинки-невидимки_Андерсен skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8+%28%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8+%28%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8+%28%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8+%28%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Картинки-невидимки_[*]_Billedbog_uden_Billeder"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Картинки-невидимки_[*]_Billedbog_uden_Billeder">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Картинки-невидимки [*] <i>Billedbog uden Billeder</i></span>
+			</div>
+		</a>
+		
+		<ul id="toc-Картинки-невидимки_[*]_Billedbog_uden_Billeder-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_I"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_I">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Вечер I</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_I-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_II"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_II">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Вечер II</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_II-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_III"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_III">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Вечер III</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_III-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_IV"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_IV">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Вечер IV</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_IV-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_V"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_V">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Вечер V</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_V-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_VI"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_VI">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>Вечер VI</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_VI-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_VII"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_VII">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>Вечер VII</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_VII-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_VIII"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_VIII">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>Вечер VIII</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_VIII-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_IX"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_IX">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>Вечер IX</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_IX-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_X"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_X">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">11</span>
+				<span>Вечер X</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_X-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XI"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XI">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">12</span>
+				<span>Вечер XI</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XI-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XII"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XII">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">13</span>
+				<span>Вечер XII</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XII-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XIII"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XIII">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">14</span>
+				<span>Вечер XIII</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XIII-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XIV"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XIV">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">15</span>
+				<span>Вечер XIV</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XIV-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XV"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XV">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">16</span>
+				<span>Вечер XV</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XV-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XVI"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XVI">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">17</span>
+				<span>Вечер XVI</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XVI-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XVII"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XVII">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">18</span>
+				<span>Вечер XVII</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XVII-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XVIII"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XVIII">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">19</span>
+				<span>Вечер XVIII</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XVIII-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XIX"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XIX">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">20</span>
+				<span>Вечер XIX</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XIX-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XX"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XX">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">21</span>
+				<span>Вечер XX</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XX-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XXI"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XXI">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">22</span>
+				<span>Вечер XXI</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XXI-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XXII"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XXII">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">23</span>
+				<span>Вечер XXII</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XXII-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XXIII"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XXIII">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">24</span>
+				<span>Вечер XXIII</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XXIII-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XXIV"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XXIV">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">25</span>
+				<span>Вечер XXIV</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XXIV-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XXV"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XXV">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">26</span>
+				<span>Вечер XXV</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XXV-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XXVI"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XXVI">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">27</span>
+				<span>Вечер XXVI</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XXVI-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XXVII"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XXVII">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">28</span>
+				<span>Вечер XXVII</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XXVII-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XXVIII"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XXVIII">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">29</span>
+				<span>Вечер XXVIII</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XXVIII-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XXIX"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XXIX">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">30</span>
+				<span>Вечер XXIX</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XXIX-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XXX"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XXX">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">31</span>
+				<span>Вечер XXX</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XXX-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XXXI"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XXXI">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">32</span>
+				<span>Вечер XXXI</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XXXI-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XXXII"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XXXII">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">33</span>
+				<span>Вечер XXXII</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XXXII-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Вечер_XXXIII"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Вечер_XXXIII">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">34</span>
+				<span>Вечер XXXIII</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Вечер_XXXIII-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Картинки-невидимки (Андерсен)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8+%28%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;oldid=5586464" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_%28%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%29&amp;id=5586464&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259A%25D0%25B0%25D1%2580%25D1%2582%25D0%25B8%25D0%25BD%25D0%25BA%25D0%25B8-%25D0%25BD%25D0%25B5%25D0%25B2%25D0%25B8%25D0%25B4%25D0%25B8%25D0%25BC%25D0%25BA%25D0%25B8_%28%25D0%2590%25D0%25BD%25D0%25B4%25D0%25B5%25D1%2580%25D1%2581%25D0%25B5%25D0%25BD%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259A%25D0%25B0%25D1%2580%25D1%2582%25D0%25B8%25D0%25BD%25D0%25BA%25D0%25B8-%25D0%25BD%25D0%25B5%25D0%25B2%25D0%25B8%25D0%25B4%25D0%25B8%25D0%25BC%25D0%25BA%25D0%25B8_%28%25D0%2590%25D0%25BD%25D0%25B4%25D0%25B5%25D1%2580%25D1%2581%25D0%25B5%25D0%25BD%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_%28%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_%28%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_%28%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_%28%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_%28%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_%28%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Картинки-невидимки</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%93%D0%B0%D0%BD%D1%81_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD" title="Автор:Ганс Христиан Андерсен">Ганс Христиан Андерсен</a></span>, пер. <span id="ws-translator"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D0%BD%D0%BD%D0%B0_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0_%D0%93%D0%B0%D0%BD%D0%B7%D0%B5%D0%BD" title="Автор:Анна Васильевна Ганзен">Анны Ганзен</a> и <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%9F%D0%B5%D1%82%D1%80_%D0%93%D0%BE%D1%82%D1%84%D1%80%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87_%D0%93%D0%B0%D0%BD%D0%B7%D0%B5%D0%BD" class="mw-redirect" title="Автор:Петр Готфридович Ганзен">Петра Ганзена</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Оригинал:  <span id="ws-original&#95;lang" data-langcode="da">дат.</span> <i><span id="ws-original&#95;title">Billedbog uden Billeder</span></i>, опубл.: <span id="ws-original&#95;published">1847</span>.&#160;— Источник: <span class="ws-source">Г.&#160;Х. Андерсен. Собрание сочинений Андерсена в&#160;четырёх томах. Том третий. Издание второе — С.-Петербург: Акцион. Общ. «Издатель», 1899, С.&#160;313—339.  <a rel="nofollow" class="external text" href="http://az.lib.ru/a/andersen_g_h/text_1847_billedbog_uden_billeder.shtml">az.lib.ru</a></span> </td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%93%D0%B0%D0%BD%D1%81_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD" title="Автор:Ганс Христиан Андерсен">Ганс Христиан Андерсен</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="Картинки-невидимки_[*]_Billedbog_uden_Billeder"><span id=".D0.9A.D0.B0.D1.80.D1.82.D0.B8.D0.BD.D0.BA.D0.B8-.D0.BD.D0.B5.D0.B2.D0.B8.D0.B4.D0.B8.D0.BC.D0.BA.D0.B8_.5B.2A.5D_Billedbog_uden_Billeder"></span>Картинки-невидимки [*] <br /><i>Billedbog uden Billeder</i></h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=1" title="Редактировать раздел «Картинки-невидимки [*] Billedbog uden Billeder»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<center><i>Перевод А. В. Ганзен</i></center>
+<p><i>[*] — Заглавие датского подлинника 'Billedbog uden Billeder', по-немецки 'Bilderbuch ohne Bilder', в&#160;дословном переводе: 'Книжка с&#160;картинками без&#160;картин'. — Примечание переводчиков — А. и&#160;П. Ганзен.</i>
+</p><p>Странное дело! Всякий раз, как&#160;чувства во&#160;мне разгорятся с&#160;особенной силой и&#160;так вот и&#160;просятся наружу — точно кто свяжет мне и&#160;руки и&#160;язык! Ни&#160;передать, ни&#160;высказать того, что&#160;у меня на&#160;сердце! А&#160;ведь я&#160;художник; я&#160;и сам это вижу, и&#160;от других слышу, ото всех, кто только видел мои рисунки и&#160;наброски. Человек я&#160;бедный и&#160;живу в&#160;узеньком переулке; светом я, впрочем, богат: каморка моя в&#160;самом верху, и&#160;я пользуюсь видом на&#160;все соседние крыши. Первые дни по&#160;переезде в&#160;город мне было как-то&#160;не по&#160;себе: тесно, скучно, вместо леса и&#160;зеленых холмов на&#160;горизонте — одни закоптелые трубы. Ни&#160;одной знакомой души, ни&#160;одного дружеского, приветливого лица!
+</p><p>Но&#160;раз вечером подхожу я&#160;в грустном раздумье к&#160;окошку, растворяю его и&#160;выглядываю… Вот радость-то! На&#160;меня приветливо глядит знакомый круглый лик, мой лучший, давнишний друг — месяц! Он&#160;ничуть не&#160;переменился, все такой&#160;же, как&#160;и в&#160;то время, когда светил, бывало, ко&#160;мне из-за&#160;ветвей ив, росших у&#160;болота. Я&#160;послал ему воздушный поцелуй, а&#160;он заглянул в&#160;мою каморку и&#160;пообещал наведываться ко&#160;мне каждый вечер, когда выйдет на&#160;прогулку. Он&#160;и&#160;сдержал слово; жаль только, что&#160;визиты его обыкновенно так коротки! Он&#160;всякий раз что-нибудь рассказывает мне о&#160;том, что&#160;видел или&#160;накануне, или&#160;в этот&#160;же вечер. «Набрасывай эти картинки в&#160;тетрадь, и&#160;выйдет целая книжка с&#160;картинками!» — сказал он&#160;мне в&#160;первое&#160;же свое посещение. Я&#160;так и&#160;делал вечер за&#160;вечером и&#160;мог&#160;бы&#160;теперь предложить вам своего рода новую «Тысячу и&#160;одну ночь» в&#160;картинах, да&#160;это, пожалуй, было&#160;бы&#160;уж слишком! Даю поэтому лишь несколько картинок; я&#160;не выбирал их, они&#160;являются здесь в&#160;том&#160;же порядке, в&#160;каком набросаны у&#160;меня. Гениальный художник, поэт или&#160;композитор сумел&#160;бы&#160;воспользоваться этим материалом лучше, я&#160;же могу дать только одни бледные наброски вперемешку с&#160;собственными размышлениями — месяц навещал меня ведь не&#160;каждый вечер: случалось, что&#160;его заволакивали облака.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_I"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_I"></span>Вечер I</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=2" title="Редактировать раздел «Вечер I»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Прошлою ночью, — говорю словами самого месяца, — я&#160;скользил по&#160;ясному небу Индии, глядясь в&#160;воды Ганга. Лучи мои тщетно силились проникнуть сквозь чащу старых платанов; густолиственные ветви их переплелись и&#160;образовали стену, непроницаемую, как&#160;броня черепахи. Вдруг из&#160;чащи вышла молодая девушка, легкая, как&#160;газель, прекрасная, как&#160;сама Ева, истая дочь Индии, поражающая какою-то&#160;воздушной прелестью и&#160;в то&#160;же время пышной роскошью форм. Сквозь тонкую кожу, казалось, просвечивали самые мысли девушки. Колючие лианы рвали ее сандалии, но&#160;она быстро шла вперед. Хищный зверь, только что&#160;утоливший в&#160;реке свою жажду, пугливо отпрянул в&#160;сторону: в&#160;руках у&#160;девушки сияла лампада. Я&#160;видел, как&#160;переливалась алая кровь в&#160;нежных пальчиках, прикрывавших пламя от&#160;ветра. Вот она подошла к&#160;реке и&#160;пустила лампаду по&#160;течению. Огонек заколебался; вот-вот он&#160;погаснет, но&#160;нет! Девушка провожала его сияющим взором; все силы ее души сосредоточились в&#160;сверкающих огнем глазах, опушенных шелковой бахромой длинных ресниц. Ведь если огонек будет гореть, пока лампада не&#160;скроется из&#160;виду — милый ее жив; погаснет — значит, он&#160;умер! Лампада плыла, огонек горел, то&#160;вспыхивая, то&#160;замирая, а&#160;с ним вместе то&#160;вспыхивало надеждой, то&#160;замирало и&#160;сердце девушки. Вот она опустилась на&#160;колени, и&#160;уста ее зашептали молитву. Невдалеке притаилась в&#160;густой траве холодная скользкая змея, но&#160;девушка не&#160;думает о&#160;ней; мысли ее несутся к&#160;Браме и&#160;к милому. «Он&#160;жив!» — радостно восклицает она, и&#160;горы шлют отклик: «Он&#160;жив!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_II"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_II"></span>Вечер II</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=3" title="Редактировать раздел «Вечер II»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Вчера, — рассказывал месяц, — я&#160;заглянул во&#160;дворик, стиснутый со всех сторон высокими стенами домов. Вокруг наседки с&#160;целым выводком цыплят прыгала прехорошенькая маленькая девочка, а&#160;наседка отчаянно кудахтала и&#160;топорщила крылья, стараясь укрыть своих деток. На&#160;шум явился отец девочки и&#160;принялся бранить шалунью. Я&#160;скрылся и&#160;скоро забыл про&#160;эту историю, но&#160;сегодня, всего несколько минут тому назад, я&#160;опять заглянул во&#160;двор. Сначала все было тихо, но&#160;скоро явилась девочка, подкралась к&#160;курятнику, отодвинула задвижку и&#160;шмыгнула в&#160;угол, где сидела наседка с&#160;цыплятами. Курица закудахтала, цыплята запищали и&#160;принялись метаться из&#160;угла в&#160;угол; девочка гонялась за&#160;ними. Я&#160;видел все это в&#160;щелочку курятника, и&#160;мне было очень досадно на&#160;злую шалунью. То-то&#160;обрадовался я, когда в&#160;курятник вошел ее отец! Он&#160;схватил девочку за&#160;руку и&#160;напустился на&#160;нее еще сердитее, чем вчера. Она откинула головку назад; большие голубые глаза ее были полны слез. «Зачем ты забралась сюда?» — спросил отец. Она заплакала: "Я… я&#160;хотела поцеловать курицу и&#160;попросить у&#160;нее прощения за&#160;вчерашнее, да&#160;боялась сказать тебе!.. «&#160;И&#160;отец поцеловал невинную малютку в&#160;лоб, а&#160;я — в&#160;глазки и&#160;в губки!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_III"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_III"></span>Вечер III</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=4" title="Редактировать раздел «Вечер III»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Недалеко есть переулок до&#160;того узкий, что&#160;я могу заглянуть в&#160;него мимоходом лишь на&#160;минуту, но&#160;мне довольно и&#160;этого беглого взгляда, чтобы рассмотреть, какие люди там ютятся. Сегодня я&#160;видел там женщину. Шестнадцать лет тому назад она была ребенком и&#160;беззаботно играла в&#160;саду старого пасторского дома, за&#160;городом. Старые кусты роз, доживавшие свой век, росли вкривь и&#160;вкось, а&#160;свежие дикие побеги их перекидывались через&#160;дорожку и&#160;переплетались с&#160;ветвями яблонь. На&#160;кустах, однако, виднелись еще кое-где розы. Они, хоть и&#160;не отличались уже обычной красотой цариц цветов, все-таки украшали кусты и&#160;разливали вокруг благоухание. Куда прекраснее их была, по-моему, дочка пастора. Она притащила под&#160;кусты маленькую скамеечку и&#160;сидела тут, баюкая и&#160;целуя свою куклу с&#160;провалившимися щеками. Прошло десять лет, и&#160;я увидел девушку в&#160;великолепно убранной бальной зале. Она была невестой богатого купца. Я&#160;порадовался ее счастью и&#160;часто потом следил за&#160;нею тихими вечерами. Увы! Мало кто думает о&#160;моем ясном, всевидящем оке! Прекрасная роза моя тоже росла вкривь и&#160;вкось, пускала дикие побеги, как&#160;розовые кусты в&#160;пасторском саду! И&#160;среди будничной жизни разыгрываются своего рода трагедии; вчера вечером я&#160;видел в&#160;узком переулке последнее действие одной из&#160;таких трагедий. Девушка лежала на&#160;постели при&#160;смерти, но&#160;злой хозяин, единственный ее покровитель, безжалостно отдернул занавеску. „Вставай, принарядись, пугало ты этакое! — грубо крикнул он&#160;на нее. — Добывай деньги, или&#160;я вышвырну тебя на&#160;улицу! Ну, живо!“ — „Я&#160;умираю! Дайте мне отойти с&#160;миром!“ — молила она. Но&#160;он&#160;поднял ее силой, сам нарумянил ее щеки, убрал голову цветами и, посадив ее у&#160;открытого окна, близ ярко горящей свечки, ушел. Я&#160;смотрел на&#160;нее. Она сидела неподвижно, уронив руки на&#160;колени. Ветер порывисто захлопнул окно; одно из&#160;стекол вылетело, занавеска взвилась над&#160;головой девушки, но&#160;она не&#160;шевельнулась: она умерла! Из&#160;открытого окна глядело немое нравоучение — моя роза из&#160;пасторского сада».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_IV"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_IV"></span>Вечер IV</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=5" title="Редактировать раздел «Вечер IV»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Вчера вечером я&#160;побывал в&#160;немецком театре, в&#160;одном провинциальном городке! — начал месяц. — Театром служила конюшня: стойла были переделаны в&#160;ложи, деревянные перегородки обиты разноцветной бумагою. С&#160;низкого потолка спускалась небольшая железная люстра; как&#160;раз над&#160;нею в&#160;потолок вделали опрокинутый вверх дном бочонок, чтобы люстру можно было поднимать кверху, как&#160;это делается в&#160;больших театрах. „Динь-динь!“ — зазвонил суфлер, и&#160;люстра — прыг в&#160;бочонок; теперь уж все знали, что&#160;представление сейчас начнется! На&#160;представлении присутствовала проезжая княжеская чета; театр поэтому был набит битком, только под&#160;самой люстрой образовалось что-то&#160;вроде маленького кратера. Тут не&#160;сидело ни&#160;души, — свечи оплывали, и&#160;сало то&#160;и дело капало на&#160;пол: „кап-кап!“ Я&#160;видел все это, — в&#160;театре стояла такая жара, что&#160;пришлось открыть люки, заменявшие окна. С&#160;улицы в&#160;них заглядывали мальчишки и&#160;девчонки, даром что&#160;в театре сидела полиция и&#160;грозила им палкой. Перед&#160;самым оркестром восседала на&#160;двух старых креслах княжеская чета. Обыкновенно эти места занимали бургомистр и&#160;его супруга, но&#160;сегодня им пришлось сесть на&#160;простые скамьи наряду с&#160;прочими горожанами. „То-то! И&#160;над&#160;нашими господами, знать, есть господа“, — шушукались между собою кумушки, и&#160;все кругом приобретало в&#160;их глазах еще более праздничный вид. Люстра ушла в&#160;потолок, уличным зевакам попало по&#160;рукам палкой, а&#160;мне… мне удалось посмотреть комедию!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_V"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_V"></span>Вечер V</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=6" title="Редактировать раздел «Вечер V»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Вчера, — рассказывал месяц, — я&#160;плыл над&#160;неугомонным Парижем и&#160;заглянул в&#160;луврские покои. Сторож ввел в&#160;огромную пустынную тронную залу какую-то&#160;бедно одетую старушку из&#160;простонародья. Она так добивалась увидеть эту залу! И&#160;сколько это стоило ей хлопот и&#160;денег, сколько упрашиваний! Теперь она стояла посреди залы, сложив руки и&#160;благоговейно озираясь вокруг, точно попала в&#160;церковь. «Так вот где это было! Вот где! — промолвила она и&#160;подошла к&#160;трону, драпированному дорогим бархатом с&#160;золотою бахромой. — Тут! — продолжала она. — Тут!» И, опустившись перед&#160;троном на&#160;колени, она поцеловала бархатную драпировку. Мне почудилось, что&#160;она плакала. «Это уж не&#160;тот бархат!» — сказал сторож, и&#160;на губах его заиграла улыбка. «Но&#160;все-таки это было здесь! — сказала старушка. — И&#160;все осталось здесь по-прежнему!» — «Осталось, да&#160;не совсем! — ответил он. — Окна тогда были выбиты, двери выломаны, а&#160;на полу стояли кровавые лужи! Но&#160;все&#160;же это верно: ваш внук умер на&#160;троне Франции!» — «Умер!» — прошептала старуха. Больше, кажется, не&#160;было сказано ни&#160;слова, и&#160;они скоро ушли. Вечерние сумерки сгустились, и&#160;на дорогом бархате трона легли от&#160;моих лучей еще более яркие блики. Как&#160;ты думаешь, кто была эта старуха? Я&#160;расскажу тебе историю. Дело было во&#160;время Июльской революции, под&#160;вечер, в&#160;день блистательной победы, когда каждый дом служил крепостью, каждое окно бойницею. Народ атаковал дворец; в&#160;толпу осаждающих вмешались и&#160;женщины и&#160;дети. Скоро они&#160;ворвались в&#160;роскошные покои дворца. Бедный оборванный мальчуган-подросток храбро дрался в&#160;рядах взрослых и&#160;пал, смертельно раненный штыками. Случилось это в&#160;тронной зале. Его подняли и&#160;положили на&#160;трон Франции; из&#160;ран струилась кровь, и&#160;их пытались заткнуть дорогим бархатом, но&#160;кровь скоро просочилась сквозь него. Вот была картина! Роскошная зала, группы сражающихся, на&#160;полу разорванное знамя, над&#160;штыками трехцветные значки, и&#160;на троне Франции бедный мальчуган с&#160;обнаженной грудью, помертвевшим, но&#160;ясным лицом и&#160;устремленным к&#160;небу взором! Жалкие лохмотья и&#160;рядом роскошный пурпурный бархат, затканный серебряными лилиями! Предсказал&#160;ли&#160;кто этому мальчику еще в&#160;колыбели: «Он&#160;умрет на&#160;троне Франции?» Мать, может быть, мечтала о&#160;новом Наполеоне! Я&#160;целовал венок из&#160;иммортелей, украшавший его могилу, целовал ночью в&#160;лоб и&#160;старуху бабушку, когда ей грезилась во&#160;сне картина, что&#160;я сейчас нарисовал тебе: бедный мальчик на&#160;троне Франции!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_VI"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_VI"></span>Вечер VI</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=7" title="Редактировать раздел «Вечер VI»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Я&#160;был в&#160;Упсале! — сказал месяц. Там есть обширная равнина, а&#160;по ней разбросаны чахлые пастбища и&#160;истощенные поля. Я&#160;плыл над&#160;нею и&#160;гляделся в&#160;воды реки Фири; по&#160;реке скользил пароход, загоняя испуганных рыб в&#160;осоку. Подо мною неслись облака, бросавшие длинные тени на&#160;холмы, или&#160;могилы Одина, Тора и&#160;Фрейи, как&#160;их прозвали. Холмы одеты тонким дерном, и&#160;на нем вырезано множество имен. Тут нет ни&#160;памятников, ни&#160;скал, на&#160;которых&#160;бы&#160;можно было выцарапать или&#160;написать свои имена, так путники и&#160;пользуются дерном. Обнаженные полоски земли, образующие буквы и&#160;целые имена, испещряют холмы вдоль и&#160;поперек. Увы, эти пути к&#160;бессмертию скоро зарастают травою!.. На&#160;вершине одного из&#160;холмов стоял певец. Он&#160;поднес к&#160;устам налитый медом рог, охваченный широким серебряным кольцом, и&#160;осушил его до&#160;дна, прошептав при&#160;этом чье-то&#160;имя. Он&#160;просил ветер не&#160;выдавать его, но&#160;я-то&#160;слышал, чье это было имя! Над&#160;ним сияет графская корона, потому певец и&#160;не осмелился произнести его вслух. Я&#160;улыбнулся: над&#160;его именем сияет ведь корона поэта, а&#160;если имя знатной Элеоноры Эсте и&#160;живет еще до&#160;сих пор, то&#160;лишь благодаря тому, что&#160;связано с&#160;именем Тассо! И&#160;я&#160;знаю, где цветет роза поэта!.. "
+</p><p>Тут облака заволокли месяц и&#160;скрыли его от&#160;меня. Ничего! Лишь&#160;бы&#160;они не&#160;становились между поэтом и&#160;розой!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_VII"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_VII"></span>Вечер VII</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=8" title="Редактировать раздел «Вечер VII»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Вдоль морского берега тянется густой лес — дубы да&#160;буки. Как&#160;славно пахнет там весною! Каждую весну он&#160;оглашается также трелями сотен соловьев. Поблизости, как&#160;сказано, море, вечно изменчивое море, а&#160;между ним и&#160;лесом бежит проезжая дорога. По&#160;ней то&#160;и дело катятся телеги. Я&#160;не&#160;слежу за&#160;ними; лучи мои больше любят отдыхать на&#160;древнем кургане. Серые камни опутаны побегами ежевики и&#160;дикого терна. Вся природа дышит здесь поэзией! А&#160;знаешь, как&#160;относятся к&#160;ней люди? Я&#160;расскажу тебе, что&#160;я слышал там вчера вечером и&#160;ночью. Проехали двое богатых крестьян. „Чудесные деревья!“ — сказал один. „Да, из&#160;каждого выйдет возов по&#160;десяти дров! — отозвался другой. — Зима нынче будет суровая, а&#160;мы и&#160;прошлый год брали по&#160;четырнадцати риксдалеров за&#160;сажень!“ И&#160;они&#160;проехали. „Какая тут скверная дорога!“ — сказал следующий проезжий. „Это все проклятые деревья виноваты! — ответил ему товарищ. — Этакая сырость! Ветер только с&#160;одной стороны — с&#160;моря!“ И&#160;эти тоже проехали. Затем прокатил дилижанс. Пассажиры проспали самое живописное местечко во&#160;всей окрестности. Не спал один кучер; он&#160;трубил в&#160;рог, и, верно, думал про&#160;себя: „Каков я&#160;трубач! И&#160;как&#160;здесь славно раздается!“ Потом проскакали верхом двое парней. „Ну что-то&#160;эти скачут? В&#160;них молодость бьет ключом, кровь играет как&#160;шампанское!“ — подумал я. Они&#160;с&#160;улыбкой поглядели на&#160;одетый мхом курган и&#160;на темную чащу кустов. „Вот&#160;бы&#160;прогуляться тут с&#160;мельниковой Христиной!“ — сказал один из&#160;парней, и&#160;оба промчались. А&#160;в&#160;сонном воздухе струилось такое благоухание, море, казалось, сливалось с&#160;небом, опрокинувшимся над&#160;глубокой долиной!.. Мимо проехал еще экипаж. В&#160;нем сидело шесть человек; четверо спали, пятый размышлял о&#160;своем новом летнем пальто: „Должно быть, идет!“ Шестой&#160;же нагнулся к&#160;кучеру и&#160;спросил: „Что&#160;это за&#160;куча камней? Чем-нибудь замечательна?“ — „Нет! — ответил парень. — Куча как&#160;куча, а&#160;вот деревья, те примечательны!“ — „Ну, ну, расскажи!“ — „Да&#160;вот зимой, когда всю дорогу заносит снегом, они&#160;служат мне приметой! Держись, значит, их, не&#160;то как&#160;раз угодишь в&#160;море! Вот какие они&#160;примечательные!“ Проехали и&#160;эти. На&#160;смену им явился художник; глаза его так и&#160;сияли, но&#160;он не&#160;говорил ни&#160;слова, а&#160;только посвистывал. Соловьи заливались один громче другого. „Заткните глотки! — заворчал он, тщательно отмечая в&#160;своей записной книжке оттенки и&#160;тона. — Голубой, лиловый, темно-коричневый… То-то&#160;выйдет картина!“ Он, как&#160;зеркало, воспринимал в&#160;себя картину окружающей природы, ни&#160;на минуту не&#160;переставая насвистывать какой-то&#160;марш Россини. После него пришла сюда бедная девушка. Она сложила свою ношу у&#160;подножия кургана и&#160;присела возле нее сама, склонившись бледным, прекрасным личиком в&#160;сторону леса, откуда неслись соловьиные трели. Как&#160;сияли ее глаза при&#160;виде безграничного простора неба и&#160;моря, слившихся вместе! Она сложила руки и, видимо, погрузилась в&#160;тихую молитву. Она и&#160;сама не&#160;ведала, какие чувства волновали ее душу, но&#160;я знаю, что&#160;и многие, многие годы спустя поразившая ее в&#160;эту минуту своею дивною красотой природа будет отражаться в&#160;ее воспоминании куда прекраснее, куда правдивее, нежели в&#160;картине художника, как&#160;бы точно ни&#160;отметил он&#160;все краски! Я&#160;следил за&#160;девушкой до&#160;тех пор, пока чела ее не&#160;коснулся приветственный поцелуй утренней зари».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_VIII"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_VIII"></span>Вечер VIII</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=9" title="Редактировать раздел «Вечер VIII»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Все небо было покрыто тучами, месяц не&#160;показывался, и&#160;чувство сиротливого одиночества давило меня еще сильнее обыкновенного. Взор мой невольно направлялся в&#160;ту сторону, откуда должен был появиться месяц, мысли тоже неудержимо неслись к&#160;моему дорогому другу; он&#160;так мило утешал меня каждый вечер своими рассказами, рисовал мне такие чудные картинки!.. Да, чего-чего не&#160;перевидал он&#160;на своем веку! Он&#160;видел и&#160;картину всемирного потопа, приветливо заглядывал, как&#160;теперь в&#160;мою каморку, и&#160;в ковчег, утешая его узников надеждой на&#160;обновление мира. Грустно глядел он&#160;и на&#160;евреев, плакавших на&#160;реках вавилонских, под&#160;сенью плакучих ив, на&#160;ветвях которых висели замолкшие арфы. Полускрытый ветвями кипарисов, рисовавшихся темными тенями в&#160;прозрачном воздухе, следил мой круглолицый друг и&#160;за Ромео, видел, как&#160;юноша пробирался на&#160;балкон, слышал, как&#160;прозвучал в&#160;тиши ночной страстный поцелуй, унесшийся в&#160;небо, как&#160;мысль херувима! Видел месяц и&#160;героя на&#160;острове Святой Елены: одиноко стоял он&#160;на скале, устремив взор на&#160;море, и&#160;думал великую думу. Да, о&#160;чем только не&#160;может рассказать месяц! Всемирная история для&#160;него одна сказка. Сегодня я&#160;уже не&#160;увижу тебя, мой старый друг, не&#160;сделаю в&#160;тетради на&#160;память о&#160;твоем посещении нового наброска! И&#160;вдруг из-за&#160;туч блеснул на&#160;мгновение луч света; блеснул и&#160;погас, тучи снова сгустились, но&#160;все&#160;же месяц успел послать мне свой привет, пожелать спокойной ночи.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_IX"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_IX"></span>Вечер IX</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=10" title="Редактировать раздел «Вечер IX»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Прошло несколько вечеров; небо опять было ясно, месяц появился в&#160;первой своей четверти и&#160;подал мне идею новой картинки. Послушайте, что&#160;он рассказал мне!
+</p><p>«Я&#160;смотрел вслед полярной птице и&#160;плывущему киту; они&#160;направились к&#160;восточным берегам Гренландии. Голые скалы, увенчанные льдинами и&#160;облаками, окружали долину, покрытую ковром из&#160;мха и&#160;цветущей черники. Душистые гвоздички струили свое сладкое благоухание. Я&#160;разливал вокруг матовый свет; диск мой был бледен, как&#160;долго носившийся по&#160;воде, оторванный лепесток кувшинки. На&#160;небе горело северное сияние. Из&#160;середины гигантского сияющего венца подымались бесконечные огненные снопы, переливавшиеся зелеными и&#160;красными огнями. Но&#160;окрестные жители, собравшиеся в&#160;долину на&#160;празднество, не&#160;дивились на&#160;это зрелище; они&#160;привыкли к&#160;нему. „Пусть себе души умерших играют в&#160;лапту головами моржей!“ — думали они, занятые своей пляской и&#160;пением. Посредине круга стоял человек без&#160;шубы, бил в&#160;барабан и&#160;воспевал охоту за&#160;тюленями. Остальные, одетые в&#160;белые шубы, хором подхватывали: „Эйа, эйа-а!“ — прыгали и&#160;плясали, дико поводя глазами и&#160;крутя головами. Медвежий бал, да&#160;и только! Потом началось судьбище. Противники выступали на&#160;середину круга, и&#160;обиженный затягивал под&#160;аккомпанемент барабана песню, в&#160;которой высмеивал своего обидчика. Тот отвечал такой&#160;же остроумной импровизацией. Толпа хохотала и&#160;затем произносила свое решение. Со скал слышался грохот: это скатывались вниз и&#160;дробились в&#160;пыль лавины; над&#160;равниной стояла чудная летняя гренландская ночь. Шагах в&#160;ста от&#160;сборища, в&#160;открытой юрте из&#160;звериных шкур, лежал больной. Кровь еще не&#160;застыла в&#160;его жилах, но&#160;смерть была уже близка; он&#160;и сам этому верил, и&#160;все окружающие, и&#160;жена уже наглухо зашила его в&#160;шкуры, чтобы потом не&#160;прикасаться к&#160;мертвому телу. „Где тебя похоронить? — спросила она его. — Хочешь, зарою тебя в&#160;снег на&#160;вершине скалы и&#160;украшу твою могилу каяком твоим и&#160;стрелами? Или&#160;тебе хочется лежать в&#160;море?“ — „В&#160;море!“ — прошептал, грустно улыбаясь, умирающий. „То-то&#160;славная летняя палатка! — сказала жена. — Там скачут тысячи тюленей, там спит морж, там ждет тебя веселая счастливая охота!“ И&#160;дети с&#160;воем сорвали затягивавший окно олений пузырь, чтобы можно было вынести умершего из&#160;юрты и&#160;погрузить его в&#160;волны моря; оно давало ему пищу при&#160;жизни, оно&#160;же даст ему и&#160;приют по&#160;смерти! Надгробным памятником ему будут служить плавучие, вечно сменяющие одна другую льдины; на&#160;них будут дремать тюлени, а&#160;над ними реять буревестники».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_X"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_X"></span>Вечер X</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=11" title="Редактировать раздел «Вечер X»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Знавал я&#160;одну старую деву! — рассказывал месяц. — Зимою она постоянно носила один и&#160;тот&#160;же желтый атласный салоп; он&#160;как будто не&#160;изнашивался, не&#160;выходил из&#160;моды. Летом&#160;же она ходила в&#160;одной и&#160;той&#160;же соломенной шляпе и, кажется, все в&#160;одном и&#160;том&#160;же голубом платье. Из&#160;дома она выходила только в&#160;гости к&#160;старой приятельнице, жившей в&#160;доме напротив. В&#160;последние годы она, впрочем, не&#160;ходила и&#160;туда — приятельница ее умерла. Я&#160;постоянно видел старую деву в&#160;ее каморке одну-одинешеньку. Летом окно каморки было заставлено чудесными цветами, а&#160;зимою на&#160;нем красовалось донышко от&#160;старой шляпы, в&#160;котором зеленел кресс-салат. Весь последний месяц старушка уже не&#160;присаживалась к&#160;окошку, но&#160;я знал, что&#160;она еще жива: я&#160;бы увидел, как&#160;она отправилась в&#160;тот «дальний путь», о&#160;котором так часто беседовала со своей приятельницей. "Да! — говаривала она тогда, — по&#160;смерти мне предстоит такой путь, какого я&#160;не сделала за&#160;всю свою жизнь! Наша семейная могила в&#160;шести милях от&#160;города; меня отвезут туда и&#160;положат рядом с&#160;моими родными!.. «&#160;Вчера вечером я&#160;увидел перед&#160;домом телегу; скоро из&#160;дома вынесли и&#160;поставили на&#160;нее гроб; значит, старая дева умерла! Гроб прикрыли рогожами, и&#160;телега тронулась. В&#160;гробу тихо спала старая дева. Во&#160;весь последний год своей жизни она ни&#160;разу не&#160;переступила порога своей каморки, а&#160;вот теперь после смерти отправилась в&#160;дальний путь! Телега направилась за&#160;город, да&#160;еще вскачь, словно везла кого на&#160;гулянье, а&#160;очутившись за&#160;городом, парень погнал лошадей еще шибче, то&#160;и дело боязливо оглядываясь назад. Право, кажется, он&#160;трусил: а&#160;вдруг дескать покойница-то&#160;встала да&#160;сидит теперь в&#160;своем желтом атласном салопе на&#160;крышке гроба?! Вот почему он&#160;так безрассудно и&#160;гнал лошадей, не&#160;отпуская в&#160;то&#160;же время поводья, так что&#160;удила покрылись пеною. Лошади были молодые, горячие; заяц перебежал дорогу, и&#160;они понесли. Тихая скромная старушка, едва бродившая и&#160;у себя-то&#160;по каморке, мчалась теперь во&#160;всю прыть через&#160;пни и&#160;кочки. Наконец обернутый рогожею гроб так подпрыгнул, что&#160;выскочил из&#160;телеги и&#160;остался лежать на&#160;дороге, а&#160;телеги, парня и&#160;лошадей и&#160;след простыл. Сыпля звонкие трели, взвился с&#160;поля жаворонок, пропел над&#160;гробом свою утреннюю песенку, потом сел на&#160;него и&#160;принялся теребить клювом рогожу, словно желая сорвать с&#160;кокона оболочку. Затем птичка опять взвилась к&#160;небу с&#160;звонкой песенкой, а&#160;я спрятался за&#160;румяные утренние облачка».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XI"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XI"></span>Вечер XI</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=12" title="Редактировать раздел «Вечер XI»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Был свадебный пир! — рассказывал месяц. — Пропели заздравные песни, осушили заздравные кубки, и&#160;гости оставили богатые покои. Было уже за&#160;полночь. Матери поцеловали молодых, и&#160;они остались одни. Оконные занавеси были задернуты не&#160;совсем плотно, и&#160;я мог заглянуть к&#160;ним. В&#160;уютной опочивальне горела лампа. „Слава Богу! Наконец-то&#160;все разошлись!“ — сказал муж, покрывая поцелуями руки и&#160;губки жены. А&#160;она улыбалась ему сквозь слезы, покоясь на&#160;его груди и&#160;вся трепеща от&#160;волнения, как&#160;цветок лотоса на&#160;зыбкой поверхности потока. Полились тихие задушевные речи… „Спи с&#160;Богом!“ — наконец сказал он, но&#160;она подошла к&#160;окну и&#160;откинула занавеску. „Как&#160;чудно сияет месяц! — промолвила она. — Гляди, как&#160;тихо, как&#160;светло!“ — И&#160;она погасила лампу. В&#160;уютной комнатке стало темно, и&#160;в этой темноте сияли только мои лучи да&#160;глаза молодого мужа. Женственность! Целуй лиру поэта, когда он&#160;воспевает мистерии жизни!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XII"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XII"></span>Вечер XII</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=13" title="Редактировать раздел «Вечер XII»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«А&#160;вот тебе еще картинка! — начал месяц. — Я&#160;плыл над&#160;предместьем Помпеи, над&#160;улицею Гробниц, где стоят ряды прекрасных памятников, где некогда плясали увенчанные розами жизнерадостные юноши с&#160;девушками, сестрами Лаисы по&#160;красоте. Теперь там царит мертвая тишина! Часовые, наемные неаполитанские солдаты из&#160;немцев, играли в&#160;карты и&#160;в кости. В&#160;город направлялась целая толпа иностранцев в&#160;сопровождении конвоя. Иностранцам хотелось осмотреть восставший из&#160;могилы город при&#160;свете моих лучей. Я&#160;и&#160;показал им следы колес, оставшиеся на&#160;вымощенной широкими плитами лавы улице, надписи над&#160;дверями домов и&#160;уцелевшие кое-где вывески. Увидели они&#160;и узенькие дворики с&#160;бассейнами посредине, украшенными раковинами. Но&#160;давно уже умолкло журчание фонтанов, не&#160;раздавалось больше из&#160;богато расписанных покоев, охраняемых у&#160;входов бронзовыми псами, ни&#160;песен, ни&#160;звуков. Город давно умер! Все смолкло! Не смолкал только вечный громовый гимн Везувия; отдельные строфы этого гимна именуются на&#160;человеческом языке извержениями. Я&#160;последовал за&#160;иностранцами к&#160;беломраморному храму Венеры; к&#160;алтарю по-прежнему вели широкие ступени, но&#160;между колоннами выросли плакучие ивы. На&#160;ясном лазурном небе рисовались черные, как&#160;уголь, очертания Везувия. Из&#160;кратера его как&#160;будто выросла гигантская пиния: пламя служило ей стволом, а&#160;багровые, словно пропитанные кровью клубы дыма — кроною. В&#160;числе путешественников была одна певица. Я&#160;не&#160;раз был свидетелем ее триумфов на&#160;сценах первых театров Европы. Добравшись до&#160;древнего театра, общество разместилось на&#160;мраморных ступенях. Да, на&#160;них опять сидели зрители, как&#160;и тысячелетия тому назад! Сцена была все та&#160;же: каменные кулисы и&#160;на заднем плане две арки, через&#160;которые виднелась та&#160;же декорация — сама природа: горная цепь, идущая от&#160;Сорренто к&#160;Амальфи. Певица шутя поднялась на&#160;сцену и&#160;запела. Место и&#160;обстановка вдохновили ее; казалось, дикий аравийский скакун мчится по&#160;степи, раздув ноздри и&#160;распустив по&#160;ветру пышную гриву, — та&#160;же легкость, та&#160;же смелость; казалось, скорбящая матерь рыдает у&#160;подножия креста — та&#160;же глубокая, за&#160;душу хватающая скорбь!.. И&#160;со ступеней амфитеатра раздались, как&#160;и в&#160;былые времена, восторженные рукоплескания. „Счастливица! Любимица богов!“ — ликовали слушатели. Через&#160;минуту театр опустел; все ушли; ни&#160;звука, ни&#160;шороха! Общество удалилось, но&#160;развалины стоят по-прежнему и&#160;простоят так еще столетия, о&#160;том&#160;же, что&#160;произошло тут сейчас, скоро не&#160;будет и&#160;помину; забудутся и&#160;шумные рукоплескания, и&#160;прекрасная певица, и&#160;ее пение, и&#160;ее улыбки. Забвение, полное забвение! Даже у&#160;меня сохранится об&#160;этих минутах лишь смутное воспоминание!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XIII"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XIII"></span>Вечер XIII</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=14" title="Редактировать раздел «Вечер XIII»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Я&#160;заглянул в&#160;окно редакторского кабинета! — рассказывал месяц. Было это где-то&#160;в Германии. Богатая обстановка, множество книг и&#160;видимо-невидимо газет. В&#160;кабинете сидели несколько молодых людей. Сам редактор стоял у&#160;конторки; перед&#160;ним лежали две небольшие книжки, ожидавшие рецензии. «Вот эту мне прислали! — сказал редактор. — Но&#160;я&#160;еще не&#160;успел познакомиться с&#160;нею! Издание красивое, а&#160;что вы скажете о&#160;самом содержании?» «Оно недурно! — отозвался один из&#160;присутствовавших, собрат автора. — Немножко растянуто, но&#160;ведь автор еще так молод! Стихосложение тоже хромает, зато мысли он&#160;высказывает весьма здравые, хотя, конечно, и&#160;довольно избитые! Но&#160;что&#160;ж? Где&#160;же набраться новых! Сказать по&#160;правде, вряд&#160;ли&#160;из него выйдет что-нибудь особенное, но&#160;похвалить его все&#160;же следует: он&#160;довольно начитан, прекрасный знаток восточных наречий и&#160;сам судит весьма здраво. Это он&#160;ведь написал такую прекрасную рецензию о&#160;моей книге „Фантазии на&#160;будничные темы“. Надо поощрить молодой талант!» — «Но&#160;ведь он&#160;настоящий олух! — сказал другой из&#160;присутствовавших. — Кто&#160;же и&#160;губит поэзию, как&#160;не эти посредственные талантики, а&#160;он век останется посредственностью!» — «Бедняга! — вмешался третий. — А&#160;тетушка-то&#160;его не&#160;нарадуется на&#160;него! Вы знаете ее, господин редактор. Это она ведь завербовала вам столько подписчиков на&#160;ваш последний перевод!» — "Да, да! Премилая женщина! — подхватил редактор. — Ну так вот, я&#160;написал коротенькую рецензию: "Несомненный талант… желанный подарок… новый цветок в&#160;саду поэзии… прекрасное издание и&#160;т. д. «. Но&#160;вот еще книжка! Автор, видно, думает, что&#160;я куплю ее! Я&#160;слышал, впрочем, что&#160;ее хвалят! Говорят — большой талант! Как&#160;по-вашему?» — «Да, все прокричали о&#160;нем, — сказал поэт. — Но&#160;тут что-то&#160;неладно. Гениальнее всего у&#160;него знаки препинания». — «Его не&#160;мешало&#160;бы&#160;слегка пробрать, не&#160;то он&#160;уж чересчур возомнит о&#160;себе!» — сказал третий. «Но&#160;это будет несправедливо! — вмешался четвертый. — К&#160;чему придираться к&#160;маленьким оплошностям, вместо того чтобы радоваться хорошему, а&#160;хорошего в&#160;этой книжке много! Все&#160;же он&#160;головой выше всех прочих!» — «То-то&#160;и есть! Коли он&#160;такой гений — к&#160;нему и&#160;надо отнестись как&#160;можно строже! И&#160;без&#160;того его хвалят довольно! Нельзя&#160;же вконец вскружить ему голову?!» — "Несомненный талант! — строчил между тем редактор. — Обычные небрежности… Как&#160;пример неудачных стихов укажем на&#160;страницу двадцать шестую, где есть два зияния… Советуем ему изучать классиков… и&#160;т. д. «.
+</p><p>Я&#160;отвернулся, — продолжал месяц, — и&#160;заглянул в&#160;окно тетушкиного дома; в&#160;гостиной сидела ручная птица — автор первой книжки; он&#160;принимал похвалы и&#160;поклонение собравшихся гостей и&#160;был вполне счастлив. Отыскал я&#160;затем и&#160;вольную птицу, другого поэта. Он&#160;тоже находился среди большого общества, в&#160;доме одного покровителя талантов. Разговор шел о&#160;книге первого поэта. „Я&#160;прочту и&#160;вашу! — обратился меценат к&#160;присутствовавшему поэту. — Но&#160;признаюсь — вы знаете, я&#160;всегда искренен, — я&#160;не ожидаю найти в&#160;ней что-нибудь особенное. Ваша муза чересчур вольна, фантастична! Но&#160;как&#160;человек вы, я&#160;знаю, достойны всякого уважения!“ В&#160;углу сидела молодая девушка и&#160;читала в&#160;какой-то&#160;книге:
+</p><p>Встречает суд гений суровый,
+</p><p>И&#160;громкое пошлость „ура“!
+</p><p>История эта стара,
+</p><p>Но&#160;вечно останется новой!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XIV"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XIV"></span>Вечер XIV</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=15" title="Редактировать раздел «Вечер XIV»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Вот что&#160;еще рассказывал мне месяц: "У&#160;дороги, ведущей в&#160;лес, стоят два крестьянских домика; низкие двери, окошки посажены вкривь и&#160;вкось; зато оба домика утопают в&#160;зелени терновых и&#160;барбарисовых кустов. Крыши поросли мхом, какими-то&#160;желтыми цветочками и&#160;диким чесноком. В&#160;маленьких садиках растут только капуста да&#160;картошка, но&#160;к забору прислонилась кудрявая цветущая бузина. Под&#160;ней сидела вчера девочка и&#160;глаз не&#160;сводила со старого дуба, что&#160;растет между домиками. От&#160;дуба остался, собственно, один сухой ствол, самая&#160;же крона спилена. На&#160;круглой верхушке ствола гнездо; хозяин его, аист, стоял там на&#160;одной ноге и&#160;щелкал клювом. К&#160;девочке подошел братишка ее и&#160;уселся рядом. «На&#160;кого это ты смотришь?» — спросил он. «На&#160;аиста! — ответила девочка. — Соседка сказала, что&#160;сегодня вечером аист прилетит к&#160;нам с&#160;новым братишкой или&#160;сестренкой, вот я&#160;и караулю их!» — «Аист никого не&#160;принесет! — возразил мальчик. — Соседка и&#160;мне то&#160;же говорила, да&#160;смеялась, я&#160;и сказал ей: „А&#160;ну, побожись!“ Она не&#160;посмела, значит, это все сказки!» — «Но&#160;откуда&#160;же тогда берутся дети?» — спросила девочка. «Их приносит сам Боженька! — пояснил мальчуган. — Они&#160;спрятаны у&#160;него под&#160;кафтаном! Только Бога никто видеть не&#160;может, значит, мы&#160;и не&#160;увидим, как&#160;Он&#160;принесет нам крошку!» В&#160;эту минуту в&#160;ветвях бузины зашелестело; дети сложили ручонки и&#160;поглядели друг на&#160;друга — это, верно, Боженька прилетел с&#160;малюткой! И&#160;они&#160;взялись за&#160;руки. Дверь домика отворилась, вышла соседка и&#160;сказала детям: «Ну, идите теперь! Знаете? Аист принес вам братишку!» Дети кивнули головками — они&#160;уже знали".
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XV"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XV"></span>Вечер XV</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=16" title="Редактировать раздел «Вечер XV»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Я&#160;плыл над&#160;Люнебургской степью! — начал месяц. — У&#160;дороги стояла одинокая хижинка; возле росло несколько обнаженных кустов, а&#160;в кустах пел свою лебединую песнь соловей: он&#160;отстал от&#160;своих, заблудился и&#160;теперь должен был замерзнуть холодной ночью! Занималась заря; по&#160;дороге двигалась толпа крестьян-переселенцев. Они&#160;направлялись в&#160;Бремен или&#160;в Гамбург, а&#160;оттуда собирались отплыть за&#160;океан, в&#160;Америку, — не&#160;найдут&#160;ли&#160;они там счастья, желанного счастья! Женщины несли маленьких детей на&#160;спинах; ребятишки постарше бежали вприпрыжку рядом; жалкая кляча везла тележку с&#160;домашним скарбом. Дул холодный ветер, и&#160;маленькая девочка плотнее прижималась к&#160;матери, а&#160;мать, глядя на&#160;мой круглый лик, думала о&#160;горькой нужде, что&#160;выгнала их из-под&#160;родной кровли, и&#160;о тяжелых, непосильных налогах. Те&#160;же мысли бродили и&#160;в головах остальных переселенцев, но&#160;вот вспыхнула утренняя зорька и, прогнав ночной сумрак, оживила и&#160;сердца бедняков надеждой на&#160;новое солнце счастья, которое займется для&#160;них там, за&#160;океаном. Услышали они&#160;и песнь умирающего соловья, а&#160;соловей ведь тоже считается вестником счастья. Ветер, правда, тянул свою песню, но&#160;переселенцы не&#160;понимали ее. А&#160;он&#160;пел: „Переправляйтесь, переправляйтесь через&#160;океан! Вы заплатили за&#160;этот переезд последним, что&#160;было у&#160;вас! Нищими, беспомощными нищими достигнете вы земли обетованной! Придется вам продаться в&#160;рабство самим, продать своих жен и&#160;детей! Недолго, впрочем, доведется вам страдать! В&#160;чашечке благоухающего тропического цветка скрывается богиня смерти, ее приветственный поцелуй отравит вашу кровь лихорадочным ядом. Проноситесь&#160;же, проноситесь через&#160;бурные воды океана!“ Но&#160;переселенцы прислушивались только к&#160;песне соловья — она пророчила им счастье! Легкие облака зарумянились от&#160;лучей зари. По&#160;степи шли в&#160;церковь поселяне; женщины в&#160;черных платьях и&#160;в белых головных покрывалах, казалось, сошли со старых портретов, что&#160;висят по&#160;стенам церкви. Мертвой, безжизненной смотрела окружающая природа: темный сухой вереск и&#160;черные выжженные лужайки вперемежку с&#160;белыми песками. В&#160;руках у&#160;женщин были молитвенники; они&#160;шли в&#160;церковь. О, помолитесь&#160;же за&#160;тех, кто отправляется искать себе могилу за&#160;океаном!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XVI"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XVI"></span>Вечер XVI</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=17" title="Редактировать раздел «Вечер XVI»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Я&#160;знаю одного пульчинеля! — сказал мне месяц. — Публика ликует, едва завидит его на&#160;сцене. Каждое его движение дышит таким комизмом, что&#160;все надрываются от&#160;смеха, а&#160;ведь он&#160;и не&#160;думает ломаться — он&#160;природный комик. Роль пульчинеля навязана ему с&#160;детства самою природой; она снабдила его при&#160;рождении двумя горбами: спереди и&#160;сзади. Зато она одарила его и&#160;необыкновенно чувствительной, восприимчивой душой! Сцена была его заветной мечтой. Будь он&#160;хорошо сложен, из&#160;него&#160;бы&#160;вышел первоклассный трагик: душу его волновали самые высокие чувства, самые благородные порывы. И&#160;с&#160;такою-то&#160;душой он&#160;был обречен на&#160;всю жизнь оставаться шутом! Самая тоска, самая печаль, которые он&#160;носил в&#160;душе, только делали его еще смешнее; эта резко очерченная, вытянутая, печальная физиономия заставляла публику покатываться со смеху и&#160;восторженно рукоплескать своему любимцу. Прелестная Коломбина обходилась с&#160;ним очень ласково, но&#160;замуж выйти предпочла за&#160;Арлекина. В&#160;самом деле, было&#160;бы&#160;уж чересчур комично, если&#160;бы «красота» сочеталась с «безобразием». Когда на&#160;пульчинеля находили минуты черной тоски, одна Коломбина могла заставить его улыбнуться и&#160;даже хохотать. У&#160;нее была своя манера: сначала она как&#160;будто тоже настраивалась на&#160;грустный лад, затем успокаивалась и, наконец, начинала шалить напропалую. «Знаю, знаю, чего вам недостает, — говорила она ему. — Вы жаждете взаимной любви!» Тут-то&#160;он и&#160;принимался хохотать. «Я&#160;и&#160;взаимная любовь! — восклицал он. — То-то&#160;бы вышла картинка! Похлопала&#160;бы&#160;публика!» — «Да, да, вы жаждете взаимности! — продолжала Коломбина и&#160;прибавляла с&#160;комическим пафосом: — И&#160;любите вы меня». Отчего&#160;же и&#160;не пошутить, раз знаешь, что&#160;о любви тут не&#160;может быть и&#160;речи? И&#160;пульчинель в&#160;припадке смеха подпрыгивал кверху на&#160;целый аршин; тоску его как&#160;будто рукой снимало. И&#160;все&#160;же Коломбина говорила правду. Он&#160;любил ее, боготворил не&#160;меньше, чем самое искусство. В&#160;день ее свадьбы он&#160;был веселее всех, ночью&#160;же неутешно плакал. Вот&#160;бы&#160;увидела публика это искаженное горем лицо! Как&#160;бы&#160;она зааплодировала! На&#160;днях Коломбина умерла. В&#160;день похорон Арлекин был уволен от&#160;участия в&#160;спектакле — все-таки ведь вдовец! Потребовалось, однако, угостить публику чем-нибудь особенно забавным, чтобы заставить ее позабыть об&#160;отсутствии прекрасной Коломбины и&#160;грациозного арлекина, и&#160;вот пульчинелю приказано было стараться за&#160;двоих! Сердце его разрывалось от&#160;горя, а&#160;он прыгал и&#160;плясал по&#160;сцене, публика кричала: «Браво! брависсимо!» Пульчинеля вызывали без&#160;конца, он&#160;был неподражаем!.. Вчера ночью, когда представление окончилось, уродец тайком побрел за&#160;город на&#160;кладбище. Венок на&#160;могиле Коломбины уже завял. Пульчинель присел на&#160;могильный холм. Картина достойная кисти! Он&#160;сидел неподвижно, подперев щеку рукой и&#160;глядя мне в&#160;лицо, — оригинальный и&#160;комичный надгробный памятник! Как&#160;зааплодировала&#160;бы&#160;публика, увидев своего любимца в&#160;такой позе! Долго&#160;бы&#160;не смолкали крики: «Браво, пульчинель, бис!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XVII"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XVII"></span>Вечер XVII</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=18" title="Редактировать раздел «Вечер XVII»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Послушайте, что&#160;еще рассказывал мне месяц. "Я&#160;видел только что&#160;произведенного из&#160;кадетов офицера, когда он&#160;впервые надел на&#160;себя блестящий мундир, видел молодую девушку в&#160;ее первом бальном платье, видел и&#160;счастливую невесту молодого князя во&#160;всем блеске ее венчального наряда, но&#160;никто из&#160;них не&#160;сиял таким счастьем, как&#160;четырехлетняя девочка, которую я&#160;видел сегодня вечером. Ей подарили новое голубое платьице и&#160;новую розовую шляпку. Я&#160;застал ее как&#160;раз в&#160;полном параде. Все кричали: «Давайте свечку!» Моих лучей, как&#160;видно, было мало, требовалось более яркое освещение! Малютка держалась в&#160;струнку, как&#160;кукла, далеко отставив от&#160;платья ручонки с&#160;растопыренными пальчиками. Каким блаженством сияли ее глазки, все ее личико! «Завтра я&#160;выпущу тебя так на&#160;улицу!» — сказала ей мать. Малютка подняла глаза на&#160;шляпку, потом перевела их вниз на&#160;платьице, блаженно улыбнулась и&#160;проговорила: «Мама! А&#160;что&#160;скажут собачки, когда увидят меня такой нарядной?!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XVIII"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XVIII"></span>Вечер XVIII</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=19" title="Редактировать раздел «Вечер XVIII»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Я&#160;уже рассказывал тебе, — начал месяц, — о&#160;Помпее, этом городе-трупе в&#160;ряду других городов. Знаю я&#160;и еще один, но&#160;уже не&#160;труп, а&#160;призрак города. В&#160;журчании фонтанов, мечущих свои струи в&#160;мраморные водоемы, мне всегда слышится сказка о&#160;плавучем городе. О&#160;нем и&#160;должны рассказывать водяные струи, петь морские волны! Над&#160;морем часто клубится туман; это вдовья вуаль: жених моря умер, дворец и&#160;город его стали мавзолеем. Знаешь ты этот город? Никогда не&#160;слышно на&#160;его улицах грохота экипажей или&#160;топота лошадиных копыт; по&#160;этим улицам плавают рыбы и, как&#160;привидения, скользят черные гондолы. Сейчас я&#160;перенесу тебя на&#160;главную площадь города, и&#160;ты подумаешь, что&#160;очутился в&#160;сказочном царстве. Между широкими плитами мостовой пробивается трава; вокруг одиноко стоящей башни вьются на&#160;заре тысячи ручных голубей. С&#160;трех сторон площадь окружена аркадами. Под&#160;аркадами спокойно сидит турок, посасывая свою длинную трубку; у&#160;колонны стоит красивый юноша-грек и&#160;смотрит на&#160;высокие мачты, памятники былого могущества. Флаги на&#160;мачтах повисли, как&#160;траурные вуали. К&#160;одной из&#160;мачт прислонилась отдохнуть молодая девушка; тяжелые ведра с&#160;водой она поставила возле себя на&#160;землю; коромысло осталось на&#160;плечах. А&#160;вот это прямо перед&#160;тобою не&#160;замок фей, а&#160;церковь! Ярко сияют вызолоченные купола и&#160;золотые шары, облитые моими лучами. Прекрасные бронзовые кони, что&#160;красуются наверху, странствовали, как&#160;настоящие сказочные кони: они&#160;побывали далеко-далеко и&#160;опять вернулись назад. Взгляни на&#160;эту роскошь пестрых узоров, выведенных на&#160;стенах и&#160;стеклах окон! Гений художника, украшая этот храм, как&#160;будто руководился прихотью ребенка! Видишь на&#160;колонне крылатого льва? Он&#160;все еще блещет золотом, но&#160;крылья его связаны, лев умер, сам король моря умер, дворцовые залы опустели, роскошные картины уже не&#160;прикрывают наготы стен. Под&#160;этой аркой прежде могли проходить только патриции, теперь под&#160;ней спит лаццарони! Из&#160;глубоких колодцев или&#160;из свинцовых камер, что&#160;близ моста Вздохов, словно и&#160;теперь еще слышатся вздохи, как&#160;в те времена, когда с&#160;разубранных гондол раздавалась музыка, а&#160;с роскошного Буцентавра летело в&#160;Адрию, царицу морей, обручальное кольцо! Адрия, окутайся туманом! Прикрой свою грудь вдовьей вуалью! Пусть она развевается и&#160;над мавзолеем твоего жениха, над&#160;мраморной призрачной Венецией!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XIX"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XIX"></span>Вечер XIX</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=20" title="Редактировать раздел «Вечер XIX»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Я&#160;заглянул в&#160;театр! — рассказывал месяц. — Огромная зала была набита битком: дебютировал новый артист. Луч мой скользнул в&#160;маленькое окошечко в&#160;стене; к&#160;стеклу прижалось размалеванное человеческое лицо. Это был сам герой вечера. На&#160;подбородке курчавилась рыцарская бородка, а&#160;глаза были полны слез: артиста освистали, и&#160;не напрасно. Бедняга был жалок! Но&#160;жалким не&#160;место в&#160;храме искусства! Душу его волновали высокие чувства, он&#160;пламенно любил искусство, без&#160;взаимности! Раздался звонок режиссера, и&#160;герой смело и&#160;торжественно — как&#160;значилось в&#160;ремарках — выступил на&#160;сцену, снова предстал перед&#160;публикой, смотревшей на&#160;него как&#160;на шута. По&#160;окончании спектакля я&#160;увидел какую-то&#160;закутанную в&#160;плащ фигуру, торопливо сбегавшую по&#160;лестнице. Это был он, развенчанный герой вечера! Плотники перешептывались, пропуская его мимо себя. Луч мой проводил беднягу до&#160;самого его жилища. Повеситься? Некрасивая смерть! А&#160;яд не&#160;всегда под&#160;рукою! Я&#160;знаю, что&#160;ему на&#160;ум приходило и&#160;то, и&#160;другое. Я&#160;видел, как&#160;он подошел к&#160;зеркалу и&#160;полузакрыл глаза, чтобы посмотреть, красив&#160;ли&#160;он будет в&#160;гробу. Да, человек может быть глубоко несчастен и&#160;все-таки… ломаться! Освистанный артист подумывал о&#160;смерти, о&#160;самоубийстве и, пожалуй, оплакивал теперь самого себя! Плакал он&#160;горько, но&#160;если человек плачет, то&#160;какое уж тут самоубийство! Прошел целый год. Шло представление в&#160;каком-то&#160;театрике, играла бедная заезжая труппа, и&#160;я опять увидел знакомое размалеванное лицо и&#160;курчавую бородку. Лицедей опять смотрел на&#160;меня из&#160;окна, но&#160;смотрел улыбаясь, а&#160;ведь его опять освистали! Да, всего какую-нибудь минуту тому назад его освистала жалкая публика жалкого театра!.. Сегодня вечером из&#160;городских ворот выехали бедные погребальные дроги. Ни&#160;одна душа не&#160;провожала покойника-самоубийцу, нашего размалеванного, освистанного героя. Единственным провожатым был кучер. Никто не&#160;следовал за&#160;гробом, никто, кроме меня. Самоубийцу зарыли где-то&#160;в углу кладбища. Скоро могила его зарастет крапивой; сторож станет сваливать туда сор и&#160;негодную траву с&#160;других могил».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XX"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XX"></span>Вечер XX</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=21" title="Редактировать раздел «Вечер XX»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Я&#160;из&#160;Рима! — начал месяц. — Там в&#160;центре города, на&#160;одном из&#160;семи его холмов, лежит в&#160;развалинах дворец Цезарей. Из&#160;трещин стен выглядывают дикие фиговые деревья, прикрывая наготу их своими широкими серо-зелеными листьями. Между кучами мусора пробирается осел и&#160;любовно косится на&#160;кусты колючего репейника. Отсюда некогда вылетали победоносные римские орлы, а&#160;теперь здесь ютится между двумя разбитыми мраморными колоннами бедная глиняная мазанка. Покосившееся окошко обвито диким виноградом, словно траурной гирляндой. В&#160;мазанке живет старуха с&#160;внучкой. Они&#160;теперь единственные обитательницы дворца Цезарей и&#160;показывают иностранцам печальные остатки сокровищ искусства. От&#160;роскошной тронной залы осталась одна голая стена; темный кипарис указывает своей длинной тенью на&#160;то место, где некогда стоял трон. Истрескавшийся пол покрыт слоем земли толщиною в&#160;аршин. На&#160;пороге часто сидит на&#160;своей скамеечке, прислушиваясь к&#160;звону вечерних колоколов, маленькая девочка, нынешняя обитательница дворца Цезарей. Замочную скважинку в&#160;одной из&#160;дверей дворца она зовет своим балконом: в&#160;нее она видит пол-Рима вплоть до&#160;мощного купола собора святого Петра. Сегодня вечером подле развалин царила, по&#160;обыкновению, полная тишина; девочка возвращалась домой; лучи мои освещали ей путь. На&#160;голове она несла полный воды античный глиняный кувшин. Девочка была боса, в&#160;коротенькой, разорванной на&#160;плечах рубашке, и&#160;я целовал нежные кругленькие плечики малютки, ее черные глазки и&#160;блестящие кудри. Она поднялась по&#160;крутой лесенке, сложенной из&#160;мраморных обломков и&#160;разбитых капителей колонн. Возле самых ног ее пугливо шныряли пестрые ящерицы, но&#160;девочка не&#160;пугалась. Вот она уже потянулась рукою к&#160;звонку, — а&#160;ручкой звонка во&#160;дворце Цезарей служила ныне висевшая на&#160;веревке заячья лапка, — да&#160;вдруг задумалась. О&#160;чем? Может быть, о&#160;прекрасном, разодетом в&#160;золото и&#160;серебро младенце Иисусе, Которого она видела в&#160;часовне, где теплятся серебряные лампады и&#160;где подружки ее поют знакомые и&#160;ей молитвы? Не знаю; только вдруг она оступилась, кувшин слетел с&#160;ее головы и&#160;разбился вдребезги о&#160;твердые мраморные ступени. Девочка залилась слезами. Обитательница дворца Цезарей плакала о&#160;разбитом глиняном кувшине! Босая стояла она на&#160;холодных ступенях и&#160;плакала, плакала, не&#160;смея дернуть за&#160;веревку, за&#160;заячью лапку, служившую ручкой звонка во&#160;дворце Цезарей!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XXI"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XXI"></span>Вечер XXI</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=22" title="Редактировать раздел «Вечер XXI»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Целые две недели не&#160;заглядывал ко&#160;мне месяц, но&#160;вот, наконец, я&#160;вновь увидел его круглый светлый лик над&#160;медленно плывущими облаками. Послушайте&#160;же, что&#160;он рассказал мне.
+</p><p>«Из&#160;одного феццанского города вышел караван; я&#160;долго следил за&#160;ним. Он&#160;остановился на&#160;ночь среди блестящей, словно покрытой льдом, солончаковой площадки; лишь небольшая часть ее была покрыта наносным песком. У&#160;старшины каравана был привязан к&#160;поясу мех с&#160;водой; изголовьем ему служил мешок с&#160;пресными лепешками. Поутру он&#160;начертил на&#160;песке своим посохом четырехугольник, вписал в&#160;него несколько слов из&#160;Корана, и&#160;весь караван прошел через&#160;это освященное место. На&#160;белом горячем коне задумчиво ехал молодой купец, сын знойной пустыни; об&#160;этом говорили и&#160;глаза его, и&#160;прекрасные формы тела, точно вылитого из&#160;бронзы. О&#160;чем он&#160;задумался? Не о&#160;молодой&#160;ли&#160;красавице жене? Всего два дня тому назад разубранный дорогими мехами и&#160;шалями верблюд обнес его прекрасную невесту вокруг городских стен. Гремела музыка, раздавалось пение женщин, приветственная пальба. Громче, чаще всех палил сам счастливый жених. А&#160;теперь… теперь он&#160;ехал с&#160;караваном по&#160;пустыне. Много ночей следил я&#160;за ними, видел, как&#160;они располагались на&#160;отдых у&#160;колодцев, в&#160;жалкой тени чахлых пальм, видел, как&#160;вонзали нож в&#160;грудь верблюда и&#160;жарили его мясо на&#160;угольях костра. Лучи мои охлаждали раскаленный солнцем песок и&#160;показывали путникам черные обломки скал, мертвые острова в&#160;безграничном море песков. Странствие было из&#160;счастливых: не&#160;пришлось каравану пострадать ни&#160;от нападений вражьих племен, ни&#160;от бича пустыни — смерча. Дома молилась за&#160;мужа и&#160;отца красавица новобрачная. «Живы&#160;ли&#160;они?» — спрашивала она мой двурогий серп. «Живы&#160;ли&#160;они?» — спрашивала она мой сияющий круглый диск. Теперь они&#160;уже миновали пустыню и&#160;сегодня вечером расположились на&#160;ночлег под&#160;высокими пальмами; над&#160;ними кружатся длиннокрылые журавли, из-за&#160;ветвей мимоз глядят пеликаны. Слон мнет неуклюжими ногами пышную траву и&#160;кусты; подходит караван негров; они&#160;возвращаются с&#160;ярмарки из&#160;глубины страны. На&#160;черных волосах женщин, одетых в&#160;синие бумажные юбки, сияют медные бляхи. Женщины гонят нагруженных быков; на&#160;спинах их спят нагие черные ребятишки. Один из&#160;негров ведет на&#160;веревке купленного им на&#160;ярмарке львенка. Вот они&#160;подходят к&#160;каравану. Молодой купец сидит неподвижно, весь погруженный в&#160;мечты о&#160;своей молодой жене. В&#160;стране черных он&#160;мечтает об&#160;оставленном им по&#160;ту сторону пустыни белоснежном душистом цветке! Вот он&#160;поднял голову!.. "
+</p><p>Тут месяц заволокло облаком, потом другим, третьим… Так я&#160;ничего больше и&#160;не услышал от&#160;него в&#160;этот вечер.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XXII"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XXII"></span>Вечер XXII</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=23" title="Редактировать раздел «Вечер XXII»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Я&#160;видел одну маленькую девочку! — начал месяц. — Злые люди заставили ее плакать горькими слезами. Ей только что&#160;подарили чудную куклу; ах, какую куклу! Но&#160;эта нежная, изящная кукла вовсе не&#160;была создана для&#160;горя, а&#160;между тем братья девочки, эти долговязые мальчишки, схватили ее, посадили высоко-высоко на&#160;дерево и&#160;убежали! Сама девочка не&#160;могла ни&#160;достать с&#160;дерева куклу, ни&#160;помочь ей сойти оттуда — как&#160;тут не&#160;плакать! Кукла, должно быть, тоже плакала! Она с&#160;таким жалким видом простирала к&#160;девочке руки! Да, вот какие приходится иногда испытывать превратности судьбы, как&#160;часто говорит мама. Бедная, бедная кукла! Уже темнело, приближалась ночь. Неужели&#160;же оставить ее тут одну на&#160;всю ночь? Нет, нет! Сердечко малютки сжималось при&#160;одной мысли об&#160;этом. „Я&#160;останусь с&#160;тобой!“ — сказала она кукле, а&#160;была ведь вовсе не&#160;из храбрых! Она уже явственно различала между кустами маленьких домовых в&#160;высоких остроконечных шапочках… А&#160;там, в&#160;темной аллее, плясали длинные призраки!.. Вот они&#160;уже под&#160;деревом, поднимают руки и&#160;указывают пальцами на&#160;куклу! Ах, как&#160;страшно!.. „Но&#160;ведь нечистой силы нечего бояться, если у&#160;тебя совесть чиста! — рассудила девочка. — А&#160;у&#160;меня чиста? Я&#160;ничего дурного не&#160;сделала?.. Ах, да, — вдруг вскрикнула она, — я&#160;смеялась над&#160;бедной уткой с&#160;красной тряпочкой на&#160;ножке! Она так забавно хромает! А&#160;грешно ведь смеяться над&#160;животными! — И&#160;она подняла личико к&#160;кукле. — А&#160;ты тоже смеялась над&#160;животными?“ — спросила она, и&#160;кукла как&#160;будто недовольно качнула головой».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XXIII"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XXIII"></span>Вечер XXIII</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=24" title="Редактировать раздел «Вечер XXIII»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Я&#160;глядел на&#160;Тирольские горы! — рассказывал месяц. — От&#160;темных сосен ложились на&#160;скалы резкие мрачные тени. Я&#160;освещал нарисованные на&#160;стенах домов гигантские изображения святого Христофора с&#160;младенцем Иисусом на&#160;плечах и&#160;святого Флориана, льющего воду на&#160;пылающий дом, освещал и&#160;воздвигнутый у&#160;дороги большой крест с&#160;распятым на&#160;нем, истекающим кровью Спасителем. Для&#160;молодого поколения все эти изображения — памятники глубокой старины; я&#160;же видел, как&#160;они возникали одно за&#160;другим. Высоко-высоко, над&#160;самым обрывом, лепится, словно гнездо ласточки, женский монастырь. На&#160;колокольне стояли и&#160;звонили в&#160;колокола две молоденькие послушницы. Взоры обеих невольно устремлялись вдаль… за&#160;горы! Внизу показалась почтовая карета; почтальон затрубил в&#160;рог, и&#160;бедные послушницы долго провожали экипаж взглядом. Невеселые, видно, думы бродили у&#160;них в&#160;голове; у&#160;младшей на&#160;глазах навернулись слезы. Все слабее и&#160;слабее звучал почтовый рожок, пока наконец совсем не&#160;замер, заглушённый звоном колоколов».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XXIV"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XXIV"></span>Вечер XXIV</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=25" title="Редактировать раздел «Вечер XXIV»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Слушайте, что&#160;еще рассказал мне месяц. «Тому минуло уже много лет; было это в&#160;Копенгагене. Я&#160;заглянул в&#160;окно бедной каморки; отец и&#160;мать спали; не&#160;спал только их маленький сынок. Вот пестрый полог его кроватки зашевелился, и&#160;он выглянул оттуда. Я&#160;подумал сначала, что&#160;он хотел посмотреть на&#160;старые часы: они&#160;были так пестро раскрашены, наверху сидела кукушка, на&#160;цепях висели тяжелые свинцовые гири, а&#160;блестящий медный маятник качался и&#160;тикал: „тик-так!“ Но&#160;нет! Мальчик смотрел не&#160;на них, а&#160;на стоявшую под&#160;ними прялку матери. Прялка занимала все его мысли, но&#160;он не&#160;смел и&#160;притронуться к&#160;ней — сейчас по&#160;рукам попадет! Целыми часами просиживал мальчик возле матери, не&#160;сводя глаз с&#160;жужжащего веретена и&#160;неугомонного колеса и&#160;думая при&#160;этом свою думу. Вот&#160;бы&#160;попрясть хоть разок самому! Теперь мать и&#160;отец спали. Мальчик поглядел на&#160;них, поглядел на&#160;прялку, подождал с&#160;минуту, потом с&#160;кроватки сползла сначала одна голая ножка, за&#160;ней другая, и — гоп! обе очутились на&#160;полу! Мальчик еще раз оглянулся на&#160;папу и&#160;маму — спят&#160;ли? Да! И&#160;вот он, одетый в&#160;одну куцую рубашонку, тихонько-тихонько прокрался в&#160;угол, где стояла прялка, и&#160;давай прясть. Нитка слетела, и&#160;колесо завертелось еще быстрее. Я&#160;целовал золотистые волосики и&#160;голубые глазки ребенка. Прелестная была картинка! Вдруг мать проснулась, выглянула из-за&#160;занавески, и&#160;ей почудилось, что&#160;перед нею шалунишка-домовой или&#160;другое лукавое привиденьице. „Господи Иисусе!“ — прошептала она и&#160;толкнула под&#160;бок спящего мужа. Он&#160;проснулся, протер глаза и&#160;тоже взглянул на&#160;мальчугана. „Да&#160;ведь это Бертель!“ — сказал он.
+</p><p>Из&#160;бедной каморки взор мой перенесся в&#160;покои Ватикана, где красуются мраморные боги. Расстояния для&#160;меня ведь не&#160;существует. Вот группа Лаокоона; мрамор, кажется, скорбно вздыхает. Вот музы; они&#160;как будто дышат; лучи мои облобызали их мимоходом и&#160;остановились на&#160;колоссальном изображении бога реки Нил. Облокотясь на&#160;сфинкса, он&#160;лежит, погруженный в&#160;думы — в&#160;думы о&#160;минувших веках; вокруг него резвятся и&#160;заигрывают с&#160;крокодилами амурчики; из&#160;рога изобилия тоже выглядывает на&#160;величественного серьезного бога крошечный амурчик, живое изображение мальчугана, возившегося с&#160;прялкой. Те&#160;же самые черты! Как&#160;живой стоит здесь этот мраморный ребенок, а&#160;между тем колесо времени обернулось вокруг своей оси тысячи и&#160;тысячи раз с&#160;той минуты, как&#160;он восстал из&#160;мраморной глыбы. И&#160;это огромное колесо должно было обернуться еще столько&#160;же раз, сколько обернулось колесо прялки, прежде чем век создал других богов, подобных ватиканским.
+</p><p>Вот и&#160;минули эти годы! — продолжал месяц. — Я&#160;плыл над&#160;заливом у&#160;восточного берега Зеландии. Там тянутся чудные леса, высокие холмы и&#160;лежит старая усадьба, обнесенная красными кирпичными стенами; в&#160;рвах, наполненных водою, плавают лебеди. Неподалеку, в&#160;тени яблонь, ютится торговый городок с&#160;высокой колокольней. По&#160;зеркальной глади залива плывет целая флотилия лодок; на&#160;всех мелькают огоньки, но&#160;их зажгли не&#160;для ловли угрей, а&#160;ради праздника! С&#160;лодок раздается музыка, вот грянула и&#160;песня. В&#160;одной из&#160;лодок стоит сам виновник торжества — рослый, крепкий голубоглазый и&#160;седовласый старик в&#160;широком плаще. Я&#160;сразу узнал его и&#160;вспомнил и&#160;мраморных богов Ватикана, и&#160;бедную каморку, — если не&#160;ошибаюсь, в&#160;Зеленой улице, — где сидел за&#160;прялкой в&#160;своей куцей рубашонке маленький Бертель. Колесо времени обернулось положенное число раз, и&#160;из мрамора восстали новые боги. С&#160;лодок гремело „ура“, „ура“ в&#160;честь Бертеля Торвальдсена&#160;!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XXV"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XXV"></span>Вечер XXV</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=26" title="Редактировать раздел «Вечер XXV»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Я&#160;поведу тебя сейчас во&#160;Франкфурт! — сказал месяц. — Там есть один дом, на&#160;котором подолгу покоятся мои лучи. Это не&#160;тот дом, где родился Гете,. и&#160;не старинная ратуша с&#160;решетчатыми окнами, в&#160;которые еще глядят рогатые головы быков, зажаренных для&#160;народа в&#160;день коронации императора. Нет, дом, о&#160;котором я&#160;говорю, простой дом, выкрашенный зеленой краской. Стоит он&#160;на углу узкой Еврейской улицы; это дом Ротшильдов. Я&#160;глядел раз в&#160;открытую входную дверь; лестница была ярко освещена; по&#160;ступеням стояли слуги; они&#160;держали в&#160;руках массивные серебряные канделябры с&#160;зажженными свечами и&#160;провожали низкими поклонами старуху, которую несли вниз по&#160;лестнице в&#160;кресле. Хозяин дома стоял у&#160;входа с&#160;непокрытой головой и&#160;почтительно поцеловал на&#160;прощанье руку старухи. Это была его мать. Она приветливо кивнула головой сыну и&#160;слугам, и&#160;ее понесли по&#160;узкой, темной улице домой. Она жила там в&#160;крошечном домике; в&#160;нем родились все ее дети, в&#160;нем занялась для&#160;них заря счастья; покинь она эту невзрачную улицу, этот скромный домик — тогда, быть может, и&#160;счастье покинет ее детей! Она верила в&#160;это!»
+</p><p>Больше месяц не&#160;сказал на&#160;этот раз ничего; слишком не&#160;надолго заглянул он&#160;ко мне, но&#160;я-то&#160;долго потом думал о&#160;старухе, обитавшей в&#160;темной, жалкой улице. Скажи эта женщина слово, и&#160;к ее услугам роскошный дом на&#160;берегах Темзы; одно ее слово, и&#160;ее ждет вилла на&#160;берегу Неаполитанского залива; но&#160;она говорит: «Покинь я&#160;этот скромный дом, где занялась для&#160;моих детей заря счастья, — тогда, быть может, и&#160;счастье покинет их!» Это суеверие, но&#160;особого рода; чтобы понять его, тому, кто слышал сейчас эту историю и&#160;видел эту картину, довольно вспомнить одно слово "Мать ".
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XXVI"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XXVI"></span>Вечер XXVI</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=27" title="Редактировать раздел «Вечер XXVI»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Это было вчера поутру, на&#160;заре! — говорил месяц. — В&#160;большом городе не&#160;дымила еще ни&#160;одна труба, а&#160;я на&#160;трубы-то&#160;как раз и&#160;глядел. Из&#160;одной из&#160;них высунулась сначала чья-то&#160;голова, а&#160;потом и&#160;туловище по&#160;пояс; руки держались за&#160;края трубы. „Ура!“ Это был мальчишка-трубочист; он&#160;в первый раз в&#160;жизни пролез через&#160;всю трубу и&#160;теперь глядел из&#160;нее на&#160;Божий свет. „Ура!“ Да, это небось не&#160;то что&#160;карабкаться по&#160;узким коленам каминных труб! Ветерок так приятно освежал лицо трубочистика, а&#160;уж что&#160;за вид открывался ему оттуда! Весь город был как&#160;на ладони, а&#160;вдали виднелся и&#160;зеленый лес. Вдобавок» в&#160;ту&#160;же минуту взошло солнце. Его круглый, румяный лик глянул в&#160;лицо трубочистика; оно так все и&#160;светилось от&#160;радости, даром что&#160;порядком было замазано сажей. «Теперь весь город может любоваться мною! И&#160;месяц, и&#160;солнце!» — сказал он&#160;и замахал метлой".
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XXVII"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XXVII"></span>Вечер XXVII</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=28" title="Редактировать раздел «Вечер XXVII»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Вчера ночью, — рассказывал месяц, — я&#160;плыл над&#160;одним китайским городом. Лучи мои освещали длинные голые стены, тянувшиеся вдоль улиц. Там и&#160;сям в&#160;них виднелись двери, но&#160;все они&#160;были на&#160;запоре — что&#160;за дело китайцу до&#160;внешнего мира! Плотные жалюзи прикрывали окна домов, выходившие на&#160;внутренние дворы. Только в&#160;окнах храма мерцали огоньки. Я&#160;заглянул туда. Какая пестрота! От&#160;самого пола до&#160;потолка подымались ярко раскрашенные и&#160;вызолоченные картины, на&#160;которых были изображены земные деяния богов. В&#160;каждой нише стояли кумиры, полускрытые пестрыми занавесками и&#160;распущенными знаменами. Все кумиры были оловянные; перед&#160;каждым возвышался жертвенник, на&#160;котором стояла чаша со святой водой, цветы в&#160;вазах и&#160;горели восковые свечки. В&#160;глубине храма помещалось изображение Фу, высшего божества, в&#160;балахоне из&#160;шелковой материи священного желтого цвета. У&#160;подножия жертвенника сидело живое существо, молодой бонза. Он, вероятно, молился, да&#160;вдруг задумался о&#160;чем-то. Должно быть, дело было нечисто — щеки его горели ярким румянцем, а&#160;голова все больше и&#160;больше клонилась на&#160;грудь! Бедный Суи-Хунг! О&#160;чем он&#160;задумался? Унесся&#160;ли&#160;он мечтою в&#160;маленький садик, какие красуются здесь перед&#160;каждым домом, жалел&#160;ли&#160;о своем прежнем ремесле, желал&#160;ли&#160;опять работать на&#160;воле, вместо того чтобы вечно сидеть тут в&#160;храме, наблюдая за&#160;горящими восковыми свечками?.. Или&#160;он&#160;мысленно пировал за&#160;роскошно убранным столом, вкушая тонкие блюда и&#160;обтирая губы серебристой бумагой? Может быть, мысли его были до&#160;того греховны, что, выскажи он&#160;их, небо покарало&#160;бы&#160;его смертью? Может быть, он&#160;дерзнул унестись мысленно на&#160;корабле варваров в&#160;их отчизну, далекую Англию? Нет, так далеко он&#160;не залетал, и&#160;все&#160;же мысли его были так греховны, что&#160;греховнее их и&#160;не могла&#160;бы&#160;подсказать человеку горячая молодая кровь! И&#160;где&#160;же он&#160;предавался им? В&#160;храме, перед&#160;лицом Фу и&#160;других богов! Я&#160;знаю, где витали его мысли. На&#160;краю города, на&#160;плоской крыше, обнесенной блестящими, словно фарфоровыми, перилами, между вазами с&#160;чудесными душистыми белыми колокольчиками сидит красавица Пэ. Узенькие, плутовские глазенки, полные сочные губки и&#160;крохотная ножка! Башмачок жмет ножку, но&#160;куда больнее сжимает тоска сердечко! Тоскливо заламывает она нежные, словно выточенные ручки, и&#160;атласные рукава громко шуршат. Перед&#160;нею стеклянная ваза с&#160;водой; в&#160;воде плавают четыре золотые рыбки. Пэ медленно и&#160;задумчиво помешивает воду пестрой лакированной палочкой. Может быть, она задумалась о&#160;рыбках: как&#160;ярко блестит их чешуя, как&#160;спокойно им живется в&#160;стеклянной вазе, как&#160;сытно их кормят… и&#160;все&#160;же куда счастливее жилось&#160;бы&#160;им на&#160;свободе! Да, именно об&#160;этом и&#160;думала красавица Пэ. Затем мысль ее унеслась из&#160;родного дома в&#160;храм, но&#160;привлекли ее туда не&#160;боги. Бедняжка Пэ! Бедняга Суи-Хунг! Земные мысли ваши встретились, но, словно меч херувима, блеснул и&#160;разделил их мой холодный луч!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XXVIII"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XXVIII"></span>Вечер XXVIII</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=29" title="Редактировать раздел «Вечер XXVIII»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Море как&#160;будто заснуло! — рассказывал месяц. — Волны его спорили прозрачностью с&#160;волнами чистого эфира, в&#160;котором я&#160;плыл. Взор мой проникал в&#160;водяную глубь и&#160;ясно различал там причудливые растения; их саженные стебли тянулись ко&#160;мне, точно какие-то&#160;гигантские древесные стволы; над&#160;вершинами их проплывали рыбы. Высоко в&#160;поднебесье неслась стая диких лебедей; один из&#160;них вдруг стал опускаться: усталые крылья отказывались нести его дальше. Взор его печально следил за&#160;удалявшейся воздушной вереницей, а&#160;сам он, широко распластав неподвижные крылья, плавно опускался вниз, как&#160;опускается в&#160;недвижном воздухе мыльный пузырь. Вот лебедь коснулся морской поверхности. Спрятав голову под&#160;крыло, долго покоился он&#160;на лоне вод, точно белый лотос. Вот потянул ветерок и&#160;зарябил морскую поверхность, сиявшую тою&#160;же прозрачной лазурью, как&#160;и синее небо; казалось, это катило свои волны не&#160;море, а&#160;самый небесный эфир. Лебедь поднял голову и&#160;встрепенулся; голубыми искрами заблестели стекавшие с&#160;его груди и&#160;спины капли воды. Утренняя заря зарумянила облака, и&#160;лебедь, освеженный и&#160;подкрепленный, плавно поплыл навстречу восходящему солнцу, туда, где виднелся вдали синеющий берег. Туда направилась вся воздушная вереница, туда&#160;же направил свой полет и&#160;одинокий лебедь. С&#160;тоской в&#160;груди, один-одинешенек медленно летел он&#160;над голубой водяной равниной!.. "
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XXIX"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XXIX"></span>Вечер XXIX</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=30" title="Редактировать раздел «Вечер XXIX»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«А&#160;вот тебе еще картинка! — начал месяц. — Близ унылого берега Рокса стоит окруженный темными соснами древний монастырь «Врета». Луч мой скользнул между прутьями оконной решетки и&#160;осветил высокие своды, под&#160;которыми покоятся в&#160;каменных гробницах короли. Над&#160;ними прикреплена к&#160;стене эмблема земного величия — королевская корона. Она, впрочем, деревянная и&#160;только покрыта позолотою; поддерживает ее деревянный колышек, вбитый в&#160;стену. Вызолоченное дерево уже источено червями, от&#160;короны к&#160;гробницам протянута пауком воздушная сеть; это траурный флер, такой&#160;же недолговечный, как&#160;и печаль по&#160;умершим!.. Как&#160;тихо спят они! А&#160;я&#160;еще помню их всех так ясно! Так живо вижу горделивую улыбку на&#160;их устах, властно вещавших народу и&#160;горе и&#160;радость! Пока пароход переползает, как&#160;улитка, через&#160;горы, в&#160;монастырь заходит иногда путник и&#160;спрашивает имена погребенных под&#160;этими сводами королей, но&#160;они звучат для&#160;него чем-то&#160;давно позабытым, мертвым. Он&#160;смотрит на&#160;источенную червями корону и&#160;невольно улыбается; если, однако, он&#160;человек благочестивый, в&#160;улыбке его сквозит грусть. Спите&#160;же, мертвецы! Месяц помнит вас, месяц шлет ночью свои холодные лучи в&#160;ваше тихое царство, где вас венчает деревянная корона!.. "
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XXX"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XXX"></span>Вечер XXX</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=31" title="Редактировать раздел «Вечер XXX»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«У&#160;проезжей дороги, — рассказывал месяц, — стоит постоялый двор, а&#160;напротив его большой сарай. Его как&#160;раз собирались перекрывать, и&#160;крыша была разобрана. Я&#160;глядел между стропилами и&#160;в открытую отдушину, и&#160;мне отлично видно было все это неприглядное помещение. На&#160;одной из&#160;балок примостился спящий индийский петух; в&#160;пустых яслях мирно покоились седла. Посреди сарая стояла дорожная колымага; в&#160;ней крепко спали господа, пользуясь временем, пока лошадей поят и&#160;кормят, а&#160;кучер потягивается и&#160;позевывает, хоть и&#160;спал преисправно добрую половину пути. Дверь в&#160;людскую отворена настежь; видна смятая и&#160;развороченная постель; на&#160;полу стоит подсвечник, а&#160;в нем догорает сальный огарок. Холодный ветер так и&#160;гуляет по&#160;сараю; время далеко за&#160;полночь; близится утро. В&#160;одном из&#160;стойл спит вповалку семья странствующих музыкантов; матери и&#160;отцу снится жгучая, прозрачная, как&#160;слеза, жидкость в&#160;бутылке, а&#160;бледной дочке — слеза в&#160;чьем-то&#160;взоре. В&#160;головах у&#160;них лежит арфа, в&#160;ногах — собака».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XXXI"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XXXI"></span>Вечер XXXI</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=32" title="Редактировать раздел «Вечер XXXI»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Заглянул я&#160;раз в&#160;маленький городок! — рассказывал месяц. — Было-то&#160;это еще в&#160;прошлом году, да&#160;все равно, — я&#160;так ясно помню все. (Вчера вечером я&#160;прочел об&#160;этом в&#160;газетах, но&#160;там это выходило вовсе не&#160;так ясно.) Вожак медведя ужинал в&#160;харчевне, а&#160;Мишка стоял во&#160;дворе привязанным к&#160;поленнице дров. Бедный Мишка! Никогда и&#160;никому не&#160;сделал он&#160;ни малейшего зла, даром что&#160;смотрел так свирепо. В&#160;том&#160;же доме, на&#160;самом верху в&#160;чердачной каморке, играли при&#160;ярком свете моих лучей трое ребятишек. Старшему было лет шесть, младшему не&#160;больше двух. «Топ! топ!» — послышалось на&#160;лестнице. Кто&#160;бы&#160;это? Дверь распахнулась, и&#160;явился Мишка, огромный, лохматый Мишка! Он&#160;соскучился стоять во&#160;дворе один и&#160;отыскал дорогу наверх. Детишки струсили такого большущего лохматого зверя и&#160;попрятались по&#160;углам; он, однако, скоро отыскал их всех, обнюхал, но&#160;не обидел ничем! «Это, верно, большая собака!» — решили дети и&#160;принялись гладить его. Он&#160;развалился на&#160;полу, а&#160;младший мальчуган вскарабкался на&#160;него и&#160;принялся играть в&#160;прятки, зарывая свою золотистую кудрявую головку в&#160;густые черные лохмы медвежьей шубы. Затем старший мальчик ударил в&#160;барабан, медведь поднялся на&#160;дыбы и&#160;давай плясать! То-то&#160;веселье пошло! Все мальчики взяли в&#160;руки по&#160;деревянному ружью, Мишке дали такое&#160;же, и&#160;он держал его в&#160;лапах крепко-прекрепко. Товарищ хоть куда! И&#160;вот все зашагали по&#160;комнате: раз-два, раз-два! Дверь опять отворилась, и&#160;вошла мать ребятишек. Поглядел&#160;бы&#160;ты на&#160;нее! Она просто окаменела от&#160;ужаса, лицо ее помертвело, язык прилип к&#160;гортани… Младший&#160;же мальчуган весело кивнул ей головкой и&#160;залепетал своим детским язычком: «А&#160;мы&#160;в солдатики играем!» Тут вошел и&#160;вожак медведя!.. "
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XXXII"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XXXII"></span>Вечер XXXII</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=33" title="Редактировать раздел «Вечер XXXII»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Дул холодный, резкий ветер; на&#160;месяц ежеминутно набегали облака, и&#160;я видел его только урывками.
+</p><p>«Я&#160;гляжу сквозь безграничное воздушное пространство на&#160;бегущие подо мною облака! — рассказывал он. — Гляжу и&#160;на пробегающие от&#160;них по&#160;земле длинные тени!.. Вчера я&#160;заглянул в&#160;темницу. У&#160;ворот ее стояла закрытая карета; приехали за&#160;одним из&#160;узников. Луч мой проскользнул между прутьями оконной решетки и&#160;озарил стену камеры. Узник что-то&#160;чертил на&#160;ней на&#160;прощанье. Чертил он&#160;не слова, а&#160;ноты, мелодию, выражавшую его душевное настроение в&#160;эту последнюю ночь. Дверь отворилась, и&#160;его вывели на&#160;воздух. Он&#160;было поднял глаза на&#160;мой круглый лик, но&#160;меня сейчас&#160;же закрыли облака, точно нам нельзя было видеть друг друга в&#160;лицо. Его усадили в&#160;карету, дверцы захлопнулись, кучер щелкнул бичом, и&#160;лошади помчали карету в&#160;темный лес, куда мой луч уже не&#160;мог проникнуть. Я&#160;опять заглянул в&#160;камеру. Лучи мои скользили по&#160;стене, разглядывая нацарапанную на&#160;ней мелодию, последнее прости узника. Там, где замирают слова, начинается царство звуков!.. Мои лучи могли осветить, однако, лишь несколько отдельных нот, большая&#160;же часть написанного скрывалась во&#160;мраке и&#160;навсегда останется для&#160;меня темной. Что&#160;написал заключенный? Похоронный&#160;ли&#160;марш? Ликующий&#160;ли&#160;гимн? Готовился&#160;ли&#160;он к&#160;смерти или&#160;несся мыслью в&#160;объятия милых сердцу? Не все написанное, хотя&#160;бы&#160;и рукою смертного, доступно взору месяца!
+</p><p>Я&#160;гляжу сквозь безграничное воздушное пространство на&#160;бегущие подо мною облака, гляжу и&#160;на пробегающие от&#160;них по&#160;земле длинные тени».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Вечер_XXXIII"><span id=".D0.92.D0.B5.D1.87.D0.B5.D1.80_XXXIII"></span>Вечер XXXIII</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;action=edit&amp;section=34" title="Редактировать раздел «Вечер XXXIII»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Как&#160;я&#160;люблю детей! — начал месяц. — Особенно маленьких — они&#160;такие забавные! Я&#160;часто любуюсь ими — мои лучи проскальзывают между краешком занавески и&#160;косяком окна детской, — а&#160;они-то&#160;и не&#160;думают обо мне! Презабавно наблюдать, как&#160;они раздеваются: вот выглядывает сначала крохотное кругленькое плечико, потом обнажается и&#160;вся ручка, а&#160;когда дело дойдет до&#160;чулок… и&#160;беленькая, полненькая ножка!.. Ну, как&#160;не поцеловать ее?.. Я&#160;и&#160;целую! — прибавил месяц.
+</p><p>Сегодня вечером — это стоит рассказать! — я&#160;тоже глядел в&#160;окно одной детской: занавески не&#160;были спущены — напротив не&#160;было никаких соседей. В&#160;комнате укладывалась спать целая ватага детишек, и&#160;сестер и&#160;братьев. Младшей из&#160;них всего четыре года, но&#160;она знает «Отче наш» не&#160;хуже других. Мать каждый вечер присаживается к&#160;ней на&#160;кроватку и&#160;слушает, как&#160;она молится, потом целует ее и&#160;ждет, пока она уснет. Ждать приходится недолго; глазки крошки живехонько смыкаются. Сегодня двое старших немножко расшалились; один все прыгал в&#160;одной рубашонке по&#160;комнате, а&#160;другой взлез на&#160;стул, навертел на&#160;себя платья всех остальных и&#160;объявил, что&#160;это — шарада; пусть-ка отгадают. Третья и&#160;четвертая аккуратно складывали свои игрушки в&#160;ящик — надо ведь и&#160;это кому-нибудь делать! Но&#160;вот мать присела к&#160;малютке на&#160;кроватку и&#160;велела детям вести себя потише: девочка читала «Отче наш».
+</p><p>Я&#160;смотрел прямо под&#160;лампу. Четырехлетняя малютка лежала в&#160;своей постельке, прикрытая чистым белым одеяльцем; вот она сложила ручонки, личико ее приняло такое торжественное выражение, и&#160;она громко начала читать «Отче наш». «Постой! — перебила ее вдруг мать. — Что&#160;это ты сказала после слов „хлеб наш насущный даждь нам днесь?“ Ты что-то&#160;прибавила, но&#160;я не&#160;расслышала. Повтори! — Малютка молчала, смущенно глядя на&#160;мать. — Что&#160;же ты сказала еще, кроме „хлеб наш насущный“?» — настаивала мать. «Не сердись, мамочка! — пролепетала крошка. — Я&#160;попросила на&#160;хлеб маслица!»
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5c9fc7f974‐n95k2
+Cached time: 20260215161908
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.102 seconds
+Real time usage: 0.192 seconds
+Preprocessor visited node count: 236/1000000
+Revision size: 123309/2097152 bytes
+Post‐expand include size: 8967/2097152 bytes
+Template argument size: 1137/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.052/10.000 seconds
+Lua memory usage: 2333030/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  150.202      1 Шаблон:Отексте
+100.00%  150.202      1 -total
+  1.58%    2.379      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:998565:|#|:idhash:canonical and timestamp 20260215161908 and revision id 5586464. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Картинки-невидимки_(Андерсен)&amp;oldid=5586464">https://ru.wikisource.org/w/index.php?title=Картинки-невидимки_(Андерсен)&amp;oldid=5586464</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B_%D1%81_%D0%B4%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0" title="Категория:Переводы с датского языка">Переводы с датского языка</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%B0%D0%BD%D1%81_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD" title="Категория:Ганс Христиан Андерсен">Ганс Христиан Андерсен</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1847_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1847 года">Литература 1847 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%BD%D0%B0_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0_%D0%93%D0%B0%D0%BD%D0%B7%D0%B5%D0%BD" title="Категория:Анна Васильевна Ганзен">Анна Васильевна Ганзен</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%93%D0%B0%D0%BD%D1%81_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD_%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD" title="Категория:Импорт/az.lib.ru/Ганс Христиан Андерсен">Импорт/az.lib.ru/Ганс Христиан Андерсен</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 30 июля 2025 года в 21:01.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Картинки-невидимки (Андерсен)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-c927p","wgBackendResponseTime":142,"wgPageParseReport":{"limitreport":{"cputime":"0.102","walltime":"0.192","ppvisitednodes":{"value":236,"limit":1000000},"revisionsize":{"value":123309,"limit":2097152},"postexpandincludesize":{"value":8967,"limit":2097152},"templateargumentsize":{"value":1137,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  150.202      1 Шаблон:Отексте","100.00%  150.202      1 -total","  1.58%    2.379      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.052","limit":"10.000"},"limitreport-memusage":{"value":2333030,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Ганс Христиан Андерсен\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"da\",\n    [\"origPublished\"] = \"1847\",\n    [\"origTitle\"] = \"Billedbog uden Billeder\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"Г. Х. Андерсен. Собрание сочинений Андерсена в четырёх томах. Том третий. Издание второе — С.-Петербург: Акцион. Общ. «Издатель», 1899, С. 313—339.  [http://az.lib.ru/a/andersen_g_h/text_1847_billedbog_uden_billeder.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Картинки-невидимки\",\n    [\"translator\"] = \"[[Анна Васильевна Ганзен|Анны Ганзен]] и [[Петр Готфридович Ганзен|Петра Ганзена]]\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-5c9fc7f974-n95k2","timestamp":"20260215161908","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

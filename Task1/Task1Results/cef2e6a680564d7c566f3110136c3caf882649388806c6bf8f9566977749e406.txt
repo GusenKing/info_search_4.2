@@ -1,0 +1,1781 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Бедовая доля (Ремизов)/ДО — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"1975eac1-ef53-4479-ab32-247e601181a7","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Бедовая_доля_(Ремизов)/ДО","wgTitle":"Бедовая доля (Ремизов)/ДО","wgCurRevisionId":5503787,"wgRevisionId":5503787,"wgArticleId":1098966,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-RusEmpire","Дореформенная орфография","25%","Страницы без сканов","Импорт/lib.ru","Импорт/az.lib.ru/Алексей Михайлович Ремизов","Проза","Сборники рассказов","Алексей Михайлович Ремизов","Литература 1909 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Бедовая_доля_(Ремизов)/ДО","wgRelevantArticleId":1098966,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5503787,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Бедовая доля (Ремизов)/ДО — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Бедовая_доля_Ремизов_ДО rootpage-Бедовая_доля_Ремизов skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F+%D0%B4%D0%BE%D0%BB%D1%8F+%28%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2%29%2F%D0%94%D0%9E" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F+%D0%B4%D0%BE%D0%BB%D1%8F+%28%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2%29%2F%D0%94%D0%9E" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F+%D0%B4%D0%BE%D0%BB%D1%8F+%28%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2%29%2F%D0%94%D0%9E" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F+%D0%B4%D0%BE%D0%BB%D1%8F+%28%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2%29%2F%D0%94%D0%9E" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Алексѣй_Ремизовъ._Бѣдовая_доля"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Алексѣй_Ремизовъ._Бѣдовая_доля">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Алексѣй Ремизовъ. Бѣдовая доля</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Алексѣй_Ремизовъ._Бѣдовая_доля-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-&lt;Часть_первая.&gt;"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#&lt;Часть_первая.&gt;">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>&lt;Часть первая.></span>
+			</div>
+		</a>
+		
+		<ul id="toc-&lt;Часть_первая.&gt;-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-1._Верейскій_тигръ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#1._Верейскій_тигръ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>1. Верейскій тигръ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-1._Верейскій_тигръ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-2._Обезьяны."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#2._Обезьяны.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>2. Обезьяны.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-2._Обезьяны.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-3._Клей_—_синдетиконъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#3._Клей_—_синдетиконъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>3. Клей — синдетиконъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-3._Клей_—_синдетиконъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-4._Черти."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#4._Черти.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>4. Черти.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-4._Черти.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-5._Иванъ_Грозный."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#5._Иванъ_Грозный.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>5. Иванъ Грозный.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-5._Иванъ_Грозный.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-6._Вѣдьма."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#6._Вѣдьма.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>6. Вѣдьма.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-6._Вѣдьма.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-7._Пиленый_сахаръ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#7._Пиленый_сахаръ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>7. Пиленый сахаръ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-7._Пиленый_сахаръ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-8._Dame_de_Nоël."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#8._Dame_de_Nоël.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>8. Dame de Nоël.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-8._Dame_de_Nоël.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-9._Чуть_было_не_съѣли."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#9._Чуть_было_не_съѣли.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">11</span>
+				<span>9. Чуть было не съѣли.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-9._Чуть_было_не_съѣли.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-10._Пожаръ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#10._Пожаръ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">12</span>
+				<span>10. Пожаръ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-10._Пожаръ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-11._Татаринъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#11._Татаринъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">13</span>
+				<span>11. Татаринъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-11._Татаринъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-12._Двойник."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#12._Двойник.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">14</span>
+				<span>12. Двойник.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-12._Двойник.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-13._Рысакъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#13._Рысакъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">15</span>
+				<span>13. Рысакъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-13._Рысакъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-14._Мѣдные_пятаки."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#14._Мѣдные_пятаки.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">16</span>
+				<span>14. Мѣдные пятаки.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-14._Мѣдные_пятаки.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-15._Цвѣтокъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#15._Цвѣтокъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">17</span>
+				<span>15. Цвѣтокъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-15._Цвѣтокъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-16._Желѣзный_царь."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#16._Желѣзный_царь.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">18</span>
+				<span>16. Желѣзный царь.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-16._Желѣзный_царь.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-17._Красная_капуста."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#17._Красная_капуста.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">19</span>
+				<span>17. Красная капуста.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-17._Красная_капуста.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-18._Свѣтлый_и_дѣвочка_въ_лохмотьяхъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#18._Свѣтлый_и_дѣвочка_въ_лохмотьяхъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">20</span>
+				<span>18. Свѣтлый и дѣвочка въ лохмотьяхъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-18._Свѣтлый_и_дѣвочка_въ_лохмотьяхъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-19._Жандармы_и_покойники."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#19._Жандармы_и_покойники.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">21</span>
+				<span>19. Жандармы и покойники.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-19._Жандармы_и_покойники.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-20._Финалъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#20._Финалъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">22</span>
+				<span>20. Финалъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-20._Финалъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Часть_вторая."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#Часть_вторая.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">23</span>
+				<span>Часть вторая.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Часть_вторая.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-1._Гуси_да_Лебеди."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#1._Гуси_да_Лебеди.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">24</span>
+				<span>1. Гуси да Лебеди.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-1._Гуси_да_Лебеди.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-2._Волкъ_съѣлъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#2._Волкъ_съѣлъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">25</span>
+				<span>2. Волкъ съѣлъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-2._Волкъ_съѣлъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-3._Не_могу_уйти."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#3._Не_могу_уйти.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">26</span>
+				<span>3. Не могу уйти.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-3._Не_могу_уйти.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-4._Двери."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#4._Двери.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">27</span>
+				<span>4. Двери.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-4._Двери.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-5._Качели."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#5._Качели.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">28</span>
+				<span>5. Качели.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-5._Качели.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-6._Розанчикъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#6._Розанчикъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">29</span>
+				<span>6. Розанчикъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-6._Розанчикъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-7._У_голыхъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#7._У_голыхъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">30</span>
+				<span>7. У голыхъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-7._У_голыхъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-8._Подъ_водою."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#8._Подъ_водою.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">31</span>
+				<span>8. Подъ водою.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-8._Подъ_водою.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-9._На_новую_квартиру."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#9._На_новую_квартиру.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">32</span>
+				<span>9. На новую квартиру.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-9._На_новую_квартиру.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-10._Мои_цвѣты."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#10._Мои_цвѣты.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">33</span>
+				<span>10. Мои цвѣты.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-10._Мои_цвѣты.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-11._Лягушки_въ_перчаткахъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#11._Лягушки_въ_перчаткахъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">34</span>
+				<span>11. Лягушки въ перчаткахъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-11._Лягушки_въ_перчаткахъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-12._Гимнастика."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#12._Гимнастика.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">35</span>
+				<span>12. Гимнастика.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-12._Гимнастика.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-13._Полюсъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#13._Полюсъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">36</span>
+				<span>13. Полюсъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-13._Полюсъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-14._Не_лазай!"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#14._Не_лазай!">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">37</span>
+				<span>14. Не лазай!</span>
+			</div>
+		</a>
+		
+		<ul id="toc-14._Не_лазай!-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-15._Въ_церкви."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#15._Въ_церкви.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">38</span>
+				<span>15. Въ церкви.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-15._Въ_церкви.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-16._Бухгалтерія."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#16._Бухгалтерія.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">39</span>
+				<span>16. Бухгалтерія.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-16._Бухгалтерія.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-17._Шершавое."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#17._Шершавое.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">40</span>
+				<span>17. Шершавое.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-17._Шершавое.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-18._Мышка."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#18._Мышка.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">41</span>
+				<span>18. Мышка.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-18._Мышка.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-19._Макароны."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#19._Макароны.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">42</span>
+				<span>19. Макароны.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-19._Макароны.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-20._Бѣлый_голубь."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#20._Бѣлый_голубь.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">43</span>
+				<span>20. Бѣлый голубь.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-20._Бѣлый_голубь.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-21._Не_кусайся."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#21._Не_кусайся.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">44</span>
+				<span>21. Не кусайся.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-21._Не_кусайся.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-22._Битый_небитаго_везетъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#22._Битый_небитаго_везетъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">45</span>
+				<span>22. Битый небитаго везетъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-22._Битый_небитаго_везетъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-23._Ахъ!"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#23._Ахъ!">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">46</span>
+				<span>23. Ахъ!</span>
+			</div>
+		</a>
+		
+		<ul id="toc-23._Ахъ!-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-24._Сфинксъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#24._Сфинксъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">47</span>
+				<span>24. Сфинксъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-24._Сфинксъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-25._Однѣ_ноги_торчатъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#25._Однѣ_ноги_торчатъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">48</span>
+				<span>25. Однѣ ноги торчатъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-25._Однѣ_ноги_торчатъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-26._Жена_архимандрита."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#26._Жена_архимандрита.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">49</span>
+				<span>26. Жена архимандрита.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-26._Жена_архимандрита.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-27._Въ_бродъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#27._Въ_бродъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">50</span>
+				<span>27. Въ бродъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-27._Въ_бродъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-28._Умеръ_нашъ_отецъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#28._Умеръ_нашъ_отецъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">51</span>
+				<span>28. Умеръ нашъ отецъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-28._Умеръ_нашъ_отецъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-29._Бабье_лѣто."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#29._Бабье_лѣто.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">52</span>
+				<span>29. Бабье лѣто.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-29._Бабье_лѣто.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-30._Краснокожіе_схватили_и_конецъ."
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#30._Краснокожіе_схватили_и_конецъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">53</span>
+				<span>30. Краснокожіе схватили и конецъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-30._Краснокожіе_схватили_и_конецъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Бедовая доля (Ремизов)/ДО</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F+%D0%B4%D0%BE%D0%BB%D1%8F+%28%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2%29%2F%D0%94%D0%9E" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;oldid=5503787" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_%28%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2%29%2F%D0%94%D0%9E&amp;id=5503787&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2591%25D0%25B5%25D0%25B4%25D0%25BE%25D0%25B2%25D0%25B0%25D1%258F_%25D0%25B4%25D0%25BE%25D0%25BB%25D1%258F_%28%25D0%25A0%25D0%25B5%25D0%25BC%25D0%25B8%25D0%25B7%25D0%25BE%25D0%25B2%29%2F%25D0%2594%25D0%259E"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2591%25D0%25B5%25D0%25B4%25D0%25BE%25D0%25B2%25D0%25B0%25D1%258F_%25D0%25B4%25D0%25BE%25D0%25BB%25D1%258F_%28%25D0%25A0%25D0%25B5%25D0%25BC%25D0%25B8%25D0%25B7%25D0%25BE%25D0%25B2%29%2F%25D0%2594%25D0%259E"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_%28%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2%29%2F%D0%94%D0%9E"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_%28%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2%29%2F%D0%94%D0%9E"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_%28%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2%29%2F%D0%94%D0%9E"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_%28%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2%29%2F%D0%94%D0%9E"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_%28%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2%29%2F%D0%94%D0%9E","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_%28%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2%29%2F%D0%94%D0%9E' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"><div class="subpages">&lt; <bdi dir="ltr"><a href="/wiki/%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)" class="mw-redirect" title="Бедовая доля (Ремизов)">Бедовая доля (Ремизов)</a></bdi></div></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" id="pre-reform"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%94%D0%BE%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Викитека:Дореформенная орфография"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yat-round-icon1.jpg/40px-Yat-round-icon1.jpg" decoding="async" width="32" height="32" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yat-round-icon1.jpg/60px-Yat-round-icon1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yat-round-icon1.jpg/120px-Yat-round-icon1.jpg 2x" data-file-width="150" data-file-height="150" /></a></span></div><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Бедовая доля</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">авторъ <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2" title="Автор:Алексей Михайлович Ремизов">Алексей Михайлович Ремизов</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1909</span>. Источникъ: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/r/remizow_a_m/text_1909_bedovaya_dolya-oldorfo.shtml">az.lib.ru</a></span> </td></tr></tbody></table><div class="ws-noexport searchaux" id="extra&#95;nav" style="display:flex"><ul style="display:block"><li id="menu-editions"><b>Другие редакции</b>
+<ul><li><a href="/wiki/%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)" class="mw-redirect" title="Бедовая доля (Ремизов)">В новой орфографии</a></li></ul></li></ul></div><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)" class="mw-redirect" title="Бедовая доля (Ремизов)">Бедовая доля (Ремизов)</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение было опубликовано до 7 ноября 1917 года (по новому стилю) на территории <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" class="extiw" title="w:Российская империя">Российской империи</a> (<a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" class="extiw" title="w:Российская республика">Российской республики</a>), за исключением территорий <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D1%81%D0%BA%D0%BE%D0%B5" class="extiw" title="w:Великое княжество Финляндское">Великого княжества Финляндского</a> и <a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5" class="extiw" title="w:Царство Польское">Царства Польского</a>, и не было опубликовано на территории <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" class="extiw" title="w:Советская Россия">Советской России</a> или других государств в течение 30 дней после даты первого опубликования.
+<p>Поскольку Российская Федерация (Советская Россия, РСФСР), несмотря на историческую преемственность, юридически не является полным правопреемником Российской империи, а сама Российская империя не являлась страной-участницей <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D1%85_%D0%B8_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9" class="extiw" title="w:Бернская конвенция об охране литературных и художественных произведений">Бернской конвенции об охране литературных и художественных произведений</a>, то согласно статье 5 конвенции это произведение <b>не имеет страны происхождения</b>.
+</p><p>Исключительное право на это произведение не действует на территории Российской Федерации, поскольку это произведение не удовлетворяет положениям статьи 1256 Гражданского кодекса Российской Федерации о территории обнародования, о гражданстве автора и об обязательствах по международным договорам.
+</p><p>Это произведение находится также в <a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Справка:Общественное достояние">общественном достоянии</a> в США (<i><a href="https://en.wikisource.org/wiki/Help:Public_domain" class="extiw" title="en:Help:Public domain">public domain</a></i>), поскольку оно было опубликовано до 1 января 1931 года.
+</p>
+</td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Russia.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/60px-Flag_of_Russia.svg.png" decoding="async" width="60" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/120px-Flag_of_Russia.svg.png 1.5x" data-file-width="900" data-file-height="600" /></a></span>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="Алексѣй_Ремизовъ._Бѣдовая_доля"><span id=".D0.90.D0.BB.D0.B5.D0.BA.D1.81.D1.A3.D0.B9_.D0.A0.D0.B5.D0.BC.D0.B8.D0.B7.D0.BE.D0.B2.D1.8A._.D0.91.D1.A3.D0.B4.D0.BE.D0.B2.D0.B0.D1.8F_.D0.B4.D0.BE.D0.BB.D1.8F"></span>Алексѣй Ремизовъ. <br />Бѣдовая доля</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=1" title="Редактировать раздел «Алексѣй Ремизовъ. Бѣдовая доля»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="&lt;Часть_первая.&gt;"><span id=".3C.D0.A7.D0.B0.D1.81.D1.82.D1.8C_.D0.BF.D0.B5.D1.80.D0.B2.D0.B0.D1.8F..3E"></span>&lt;Часть первая.&gt;</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=2" title="Редактировать раздел «&lt;Часть первая.&gt;»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="1._Верейскій_тигръ."><span id="1._.D0.92.D0.B5.D1.80.D0.B5.D0.B9.D1.81.D0.BA.D1.96.D0.B9_.D1.82.D0.B8.D0.B3.D1.80.D1.8A."></span>1. <br />Верейскій тигръ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=3" title="Редактировать раздел «1. Верейскій тигръ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я — тигръ древняго, засыпаннаго пепломъ каменнаго города, рожденъ по&#160;указанію Бога, духъ мой обреченъ на&#160;терпѣніе по&#160;пророчеству царя Давида. Азъ есмь до&#160;вѣка, во&#160;вѣки и&#160;вѣкъ вѣка.
+</p><p>Лѣниво и&#160;удобно я&#160;лежалъ въ Лѣтнемъ саду на&#160;дорожкѣ около дѣдушки Крылова и&#160;глазѣлъ на&#160;публику. Гуляющихъ попадалось мало, смѣха не&#160;было, только кое-гдѣ хихикали гадко. Большинство&#160;же серьезно проходило по&#160;своимъ дѣламъ, и&#160;дѣло, которое несъ каждый, выставлялось такимъ важнымъ, что&#160;отъ совершенія&#160;его, казалось, зависѣло чуть&#160;ли&#160;не спасеніе всего міра. Видя лишь однѣ спины прохожихъ, я&#160;только по&#160;ихъ словамъ и&#160;отзывамъ, долетавшимъ до&#160;меня, могъ заключить о&#160;ихъ лицахъ и&#160;какіе у&#160;нихъ глаза.
+</p><p>Возмущеніе подняло меня на&#160;мои крѣпкія&#160;ноги, въ ярости вскочилъ я&#160;на Домикъ Петра Великаго и, вонзивъ когти въ дерево, принялся совѣстить и&#160;доказывать этимъ обманщикамъ, что&#160;они обманщики, что&#160;не совершить имъ и&#160;самаго пустяшнаго дѣла, такъ какъ зрѣніе ихъ мутно и&#160;коротко, души ихъ дряблы, а&#160;лица перекошены на&#160;сторону.
+</p><p>Обличая спасителей, я&#160;замололъ такую чепуху, что&#160;и у&#160;меня самого помутнѣло въ глазахъ, душа обмочалилась, а&#160;лицо перекосило. И&#160;вдругъ какимъ-то&#160;чудомъ я&#160;превратился въ голосистую птицу.
+</p><p>Я&#160;такъ громко пѣлъ, что, казалось, не&#160;было въ мірѣ уголка, гдѣ бы&#160;не раздавалась моя пѣсня. И&#160;оттого, что&#160;всѣ меня слушали, и&#160;оттого, что&#160;какъ разъ на&#160;томъ мѣстѣ на&#160;солнышкѣ, гдѣ я&#160;любилъ пѣть, была ужъ искусно подвѣшена клѣтка, и&#160;я зналъ, что&#160;меня поймаютъ и&#160;посадятъ въ эту клѣтку, стало мнѣ неловко и&#160;опасно жить птицей.
+</p><p>И&#160;вотъ, чтобы какъ-нибудь спастись и&#160;остаться на&#160;свободѣ, я, опустивъ крылья, вороватой лисой прокрался на&#160;Верейскую въ самый грязный паскудный кабакъ Веселые острова, и&#160;кое-какъ протолкавшись сквозь гущу захмелѣвшихъ и&#160;вдрызгъ пьяныхъ гостей, присѣлъ къ первому попавшемуся столику, а&#160;для отвода глазъ спросилъ себѣ бутылку самаго пьянаго забористаго вина.
+</p><p>Несмотря на&#160;то, что&#160;народу было тьма и&#160;негдѣ было повернуться, все-таки какая-то&#160;Саша Тимофеева присосѣдилась ко&#160;мнѣ и, охвативъ рукой мою шею, лѣзла прямо къ лицу.
+</p><p>— Милый другъ, увези меня куда-нибудь! — приставала она, похрустывая своимъ желтымъ кожанымъ ремнемъ.
+</p><p>И&#160;по&#160;мѣрѣ того, какъ лицо ея темнаго мата съ огромными безъ зрачковъ сѣрыми глазами приближалось къ моему лицу, тонкія, какъ паутина, сѣти откуда-то&#160;съ потолка медленно, но&#160;вѣрно опускались надо мной. Я&#160;чувствовалъ, птичьи сѣти шелковыя опускались надо мной. А&#160;когда глаза моей возлюбленной такъ очутились близко, что&#160;слились въ одинъ сѣрый глазъ, сѣть коснулась моего темени, и&#160;въ тотъ&#160;же мигъ отточенный тонкій крючокъ вошелъ мнѣ въ живое сердце и, зацѣпивъ за&#160;живое, чуть дернулъ — и&#160;ужъ грубо и&#160;слѣпо&#160;поволокъ меня черезъ Сашу Тимофееву, черезъ столъ вверхъ по&#160;потолку.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="2._Обезьяны."><span id="2._.D0.9E.D0.B1.D0.B5.D0.B7.D1.8C.D1.8F.D0.BD.D1.8B."></span>2. <br />Обезьяны.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=4" title="Редактировать раздел «2. Обезьяны.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Насъ стянули со всѣхъ концовъ свѣта: изъ Австраліи, изъ Африки и&#160;Южной Америки, и&#160;я, предводитель шимпанзэ, опоясанный тканымъ гагажьяго пуха поясомъ ломалъ себѣ голову и&#160;рвалъ на&#160;себѣ волосы, не&#160;зная, какъ вырваться изъ цѣпей, которыми мы&#160;были скованы по&#160;рукамъ и&#160;ногамъ, и&#160;улепетнуть на&#160;родину. Но&#160;было ужъ поздно. Прогнавъ по&#160;цѣлинѣ черезъ поля, насъ выстроили, какъ солдатъ, на&#160;Марсовомъ полѣ, и&#160;герольды въ золотѣ со страусовыми перьями на&#160;шляпахъ, разъѣзжая по&#160;рядамъ, читали намъ приговоръ.
+</p><p>Насъ обезьянъ обвиняли въ непроходимомъ распутствѣ, злости, бездѣльничаньѣ, пьянствѣ и&#160;упорно-злонамѣренной вороватости и, признавая необыкновенно блестящія природныя способности къ развитію и&#160;усовершенствованію, приговаривали примѣнить къ намъ секретныя средства профессора Болонскаго университета рыцаря Альтенара — потомка викинговъ Гренландіи, Исландіи&#160;и Сѣвернаго Ледовитаго Океана.
+</p><p>Со слѣпой материнской любовью и&#160;негодованіемъ я&#160;слѣдилъ, какъ по&#160;совершеніи&#160;всѣхъ шутовскихъ церемоній, началась расправа. Эти богобоязненные умники потѣхи ради прокалывали насъ сапожнымъ шиломъ и&#160;потомъ били желѣзными молотками, а&#160;другимъ намазывали шерсть мягкимъ и&#160;горячимъ варомъ и, закатавъ въ массѣ вара веревку и&#160;прикрѣпивъ ее къ тѣлу, продергивали въ хомутъ свободной и&#160;сильной лошади и&#160;волокли по&#160;землѣ подъ гикъ и&#160;гамъ, покуда не&#160;издыхала жертва, третьимъ&#160;же тщательно закалывали губы мѣдными металлическими булавками. И&#160;много еще было сдѣлано, какъ обузданіе, потѣхи ради.
+</p><p>Когда&#160;же Марсово поле насытилось визгомъ и&#160;стономъ, а&#160;земля взбухла отъ пролитой обезьяньей крови, а&#160;крещеный и&#160;некрещеный русскій народъ надорвалъ себѣ всѣ животы отъ хохота, прискакалъ на&#160;мѣдномъ конѣ, какъ вѣтеръ, всадникъ, весь закованный въ зеленую мѣдь. Высоко взвившійся арканъ стянулъ мнѣ горло, и&#160;я упалъ на&#160;колѣни. И&#160;въ замеревшей тишинѣ, дерзко глядя на&#160;страшнаго всадника передъ лицомъ ненужной, ненавистной, непрошенной смерти, я, предводитель шимпанзэ Австраліи, Африки и&#160;Южной Америки, прокричалъ гордому всаднику и&#160;ненавистной мнѣ смерти трижды пѣтухомъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="3._Клей_—_синдетиконъ."><span id="3._.D0.9A.D0.BB.D0.B5.D0.B9_.E2.80.94_.D1.81.D0.B8.D0.BD.D0.B4.D0.B5.D1.82.D0.B8.D0.BA.D0.BE.D0.BD.D1.8A."></span>3. <br />Клей — синдетиконъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=5" title="Редактировать раздел «3. Клей — синдетиконъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Убирали комнаты — это самое несносное время передъ праздниками, развѣ сравнимое только съ переѣздомъ на&#160;другую квартиру — убирали, старались. Съ потолка щетками поснимали закопченную пыль и&#160;паутину, вымыли окна и&#160;подоконники и&#160;принялись за&#160;полы. А&#160;грязи — не&#160;отмыть, не&#160;отскоблить. И&#160;отъ босыхъ ногъ слѣды. Уборкой заправлялъ какой-то&#160;мнѣ неизвѣстный человѣкъ, шершавый съ собачьей мордой. Этотъ самый человѣкъ съ собачьей мордой, видя, что&#160;толку нѣтъ, забралъ свои пыльныя щетки и&#160;скребки, плюнулъ и&#160;скрылся.
+</p><p>Оставшись одинъ, я&#160;тихонько заглянулъ подъ кровать.
+</p><p>«Эге, — подумалъ я, — да&#160;вотъ гдѣ она сидитъ, эта грязная жила!» — и&#160;такъ мнѣ стало досадно и&#160;такъ не&#160;хотѣлось гнуть спину — просить извести эту грязь подъ кроватью и&#160;самому пачкаться, — снялъ я&#160;съ себя пиджакъ и&#160;все до&#160;рубахи, взялъ синдетикона, обмазался имъ, какъ слѣдуетъ, легъ на&#160;полъ и&#160;давай кататься.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="4._Черти."><span id="4._.D0.A7.D0.B5.D1.80.D1.82.D0.B8."></span>4. <br />Черти.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=6" title="Редактировать раздел «4. Черти.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;лежалъ, прикованный къ желѣзной койкѣ, и&#160;не въ Обуховкѣ лежалъ я, а&#160;въ могилѣ, и&#160;не изъ Спасской части стащили меня сюда замертво, а&#160;прямо отъ Покрова послѣ отпѣванія.
+</p><p>Сердце рвется на&#160;части! Да&#160;за&#160;что&#160;же эти гробовщики такъ злобно похоронили меня, — вѣдь я&#160;не сдѣлалъ имъ зла, ей-Богу, я&#160;и мухи не&#160;обижу, я&#160;ружья не&#160;умѣю въ рукахъ держать. Или&#160;вся вина моя въ томъ, что&#160;Емеля подарилъ мнѣ свои семь драгоцѣнныхъ дней молоть языкомъ, сколько влѣзетъ?
+</p><p>Когда я&#160;такъ терзался и&#160;мучился въ моемъ печальномъ состояніи, три чорта посѣтили меня. Двое изъ нихъ были мнѣ совершенно неизвѣстны: тихенькіе, слабенькіе, такъ въ чемъ душа держится. А&#160;третьяго, хотя онъ и&#160;старался въ моихъ глазахъ передѣлаться, я&#160;сейчасъ&#160;же узналъ по&#160;голосу: это почтовый чиновникъ десятаго отдѣленія Киселевъ.
+</p><p>Всѣ трое чертей притворились смирными, ласковыми, безобидными и&#160;тонкимъ ребячьимъ голоскомъ что-то&#160;такое наивное и&#160;простенькое лепетали надо мной. Но&#160;я&#160;какимъ-то&#160;наитіемъ понялъ, что&#160;таилось у&#160;нихъ на&#160;умѣ: они&#160;облюбовали и&#160;теперь опредѣленно подбирались къ моимъ конечностямъ и&#160;позвоночному хребту.
+</p><p>«Ну нѣтъ ужъ, подаркомъ вамъ не&#160;достанусь, — рѣшилъ я&#160;самъ съ собою, — накормлю васъ овсянкой!» — и, напрягши всѣ мои силы, я&#160;оторвался отъ желѣзной койки и, врасплохъ бросившись на&#160;чертей, сталъ съ ними расправляться по-свойски.
+</p><p>Отъ одного чорта остался мнѣ на&#160;память клокъ волосъ, другому чорту я&#160;прокусилъ палецъ, а&#160;когда я&#160;торжествовалъ, Киселевъ схватилъ какой-то&#160;дряни въ горсть, и&#160;я не&#160;успѣлъ оглянуться, какъ онъ уже замазалъ мнѣ ротъ. И&#160;я&#160;сталъ задыхаться.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="5._Иванъ_Грозный."><span id="5._.D0.98.D0.B2.D0.B0.D0.BD.D1.8A_.D0.93.D1.80.D0.BE.D0.B7.D0.BD.D1.8B.D0.B9."></span>5. <br />Иванъ Грозный.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=7" title="Редактировать раздел «5. Иванъ Грозный.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>И&#160;ровно и&#160;вперегонку, уступая и&#160;толкаясь, мы&#160;бѣжимъ по&#160;Моросейкѣ на&#160;Красную площадь. Всѣ мы&#160;спѣшимъ къ Лобному мѣсту послушать Объявленіе, о&#160;которомъ возвѣщалось съ перекрестковъ и&#160;въ тупикахъ.
+</p><p>На&#160;Спасской башнѣ ужъ пропѣли&#160;часы полдень. Народъ все прибывалъ. Но&#160;Лобное мѣсто оставалось свободнымъ, и&#160;только какіе-то&#160;мальчишки по&#160;временамъ завладѣвали имъ и&#160;тотчасъ&#160;же къ общему удовольствію и&#160;развлеченію летѣли&#160;вверхъ тармашками.
+</p><p>Съ помощью знакомаго полотера съ Зацѣпы я&#160;взобрался на&#160;кровлю Василія Блаженнаго, и&#160;отъ меня прекрасно видно было даже всякую мелочь.
+</p><p>Наконецъ, толпа, крякнувъ, осадила, головы обнажились, а&#160;на Лобномъ мѣстѣ показался маленькій человѣчекъ: онъ былъ въ высокихъ воротничкахъ и&#160;смокингѣ, а&#160;голова его была повязана платкомъ по-бабьи.
+</p><p>— Юродивый, — прокатилось по&#160;площади изъ устъ въ уста, — это юродивый самъ.
+</p><p>На&#160;Спасской башнѣ снова пропѣли&#160;часы и&#160;пѣли&#160;долго: тринадцать.
+</p><p>— Садитесь, господа, — сказалъ Юродивый, кланяясь на&#160;всѣ четыре стороны: Кремлю, Замоскворѣчью, Историческому музею и&#160;Рядамъ.
+</p><p>Такъ какъ я&#160;сидѣлъ, то, не&#160;смѣя&#160;ослушаться, все-таки подобрался, будто усаживаясь, всѣ же прочіе, стоявшіе внизу, хотя и&#160;было не&#160;совсѣмъ удобно, безпрекословно присѣли.
+</p><p>— Милостивыя государыни и&#160;милостивые государи, — запѣлъ Юродивый знаменнымъ распѣвомъ, — всѣ мы&#160;учились заповѣдямъ, и&#160;всякій знаетъ, что&#160;ихъ десять штукъ. Не такъ&#160;ли, десять штукъ?
+</p><p>И&#160;въ отвѣтъ прогудѣла толпа, какъ гудятъ Воистину воскресъ на&#160;Пасхѣ въ церквахъ.
+</p><p>— Ну, вотъ, господа, — продолжалъ Юродивый тѣмъ&#160;же распѣвомъ, — а&#160;на самомъ дѣлѣ ихъ не&#160;десять, а&#160;четырнадцать. Отцы наши утаили отъ насъ, но&#160;и они&#160;мудрые, да&#160;и всѣ мы&#160;искони блюли ихъ всѣ четырнадцать.
+</p><p>— Блюли, — проблеяла толпа.
+</p><p>— А! вотъ, видите! — пропѣлъ Юродивый, — а&#160;теперь по&#160;исчисленіямъ Кугельгейма фонъ Густава пришло время провозгласить ихъ полностью и&#160;начать исполнять не&#160;тайно, а&#160;въ открытую. Внимайте&#160;же и&#160;пишите въ сердцѣ, вотъ новыя заповѣди:
+</p><p>11-я. — Не зѣвай.
+</p><p>12-я. — ѣшь пирогъ съ грибами, а&#160;языкъ держи за&#160;зубами.
+</p><p>13-я. — Прелюбы сотвори.
+</p><p>14-я. — Укради.
+</p><p>Юродивый залился такимъ веселымъ смѣхомъ и&#160;такъ затрясъ головой, что&#160;платокъ съѣхалъ ему на&#160;шею, и&#160;передъ опѣшеннымъ, сбитымъ съ толку народомъ вдругъ метнулись глаза, и&#160;грозное стало лицо царя Ивана.
+</p><p>На&#160;Спасской башнѣ пропѣли&#160;часы и&#160;пѣли&#160;долго: четырнадцать.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="6._Вѣдьма."><span id="6._.D0.92.D1.A3.D0.B4.D1.8C.D0.BC.D0.B0."></span>6. <br />Вѣдьма.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=8" title="Редактировать раздел «6. Вѣдьма.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;попалъ въ пустой домъ. Обстановка всякая — столы, стулья, все есть, но&#160;какой-то&#160;онъ весь нежилой. Я&#160;не&#160;одинъ, со мною студентъ П. въ черной студенческой тужуркѣ, самъ съ черной бородой клиномъ, въ темныхъ очкахъ.
+</p><p>Одна за&#160;другой фигуры сначала неясно, потомъ отчетливѣе начинаютъ появляться вокругъ меня. Это какіе-то&#160;маленькіе тучные карапузы. И&#160;мнѣ становится страшно отъ ихъ присутствія&#160;въ этомъ нежиломъ домѣ.
+</p><p>— Смотрите въ окно, — говоритъ мнѣ студентъ, догадавшійся должно быть, что&#160;мнѣ страшно въ этомъ нежиломъ домѣ.
+</p><p>Я&#160;подошелъ къ окну и&#160;сталъ смотрѣть. Окно выходило въ садъ. Но&#160;какъ-то&#160;такъ случилось, что&#160;я помимо воли бросилъ смотрѣть и&#160;перевелъ глаза въ комнату. Изъ движущихся фигуръ выдѣлилась теперь высокая женщина съ ребенкомъ на&#160;рукахъ. Я&#160;подумалъ:
+</p><p>«Если ее перекрестить, она исчезнетъ».
+</p><p>И&#160;я&#160;перекрестилъ ее истово большимъ крестомъ разъ и&#160;другой, но&#160;высокая женщина, глядя на&#160;меня съ недоумѣніемъ и&#160;какъ&#160;бы&#160;показывая мнѣ, что&#160;я ошибся, сама перекрестилась. Студентъ исчезъ. Я&#160;было къ двери. Остановился. Не могу. Не увѣренъ, не&#160;знаю: а&#160;что, если и&#160;въ другихъ комнатахъ то&#160;же? И&#160;вдругъ я&#160;увидѣлъ другую женщину. Она лежала въ углу на&#160;кушеткѣ. Она была маленькаго роста, плотная, густо-румяная, носъ плоскій, а&#160;ротъ съ безобразно выступающей нижней челюстью.
+</p><p>— Не этимъ надо, — сказала она, приподнявшись съ кушетки, и&#160;махнула краснымъ одѣяломъ.
+</p><p>И&#160;тотчасъ лицо высокой женщины съ ребенкомъ стало измѣняться, принимая самыя отвратительныя выраженія: носъ удлинился — совсѣмъ длинный, за&#160;губы заходитъ, а&#160;глаза, выскочивъ изъ орбитъ, повисли, какъ два мѣшечка.
+</p><p>А&#160;та съ кушетки румяная плосконосая, съ безобразно-выступающей нижней челюстью снова какъ махнетъ краснымъ одѣяломъ, и&#160;ребенокъ на&#160;рукахъ женщины сталъ таять, туловище становилось все меньше и&#160;меньше, не&#160;стало у&#160;него ни&#160;рукъ, ни&#160;ногъ, и&#160;осталась одна голова.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="7._Пиленый_сахаръ."><span id="7._.D0.9F.D0.B8.D0.BB.D0.B5.D0.BD.D1.8B.D0.B9_.D1.81.D0.B0.D1.85.D0.B0.D1.80.D1.8A."></span>7. <br />Пиленый сахаръ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=9" title="Редактировать раздел «7. Пиленый сахаръ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Скатился я&#160;съ крутого обрыва въ садъ. Да&#160;это загородный увеселительный садъ Хуторокъ. Вонъ и&#160;касса. Подошелъ я&#160;къ кассѣ билетъ взять. Заглянулъ въ окошечко, а&#160;кассиръ-то&#160;знакомый — Бѣляковъ. Надо сказать, что&#160;съ этимъ Бѣляковымъ вышла у&#160;меня одна нехорошая исторія&#160;и такъ все запуталось: сталъ я&#160;ему бѣльмомъ въ глазу.
+</p><p>Бѣляковъ пилъ чай въ прикуску, а&#160;другой кассиръ искалъ ему въ головѣ.
+</p><p>«Ну, — думаю, — пропалъ я, безъ побоя не&#160;отпуститъ, убьетъ онъ меня».
+</p><p>— Моръ на&#160;воши! — говорю имъ и&#160;вижу: Бѣляковъ побагровѣлъ весь отъ злости, зажалъ въ кулакъ кусокъ пиленаго сахара, всталъ и&#160;пошелъ къ выходу.
+</p><p>— Убью! — отчеканилось во&#160;мнѣ.
+</p><p>И&#160;я&#160;присѣлъ на&#160;корточки, сталъ такимъ маленькимъ и&#160;такимъ тоненькимъ да&#160;въ щель подъ дверь и&#160;затиснулся, затаилъ дыханіе, слушаю.
+</p><p>Бѣляковъ походилъ около кассы и&#160;презлой вернулся.
+</p><p>— Не нашелъ, а&#160;попадись только, я&#160;ему! — сказалъ Бѣляковъ другому кассиру, и&#160;они стали искаться.
+</p><p>А&#160;меня точно кто-то&#160;все подстегиваетъ: хочу не&#160;дышать и&#160;не могу удержаться, и, какъ на&#160;грѣхъ, языкъ зачесался, я&#160;съ дуру-то&#160;полѣзъ почесать и&#160;чихнулъ.
+</p><p>Бѣляковъ тутъ-какъ-тутъ.
+</p><p>— А! вотъ онъ! — да&#160;какъ хватитъ: кусокъ сахара прямо такъ въ високъ мнѣ и&#160;вткнулся.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="8._Dame_de_Nоël."><span id="8._Dame_de_N.D0.BE.C3.ABl."></span>8. <br />Dame de Nоël.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=10" title="Редактировать раздел «8. Dame de Nоël.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Очень узкая, очень высокая комната безъ оконъ. Одинъ маленькій фонарикъ освѣщаетъ комнату. Посреди кровать подъ пологомъ.
+</p><p>Я&#160;осторожно подошелъ къ кровати, приподнялъ одѣяло и&#160;отшатнулся: на&#160;простынѣ сидѣло нѣсколько штукъ отвратительныхъ насѣкомыхъ — это какія-то&#160;разбухшія миндальныя шкурки съ черными пятнышками на&#160;спинѣ.
+</p><p>«Вотъ до&#160;чего довели!» — и, негодуя, я&#160;отошелъ къ двери, чтобы итти куда-то, отыскать кого-то&#160;и отомстить: я&#160;зналъ, чья это кровать…
+</p><p>На&#160;порогѣ стояла незнакомка: она была въ бѣломъ, подъ покрываломъ, золотая корона на&#160;головѣ, и&#160;бѣлый свѣтъ шлейфомъ падалъ у&#160;ея ногъ.
+</p><p>— Завтра Рождество, — сказала она. Я&#160;отступилъ, давая дорогу.
+</p><p>— Ты меня не&#160;узналъ?
+</p><p>— Въ первый разъ вижу.
+</p><p>— Dame de NоКl.
+</p><p>— Dame de NоКl. — я&#160;подпрыгнулъ отъ радости, — и&#160;у насъ будетъ елка, серебряный дождь, золотые орѣхи!
+</p><p>— Ты самъ не&#160;знаешь, о&#160;чемъ просишь, а&#160;такъ лучше для&#160;нея…
+</p><p>— Они&#160;заводныя? — обрадовался я, подумавъ о&#160;тѣхъ отвратительныхъ насѣкомыхъ съ черными пятнами на&#160;спинѣ, которыя сидѣли&#160;на кровати подъ пологомъ.
+</p><p>Dame de NоКl. уже не&#160;было, да&#160;и я&#160;попалъ куда-то&#160;въ подворотню и&#160;сижу, какъ старикъ на&#160;пчельникѣ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="9._Чуть_было_не_съѣли."><span id="9._.D0.A7.D1.83.D1.82.D1.8C_.D0.B1.D1.8B.D0.BB.D0.BE_.D0.BD.D0.B5_.D1.81.D1.8A.D1.A3.D0.BB.D0.B8."></span>9. <br />Чуть было не&#160;съѣли.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=11" title="Редактировать раздел «9. Чуть было не съѣли.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>У&#160;меня было двѣнадцать подземныхъ каморокъ и&#160;двѣнадцать ключей. Ихъ у&#160;меня отняли. Я&#160;набралъ на&#160;дворѣ тряпокъ. Ихъ тоже отняли. Ключи и&#160;тряпки унесли въ кладовую. А&#160;Власовъ — мой недавній сожитель, безъ котораго я&#160;шагу не&#160;ступлю, — ушелъ отъ меня.
+</p><p>Я&#160;совсѣмъ голый, а&#160;все-таки грабятъ меня — отнимаютъ послѣднюю кровь изъ тѣла. Какая-то&#160;трясучка накинулась на&#160;меня. Со слезами я&#160;прошу ее оставить, не&#160;корчить такъ больно. Не слушается.
+</p><p>Я&#160;былъ нагло ограбленъ и&#160;зналъ, что&#160;меня не&#160;оставятъ живымъ, что&#160;меня гонятъ въ могилу, и&#160;ужъ больше не&#160;могъ терпѣть: я&#160;послалъ Авдотью на&#160;Лиговку къ знакомому гробовщику за&#160;гробомъ.
+</p><p>Смерть моя приближалась, и&#160;съ каждой минутой мнѣ становилось ясно, что&#160;черезъ нѣсколько дней тѣло мое съѣдятъ съ хлѣбомъ, а&#160;кости въ гробъ положатъ.
+</p><p>Кое-какъ я&#160;сползъ съ лѣстницы и&#160;обратился къ швейцару за&#160;помощью. Я&#160;просилъ швейцара изъ послѣднихъ силъ моихъ и&#160;съ пролитіемъ послѣдней крови моей послать къ почтеннымъ лицамъ города извѣщеніе, чтобы пріѣхали завтра&#160;же похоронить меня, пока я&#160;еще не&#160;съѣденъ съ хлѣбомъ.
+</p><p>И&#160;когда я&#160;такъ просилъ швейцара и&#160;кланялся ему въ ноги, со стѣны соскочило объявленіе о&#160;снятіи&#160;калошъ, и&#160;внезапно изъ стѣны, гдѣ висѣло это объявленіе, появился Власовъ. Покручивая свои колючіе пожарные усы, вѣроломный Власовъ подалъ мнѣ ключи, тряпки и&#160;пшеничной и&#160;аржаной муки для&#160;заварки густого клейстера.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="10._Пожаръ."><span id="10._.D0.9F.D0.BE.D0.B6.D0.B0.D1.80.D1.8A."></span>10. <br />Пожаръ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=12" title="Редактировать раздел «10. Пожаръ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Большущій домъ. Сколько этажей — не&#160;считалъ: много. А&#160;вокругъ дома народъ такъ кишмя кишитъ. Я&#160;подбѣгаю къ дому, но&#160;зачѣмъ мнѣ этотъ домъ, — самъ не&#160;знаю. Я&#160;знаю: мнѣ надо во&#160;что&#160;бы&#160;то ни&#160;стало пробраться въ домъ. Съ трудомъ проталкиваясь, добрался я&#160;до дверей и&#160;вошелъ въ комнаты. Комнаты все неизвѣстныя. Изъ одной въ другую перехожу, ищу чего-то&#160;и вдругъ вижу: маленькая, какъ клѣтушка объ одномъ окнѣ, да&#160;и то&#160;въ заборъ выходитъ. Я&#160;туда. Остановился среди комнаты. Я&#160;узналъ памятную мнѣ, страшную по&#160;воспоминаніямъ комнату.
+</p><p>«И&#160;обои цѣлехоньки, — обрадовался я, — сѣрыми цвѣтами съ красной жилкой по&#160;водянистому полю, а&#160;тутъ вотъ мой столъ стоялъ, а&#160;тутъ вотъ… и&#160;съ тѣхъ поръ все пошло по&#160;другому безповоротно».
+</p><p>И&#160;хотя, кромѣ меня, никого не&#160;было въ комнатѣ, я&#160;обратился къ кому-то&#160;и все спрашивалъ объ этомъ безповоротномъ: какъ его вернуть и&#160;какъ забыть.
+</p><p>— Пожаръ! — донеслось со двора и&#160;съ улицы и, скользнувъ по&#160;пустымъ комнатамъ, вернулось: — пожаръ!
+</p><p>И&#160;я&#160;почувствовалъ, что&#160;мнѣ тѣсно, холодно и&#160;скучно. Кто-то&#160;пѣлъ въ комнатахъ. Комнаты не&#160;казались пустыми. И&#160;вдругъ чѣмъ-то&#160;горячимъ обдало меня — и&#160;моя комната вспыхнула.
+</p><p>И&#160;въ огнѣ мнѣ стало весело.
+</p><p>Я&#160;подумалъ:
+</p><p>«Дай проснуться, отыщу я&#160;большущій домъ, найду эту тѣсную комнату и&#160;подожгу».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="11._Татаринъ."><span id="11._.D0.A2.D0.B0.D1.82.D0.B0.D1.80.D0.B8.D0.BD.D1.8A."></span>11. <br />Татаринъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=13" title="Редактировать раздел «11. Татаринъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;взбирался на&#160;башню по&#160;крутой, необычайно узкой лѣстницѣ. Мнѣ говорили, что&#160;стоитъ только достичь верхней площадки, и&#160;оттуда уже прямой ходъ на&#160;небо тамъ къ твоимъ услугамъ будетъ облако въ видѣ лодки — каюкъ, — садись въ каюкъ и&#160;плыви, куда хочешь.
+</p><p>Ужъ подымался я, подымался, едва ноги плетутся и&#160;терпѣнія&#160;нѣтъ — весь черепъ сжало, а&#160;все-таки какъ-никакъ понатужился и&#160;добрался. И&#160;что&#160;же вы думаете никакого облака — каюка нѣтъ, а&#160;стоитъ на&#160;площадкѣ татаринъ-старьевщикъ, и&#160;руки у&#160;него длинныя, до&#160;самой земли доходятъ. Я&#160;ужъ хотѣлъ было назадъ — въ самомъ дѣлѣ, что&#160;жъ это? — а&#160;старьевщикъ свои длинныя руки поднялъ да&#160;меня хвать за&#160;шиворотъ:
+</p><p>— Паразитъ ты, мерзкій, да&#160;не видать тебѣ, какъ ушей своихъ, ни&#160;облака, про&#160;которое ты изъ книжекъ вычиталъ, ни&#160;того, что&#160;тамъ за&#160;облакомъ, прочисти напередъ глаза свои, видящіе во&#160;всемъ одну гадость, а&#160;тогда ужъ — милости просимъ.
+</p><p>Я&#160;не&#160;успѣлъ ни&#160;возразить, ни&#160;оправдаться, какъ ужъ татаринъ-старьевщикъ сталъ медленно опускать меня на&#160;землю. И&#160;когда до&#160;земли оставалось всего ничего, я&#160;отъ внезапнаго толчка заклевалъ носомъ и, ахнувъ, шлепнулся въ теплый пометъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="12._Двойник."><span id="12._.D0.94.D0.B2.D0.BE.D0.B9.D0.BD.D0.B8.D0.BA."></span>12. <br />Двойник.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=14" title="Редактировать раздел «12. Двойник.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Въ эту ночь я&#160;долго ворочался и&#160;не могъ заснуть: то&#160;зябъ, то&#160;мнѣ казалось, что&#160;какія-то&#160;блохи прыгаютъ по&#160;мнѣ. И&#160;когда, наконецъ, пришелъ сонъ, я&#160;очутился въ просторной комнатѣ. Навзничь я&#160;лежалъ на&#160;кровати. И&#160;странно, лежа такъ на&#160;кровати, я&#160;вмѣстѣ съ тѣмъ видѣлъ себя лежащаго, но&#160;какимъ не&#160;похожимъ на&#160;себя.
+</p><p>И&#160;вотъ тотъ непохожій, который былъ мною, поднялся съ кровати и&#160;пошелъ черезъ узенькій коридоръ въ другую комнату. Ну, ничуть онъ не&#160;походилъ на&#160;меня: онъ былъ высокій, остролицый, съ впалыми щеками и&#160;хищнымъ орлинымъ носомъ, на&#160;немъ надѣтъ былъ короткій шелковый пурпурный плащъ, поношенный и&#160;порядочно полинявшій, а&#160;въ глазахъ кипѣло столько злобы и&#160;такой жгучей и&#160;острой, что&#160;довольно было одного его взгляда, чтобы прихлопнуть человѣка тутъ&#160;же на&#160;мѣстѣ, какъ муху. Онъ подошелъ къ кровати, на&#160;которой спалъ кто-то, завернувшись съ головой въ одѣяло, и, всхлипнувъ отъ бѣшеной злобы, переполнившей съ краями всю его душу, схватился пальцами за&#160;простыню и&#160;потянулъ, и&#160;тянулъ ее изъ-подъ спящаго, вымещая что-то, срывая сердце на&#160;неповинной бѣлой ткани.
+</p><p>Моя дикая душа пьянѣла, я&#160;помиралъ отъ злобы.
+</p><p>Но&#160;тутъ сонъ меня покинулъ.
+</p><p>Я&#160;лежалъ и&#160;не смѣлъ пошевелиться. Въ моей комнатѣ, гдѣ, кромѣ книгъ и&#160;игрушекъ, ничего не&#160;было, кто-то&#160;квакалъ. А&#160;была ночь.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="13._Рысакъ."><span id="13._.D0.A0.D1.8B.D1.81.D0.B0.D0.BA.D1.8A."></span>13. <br />Рысакъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=15" title="Редактировать раздел «13. Рысакъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Горѣлъ Петербургъ. На&#160;пожарныхъ каланчахъ вывѣшено было: сборъ всѣхъ частей, — да&#160;ничего не&#160;могли подѣлать. Горѣлъ Петербургъ со всѣхъ концовъ.
+</p><p>Я&#160;и&#160;еще одинъ человѣкъ, нерѣдкій спутникъ моихъ ночныхъ похожденій, покинувъ домъ, пріѣхали въ бараки. Въ баракахъ намъ отвели огромную комнату, и&#160;тутъ оказалось, что&#160;мы не&#160;одни: съ нами неотлучно находился одинъ извѣстный русскій поэтъ.
+</p><p>Мы&#160;смотрѣли&#160;въ окно: улицы были запружены бѣглецами, и&#160;какія-то&#160;дамы, нагруженныя чемоданами и&#160;желтыми коробками изъ, подъ шляпъ, тянулись по&#160;тротуару, словно въ крестномъ ходу. Всѣ говорили, что&#160;пожаръ страшный, и&#160;не кончится. Пахло гарью.
+</p><p>Мы&#160;тоже рѣшили уѣхать. Взяли извозчика и&#160;втроемъ отправились въ Москву. Въ Москвѣ, не&#160;останавливаясь, мы&#160;проѣхали прямо на&#160;дачу въ Петровскій паркъ. На&#160;дачѣ никого не&#160;застали. Потомъ явился знакомый, актеръ, и&#160;мы стали разсказывать, какой въ Петербургѣ страшный пожаръ, какъ мы&#160;сидѣли&#160;въ баракахъ, какъ гарью пахнетъ и&#160;какъ мы&#160;заплатили извозчику семьдесятъ пять копѣекъ.
+</p><p>— Теперь лошадь пропадетъ, — сказалъ поэтъ, — какъ&#160;же? Сдѣлать безъ передышки отъ Петербурга до&#160;Москвы двадцать девять верстъ и&#160;сейчасъ&#160;же обратно въ Петербургъ двадцать девять, лошадь не&#160;выдержитъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="14._Мѣдные_пятаки."><span id="14._.D0.9C.D1.A3.D0.B4.D0.BD.D1.8B.D0.B5_.D0.BF.D1.8F.D1.82.D0.B0.D0.BA.D0.B8."></span>14. <br />Мѣдные пятаки.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=16" title="Редактировать раздел «14. Мѣдные пятаки.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;стоялъ на&#160;берегу рѣчки съ фотографическимъ аппаратомъ и&#160;снималъ двухъ носороговъ. Носороги — на&#160;той сторонѣ, и&#160;съ ними три балбеса. Балбесы все лѣзли впередъ и&#160;застили мнѣ. Бился я&#160;немало времени и&#160;не могъ снять носороговъ.
+</p><p>Кричу балбесамъ:
+</p><p>— Эй вы, балбесы, на&#160;ту сторону переходите!
+</p><p>Послушали балбесы, вошли въ воду. А&#160;я&#160;скинулъ съ себя сапоги и&#160;тоже бухъ въ рѣчку, хочу къ носорогамъ переплыть. Плылъ, плылъ и&#160;закрутило. Дна нѣтъ, четыре стѣны желѣзныхъ, а&#160;руки у&#160;меня крестомъ сложены. И&#160;крутитъ и&#160;крутитъ. Вотъ изловчился я, пошевелилъ ногами и&#160;вынырнулъ. Влѣзъ на&#160;чугунный столбъ — на&#160;столбѣ парниковая редиска — усѣлся на&#160;редиску и&#160;просидѣлъ семь дней и&#160;ночей, пока не&#160;сняли.
+</p><p>И&#160;растворились желѣзныя стѣны. Тамъ балъ, музыка, танцы. А&#160;омутъ, гдѣ меня крутило — несгораемый шкапъ съ люкомъ и&#160;подпольемъ. Полѣзъ я&#160;въ подполье за&#160;мѣдными пятаками, — ихъ тамъ мѣшокъ на&#160;мѣшкѣ. Сталъ я&#160;выбирать изъ мѣшковъ пятаки и&#160;кидать въ воду, чтобы узнать, глубока&#160;ли&#160;рѣка. А&#160;пятаки не&#160;тонутъ, выплываютъ и&#160;не пятаками ужъ, а&#160;красными коробочками. Сталъ я&#160;вылавливать красныя коробочки.
+</p><p>А&#160;меня стыдятъ:
+</p><p>— Къ чему тебѣ эти дырявыя коробочки?
+</p><p>И&#160;знаю я, что&#160;коробочки ни&#160;къ чему мнѣ, и&#160;все-таки вылавливаю: брошу пятакъ, а&#160;выловлю коробочку.
+</p><p>— Я&#160;коллекцію собираю, — говорю виновато и&#160;отъ злости начинаю плевать на&#160;балбесовъ.
+</p><p>Плевалъ я, плевалъ, да&#160;всего себя съ ногъ до&#160;головы и&#160;оплевалъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="15._Цвѣтокъ."><span id="15._.D0.A6.D0.B2.D1.A3.D1.82.D0.BE.D0.BA.D1.8A."></span>15. <br />Цвѣтокъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=17" title="Редактировать раздел «15. Цвѣтокъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;пересаживалъ мой любимый цвѣтокъ. Насилу-то&#160;собрался. И&#160;такъ я&#160;виноватъ передъ нимъ — за&#160;дѣлами не&#160;досмотришь и&#160;траву не&#160;выполешь во-время — вотъ кусты какіе! Все дѣла: то&#160;одно, то&#160;другое, — не&#160;поспѣваешь. Въ этомъ-то&#160;и жизнь, когда не&#160;поспѣваешь! — слышалъ я&#160;отъ кого-то. Ну, и&#160;Богъ съ нимъ, пускай себѣ не&#160;поспѣваетъ на&#160;здоровье!
+</p><p>Я&#160;вытряхнулъ изъ горшка землю, бережно взялъ цвѣтокъ за&#160;стебель и, уткнувшись въ него, замѣтилъ, у&#160;корней, гдѣ они&#160;узломъ спутаны, маленькій червякъ сидитъ. И&#160;только-что&#160;протянулъ я&#160;руку за&#160;червякомъ, какъ мигомъ превратился червякъ въ змѣйку, а&#160;змѣйка, не&#160;мигнувъ, выросла въ змѣю. Тутъ ужъ отъ страха затряслись у&#160;меня поджилки, и&#160;я бухъ цвѣтокъ на&#160;полъ, хочу бѣжать, а&#160;ноги не&#160;слушаются, и&#160;закричать не&#160;могу.
+</p><p>Огромный страшный кольчатый змѣй Аспидъ вывивалъ свою пасть надо мной и, коснувшись горячимъ жаломъ моего холоднаго носа, вдругъ превратился въ зубастую рыбищу.
+</p><p>— Господи, да&#160;это сама Ехинія!
+</p><p>А&#160;Ехинія&#160;не Аспидъ. Не долго думая, поддала Ехинія&#160;пастью — ай! — крышка! Только всего и&#160;успѣлъ за&#160;карманъ схватиться, бултыхъ въ нутро — поминай, какъ звали!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="16._Желѣзный_царь."><span id="16._.D0.96.D0.B5.D0.BB.D1.A3.D0.B7.D0.BD.D1.8B.D0.B9_.D1.86.D0.B0.D1.80.D1.8C."></span>16. <br />Желѣзный царь.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=18" title="Редактировать раздел «16. Желѣзный царь.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Наша Софоровна старуха старая, дѣвушка. А&#160;я&#160;будто вхожу въ кухню и&#160;прошу Софоровну молока купить и&#160;шеколаду и&#160;вижу, на&#160;Софоровниной кровати лежитъ старикъ — старичекъ такой гаденькій въ кудряшкахъ — мужъ Софоровны.
+</p><p>— Не пойду я&#160;вамъ за&#160;шеколадомъ, — говоритъ мужъ Софоровны, — съ какой стати!
+</p><p>«Ишь, какая гадина, думаю себѣ, никто тебя и&#160;не проситъ ходить!»
+</p><p>А&#160;Софоровна ужъ топочетъ по&#160;лѣстницѣ, несетъ молоко, шеколадъ и… воблу.
+</p><p>Увидалъ я&#160;воблу, говорю Софоровнѣ:
+</p><p>— Зачѣмъ воблу-то&#160;принесли, отнесите ее обратно.
+</p><p>А&#160;старичекъ — мужъ Софоровны посматриваетъ на&#160;меня и&#160;нехорошо такъ: лицо у&#160;него до&#160;зелени блѣдное, кожа студенистая, а&#160;на кончикѣ носа красное пятнышко.
+</p><p>И&#160;входитъ нашъ старый пріятель литераторъ Ф., для&#160;котораго и&#160;весь этотъ шеколадъ затѣяли.
+</p><p>— Пойдемте — говоритъ Ф., — на&#160;площадь къ Совѣту, весь Петербургъ собирается.
+</p><p>Я&#160;и&#160;пошелъ. И&#160;вотъ будто стоимъ мы&#160;съ Ф. на&#160;площади у&#160;памятника. Памятникъ большой и&#160;высокій: высокая площадка со ступеньками, вокругъ ограда и&#160;посреди во&#160;весь ростъ желѣзный царь, а&#160;по бокамъ царя по&#160;три желѣзныхъ часовыхъ. И&#160;вдругъ вижу, желѣзная фигура царя зашевелилась, и&#160;желѣзные часовые зашевелились, и&#160;въ ужасѣ я&#160;говорю:
+</p><p>— Шевелится! Шевелится!
+</p><p>А&#160;онъ желѣзный ужъ сдвинулся съ мѣста и&#160;идетъ. Онъ желѣзный идетъ къ ступенькамъ, а&#160;за нимъ гуськомъ желѣзные часовые.
+</p><p>И&#160;я&#160;услышалъ, какъ съ разныхъ концовъ переполненной народомъ площади заговорили:
+</p><p>— Онъ идетъ!
+</p><p>— Онъ ходитъ передъ несчастьемъ!
+</p><p>— Несчастье надъ Петербургомъ! Желѣзный царь спустился съ лѣстницы и, когда ступилъ онъ на&#160;послѣднюю ступеньку, изъ желѣзнаго сталъ человѣкомъ и&#160;такой самый, какъ на&#160;Крюгеровскомъ портретѣ, высокій, глаза на&#160;выкатѣ, только волосы свѣтлые и&#160;кудрями завиваются. И&#160;часовые изъ желѣзныхъ стали живыми — старыми щетинистыми солдатами.
+</p><p>Царь обратился къ народу;
+</p><p>— Господа, — сказалъ царь, — я&#160;хотѣлъ вамъ сказать: сейчасъ въ квартирѣ художника Б. собралось все, что&#160;есть талантливаго и&#160;культурнаго въ Россіи.
+</p><p>— Талантливаго!! Культурнаго?! — захохоталъ, издѣваясь, мой спутникъ.
+</p><p>— Тише, — говорю ему, — что&#160;вы дѣлаете, вѣдь за&#160;это васъ…
+</p><p>И&#160;въ это время слышу, какъ кто-то&#160;изъ толпы называетъ меня по&#160;имени. Бросилъ я&#160;моего пріятеля, выбрался изъ толпы и&#160;вижу старикъ стоитъ — мужъ Софоровны. Онъ еще отвратительнѣе въ сѣрой мягкой рубашкѣ, подпоясанный кожанымъ поясомъ, до&#160;зелени блѣдный и&#160;студенистый съ краснымъ пятнышкомъ на&#160;кончикѣ носа, онъ протягивалъ мнѣ обѣ руки:
+</p><p>— Цѣлуй!
+</p><p>И&#160;глядя съ отвращеніемъ на&#160;его до&#160;зелени блѣдныя руки, я&#160;подумалъ: «вотъ за&#160;то, что&#160;я такой гордый, вотъ онъ, гадкій старикъ хочетъ, чтобы я&#160;унизился и&#160;поцѣловалъ его гадкую руку съ обручальнымъ кольцомъ!». И&#160;стиснувъ зубы, я&#160;поцѣловалъ гадкую руку съ обручальнымъ кольцомъ.
+</p><p>А&#160;старикъ, словно спохватившись, отдернулъ руки.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="17._Красная_капуста."><span id="17._.D0.9A.D1.80.D0.B0.D1.81.D0.BD.D0.B0.D1.8F_.D0.BA.D0.B0.D0.BF.D1.83.D1.81.D1.82.D0.B0."></span>17. <br />Красная капуста.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=19" title="Редактировать раздел «17. Красная капуста.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;стою на&#160;берегу рѣки въ толпѣ народа. Кто-то&#160;говоритъ, что&#160;этотъ народъ соскочилъ съ фресокъ, изображающихъ Страшный судъ въ Сольвычегодскомъ Благовѣщенскомъ соборѣ, и&#160;что рѣка Дунай, Сафатъ и&#160;еще какъ-то, я&#160;не могъ разобрать названія, такъ какъ все это говорилось на&#160;тарабарскомъ языкѣ.
+</p><p>Мы&#160;всѣ чего-то&#160;ждемъ и&#160;очень волнуемся. Я&#160;не&#160;могу спокойно стоять и&#160;поминутно подбѣгаю то&#160;къ одному, то&#160;къ другому:
+</p><p>— Скоро&#160;ли?
+</p><p>Но&#160;вмѣсто отвѣта мнѣ показываютъ пальцами на&#160;какую-то&#160;темную массу, движущуюся со стороны лѣса.
+</p><p>На&#160;самомъ берегу, почти надъ водой, огорожено пространство. Тамъ стоятъ два боченка. На&#160;боченки положена доска. Я&#160;пододвинулся къ загородкѣ и, удобно примостившись, сталъ вглядываться въ движущуюся темную массу.
+</p><p>И&#160;понемногу начали обрисовываться странныя фигуры. Впереди всѣхъ ѣхалъ на&#160;волѣ церемонимейстеръ — важный сановникъ съ коричневой бородой въ золотомъ кафтанѣ, въ рукахъ его блестѣло золотое жезло. За&#160;церемонимейстеромъ попарно шли дамы въ длинныхъ бѣлыхъ одѣяніяхъ босикомъ. А&#160;за&#160;каждой парой слѣдовали слуги, несшіе по&#160;два складныхъ стула и&#160;опахало. Наконецъ, подъ балдахиномъ показался король. Король былъ въ голубой, какъ рѣка, мантіи, усѣянной серебряными звѣздами, на&#160;рукахъ бѣлыя рыцарскія перчатки, лицо темное негритянское, а&#160;носъ въ видѣ серебрянаго серпа.
+</p><p>Мой сосѣдъ, по&#160;профессіи фокусникъ, въ рыжемъ пыльномъ парикѣ, фыркнувъ, сказалъ по-русски:
+</p><p>— У&#160;этого короля, Наполеона, носъ приставной! — и&#160;вдругъ упалъ замертво.
+</p><p>И&#160;я&#160;увидѣлъ, какъ въ толпѣ еще многіе упали мертвыми, должно быть, наказанные за&#160;свое богохульство. Теперь почему-то&#160;выяснилось, что&#160;это совсѣмъ не&#160;простой король.
+</p><p>Шествіе приближалось. Я&#160;разглядѣлъ стройнаго бѣлаго царедворца, очень юнаго. Слѣдуя за&#160;королемъ, юный царедворецъ отдавалъ приказанія. Потомъ опять потянулись дамы и&#160;слуги, а&#160;за слугами тряслись мужицкія&#160;телѣги, доверху нагруженныя красной капустой.
+</p><p>Всѣ глаза были устремлены на&#160;короля. Король ступилъ къ берегу въ огороженное пространство. И&#160;тутъ я&#160;догадался, что&#160;лицо его закрыто маской, а&#160;тотъ стройный царедворецъ неживой — автоматъ.
+</p><p>Слуги между тѣмъ сложили балдахинъ, разставили стулья. Бѣлыя дамы, подобравъ платья, усѣлись и, болтая босыми ногами, забормотали молитву. Король поклонился рѣкѣ, и, подозвавъ автомата, усѣлся съ автоматомъ на&#160;доску, положенную на&#160;боченки, но&#160;такъ, что&#160;середина доски осталась свободна.
+</p><p>Мы&#160;всѣ закричали ура и&#160;кричали, до&#160;тѣхъ поръ, пока церемоніймейстеръ съ коричневой бородой, въ золотомъ кафтанѣ, не&#160;сдѣлалъ жезломъ знака. Наступила мертвая тишина.
+</p><p>— Что&#160;же ты говоришь, — сказалъ король, обращаясь къ автомату, — будто эта скамья сломается, а&#160;видишь, мы&#160;сидимъ на&#160;ней вдвоемъ, и&#160;она цѣла.
+</p><p>Голосъ короля былъ такъ молодъ и&#160;силенъ и&#160;обаятеленъ, что&#160;каждый изъ насъ подпрыгнулъ отъ поднявшагося въ каждомъ изъ насъ чувства молодости, силы и&#160;обаятельности. Мы&#160;готовы были умереть за&#160;короля.
+</p><p>Дамы прокричали ура.
+</p><p>— Императоръ, ты сидишь не&#160;такъ, сядь посерединѣ! — сказалъ автоматъ королю и, вставъ, отошелъ къ оградѣ, къ тому мѣсту, гдѣ я&#160;такъ хорошо примостился.
+</p><p>Не утерпѣвъ, я&#160;потрогалъ автомата. Что-то&#160;металлически-холодное коснулось моей руки, и&#160;я машинально отдернулъ ее, почувствовавъ судорогу, какъ отъ электрическаго тока.
+</p><p>Король поднялся. Король оправилъ мантію. Король опускается на&#160;середину скамьи. И&#160;едва король коснулся скамьи, какъ доска переломилась, и&#160;король полетѣлъ въ рѣку.
+</p><p>Дамы заплакали. Мы&#160;закричали ура и&#160;бросились качать автомата и, подбрасывая автомата къ небу, подбрасывали вмѣстѣ съ нимъ красную капусту.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="18._Свѣтлый_и_дѣвочка_въ_лохмотьяхъ."><span id="18._.D0.A1.D0.B2.D1.A3.D1.82.D0.BB.D1.8B.D0.B9_.D0.B8_.D0.B4.D1.A3.D0.B2.D0.BE.D1.87.D0.BA.D0.B0_.D0.B2.D1.8A_.D0.BB.D0.BE.D1.85.D0.BC.D0.BE.D1.82.D1.8C.D1.8F.D1.85.D1.8A."></span>18. <br />Свѣтлый и&#160;дѣвочка въ лохмотьяхъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=20" title="Редактировать раздел «18. Свѣтлый и дѣвочка въ лохмотьяхъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;стоялъ посреди сводчатой комнаты и&#160;глядѣлъ въ окно, выходящее въ садъ. Я&#160;глядѣлъ туда за&#160;окно въ зеленый весенней зеленью садъ. И&#160;вдругъ кто-то&#160;сзади обнялъ меня. Я&#160;повернулъ голову и&#160;замеръ: такъ необыкновенно было чувство мое. Тотъ, кто обнялъ меня, смотрѣлъ на&#160;меня сначала съ упрекомъ, но&#160;потомъ кротко и&#160;любовно. Лицо его было просвѣтленно, и&#160;глаза свѣтились, онъ былъ очень юный, а&#160;зналъ онъ несравненно больше меня — мнѣ же представлялось, что&#160;я знаю очень много. Онъ не&#160;опускалъ своихъ рукъ. И, глядя на&#160;него, я&#160;думалъ:
+</p><p>«Если&#160;бы&#160;и всегда его руки лежали на&#160;моихъ плечахъ! Если&#160;бы&#160;онъ всегда былъ со мною!»
+</p><p>И&#160;я&#160;увидѣлъ въ углу комнаты маленькую дѣвочку въ лохмотьяхъ: она съ плачемъ протягивала мнѣ свои худыя рученки. А&#160;его уже не&#160;было.
+</p><p>Я&#160;нагнулся къ дѣвочкѣ и&#160;кликалъ его и&#160;жалѣлъ, что&#160;онъ ушелъ отъ меня, и&#160;зналъ я, что&#160;дѣвочка въ лохмотьяхъ не&#160;виновата въ этомъ. Вотъ она перестала плакать, она улыбнулась мнѣ.
+</p><p>А&#160;за&#160;окномъ пошелъ дождикъ — весенній первый дождикъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="19._Жандармы_и_покойники."><span id="19._.D0.96.D0.B0.D0.BD.D0.B4.D0.B0.D1.80.D0.BC.D1.8B_.D0.B8_.D0.BF.D0.BE.D0.BA.D0.BE.D0.B9.D0.BD.D0.B8.D0.BA.D0.B8."></span>19. <br />Жандармы и&#160;покойники.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=21" title="Редактировать раздел «19. Жандармы и покойники.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Передо мной появилась черная морда, шерстяная, съ бѣлыми длинными зубами, помигала мнѣ и&#160;скрылась.
+</p><p>Я&#160;въ старомъ домѣ въ Москвѣ въ Толмачевскомъ переулкѣ, въ комнатѣ, гдѣ я&#160;родился. Маленькая дѣвочка, развернувъ альбомъ, показываетъ мнѣ сушеные цвѣты и&#160;о каждомъ цвѣткѣ спрашиваетъ: узналъ я&#160;его или&#160;нѣтъ? Я&#160;не&#160;успѣваю отвѣчать, за&#160;меня кто-то&#160;отвѣчаетъ.
+</p><p>— А&#160;вонъ эти цвѣты отъ ѣуды, ты ихъ узналъ? — спрашиваетъ дѣвочка.
+</p><p>А&#160;я&#160;ужъ не&#160;въ комнатѣ, а&#160;въ собачьей конуркѣ и&#160;кричу благимъ матомъ. Накричался я&#160;досыта и&#160;опять попалъ въ комнату. На&#160;столѣ собранъ обѣдъ. Я&#160;присѣлъ къ столу и&#160;задремалъ.
+</p><p>И&#160;мнѣ ужъ во&#160;снѣ приснилось, будто съ цвѣтами въ рукахъ входятъ въ домъ три жандарма.
+</p><p>Тутъ я&#160;проснулся во&#160;снѣ и&#160;сталъ обѣдать. И&#160;не&#160;успѣлъ куска проглотить, дверь растворилась и&#160;вошли три жандарма.
+</p><p>— Я&#160;сейчасъ васъ во&#160;снѣ видѣлъ, — говорю я&#160;жандармамъ, — а&#160;куда&#160;же вы цвѣты дѣвали?
+</p><p>— Собака съѣла, — отвѣчаютъ жандармы, по-собачьи облизываясь.
+</p><p>Какой-то&#160;въ штатскомъ горбатый, Богъ вѣсть, откуда явившійся, усаживается противъ меня. Онъ мнѣ очень не&#160;нравится. Я&#160;даже хотѣлъ его ударить, но&#160;почему-то&#160;раздумалъ.
+</p><p>Горбатый, подвязавъ себѣ салфетку, говоритъ, не&#160;сводя съ меня глазъ:
+</p><p>— Вашъ обвинительный пунктъ: вы, переправляясь черезъ рѣку, объясняли естественное происхожденіе родителей.
+</p><p>Я&#160;слушаю и&#160;недоумѣваю:
+</p><p>— Я&#160;ничего подобнаго не&#160;объяснялъ.
+</p><p>— Кто-нибудь подслушалъ: взялъ да&#160;и записалъ ваши мысли, тянетъ свое горбатый и&#160;катаетъ катушекъ изъ чернаго хлѣба.
+</p><p>— Ничего подобнаго! — отмахиваюсь я&#160;обѣими руками и, слыша, какъ наяву старая нянька Иринья мететъ пылъ въ сосѣдней комнатѣ и&#160;прибираетъ, думаю:
+</p><p>«Что&#160;же это такое: сонъ это, или&#160;дѣйствительно сидитъ передо мной горбатый и&#160;обвиняетъ меня, Богъ знаетъ, въ чемъ?»
+</p><p>— А&#160;я&#160;съ вами давно хотѣлъ познакомиться, — говоритъ мнѣ извѣстный русскій писатель, умершій совсѣмъ недавно, котораго я&#160;нагналъ шедшаго по&#160;безлюдной улицѣ съ какимъ-то&#160;мальчикомъ.
+</p><p>— Гдѣ же вы теперь живете? — спрашиваю я&#160;писателя и&#160;низко кланяюсь ему.
+</p><p>— Въ Москвѣ, — отвѣчаетъ писатель, — въ домѣ Грузинской церкви на&#160;Воронцовомъ полѣ: церковь на&#160;горѣ, а&#160;мой домъ подъ горой въ репейникѣ, такое пустое мѣсто есть.
+</p><p>Я&#160;хотѣлъ спросить его, пишетъ&#160;ли&#160;онъ, и&#160;о чемъ пишетъ, но&#160;его ужъ не&#160;стало, да&#160;и я&#160;очутился въ пустой церкви, посреди которой вповалку лежали прямо на&#160;каменныхъ плитахъ покойники.
+</p><p>Я&#160;сталъ вглядываться въ лица покойниковъ и&#160;скоро замѣтилъ, что&#160;одинъ изъ нихъ, хотя уже совсѣмъ такой покойникъ настоящій, а&#160;шевелится. И&#160;вдругъ покойникъ поднялся и&#160;сталъ въ царскихъ вратахъ.
+</p><p>И&#160;мы&#160;смотрѣли&#160;другъ на&#160;друга. Онъ былъ голый, ноги дегтемъ измазаны, а&#160;по облику вылитый Сомовскій рисунокъ къ книгѣ приключеній Эме Лебефа.
+</p><p>А&#160;старая наша нянька Иринья ужъ наяву все мететъ полъ и&#160;прибираетъ. И&#160;котенокъ Дымка — любимецъ мой трется у&#160;меня на&#160;плечѣ и&#160;мурлычетъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="20._Финалъ."><span id="20._.D0.A4.D0.B8.D0.BD.D0.B0.D0.BB.D1.8A."></span>20. <br />Финалъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=22" title="Редактировать раздел «20. Финалъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Увы! — я&#160;издохъ. Окруженный фруктами и&#160;цвѣтами, среди яблокъ, абрикосовъ, персиковъ, айвы, лимоновъ, грушъ, апельсиновъ, я&#160;валялся бездыханный въ чуланѣ и&#160;ждалъ послѣдней моей участи.
+</p><p>Царь той страны, гдѣ случилась со мной эта скверная исторія, славнаго царя Салтана внукъ — царь Авениръ — Индѣй повелѣлъ въ наказаніе тому, у&#160;кого чешется языкъ и&#160;кто говоритъ глупости, съѣсть меня — издохшую крысу.
+</p><p>И&#160;вотъ нашелся балагуръ, котораго схватили на&#160;какомъ-то&#160;костюмированномъ балѣ, и&#160;отправили ко&#160;мнѣ въ чуланъ меня съѣсть. И&#160;балагуръ, улыбаясь, явился ко&#160;мнѣ въ чуланъ и, тронувъ меня кончикомъ своего остроносаго сапога, сказалъ…
+</p><p>Но&#160;что&#160;онъ сказалъ и&#160;чѣмъ все это кончилось, съѣлъ&#160;ли&#160;онъ меня, или&#160;только полакомился фруктами, сколько ни&#160;старался, не&#160;могу возстановить въ моей куриной памяти и, хоть убейте меня, ничего не&#160;помню, въ чемъ и&#160;прошу глубоко извинить.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Часть_вторая."><span id=".D0.A7.D0.B0.D1.81.D1.82.D1.8C_.D0.B2.D1.82.D0.BE.D1.80.D0.B0.D1.8F."></span>Часть вторая.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=23" title="Редактировать раздел «Часть вторая.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="1._Гуси_да_Лебеди."><span id="1._.D0.93.D1.83.D1.81.D0.B8_.D0.B4.D0.B0_.D0.9B.D0.B5.D0.B1.D0.B5.D0.B4.D0.B8."></span>1. <br />Гуси да&#160;Лебеди.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=24" title="Редактировать раздел «1. Гуси да Лебеди.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Провалился желѣзнодорожный мостъ. Нашъ вагонъ упалъ въ рѣку. Какимъ-то&#160;чудомъ я&#160;уцѣлѣлъ, и&#160;ужъ не&#160;могу сказать, какъ это случилось, только очнулся я&#160;на берегу и&#160;совсѣмъ какъ мать родила. Мнѣ стало неловко, задумалъ я&#160;изъ цвѣтовъ попону сдѣлать, собираю цвѣты, а&#160;по рѣкѣ далеко-далеко, вижу, мелькаетъ лодка. И&#160;вотъ плавно и&#160;чуть колеблясь стала подо мной земля отходить, и&#160;скоро я&#160;догадался, что&#160;я лечу.
+</p><p>Я&#160;летѣлъ надъ рѣкой.
+</p><p>А&#160;утро было такое чудесное, такъ&#160;бы&#160;и летѣлъ вѣкъ вѣчный, а&#160;по рѣкѣ плывутъ все гуси да&#160;лебеди, гуси да&#160;лебеди.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="2._Волкъ_съѣлъ."><span id="2._.D0.92.D0.BE.D0.BB.D0.BA.D1.8A_.D1.81.D1.8A.D1.A3.D0.BB.D1.8A."></span>2. <br />Волкъ съѣлъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=25" title="Редактировать раздел «2. Волкъ съѣлъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Послали меня въ лѣсъ за&#160;орѣхами.
+</p><p>— Ступай, — сказали, — собери намъ орѣховъ побольше.
+</p><p>Вотъ я&#160;хожу по&#160;лѣсу, высматриваю, да&#160;неудобно больно, все спотыкаюсь, и&#160;все нѣтъ ни&#160;одной орѣшни. Наконецъ, напалъ, да&#160;только ни&#160;одного зрѣлаго, всѣ зеленые.
+</p><p>«Все равно, понесу я&#160;имъ хоть зеленыхъ, если ужъ такая охота пришла»…
+</p><p>Нагибаю вѣтку, хочу сорвать, а&#160;изъ-за&#160;куста, хвать, волкъ на&#160;меня. Вижу, дѣло плохо, и&#160;говорю:
+</p><p>— Ты что&#160;жъ, волкъ, неужели меня съѣсть захочешь?!
+</p><p>А&#160;онъ будто молчитъ. И&#160;опять я&#160;къ нему.
+</p><p>— Не ѣшь, — говорю, — сѣрый, я&#160;тебѣ пригожусь.
+</p><p>А&#160;самъ себѣ думаю: чѣмъ это я&#160;ему пригожусь?
+</p><p>И&#160;пока я&#160;такъ раздумывалъ … волкъ меня съѣлъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="3._Не_могу_уйти."><span id="3._.D0.9D.D0.B5_.D0.BC.D0.BE.D0.B3.D1.83_.D1.83.D0.B9.D1.82.D0.B8."></span>3. <br />Не могу уйти.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=26" title="Редактировать раздел «3. Не могу уйти.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Надъ головой высоченное дерево, скрипитъ, вотъ повалится. А&#160;я&#160;стою подъ деревомъ, стою, будто къ мѣсту прикованный.
+</p><p>Скрипитъ дерево жутко, листья осыпаются, а&#160;тамъ не&#160;то вѣтеръ, не&#160;то ужъ сама по&#160;себѣ, какъ передъ паденіемъ, трясется верхушка. А&#160;я&#160;ни съ мѣста.
+</p><p>Скрипитъ дерево, скрипитъ, подламывается, упадетъ оно, задавитъ… А&#160;я&#160;не могу уйти.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="4._Двери."><span id="4._.D0.94.D0.B2.D0.B5.D1.80.D0.B8."></span>4. <br />Двери.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=27" title="Редактировать раздел «4. Двери.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Она сказала мнѣ:
+</p><p>— Эти двери мы&#160;взяли съ собою, нельзя было оставить ихъ въ старомъ домѣ. Ты знаешь, какъ онѣ намъ дороги.
+</p><p>Я&#160;тихонько пріотворилъ дверь и&#160;вошелъ въ мою комнату. И&#160;чугунныя, старыя двери, плавно раскрывшіяся на&#160;невидимыхъ блокахъ, плавно и&#160;плотно затворились за&#160;мной. Я&#160;схватился за&#160;ручку двери, дернулъ изъ всей силы, но&#160;дверь не&#160;шевельнулась. И&#160;я&#160;принялся колотить и&#160;стучать кулаками и&#160;звалъ. И, выбившись изъ силъ, упалъ у&#160;порога и&#160;слышалъ только какъ колотилось ея сердце за&#160;старыми чугунными дверями.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="5._Качели."><span id="5._.D0.9A.D0.B0.D1.87.D0.B5.D0.BB.D0.B8."></span>5. <br />Качели.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=28" title="Редактировать раздел «5. Качели.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;прошелъ узенькій трясущійся мостикъ отъ скалы къ скалѣ надъ пропастью. А&#160;ступить съ мостика прямо на&#160;берегъ невозможно: надо или&#160;перепрыгнуть, — такъ и&#160;сдѣлалъ мой спутникъ, онъ ужъ стоялъ на&#160;берегу, протягивая мнѣ руки, — или&#160;стать на&#160;перекладину, на&#160;тоненькую дощечку, прикрѣпленную веревками къ какому-то&#160;гвоздю гдѣ-то&#160;въ облакахъ, а&#160;ужъ съ перекладины шагъ — и&#160;берегъ. Такъ я&#160;и хотѣлъ сдѣлать.
+</p><p>Я&#160;ступилъ на&#160;перекладину, и&#160;только успѣлъ схватиться за&#160;руки моего спутника, какъ перекладина качнулась, закачалась и — пошла вверхъ и&#160;внизъ, выше и&#160;выше.
+</p><p>И&#160;я&#160;взлеталъ на&#160;адскихъ качеляхъ, и&#160;мой спутникъ леталъ вмѣстѣ со мной.
+</p><p>Мы&#160;качались надъ бездною.
+</p><p>Замирало сердце, духъ захватывало.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="6._Розанчикъ."><span id="6._.D0.A0.D0.BE.D0.B7.D0.B0.D0.BD.D1.87.D0.B8.D0.BA.D1.8A."></span>6. <br />Розанчикъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=29" title="Редактировать раздел «6. Розанчикъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Тихій осенній дождь, пылящій по&#160;густому туману. Я&#160;не&#160;знаю, куда я&#160;иду и&#160;зачѣмъ, и&#160;что меня гонитъ идти? Я&#160;долго шелъ и, наконецъ, остановился у&#160;городскихъ воротъ. Стражники молча отворили ворота, и&#160;я очутился на&#160;узкой улицѣ между двумя высокими стѣнами домовъ. Какіе-то&#160;мужчины и&#160;женщины, на&#160;головахъ которыхъ были полныя корзины съ хлѣбомъ, двигались мнѣ навстрѣчу. Поровнявшись съ этимъ страннымъ шествіемъ, я&#160;остановилъ одного и&#160;сказалъ:
+</p><p>— Дай мнѣ розанчикъ.
+</p><p>И&#160;мнѣ подали. А&#160;я&#160;и не&#160;знаю, ѣсть мнѣ розанчикъ или&#160;въ карманъ положить и&#160;снести домой, и&#160;вообще то: куда я&#160;иду?
+</p><p>— Звѣрей выпустили! Звѣрей выпустили! — кричалъ какой-то&#160;человѣкъ, пробѣгая мимо меня, а&#160;лоскутья красной изодранной рубахи развѣвались у&#160;него за&#160;плечами, какъ красныя крылья.
+</p><p>И&#160;на&#160;всѣхъ проходящихъ напалъ такой страхъ, и&#160;всѣ, кто былъ поблизости меня, побросали корзины съ хлѣбомъ и&#160;пустились бѣжать.
+</p><p>А&#160;этотъ отчаянный крикъ… да, теперь ясно, это былъ мой крикъ.
+</p><p>Звѣри, едва замѣтные, быстро вырастая, наступали. Черная и&#160;дымчатая шерсть на&#160;ихъ спинахъ щетинилась, и&#160;ярко-желтыя пятна на&#160;брюхѣ, переливаясь жирныя, лоснились. И&#160;я&#160;стоялъ одинъ, окруженный со всѣхъ сторонъ красными разинутыми пастями. Языки красные ходили въ нихъ, какъ маятники.
+</p><p>— Нате вамъ, звѣри, розанчикъ!
+</p><p>И&#160;едва я&#160;проговорилъ нате вамъ, звѣри, розанчикъ, какъ всѣ звѣри до&#160;одного, и&#160;большіе и&#160;малые, сѣрые и&#160;черные, одноухи и&#160;однозубы, рогатые и&#160;кусатые, пригнули лапы и&#160;задремали.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="7._У_голыхъ."><span id="7._.D0.A3_.D0.B3.D0.BE.D0.BB.D1.8B.D1.85.D1.8A."></span>7. <br />У&#160;голыхъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=30" title="Редактировать раздел «7. У голыхъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Попалъ я&#160;въ кружокъ голыхъ: такъ всѣ безъ всего и&#160;ходятъ.
+</p><p>«Не очень-то&#160;ловко этимъ несчастнымъ, " — подумалъ я, глядя на&#160;всѣ эти тощія, толстыя, желвастыя, костлявыя, безобразныя фигуры.
+</p><p>— Вотъ было&#160;бы&#160;неловко, если&#160;бы&#160;мы вдругъ да&#160;одѣлись, — сказалъ мнѣ одинъ голый, видимо, подслушавшій мою мысль.
+</p><p>— А&#160;развѣ такъ зазорно въ платьѣ?
+</p><p>— Зазорно не&#160;зазорно…
+</p><p>— Какіе вы всѣ уроды — перебилъ я.
+</p><p>— А&#160;уроды, такъ и&#160;убирайся отсюда, пока цѣлъ, — осердился на&#160;меня другой голый.
+</p><p>— А&#160;какой самый большой грѣхъ? — спросилъ я&#160;у голаго.
+</p><p>— Огонь погасить считалось большимъ грѣхомъ. Только мы&#160;въ этомъ неповинны, голышомъ въ пожарную команду не&#160;примутъ.
+</p><p>— Я&#160;тоже не&#160;хочу въ пожарные, — согласился я&#160;и, отойдя въ сторонку, снялъ сапоги.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="8._Подъ_водою."><span id="8._.D0.9F.D0.BE.D0.B4.D1.8A_.D0.B2.D0.BE.D0.B4.D0.BE.D1.8E."></span>8. <br />Подъ водою.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=31" title="Редактировать раздел «8. Подъ водою.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Подымалась буря на&#160;морѣ, а&#160;я сѣлъ въ лодку, потому-то&#160;мой спутникъ безстрашный гребецъ. Но&#160;когда мы&#160;достигли глубочайшаго мѣста, мой гребецъ сложилъ весла и, насмѣшливо глядя мнѣ въ глаза, поднялся и, схвативъ меня за&#160;шиворотъ, какъ кошку, бросилъ въ воду. И&#160;я&#160;пролетѣлъ всѣ подводные слои — зеленый, мутный, черный, густо черный, и&#160;опять — мутный, зеленый, и&#160;снова очутился въ лодкѣ. И&#160;мы&#160;плывемъ, какъ ни&#160;въ чемъ не&#160;бывало, но&#160;доходитъ какая-то&#160;точка, и&#160;мой гребецъ складываетъ весла, и&#160;повторяется все сначала. И, кажется, нѣтъ конца, безъ передышки — зеленый, мутный, черный, густо черный.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="9._На_новую_квартиру."><span id="9._.D0.9D.D0.B0_.D0.BD.D0.BE.D0.B2.D1.83.D1.8E_.D0.BA.D0.B2.D0.B0.D1.80.D1.82.D0.B8.D1.80.D1.83."></span>9. <br />На&#160;новую квартиру.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=32" title="Редактировать раздел «9. На новую квартиру.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Переѣзжаемъ на&#160;новую квартиру: я&#160;да мой пріятель — старый чудакъ, который то&#160;и дѣлалъ въ жизни, что&#160;мѣнялъ квартиры, пока смерть не&#160;уложила его въ послѣднюю, откуда трудно уже двигаться. Вещей у&#160;насъ много — цѣлый возъ, а&#160;лошаденка крохотная, еле тащитъ, такъ какая-то&#160;сивка. Съ грѣхомъ пополамъ мы&#160;все таки добрались до&#160;дома. И&#160;только что&#160;въѣхали въ ворота, возъ — на&#160;бокъ, а&#160;сивка подогнула подъ себя ноги и&#160;стала кошкой, кошка мяукнула и&#160;сію&#160;же минуту подъ мостикъ. Пріятель мой за&#160;ней, шарилъ-шарилъ.
+</p><p>— Поймалъ — кричитъ и&#160;тянетъ.
+</p><p>А&#160;какъ вытянулъ, смотримъ: вмѣсто кошки мячъ и&#160;доска.
+</p><p>— Ну, теперь, значитъ, въ лапту будемъ играть! — обрадовался чудакъ и, какъ бывало въ дѣтствѣ, пустился по&#160;двору скакать да&#160;мячъ подшвыривать.
+</p><p>А&#160;я&#160;перетаскалъ въ домъ всѣ вещи, разставилъ по&#160;порядку, затопилъ печку, поставилъ самоваръ, вымылъ руки и&#160;сѣлъ на&#160;табуретку отдохнуть. Входитъ пріятель, лица на&#160;немъ нѣтъ, подсѣлъ ко&#160;мнѣ, плачетъ:
+</p><p>— Не могу, — говоритъ — привыкъ я&#160;къ нашему старому дому, а&#160;мячикъ кошка съѣла.
+</p><p>Всталъ онъ и&#160;вышелъ.
+</p><p>Отворилъ я&#160;окно, гляжу, а&#160;онъ ужъ на&#160;пустомъ возу, хлестнулъ сивку и&#160;поскакалъ во&#160;весь духъ, свиститъ да&#160;похлестываетъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="10._Мои_цвѣты."><span id="10._.D0.9C.D0.BE.D0.B8_.D1.86.D0.B2.D1.A3.D1.82.D1.8B."></span>10. <br />Мои цвѣты.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=33" title="Редактировать раздел «10. Мои цвѣты.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;проходилъ по&#160;полю среди зацвѣтающей нивы. Пѣлъ жаворонокъ, а&#160;со скошеннаго луга доносило свѣжимъ сѣномъ. Мнѣ встрѣтились двѣ женщины, онѣ несли корзину съ полевыми цвѣтами, а&#160;въ цвѣтахъ сидѣла дѣвочка.
+</p><p>— Куда идете? — спросилъ я&#160;женщинъ.
+</p><p>— Цвѣты идемъ собирать, — отвѣчали женщины съ корзиной.
+</p><p>И&#160;я&#160;пошелъ за&#160;ними. Шли мы&#160;молча. И&#160;молча дошли до&#160;озера.
+</p><p>— Вонъ твои цвѣты! — засмѣялись женщины, показывая на&#160;озеро.
+</p><p>И&#160;я&#160;одинъ стоялъ на&#160;берегу озера, а&#160;цвѣтовъ на&#160;озерѣ никакихъ не&#160;было. И&#160;съ пустыми руками я&#160;повернулъ домой. Зацвѣтая, колыхалась нива, и&#160;пѣлъ жаворонокъ. И&#160;вдругъ я&#160;увидѣлъ въ колосьяхъ ту самую дѣвочку, которую женщины несли въ корзинѣ. Она бросилась ко&#160;мнѣ, обняла меня за&#160;шею рученками и&#160;тихо на&#160;ухо сказала:
+</p><p>— Возьми меня съ собой!
+</p><p>Взялъ я&#160;дѣвочку на&#160;плечи, но&#160;и шагу не&#160;сдѣлалъ, какъ кругомъ все потемнѣло, задвигались тучи, и&#160;только надъ головой воронкой сновалъ зеленоватый свѣтъ.
+</p><p>А&#160;съ земли подымались какія-то&#160;странныя птицы съ змѣиными хвостами, и&#160;все летѣло туда къ этому снующему свѣту. Птицъ было великое множество, онѣ не&#160;каркали, а, какъ нѣмыя, мычали и&#160;скоро хвостами закрыли свѣтъ. Погасъ свѣтъ, замолкли птицы. И&#160;среди ночи я&#160;опять услышалъ откуда-то&#160;изъ страшной дали голосъ маленькой дѣвочки:
+</p><p>— Возьми меня съ собой!
+</p><p>А&#160;я, вѣдь, и&#160;самъ не&#160;знаю, куда себя-то&#160;дѣвать.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="11._Лягушки_въ_перчаткахъ."><span id="11._.D0.9B.D1.8F.D0.B3.D1.83.D1.88.D0.BA.D0.B8_.D0.B2.D1.8A_.D0.BF.D0.B5.D1.80.D1.87.D0.B0.D1.82.D0.BA.D0.B0.D1.85.D1.8A."></span>11. <br />Лягушки въ перчаткахъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=34" title="Редактировать раздел «11. Лягушки въ перчаткахъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;прятался въ каютѣ парохода, но&#160;тѣ, отъ кого я&#160;прятался, какимъ-то&#160;песьимъ нюхомъ отыскивали меня. Всѣ они&#160;были съ человѣчьими лицами, а&#160;туловище ихъ было лягушиное и&#160;на рукахъ у&#160;всѣхъ перчатки Такъ какъ они&#160;были очень вѣжливы и&#160;любезны, то&#160;не убивали меня, какъ простые разбойники, а, будто лаская, давили меня мягкимъ своимъ лягушинымъ брюхомъ и, тихонечко забираясь ко&#160;мнѣ подъ рубашку, будто гладя, пальцами надавливали мнѣ на&#160;сердце.
+</p><p>На&#160;окнѣ сидитъ галка и&#160;кричитъ. Я&#160;знаю, чего она кричитъ. Она сейчасъ влетитъ въ комнату, сядетъ мнѣ на&#160;плечо и&#160;станетъ глаза мнѣ клевать…
+</p><p>— Галка, — прошу я&#160;мою черную гостью, — побереги мнѣ глаза, я&#160;тебѣ жемчужную ленточку на&#160;горлышко навяжу, галка, я&#160;тебѣ отдамъ мои руки, лѣвую и&#160;правую, только оставь мнѣ глаза!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="12._Гимнастика."><span id="12._.D0.93.D0.B8.D0.BC.D0.BD.D0.B0.D1.81.D1.82.D0.B8.D0.BA.D0.B0."></span>12. <br />Гимнастика.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=35" title="Редактировать раздел «12. Гимнастика.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Скользя руками по&#160;карнизу и&#160;опустивъ ноги внизъ на&#160;воздухъ, я&#160;передвигаюсь по&#160;нескончаемой деревянной крышѣ какого-то&#160;высокаго зданія. Солнечный свѣтъ ударяетъ мнѣ прямо въ глаза. Подъ руками отваливаются гнилушки. Соскальзываютъ руки. И&#160;хотѣлось&#160;бы&#160;упасть что&#160;ли, чтобы конецъ! Но&#160;я&#160;передвигаюсь. Мелькаютъ деревья, рѣки, рѣчки, городъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="13._Полюсъ."><span id="13._.D0.9F.D0.BE.D0.BB.D1.8E.D1.81.D1.8A."></span>13. <br />Полюсъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=36" title="Редактировать раздел «13. Полюсъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Всѣ говорятъ, что&#160;мы ѣдемъ на&#160;полюсъ.
+</p><p>Мы, дѣйствительно, плывемъ по&#160;какой-то&#160;рѣченкѣ, и&#160;мой спутникъ — шершавый, закутанный въ синюю столовую скатерть, правитъ весломъ. И&#160;какъ-то&#160;такъ произошло, что&#160;мы и&#160;пріѣхали на&#160;полюсъ. Стоитъ на&#160;полюсѣ большой каменный домъ, а&#160;около дома кучка народа, и&#160;всѣ суетятся и&#160;о чемъ-то&#160;спорятъ.
+</p><p>— Что&#160;случилось? — спрашиваю оборваннаго, засаленнаго парня, шелушащаго сѣмечки.
+</p><p>— Да&#160;на&#160;проходномъ чердакѣ вора ищутъ, всѣ семь дворниковъ весь чердакъ обыскали, а&#160;нашли всего-навсего пиджакъ старый, теперь трое сидятъ тамъ, караулятъ.
+</p><p>«Пропадетъ наше бѣлье», — подумалъ я.
+</p><p>— Да&#160;пожалуйте въ эмалированныя комнаты! — сказалъ парень и&#160;загоготалъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="14._Не_лазай!"><span id="14._.D0.9D.D0.B5_.D0.BB.D0.B0.D0.B7.D0.B0.D0.B9.21"></span>14. <br />Не лазай!</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=37" title="Редактировать раздел «14. Не лазай!»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;подползъ подъ строющійся огромный домъ. Домъ строили такъ, что&#160;вся постройка, хоть и&#160;висѣла на&#160;воздухѣ, а&#160;не падала только потому, что&#160;толстый канатъ, прикрѣпленный къ фундаменту, соединялъ ее съ землей. Я&#160;подползъ съ топоромъ въ рукахъ подъ этотъ огромный домъ и, примостившись какъ разъ въ центрѣ у&#160;каната, ударилъ по&#160;немъ топоромъ и&#160;рубилъ его изъ всей силы. И&#160;когда казалось мнѣ, что&#160;еще ударъ, и&#160;домъ рухнетъ… кто-то&#160;сверху плюнулъ на&#160;меня.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="15._Въ_церкви."><span id="15._.D0.92.D1.8A_.D1.86.D0.B5.D1.80.D0.BA.D0.B2.D0.B8."></span>15. <br />Въ церкви.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=38" title="Редактировать раздел «15. Въ церкви.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;съ моимъ братомъ вошелъ въ церковь. Шла вечерня. Образовъ не&#160;было. Производился, должно быть, ремонтъ въ церкви. На&#160;пустомъ иконостасѣ сбоку свѣтился золотой кругъ. Передъ этимъ кругомъ стоялъ священникъ въ эпитрахили. Пѣлъ дьячекъ. Никого, кромѣ насъ, не&#160;было. И&#160;намъ было неловко, что&#160;никого, кромѣ насъ, не&#160;было.
+</p><p>Вечерня кончилась. Мы&#160;подошли къ священнику подъ благословеніе. Вышелъ изъ алтаря дьяконъ и&#160;говоритъ брату:
+</p><p>— У&#160;васъ все есть, чтобы рости, а&#160;у васъ, — онъ обратился ко&#160;мнѣ — нѣтъ ничего.
+</p><p>А&#160;я&#160;подумалъ:
+</p><p>«И&#160;вправду, на&#160;братѣ — матросская курточка, если&#160;бы&#160;онъ ее носилъ, она лѣзла&#160;бы&#160;вверхъ, на&#160;мнѣ же — нѣтъ».
+</p><p>И&#160;замеръ отъ страха: носъ къ носу стоялъ передо мной человѣкъ, который, я&#160;это почувствовалъ, замышлялъ противъ меня недоброе. Я&#160;бросился въ окно. Думаю:
+</p><p>«Зачѣмъ это братъ дружитъ съ такимъ?»
+</p><p>А&#160;въ домъ, въ которомъ я&#160;очутился, входитъ мой знакомый — хромой — и&#160;подаетъ мнѣ сапожное шило:
+</p><p>«Такъ вотъ онъ чѣмъ собирался пырнуть меня!»
+</p><p>Мы&#160;сѣли&#160;въ лодку и, свистя соловьями, стали отчаливать. И&#160;подвернулся какой-то&#160;мальчикъ, прыгнулъ къ намъ, и&#160;медленно стала погружаться лодка ко&#160;дну.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="16._Бухгалтерія."><span id="16._.D0.91.D1.83.D1.85.D0.B3.D0.B0.D0.BB.D1.82.D0.B5.D1.80.D1.96.D1.8F."></span>16. <br />Бухгалтерія.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=39" title="Редактировать раздел «16. Бухгалтерія.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;подошелъ къ поѣзду, который стоялъ далеко за&#160;городомъ въ полѣ. Я&#160;прошелъ всѣ вагоны, остановился у&#160;послѣдняго, раздѣлся и&#160;хочу купаться. И&#160;вдругъ поѣздъ тронулся и, пыхтя, сталъ ускорять ходъ. И&#160;я&#160;побѣжалъ за&#160;нимъ, хотѣлъ нагнать, но&#160;онъ спѣшилъ и&#160;уходилъ отъ меня все дольше въ глубь поля. А&#160;тутъ подошли какіе-то&#160;бритые люди и&#160;говорятъ:
+</p><p>— На&#160;тебѣ билетики, считай!
+</p><p>Билетиковъ была цѣлая кипа, а&#160;требовалось, всѣ пересчитавъ, уложить по&#160;номерамъ. Сталъ я&#160;считать и&#160;раскладывать, и&#160;когда дошелъ до&#160;послѣдняго билетика, явились опять бритые и&#160;принесли новую кипу, смѣшали старые билетики, и&#160;началъ я&#160;сызнова считать и&#160;раскладывать. И&#160;всякій разъ, какъ я&#160;доходилъ до&#160;послѣдняго билетика, приходили бритые, несли новые и&#160;новые билетики, мѣшали старые, а&#160;я считалъ — чортъ&#160;бы&#160;ихъ побралъ!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="17._Шершавое."><span id="17._.D0.A8.D0.B5.D1.80.D1.88.D0.B0.D0.B2.D0.BE.D0.B5."></span>17. <br />Шершавое.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=40" title="Редактировать раздел «17. Шершавое.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Лежу въ пустой комнатѣ и&#160;чувствую, что&#160;подъ моей кроватью привсталъ кто-то, повернулся и&#160;затихъ. Я&#160;насторожился, слышу: хрустнули лапы. И&#160;ужъ шершавое что-то&#160;поползло по&#160;полу и, должно быть, наткнувшись брюхомъ на&#160;мои сапоги, заворочалось, отдохнуло и&#160;опять поползло.
+</p><p>Я&#160;лежу, не&#160;шелохнувшись. Я&#160;знаю, что&#160;оно близко, что&#160;вотъ обойдетъ оно стулъ, намѣтится и&#160;вспрыгнетъ на&#160;меня.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="18._Мышка."><span id="18._.D0.9C.D1.8B.D1.88.D0.BA.D0.B0."></span>18. <br />Мышка.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=41" title="Редактировать раздел «18. Мышка.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Завелись въ домѣ мыши и&#160;бѣгаютъ. Я&#160;подкараулилъ одну мышку и&#160;поймалъ за&#160;хвостъ. А&#160;она хвать! — и&#160;укусила меня за&#160;палецъ. А&#160;изъ того мѣста, куда она укусила меня, выросли длинные волосы. Я&#160;выпустилъ мышь, упала она на&#160;полъ, сидитъ и&#160;не уходитъ.
+</p><p>— Надо осторожно, нешто можно такъ? Надо приласкать! — сказалъ кто-то&#160;изъ-подъ пола.
+</p><p>И&#160;я&#160;взялъ тихонько за&#160;лапку, погладилъ мышку, и&#160;ужъ она на&#160;шею ко&#160;мнѣ, вытянула мордочку, усиками водитъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="19._Макароны."><span id="19._.D0.9C.D0.B0.D0.BA.D0.B0.D1.80.D0.BE.D0.BD.D1.8B."></span>19. <br />Макароны.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=42" title="Редактировать раздел «19. Макароны.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Мы&#160;стояли на&#160;краю кратера. Длинный, который отъ меня не&#160;отходитъ вотъ ужъ сколько времени и&#160;разсказываетъ мнѣ всякія&#160;глупости, перепрыгнулъ, не&#160;облизнувшись, а&#160;я упалъ въ кратеръ. И&#160;вотъ со страшными усиліями въ чернотѣ кратера я&#160;цѣпляюсь руками за&#160;какія-то&#160;вѣшалки и&#160;подымаюсь вверхъ на&#160;землю. А&#160;Длинный будто кричитъ мнѣ:
+</p><p>— Вылѣзай скорѣй, я&#160;тебѣ макароны сварилъ, боюсь простынуть, солененькія.
+</p><p>— Богъ съ тобой и&#160;съ макаронами — чернота ѣстъ глаза, хоть&#160;бы&#160;вылѣзти-то!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="20._Бѣлый_голубь."><span id="20._.D0.91.D1.A3.D0.BB.D1.8B.D0.B9_.D0.B3.D0.BE.D0.BB.D1.83.D0.B1.D1.8C."></span>20. <br />Бѣлый голубь.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=43" title="Редактировать раздел «20. Бѣлый голубь.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Изъ скворешницы вылетѣла стая голубей. Одинъ голубь бѣлый, съ красными глазами покружился со стаей и&#160;камнемъ упалъ къ моимъ ногамъ. Я&#160;поднялъ его и, высоко подбросивъ вверхъ, крикнулъ:
+</p><p>— Лети, догоняй свою стаю, эвона!
+</p><p>А&#160;голубиное сердце такъ и&#160;ходило подъ бѣлыми перьями. И&#160;ужъ снова голубь лежалъ у&#160;моихъ ногъ.
+</p><p>Я&#160;снова подбросилъ его и&#160;крикнулъ ему еще громче, чтобы летѣлъ онъ за&#160;стаей и&#160;догонялъ ее.
+</p><p>Но&#160;бѣлый голубь, взлетѣвъ высоко, куда выше стаи, упалъ ко&#160;мнѣ, и&#160;голубиное сердце подъ бѣлыми перьями больше не&#160;билось.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="21._Не_кусайся."><span id="21._.D0.9D.D0.B5_.D0.BA.D1.83.D1.81.D0.B0.D0.B9.D1.81.D1.8F."></span>21. <br />Не кусайся.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=44" title="Редактировать раздел «21. Не кусайся.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Красная, раскаленная, слегка покрытая пепломъ степь. Два красныхъ и&#160;сильныхъ борца схватились въ отчаянной схваткѣ. И&#160;тотъ который былъ старше и&#160;тѣло котораго было смуглѣй, побѣдилъ. Я&#160;бросился къ побѣдителю и, схвативъ за&#160;руку, укусилъ его и, не&#160;вынимая зубовъ и&#160;захлебываясь въ темной густой крови, выбивающейся изъ раны, смотрѣлъ въ его глаза, помутнѣвшіе отъ боли, смотрѣлъ долго и&#160;зналъ вѣрно: онъ вырветъ руку и&#160;прихлопнетъ меня.
+</p><p>А&#160;кровь такъ и&#160;лилась изъ раны.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="22._Битый_небитаго_везетъ."><span id="22._.D0.91.D0.B8.D1.82.D1.8B.D0.B9_.D0.BD.D0.B5.D0.B1.D0.B8.D1.82.D0.B0.D0.B3.D0.BE_.D0.B2.D0.B5.D0.B7.D0.B5.D1.82.D1.8A."></span>22. <br />Битый небитаго везетъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=45" title="Редактировать раздел «22. Битый небитаго везетъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Весь домъ содрогался отъ грома. На&#160;мигъ голубовато-бѣлый свѣтъ открывалъ небо, и&#160;снова становилось темно, какъ осеннею ночью. А&#160;былъ полдень. И&#160;я, какъ слѣпой, бродилъ по&#160;угламъ, ища ключъ отъ двери моей комнаты, гдѣ я&#160;самъ себя заперъ. И&#160;когда я&#160;упалъ отъ отчаянія&#160;и думалъ о&#160;днѣ, котораго никогда не&#160;будетъ, странное разлилось вокругъ, будто радужное облако, которое выплывало въ окно изъ бѣлаго дня.
+</p><p>А&#160;знакомый голосъ, гнусавый, сказалъ съ оттяжкой:
+</p><p>— Битый небитаго везетъ!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="23._Ахъ!"><span id="23._.D0.90.D1.85.D1.8A.21"></span>23. <br />Ахъ!</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=46" title="Редактировать раздел «23. Ахъ!»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Нечего было дѣлать, я&#160;взялъ единственное, что&#160;нашелъ во&#160;всемъ домѣ, старый тюфякъ, и&#160;понесъ его куда-то&#160;по широкой дорогѣ, которой конца не&#160;видать. И&#160;когда еще я&#160;подымалъ мою ветхую ношу, мнѣ она показалась необыкновенной. И&#160;вотъ я&#160;снялъ чехолъ и&#160;присѣлъ, увидѣвъ на&#160;тюфякѣ сплошное гнѣздо: сѣрыя насѣкомыя кишѣли&#160;и, поѣдая другъ друга, липкія, тутъ&#160;же выводились.
+</p><p>— Ахъ! — кто-то&#160;вскрикнулъ за&#160;моей спиной!
+</p><p>А&#160;я&#160;наклоняюсь все ближе къ отвратительной живой гущѣ. А&#160;тотъ&#160;же голосъ опять.
+</p><p>Разсвѣтало.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="24._Сфинксъ."><span id="24._.D0.A1.D1.84.D0.B8.D0.BD.D0.BA.D1.81.D1.8A."></span>24. <br />Сфинксъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=47" title="Редактировать раздел «24. Сфинксъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Ко&#160;мнѣ пришелъ К., мои знакомый музыкантъ и&#160;сочинитель, уѣзжаетъ онъ надолго, можетъ быть, навсегда, пришелъ проститься.
+</p><p>И&#160;я&#160;поцѣловалъ его въ макушку. А&#160;онъ обертывается ко&#160;мнѣ и, притрогиваясь носомъ къ моему носу, говоритъ:
+</p><p>— Надо вотъ такъ, такъ цѣлуются сфинксы.
+</p><p>Я&#160;же подумалъ:
+</p><p>«Ты-то, можетъ быть, и&#160;сфинксъ, а&#160;я всего только птица».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="25._Однѣ_ноги_торчатъ."><span id="25._.D0.9E.D0.B4.D0.BD.D1.A3_.D0.BD.D0.BE.D0.B3.D0.B8_.D1.82.D0.BE.D1.80.D1.87.D0.B0.D1.82.D1.8A."></span>25. <br />Однѣ ноги торчатъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=48" title="Редактировать раздел «25. Однѣ ноги торчатъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Вотъ уже нѣсколько дней, какъ я&#160;не отхожу отъ больной старухи: у&#160;нея толстыя ноги и&#160;птичій носъ. Она лежитъ на&#160;кровати и&#160;охаетъ, а&#160;я сижу возлѣ на&#160;стулѣ и&#160;исполняю всѣ ея прихоти. Я&#160;боюсь ее оставить, она очень безпокойная. И&#160;показалось мнѣ, что&#160;старуха заснула. Слава Богу, старуха заснула! Я&#160;тихонько вышелъ изъ комнаты. А&#160;потомъ отворяю дверь, смотрю, а&#160;изъ печки только старухины ноги торчатъ, толстыя, въ шерстяныхъ сѣрыхъ чулкахъ. Господи, что&#160;же это такое! бросился я, чтобы изъ печки старуху вытащить, ухватился за&#160;ноги, а&#160;ноги уже мертвыя.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="26._Жена_архимандрита."><span id="26._.D0.96.D0.B5.D0.BD.D0.B0_.D0.B0.D1.80.D1.85.D0.B8.D0.BC.D0.B0.D0.BD.D0.B4.D1.80.D0.B8.D1.82.D0.B0."></span>26. <br />Жена архимандрита.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=49" title="Редактировать раздел «26. Жена архимандрита.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Попалъ я&#160;на литературный вечеръ. Скучища смертная. Предсѣдатель — старецъ въ черныхъ очкахъ, въ черной оправѣ, конечно, спитъ. А&#160;читаютъ все извѣстные литераторы о&#160;извѣстныхъ истинахъ, но&#160;съ такимъ глубокомысліемъ, будто до&#160;этого вечера никто о&#160;нихъ и&#160;не слыхивалъ. Я&#160;лежалъ у&#160;эстрады и&#160;смотрѣлъ въ ротъ глубокомысленнымъ чтецамъ. Потомъ взялъ извозчика и&#160;поѣхалъ по&#160;первопуткѣ на&#160;санкахъ домой. Но&#160;дома мнѣ сказали, что&#160;меня ждетъ какая-то&#160;дама.
+</p><p>— Кто такая?
+</p><p>— Жена архимандрита.
+</p><p>— Что&#160;вамъ надо?
+</p><p>А&#160;она — огромная, подъ потолокъ, и&#160;вдругъ, какъ заплачетъ да&#160;тоненько такъ… а&#160;губы у&#160;ней соленыя.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="27._Въ_бродъ."><span id="27._.D0.92.D1.8A_.D0.B1.D1.80.D0.BE.D0.B4.D1.8A."></span>27. <br />Въ бродъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=50" title="Редактировать раздел «27. Въ бродъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Долго шли мы&#160;по рѣкѣ въ бродъ. Видны были только наши головы. Впереди шелъ мой пріятель, умершій нѣсколько лѣтъ назадъ, вѣчно пьяный съ краснымъ отекшимъ лицомъ. За&#160;нимъ — я. Пріятель шелъ лѣниво, опустивъ свою взлохмаченную сѣдую голову, изрѣдка оглядываясь и&#160;лукаво подмигивая мнѣ. И&#160;мы&#160;добрались до&#160;какого-то&#160;дома и&#160;мокрые вошли въ залъ. А&#160;въ домѣ балъ, танцы, веселая музыка. И&#160;сразу все остановилось, всѣ обратили на&#160;насъ глаза. А&#160;мы&#160;мокрые какъ гуща.
+</p><p>— Танцовать! Танцовать! — вдругъ закричали, и&#160;грянула музыка, и&#160;звуки такіе были веселые, подмывали кружиться, безъ конца, безъ передышки…
+</p><p>А&#160;мнѣ ужъ больше не&#160;хотѣлось итти въ бродъ, я&#160;сѣлъ въ вагонъ и&#160;поѣхалъ. Поѣздъ остановился среди открытаго поля. Я&#160;пошелъ въ станціонную будку и&#160;сѣлъ у&#160;окна.
+</p><p>— ѣдутъ, ѣдутъ! — пробормоталъ стрѣлочникъ, проходя мимо.
+</p><p>И&#160;тотчасъ прокатила карета. Въ каретѣ сидѣла невѣста въ вѣнчальномъ уборѣ и&#160;женихъ во&#160;фракѣ — молодые. И&#160;только-что&#160;молодые скрылись, загрохотали огромныя дроги, а&#160;на дрогахъ лежалъ громадный трупъ. Лошади неслись во&#160;весь духъ, не&#160;было кучера, никто не&#160;правилъ.
+</p><p>Я&#160;выскочилъ изъ будки, пошелъ по&#160;полю. Поле пыльное, вѣтеръ пыльный, Господи!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="28._Умеръ_нашъ_отецъ."><span id="28._.D0.A3.D0.BC.D0.B5.D1.80.D1.8A_.D0.BD.D0.B0.D1.88.D1.8A_.D0.BE.D1.82.D0.B5.D1.86.D1.8A."></span>28. <br />Умеръ нашъ отецъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=51" title="Редактировать раздел «28. Умеръ нашъ отецъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Умеръ нашъ отецъ. Насъ четыре брата. И&#160;вотъ, будто мы&#160;всѣ вчетверомъ подняли гробъ и&#160;спускаемся внизъ по&#160;лѣстницѣ. И&#160;вдругъ крышка у&#160;гроба треснула, и&#160;большой кусокъ откололся отъ гроба. А&#160;мы&#160;все несемъ и&#160;страшно намъ, потому что&#160;не знаемъ, что&#160;въ гробѣ осталось, а&#160;не знаемъ потому, что&#160;не видимъ, а&#160;посмотрѣть не&#160;можемъ. И&#160;спускаемся съ гробомъ по&#160;лѣстницѣ внизъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="29._Бабье_лѣто."><span id="29._.D0.91.D0.B0.D0.B1.D1.8C.D0.B5_.D0.BB.D1.A3.D1.82.D0.BE."></span>29. <br />Бабье лѣто.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=52" title="Редактировать раздел «29. Бабье лѣто.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Ясный день бабьяго лѣта. Я&#160;вышелъ на&#160;террасу и&#160;смотрю на&#160;облетѣвшій садъ, а&#160;по желтой, листьями покрытой дорожкѣ, ведущей къ террасѣ, вижу, старуха идетъ старая-престарая, оборванная, лицо мокрое, такое сморщенное, кажется, совсѣмъ черное. И&#160;взяла меня жуть, страшно мнѣ старухи: не&#160;спроста она идетъ, чувствую, замышляетъ она какую-то&#160;пакость. Я&#160;отъ террасы — къ двери, да&#160;по лѣстницѣ на&#160;верхъ, самъ бѣгу, а&#160;самъ слышу: старуха тоже бѣжитъ. Я — въ одну комнату, и&#160;она за&#160;мной, я — въ другую, и&#160;она тутъ-какъ тутъ. Я&#160;забился въ уголъ за&#160;кровать, скорчился весь!
+</p><p>«Господи, думаю, пронеси, хоть&#160;бы&#160;мимо прошла!»
+</p><p>— Чего ты боишься, — слышу голосъ старухи, — я&#160;твоя мать!
+</p><p>— У&#160;меня мать совсѣмъ не&#160;такая, — говорю ей.
+</p><p>А&#160;самъ думаю:
+</p><p>«Неужто моя мать стала такой?»
+</p><p>А&#160;старуха наклонилась ко&#160;мнѣ, да&#160;за шею меня цапъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="30._Краснокожіе_схватили_и_конецъ."><span id="30._.D0.9A.D1.80.D0.B0.D1.81.D0.BD.D0.BE.D0.BA.D0.BE.D0.B6.D1.96.D0.B5_.D1.81.D1.85.D0.B2.D0.B0.D1.82.D0.B8.D0.BB.D0.B8_.D0.B8_.D0.BA.D0.BE.D0.BD.D0.B5.D1.86.D1.8A."></span>30. <br />Краснокожіе схватили и&#160;конецъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;action=edit&amp;section=53" title="Редактировать раздел «30. Краснокожіе схватили и конецъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Подыматься было очень трудно въ этомъ странномъ зданіи, похожемъ на&#160;башню, съ пустой середкой. Почти невозможно. Мѣстами ступеньки были обглоданы, такъ что&#160;сажени полторы приходилось перешагивать и&#160;ползти. Насъ взбирается много, но&#160;мы другъ друга не&#160;знаемъ, хоть и&#160;дѣлаемъ видъ, что&#160;до самыхъ корешковъ въ каждомъ каждому ясно. Внизъ смотрѣть нельзя, а&#160;кто посмотритъ — были и&#160;такіе смѣльчаки, — тотъ — готово дѣло! — прямо головою въ погребъ. Погреба никто не&#160;видитъ, только всѣмъ извѣстно, что&#160;погребъ существуетъ, холодный и&#160;темный. Наконецъ, достигли мы&#160;площадки: площадка крѣпкая, желѣзная, на&#160;желѣзныхъ брусьяхъ.
+</p><p>На&#160;площадкѣ стоитъ не&#160;то классная дама, не&#160;то монашенка изъ классныхъ дамъ, стоитъ и&#160;каждому показываетъ въ окошко міръ. Она такъ и&#160;говоритъ:
+</p><p>— Смотрите, дѣти, міръ Божій.
+</p><p>И&#160;я&#160;вижу, съ площадки солнечный закатъ, огромные дома, гигантскіе колодцы — журавли, пожарныя части и&#160;церковь — высокая колокольня. А&#160;на&#160;крестѣ прицѣпились люди и&#160;тоже на&#160;міръ смотрятъ, только у&#160;нихъ страшнѣе, чѣмъ у&#160;насъ, и&#160;какъ только они&#160;держатся!
+</p><p>На&#160;міръ долго смотрѣть не&#160;разрѣшается, и&#160;классная дама даетъ каждому сало. Мы&#160;мажемъ правый бокъ саломъ, женщины подвязываютъ юбки, и&#160;такъ спускаемся: на&#160;веревкѣ по&#160;салу спускаться легко.
+</p><p>— Здѣсь внизу, навѣрное, фрески есть старыя? — обращаюсь я&#160;къ моему сосѣду — старикъ въ алюминіевыхъ сапогахъ.
+</p><p>— Старое, очень старое зданіе, Каиново.
+</p><p>Старушка съ мышиными лапками крестится.
+</p><p>— Образа, — говоритъ старушка съ мышиными лапками, показывая единственнымъ человѣчьимъ пальцемъ на&#160;стѣну, — всякіе обмоленные и&#160;не обмоленные, Сиротка-Спаситель, Четыре Праздника.
+</p><p>Иконъ, дѣйствительно, много, а&#160;въ маленькія рѣшетчатыя окна, по&#160;которымъ приходится скользить туловищемъ, видны схимники.
+</p><p>Мимо погреба проходили очень осторожно, боялись упасть.
+</p><p>— А&#160;если итти Богу молиться? — спрашиваетъ старуха съ мышиными лапками.
+</p><p>— Все зависитъ отъ Миракса Мираксовича, — отвѣчаетъ молодой рогатый человѣкъ.
+</p><p>И&#160;мы&#160;незамѣтно скучиваемся и&#160;стараемся, если можно, такъ держаться, чтобы разнять насъ нельзя было, иначе краснокожіе, которые живутъ въ комнатахъ, окружающихъ погребъ, проснутся. Да&#160;они&#160;уже проснулись. Вотъ они&#160;схватили одного мальчика и&#160;потащили, а&#160;куриныя перья, покрывающія красныя ихъ бедра, такъ и&#160;замелькали. Насъ все меньше и&#160;меньше, а&#160;краснокожихъ цѣлая армія.
+</p><p>— Теперь васъ потащутъ! — говоритъ, какъ&#160;бы&#160;шутя, больная женщина съ мѣшкомъ для&#160;провизіи, на&#160;мѣшкѣ левъ нарисованъ.
+</p><p>А&#160;мнѣ одного хочется, попасть&#160;бы&#160;мнѣ въ середку, и&#160;я начинаю быстро считать, полагая, что&#160;счетъ поможетъ, а&#160;ноги уже дервенѣютъ… Пропалъ, — схватили!
+</p><p><i>1900-1909&#160;г.</i>
+</p><p><i>Примѣчаніе</i>. Ко&#160;всякому сну одинаковое заключеніе: «Тутъ я&#160;и проснулся».
+</p><p>Опубликовано по&#160;изданию: Алексѣй Ремизовъ. Бѣдовая доля // Сочiнения — СПб, &lt;1911&gt;. — Т.&#160;3. — С.&#160;165—213.
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐7b454bf66b‐smr46
+Cached time: 20260216182920
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.099 seconds
+Real time usage: 0.181 seconds
+Preprocessor visited node count: 296/1000000
+Revision size: 106101/2097152 bytes
+Post‐expand include size: 13055/2097152 bytes
+Template argument size: 2632/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.041/10.000 seconds
+Lua memory usage: 1769334/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  132.260      1 Шаблон:Отексте
+100.00%  132.260      1 -total
+  1.41%    1.868      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1098966:|#|:idhash:canonical and timestamp 20260216182920 and revision id 5503787. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Бедовая_доля_(Ремизов)/ДО&amp;oldid=5503787">https://ru.wikisource.org/w/index.php?title=Бедовая_доля_(Ремизов)/ДО&amp;oldid=5503787</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2" title="Категория:Алексей Михайлович Ремизов">Алексей Михайлович Ремизов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1909_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1909 года">Литература 1909 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-RusEmpire" title="Категория:PD-RusEmpire">PD-RusEmpire</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%BE%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Категория:Дореформенная орфография">Дореформенная орфография</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2" title="Категория:Импорт/az.lib.ru/Алексей Михайлович Ремизов">Импорт/az.lib.ru/Алексей Михайлович Ремизов</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 16 апреля 2025 года в 08:32.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Бедовая доля (Ремизов)/ДО</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-n25lq","wgBackendResponseTime":127,"wgPageParseReport":{"limitreport":{"cputime":"0.099","walltime":"0.181","ppvisitednodes":{"value":296,"limit":1000000},"revisionsize":{"value":106101,"limit":2097152},"postexpandincludesize":{"value":13055,"limit":2097152},"templateargumentsize":{"value":2632,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  132.260      1 Шаблон:Отексте","100.00%  132.260      1 -total","  1.41%    1.868      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.041","limit":"10.000"},"limitreport-memusage":{"value":1769334,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Алексей Михайлович Ремизов\",\n    [\"license\"] = \"PD-RusEmpire\",\n    [\"origLang\"] = \"\",\n    [\"published\"] = \"1909\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/r/remizow_a_m/text_1909_bedovaya_dolya-oldorfo.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Бедовая доля\",\n}\neditions = \"\u003Cli id='menu-editions'\u003E\u003Cb\u003EДругие редакции\u003C/b\u003E\\\n\u003Cul\u003E\u003Cli\u003E[[Бедовая доля (Ремизов)|В новой орфографии]]\u003C/li\u003E\u003C/ul\u003E\"\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.codfw.main-7b454bf66b-smr46","timestamp":"20260216182920","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

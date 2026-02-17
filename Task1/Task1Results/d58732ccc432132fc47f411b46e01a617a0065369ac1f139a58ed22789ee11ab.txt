@@ -1,0 +1,1134 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Мистические лилии (Роденбах) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"7085f014-d869-40b8-8975-cdb6a8a42cfb","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Мистические_лилии_(Роденбах)","wgTitle":"Мистические лилии (Роденбах)","wgCurRevisionId":5586915,"wgRevisionId":5586915,"wgArticleId":1020675,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Страницы с внешними ссылками","Импорт/lib.ru/Указан переводчик в параметре ДРУГОЕ","Импорт/lib.ru/Тег i в параметре ДРУГОЕ","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 300","Импорт/lib.ru/Указан переводчик и нет категории перевода","Импорт/lib.ru","Импорт/lib.ru/Указаны тождественнные автор и переводчик","Импорт/az.lib.ru/Жорж Роденбах","Переводы с неизвестным языком оригинала","Проза","Сборники рассказов","Жорж Роденбах","Литература 1894 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Мистические_лилии_(Роденбах)","wgRelevantArticleId":1020675,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5586915,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":200000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Мистические лилии (Роденбах) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Мистические_лилии_Роденбах rootpage-Мистические_лилии_Роденбах skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8+%28%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8+%28%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8+%28%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8+%28%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Мистические_лилии"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Мистические_лилии">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Мистические лилии</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Мистические_лилии-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Пролог"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Пролог">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span><i>Пролог</i></span>
+			</div>
+		</a>
+		
+		<ul id="toc-Пролог-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Головные_уборы"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Головные_уборы">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Головные уборы</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Головные_уборы-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Сумерки_в_приемной"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Сумерки_в_приемной">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Сумерки в приемной</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Сумерки_в_приемной-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Свечи"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Свечи">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Свечи</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Свечи-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Мистический_сон"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Мистический_сон">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Мистический сон</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Мистический_сон-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Псалмы"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Псалмы">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>Псалмы</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Псалмы-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Сомнения"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Сомнения">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>Сомнения</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Сомнения-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Цветы"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Цветы">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>Цветы</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Цветы-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Любовь_к_белому_цвету"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Любовь_к_белому_цвету">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>Любовь к белому цвету</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Любовь_к_белому_цвету-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Священные_изображения"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Священные_изображения">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">11</span>
+				<span>Священные изображения</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Священные_изображения-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Боязнь_греха"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Боязнь_греха">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">12</span>
+				<span>Боязнь греха</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Боязнь_греха-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Колокола"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Колокола">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">13</span>
+				<span>Колокола</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Колокола-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Мистические лилии (Роденбах)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5+%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8+%28%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;oldid=5586915" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_%28%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85%29&amp;id=5586915&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259C%25D0%25B8%25D1%2581%25D1%2582%25D0%25B8%25D1%2587%25D0%25B5%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B5_%25D0%25BB%25D0%25B8%25D0%25BB%25D0%25B8%25D0%25B8_%28%25D0%25A0%25D0%25BE%25D0%25B4%25D0%25B5%25D0%25BD%25D0%25B1%25D0%25B0%25D1%2585%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259C%25D0%25B8%25D1%2581%25D1%2582%25D0%25B8%25D1%2587%25D0%25B5%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B5_%25D0%25BB%25D0%25B8%25D0%25BB%25D0%25B8%25D0%25B8_%28%25D0%25A0%25D0%25BE%25D0%25B4%25D0%25B5%25D0%25BD%25D0%25B1%25D0%25B0%25D1%2585%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_%28%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_%28%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_%28%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_%28%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_%28%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_%28%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Мистические лилии</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%96%D0%BE%D1%80%D0%B6_%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85" title="Автор:Жорж Роденбах">Жорж Роденбах</a></span>, пер. <span id="ws-translator"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%96%D0%BE%D1%80%D0%B6_%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85" title="Автор:Жорж Роденбах">Жорж Роденбах</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Оригинал:  <span id="ws-original&#95;lang">язык неизвестен</span>, <i><span id="ws-original&#95;title">Musée de béguines</span></i>, опубл.: <span id="ws-original&#95;published">1894</span>.&#160;— Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/r/rodenbah_z/text_1894_mus233e_de_b233guines.shtml">az.lib.ru</a></span>  • (1894).<br /><i>
+Перевод <a href="/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0_%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F" class="mw-redirect" title="Мария Васильевна Веселовская">Марии Веселовской</a> (1909).</i><br />Пролог <br />Головные уборы <br />Сумерки в&#160;приемной <br />Свечи <br />Мистический сон <br />Псалмы <br />Сомнения <br />Цветы <br />Любовь к&#160;белому цвету <br />Священные изображения <br />Боязнь греха <br />Колокола.</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%96%D0%BE%D1%80%D0%B6_%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85" title="Автор:Жорж Роденбах">Жорж Роденбах</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="Мистические_лилии"><span id=".D0.9C.D0.B8.D1.81.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.BB.D0.B8.D0.BB.D0.B8.D0.B8"></span>Мистические лилии</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;section=1" title="Редактировать раздел «Мистические лилии»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<center><i>Musée de béguines</i> (1894)</center>
+<div class="mw-heading mw-heading3"><h3 id="Пролог"><span id=".D0.9F.D1.80.D0.BE.D0.BB.D0.BE.D0.B3"></span><i>Пролог</i></h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;section=2" title="Редактировать раздел «Пролог»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Монастыри просыпаются рано, с&#160;зарею, вырисовываются среди северного тумана, который рассеивается, испаряется, точно бледный ладан. Белые и&#160;розовые, они&#160;уподобляются ангелам, в&#160;городах с&#160;высокими башнями вековой Фландрии.
+</p><p>Каждый из&#160;них составляет самостоятельный мир, на&#160;грани тех предместий, где дома редеют и&#160;одинокие каналы среди откосов лишены всяких отражений…
+</p><p>Средневековый поселок! Сад девственниц! Готический уголок, переживший, если можно так сказать, Мемлинга или&#160;Квентина Метциза с&#160;его остроконечными крышами в&#160;форме митр из&#160;поблекших черепиц, оттенка древних покрывал, с&#160;большою широкою лужайкою и, над&#160;всем этим, — с&#160;фламандским небом, которое всегда кажется небом с&#160;картины…
+</p><p>Ах, как&#160;там чувствуешь себя далеким от&#160;всего, далеким от&#160;самого себя! Какой-то&#160;ягненок пасется на&#160;лужайке… Не есть&#160;ли&#160;это пасхальный Агнец? Головной убор монахини показался за&#160;отсвечивающими стеклами маленькой кельи, переходя от&#160;окна к&#160;окну… Не есть&#160;ли&#160;это полет тканей по&#160;пути к&#160;небу? А&#160;волнообразный дым, поднимающийся над&#160;тихими жилищами? Кажется, можно в&#160;нем угадать какой-нибудь текст, стирающуюся надпись, листок молитвы, говорящий свиток, точно филактерии на&#160;триптихах, в&#160;устах святых…
+</p><p>И&#160;какая тишина, ничем не&#160;нарушаемая, единодушная!..
+</p><p>Доносятся только слабые звуки, почти сливающиеся с&#160;безмолвием. Тихий, прерывистый колокольный звон, который раздается для&#160;того, чтобы внушить впечатление воскресного дня… Колокол — голос воскресенья! Он&#160;придает буднему дню воскресный оттенок.
+</p><p>Божественный покой монастырей! Восхитительная простота бегинок, тихих душ, подданных Бога, цветов, едва напоминающих женщин, лилий, скрытых под&#160;головными уборами, лилий, которые не&#160;прядут!.. О, мои сестры, мои истинные сестры, которых я&#160;избрал; ах! как&#160;отрадно говорить им: «моя сестра»! Если б я&#160;мог проникнуть в&#160;их душу, если б моя мечта увлекла их, и&#160;я стал&#160;бы&#160;для них вторым ангелом-хранителем!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Головные_уборы"><span id=".D0.93.D0.BE.D0.BB.D0.BE.D0.B2.D0.BD.D1.8B.D0.B5_.D1.83.D0.B1.D0.BE.D1.80.D1.8B"></span>Головные уборы</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;section=3" title="Редактировать раздел «Головные уборы»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Что&#160;создает необъяснимое очарование бегинкам, в&#160;отличие от&#160;других монахинь, это, может быть, специальный, установленный для&#160;них, более скромный головной убор. В&#160;других орденах головные уборы отличаются напыщенным
+</p><p>характером, широко развертываются, точно полет птиц. У&#160;бегинок уборы кажутся молчаливыми птичками, которые немного бьют крыльями, тихо размахивая ими. Спокойные, они&#160;довольны и&#160;тем, что&#160;берегут в&#160;плену волосы.
+</p><p>Скромные, прямые головные уборы распространяются до&#160;конца шеи. Как&#160;удается примитивным бегинкам с&#160;такою ловкостью рассчитать расстояние, складки, расположить верно полотно, настолько сильно накрахмаленное, что&#160;нельзя ошибиться, переделать в&#160;другой раз, сложить его в&#160;оконча тельном виде, — под&#160;страхом пожертвовать этою с&#160;самого начала смятою тканью. Но&#160;их пальцы очень опытны и&#160;правильно скалывают булавками промежутки.
+</p><p>Головные уборы, совсем оконченные, поэтому не&#160;имеют больше вида простого четырехугольника из&#160;полотна, который снова легко расправить; можно было&#160;бы&#160;подумать, что&#160;эта форма нераз дельна с&#160;ними, составляет одно существо. Точно они&#160;родились так!
+</p><p>Эти головные уборы с&#160;их правильным колебанием справа налево придают красоту бегинкам и&#160;вполне достаточны для&#160;того, чтобы сообщить их походке раскачивающееся движение.
+</p><p>Хорошее впечатление они&#160;производят, в&#160;особенности, своею покоряющей всех белизною. Эта белизна захватывает.
+</p><p>Даже лицо бегинок поддается ей, перестает быть румяным, бледнеет. Оно уподобляется головным уборам, которые являются только продолжением его; так и&#160;луна сливается с&#160;очертанием своего круга.
+</p><p>Доброе влияние головные уборы оказывают и&#160;на их душу. Они&#160;обесцвечивают в&#160;ней тщетные звуки мира, тесно примыкая к&#160;ушам, затуманивают слух, — правильно привязанные, совсем герметически закрывающиеся, точно фермуары девственности. Бегинки, столь&#160;же скрытые, почти не&#160;слышат жизни. Онн слушают только тихое движение, точно дыхание, этой птички со сложенными крылышками, которая
+</p><p>образует их головной убор и&#160;белизна которой заставляет их иногда думать, что&#160;это св. Дух в&#160;виде голубя спустился на&#160;головку каждой из&#160;них.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Сумерки_в_приемной"><span id=".D0.A1.D1.83.D0.BC.D0.B5.D1.80.D0.BA.D0.B8_.D0.B2_.D0.BF.D1.80.D0.B8.D0.B5.D0.BC.D0.BD.D0.BE.D0.B9"></span>Сумерки в&#160;приемной</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;section=4" title="Редактировать раздел «Сумерки в приемной»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Часто в&#160;зимние вечера бегинки навещают друг друга под&#160;предлогом узнать о&#160;какой-нибудь службе или&#160;проповеди, посоветоваться насчет рисунка кружева, но&#160;на самом деле, чтобы вместе посидеть за&#160;небольшой любимой трапезой: они&#160;пьют кофе, едят тартинки из&#160;свежего хлеба, даже пирожки, а&#160;иногда случается, что&#160;к этому прибавляется маленький стаканчик вина, налитого из&#160;древнего кувшина, носящего на&#160;себе подлинный отпечаток голландского происхождения.
+</p><p>Сестра Пульхерия любила больше всех принимать таким образом некоторых своих подруг по&#160;обители. Проходя мимо окон с&#160;кисейными занавесками ее маленькой кельи, можно было часто видеть в&#160;сумерки несколько черных силуэтов, сидевших возле слабенького огонька, на&#160;котором стоял горячий кофе. Снаружи казался даже странным этот слабенький, колеблющийся огонек, свет в&#160;форме сердца, точно это было сердце дома.
+</p><p>Приглашенные бегинки сидели долго, привлекаемые нежным теплом камина, угли которого временами вспыхивали, освещая во&#160;мраке их лица, спокойные, как&#160;на портретах.
+</p><p>От&#160;этого огня было довольно светло; не&#160;надо было зажигать лампы, они&#160;сидели до&#160;позднего часа в&#160;эти нежные сумерки, причем наступающий мрак влиял и&#160;на их слова.
+</p><p>Сестра Пульхерия, очень разговорчивая, пользовавшаяся репутацией хорошей рассказчицы, любившая, чтобы ее слушали, тоже поддавалась впечатлению мрака. Она была точно охвачена темнотою, и&#160;ее душа омрачалась. Окончились веселые истории, шалости пансионерок, смеющихся над&#160;какой-нибудь отсутствующей монахиней или&#160;над священником из&#160;общины. Вечер влил свой яд в&#160;нее и&#160;в других сестер, иногда еще беззаботных и&#160;смеявшихся. Среди них как&#160;бы расстилались траурные мысли, боязливые образы, креповые цветы.
+</p><p>Слова становились реже, каждая пауза между ними пугала, как&#160;пустота между ударами колокола. Сестра Пульхерия рассказывала теперь только о&#160;мрачных впечатлениях, предчувствиях, закрадывавшихся в&#160;ее душу перед&#160;каждым несчастием, о&#160;подтверждении ее предчувствий, иногда даже снов.
+</p><p>Другие монахини в&#160;такие сумерки слушали, немного испуганные, ощущая приятный страх детей, которым рассказывают о&#160;путешествиях маленьких королей, потерявшихся в&#160;темном лесу…
+</p><p>Однажды в&#160;конце декабря было большое оживление за&#160;трапезой в&#160;келье сестры Пульхерии. Собралось много бегинок, так что&#160;пришлось взять лишние стулья и&#160;подлить кипятку в&#160;кофейник. Причиною этому послужило представление сестре Пульхерии двух послушниц, недавно поступивших в&#160;обитель. Несколько старых монахинь сопровождали их. Поэтому устроилось целое празднество с&#160;пирожками и&#160;маслянистым вином.
+</p><p>Сестра Пульхерия, очень польщенная этим приходом, в&#160;котором чувствовалось общее уважение к&#160;ней, вдохновленная этою исключительною и&#160;многочисленною аудиторией, начала снова, точно по&#160;четкам, свои обычные рассказы. Она навела разговор на&#160;суеверные мысли — одну из&#160;ее любимых тем, — на&#160;панический страх, приходящий с&#160;той стороны жизни, тревогу которого она любила возбуждать.
+</p><p>Она чувствовала как&#160;бы страсть создавать ужас, подобно тому, как&#160;дети играют с&#160;огнем. Все находившиеся там бегинки были охвачены ее суеверным страхом, даже усиливали его.
+</p><p>Сестра Мария рассказывала о&#160;своем всегда подтверждавшемся страхе встретить похоронное шествие, не&#160;имея возможности, как&#160;можно скорей прикоснуться к&#160;какому-нибудь железному или&#160;медному предмету, например, к&#160;ключам К&#160;счастью, у&#160;нее висит на&#160;груди небольшое медное распятие, до&#160;которого она скорее дотрагивается рукою, чтобы отдалить от&#160;себя дурную судьбу.
+</p><p>Сестра Корнелия напоминала, что&#160;увидеть утром паука — признак близкого огорчения. Это необыкновенное предуведомление никогда ее не&#160;обманывало. В&#160;такие зори, которые должны поблекнуть от&#160;дурной новости, чувствуется непонятное беспокойство. Точно надвигается гроза. Это напоминает сад в&#160;монастырской ограде перед&#160;грозою. Разве сад тоже имеет свои предчувствия? Листья на&#160;тополях трепещут, и&#160;эта дрожь передается от&#160;одного к&#160;другому… Наша душа тоже кажется садом, который дрожит в&#160;такие утра. Она чувствует раньше нас катастрофу…
+</p><p>После слов сестры Корнелии все монахини желали вмешаться, рассказать свои чувства в&#160;области суеверных мыслей, указать какой-нибудь факт, подробности беспокойства, за&#160;которым последовало несчастное событие. Каждая бегинка, осмелившись, старалась присоединить, вставить свое доказательство, как&#160;лишнюю катушку в&#160;это черное кружево Страха, которое они&#160;сплетали все вместе в&#160;сумерки.
+</p><p>— А&#160;зеркала? — произнесла вдруг сестра Годелива своим чудным, точно фисгармония, голосом, который пел на&#160;клиросе в&#160;воскресенье, во&#160;время службы, — твердым, приятным, звучным, сливавшимся с&#160;фисгармонией настолько, что&#160;иногда, когда они&#160;чередовались, нельзя было различить, исполняла&#160;ли&#160;гимны фисгармония пли женский голос… Сестра Годелива из-за&#160;ее исключительного голоса и&#160;ее мыслей, не&#160;похожих на&#160;мысли остальных монахинь, пользовалась уважением в&#160;общине. Она умела различать музыку. Она должна была уметь различать и&#160;судьбу!..
+</p><p>Поэтому, когда она прервала единодушную беседу, все замолчали.
+</p><p>— Зеркала внушают страх, — продолжала сестра Годелива. — Разбитое зеркало обозначает смерть, разрушение или&#160;еще худшие события. Когда я&#160;была еще ребенком, в&#160;доме моих родителей каждый раз, когда разбивалось зеркало, кто-нибудь умирал через&#160;некоторое время. Это происходило оттого, что&#160;зеркала имеют душу, а&#160;когда разбивают их лишают таким образом души, изгоняют их душу, — то&#160;нужно, чтобы какая-нибудь душа этого дома явилась отплатою. Чего только нет в&#160;зеркалах! Когда разбивают их, можно найти тысячи отражений, образов в&#160;каждом обломке. Самый маленький кусочек зеркала полон всевозможных вещей.
+</p><p>Ничто не&#160;пропадает в&#160;них. Прежние, отразившиеся в&#160;них лица остаются. Мертвые находятся на&#160;глубине… Иногда и&#160;сам сатана живет в&#160;них.
+</p><p>Эти слова Годеливы, точно медленная мелопея, исполненная ее гармоническим голосом, произвели впечатление на&#160;всех монахинь. Долгое время, испуганные этою тайною вещей, которую они&#160;внезапно почувствовали почти физически, точно к&#160;ним прикоснулась судьба, они&#160;молчали, не&#160;смея двигаться на&#160;своих стульях, отведать хороший кофе, остывавший в&#160;их чашках…
+</p><p>Сестра Пульхерия воспользовалась молчанием, чтобы вмешаться в&#160;разговор. Она высказала мнение, что&#160;существуют более ясные, более частные предуведомления, чем пауки, похороны, зеркала. Более субъективное предзнаменование! У&#160;нее есть доказательство, — один эпизод из&#160;ее жизни, который она часто рассказывала, искусно усиливал ужас, внося волнение, которое много раз возобновлялось и&#160;все&#160;же было не&#160;менее искренно и&#160;заразительно.
+</p><p>Сестра Пульхерия начала свою излюбленную историю.
+</p><p>Это было давно… Ей исполнилось тогда пятнадцать лет, она была пансионеркою в&#160;урсулинском монастыре, в&#160;маленьком городке, находившемся недалеко от&#160;того города, где жили ее родители. Она проводила у&#160;них обыкновенно каникулы.
+</p><p>Однажды, в&#160;конце сентября, накануне ее возвращения и&#160;монастырь, ее отец повел ее в&#160;поле; он&#160;обещал ей провести с&#160;ней все послеобеденное время, гулять в&#160;поле и&#160;закончить прогулку ужином в&#160;кабачке предместья, где подавали ее любимую рыбу и&#160;вафли. Все подробности остались у&#160;нее к&#160;памяти, точно это было вчера. Чудный день! Ее отец был весел, нежен с&#160;ней.
+</p><p>Деревья осенью казались золотыми. Заход солнца был красив, совсем красный в&#160;глубине неба. Быстро темнело в&#160;эти короткие дни. Чтобы вернуться в&#160;город, они&#160;направились в&#160;небольшое селение, где проходила железная дорога, которая должна была привезти их через&#160;несколько минут.
+</p><p>Было темно. Она взяла отца под&#160;руку, уже достаточно высокая, чтобы не&#160;стараться подниматься к&#160;известной высоте.
+</p><p>Она гордилась, чувствуя себя почти маленькою женщиною. Вдруг, в&#160;конце пути, в&#160;темноте, они&#160;заметили небольшой, но&#160;живой, яркий, двигавшийся огонек. Затем показался другой. Она подумала сначала, что&#160;это — фонари кареты.
+</p><p>Но&#160;огоньки слишком расходились, тихо двигаясь. Затем вдруг показались еще огни, десятки огней, увеличивавшихся, двигавшихся отдельно, точно танец блуждающих огней на&#160;далекой, вечером безмолвной воде.
+</p><p>Это было фантастично. Ее охватил невольный страх. Она крепче прижалась к&#160;руке отца. Они&#160;продолжали идти на&#160;встречу огням. Те теперь приближались. Это было точно шествие кающихся, от&#160;которых виднелись только свечи, так как&#160;их черные одежды, оттенка ночи, сливались с&#160;ней.
+</p><p>Эти огоньки, точно звезды, приводили к&#160;массе, темной, более мрачной, чем самая ночь, — которая быстро вырисовывалась. Это была деревенская церковь, стоявшая очень высоко над&#160;скоплением домов. Они&#160;поняли тогда, что&#160;эти огни были светильниками из&#160;процессии, в&#160;руках мальчиков из&#160;хора, прихожан, сопровождавших Св. Дары. Они&#160;ходили производить соборование, носили предсмертное причастие
+</p><p>какому-то&#160;умирающему, исполнив по&#160;всем правилам этот обычай, всегда наблюдаемый в&#160;фламандских деревнях. Теперь процессия возвращалась в&#160;церковь, рассеиваясь по&#160;могилам, неровному, окружающему церковь кладбищу…
+</p><p>Это печальное появление было наверное предуведомлением судьбы, признаком другого близкого предсмертного помазания! Сестра Пульхерия не&#160;обратила на&#160;это внимания, так как&#160;была очень молода. Она помнила только, что&#160;ее отец с&#160;этой минуты сделался молчаливым, задумчивым во&#160;все остальное время прогулки и&#160;вечера, пока она не&#160;рассталась с&#160;ним перед&#160;сном. Может быть, он&#160;понял и&#160;в эту минуту подумал о&#160;смерти, о&#160;своей смерти!..
+</p><p>Во&#160;всяком случае это была последняя прогулка, которую они&#160;совершили вместе. Почти в&#160;последний раз тогда она видела его; спустя месяц он&#160;скончался, проболев два дня.
+</p><p>Она едва успела приехать вовремя, чтобы застать его умирающим на&#160;постели, совсем изменившимся, с&#160;неясным взором, смотревшим уже по&#160;ту сторону жизни…
+</p><p>Сестра Пульхерия закончила свой рассказ голосом, точно омоченным слезами. Несмотря на&#160;то, что&#160;она часто рассказывала об&#160;этом, и&#160;несмотря на&#160;такой долгий промежуток времени, она снова почувствовала детскую нежность, взволновалась от&#160;вызванного воспоминания, внимательного молчания монахинь, соответствия наступающего вечера, налагавшего точно черные покровы на&#160;ее слова.
+</p><p>Возле нее многие бегинки плакали, думая об&#160;отцах и&#160;матерях, которые тоже умерли.
+</p><p>Другие встали, под&#160;предлогом, что&#160;их ждут, быстро ушли, — в&#160;действительности, слишком взволнованные, чтобы оставаться дольше, боясь этих трагических историй, которые, разумеется, в&#160;ближайшую ночь вызовут кошмары, сны, где они&#160;увидят себя входящими в&#160;часовню и&#160;принужденными дотронуться до&#160;мертвеца, ледяной холод которого заставит их вскочить с&#160;постели.
+</p><p>После ухода некоторых монахинь разговор возобновился.
+</p><p>Одна бегинка, сестра Варнавия, не&#160;принадлежавшая к&#160;обычным посетительницам этой общины, пришедшая в&#160;этот день случайно, слушала в&#160;первый раз рассказ сестры Пульхерии и&#160;отнеслась немного недоверчиво. Розовая, полная, жизнерадостная, она не&#160;почувствовала общего страха и&#160;спокойным голосом возразила:
+</p><p>— Вы, право, очень суеверны, сестра Пульхерия. Даже, если все это и&#160;правда, не&#160;думаете&#160;ли&#160;вы, что&#160;это скорее дело демона, который бродит вокруг нас и&#160;хочет нас смутить?
+</p><p>Сестра Пульхерия воскликнула:
+</p><p>— Нет! Это Бог предупреждает нас. Надо уметь слушать, надо уметь понимать Бога. Это происходит от&#160;доброты и&#160;милосердия Бога, желающего подготовить нас к&#160;несчастной или&#160;доброй смерти. Он&#160;не&#160;может и&#160;не хочет Сам предупредить нас, потому что&#160;мы недостойны чуда. Но&#160;предметы помогают Ему. Он&#160;руководит ими. Они&#160;являются Его соучастниками, слугами, и&#160;во имя Его они&#160;говорят с&#160;нами…
+</p><p>Сестра Варнавия не&#160;казалась убежденной и&#160;произнесла:
+</p><p>— Суеверие все&#160;же грех!
+</p><p>— Пускай, — отвечала сестра Пульхерия, — но&#160;что такое суеверие? Разве страх можно назвать суеверным, когда тринадцать садятся за&#160;стол? Наш Спаситель своим примером доказал, что&#160;это число приносит смерть… Не нужно&#160;ли&#160;самим понимать этот признак, когда случай показывает его?
+</p><p>Эти слова не&#160;вызвали возражения. Сестра Варнавия не&#160;настаивала. Наступило долгое молчанье. Они&#160;не&#160;заметили, что&#160;в комнате стало совсем темно, так как&#160;уголья в&#160;камине погасли.
+</p><p>Бегинки мало-помалу затихли, охваченные беспокойством, ужасом от&#160;этих сверхъестественных соотношений между предметами, от&#160;ощущения тайны и&#160;всего невидимого, разлитого кругом, выраженного устами безмолвия.
+</p><p>Одна только сестра Мария попробовала вставить: «Нас было много сегодня. Сколько было всех?» Ни&#160;одна не&#160;ответила. Однако все подумали об&#160;этом; все думали одно и&#160;то&#160;же в&#160;течение долгого времени, с&#160;той минуты, когда сестра Пульхерия вызвала в&#160;памяти погибель от&#160;дурной цифры, предсказание смерти тем, кто находится в&#160;числе тринадцати.
+</p><p>Что&#160;если за&#160;едой их было тринадцать? Может быть, их было тринадцать? Каждая мысленно считала, называла по&#160;именам присутствовавших монахинь: сестра Пульхерия, сестра Годелива, сестра Моника, сестра Корнелия, сестра Мария; затем — две послушницы, затем те, которые ушли раньше.
+</p><p>Но&#160;число сбивалось: получалось то&#160;двенадцать, то&#160;четырнадцать, наконец, — тринадцать. Кого они&#160;забыли? Кого сочли два раза? Как&#160;узнать? Как&#160;лукавый демон играл с&#160;ними, скрывал истину! Ни&#160;одна не&#160;осмелилась прервать молчание, громко произнести вопрос, — как&#160;ни одна не&#160;осмелилась попросить сестру Пульхерию, наконец, зажечь лампу, успокоить их светом.
+</p><p>К&#160;счастью, показалась луна, освещая комнату, удаляя темноту по&#160;углам, очищая тюлевые занавески на&#160;окнах, казавшиеся дорогами из&#160;цветов по&#160;прямой линии к&#160;луне.
+</p><p>Вдруг сестра Годелива воскликнула: «Взгляните на&#160;луну! Какая она странная! Точно голова умершего…» На&#160;небе, решительно, в&#160;этот вечер были заметны какие-то&#160;признаки; в&#160;комнате были разлиты в&#160;воздухе предчувствия. Напрасно было столько толковать о&#160;зеркалах, похоронах, пауках, о&#160;всех вестниках Несчастия…
+</p><p>Отныне бегинки, точно их было тринадцать на&#160;самом деле, оставались серьезными, неподвижными, боясь умереть, ничего не&#160;говоря, как&#160;бы чувствуя невозможность бороться своими голосами с&#160;мраком…
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Свечи"><span id=".D0.A1.D0.B2.D0.B5.D1.87.D0.B8"></span>Свечи</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;section=5" title="Редактировать раздел «Свечи»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Бегинки любят восковые свечи, красивое, полное церковное освещение во&#160;время служб.
+</p><p>В&#160;праздники им приносят восторженную радость многочисленные свечи в&#160;церкви, точно геометрическое расположение звезд. Они&#160;создают колебание, нежное трепетание в&#160;их глазах, в&#160;которых свет переливается ровными гранями.
+</p><p>В&#160;течение мая, месяца св. Девы Марии, они&#160;восторгаются многочисленными свечами, благодаря бесконечным пожертвованиям; свечами, точно из&#160;мрамора, постепенное угасание которых отличается тихим характером.
+</p><p>Затем какое волнение ощущают они&#160;один раз в&#160;году, когда они&#160;получают возможность видеть пасхальную свечу, украшенную голубою краскою и&#160;золотом, точно татуированную или&#160;как&#160;бы&#160;расшитую золотом столь тонко, что&#160;ее горящий кончик кажется вдруг окровавленным. Можно было&#160;бы&#160;подумать, что&#160;это Копье, нанесшее Рану в&#160;ребро. А&#160;кругом, в&#160;церкви, небольшие свечи, тоже истекающие кровью, точно Раны на&#160;ногах и&#160;руках, точно красные капли на&#160;челе, уязвленном терновником. Божественные капли, которыми глаза бегинок утоляют свою жажду!
+</p><p>Таким образом, свечи всегда порождают собою идеи об&#160;очищении, искуплении. Они&#160;соглашаются страдать. Бог принимает их жертву, как&#160;искупление грехов. Вот почему во&#160;всех церквах воздвигнут светильник из&#160;кованого железа, Голгофа, где беспрестанно совершается символическое страдание свечей.
+</p><p>Бегинки, в&#160;особенности, любят зажигать эти искупительные свечи. Они&#160;ставят их в&#160;церкви своей общины, затем они&#160;направляются иногда далеко, в&#160;какой-нибудь отдаленный приход, чтобы найти там свечи по&#160;своему выбору. Они&#160;ищут долго в&#160;ящиках, где свечи ждут своей очереди пострадать. Существуют свечи всякой длины, всех цветов: белые, похожие на&#160;очищенные от&#160;кожи тростники, сердцевина которых обнажена; другие синеватые, третьи голубые, точно поддавшиеся влиянию глаз, устремленных на&#160;них и&#160;колебавшихся при&#160;выборе.
+</p><p>Бегинки почерпают в&#160;этих благочестивых жертвах детское удовольствие, не&#160;без тайного страха — только возбуждающего их радость — увидеть, как&#160;их свеча с&#160;трудом разгорается, дурно горит, представляет собою пламя, которое бездействует, едва не&#160;угасает, опускается горизонтально и&#160;почти достигает небытия. Но&#160;какая радость, если пламя поднимается, усиливается, закругляется в&#160;форме сердца! Эти беспокойные ожидания полны приятной тревоги, суеверного представления о&#160;маленьких, как&#160;бы нерешительных свечах, при&#160;помощи которых бегинки хотят узнать, угодны&#160;ли&#160;они Богу в&#160;этот день.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Мистический_сон"><span id=".D0.9C.D0.B8.D1.81.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B9_.D1.81.D0.BE.D0.BD"></span>Мистический сон</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;section=6" title="Редактировать раздел «Мистический сон»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Был канун Рождества. Полночная служба только что&#160;кончилась. В&#160;стенах монастыря цветные окна перестали наполнять образами темноту; орган замолкал, ночное безмолвие поглотило последние, как&#160;бы засыпавшие звуки колокола. Монахини, спеша, вышли из&#160;церкви и&#160;при резком ветре, срывавшем у&#160;них головной убор, молчаливо расходились по&#160;своим келиям, — напоминая торопливые движения лебедей, боящихся, как&#160;бы не&#160;остаться на&#160;замерзающем пруду и&#160;не стать пленниками своих крыльев, если&#160;бы&#160;эти крылья вдруг приросли ко&#160;льду…
+</p><p>Сестра Вальбурга вернулась одна из&#160;последних в&#160;свою комнату, предназначавшуюся для&#160;послушницы в&#160;монастыре Восьми Блаженств, крошечную, чистую комнатку, в&#160;которой виднелась ее постель с&#160;занавесками из&#160;бледнолилового коленкора. В&#160;этот вечер она чувствовала себя немного грустной, неизвестно почему, и&#160;оставалась насколько возможно дольше в&#160;церкви, пока монахиня, заведующая ризницей, не&#160;погасила поочередно восковые свечи, точно срывая пламя с&#160;кончиков каждой свечи.
+</p><p>Можно было&#160;бы&#160;подумать, что&#160;она боялась остаться одна и&#160;вернуться в&#160;свою комнату. В&#160;первый раз, со дня ее поступления в&#160;монастырь, она чувствовала такую сильную меланхолию. Она сняла тяжелое покрывало, точно пеленавшее ее голову, быстро разделась, чтобы лечь в&#160;постель, чувствуя озноб от&#160;этой сырой погоды, и&#160;немного — от&#160;состояния своей души, которая, казалось, тоже замерзала…
+</p><p>Она бросила на&#160;единственный стул свое черное платье, головной убор, поставила рядом свои башмаки, чувствуя некоторую грусть, тоску, которая, право, была простительна; она вспомнила о&#160;том далеком времени, когда она ставила в&#160;этот вечер перед&#160;камином свои детские башмачки… От&#160;этого воспоминания она перешла к&#160;другим, более мирским сожалениям: о&#160;домашнем очаге, детях, семейной жизни. Она отреклась от&#160;всего этого. Она обвенчалась с&#160;Христом в&#160;грустном черном наряде. Но&#160;Христос находился далеко. Она любила его, как&#160;отсутствующего супруга, путешествующего по&#160;неизведанным морям. Она жила одна. Она чувствовала себя разлученной с&#160;ним. Она это испытала вдвойне в&#160;эту ночь, когда только один зимний ветер проникал в&#160;очаг и&#160;наполнял холодом, вместо подарков, ее сиротливые башмаки…
+</p><p>Так думала она, но&#160;благодатный сон мало-помалу охватывал ее, беспрерывное биение ресниц заволакивало ее глаза, постепенно переставшие что-либо различать в&#160;одинокой комнате, в&#160;которую врывался сильный лунный свет, переливаясь, как&#160;перламутр.
+</p><p>Проникновение лунного света в&#160;комнату! Рассеивающийся мрак!
+</p><p>Где кончается действительность? Где начинаются грезы?
+</p><p>Вдруг молодой монахине, взоры которой долгое время были с&#160;грустью устремлены на&#160;ее совсем черные, как&#160;бы траурные, башмаки, показалось, что&#160;они стали яснее, точно побледнели и&#160;очистились. Происходило&#160;ли&#160;это от&#160;луны, светившей в&#160;окно? Был&#160;ли&#160;это сон, или&#160;совершалось чудо? Вскоре они&#160;уже более не&#160;казались простыми, кожаными, черными, как&#160;ночь, и&#160;вследствие этого сливавшимися с&#160;ней, а&#160;светлыми, чистыми, как&#160;снег, сшитыми из&#160;белого шелка, точно серебряными, девическими, свадебными туфельками…
+</p><p>А&#160;на&#160;одиноком стуле обыкновенное платье монахини, — неужели и&#160;его нечаянно осветила луна? Был&#160;ли&#160;это сон или&#160;действительное чудо? Все черное и&#160;мрачное, оно начинало также белеть. С&#160;каждой минутой черная краска как&#160;бы сползала вдоль материи, стекала по&#160;полотнищам, исчезала в&#160;швах, собиралась в&#160;складках, затем незаметно скрывалась, точно выжатая и&#160;побежденная блеском белого цвета, изме нившего юбку, корсаж, весь ее духовный наряд в&#160;чудесное платье со складками из&#160;толстого и&#160;матового шелка, платье непорочной невесты, которое ожидало того момента, когда она его наденет, сложенное, но&#160;величавое, истинно свадебное на&#160;залитом луною стуле…
+</p><p>Тогда сестра Вальбурга, как&#160;бы радостно принявшая божественное позволение, поднялась из&#160;своего алькова с&#160;бледно-лиловыми занавесками. Проснулась&#160;ли&#160;она вполне, или&#160;находилась немного в&#160;состоянии сомнамбулы и&#160;отдавалась иллюзии своей мечты?
+</p><p>Счастливая и&#160;красивая, она начала одеваться для&#160;неизвестного супруга, которому предназначалось это брачное приданое. Она надела прежде всего чудные белые башмачки, продолжавшие блестеть в&#160;темноте, бледные и&#160;хорошо сидевшие на&#160;ее ногах, как&#160;парочка голубей. Затем она надела свое просторное муаровое платье, точно окутывавшее ее неподвижными глыбами снега и&#160;хорошо пристегивавшееся снежинками.
+</p><p>Когда она сделала насколько шагов, комната показалась ей серебряной, а&#160;позади нее образовалась тень. Можно было&#160;бы&#160;подумать, что&#160;ее юбка бушевала.
+</p><p>Это была теперь небесная новобрачная; для&#160;того, чтобы идти к&#160;алтарю, недоставало только кружевного вуаля, который оттенил&#160;бы&#160;немного ее лицо, слишком розовое, и&#160;соединил&#160;бы&#160;в один белый цвет последний день ее девственности.
+</p><p>По&#160;этой причине сестра Вальбурга приняла вдруг очень беспокойный и&#160;огорченный вид. Ее башмаки по&#160;божественной милости в&#160;эту чудесную ночь легко изменились в&#160;светлые шелковые туфельки; ее платье также приняло другой вид, так как&#160;не трудно было обратить мрачную материю в&#160;светлый шелк. Но&#160;где найдет лунный свет необходимую ткань для&#160;кружевного вуаля, без&#160;которого она не&#160;может отправиться в&#160;церковь, где должно быть совершено таинство?
+</p><p>Как&#160;возможна подобная забывчивость и&#160;как этому помочь?
+</p><p>Молодая монахиня была этим очень озабочена; поспешно она ходила по&#160;комнате, искала везде нежного, но&#160;столь существенного украшения. (Ах, вуаль! — предмет лихора дочных поисков, в&#160;последнюю минуту недостающий всегда и&#160;всем!).
+</p><p>Вдруг она вскрикнула и&#160;остановилась на&#160;месте, как&#160;бы пораженная прелестью столь прекрасного предмета, внезапно бросившегося ей в&#160;глаза: там, в&#160;большом окне, разрезанном лунным светом, висел между стеклами вуаль. Превосходный, тяжелый, вышитый вуаль, более пышный, чем вуаль Мадонны во&#160;время майских служб!
+</p><p>Чудесное кружево, какого она никогда не&#160;видала, какого не&#160;могут создать руки всех монахинь… целый искусственный цветник, состоящий из&#160;распустившихся в&#160;холодную весну неподвижных цветов…
+</p><p>Сестра Вальбурга подошла к&#160;нему с&#160;радостным волнением. Точно пробил час свадебной церемонии и&#160;она захотела сорвать кружево со стекла, снять нежный приготовленный вуаль, необходимое прибавление к&#160;ее брачной одежде…
+</p><p>Но&#160;нежная ткань противилась ее желанию; сколько она ни&#160;старалась уловить все изгибы кружев, чтобы обратить свои усилия на&#160;эту более прочную сторону вуаля, он&#160;не поддавался и&#160;казался приросшим к&#160;стеклу…
+</p><p>В&#160;беспокойстве и&#160;волнении она еще сильнее оттягивала, спрашивала себя, какие незаметные булавки, какие еще неразрезанные и&#160;нечаянно забытые нити, несмотря на&#160;все ее усилия, привязывали так крепко чудный кружевной вуаль к&#160;стеклу окон…
+</p><p>Напрасно! Ажурная ткань распускалась под&#160;ее пальцами, в&#160;ней обнаруживались зияющие отверстия. Между тем монахиня непременно хотела притянуть к&#160;себе этот необыкновенный вуаль. В&#160;ее движении чувствовалось нетерпение, она волновалась с&#160;надеждою, которая быстро уничтожала все вышитые цветы, все вывязанные папоротники.
+</p><p>Тюль поддался в&#160;свою очередь, и&#160;весь вуаль, весь тонкий гипюр разорвался под&#160;твердостью ее ногтей.
+</p><p>Вдруг — зашла&#160;ли&#160;луна на&#160;утренней заре? был&#160;ли&#160;это конец сна или&#160;чуда? — сестра Вальбурга, пробудившись, очнулась в&#160;своей еще темной комнате, в&#160;то время как&#160;утренний колокол будил монахинь. Поспешно она надела свой мрачный наряд, зашнуровала свои черные башмаки, вспоминая все&#160;же о&#160;своем лучезарном сне и&#160;взглядывая, с&#160;неопределенною грустью, по&#160;направлению к&#160;окну — на&#160;кружевной вуаль из&#160;инея, покрывавший стекла.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Псалмы"><span id=".D0.9F.D1.81.D0.B0.D0.BB.D0.BC.D1.8B"></span>Псалмы</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;section=7" title="Редактировать раздел «Псалмы»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В&#160;церкви, во&#160;время воскресных и&#160;праздничных служб, сестры общины занимают клирос. Они — неискусные певицы, отличаются только небольшими голосами, поют по&#160;инстинкту и&#160;по памяти, как&#160;маленькие дисканты в&#160;приходской церкви. Даже та из&#160;них, которая поет соло, не&#160;более их сведуща: каждая из&#160;ее нот сомневается сама в&#160;себе, дрожит, как&#160;капля воды, колеблется, как&#160;только что&#160;зажженная свеча. Гимн развертывается наудачу, волнуется, парит, за&#160;тихает, увеличивается без&#160;причины — всегда очень нерешительный! Большую прелесть заключает в&#160;себе эта хрупкость пения, столь непрочного, как&#160;стекло, и&#160;еще менее смелого оттого, что&#160;оно должно заключать в&#160;свою прозрачность неизвестный язык. Ах. серебристые латинские созвучия — Gloria и Angus Dei — какую болезненную нежность они&#160;получают в&#160;женских устах, облетая с&#160;них листочками, как&#160;цветы, названия которых им неизвестны!
+</p><p>К&#160;счастию, в&#160;церковном пении встречается унисон, хоровые псалмы, которыми боязливые певчие могут объединиться, поддержать друг друга. Тогда, в&#160;тиши церкви, единодушное пение вырабатывается, как&#160;нежное, тонкое кружево, воздушное, рожденное почти из&#160;обнаженного воздуха, точно чудо. Сестры как&#160;бы соединяют свои наивные ноты, располагают отдельные нити своих голосов на&#160;мрачном бархате органа. Каждая из&#160;них прибавляет свой цветок к&#160;общему плетению, работает над&#160;вокальным кружевом, которое изменяется с&#160;каждою нотою до&#160;тех пор, пока, наконец, на&#160;мрачном бархате органа не&#160;появится псалом в&#160;виде подлин ного кружева.
+</p><p>Собравшиеся бегинки, на&#160;коленях у&#160;аналоя, слушают. Чудесная музыка! Она захватывает их, убаюкивает, располагает к&#160;мистическим волнениям… Ах, эти голоса, столь мало принадлежащие устам, скрывающие их пол; эти голоса, нежные как&#160;вата, свежие, как&#160;вода фонтана, вкрадчивые, как&#160;ветер в&#160;деревьях, разносящийся под&#160;сводами церкви как&#160;ладан! Неужели это человеческие голоса? Разве это донося тся голоса сестер с&#160;клироса? Слишком нежное пение, более не&#160;принадлежащее земле… Бегинки закрывают глаза, отдаются экстазу… Это поют ангелы… И&#160;музыка нисходит к&#160;ним, как&#160;небесная сеть, захватывает их души и&#160;увлекает к&#160;Богу через&#160;серебристое море.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Сомнения"><span id=".D0.A1.D0.BE.D0.BC.D0.BD.D0.B5.D0.BD.D0.B8.D1.8F"></span>Сомнения</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;section=8" title="Редактировать раздел «Сомнения»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В&#160;одном Бегинаже древнего, маленького мертвого города Брюгге жила бегинка, потерявшая рассудок, в&#160;тихом помешательстве; ее держали в&#160;монастыре Св. Крови, потому что&#160;она была безобидна. Но&#160;из&#160;уважения к&#160;духовной одежде ей не&#160;позволяли больше одеваться, как&#160;монахине и&#160;даже как&#160;послушнице. Она ходила в&#160;светском платье; сестры оставляли ее в&#160;покое, немного наблюдали за&#160;ней. Она блуждала по&#160;коридорам, по&#160;саду, садилась в&#160;рабочей комнате, очень тихо, пока находился там только обыкновенный состав общины, который она смутно узнавала.
+</p><p>Ее странное безумие происходило от&#160;тоски по&#160;чистоте. Она почти всегда сидела, не&#160;смея двинуться, так как&#160;боялась смять свою одежду, запачкать ее, думая, что&#160;складка или&#160;пятно могут нарушить ее всегда чистое убранство. Присутствие чужого лица, близко находившегося около нее, внушало ей бесконечную тревогу. Она была еще молода, почти хорошенькая, с&#160;цветом лица белой азалии, с&#160;большими ласковыми глазами, но&#160;без выражения, как&#160;бы обнаженными, точно маленькие приемные, где никого нет…
+</p><p>Она всегда держала в&#160;руках платок — маленький четырехугольник из&#160;батиста и&#160;кружев — как&#160;это делают первые причастницы, с&#160;такою&#160;же осторожностью и&#160;таким&#160;же тихим жестом.
+</p><p>Время от&#160;времени она дотрагивалась до&#160;себя этим сложенным платком, она точно что-то&#160;стряхивала с&#160;себя, желая сбросить невидимую упавшую на&#160;нее пылинку, молекулу безмолвия…
+</p><p>Что&#160;делало ее безумие еще более трагическим, придавало ему, несмотря на&#160;ее кротость, карикатурный и&#160;все&#160;же трагический вид, — это одна ненормальная подробность: она носила на&#160;голове кусок бумаги, сложенный, опущенный к&#160;вискам, подхваченный булавками у&#160;подбородка, расправленный на&#160;волосах в&#160;виде пойманной и&#160;жалобной птички. У&#160;нее образовался таким образом бедный бумажный головной убор, под&#160;которым безумная все&#160;же скрывала свои волосы; она постоянно поправляла их, поминутно очищала их, стряхивая своим платком возможную грязь, тонкую пылинку, бесконечно сыплющуюся из&#160;песочницы веков.
+</p><p>Прежде чем дойти до&#160;такого упадка, несчастная бегинка, по&#160;имени сестра Мария, была одною из&#160;самых примерных и&#160;умных сестер в&#160;Бегинаже, в&#160;этом нежном Бегинаже, где ей так хотелось всегда жить спокойною и&#160;чистою жизнью ненюфара, растущего на&#160;воде. Она напоминала его, ничто земное более не&#160;привлекало ее и&#160;не угрожало осквернить ее душу, напоминавшую венчик цветка. Она всецело принадле жала Богу, как&#160;и желала этого. Однако с&#160;самого рождения она чувствовала себя несчастной.
+</p><p>Счастье все&#160;же зависит от&#160;души человека. А&#160;сестра Мария с&#160;такою душою, какая у&#160;нее была, не&#160;могла быть счастлива даже на&#160;небе. Бог не&#160;мог&#160;бы&#160;вполне утешить ее. Какая&#160;же душа была у&#160;нее? Ее душа была охвачена чем-то&#160;вроде болезни совести: вечными сомнениями.
+</p><p>А&#160;сомнения — это пытка духовной жизни. Кто сочтет все сомнения, более многочисленные, чем грехи, чем подразде ления грехов? Неожиданно создавшееся поколение, вибрио ны, беспредельно мелкие, все увеличивающиеся, как&#160;паразиты веры!.. Благочестие, доведенное до&#160;безумия; анализ, достигший бесконечной величины; мысленная язва, захваты вавшая все чувства: зрение, слух, осязание, вкус, обоняние, проникавшая во&#160;все поры, с&#160;целью превратить существо, сознающее свой долг, только в&#160;несчастного горностая, который будет вменять себе в&#160;преступление даже тень проходя щего облака.
+</p><p>Сестра Мария была несчастна. Сначала она чувствовала сомнения по&#160;поводу своего признания. Не потому, чтобы она жалела, что&#160;отдалась Богу. Но&#160;принял&#160;ли&#160;ее Бог? Не было&#160;ли&#160;невежеством с&#160;ее стороны, самонадеянностью, пагубным тщеславием — считать себя избранною и&#160;достойною поступления в&#160;монастырь? Может быть, она жила там, как&#160;незваная гостья, как&#160;иностранка, которой позволяют жить в&#160;доме, пока нет хозяина. Даже если предположить, что&#160;Господь, действительно, позвал ее, то&#160;в таком случае отвечает&#160;ли&#160;она Его милости? И&#160;здесь сомнения терзали ее.
+</p><p>Она не&#160;вполне выказывала себя усердной. Она не&#160;доста точно была чиста! Разумеется, она обдумывала свои желания, она не&#160;совершала смертных грехов, за&#160;ней не&#160;было ни&#160;одной постыдной вины, которую она едва знала по&#160;имени. Но&#160;простительные грехи обильно наполняли ее душу: грехи зависти, злословия, лжи, рассеянности во&#160;время служб, сокращения молитв. Каждый из&#160;этих грехов в&#160;отдельности казался только незначительным, но&#160;вместе, при&#160;общем пе речне, они&#160;портили, стирали, оскверняли душу. Сестра Мария думала, что&#160;простительный грех можно сравнить с&#160;пылью. Ее очень трудно рассмотреть в&#160;жилищах, пока она не&#160;накопится. Только после того, как&#160;о ней забудут в&#160;течение нескольких дней, она покроет мебель трауром из&#160;своего мелкого умершего пепла. В&#160;обыкновенных семьях, за&#160;тече нием жизни, детьми, всякими делами, люди мало обращают внимания на&#160;пыль. Но&#160;в&#160;Бегинаже соблюдается строгая чистота: пол всегда хорошо вымыт и&#160;красен, как&#160;сердце на&#160;изображениях Иисусова Сердца, медь на&#160;замках и&#160;задвижках блестит так, что&#160;все предметы отражаются в&#160;них; белье, скатерти в&#160;столовой, тюлевые занавески на&#160;окнах отличаю тся новою и&#160;чистою белизною, точно они&#160;выбелены ночью лунным светом. Все кажется новым, свежим, убранным, все на&#160;месте. Каждая келья отличается удивительною чистотою. Точно на&#160;нее снизошла благодать. Не нужно&#160;ли&#160;видеть в&#160;этом какой-нибудь символ? Совесть человеческая в&#160;Бегинаже должна была содержаться лучше, чем где-либо. Проститель ный грех — это ежедневная пыль души!
+</p><p>Надо было одинаково стирать ее каждое утро, одерживать победу над&#160;всеми сетями простительного греха, как&#160;в мона стырях одерживают победу над&#160;сетями пыли!
+</p><p>Сестра Мария была несчастна. Она постоянно вообража ла себе, что&#160;впадала в&#160;бесконечную цепь мелких преступле ний, и&#160;сомнения сейчас&#160;же охватывали ее душу: не&#160;развле кается&#160;ли&#160;она на&#160;секунду, повторяя свои молитвы в&#160;обычное время, когда начинает читать «Отче наш» и&#160;пятьдесят раз «Ave Maria».
+</p><p>Иногда, когда она уже ложится в&#160;постель и&#160;сон охваты вает ее, она вдруг чувствует беспокойство… Хорошо&#160;ли&#160;произнесла она свою вечернюю молитву? Не было&#160;ли&#160;это машинальным движением губ? Тогда она встает, опускается снова на&#160;колени возле своей постели и&#160;снова начинает молиться, иногда дрожит, если это случается зимою, когда мороз рисует узоры на&#160;окнах.
+</p><p>Грех чревоугодия тоже очень беспокоил ее. Каждая бегинка завтракает и&#160;ужинает на&#160;свой собственный счет, покупая сама себе еду, которую она поглощает перед&#160;шкапом в&#160;столовой, где каждая из&#160;них убирает свою посуду. Сестра Мария удовлетворялась кофе и&#160;хлебом без&#160;масла, насколько возможно мало, чтобы не&#160;находить удовольствия в&#160;этой совсем простой пище. Но&#160;обед съедался вместе, приготовлялся на&#160;средства общины. В&#160;некоторые дни, в&#160;воскресные и, в&#160;особенности, в&#160;четыре больших годовых праздника, готовили хороший обед: стол украшался курами, пирогами; каждой бегинке наливали стакан турского вина, маслянистого золотого вина.
+</p><p>Это была большая радость в&#160;среди бегинок, которые в&#160;своем кругу веселились от&#160;этой дозволенной пищи, точно они&#160;присоединялись к&#160;христианскому веселью этого дня. После обеда языки развязывались, и&#160;они долго разговаривали с&#160;живою болтовнёю веселых голосов в&#160;маленьких садах с&#160;геранью и&#160;священной зеленью, посаженных перед&#160;кельями.
+</p><p>Но&#160;сестра Мария, как&#160;только кончался обед, запиралась в&#160;своей комнате, озабоченная, огорченная. Она снова вкусила удовольствие от&#160;еды.
+</p><p>Между тем, она обещала себе, обещала ангелу-хранителю следить за&#160;собой по&#160;отношению к&#160;греху чревоугодия. Это была более чем легкая вина, простительное упущение. Разве чревоугодие не&#160;фигурирует в&#160;числе главных грехов? Сестра Мария, очень испуганная, принималась перечислять их по&#160;порядку, как&#160;указано в&#160;катехизисе: гордость, скупость, сладострастие, зависть, чревоугодие… чревоугодие, да! один из&#160;семи главных грехов! Она заливалась слезами. Значит, это был смертный грех. Боже мой! Боже мой! Маленькая бегинка, вся красная, падала на&#160;колени. Что, если она сейчас&#160;же умрет! Тогда она попадет не&#160;только в&#160;чистилище, но&#160;в ад. Она пыталась раскаяться. Ей хотелось&#160;бы&#160;бежать в&#160;церковь исповедаться. Но&#160;в&#160;такие праздники священник не&#160;ждал исповеди. Тогда, дрожа и&#160;волнуясь еще более оттого, что&#160;она была одна в&#160;комнате, сестра Мария спускалась к&#160;своим подругам. Ей очень хотелось&#160;бы&#160;спросить кого-нибудь из&#160;них, является&#160;ли&#160;чревоугодие, попавшее в&#160;перечень главных грехов, — смертным грехом. Но&#160;она не&#160;решалась, боясь теперь оскорбить ближнего и&#160;тем самым усилить свою вину.
+</p><p>Сестра Мария была несчастна. Она постоянно опускала глаза в&#160;землю, когда выходила, когда шла в&#160;город отнести заказанные кружева, даже когда была в&#160;церкви, потому что&#160;прихожане стоят вместе с&#160;бегинками, и&#160;совершенно так, как&#160;и на&#160;улицах, ее взгляд мог встретиться с&#160;взглядом мужчины. Этого она боится больше всего! Название этого греха уже заставляет ее краснеть, если она встречает его в&#160;тексте или&#160;испытывает свою совесть перед&#160;исповедью. Она только смутно понимает, что&#160;означают шестая и&#160;девятая заповеди — ужасные источники греха, куда она никогда не&#160;впадала; но&#160;инстинкт указал ей, что, смотря на&#160;мужчину, можно попасть в&#160;эти источники дурных мыслей, дурных желаний… Вот почему она избегает заботливо, почти с&#160;ужасом, того, что&#160;ведет к&#160;этому греху. Несколько месяцев тому назад она думала, что&#160;умрет от&#160;тревоги, когда заметила одного молодого человека, который каждое воскресенье становился в&#160;церкви около колонны, недалеко от&#160;ее места; он&#160;старался рассмотреть ее, нагибался, чтобы лучше увидеть ее лицо, все закутанное в&#160;складки большого белого покрывала. Каждый раз она чувствовала, что&#160;он был здесь; не&#160;потому, что&#160;смотрела на&#160;него, — она никогда не&#160;осмеливалась взглянуть в&#160;его сторону, — но&#160;потому, что&#160;чувствовала, как&#160;тень ложилась на&#160;ее покрывало, черная и&#160;холодная, как&#160;тень целой башни.
+</p><p>Что&#160;она сделала, чтобы возбудить в&#160;нем эту отвратительную страсть, и&#160;какое отражение возможного греха носила она на&#160;своем лице, чтобы возбудить это прилежание каждого воскресенья и&#160;это упорство в&#160;его надежде? Однажды, когда она шла по&#160;городу, желая навестить одну из&#160;своих больных подруг, она встретила этого мужчину, который, узнав ее, принялся идти за&#160;ней, в&#160;то время как&#160;она, испуганная, устремилась через&#160;улицы, набережные, мостовые в&#160;Бегинаж.
+</p><p>Наверное, это был сам Сатана, искушавший ее в&#160;его образе, желавший сказать ей то, что&#160;могло убить навеки лилии ее души.
+</p><p>Но, если она кропотливо предостерегала себя от&#160;этого искушения, ей все казалось, что&#160;на ее душу посыпалась большая пыль, точно немного отбросов пепла из&#160;адского
+</p><p>костра. Ах, эта вечная неуловимая пыль грехов! Тем более, что&#160;в это время как&#160;раз пришлась среда на&#160;первой неделе Великого поста и&#160;вместе с&#160;нею — обычное осенение крестом, являющееся точно символом, внешним признаком состояния совести. В&#160;то&#160;же время священник за&#160;обеднею говорил проповедь на&#160;текст из&#160;священного писания: «ибо прах ты!» — и&#160;бегинке казалось, что&#160;он говорит только для&#160;нее, чтобы предупредить ее от&#160;имени Бога, уличить перед&#160;всею общиною виновницу, — точно лица всех ее подруг были запятнаны нечистотою ее души.
+</p><p>Это обстоятельство увеличило в&#160;ее уме значение этой встречи, придало ей нелепую серьезность, точно действительно вина тяготила ее душу, будто она одобрила эту кощунственную настойчивость молчаливым согласием своих глаз. Она, сама не&#160;зная этого, может быть, даже не&#160;подозревая, видела грех, свое искушение.
+</p><p>Не было&#160;ли&#160;это почти уступкою?
+</p><p>Ага, этот ужасный грех сладострастья, казавшийся завершением всех ее поступков, всех мыслей, всех движений… Так море в&#160;маленьком приморском городе, где она родилась, является концом всех улиц.
+</p><p>В&#160;особенности вечером и&#160;утром она была охвачена мыслью о&#160;грехе, точно перемежающейся лихорадкой, когда ей нужно было раздеваться, переменять белье.
+</p><p>Ужасная минута! Какой страх оскорбить своего ангела- хранителя, открыв ему уголок своего тела, показав ему часть своей шеи или&#160;руки! Страх — оскорбить самое себя. Ангелы были, действительно, чистыми, так как&#160;у них нет тела, а&#160;только одна голова и&#160;крылья, как&#160;на изображениях Успения в&#160;церквах. Чтобы немного приблизиться к&#160;ним, надо было забыть о&#160;своем теле, жить так, точно его нет, еще лучше — не&#160;знать его. Разумеется, святые не&#160;знали совсем своего тела. В&#160;свою очередь бегинка умудрялась хорошо скрываться в&#160;кружевах и&#160;тканях. Она закрывала глаза, когда приходилось менять их; и, как&#160;слепая, она прикасалась к&#160;своему телу с&#160;недоверием, точно каждая часть ее тела была сетями, от&#160;которых она сейчас избавлялась.
+</p><p>Сестра Мария была несчастна. Исповедь, которая могла&#160;бы&#160;быть вечным лекарством сомнений, в&#160;конце концов только усиливала их.
+</p><p>Сколько мрачных часов, — разумеется, самых мрачных в&#160;ее жизни, — она проводила в&#160;ожидании таинства покаяния! Сначала в&#160;своем уме она искала грехов, которые могла совершить, к&#160;этому прибавлялся страх новых грехов, когда она углублялась в&#160;эти передачи, списки всех ядовитых цветов души, где могло&#160;бы&#160;остановить ее на&#160;минуту одно преступное любопытство; затем она представляла себе совершенные ею грехи, опрашивая свою совесть, взвешивая все свои желания, освещая все свои малейшие мысли, зачатки проектов, самые неуловимые и&#160;неопределенные образы, точно маленькие паутинки мельчайших, едва обрисовавшихся мечтаний. Она искала, не&#160;найдется&#160;ли&#160;скрытого во&#160;мраке какого-нибудь смертного греха, который нужно было из&#160;гнать, как&#160;демона… Во&#160;всяком случае, ее совесть была полна простительных грехов… Ах, да, эта бесконечная пыль, под&#160;видом которой показывались все ее вины, которая покрыва ла своим серым оттенком всю ее душу, которая делала неузнаваемым все, что&#160;когда-то&#160;украшало ее: обеты, блеск ее добродетели, лилии ее, безбрачия, кропильница ее слез, вплоть до&#160;этого зеркала ее души, где теперь стиралось присутствие Бога…
+</p><p>Пыль, тонкая и&#160;неумолимая, многочисленная, точно все дюны, целая цепь песчаных холмов из&#160;маленького приморского города, где она родилась, вошла в&#160;ее душу!
+</p><p>Считая себя греховной и&#160;падшей, она долгое время ощущала тревогу. Затем она кончала тем, что&#160;решалась войти в&#160;исповедальню. Она бросалась туда, как&#160;бросаются в&#160;воду. Она дрожала от&#160;страха и&#160;стыда, считая себя в&#160;положении жалкой души, отягченной грехами сильнее, чем всякая другая бегинка. Никогда священник не&#160;слыхал, вероятно, подобной исповеди. Она должна была казаться ему скрытым осквернением Общины, совсем черной овцой этого пасхального стада, которое на&#160;другой день должно было просить об&#160;облатке…
+</p><p>С&#160;воспаленной головой, вся красная, пряча, насколько можно, свое лицо, сестра Мария, наконец, быстро признавалась в&#160;своих ошибках. Затем священник давал ей советы. Но&#160;она, тотчас охваченная сомнениями, воображала себе, что&#160;не все сказала, скрыла свои грехи. Она вкратце повторяла их перечень, так как&#160;часто записывала их. Нет, она ничего не&#160;пропустила. Она еще искала, медлила, закидывала священника вопросами казуистики, всякими тонкостями. Тогда он, узнав ее, обрывал беседу несколькими словами утешения и&#160;давал ей отпущение грехов.
+</p><p>Она выходила из&#160;исповедальни, немного утешившись, счастливая на&#160;одну минуту, освеженная источником Таинства, вернувшим ей светлую душу. Но&#160;едва только она опускается на&#160;колени в&#160;церкви, повторяя молитвы покаяния, как&#160;вдруг она вспоминает подробности своей исповеди. Сказала&#160;ли&#160;она на&#160;самом деле все? Ощутила&#160;ли&#160;она настоящее раскаяние? По&#160;крайней мере — достаточное, с&#160;ненавистью к&#160;своим грехам и&#160;с твердым решением больше не&#160;впадать в&#160;грех? Каждый раз бесконечные сомнения, душевная тревога выступала на&#160;место каждого греха, чтобы побудить этих прощенных мертвецов вопросить прах, где они&#160;разлагались, заставить говорить их уста. Но&#160;эти мертвые грехи молчали. Бегинка ничего не&#160;узнавала. Волнение снова охватывало ее душу. Получила&#160;ли&#160;она прощение? Имело&#160;ли&#160;значение это отпущение грехов?
+</p><p>Однажды среди этих обычных беспокойств появилась более сложная и&#160;сейчас&#160;же — более определенная забота: разумеется, она все сказала с&#160;полным раскаянием; но&#160;она торопилась с&#160;перечнем грехов. Конечно, это происходило не&#160;от желания сбросить вниз свою тяжелую ношу, но&#160;с целью облегчить ее, чтобы она показалась незамеченной, ослабленной, немного неясной. Преступная уловка боязливой совести! Она захотела хитрить с&#160;Богом. Это было еще постыднее и&#160;хуже. Признаваясь во&#160;всех своих грехах, она стремилась прикрыть их совокупность, соединить их в&#160;быстро убегающее стадо, точно каждая овца не&#160;нуждалась в&#160;прощении и&#160;кресте Христа на&#160;своей шерсти. Не было&#160;ли&#160;это отчасти их прикрытием? Тогда, значит, она дурно исповедалась?
+</p><p>Здесь дело шло вовсе не&#160;о сомнениях, об&#160;этих иногда, может быть, преувеличенных сомнениях, о&#160;которых предупредил ее сам священник. Ее вина была очевидна…
+</p><p>Что&#160;станется с&#160;ней? Как&#160;предстать ей на&#160;другой день к&#160;св. Престолу, чтобы прибавить еще новое кощунство, более гнусное, чем профанация таинства раскаяния? С&#160;другой стороны, как&#160;остаться на&#160;своем месте, когда вся община направится к&#160;чаше, где сверкает облатка? Это значило&#160;бы&#160;публично признать себя виновной и&#160;оскорбить своих благочестивых подруг… Было&#160;бы&#160;лучше — остаться в&#160;комнате и&#160;болезнь сделать предлогом. Но&#160;это была&#160;бы&#160;тягостная ложь, которая только еще больше расстроила&#160;бы&#160;ее душу…
+</p><p>Вечер протекал медленно, жестоко. Сестра Мария очень сильно огорчалась, приходила в&#160;отчаяние, — охваченная беспокойством до&#160;такой степени, что&#160;ощущала почти физическую боль. Минутами ей казалось, что&#160;ноша грехов становится легче. Мало-помалу приходили размышление и&#160;спокойствие. На&#160;коленях пред своей постелью, в&#160;темной комнате она молилась, повторяя молитвы покаяния, искренние и&#160;полные столь сильного горя, что&#160;этого даже было&#160;бы&#160;достаточно, по&#160;мнению богословия и&#160;священников, чтобы Бог сам простил ее. Действующая на&#160;душу тишина летней ночи, однако, проникла к&#160;ней через&#160;открытое окно. Она поднялась, подошла посмотреть на&#160;ночь; все неясные предметы в&#160;ограде мало-помалу вырисовывались: башня казалась темнее от&#160;мрака, долгий шелест тополей, похожий на&#160;шум шлюз, нарушал безмолвие. Все казалось возвышенным, более нежным. Сестра Мария умиротворялась. Она искала невидимое небо, все темное, без&#160;единой звездочки, подобно тому как&#160;она ребенком, в&#160;темные вечера, старалась увидеть море в&#160;маленьком приморском городе, где она родилась…
+</p><p>Небо тоже скрывалось. Небольшой ветерок пробегал по&#160;нему, как&#160;отпущение грехов; монахиня охладила свое лицо в&#160;темноте, освежающий источник которой принес ей успокоение.
+</p><p>Теперь она менее огорчалась. Она яснее все видела; она преувеличивала свое положение и, раздумывая, вспоминая обо всем, она не&#160;чувствовала себя более виновной, потому что&#160;не имела намерения вредить своей исповеди. Всегда эти проклятые сомнения привязывались к&#160;лучшим минутам, распространяясь сейчас&#160;же, увеличиваясь одно от&#160;другого, точно червь ее души!
+</p><p>У&#160;нее горело во&#160;рту. Чтобы освежить свою лихорадку, она залпом выпила стакан воды. Затем, разбитая, с&#160;утомленною душою от&#160;всех этих волнений, она бросилась на&#160;постель, быстро заснула, не&#160;подумав даже, под&#160;влиянием этого внезапного упадка сил, затворить окна… Мрак продолжал царить в&#160;ее комнате; врывался легкий ветерок, шелест тополей, неясный ночной ропот, точно дыхание уснувших предметов, наряду со звоном часов на&#160;колокольне в&#160;церкви.
+</p><p>В&#160;ту минуту, как&#160;бегинка засыпала, она слышала один из&#160;этих ударов единственного колокола, звонившего неизвестно какие полчаса на&#160;циферблате. Затем она впала в&#160;тяжелый сон, тщетно пытаясь уцепиться за&#160;уходивший звук…
+</p><p>На&#160;другой день, проснувшись, сестра Мария заторопилась. Она была счастлива, оправившись после тяжелого сна. Солнце весело смотрело над&#160;оградою на&#160;красивом, совсем голубом небе нежного оттенка лент конгреганисток. Уже некоторые, более усердные монахини шли в&#160;церковь. Это был день общего причастия. Сестра Мария ходила по&#160;своей комнате задумчиво. Она заботливо приколола свой головной убор, чтобы быть достойной даже по&#160;своему наряду представиться Господу. Она чувствовала себя дарохранительницею…
+</p><p>Она отправилась в&#160;церковь, затем, стоя на&#160;своем месте, она в&#160;последний раз проверила себя, подобно тому как&#160;ризничья бросает последний взгляд на&#160;алтарь перед&#160;приходом процессий. Но&#160;вдруг новое и&#160;еще более сильное, чем остальные, беспокойство всплыло над&#160;ее мимолетным успокоением. Она вспомнила, что&#160;выпила стакан воды в&#160;течение ночи. В&#160;котором часу? Она едва помнила. Сон одолел ее: но&#160;сейчас&#160;ли? не&#160;было&#160;ли&#160;это очень поздно? Сколько было времени, когда звонил колокол? Она искала в&#160;своей смутной памяти… Да, был один удар, после чего она сразу заснула, не&#160;сознавая ничего… Один удар, надолго поколебавший безмолвие, один удар, упавший среди тишины, точно камень, падающий в&#160;воду, на&#160;поверхности которой показываются круги. Она погрузилась в&#160;глубину этой воды… Она больше ничего не&#160;знала… Который час или&#160;полчаса пробило? Было&#160;ли&#160;это полчаса одиннадцатого? полчаса двенадцатого? Может быть, и&#160;час? В&#160;таком случае — и&#160;это больше всего пугало ее — она теперь будет приобщаться не&#160;натощак. Какая глупость — напиться воды так случайно, не&#160;отдавая себе отчета, не&#160;объясняя… Что&#160;теперь ей делать? Еще раз она просила, умоляла Бога просветить ее. Она отдалась во&#160;власть бесконечной тревоги… Как&#160;всегда, богослужение охватило ее, настолько сильно увлекло ее из&#160;лабиринта ее сомнений, что&#160;заставило действовать помимо ее воли. Обедня приближалась к&#160;причастию.
+</p><p>Все собравшиеся бегинки поднялись, направились к&#160;алтарю, в&#160;то время как&#160;орган распространял новые, светлые, можно сказать, вышитые псалмы, подобно покровам св. Престола. Сестра Мария машинально пошла. Она получила, в&#160;свою очередь, облатку и, все&#160;же радуясь, поспешно проглотила ее с&#160;замирающим сердцем, испытав тотчас мучительное беспокойство при&#160;мысли, что&#160;проглотила яд Вечности, изранила своими зубами священный хлеб, где должна была раскрыться рана Христа…
+</p><p>Такова была в&#160;течение нескольких месяцев страдающая душевная жизнь сестры Марии.
+</p><p>Затем ее рассудок стал затуманиваться. Теперь ее безумие, благодаря какому-то&#160;таинственному переходу, состояло именно в&#160;том, что&#160;делало материальным ее беспокойство. Сомнения получили внешний вид. Вследствие того, что&#160;она боялась открыть даже простительные грехи, благодаря тому, что&#160;она была убеждена, что&#160;рассудочная пыль омрачает ее душу, она дошла до&#160;этой замены, начав с&#160;такою&#160;же тревогою опасаться действительной пыли. Ах! Эта пыль, сыплющаяся беспрестанно, тайная, но&#160;неумолимая, падающая как&#160;снег, маленькими хлопьями, — пыль, которая мало-помалу меня ет ее внешний вид, пачкает платье, бумажный головной убор, покрывает волосы мертвым пеплом времени, делает из&#160;нее что-то&#160;заброшенное, разрушенное. Она начинает напо минать старую, находящуюся в&#160;пренебрежении мебель жилища отсутствующего или&#160;умершего хозяина. Она присутствует теперь при&#160;неминуемом засыпании песком не&#160;своей души, сознание которой отныне погибло, а&#160;своего тела, покрываемого этой желтой пылью, являющейся символом и&#160;даже семенем Небытия.
+</p><p>Вот почему можно было ее видеть, бледную, безумную монахиню, подчас расправляющую на&#160;своей голове смешной бумажный убор. Иногда можно было видеть, как&#160;она беспрестанно сухими ударами своего маленького платка ударяла себя, стряхивая с&#160;себя пыль.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Цветы"><span id=".D0.A6.D0.B2.D0.B5.D1.82.D1.8B"></span>Цветы</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;section=9" title="Редактировать раздел «Цветы»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Бездетные женщины в&#160;особенности любят цветы. Благо даря этому они&#160;бессознательно становятся немного матерями, интересуются чем-то&#160;хрупким, с&#160;трудом вступающим в&#160;жизнь.
+</p><p>Монахини тоже подвержены таинственному закону, этому перемещению инстинкта. Вот почему бегинажи так цветущи. Лужайка в&#160;центре усыпана белыми растениями, — небольшими венчиками, точно из&#160;выглаженной ткани, придающими ей вид лужайки из&#160;картины Жана Ван-Эйка «Поклонение Агнцу».
+</p><p>На&#160;всех окнах горшки с&#160;гераниумом, фуксией примешивают свои живые букетики к&#160;белоснежным занавескам, не&#160;поражают этим глаз, благодаря слиянию с&#160;обстановкой. Разве краска на&#160;устах у&#160;первых причастниц не&#160;соответствует тюлю их покрывала?
+</p><p>Но&#160;любимыми цветами общины являются менее светские цветы, скорее принадлежащие религии и&#160;алтарю, — например, лилия, из&#160;которой св. Иосиф делает себе скипетр, которую предлагает св. Деве Марии, как&#160;облатку из&#160;цветов, точно держит в&#160;руках свою собственную душу. Лилия — совсем готическая. Она похожа на&#160;бегинок!
+</p><p>Она тоже имеет вид цветка, посвятившего себя Богу: это не&#160;столько венчик, сколько головной убор, совсем белый, совсем литургический. Можно подумать, что&#160;его поливают только священной водой. Цветок без&#160;пола, ангельский цветок, на&#160;который всегда нисходит благодать.
+</p><p>Таким образом, сами растения в&#160;бегинажах поддаются мистическим аллегориям. В&#160;маленьких садиках, перед&#160;каждою кельею послушная зелень растет в&#160;виде инициалов св. покровительниц, Иисусова Сердца, пронзенного каким-нибудь мечом из&#160;зелени.
+</p><p>Во&#160;время процессии в&#160;праздник Тела Господня любовь бегинок к&#160;цветам усиливается и&#160;достигает экстаза. Они&#160;обильно запасаются ими; они&#160;покупают их букетами, целыми снопами и&#160;с самой зари они&#160;начинают, чтобы увеличить их, разделять, разрывать, раздергивать лепесток за&#160;лепестком, точно корпию из&#160;цветов. Наполненные корзины, таким образом, сейчас&#160;же пустеют на&#160;пути приближающейся процессии, в&#160;кривых поворотах их обители; цветочный снег, разрисованная лавина, разноцветная манна; сестры с&#160;опьянением чувствуют, как&#160;она кружится, несется, бьет ключом на&#160;земле, разрисовывает воздух, прикасается к&#160;их лицу и&#160;рукам, окрашивает их головные уборы, наполняет благоуханием их движения…
+</p><p>Даже зимою они&#160;находят средство утешить себя искусственными цветами: небо помогает им в&#160;этом, поддерживая в&#160;течение сурового декабря и&#160;января на&#160;севере почти постоянно на&#160;их окнах цветы из&#160;инея, серебряные пальмы, папоротники, маргаритки, профили белых роз, — с&#160;которых, может быть, бегинки позаимствовали узоры для&#160;кружев (этих цветов из&#160;инея!), так как&#160;они любят их до&#160;такой степени, что&#160;проводят свою жизнь, стараясь воссоздать их при&#160;помощи ниток.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Любовь_к_белому_цвету"><span id=".D0.9B.D1.8E.D0.B1.D0.BE.D0.B2.D1.8C_.D0.BA_.D0.B1.D0.B5.D0.BB.D0.BE.D0.BC.D1.83_.D1.86.D0.B2.D0.B5.D1.82.D1.83"></span>Любовь к&#160;белому цвету</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;section=10" title="Редактировать раздел «Любовь к белому цвету»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Каждый понедельник площадка бегинажа покрывалась белыми длинными тканями. В&#160;эти дни стирали тонкие церковные ткани, слишком дорогие для&#160;того, чтобы доверять их опасностям хлора и&#160;чужим рукам, между тем как&#160;остальное белье в&#160;общине большею частью отдавали стирать вне монастыря. Здесь были покровы для&#160;алтаря и&#160;св. Престола, из&#160;тонкого батиста, обшитые такими тонкими кружевами, что&#160;к ним надо было дотрагиваться, как&#160;к рисункам паутины; здесь на&#160;траве были уборы сестер с&#160;расправленными перегибами, не&#160;сохранившие даже и&#160;воспоминания о&#160;том, что&#160;они были головными уборами, затем стихари священников, мальчиков из&#160;хора, со складками, точно у&#160;растянутого аккордеона; наконец, небольшие священные ткани, служащие для&#160;дароносицы, сосудов, всего того, что&#160;необходимо для&#160;церковных служб.
+</p><p>Можно было&#160;бы&#160;подумать, что&#160;это — литургическое приданое, складываемое таким образом каждую неделю на&#160;зеленом бархатном газоне, который выделялся среди величественной белизны. Благодаря действию воздуха, голубоватая вода, которой были пропитаны ткани, испарялась, а&#160;горячее солнце объединяло их всех в&#160;абсолютную белизну.
+</p><p>Эта мелкая уборка белья доверялась сестрам-послушницам, а&#160;ответственные работы, полоскание, выжимание, глажение исполнялись самими бегинками. Среди всех тех, на&#160;которых лежала эта обязанность, была одна молодая послушница, по&#160;имени сестра Бега, носившая имя святой, сестры Пепина, — основательницы ордена.
+</p><p>Никто не&#160;относился к&#160;этому более ретиво, кропотливо и&#160;внимательно, чем она, — счастливая доверенною ей обязанностью. Не только потому, что&#160;ее благочестие заставляло испытывать радость, гордое сознание, что&#160;она дотрагивается до&#160;священных предметов, которых, казалось, вода еще не&#160;вполне лишила следов употребления в&#160;церкви и&#160;где минутами она думала найти остаток ладана… Разве в&#160;общине, после того как&#160;колокол замолкнет, не&#160;слышно иногда упорствующего звука…
+</p><p>Разумеется, такой труд для&#160;церковных служб отчасти удовлетворял молоденькую сестру Бегу, но&#160;она чувствовала еще какое-то&#160;невольное и&#160;таинственное удовольствие от&#160;прикосновения к&#160;этому чудному белому белью, где ее пальцы блуждали, любили играть. Ей казалось почти ласкою это прикосновение к&#160;тонким тканям, батисту, более нежному, чем тело ребенка.
+</p><p>Иногда, после пересмотра большого количества тканей, ее охватывало какое-то&#160;оцепенение; она протягивала свои обе руки, точно по&#160;воле ветров, и&#160;готова была окунуться в&#160;них. Ее взоры, как&#160;и ее пальцы, волновались, увлекались, хотя она не&#160;понимала причины странного очарования, уже уходившего, впрочем, далеко от&#160;нее… Она вспоминала, как&#160;она радовалась в&#160;детстве, когда в&#160;воскресенье утром ее мать надевала на&#160;нее чистое белье: чудное ощущение на&#160;себе этого нежного и&#160;свежего полотна! Затем, сев за&#160;стол, она замечала новую, безупречную скатерть, точно замерзшую воду бассейна, сохранившую в&#160;своем зеркале складки, созданные, конечно, движением ветра. Как&#160;надо было быть осторожной, чтобы не&#160;было пятен, хотя&#160;бы&#160;капли вина, на&#160;скатерти! Эта белизна скатертей и&#160;воскресных одежд действовала на&#160;всех; среди серых и&#160;однообразных недель этот день казался ей светлым днем, когда должны были родиться лилии и&#160;лебеди.
+</p><p>Она сама была точно сестрой этих девственных цветов, белоснежных птиц; и&#160;она почувствовала это еще сильнее — точно вернулась к&#160;своему рождению и&#160;природе — в&#160;день своего первого причастия. В&#160;тюлевом белом платье, в&#160;белых перчатках, шелковых белых башмаках, с&#160;молитвенником в&#160;белом слоновом переплете, в&#160;вуале, рисовавшем белыми всю жизнь и&#160;все предметы, она почти дрожала от&#160;радости, точно, наконец, над&#160;ней совершалась ее судьба. И&#160;в&#160;этот день она достигла пароксизма своей любви к&#160;белому цвету, бывшей в&#160;ее душе точно тоскою по&#160;родине или&#160;божественною болезнью…
+</p><p>Вот почему теперь в&#160;Бегинаже Брюгге она чувствовала себя такой счастливой, следуя своему призванию. В&#160;ее маленькой келье почти все было белое. Ее любимый цвет царил в&#160;монастыре, казалось, зарождался сам собою: стены коридора, приемной, рабочей комнаты, были вымазаны штукатуркой; окна были завешаны тюлевыми занавесками; на&#160;подушках для&#160;кружев точно накапливался иней ниток; что&#160;же касается красного пола, то&#160;он как&#160;бы отрекался от&#160;самого себя и&#160;терялся в&#160;мелком белом песке, которым обыкновенно посыпают во&#160;Фландрии пол, — волнообразными рисунками, подобно ру чьям или&#160;дыму.
+</p><p>Во&#160;время службы молоденькая сестра Бега восторгалась еще сильнее, так как, по&#160;правилам Бегинажа, все монахини, идя в&#160;церковь, надевают очень суровое и&#160;длинное белое покрывало, которое привязывается к&#160;головному убору, спускается до&#160;земли, закрывая их совсем. Они&#160;идут на&#160;свои места, опускаются на&#160;колени, скрываясь под&#160;этими покры валами. Если взглянуть с&#160;паперти на&#160;эти сотни бегинок под&#160;такими покрывалами, застывших в&#160;молитве, то&#160;можно поду мать, что&#160;это — замерзший пейзаж, полярный пейзаж, порог ледника, куда никто не&#160;заглядывает…
+</p><p>Сестра Бега в&#160;такие минуты приходила в&#160;экстаз, страстно молилась, волнуясь сильнее, чем когда-либо, от&#160;своей любви к&#160;белому цвету…
+</p><p>Вот почему она чувствовала себя такой счастливой, когда настоятельница возложила на&#160;нее обязанность следить за&#160;драгоценными тканями общины. Вот почему она выказывала себя такой заботливой, не&#160;боясь никакой усталости, стояла нагнувшись целыми часами, осторожно расправляя скатерти престола, стихари на&#160;лужайке. Какое рвение проявляла она, когда белила их, быстро убирала, если летом поднималась пыль от&#160;ветра, или&#160;зимою вдруг дымила труба соседнего монастыря и&#160;капала, точно снег, сажа; какую заботливость она показывала при&#160;поливке тканей или&#160;кроплении их водою, столь&#160;же серьезно, как&#160;священник, окропляющий своих верных прихожан.
+</p><p>Затем на&#160;ее обязанности лежали тысячи разных мелочей: надо было подсинивать ткани, подкрахмаливать, сушить, наконец, гладить, плоить. Осторожные остановки, нежные переходы, чтобы достичь конечного отдыха для&#160;белья, осуществимого в&#160;складках.
+</p><p>Тогда сестра Бега убирала ткани в&#160;шкапы ризницы, что&#160;было для&#160;нее большою радостью. Впрочем это инстинктивное удовольствие, присущее всем женщинам при&#160;уборке шкапов и&#160;белья! Для&#160;этого у&#160;них, на&#160;кончиках пальцев, точно врожденное дарование, специальные нервы, более впечатли тельные, какая-то&#160;чувствительность, в&#160;которой, может быть, спит инстинкт детского белья. Подобно тому, как&#160;матери дотрагиваются с&#160;волнением до&#160;детского приданого, сестра Бега перебирала приданое религии. Еще немного, и&#160;она вложила&#160;бы&#160;туда саше из&#160;ириса, — точно на&#160;самом деле это есть приданое, приданое для&#160;рождения облатки!
+</p><p>Для&#160;сестры Беги зима была печальным временем года, так как&#160;ее дорогие ткани страдали, как&#160;овцы, которых дурная погода удерживает в&#160;овчарне. Они&#160;тоже не&#160;могут быть на&#160;лужайке, боясь ветра и&#160;бури, которые, как&#160;волк, могут унести их.
+</p><p>Некоторые дни удовлетворяли ее снегом, около Рождества или&#160;Сретения. Тогда она забывала о&#160;своих тканях. Точно эти райские ткани, более священные, чем ее, распространялись по&#160;всему Бегинажу. Ослепительная красота! Девственная вата! Пух от&#160;белых полетов пространства! Манна облаток на&#160;стенах, траве, деревьях, крышах… Единодушная белизна!
+</p><p>Даже когда голодные воробьи сцарапывали клювом или&#160;лапками девственный покров, когда местами снег таял, внезапно открывая небольшую черную рану, — неустанный ветер приносил с&#160;вязов, растущих на&#160;площадке, несколько хлопьев, которые сейчас&#160;же превращались в&#160;корпию, и&#160;снова все заволакивалось снегом.
+</p><p>Хотя ее любовь к&#160;белому цвету в&#160;то время возбуждалась и&#160;доходила до&#160;высшей точки, сестра Бега предпочитала нежные весенние дни, когда разостланные ткани делали Бегинаж совсем белым. Она расстилала их на&#160;лужайке, возможно ближе одну ткань к&#160;другой, чтобы вся зелень скрывалась, превращалась в&#160;серебряную лужайку, точно озаренную лунным светом.
+</p><p>Может быть, у&#160;нее была еще одна надежда, когда она иногда смотрела в&#160;окно своей комнаты, выходившее на&#160;лужайку. Она обращала свои взоры на&#160;стихари, скатерти для&#160;алтаря, головные уборы, покрывала, образующие на&#160;траве блестящие цветники. Она начинала вдруг мечтать, неизвестно почему, о&#160;святой Веронике, не&#160;без тайной надежды увидеть на&#160;одну минуту черты лица Христа, отразившиеся в&#160;этих нитях, — это было&#160;бы&#160;для нее наградою за&#160;ее любовь к&#160;белому цвету и&#160;тканям.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Священные_изображения"><span id=".D0.A1.D0.B2.D1.8F.D1.89.D0.B5.D0.BD.D0.BD.D1.8B.D0.B5_.D0.B8.D0.B7.D0.BE.D0.B1.D1.80.D0.B0.D0.B6.D0.B5.D0.BD.D0.B8.D1.8F"></span>Священные изображения</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;section=11" title="Редактировать раздел «Священные изображения»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Бегинки обожают духовные изображения. Они&#160;прикалывают их булавками к&#160;стенам своих келий; они&#160;украшают ими стены рабочей комнаты; они&#160;вкладывают их в&#160;страницы Часовника. Есть такие изображения, фон которых сделан из&#160;серебряного кружева точно паутина, полная мелкого града. Есть разноцветные, как&#160;ризы, и&#160;белые, точно облатка. Некоторые усеяны точками, подобно каналам, когда бывает звездное небо.
+</p><p>Другие, на&#160;вид очень сложные, усеяны узорами, точно образуют дароносицу, развертываются, как&#160;венчики ненюфаров. Бегинки дарят их друг другу в&#160;дни праздников или&#160;при разлуке; они&#160;обмениваются этими мирными подарками, ко&#160;торые только допускает их обет бедности; и&#160;они надписывают наивные дружеские посвящения, которые изливаются мелким ручейком чернил и&#160;волнами дыма, пропитывающего бумагу… Кроме изображений бегинки любят также религиозные картины, какие можно встретить во&#160;множестве во&#160;всех маленьких кельях общины, взятые неизвестно откуда, полученные по&#160;завещанию, принесенные в&#160;дар семьями жертвователей, уступленные фабрикантами, — не&#160;современные картины, но&#160;древние произведения неизвестных художников, копии с&#160;картин Ван-Эйка и&#160;Мемлинга, религиозные произведения древних искренних художников, пальцы которых прикасались к&#160;изображению Бога, как&#160;пальцы священников, и&#160;которые писали, как&#160;другие молятся.
+</p><p>Теперь эти картины помогают бегинкам представлять себе небеса. Как&#160;без&#160;них они&#160;представили&#160;бы&#160;себе Бога Отца? Он&#160;кажется для&#160;них стариком с&#160;седою бородою, как&#160;на картинах примитивистов, подобно тому, как&#160;Христа они&#160;воображают бледным и&#160;кротким мужчиною с&#160;волосами, разделенными на&#160;прямой пробор, и&#160;рыжеватою бородою, точно едва заметная заря.
+</p><p>В&#160;числе этих священных картин, украшающих приемные, рабочие комнаты, встречаются еще Благовещение с&#160;архангелом Гавриилом, у&#160;которого радужные крылья, Распятие, Рождество. В&#160;особенности много Мадонн, всегда одна и&#160;та&#160;же сцена божественного кормления, причем целомудренные сестры никогда не&#160;замечают наготы груди, которую они&#160;не отделяют от&#160;лица Младенца.
+</p><p>Благодаря этому бегинки знают Бога, знают Христа, знают Богоматерь, святых ангелов; они&#160;могут представить их себе, думать о&#160;них, любить их, точно они&#160;жили уже возле них, точно они&#160;разлучены с&#160;ними только отъездом, изгнанием, после чего они&#160;снова встретятся с&#160;ними в&#160;Вечности, после некоторой перемены. Нежное чудо благочестивого искусства, где небо становится человеческим! Заранее полученная награда на&#160;небе!
+</p><p>Кроме этих божественных картин, главные монастыри общины, в&#160;особенности дом настоятельницы, хранят у&#160;себя много древних портретов прежних бегинок, настоятельниц, иногда доходящих далеко, до 1700&#160;года, даже до 1600&#160;года, в&#160;том&#160;же неизменном костюме, в&#160;одинаковом головном уборе, до&#160;тканей которого точно коснулась ржавчина времени, покрыв лунным светом его снег.
+</p><p>На&#160;портретах изображены бегинки, одни старые, со скрещенными руками, другие розовые, свежие, ротик которых остался как&#160;бы цветком. Иногда в&#160;углу картины помещен герб, голубой и&#160;золотой герб какой-нибудь прежней настоятельницы, которая принадлежала к&#160;аристократической семье.
+</p><p>Бегинки рассматривают теперь эти портреты точно изображения святых. Они&#160;избирают себе среди них покровительницу, которой молятся, к&#160;которой прибегают, которой боятся; иногда вечером, если они&#160;совершили днем какой-нибудь грех, им кажется, что&#160;глаза с&#160;портрета смотрят на&#160;них сурово, что&#160;нарисованные уста сейчас заговорят и&#160;не бранят их только потому, что&#160;не хотят нарушить великого безмолвия.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Боязнь_греха"><span id=".D0.91.D0.BE.D1.8F.D0.B7.D0.BD.D1.8C_.D0.B3.D1.80.D0.B5.D1.85.D0.B0"></span>Боязнь греха</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;section=12" title="Редактировать раздел «Боязнь греха»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Сестра Годелива чувствовала себя очень больной и&#160;опечаленной. Накануне и&#160;во все предшествующие дни, каждый раз как&#160;она выходила, — после часовой ходьбы она испыты вала в&#160;голове неприятную тяжесть: непонятная, все увеличивавшаяся головная боль придавала ей ощущение тепловатой, движущейся воды в&#160;висках.
+</p><p>Головной убор бегинки, окутывавший ее голову, усиливал это страдание беспрестанным биением своих крыльев от&#160;ветра. Можно было&#160;бы&#160;подумать, что&#160;какая-то&#160;птичка сжимала ей лоб, отягощала ее находившиеся в&#160;плену волосы.
+</p><p>Она пробовала успокоительные средства, всякие лекарства, указанные ей подругами по&#160;обители, следовала даже предписаниям доктора, посещавшего их общину. Но&#160;болезнь упорствовала; это была какая-то&#160;необыкновенная, непонятная боль, которую она не&#160;чувствовала, если оставалась в&#160;монастыре, занималась шитьем в&#160;рабочей комнате, присутствовала на&#160;службах. Только прогулка вызывала у&#160;нее каждый раз непонятную головную боль, когда ей нужно было пройти по&#160;небольшому фламандскому городу Брюгге, где она, после сиротливого детства, проведенного в&#160;духовном монастыре, вступила в&#160;обитель; она, вполне естественно, была подготовлена к&#160;этому давно, подобно тому как&#160;мальчики из&#160;церковного хора становятся часто семинаристами.
+</p><p>Сестра Годелива была еще молода. Однако она чувство вала себя до&#160;такой степени уставшей, огорченной этим нездоровьем, что&#160;вновь пришедшая весна не&#160;могла внести даже небольшой части своего веселья в&#160;ее сердце в&#160;эти апрельские утра, когда солнце играло на&#160;стенах, зажигало в&#160;них перламутровые переливы.
+</p><p>Между тем, каким весельем дышала обитель через&#160;прозрачные стекла!
+</p><p>В&#160;середине находилась лужайка, стриженая и&#160;ровная.
+</p><p>Несколько окружавших ее тополей производили ясный шум звучной реки. По&#160;сторонам располагались небольшие кельи с&#160;их фасадами из&#160;светлого кирпича, а&#160;их окна создавали иллюзию, будто и&#160;они обновлены весною. Из&#160;труб поднимался белый дымок, развертывавшийся лучистыми до&#160;рожками, ведущими к&#160;небесам.
+</p><p>Все бегинки находились под&#160;влиянием проникавшей из&#160;вне радости, и&#160;часто во&#160;время отдыха раздавалась их юная болтовня, точно шум птичника, короткий смех, нанизывавший жемчуг на&#160;безмолвие длинных коридоров. Иногда в&#160;рабочей комнате они&#160;замолкали, но&#160;смех оставался точно скрытым в&#160;их глазах, несмотря на&#160;шум коклюшек на&#160;поду шках для&#160;кружев.
+</p><p>Сестра Годелива спешила с&#160;своей работой, желая сдать клиентке, торгующей оптом, большой заказ на&#160;гипюровое покрывало для&#160;Мадонны и&#160;на ткани для&#160;алтаря. Кроме того, что&#160;она должна была получить значительную сумму, которая доставила&#160;бы&#160;ей возможность купить себе красивый давно желаемый молитвенник с&#160;рисунками на&#160;золотом фоне, ей, такой набожной, была приятна эта работа, мысль, что&#160;она создает для&#160;Бога и&#160;что произведения ее недостойных рук будут украшать святые статуи и&#160;церковные вещи.
+</p><p>Нагнувшись над&#160;подушкою, быстро работая, она соединя ла нити, переставляла без&#160;конца стальные булавки, увеличивая постепенно развивавшуюся ткань.
+</p><p>Но&#160;наряду с&#160;радостью, вызванной почти оконченным трудом, ее пугала необходимость выйти, чтобы отнести кружева своей заказчице, жившей далеко, на&#160;другом краю города, в&#160;предместье, окруженном каналами.
+</p><p>Длинная, необходимая прогулка, которая принесет ей обычную головную боль!.. Ей уже казалось, что&#160;она чувствует заранее, как&#160;ее головной убор тяжелеет, точно птичка — еще такая маленькая и&#160;почти бестелесная — слетает, складывает свои крылья и&#160;мучительно опутывает ее лоб.
+</p><p>Она советовалась с&#160;доктором обители, затем с&#160;другим городским доктором, к&#160;которому направила ее настоятельница. Они&#160;называли мигрени, невралгии, но&#160;ни одно из&#160;обычных лекарств не&#160;помогло ей. Случалось, что&#160;боль утихала на&#160;короткое время, приступ отодвигался на&#160;один день, затем все возобновлялось.
+</p><p>Разумеется, и&#160;это был результат, если можно было на&#160;время порвать паутину, охватывавшую ее голову, увеличивавшую свое солнце из&#160;черного кружева, расширявшую свой диск болезни. Но&#160;невидимое животное снова проявлялось на&#160;следующий день. Надо было прицелиться и&#160;убить его!
+</p><p>В&#160;своем маленьком темном уме сестра Годелива понимала это и&#160;добивалась этого у&#160;докторов. Однажды она подумала, что&#160;гораздо проще и&#160;вернее просить исцеления у&#160;Бога. Он, конечно, желал ей послать это испытание. Он&#160;один знал тайну и&#160;мог&#160;бы&#160;освободить ее, если&#160;бы&#160;она нашла в&#160;себе молитвы и&#160;настоящее раскаяние.
+</p><p>Она посетила девять служб Иисусову Сердцу; с&#160;помощью денег, полученных за&#160;последние кружева, она заплатила за&#160;свечи, подарила по&#160;обету прекрасное серебряное сердце в&#160;конгрегацию. Не было еще никакого результата, но&#160;надо было предоставить Богу принять решение и&#160;отдаться всецело во&#160;власть Его святой воли.
+</p><p>Тогда ей пришла в&#160;голову мысль — призвать на&#160;помощь Богородицу; она слышала об&#160;известном паломничестве в&#160;довольно близкое селение, где одна благочестивая жертвовательница воздвигла в&#160;глубине парка, возле своего замка, в&#160;честь Мадонны часовню и&#160;грот, вскоре освященные настоящим выздоровлением и&#160;чудесами.
+</p><p>Почему не&#160;отправиться и&#160;ей к&#160;этому священному гроту, вода которого, находясь в&#160;милости у&#160;неба, смыла&#160;бы&#160;ее болезнь и&#160;грех?
+</p><p>Она получила разрешение у&#160;настоятельницы обители и&#160;отправилась однажды утром в&#160;паломничество, на&#160;которое она возлагала отныне все свои надежды.
+</p><p>Сколько случаев, более серьезных и&#160;непонятных, чем ее болезнь, оканчивались полным исцелением!.. Почти слепые прозревали, паралитики начинали ходить…
+</p><p>Она тоже верила в&#160;глубине души, что&#160;Бог исцелит ее…
+</p><p>Накануне она исповедовалась, с&#160;трудом находя, чтобы сказать священнику несколько проступков и&#160;грехов; в&#160;конце концов плевелы ее души улетели вместе с&#160;отпущением грехов, и&#160;теперь, приближаясь к&#160;минуте своего исцеления, она могла сказать: «я&#160;непорочна!..» подобно находившейся там Мадонне…
+</p><p>Тотчас&#160;же по&#160;приходе в&#160;селение, где находился знаменитый грот, она отправилась в&#160;часовню прослушать обедню, приобщилась с&#160;таким возбужденным рвением, какого она не&#160;испытывала, может быть, с&#160;двенадцатилетнего возраста, со времени первого причастия, среди вуалей всех причастниц… Она обращалась к&#160;Христу, она лобызала его уста… Конечно, она снова немного почувствовала свою обычную боль… птичка становилась опять тяжелой и&#160;охватывала ее виски… Но&#160;это происходило от&#160;усталости путешествия, и&#160;Богородица окончит все это навсегда… Из&#160;часовни она направилась через&#160;парк к&#160;гроту, находившемуся среди скал, уже замет ному среди деревьев. В&#160;конце моста донеслись до&#160;нее звуки громких молитв. Вокруг шумели, точно большие органы, старые деревья. Тысячи маленьких свечей блестели внутри и&#160;снаружи на&#160;кованых железных подставках, казавшихся кустарниками света. Сестра Годелива сейчас&#160;же стала искать глазами Богородицу: это была странная статуя, очень древняя, попавшая сюда неизвестно как, с&#160;непонятным прошлым: черная голова, высвеченная из&#160;черного дерева; лицо имело вид лепного изображения на&#160;носу корабля, когда-то&#160;впервые открывшего глаза на&#160;фламандском судне, чтобы взглянуть на&#160;край моря. Драгоценные намни находились в&#160;ушах, богатое кружево покрывало лоб Мадонны, и&#160;вся она была одета в&#160;золотой плащ.
+</p><p>У&#160;ее ног, из&#160;отверстия в&#160;гроте, выливался чудотворный источник, беспрестанно журчащий, точно жалуясь на&#160;свою поруганную воду, точно печалясь от&#160;всех человеческих страданий, дошедших до&#160;него…
+</p><p>Больные располагались на&#160;всех скамьях; искалеченные дети, закутанные в&#160;шали, паралитики, приведенные под&#160;руки или&#160;привезенные в&#160;креслах, — все надеялись, все ждали чуда. И&#160;для&#160;подтверждения их надежды сколько было доказательств, расположенных скорбною гирляндою по&#160;скале: костыли тех, кто вдруг получил возможность ходить, палки слепых, перевязки, бинты, ткани от&#160;ран, — все трофеи победы, одержанной над&#160;страданием!..
+</p><p>Сестра Годелива смотрела, умилялась добротою Богородицы, которая должна была исцелить и&#160;ее. Она молилась вслух. С&#160;ее ресниц катились слезы, сверкавшие капли которых увеличивали собою несметное количество свечей. Все паломники зажигали по&#160;свечке. Каждый смотрел на&#160;свою, следил за&#160;нею глазами, связывая с&#160;ней суеверный страх, как&#160;бы ветер не&#160;погасил этого маленького пламени, которое казалось тоже больным и&#160;ожидающим исцеления…
+</p><p>Сестра Годелива, в&#160;свою очередь, поставила свечку. Она молилась, перебирая четки, стоя на&#160;коленях. Конечно, из-за&#160;волнения она страдала все сильнее и&#160;сильнее, ее голова становилась тяжелой. Птичка казалась нестерпимой.
+</p><p>Разумеется, это происходило от&#160;внушения, чтобы чудо выздоровления оказалось более блестящим. Сложив руки, с&#160;возбужденным взором, она, наконец, подошла к&#160;постоянно жалующейся воде, протянула стаканчик и, опустив глаза, медленно пила, точно это было вино из&#160;дароносицы или&#160;самая кровь Христа из&#160;раны, пронзенной копьем!
+</p><p>Сестра Годелива не&#160;исцелилась. Она утешала себя: сколько было там больных, страдающих сильнее ее, о&#160;которых Богородица должна была раньше позаботиться! Ее боль казалась легкой перед&#160;ужасными болезнями, которые она видела. Она сама почти желала просить о&#160;чуде для&#160;себя только после тех, кто больше нуждался…
+</p><p>Тем не&#160;менее, ее непонятная боль была ужасна и&#160;лишала ее всякой жизненной радости. Хотя и&#160;с перерывами, эта боль была для&#160;нее вечным опасением, тенью близкого врага…
+</p><p>Может быть, все, в&#160;сущности, было серьезнее, чем это казалось, и&#160;Бог не&#160;исцелял ее только потому, что, заботясь о&#160;ней, хотел призвать ее скорее в&#160;свой Рай.
+</p><p>Но&#160;дрожь охватывала ее; она не&#160;осмеливалась более показываться перед&#160;своим судьею, не&#160;потому, чтобы она совершила смертельный грех, ржавчина которого могла обнаружиться на&#160;обнаженном металле ее души, но&#160;потому, что&#160;всего этого было недостаточно для&#160;ее спасения: так как&#160;на небесах воздается каждому по&#160;делам его, она должна была украсить себя добрыми делами, добродетелью с&#160;чудным ароматом лилий, чтобы сделать себе из&#160;них венец в&#160;Вечности!
+</p><p>Вот почему она заботилась о&#160;своем теле, источнике греха, но&#160;и орудии совершенства. Вот почему она желала жить, долго жить, — до&#160;конца человеческого возраста.
+</p><p>Она снова принялась за&#160;лекарства и&#160;стала посещать докторов.
+</p><p>Каждый из&#160;них ставил различный диагноз. Она советовалась со многими, надеясь каждый раз, переходя от&#160;одного к&#160;другому. Она была готова все отдать, пожертвовать всем скромным заработком, израсходовать все свои сбережения, но&#160;она хотела выздороветь, не&#160;чувствовать боли…
+</p><p>Но&#160;все&#160;же эта непонятная боль снова проявлялась, проникая, точно дурная трава, в&#160;лекарства; все сильнее и&#160;сильнее ее голова сжималась под&#160;птичкой, казавшейся свинцовой.
+</p><p>Бедная сестра Годелива теряла надежду. Она не&#160;имела сил выходить и&#160;оставалась по&#160;целым неделям в&#160;монастыре, забрасывая свою работу, приложив лоб к&#160;окну, смотря на&#160;обитель и&#160;на город вдали, точно это было запретное удовольствие…
+</p><p>Ей рекомендовали одного специалиста, известного ученого, который наверное вылечил&#160;бы&#160;ее. Попробует&#160;ли&#160;она еще это новое средство к&#160;спасению? Но&#160;надо было еще раз отлучиться, отправиться в&#160;большой город, довольно далеко, где жил этот доктор, взять немного из&#160;своих сбережений, собранных с&#160;трудом, уменьшавшихся с&#160;ее болезнью, как&#160;свеча в&#160;течение мессы…
+</p><p>Однако она решилась; она поехала с&#160;поездом в&#160;большой указанный ей город и&#160;в час консультации отправилась к&#160;доктору, на&#160;которого она возлагала последнюю надежду. Она ждала довольно долго своей очереди в&#160;суровой комнате, куда густые занавески едва пропускали дневной свет. Легкая грусть сжимала ей грудь, точно она шла к&#160;исповеди; ее одежда казалась ей узкою, и&#160;она слышала, как&#160;бьется ее сердце… Ее обычная боль возобновилась от&#160;усталости и&#160;жары длинного путешествия. Что&#160;скажет ей этот доктор? Может&#160;ли&#160;он помочь ей, если сам Бог, во&#160;время ее паломничества, по-видимому, отказал ей? Может быть, это было дурно настаивать и&#160;желать во&#160;что&#160;бы&#160;то ни&#160;стало исцеления, вместо того, чтобы мужественно покориться тому, что&#160;все более и&#160;более казалось небесною волею и&#160;испытанием…
+</p><p>Вдруг дверь открылась, и&#160;показался доктор: он&#160;был высокого роста, с&#160;седыми волосами и&#160;бородой, с&#160;серьезным видом. Не говоря ни&#160;слова, он&#160;сделал ей знак следовать за&#160;ним, повел ее в&#160;другую комнату, свой рабочий кабинет. Сестра Годелива была очень смущена. Она хотела быстро назвать все симптомы своей болезни, перечислить которые она дала себе слово. Когда он&#160;обратился к&#160;ней и&#160;спросил ее коротко, чем она больна, его тон голоса, суровый и&#160;холодный, оледенил ее.
+</p><p>Она просто ответила: «У&#160;меня головные боли». Затем она замолчала, смущаясь, забывая обо всем, или, вернее, не&#160;находя слов, не&#160;собравшись с&#160;мыслями перед&#160;этим взглядом статуи, не&#160;покидавшим ее.
+</p><p>Доктор снова заговорил так&#160;же монотонно, точно на&#160;одной меланхолической струне:
+</p><p>— Мы&#160;посмотрим, сестра; необходимо, чтобы я&#160;вас выслушал.
+</p><p>— Да… — сказала сестра Годелива.
+</p><p>Она оставалась сидеть и&#160;ждала. Она ответила «да» из&#160;самолюбия, от&#160;смущения. Но&#160;она не&#160;понимала этого слова: «чтобы я&#160;вас выслушал»… Она не&#160;смела обратиться к&#160;нему, спросить, по&#160;крайней мере, объяснения у&#160;этого мраморного человека, который леденил слова на&#160;ее устах.
+</p><p>Он&#160;поднялся и&#160;просил ее прилечь: — Прилягте здесь!
+</p><p>Она начала дрожать, и&#160;все ее лицо приняло вопросительное выражение.
+</p><p>— Да, я&#160;должен вас выслушать… Мне нужно осмотреть почки, желудок, так как&#160;головные боли могут происходить от&#160;различных причин…
+</p><p>Бегинка задрожала… Инстинктивно ее пальцы искали небольшое распятие, висевшее у&#160;нее на&#160;груди, как&#160;драгоценность. Пальцы сжались от&#160;волнения всего ее тела. Она понимала теперь слово: <i>выслушать…</i> Открыть в&#160;своем теле то, на&#160;что она сама никогда не&#160;смотрела. Это был&#160;бы&#160;большой грех! Вся ее болезнь, значит, была только игрою демона, ведшего ее к&#160;этому искушению. Если&#160;бы&#160;она осмелилась, она осенила&#160;бы&#160;себя крестом. Доктор ждал… Годелива, дрожа и&#160;удивляясь, еще сильнее сжимала в&#160;своих пальцах распятие на&#160;груди.
+</p><p>Произошла пауза.
+</p><p>— Ну-с! — сказал доктор.
+</p><p>— Нет.
+</p><p>Как&#160;опытный человек, он&#160;догадался и&#160;хотел успокоить ее сомнения… Доктор — не&#160;мужчина, это духовник тела, исповедник больных…
+</p><p>Но&#160;сестра Годелива мало-помалу овладела собой, она побледнела, как&#160;ее покрывало, и&#160;тихо отошла к&#160;двери:
+</p><p>— Ах! Нет! Нет! Позвольте мне уйти!
+</p><p>Она точно умоляла его — как&#160;будто на&#160;самом деле не&#160;была свободна и&#160;ей угрожали — голосом бедной жертвы, которая чувствует себя на&#160;краю гибели.
+</p><p>Когда сестра Годелива очутилась одна на&#160;улице, она заплакала. Она была очень несчастна. Никакого исцеления! Никакой надежды! Большинство докторов не&#160;понимало ее болезни, а&#160;этот, считающийся ученым, требовал от&#160;нее дурного поступка. Он&#160;убеждал ее, что&#160;это дозволяется и&#160;что доктор имеет право смотреть на&#160;все, не&#160;оскорбляя Бога.
+</p><p>Все это было только уловками демона, — обычный его прием, чтобы ввести в&#160;искушение!.. Но&#160;он&#160;ничего не&#160;достигнет… она никогда не&#160;согласится…
+</p><p>Может быть, она умрет от&#160;этого, но&#160;необходимо было предпочесть смерть греху. Она не&#160;осмелилась никому рассказать об&#160;этом, даже настоятельнице и&#160;духовнику. У&#160;нее в&#160;глубине души остался небольшой стыд, смущение от&#160;того, чего от&#160;нее хотели, — от&#160;того, что&#160;вдруг в&#160;ее уме пронеслась мысль о&#160;тайне полов, до&#160;сих пор неизвестная ей и&#160;замкнутая в&#160;ее обете, как&#160;ее волосы — в&#160;головном уборе…
+</p><p>С&#160;тех пор она чувствовала себя если не&#160;менее чистой, то&#160;не такой невинной; ее душа была очень далека от&#160;тела, как&#160;листья, настолько высоко поднявшиеся на&#160;своей ветке, что&#160;они не&#160;подозревают о&#160;земле, от&#160;которой родились…
+</p><p>Сестра Годелива умерла от&#160;своей стыдливости. До&#160;конца своих дней она отказывалась допустить, чтобы чужие глаза и&#160;пальцы скользили по&#160;ее телу, искали верную причину ее болезни. Она медленно угасла, отстраняя ощупывание докторов, умерла мученицей этой ангельской святости.
+</p><p>Чистота безупречной девушки, чистота горностая, умирающего из&#160;страха, что&#160;люди прикоснутся к&#160;его белоснежной шкурке!
+</p><p>В&#160;момент, когда она умирала и&#160;священник принес причастие, она беспокоилась, сознавая, что&#160;ее головной убор снят и&#160;что ее волосы рассыпаны по&#160;подушке. Это снова принесло страдание чистоте идеальной монахини, как&#160;остаток слишком обнаженной телесности…
+</p><p>В&#160;последние минуты она нашла в&#160;себе силы поднести руку к&#160;вискам, где чувствовалась боль, точно желала отныне приколоть там убор и&#160;расправить, как&#160;следует, его крылья.
+</p><p>Затем она громко вскрикнула: «птичка! птичка!» — и&#160;как будто после стольких страданий эта птичка спустилась с&#160;лона Бога, — теперь такая легкая, — к&#160;ней на&#160;голову, чтобы остаться там вечно, подобно самому голубю Святого Духа!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Колокола"><span id=".D0.9A.D0.BE.D0.BB.D0.BE.D0.BA.D0.BE.D0.BB.D0.B0"></span>Колокола</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;action=edit&amp;section=13" title="Редактировать раздел «Колокола»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Колокол на&#160;верху церковной башни является голосом и&#160;жизнью Бегинажа.
+</p><p>Однако он&#160;стар и&#160;медлителен в&#160;своей изношенной одежде из&#160;стонущей бронзы. Но&#160;он&#160;показывает себя аккуратным, деятельным; он&#160;беспрестанно прорезывает воздух своим звоном, похожим на&#160;шум ключей, точно он&#160;закрывает двери от&#160;внешних звуков… Это сестра-привратница пространства. Она провожает Время в&#160;Вечность.
+</p><p>Для&#160;каждого часа, который уходит навсегда, колокол бросает вслед свой холодный звон, как&#160;бы священную воду в&#160;минуту отпущения грехов.
+</p><p>Точно периодический дождь, звон колокола окропляет спокойных бегинок даже в&#160;их рабочих комнатах.
+</p><p>С&#160;другой стороны, три раза в&#160;день звонит Angelus. Колокол в&#160;черной ризе издает серьезные звуки, за&#160;которыми следуют другие звуки, октавою выше.
+</p><p>Можно было&#160;бы&#160;подумать, что&#160;это какой-нибудь священник повторяет для&#160;себя обедню.
+</p><p>Бегинки крестятся, становятся на&#160;колени, точно колокол совершает церковную службу.
+</p><p>Таким образом каждый день, каждый час, каждую четверть часа колокол двигается, раскачивается, говорит, вторгается в&#160;уснувшую жизнь Бегинажа, оглашает его своими ударами, точно биением сердца общины. Какая поэтому чувствуется мучительная тревога, точно летаргия, кажущаяся смертью, когда в&#160;четверг на&#160;Страстной неделе колокол общины вдруг замолкает в&#160;одно время с&#160;его братьями — колоколами приходских церквей. Бегинаж тогда имеет вид Гроба Господня, куда бегинки, охваченные скорбью, стекаются, точно св. жены. Они&#160;теперь не&#160;имеют понятия ни&#160;о времени, ни&#160;о часе, так как&#160;церковный колокол, подобно Богу, почил, и&#160;опечаленные бегинки ждут, пока через&#160;три дня колокол, ставший неподвижным в&#160;гробнице Безмолвия, снова воскреснет!
+</p>
+<style data-mw-deduplicate="TemplateStyles:r4837660">.mw-parser-output .hr-custom{height:1px;width:40em;margin-left:auto;margin-right:auto;margin-top:5ex;margin-bottom:5ex}</style><hr class="hr-custom" style="width:10em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p><i>Оригинал здесь: <a rel="nofollow" class="external free" href="http://bruges-la-mort.ru/chapter1/mist">http://bruges-la-mort.ru/chapter1/mist</a></i>
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5c9fc7f974‐vg27c
+Cached time: 20260216000929
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.108 seconds
+Real time usage: 0.186 seconds
+Preprocessor visited node count: 218/1000000
+Revision size: 158909/2097152 bytes
+Post‐expand include size: 9564/2097152 bytes
+Template argument size: 1157/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 222/5000000 bytes
+Lua time usage: 0.049/10.000 seconds
+Lua memory usage: 2441892/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  143.213      1 -total
+ 94.96%  136.002      1 Шаблон:Отексте
+  4.86%    6.955      1 Шаблон:---
+  1.20%    1.722      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1020675:|#|:idhash:canonical and timestamp 20260216000929 and revision id 5586915. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Мистические_лилии_(Роденбах)&amp;oldid=5586915">https://ru.wikisource.org/w/index.php?title=Мистические_лилии_(Роденбах)&amp;oldid=5586915</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B_%D1%81_%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%BC_%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D0%B0" title="Категория:Переводы с неизвестным языком оригинала">Переводы с неизвестным языком оригинала</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%96%D0%BE%D1%80%D0%B6_%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85" title="Категория:Жорж Роденбах">Жорж Роденбах</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1894_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1894 года">Литература 1894 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Импорт/lib.ru/Страницы с внешними ссылками">Импорт/lib.ru/Страницы с внешними ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Указан переводчик в параметре ДРУГОЕ">Импорт/lib.ru/Указан переводчик в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_i_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег i в параметре ДРУГОЕ">Импорт/lib.ru/Тег i в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_300" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 300">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 300</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA_%D0%B8_%D0%BD%D0%B5%D1%82_%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0" title="Категория:Импорт/lib.ru/Указан переводчик и нет категории перевода">Импорт/lib.ru/Указан переводчик и нет категории перевода</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D1%8B_%D1%82%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B0%D0%B2%D1%82%D0%BE%D1%80_%D0%B8_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA" title="Категория:Импорт/lib.ru/Указаны тождественнные автор и переводчик">Импорт/lib.ru/Указаны тождественнные автор и переводчик</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%96%D0%BE%D1%80%D0%B6_%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85" title="Категория:Импорт/az.lib.ru/Жорж Роденбах">Импорт/az.lib.ru/Жорж Роденбах</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 30 июля 2025 года в 21:16.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Мистические лилии (Роденбах)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-f79556446-spq7m","wgBackendResponseTime":144,"wgPageParseReport":{"limitreport":{"cputime":"0.108","walltime":"0.186","ppvisitednodes":{"value":218,"limit":1000000},"revisionsize":{"value":158909,"limit":2097152},"postexpandincludesize":{"value":9564,"limit":2097152},"templateargumentsize":{"value":1157,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":222,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  143.213      1 -total"," 94.96%  136.002      1 Шаблон:Отексте","  4.86%    6.955      1 Шаблон:---","  1.20%    1.722      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.049","limit":"10.000"},"limitreport-memusage":{"value":2441892,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Жорж Роденбах\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"?\",\n    [\"origPublished\"] = \"1894\",\n    [\"origTitle\"] = \"Musée de béguines\",\n    [\"other\"] = \"(1894).\u003Cbr\u003E\u003Ci\u003E\\\nПеревод [[Мария Васильевна Веселовская|Марии Веселовской]] (1909).\u003C/i\u003E\u003Cbr\u003EПролог \u003Cbr\u003EГоловные уборы \u003Cbr\u003EСумерки в приемной \u003Cbr\u003EСвечи \u003Cbr\u003EМистический сон \u003Cbr\u003EПсалмы \u003Cbr\u003EСомнения \u003Cbr\u003EЦветы \u003Cbr\u003EЛюбовь к белому цвету \u003Cbr\u003EСвященные изображения \u003Cbr\u003EБоязнь греха \u003Cbr\u003EКолокола.\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/r/rodenbah_z/text_1894_mus233e_de_b233guines.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Мистические лилии\",\n    [\"translator\"] = \"Жорж Роденбах\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-5c9fc7f974-vg27c","timestamp":"20260216000929","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

@@ -1,0 +1,1395 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Двенадцать портретов (Аверченко) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"64f2ce81-6cdc-4a5c-8a7e-2a1dc654c601","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Двенадцать_портретов_(Аверченко)","wgTitle":"Двенадцать портретов (Аверченко)","wgCurRevisionId":5255716,"wgRevisionId":5255716,"wgArticleId":997658,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 200","Импорт/lib.ru","Импорт/az.lib.ru/Аркадий Тимофеевич Аверченко","Проза","Сатира и юмор","Сборники рассказов","Аркадий Тимофеевич Аверченко","Литература 1922 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Двенадцать_портретов_(Аверченко)","wgRelevantArticleId":997658,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5255716,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Двенадцать портретов (Аверченко) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Двенадцать_портретов_Аверченко rootpage-Двенадцать_портретов_Аверченко skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C+%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C+%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C+%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C+%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Двенадцать портретов (Аверченко)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C+%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;oldid=5255716" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29&amp;id=5255716&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2594%25D0%25B2%25D0%25B5%25D0%25BD%25D0%25B0%25D0%25B4%25D1%2586%25D0%25B0%25D1%2582%25D1%258C_%25D0%25BF%25D0%25BE%25D1%2580%25D1%2582%25D1%2580%25D0%25B5%25D1%2582%25D0%25BE%25D0%25B2_%28%25D0%2590%25D0%25B2%25D0%25B5%25D1%2580%25D1%2587%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25BE%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2594%25D0%25B2%25D0%25B5%25D0%25BD%25D0%25B0%25D0%25B4%25D1%2586%25D0%25B0%25D1%2582%25D1%258C_%25D0%25BF%25D0%25BE%25D1%2580%25D1%2582%25D1%2580%25D0%25B5%25D1%2582%25D0%25BE%25D0%25B2_%28%25D0%2590%25D0%25B2%25D0%25B5%25D1%2580%25D1%2587%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25BE%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Двенадцать портретов</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Автор:Аркадий Тимофеевич Аверченко">Аркадий Тимофеевич Аверченко</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1922</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/a/awerchenko_a_t/text_1922_dvenadtzat_portretov.shtml">az.lib.ru</a></span>  • От&#160;автора<br />
+Мадам Ленина<br />Мадам Троцкая<br />Феликс Дзержинский<br />Петерс<br />Максим Горький<br />Федор Шаляпин<br />Мартов и&#160;Абрамович<br />Керенский (Первый портрет)<br />Керенский (Второй портрет)<br />Керенский (Третий портрет)<br />Балтийский матрос<br />Советский учитель<br />Артистка образца 1922&#160;года</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Автор:Аркадий Тимофеевич Аверченко">Аркадий Тимофеевич Аверченко</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<p>Аверченко А. Т.&#160;Собрание сочинений: В 13 т.&#160;Т.&#160;12. Рай на&#160;земле
+</p><p>М., Изд-во «Дмитрий Сечин», 2014.
+</p>
+<center>ДВЕНАДЦАТЬ ПОРТРЕТОВ</center>
+<center>(В&#160;ФОРМАТЕ БУДУАР)</center>
+<center>(1922)</center>
+<p>От&#160;автора
+</p><p>Мадам Ленина
+</p><p>Мадам Троцкая
+</p><p>Феликс Дзержинский
+</p><p>Петерс
+</p><p>Максим Горький
+</p><p>Федор Шаляпин
+</p><p>Мартов и&#160;Абрамович
+</p><p>Керенский (Первый портрет)
+</p><p>Керенский (Второй портрет)
+</p><p>Керенский (Третий портрет)
+</p><p>Балтийский матрос
+</p><p>Советский учитель
+</p><p>Артистка образца 1922&#160;года
+</p>
+<center>ОТ АВТОРА</center>
+<p>Эта книжка портретов — нечто среднее между портретной галереей предков и&#160;альбомом карточек антропометрического бюро при&#160;сыскном отделении.
+</p><p>Во&#160;всем том, что&#160;происходит в&#160;России, чрезвычайно большую роль сыграл Александр Керенский. Поэтому я&#160;и отвожу ему в&#160;своей портретной галерее целых три места.
+</p><p>Я&#160;не&#160;дал портретов Ленина и&#160;Троцкого, потому что&#160;эти два знаменитых человека и&#160;так уже всем навязли в&#160;зубах.
+</p><p>Вместо них я&#160;даю портреты их жен. Это — элегантнее и&#160;свежее.
+</p><p>Как&#160;я&#160;ни хитрил, а&#160;в заключение должен признаться, что&#160;из всей портретной галереи мне симпатичнее всего последний портрет — балтийского матроса, в&#160;лице Шкляренко и&#160;Бондаря…
+</p>
+<style data-mw-deduplicate="TemplateStyles:r5158936">.mw-parser-output .align-right{text-align:right}.mw-parser-output div.align-right{margin-top:0;margin-right:0;margin-bottom:0;margin-left:auto}.mw-parser-output span.align-right{display:inline-block;width:100%}</style><div class="align-right"><i>Аркадий Аверченко</i>
+<p>МАДАМ ЛЕНИНА
+</p>
+ЛОШАДЬ В СЕНАТЕ</div>
+<p>Был в&#160;Риме такой человек по&#160;имени император Калигула, а&#160;по характеру большой чудак… Была у&#160;Калигулы лошадь, которую он&#160;до того любил, что&#160;однажды приказал Сенату выбрать ее в&#160;сенаторы.
+</p><p>Ну раз такой человек, как&#160;Калигула, приказывает — ослушаться неловко: обидится.
+</p><p>И&#160;выбрали лошадь в&#160;сенаторы. И&#160;сидела она в&#160;Сенате.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Вся деятельность российских правителей заключается теперь в «затыкании за&#160;пояс» и «утирании носа». Заткнули за&#160;пояс Нерона. Заткнули за&#160;пояс Иоанна Грозного. Утерли нос испанской инквизиции. Утерли нос Варфоломеевской ночи.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>А&#160;совсем недавно очень искусно утерли нос и&#160;заткнули за&#160;пояс и&#160;лошадь Калигулы.
+</p><p>Да&#160;и&#160;в самом деле, что&#160;такое лошадь Калигулы? Мальчишка и&#160;щенок! Сидела она смирно, положив передние ноги на&#160;стол, и&#160;если пользы никакой не&#160;приносила, то&#160;и особого вреда не&#160;делала.
+</p><p>В&#160;Советской России появилась новая лошадь Калигулы — мадам Ленина, жена правителя.
+</p><p>Да&#160;что&#160;одна лошадь Калигулы!
+</p><p>Перед&#160;мадам Лениной побледнеет целый табун римских лошадей.
+</p><p>Газеты эпически рассказывают, что&#160;сделала эта активная «лошадь, допущенная в&#160;Сенат».
+</p><p>Во&#160;время первомайских торжеств около пятисот детишек, предводительствуемых новой лошадью Калигулы, — все это, кроме лошади, оборванное, голодное, истощенное — отправились на&#160;прогулку в&#160;авиационный парк.
+</p><p>Раз все обыкновенные парки для&#160;прогулок вырублены — ясно: лошадь должна вести своих маленьких пленников в&#160;авиационный парк.
+</p><p>Когда будут разобраны на&#160;дрова все обыкновенные театры — Лошадь отведет свое маленькое умирающее войско в&#160;анатомический театр.
+</p><p>В&#160;парке погуляли, подышали бензиновым воздухом, потом Лошадь выстроила свою босоногую команду и&#160;спросила:
+</p><p>— Хотите&#160;ли&#160;вы, детки, конфект? — Только тихий стон пронесся по&#160;рядам. — Ну вот. Если хотите, то&#160;становитесь на&#160;коленки и&#160;просите у&#160;вашего бога конфект.
+</p><p>Бедные запуганные, затурканные дети опустились на&#160;колени и&#160;завопили в&#160;небо:
+</p><p>— Боженька, дай нам конфект!
+</p><p>Лошадь сделала пятиминутную паузу и&#160;потом, хитро усмехаясь, проржала:
+</p><p>— Вот видите — какой&#160;же это боженька, который не&#160;исполняет вашей просьбы… Это все один обман. А&#160;теперь станьте на&#160;колени и&#160;скажите: «Третий Интернационал, дай нам конфект!»
+</p><p>Петербургские детишки теперь такой народ, что&#160;если ты их заставишь просить конфект у&#160;бурой свиньи гоголевского Ивана Никифоровича — они&#160;и тут покорно станут на&#160;колени.
+</p><p>Опустились детки на&#160;колени и, простирая руки, завопили в&#160;небо:
+</p><p>— Третий Интернационал! Дай нам конфекток!
+</p><p>И&#160;что&#160;же? О&#160;чудо! Сейчас&#160;же неподалеку поднялся аэроплан, закружился над&#160;детишками и&#160;стал осыпать их плохими паточными леденцами. Дети боролись, возились и&#160;дрались на&#160;грязной земле, чтобы больше захватить драгоценного лакомства, а&#160;Лошадь из&#160;Сената стояла тут&#160;же и, довольная, радостно ржала.
+</p><p>А&#160;еще вот для&#160;Лошади хороший рецепт: взять голодного ребенка и&#160;с помощью хорошей розги выдрессировать для&#160;следующей штуки: положив на&#160;нос кусочек белой булки, сказать:
+</p><p>— Во&#160;имя божие — ешь!
+</p><p>Выдрессированный ребенок стоит, как&#160;каменный, и&#160;смотрит на&#160;вас собачьими глазами.
+</p><p>— Во&#160;имя справедливости и&#160;милосердия — ешь!
+</p><p>Стоит ребенок, как&#160;каменный.
+</p><p>— Во&#160;имя Третьего Интернационала — пиль!
+</p><p>Кусочек булки моментально взлетает и&#160;через секунду хрустит на&#160;голодных зубах.
+</p><p>Вот настоящая забава — даже не&#160;для самого Калигулы, а&#160;для его Лошади… Калигула просто зарежет ребенка, но&#160;не станет над&#160;ним измываться.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Интересно, когда Лошадь после праздника вернулась в&#160;свою роскошную конюшню, пришла&#160;ли&#160;ей хоть на&#160;секунду в&#160;убогую лошадиную голову такая мысль:
+</p><p>«Мы&#160;издеваемся над&#160;именем Божиим и&#160;топчем Его в&#160;грязь. А&#160;Он нас не&#160;наказывает — значит, Его нет».
+</p><p>И&#160;если она это подумала, то&#160;наружно в&#160;этот момент ничего не&#160;случилось, гром не&#160;загремел, молния не&#160;засверкала и&#160;потолок не&#160;расплющил Лошади.
+</p><p>Но&#160;где-то&#160;в беспредельной высоте и&#160;глубине взметнулся невидимый жесткий и&#160;сухой бич и&#160;хлестнул поперек всея России…
+</p><p>Земля потрескалась, злаки приникли к&#160;раскаленной почве, и&#160;двадцать миллионов народа — того народа, который допустил среди себя хулу и&#160;унижения бога, — поползли с&#160;родных мест неведомо куда, устилая трупами сухой проклятый путь свой…
+</p>
+<center>МАДАМ ТРОЦКАЯ</center>
+<center>ШАПКА МОНОМАХА</center>
+<p>Сегодня мадам Троцкая никого не&#160;принимает. У&#160;нее с&#160;утра мигрень, кислое настроение, и&#160;даже ее постоянные посетители, два Аякса — Клембовский и&#160;Гутор, просидевши в&#160;передней сорок минут — уехали, не&#160;повидав своей повелительницы.
+</p><p>Только когда доложили о&#160;приходе ее любимца — генерала Парского, мадам Троцкая немного оживилась и&#160;приказала просить.
+</p><p>— Ах, мой женераль, — протянула она, капризно выпятив губки, — у&#160;меня сегодня такое настроение, что&#160;впору самой к&#160;стенке стать.
+</p><p>— А&#160;что&#160;такое? — озабоченно спросил Парский, склонясь к&#160;протянутой ручке.
+</p><p>— Скучно. Мне чего-то&#160;хочется, а&#160;чего — и&#160;сама не&#160;знаю. Знаете что, генерал. Я&#160;хочу, чтобы вы устроили мне двор.
+</p><p>— А&#160;что? Опять грязь развели, канальи? Сегодня&#160;же прикажу вымести и&#160;убрать пустые ящики.
+</p><p>— Какой вы смешной, мой женераль. Я&#160;вам не&#160;о таком дворе говорю, который из&#160;окна виден, а&#160;о настоящем придворном дворе. У&#160;нас при&#160;дворе нет настоящего блеска, настоящего изящества, а&#160;Леве хоть кол на&#160;голове теши — никакого внимания. Я&#160;пробовала сама что-нибудь сделать — ничего не&#160;выходит.
+</p><p>— Да, это трудно, — призадумавшись, отвечал Парский.
+</p><p>— Еще&#160;бы. Вы знаете, я&#160;основала благотворительное общество Красного Креста и&#160;попросила назначить себя почетной председательницей и&#160;покровительницей — а&#160;что вышло? На&#160;первом&#160;же торжественном заседании секретарь общества стащил у&#160;меня соболий палантин и&#160;выменял на&#160;полпуда сахару.
+</p><p>— Неужели только полпуда дали? — оживился Парский.
+</p><p>— Ах, мой женераль, вы совсем не&#160;тем интересуетесь, чем надо. Полпуда или&#160;пуд — сэт эгаль<sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>. Пришло мне позавчера в&#160;голову — иметь своего придворного поэта — помните, как&#160;Мольер был. Я&#160;и&#160;позвала Маяковского. Посидел полчаса, выпил полторы бутылки коньяку, набил все карманы печеньем, обкусал ногти, плюнул три раза на&#160;ковер и&#160;ушел, даже не&#160;попрощавшись. Неужели и&#160;Пушкин и&#160;Лермонтов были такие? Генерал, устройте мне двор!
+</p><p>— Понимаете, это очень сложная вещь. Нужно, чтобы было много блестящей молодежи… У&#160;вас есть родственники?
+</p><p>— Конечно, есть. И&#160;в&#160;Житомире есть, и&#160;в Елисаветграде. Один племянник Сеня — он&#160;на станции Одесса-Товарная с&#160;хлебом работал — на&#160;днях заявляется ко&#160;мне и&#160;просит: «Тетя, — говорит, — вы теперь совсем как&#160;королева — сделайте меня виконтом». «Сеня, — говорю я&#160;ему, — какой из&#160;тебя может быть виконт, когда ты каучуковые воротнички носишь и&#160;у тебя всегда под&#160;носом красно». «Тетя, — говорит, — когда буду виконтом, вместо линолевых воротничков надену жабо, а&#160;что касается красного, так вы&#160;же сами знаете, что&#160;у меня хронический насморк».
+</p><p>— Да, — задумчиво покачал головой Парский. — Этот, пожалуй, на&#160;роль петиметра не&#160;подойдет.
+</p><p>— Ну разве&#160;же это не&#160;обидно? Теперь, когда мой Левочка разговаривает с&#160;державами Согласия, заложив ногу на&#160;ногу, а&#160;руки в&#160;карманах — так для&#160;этого&#160;же нужен пышный блеск. А&#160;где он? Нужна придворная жизнь, а&#160;где она? Мадам Каменева советовала мне: «Фаничка, — говорит она, — Фаничка! Набери себе побольше фрейлин, и&#160;чтобы они&#160;присутствовали при&#160;твоем ложении и&#160;вставании». Это легко сказать — набери. А&#160;как&#160;я с&#160;ними должна обращаться — я&#160;и не&#160;знаю. Могу я&#160;послать ее сбегать в&#160;Предком за&#160;сотней папирос, или&#160;для этого паж должен быть? Должна я&#160;с ними здороваться за&#160;ручку или&#160;они мне должны целовать ручку? Прямо-таки целый ряд тяжелых неразрешимых вопросов. Генерал, устройте мне двор.
+</p><p>— А&#160;вы хотели&#160;бы, приблизительно, в&#160;стиле какой эпохи?
+</p><p>— Что&#160;бы&#160;вы сказали про&#160;наполеоновский? Пышный двор, все маршалы из&#160;солдат, Лева ходит одетый в&#160;лососиновые штаны, а&#160;у меня талия высоко-высоко, совсем под&#160;груди. Мадам Каменева говорила мне: «Фаничка, вам это замечательно пойдет».
+</p><p>— А&#160;может быть, вам больше улыбается Екатерининская эпоха? — тоном модного портного, предлагающего ходкий фасончик, сказал Парский.
+</p><p>— Это тоже ничего себе эпоха. Фижмы, парики, граф Зубов. И&#160;мне нравится, что&#160;Екатерина переписывалась с&#160;Дидро и&#160;Вольтером. Я&#160;тоже, знаете, попробовала написать Анатолю Франсу, да&#160;ответа не&#160;получила. Или&#160;марку забыла наклеить, или&#160;тогда почта была лучше, чем теперь. А&#160;Луначарский даже обещал, что&#160;Пролеткульт издаст мою переписку с&#160;Анатолем Франсом. Послушайте. А&#160;что&#160;вы скажете о&#160;дворе Людовиков?
+</p><p>— Хорошие были дворы, — похвалил Парский.
+</p><p>— И&#160;знаете, вы были&#160;бы&#160;моими тремя мушкетерами: вы, Гутор и&#160;Клембовский.
+</p><p>— А&#160;знаете, вы действительно напоминаете лицом Анну Австрийскую.
+</p><p>— Серьезно? Мерси. Ах, герцог Букотам, ах, бриллиантовые наконечники! А&#160;Дзержинский был&#160;бы&#160;кардиналом Ришелье… Да… Только ведь Людовики плохо кончили. Я&#160;не&#160;хотела&#160;бы&#160;для Левы такой карьеры.
+</p><p>— А&#160;не&#160;хотите Людовиков — возьмите эпоху Цезарей. Вот была красота, вот блеск! Устройте цирк на&#160;сто тысяч человек и&#160;скажите Дзержинскому, чтобы он, вместо своего дурацкого «к&#160;стенке», выпускал на&#160;саботажников диких зверей. Жестоко, но&#160;красиво.
+</p><p>— А&#160;где&#160;же Дзержинский диких зверей достанет? Гамбургский Гагенбек на&#160;товарообмен не&#160;пойдет.
+</p><p>— А&#160;в&#160;Зоологическом?
+</p><p>— Ну действительно. Все хищные давно передохли. Остались одни филины да&#160;павлины. Так если этих зверей выпустить на&#160;голодных буржуев, так не&#160;звери их съедят, а&#160;они зверей слопают. И&#160;потом эпоха Цезарей не&#160;для нашего климата…
+</p><p>— А&#160;кстати, о&#160;климате. Вы мне прошлый раз обещали дать записочку на&#160;два пуда дров.
+</p><p>— Да&#160;ведь вы в&#160;прошлом месяце уже получили.
+</p><p>— Не понимаю, чего вы жметесь, ваше королевское величество. Ваши предки раздавали придворным, поддерживавшим их престол, целые города, поместья и&#160;леса, а&#160;из вас дюжину поленьев нельзя вытянуть… Пишите записку!
+</p><p>— Ах, мой женераль! Недаром нам, правящим сферам, приходится часто восклицать: «Как&#160;тяжела ты, шапка Мономаха!» Довольно с&#160;вас будет и&#160;пудика.
+</p>
+<center>ФЕЛИКС ДЗЕРЖИНСКИЙ</center>
+<center>КОБРА В&#160;ТРАВЕ</center>
+<p>Знаменитый советский чекист и&#160;палач Феликс Дзержинский, по&#160;словам газет, очень любит детей. Он&#160;часто навещает детишек в&#160;одном из&#160;приютов, находящихся в&#160;его ведении, и&#160;всегда нянчится с&#160;малютками.
+</p><p>В&#160;детском приюте — ликование:
+</p><p>— Дядя приехал! Дядя Феликс приехал!!
+</p><p>— Тише, детки, не&#160;висните так на&#160;мне. Вишь, ты, пузырь, чуть кобуру не&#160;порвал. Здравствуйте, товарищ надзирательница. Ну как&#160;поживают мои сиротки?
+</p><p>— Как&#160;сиротки? Что&#160;вы, товарищ Дзержинский! У&#160;них у&#160;всех есть отцы и&#160;матери.
+</p><p>— Хе-хе. Были-с. Были да&#160;сплыли. Этого беленького как&#160;фамилия?
+</p><p>— Зайцев.
+</p><p>— Ага, помню. Это совсем свеженький сиротка. С&#160;позавчерашнего дня. Впрочем, папочка его держал себя молодцом. Не моргнул папочка. Как&#160;его зовут? Кажется, Володя? Володя! Хочешь ко&#160;мне на&#160;коленку? Покатаю, как&#160;на лошади. Вот так. Ну целуй дядю. А&#160;это что&#160;за дичок? Почему волчонком смотришь?
+</p><p>— Это Чубуковых сынишка. Все к&#160;маме просится.
+</p><p>— Это какие Чубуковы?.. Ах, помню! Она какие-то&#160;заговорщицкие письма хранила. Препикантная женщина! И&#160;с&#160;огоньком… Мой помощник хотел за&#160;ней во&#160;время допроса приволокнуться, так она, представьте, полураздетая — прыг в&#160;окно да&#160;вниз. Вдребезги! Передайте от&#160;меня сынишке шоколадку. Ну а&#160;ты, карапуз? Как&#160;твоя фамилия?
+</p><p>— Федя Салазкин.
+</p><p>— А, Салазкин! Твой папа, кажется, профессором?
+</p><p>— Н… не&#160;знаю. Его зовут Анатолий Львович.
+</p><p>— Во-во. В&#160;самую точку попал. Бойкий мальчуган и, кажется, единственный — не&#160;сиротка. Ты по&#160;воскресеньям-то&#160;дома бываешь?
+</p><p>— Бываю.
+</p><p>— А&#160;папа письма какие-нибудь получает?
+</p><p>— Получает.
+</p><p>— Что&#160;за&#160;прелестный ребенок! Так вот, Федя, когда папочка получит письмецо — ты его потихоньку в&#160;кармашек засунь, да&#160;мне его сюда и&#160;предоставь. А&#160;я&#160;уж тебе за&#160;это, как&#160;полагается: и&#160;тянучка, и&#160;яблоко, румяненькое такое, как&#160;твои щечки. Только мамочке не&#160;проболтайся насчет письмеца, ладно? Ну пойди попрыгай!.. А&#160;ты, девочка, чего плачешь?
+</p><p>— Папу жалко.
+</p><p>— Э-э… Это уже и&#160;не хорошо: плакать. Чего ж тебе папу жалко?
+</p><p>— Его в&#160;чека взяли.
+</p><p>— Экие нехорошие дяди. За&#160;что&#160;же его взяли?
+</p><p>— Будто он&#160;план сделал. А&#160;это и&#160;не он&#160;вовсе. К&#160;нам приходил такой офицерик, и&#160;он с&#160;папочкой…
+</p><p>— Постой, постой, пузырь. Какой офицерик? Ты садись ко&#160;мне на&#160;колени и&#160;расскажи толком. Как&#160;фамилия-то&#160;офицерика?..
+</p><p>— Какая у&#160;тебя красивая цепочка. А&#160;часики есть?
+</p><p>— Есть.
+</p><p>— Дай послушать, как&#160;тикают.
+</p><p>— Ну на. Ты слушай часики, а&#160;я тебя буду слушать.
+</p><p>— Постой, дядя Феликс! Ты знаешь, у&#160;тебя точно такие часы, как&#160;у папы. Даже вензель такой&#160;же… и&#160;буквочки. Послушай! Да&#160;это папины часы.
+</p><p>— Пребойкая девчонка — сразу узнала! Твой папочка мне подарил.
+</p><p>— Значит, он&#160;тебя любит?..
+</p><p>— Еще как! Руки целовал. Ну так кто&#160;же этот офицерик?
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Уходя, дядя Феликс разнеженно говорил:
+</p><p>— Что&#160;за&#160;прелестные дети, эти сиротки! Только с&#160;ними и&#160;отдохнешь душой от&#160;житейской прозы…
+</p>
+<center>ПЕТЕРС</center>
+<center>ЧЕЛОВЕК, КОТОРЫЙ УБИЛ</center>
+<p>Есть такие классические фразы, которые будут живы и&#160;свежи и&#160;через 200, и&#160;через 500, и&#160;через 800&#160;лет. Например:
+</p><p>— Побежденным народам нужно оставить только одни глаза, чтобы они&#160;могли плакать, — сказал Бисмарк.
+</p><p>— Государство — это я! — воскликнул Людовик XIV.
+</p><p>— Париж стоит мессы, — рассудил Генрих IV, меняя одно верование на&#160;другое.
+</p><p>Впрочем, этот король показал себя с&#160;самой выгодной стороны другим своим альтруистическим изречением:
+</p><p>— Я&#160;хотел&#160;бы&#160;в супе каждого из&#160;моих крестьян видеть курицу!
+</p><p>Мы&#160;не&#160;знаем, что&#160;хотели&#160;бы&#160;видеть в&#160;супе каждого из&#160;своих крестьян Ленин и&#160;Троцкий, но&#160;знаменитый глава чрезвычаек Петерс выразился на&#160;этот счет довольно ясно и&#160;точно, и&#160;изречение его мы&#160;считаем не&#160;менее замечательным, чем генриховское.
+</p><p>Именно, по&#160;сообщениям газет, когда к&#160;нему, как&#160;к главе города, явились представители ростовских-на-Дону трудящихся и&#160;заявили, что&#160;рабочие голодают, Петерс сказал:
+</p><p>— Это вы называете голодом?! Разве это голод, когда ваши ростовские помойные ямы битком набиты разными отбросами и&#160;остатками?! Вот в&#160;Москве, где помойные ямы совершенно пусты и&#160;чисты, будто вылизаны — вот там голод!
+</p><p>Итак, ростовские рабочие могут воскликнуть, как&#160;запорожские казаки:
+</p><p>— Есть еще порох в&#160;пороховницах! Есть еще полные помойные ямы — эти продовольственные склады Советской власти!
+</p><p>Почему-то&#160;фраза Петерса промелькнула в&#160;газетах совершенно незаметно: никто не&#160;остановил на&#160;ней пристального внимания.
+</p><p>Это несправедливо! Такие изречения не&#160;должны забываться…
+</p><p>Моя&#160;бы&#160;власть — да&#160;я&#160;бы&#160;всюду выпустил огромные афиши с&#160;этим изречением, высек&#160;бы&#160;его на&#160;мраморных плитах, впечатал&#160;бы&#160;его в&#160;виде отдельного листа во&#160;все детские учебники, мои глашатаи громко возвещали&#160;бы&#160;его на&#160;всех площадях и&#160;перекрестках:
+</p><p>— Пока в&#160;городе помойные ямы полны — почему рабочие говорят о&#160;голоде?..
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Интересно, осматривал&#160;ли&#160;Г. Д. Уэллс во&#160;время своего пребывания в&#160;Москве — в&#160;числе прочих чудес советской власти — также и&#160;помойные ямы?
+</p><p>Если осматривал, то, наверное, пришел в&#160;восхищение: Вот это санитария! Вот это чистота! Да&#160;на&#160;дне этой помойной ямы можно фокстрот танцевать, будто на&#160;паркете.
+</p><p>— А&#160;у&#160;нас, в&#160;Англии, в&#160;помойных ямах делается черт знает что: огрызки хлеба, куски рыбы, окурки сигар, птичьи потроха, высохшие сандвичи, корки сыру! Нет, советская власть имеет большое, великое будущее, если даже в&#160;грязной, неряшливой Москве она ввела такую идеальную чистоту!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Интересно мне также, как&#160;тов.&#160;Петерс будет организовывать продовольственную помощь из&#160;помойных ям? Выдачу пайками? Но&#160;ведь пайки бывают трех или&#160;четырех категорий.
+</p><p>Очевидно, в&#160;первую голову будут допущены к&#160;пышному фрыштику<sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> рабочие-коммунисты — первая категория. Когда они&#160;снимут самые сливки — селедочные головки и&#160;колбасную кожуру, — робко подойдет вторая категория, просто рабочие. Выберут картофельную шелуху и&#160;мостолыгу лошадиной ноги, а&#160;все остальное пусть доедает третья категория — буржуи и&#160;саботажники.
+</p><p>Если&#160;бы&#160;я был не&#160;писателем, а&#160;тюремщиком, и&#160;если&#160;бы&#160;Петерс попал ко&#160;мне в&#160;тюрьму, я&#160;устроил&#160;бы&#160;ему роскошную жизнь! Я&#160;кормил&#160;бы&#160;его до&#160;отвалу. Я&#160;бы&#160;каждый день закатывал ему обеды из&#160;семи блюд, со сладким.
+</p><p>Он&#160;бы&#160;у меня не&#160;голодал, ибо он&#160;сам замечательно выразился:
+</p><p>— Пока существуют помойные ямы — голода не&#160;может быть!
+</p><p>Меню&#160;бы&#160;у Петерса было такое:
+</p><p>Закуска:
+</p><p>Икра из&#160;ваксы, жестянка от&#160;анчоусов, яичная скорлупа, фаршированная зубочистками обернуар.
+</p><p>Суп:
+</p><p>Консоме из&#160;мыльной воды а-ля Савон с&#160;окурками, пирожки из&#160;папиросных коробок с&#160;пепельным фаршем…
+</p><p>Рыба:
+</p><p>Селедочный позвоночный столб с&#160;грибками, которые на&#160;стенках.
+</p><p>Мясо:
+</p><p>Фрикассе Ра-Мор, жаренное на&#160;шкаре в&#160;мышеловке.
+</p><p>Зелень:
+</p><p>Все, что&#160;уже позеленело. Приготовлено а-ля масседуан.
+</p><p>Птица:
+</p><p>Перо от&#160;старой дамской шляпы, соус сюпрем.
+</p><p>Сладкое:
+</p><p>Шоколадные обертки, яблочная кожура, кофейная гуща.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Я&#160;не&#160;думаю, чтобы Петерс имел право отказаться от&#160;такого обеда.
+</p><p>Потому что, если даже такие великие люди, как&#160;Наполеон, Суворов и&#160;Петр Великий, честно ели пишу из&#160;общего котла, то&#160;какое имеют право отказаться от&#160;общего котла наши циммервальдские Наполеоны, устроившие из&#160;всей Великой России один общий котел:
+</p><p>Помойную яму.
+</p>
+<center>МАКСИМ ГОРЬКИЙ</center>
+<center>ХЛЕБ В&#160;ВЫГРЕБНОЙ ЯМЕ</center>
+<p>У&#160;Максима Горького есть один рассказ, который заканчивается так:
+</p><p>— Море смеялось.
+</p><p>Ах, многоуважаемый, талантливый Алексей Максимыч! Что&#160;там море! Недавно вы сделали нечто такое, от&#160;чего не&#160;только море — сухая потрескавшаяся русская земля могла рассмеяться до&#160;истерики, деревья в&#160;лесу, нагибаясь к&#160;земле и&#160;держась ветками за&#160;ствол, скрипели от&#160;душившего их смеха, мелкие рыбешки в&#160;реке вздулись, полопались и&#160;поиздыхали от&#160;хохота…
+</p><p>Ах, как&#160;вы можете рассмешить, Алексей Максимыч!..
+</p><p>Если рассказать вульгарной прозой то, что&#160;сделал знаменитый пролетарский «буревестник», так вот как&#160;оно звучит:
+</p><p>Без&#160;малого четыре года буревестник, «ломая крылья, теряя перья» от&#160;усердия, — без&#160;малого четыре года славословил буревестник советскую власть.
+</p><p>Державинские хвалебные оды казались щенками перед&#160;тем огромным распухшим слоном, коего создал Максим Горький, написав ликующую, восторженную оду Ленину…
+</p><p>В&#160;той компании привычных каторжников и&#160;перманентных убийц, которые правят Россией, Максим Горький был своим, хорошо принятым человечком:
+</p><p>И&#160;в&#160;почетному углу
+</p><p>Было место ему…
+</p><p>Правда, он&#160;был только зрителем этого нескончаемого театра грабежей и&#160;убийств, но&#160;сидел он&#160;всегда в&#160;первом ряду по&#160;почетному билету и&#160;при всяком курбете лицедеев — он&#160;первый восторженно хлопал в&#160;ладошки и&#160;оглашал спертый «чрезвычайный» воздух мягким пролетарским баском:
+</p><p>— Браво, браво! Оч-чень мило. Я&#160;всей душой с&#160;вами, товарищи!
+</p><p>Он&#160;милостиво и&#160;снисходительно улыбался, когда его пылкие друзья половину интеллигенции, людей искусства и&#160;науки выгнали за&#160;границу, четверть — оптом поставили к&#160;стенке, а&#160;оставшуюся четверть, как&#160;кроликов, приготовленных для&#160;вивисекции, заперли в&#160;душные вонючие клетки, приставили к&#160;ним сторожем и «хранителем этого кроличьего музея» бывшего директора кафешантана Адольфа Родэ — все это Горький глотал даже не&#160;как горькую пилюлю, а&#160;подобно — да&#160;простят мне это сравнение — подобно той Коробочкиной свинье в «Мертвых душах», которая мимоходом съела цыпленка и&#160;сама этого не&#160;заметила.
+</p><p>И&#160;вот, когда несчастные ученые кролики, доведенные до&#160;этого положения на&#160;одну десятую, сотую, тысячную тем&#160;же Горьким, стали умирать от&#160;бескормицы, Горький растрогался, сердце его умягчилось и&#160;пошел он&#160;к финнам:
+</p><p>— Вот что, братцы… Там у&#160;нас в&#160;питомнике ученые содержатся, так того-этого… Мрут шибко! Не будет&#160;ли&#160;способия какого? Пожевать&#160;бы&#160;им чего, или&#160;из бельишка старенького, или&#160;там сапожишек. Подайте, Христа ради, знаменитым русским ученым и&#160;писателям!..
+</p><p>Растрогались сумрачные финны.
+</p><p>— Извольте, — говорят. — Мы&#160;вам дадим кой-чего для&#160;ученых, но&#160;так как&#160;все ваше начальство — воры и&#160;могут украсть для&#160;себя, то&#160;мы все собранное повезем сами.
+</p><p>Привезли в&#160;Дом ученых и&#160;писателей и&#160;стали делить:
+</p><p>— Александр Пушкин! Вам полусапожки и&#160;две банки сгущенного молока! Иван Тургенев! Получайте исподнее, фунтик сахару и&#160;четверку чаю. Выпейте за&#160;здоровье богатой и&#160;могучей Финляндии! Менделеев! Свиного сала фунт, банка какао и&#160;пиджачная тройка — совсем почти еще крепенькая!
+</p><p>Получили Пушкины, Лермонтовы, Менделеевы и&#160;Пироговы по&#160;сверточку, как&#160;дворницкие дети на&#160;богатой елке, и, сияющие от&#160;счастья, снова расползлись по&#160;своим клеткам.
+</p><p>Зашел потом Горький — тоже сияющий, — собрал всю обшарпанную компанию Гоголей, Островских и&#160;Лесгафтов и&#160;гаркнул:
+</p><p>— Ну что, ребята! Довольны тем, что&#160;я вам схлопотал?
+</p><p>— Много довольны, ваше пролетарское величество! — гаркнули в&#160;ответ полумертвые от&#160;голода ребята, прижимая к&#160;груди драгоценные сверточки.
+</p><p>— То-то&#160;и оно. Вы уж старайтесь, а&#160;я вас не&#160;забуду. Молочка там или&#160;фуфайку какую из&#160;сосновой шерсти — завсегда устрою.
+</p><p>— Благодарим покорнейше.
+</p><p>— А&#160;впрочем, что&#160;мне из&#160;вашей благодарности — шубу шить, что&#160;ли? Вы&#160;бы&#160;мне такой аттестатик выдали, адресок, где отписали&#160;бы, что&#160;так, мол, и&#160;так, чувствительно благодарны и&#160;не забудем по&#160;гроб жизни. А&#160;я&#160;его в&#160;рамочку да&#160;на стенку — пусть себе висит; вам написать — раз плюнуть, а&#160;мне приятно!
+</p><p>И&#160;вот тогда-то&#160;и появилась эта потрясающая «благодарность Максиму Горькому от&#160;имени писателей и&#160;ученых».
+</p><p>Писали, очевидно, голодные ученые эту благодарность, глотали соленые слезы, а&#160;сами думали:
+</p><p>«Черт с&#160;ним, напишем пожалостнее!.. Все-таки с&#160;Лениным за&#160;ручку здоровается и&#160;с Троцким на „ты“. Поблагодарим, а&#160;он, может, опять по&#160;полфунтика колбасы выдаст да&#160;по связке баранок — оно, глядишь, дня три еще протянуть и&#160;можно…»
+</p><p>Голод — не&#160;тетка. Написали очень хлестко.
+</p><p>— Зарубежная эмигрантская Русь неправильно оценивает благородную работу Горького. Мы&#160;стоим ближе к&#160;делу и&#160;свидетельствуем…
+</p><p>Бедные вы, бедные… Свидетельствуете! А&#160;свободно&#160;ли&#160;вы свидетельствуете, знаменитые ученые кролики, запертые в&#160;вонючую клетку на&#160;предмет вивисекции?
+</p><p>И&#160;когда писали вы — не&#160;звучала&#160;ли&#160;в ваших ушах знаменитая фраза Сквозника-Дмухановского:
+</p><p>— А&#160;если приедет ревизор, да&#160;будет спрашивать — всем&#160;ли&#160;довольны, то&#160;чтоб отвечали «всем довольны»… А&#160;то&#160;я другому недовольному такое неудовольствие покажу, что…
+</p><p>Море смеялось…
+</p><p>Море смеется. Горький смеется, у&#160;Ленина, по&#160;свидетельству того&#160;же Горького, «мелодичный детский смех» — а&#160;нам всем отсюда, издали — плакать хочется…
+</p>
+<center>ФЕДОР ШАЛЯПИН</center>
+<center>ХАМЕЛЕОН</center>
+<p>Некто переводил и&#160;объяснял слово «хамелеон» так: «Хамелеон — это хам, желающий получить миллион». Не совсем грамотно. Но, в&#160;общем, верно.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Одесские газеты сообщали:
+</p><p>«Во&#160;время исполнения в&#160;Мариинском театре оперы „Евгений Онегин“ Ф. Шаляпин, певший Гремина, сорвал с&#160;себя офицерские погоны и&#160;бросил их в&#160;оркестр — в&#160;знак протеста против наступления белогвардейцев на&#160;Петербург».
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Вот маленькая история, которая заставила меня призадуматься.
+</p><p>Ибо, как&#160;сказал Шекспир, «в&#160;этом безумии есть нечто методическое».
+</p><p>До&#160;сих пор все такие зигзаги Шаляпина объясняли просто его повышенной артистической нервностью, влиянием момента, грандиозным подъемом и&#160;невероятным напряжением нервов на&#160;одну минуту. «Сделал, мол, но&#160;сделал, как&#160;в бреду, сам еще за&#160;пять минут до&#160;этого не&#160;зная, что&#160;сделает»…
+</p><p>Так было объяснено неожиданное пение Ф. Шаляпиным революционной «Дубинушки» в 1905&#160;году.
+</p><p>Так было объяснено неожиданное коленопреклонение на&#160;сцене Мариинского театра перед&#160;государем в 1909&#160;году.
+</p><p>Так будет, вероятно, объяснено и&#160;срывание погон со своего офицерского мундира.
+</p><p>Нет, позвольте! Случай с&#160;погонами — и&#160;именно случай с&#160;погонами — наводит на&#160;самые категорические подозрения: не&#160;были&#160;ли&#160;все три поступка поступками, строго обдуманными и&#160;заранее тщательно выношенными, не&#160;были&#160;ли&#160;все три поступка «экспромтами, приготовленными за&#160;неделю»?..
+</p><p>Вот мои соображения.
+</p><p>Многие, вероятно, знают, что&#160;когда происходит тяжелая процедура разжалования офицера, то&#160;ее казовую, самую эффектную сторону подготовляют заранее: где-нибудь в&#160;уголку подпарывают погоны и&#160;подпиливают посредине шпагу…
+</p><p>Понятно, для&#160;чего это делается: карающая власть, прочтя приговор, должна быстро и&#160;эффектно сорвать с&#160;виновного погоны и&#160;бросить их на&#160;пол; должна вынуть из&#160;ножен шпагу и, ударив ею слегка о&#160;колено, далеко отбросить обе половинки в&#160;разные стороны…
+</p><p>Предварительные приготовления делаются именно для&#160;того, чтобы не&#160;было смешного циркового, фарсового трюка, когда уцепился человек за&#160;крепко пришитые погоны — тянет-потянет — оторвать не&#160;может. Нельзя&#160;же таскать за&#160;собою человека за&#160;погон, минут пять пыхтя и&#160;надсаживаясь, нельзя&#160;же возиться со шпагой десять минут, обливаясь потом, колотя ею о&#160;распухшее от&#160;усилий колено, наступая на&#160;нее ногой и&#160;приглашая для&#160;завершения усилий двух помощников из&#160;публики.
+</p><p>Шаляпин слишком хороший, учитывающий все эффекты, все театральные условности, все красивые места, актер: Шаляпин очень хорошо знает, что&#160;театральный портной, создавая мундир, создает его на&#160;десятки лет, и&#160;поэтому все части пригнаны очень крепко; портной, в&#160;свою очередь знает, что&#160;мундиру князя Гремина никогда не&#160;будет предстоять операция срывания погон; поэтому погоны пришиты на&#160;десятки лет, на&#160;совесть!
+</p><p>И&#160;поэтому я&#160;утверждаю, что&#160;эффектная операция срывания Шаляпиным погон не&#160;была экспромтна, не&#160;была следствием бурно налетевшего экстра-переживания…
+</p><p>Шаляпин никогда&#160;бы&#160;себе не&#160;позволил на&#160;сцене некрасивого пыхтения и&#160;возни с&#160;неподатливыми погонами.
+</p><p>Нет! В&#160;этом безумии было что-то&#160;методическое.
+</p><p>— Гаврила! — сказал за&#160;день до&#160;спектакля знаменитый бас своему портному. — Гаврила! Подпори на&#160;мне погоны в&#160;мундире Гремина!..
+</p><p>— Да&#160;зачем это вам, Федор Иваныч?
+</p><p>— Не твое дело, братец! Тут, брат, высокая политика, а&#160;ты — гнида! Сделай так, чтоб на&#160;честном слове держались.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Но&#160;тогда — позвольте! Тогда и&#160;экспромтная история с «Дубинушкой» подмочена; тогда и&#160;казус с&#160;коленопреклонением очень мне подозрителен: да&#160;точно&#160;ли&#160;это бурные, неожиданные, сразу налетевшие шквалы?!
+</p><p>Не было&#160;ли&#160;так:
+</p><p>1905&#160;год. Кабинет жандармского полковника…
+</p><p>Курьер докладывает:
+</p><p>— Господин Шаляпин хотят видеть!
+</p><p>— А-а… Проси, проси!.. Какому счастливому событию обязан удовольствием видеть вас, Федор Иваныч?
+</p><p>— Да&#160;так… зашел просто поболтать, — сочным басом отвечает знаменитый певец. — Ну что, революцией все занимаетесь, крамолу ловите, хе-хе-хе?
+</p><p>— Да, хе-хе-хе! Приходится.
+</p><p>— Дело хорошее. Небось, все молодежь, все горячие головы?..
+</p><p>— Да… большей частью.
+</p><p>— Небось, все «Дубинушку» поют?
+</p><p>— Бывает.
+</p><p>— Что&#160;ж вы им за&#160;эту «Дубинушку»? Небось, в&#160;каталажку?
+</p><p>— Ну что&#160;вы! «Дубинушка» — дело у&#160;нас невинное… Ну сделаешь замечание, ну поставишь на&#160;вид…
+</p><p>— Только-то? Ну я&#160;пойду. Не буду мешать.
+</p><p>И&#160;в&#160;тот&#160;же день Шаляпин бодро, грозно, эффектно, с&#160;большим революционным подъемом спел «Дубинушку».
+</p><p>А&#160;окружающие объясняли: такая минута подошла, когда даже камни вопиют.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>А&#160;в&#160;лето 1909&#160;года позвал однажды Шаляпин своего портного, вероятно, того&#160;же самого Гаврилу, и&#160;сказал ему:
+</p><p>— Завтра к&#160;спектаклю нашей мне на&#160;коленки штанов, которые будут на&#160;мне, нашей изнутри по&#160;ватной подушечке. Так, чтобы на&#160;самые колени приходилось!..
+</p><p>— Да&#160;ведь некрасиво, Федор Иванович… Выпучиваться будет.
+</p><p>— А&#160;ты не&#160;рассуждай. Политика, брат, дело высокое, а&#160;ты — кто? Смерд. Илот.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Такое мое мнение, что, когда Юденич войдет в&#160;Петроград, в&#160;первом ряду восторженного населения будет стоять Шаляпин и, сверкая чудесными очами, запоет сочным басом «Трехцветный флаг» Мирона Якобсона.
+</p><p>— Вот тебе и&#160;Шаляпин, — благоговейно скажут в&#160;толпе. — Не выдержало русское сердце — запел экспромтом что-то&#160;очень хорошее!
+</p><p>А&#160;экспромт этот был задуман в&#160;тот самый день, когда Гаврила погоны подпарывал: Гаврила погоны подпарывал, а&#160;Исайка в&#160;этот самый момент по&#160;поручению своего патрона тихо пробирался через&#160;границу в&#160;зону расположения Добровольческой армии — за&#160;свеженьким экземпляром «Трехцветного флага».
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Ах, широка, до&#160;чрезвычайности широка и&#160;разнообразна русская душа!
+</p><p>Многое может вместить в&#160;себя эта широкая русская душа…
+</p><p>И&#160;напоминает она мне знаменитую «плюшкинскую кучу». У&#160;Гоголя.
+</p><p>Помните? «Что&#160;именно находилось в&#160;кучке — решить было трудно, ибо пыли на&#160;ней было в&#160;таком изобилии, что&#160;руки всякого касавшегося становились похожими на&#160;перчатки: заметнее прочего высовывались оттуда отломленный кусок деревянной лопаты и&#160;старая подошва сапога»…
+</p><p>Так и&#160;тут: все свалено в&#160;самом причудливом соприкосновении: царская жалованная табакерка с&#160;вензелем и&#160;короной, красная тряпка залитого кровью загрязненного флага, грамота на&#160;звание «солиста его величества», ноты «Интернационала» — и&#160;тут&#160;же заметно высовывается краешек якобсоновского «Трехцветного флага».
+</p><p>Мала куча — крыши нету!
+</p>
+<center>МАРТОВ И&#160;АБРАМОВИЧ</center>
+<center><i>Сказка про&#160;белого бычка</i></center>
+<p>Существуют на&#160;свете два молодых человека — прекрасных, как&#160;майское утро, и&#160;обаятельных, как&#160;принцы из&#160;волшебной сказки…
+</p><p>Это — Мартов и&#160;Абрамович.
+</p><p>Они — эсдеки.
+</p><p>Они&#160;издают газету «Социалистический Вестник».
+</p><p>И&#160;носятся слухи, что&#160;эту газету даже кто-то&#160;читает. Летом ее тираж больше, зимой меньше. Летом, как&#160;известно, разводятся мухи — этот бич населения.
+</p><p>И&#160;вот, если разложить на&#160;столе «Социалистический Вестник», он&#160;через час почернеет от&#160;дохлых мух.
+</p><p>Очень полезно.
+</p><p>Если&#160;же подойти к&#160;этой газете, как&#160;к материалу для&#160;чтения, то&#160;у читателя получается ощущение, какое, вероятно, бывает у&#160;голодной собаки, когда озорной мальчишка дает ей проглотить кусочек сала, привязанный к&#160;крепкой бечевке, и&#160;потом начнет подергивать за&#160;другой конец бечевки.
+</p><p>Я&#160;полагаю, что&#160;собака в&#160;этом случае питает страстное желание вывернуться наизнанку, только чтобы избавиться от&#160;навязанного ей ощущения.
+</p><p>Те&#160;же эмоции испытывает и&#160;читатель, решивший проглотить одним духом соблазнительное издание Радика и&#160;Дудика — Мартова и&#160;Абрамовича.
+</p><p>Однажды я&#160;прочел в&#160;этой газете энергичный и&#160;трогательный протест против расстрелов, практикующихся Советской властью.
+</p><p>Мартов и&#160;Абрамович категорически утверждали, что&#160;расстрел эсдеков — возмутительный произвол, и&#160;что эсдеков большевики расстреливать не&#160;имеют права.
+</p><p>О&#160;не&#160;социалистах ничего не&#160;было сказано: значит, их расстреливать можно.
+</p><p>Протестовали и&#160;правые эсеры против расстрелов правых эсеров и&#160;левые эсеры протестовали тоже против расстрела левых эсеров.
+</p><p>Вышло как-то&#160;так, что&#160;меня — не&#160;эсдека и&#160;не эсера — может всякая каналья расстрелять, и&#160;ни эсдек, ни&#160;эсер даже не&#160;почешется.
+</p><p>Так как&#160;я человек беспартийный, то&#160;я собираюсь сузить этот принцип еще больше: меня зовут Аркадий, и&#160;я накатаю обращение ко&#160;всему миру с&#160;протестом против расстрела всех Аркадиев.
+</p><p>Раз человек носит поэтичное имя: Аркадий — не&#160;трожь его, скотина! Расстреливай Геннадиев или&#160;Аполлинариев, если уж так тебе приспичило.
+</p><p>Другие человеки тоже могут организоваться по&#160;своим отличительным признакам: брюнеты напишут протест против расстрела брюнетов, рыжие станут грудью за&#160;рыжих, косоглазые за&#160;косоглазых и&#160;привычные кретины за… впрочем, последнего не&#160;надо. Уже сделано.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Однако, как&#160;говорят французы — «вернемся к&#160;нашим баранам» — к&#160;Мартову и&#160;Абрамовичу.
+</p><p>Итак, они&#160;энергично протестуют: против расстрелов эсдеков, против удушения эсдековской прессы и&#160;против не&#160;включения эсдеков в&#160;число правящего класса.
+</p><p>А&#160;представьте вы себе такую картину: сидят Мартов с&#160;Абрамовичем у&#160;себя в&#160;редакции, тихо, мирно испускают «Социалистический Вестник» — вдруг является депутация русских мужичков и, повалившись в&#160;ноги, заголосит:
+</p><p>— Земля наша очень велика и&#160;обильна, большевики вырезаны — придите княжить и&#160;володеть нами!
+</p><p>Пражские эсеры позеленеют и&#160;лопнут от&#160;зависти, что&#160;не их пригласили править, но&#160;Мартову и&#160;Абрамовичу уже не&#160;до них: мало&#160;ли&#160;какие бедные родственнички корчатся по&#160;передним царственных домов.
+</p><p>— Наша взяла! — радостно гаркнет Мартов и&#160;тут&#160;же покосится на&#160;Абрамовича, подумав: «Эх, хватил&#160;бы&#160;тебя паралич — можно&#160;бы&#160;тогда начать устраиваться без&#160;компанионов!».
+</p><p>А&#160;Абрамович крепко пожмет Мартову руку и&#160;мелькнет в&#160;его светлой голове мысль:
+</p><p>— Эх, не&#160;руку&#160;бы&#160;тебе так сжать, а&#160;горло! Ведь, знаю, поеду в&#160;Москву — сейчас&#160;же за&#160;мной потащишься!..
+</p><p>Но&#160;наружно они&#160;будут сиять и, ужмая коленями пухлые чемоданы, пообещают делегации:
+</p><p>— Раз вы передаете власть в&#160;наши эсдекские руки — всякий произвол и&#160;насилие прекратятся! Долой гнет печати, долой расстрелы и&#160;Че-ка!..
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Вот и&#160;Москва развернула свои пышные красоты перед&#160;двумя новыми Рюриком и&#160;Синеусом.
+</p><p>— С&#160;чего ж мы&#160;начнем? — спросил деятельный Абрамович. — Надо составлять коалиционное правительство!
+</p><p>Мартов поморщился:
+</p><p>— Значит, с&#160;эсерами и&#160;кадетами?
+</p><p>— С&#160;какой радости? Что&#160;у&#160;нас меньшевиков мало, что&#160;ли? Составим коалиционный кабинет из&#160;меньшевиков левых, меньшевиков правых и&#160;меньшевиков так себе.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Пришел Абрамович к&#160;Мартову — лица на&#160;нем нет:
+</p><p>— Вы послушайте какое хамство! Эсеры ругательски изругали нас в&#160;своей газете за&#160;то, что&#160;мы их не&#160;включили в&#160;кабинет! Можете представить — меня назвали бездарным слизняком! По-моему, эту их паршивую газету нужно закрыть навсегда!
+</p><p>— Ну, положим, — усмехнулся Мартов. — Это недостаточный мотив для&#160;закрытия.
+</p><p>— А&#160;про&#160;вас написали, что&#160;вы пузатый Калигула с&#160;темпераментом скопца-менялы!
+</p><p>— Гм… да. Тогда мотивы для&#160;закрытия, пожалуй, достаточны. Заготовьте ордерок.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Снова прибежал Абрамович к&#160;Мартову — снова лица на&#160;нем нет. Вместо лица — трагическая маска.
+</p><p>— Послушайте! После закрытия нами эсеровских и&#160;кадетских газет — эти каторжники совсем на&#160;стену полезли: получил сведения, что&#160;они организуют заговор с&#160;целью нас свергнуть.
+</p><p>— Кукиш с&#160;маслом! — воскликнул, с&#160;царственным жестом, Мартов. — Нам нужно создать особый орган, который следил&#160;бы&#160;за общественной безопасностью и&#160;раскрывал заговоры.
+</p><p>— Чрезвычайную Комиссию?
+</p><p>— Дубовая голова! Разве можем мы&#160;воскрешать Че-ка, вызвать к&#160;жизни мрачные страницы большевизма?! Нет, нужно создать Обыкновенную Комиссию.
+</p><p>— Значит Об-ка?
+</p><p>— Об-ка — это звучит спокойно и&#160;безобидно.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Через&#160;год за&#160;границей встретились двое русских.
+</p><p>— Вы каким образом из&#160;России?
+</p><p>— Бежал от&#160;ужасов Об-ка.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Я&#160;не&#160;моралист, но&#160;я только хотел доказать читателям — что&#160;такое партийная власть.
+</p><p>Всякий человек, говорящий «А», неизбежно произносит и&#160;следующую букву…
+</p><p>Когда расстреливают всю Россию, а&#160;Черт Иваныч протестует только против расстрела Чертей Иванычей, такой человек у&#160;власти будет самым сугубым Нероном, только без&#160;его уменья играть на&#160;цитре.
+</p><p>Партийные люди напоминают бездарных с&#160;болезненным самолюбием актеров.
+</p><p>А&#160;ведь сказано:
+</p><p>— Не всякий император на&#160;месте Нерона был&#160;бы&#160;актером, но&#160;всякий актер на&#160;императорском месте будет Нероном.
+</p>
+<center>КЕРЕНСКИЙ</center>
+<center>(Первый портрет)</center>
+<center>ЧЕЛОВЕК СО СПОКОЙНОЙ СОВЕСТЬЮ</center>
+<p>Существует прекрасное русское выражение:
+</p><p>— Со стыда готов сквозь землю провалиться.
+</p><p>Так вот: я&#160;знаю господина, который должен был&#160;бы&#160;беспрерывно, перманентно проваливаться со стыда сквозь землю.
+</p><p>Скажем так: встретил этот господин знакомого, взглянул ему знакомый в&#160;глаза — и&#160;моментально провалился мой господин сквозь землю… Пронизал своей особой весь земной шар, вылетел на&#160;поверхность там где-нибудь, у&#160;антиподов, посмотрел ему встречный антипод в&#160;глаза — снова провалился сквозь землю мой господин и, таким образом, будь у&#160;моего господина хоть какой-нибудь стыд — он&#160;бы должен всю свою жизнь проваливаться, пронизывая собою вещество земного шара по&#160;всем направлениям…
+</p><p>Но&#160;нет стыда у&#160;моего господина, и&#160;никуда он&#160;ни разу не&#160;провалился: вместо этого пишет пышные статьи, иногда говорит пышные речи, живет себе на&#160;земной коре, как&#160;ни в&#160;чем не&#160;бывало, и&#160;со взглядами встречных перекрещивает свои взгляды, будто его хата совершенно с&#160;краю.
+</p><p>А&#160;ведь вдуматься — черт его знает, что&#160;взваливает жизнь на&#160;плечи этого человека:
+</p><p>Умер поэт Блок — он&#160;виноват.
+</p><p>Расстреляли чекисты 61 человека — ученых и&#160;писателей — он&#160;виноват.
+</p><p>Умерли от&#160;голода 2 миллиона русских взрослых и&#160;миллион детей — он&#160;виноват в&#160;такой мере, как&#160;если&#160;бы&#160;сам передушил всех и&#160;каждого своими руками.
+</p><p>Миллионы русских беженцев пухнут от&#160;голода, страдают от&#160;лишений, от&#160;унижений — он, он, он — все это сделал он.
+</p><p>Господи боже ты мой! Да&#160;доведись на&#160;меня такая огромная, нечеловеческая страшная ответственность, я&#160;отправился&#160;бы&#160;в знаменитый Уоллостонский парк, выбрал&#160;бы&#160;самое высокое в&#160;мире дерево, самую длинную в&#160;свете веревку, — да&#160;и повесился&#160;бы&#160;на самой верхушке, чтоб весь мир видел, как&#160;я страдаю от&#160;мук собственной совести.
+</p><p>А&#160;мой господин, как&#160;говорят хохлы: и&#160;байдуже!
+</p><p>Наверное, в&#160;тот момент, как&#160;я пишу, сидит где-нибудь в&#160;ресторанчике «Золотой Праги», кушает куриную котлетку с&#160;гарниром и, запивая ее темным, пенистым пражским пивом, не&#160;моргнув глазом, читает известия из&#160;России:
+</p><p>— До&#160;сих пор голод унес до&#160;трех миллионов русских. К&#160;декабрю должны умереть около десяти миллионов, а&#160;к марту, если не&#160;будет помощи извне — перемрет вся Россия. («Общее Дело». Письмо из&#160;Петербурга.)
+</p><p>Котлетку кушаете?
+</p><p>Приятного вам аппетита, Александр Федорыч! Неужели не&#160;подавитесь вашей котлеткой?
+</p><p>Счастливый народ — эти люди без&#160;стыда, без&#160;совести… Невинностью дышит открытое лицо, ясные глазки простодушно поглядывают на&#160;окружающих, и&#160;весь вид так и&#160;говорит:
+</p><p>— А&#160;что&#160;ж я? Я&#160;ничего. Вел я&#160;себя превосходно, был и&#160;главнокомандующим, и&#160;митрополитом, и&#160;если мне еще не&#160;поставили в&#160;России памятника, то&#160;это только потому, что&#160;нет пророка в&#160;отечестве своем…
+</p><p>Пока вы безмятежно кушаете котлетку, Александр Федорыч, позвольте мне ознакомить вас с&#160;вашим формуляром, и&#160;если хоть один прожеванный кусок застрянет в&#160;вашем горле, значит — есть еще бог в&#160;небе и&#160;совесть на&#160;земле…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Знаете&#160;ли&#160;вы, с&#160;какого момента Россия пошла к&#160;погибели? С&#160;того самого, когда вы, глава России, приехали в&#160;министерство и&#160;подали курьеру руку.
+</p><p>Ах, как&#160;это глупо было и, — будь вы другой человек — как&#160;бы вам должно быть сейчас мучительно стыдно! Вы тогда думали, что&#160;курьер такой&#160;же человек, как&#160;вы. Совершенно верно: такой&#160;же. И&#160;глаза на&#160;месте, и&#160;кровообращение правильное. Но&#160;руки ему подавать не&#160;следовало, потому что&#160;дальше произошло вот что: в&#160;первый день вы ему, курьеру, протянули руку, во&#160;второй день уже он&#160;с вами поздоровался первый (дескать, свой человек, чего с&#160;ним стесняться), а&#160;на третий день, когда вы сидели в&#160;кабинете за&#160;министерским столом, он&#160;без зова вошел вперевалку, уселся на&#160;край стола и, закурив цигарку, хлопнул вас по&#160;плечу:
+</p><p>— Ну, Сашка-канашка, что&#160;новенького?
+</p><p>Еще и&#160;тогда был неупущенный момент: дать ему по&#160;шее, сбросить со стола и&#160;крикнуть:
+</p><p>— Ты забываешься, каналья! П-шел вон! — Вы этого не&#160;сделали; наверное, хихикнули, прикурили от&#160;его папироски и&#160;ответили: — Да&#160;вот помаленьку спасаю Россию.
+</p><p>Ах, как&#160;стыдно! Ну на&#160;кой черт вы полезли со своим рукопожатием к&#160;курьеру? Разве он&#160;оценил? Взобрался вам&#160;же на&#160;шею, гикнул и&#160;погнал вас вскачь не&#160;туда, куда&#160;бы&#160;вам хотелось, а&#160;туда, где ему удобнее.
+</p><p>Не спорю, может быть, персонально этот курьер — обворожительно светский человек, но&#160;вы ведь не&#160;ему одному протянули руку для&#160;пожатия, а&#160;всей наглой, хамской части России.
+</p><p>Вскочил на&#160;вас хам, оседлал, как&#160;доброго скакуна, и&#160;погнал прямо на&#160;границу — встречать Ленина и&#160;Троцкого.
+</p><p>Не скажете&#160;ли&#160;вы, что&#160;в прибытии Ленина и&#160;Троцкого виноваты немцы? Голубчик вы мой! Да&#160;ведь они&#160;воевали с&#160;нами. Это было одно из&#160;средств войны. Так&#160;же они&#160;могли&#160;бы&#160;прислать и&#160;поезд с&#160;динамитом, с&#160;баллонами удушливого газа или&#160;с сотней бешеных собак.
+</p><p>А&#160;вы этих бешеных собак приняли с&#160;полковой музыкой и&#160;стали охранять так заботливо, как&#160;любящая нянька — шаловливых детей.
+</p><p>Ну что&#160;я могу сказать немцам? Скажу: зачем вы прислали нам такую ошеломляющую дрянь?
+</p><p>А&#160;они&#160;мне ответят:
+</p><p>— Вольно&#160;же вам, дуракам, было принимать. Мы&#160;бы&#160;на вашем месте тут&#160;же на&#160;границе их и&#160;перевешали, вроде как&#160;бывает атака удушливых газов и&#160;контратака.
+</p><p>А&#160;вы? Обрадовались! Товарищи, мол, приехали! «Здравствуйте, я — ваша тетя! Говорите и&#160;делайте, что&#160;хотите, у&#160;нас свобода».
+</p><p>И&#160;еще один момент был упущен, помните, тогда, у&#160;Кшесинской? Одна рота верных солдат — и&#160;от всей этой сволочи и&#160;запаху&#160;бы&#160;не осталось. И&#160;никто не&#160;роптал&#160;бы — так&#160;бы&#160;и присохло.
+</p><p>А&#160;вы вместо этого стали гонять вашего министра Переверзева на&#160;поиски новой квартиры для&#160;Ленина и&#160;Троцкого.
+</p><p>Александр Федорович! Какая у&#160;вас завидная натура… Ведь одно это так стыдно, будто вас всепарадно на&#160;столичной площади высекли. А&#160;вы теперь, вместо Уоллостонского парка, котлетку кушаете, как&#160;гоголевский высеченный поручик когда-то&#160;ел пирожок.
+</p><p>Много есть людей, у&#160;которых ужасное прошлое, но&#160;ни одного я&#160;не знаю, у&#160;кого&#160;бы&#160;было такое стыдное прошлое, как&#160;у вас. Еще, я&#160;понимаю, если&#160;бы&#160;вы за&#160;это деньги получили, но&#160;ведь бесплатно!
+</p><p>У&#160;вас в&#160;руках был такой козырь, как&#160;восстание, когда озверевшая толпа (я&#160;сам видел) разрывала большевиков на&#160;части — как&#160;вы ликвидировали это настроение? Вы, глава государства, запретили печатать документы, уличающие Ленина и&#160;Троцкого в&#160;получении от&#160;немцев денег! Троцкий сидит в&#160;тюрьме — вы его выпустили, Корнилов хотел спасти Россию — вы его погубили. Клялись умереть с&#160;демократией — удрали на&#160;автомобиле.
+</p><p>«Волю России» издаете? Куриные котлетки кушаете?
+</p><p>С&#160;таким-то&#160;прошлым?
+</p><p>Да&#160;ведь только два пути и&#160;существует: или&#160;самое высокое дерево Уоллостонского парка, или&#160;монашеский клобук, вериги и&#160;полная перемена имени и&#160;фамилии, чтобы в&#160;маленьком монастырьке не&#160;пахло и&#160;духом того человека, который так тщательно, заботливо и&#160;аккуратно погубил одну шестую часть земной суши, сгноил с&#160;голоду полтораста миллионов хорошего народу, того самого, который в&#160;марте 1917&#160;года выдал вам авансом огромные, прекрасные векселя.
+</p><p>Ловко вы обошлись с&#160;этими векселями!..
+</p><p>Ну прощайте. Приятного вам аппетита!
+</p>
+<center>КЕРЕНСКИЙ</center>
+<center>(Второй портрет)</center>
+<center>ДОБРЫЙ ТОВАРИЩ</center>
+<p>Однажды мне снился сон… А, впрочем, к&#160;чему там жеманничать: никакого сна мне не&#160;снилось. Все было наяву, а&#160;на сон писатели обыкновенно сваливают потому, что&#160;это считается щегольским литературным приемом.
+</p><p>Дешевый прием, по-моему.
+</p><p>Итак, наяву произошло вот что:
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Александр Керенский сел в&#160;вагон поезда, идущего из&#160;Парижа, намереваясь проехать всего четыре станции, и&#160;заговорился — проехал гораздо дальше.
+</p><p>Собственно, заговаривался он&#160;и прежде, но&#160;не с&#160;такими ужасными для&#160;него последствиями, как&#160;на этот раз.
+</p><p>А&#160;именно: когда он&#160;заканчивал перед&#160;столпившимися любопытными пассажирами свою одиннадцатую речь о&#160;величии будущей России, поезд вдруг остановился, и&#160;в вагон ввалилась толпа пограничников…
+</p><p>Ошибиться было невозможно: все они&#160;были увешаны ружьями, револьверами, на&#160;груди у&#160;всех красовались красные звезды, а&#160;на звездах было написано черным по&#160;красному: «Р.С.Ф.С.Р.»…
+</p><p>Керенский даже икнул от&#160;неожиданности и&#160;зашатался от&#160;ужаса.
+</p><p>«Господи! — подумал он. — Ныне отпущаеши раба твоего… Отречемся от&#160;старого мира… Крестьянин ахнуть не&#160;успел, как&#160;на него медведь насел… Мелькнула шашка — раз и&#160;два — и&#160;покатилась голова…»
+</p><p>— Товарищи! — проревел чей-то&#160;радостный голос. — Никак сам Керенский?! Важного карася поймали! Волоки его к&#160;самому к&#160;Троцкому — он&#160;за его, может, тыщу пайков отсыпет на&#160;рыло!
+</p><p>Повели.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Сколько времени прошло и&#160;как и&#160;по каким дорогам его вели — Керенский даже долгое время спустя не&#160;мог вспомнить.
+</p><p>Очнулся впервые он&#160;только тогда, когда охрана, топоча ногами, ввела его в&#160;приемную и&#160;сказала:
+</p><p>— Подожди тута. Сичас, брат, сам Троцкий выйдет.
+</p><p>— «Сам Троцкий»… — вздохнул Керенский. — Интересно, как&#160;он будет мучить меня?.. Наверное, папиросками будет жечь тело и&#160;запускать под&#160;ногти деревянные лучинки… А&#160;то&#160;и просто застрелит, как&#160;собаку.
+</p><p>Дверь из&#160;кабинета быстро распахнулась. Керенский покосился одним глазом и&#160;увидел в&#160;одной руке Троцкого револьвер, в&#160;другой — широкий нож.
+</p><p>«Начнем, пожалуй», — вспомнились ему слова Ленского перед&#160;смертельной дуэлью.
+</p><p>Но, приглядевшись, он&#160;заметил, что&#160;не револьвер был в&#160;руке Троцкого, а&#160;портсигар, и&#160;не широкий нож в&#160;другой руке, а&#160;самого симпатичного вида безобидная коньячная бутылка.
+</p><p>«Сейчас ахнет бутылкой по&#160;голове», — подумал страдалец.
+</p><p>— Господи! Кого я&#160;вижу! Саша, голубчик!! Какими судьбами?.. Пойдем ко&#160;мне в&#160;кабинет. Вот-то&#160;нечаянная радость! А&#160;мне как&#160;раз нынче всю ночь красный попугай снился! К&#160;чему&#160;бы&#160;это, думаю. Все клювиком меня за&#160;ухом щекотал. Ну, брат, разодолжил. Рад, очень рад тебя видеть. Как&#160;живешь? Папироску можно? Сигарку? А&#160;то, может, коньячку рюмочку трахнешь с&#160;дороги? Как&#160;дела? Да&#160;ты садись, чудак, — чего стоишь? А&#160;мы&#160;тебя, брат Саша, часто с&#160;Володей и&#160;Анатолием вспоминаем! Да-а… Хорошие времена были. Помнишь, как&#160;мы с&#160;Володькой с&#160;балкона Кшесинской мантифолии разводили… Подумать только — на&#160;четыре года моложе были. А&#160;помнишь, как&#160;ты — ах-ха-ха! — гонял министра Переверзева для&#160;анархистов помещение подыскивать? Да, брат Саша, много воды утекло.
+</p><p>«А&#160;он, однако&#160;же, не&#160;гордый, — совсем успокоившись, подумал Керенский словами гоголевского героя. — Обо всем расспрашивает».
+</p><p>— Кстати, Саша! А&#160;я&#160;перед тобой в&#160;долгу.
+</p><p>— А&#160;что&#160;такое?
+</p><p>— Да&#160;за&#160;газету-то, что&#160;вы в&#160;Праге с&#160;Зензиновым выпускали… здорово поддержали, шельмецы.
+</p><p>Троцкий подошел к&#160;огромному железному шкафу, звякнул около него ключами и, обернувшись, спросил:
+</p><p>— Сколько?
+</p><p>— Чего сколько?
+</p><p>— Сколько я&#160;тебе за&#160;газетку должен?..
+</p><p>— Что&#160;ты, — смутился Керенский. — Мы… совершенно бесплатно.
+</p><p>— Да&#160;что&#160;ты?! Прямо первый раз слышу. А&#160;с&#160;нас, брат, всякий тянет, кому не&#160;лень. И «Дэйли-Геральд», и «Юманите», и&#160;всякая там рвань. Ну спасибо. Поддержал. Да&#160;у&#160;тебя чего вид такой нездоровый? Устал?
+</p><p>— Да&#160;с&#160;дороги, знаешь… Кхм!
+</p><p>— Ты береги здоровье, Саша. Оно пригодится. Хочешь, мы&#160;тебе профессора пришлем?.. Да! А&#160;ведь я&#160;тебя забыл, шельмеца, за&#160;самое главное поблагодарить!
+</p><p>— А&#160;что&#160;такое?
+</p><p>— Да&#160;за&#160;Врангеля. Если&#160;бы&#160;не твоя заграничная работишка — едва&#160;ли&#160;бы мы&#160;с ним справились. Ловко ты его угробил.
+</p><p>Троцкий снова подошел к&#160;тяжелому шкафу, снова мелодично звякнул ключами и&#160;обернулся:
+</p><p>— Сколько?
+</p><p>— Чего сколько?
+</p><p>— Да&#160;за&#160;Врангеля. Мы, брат, в&#160;долгу никогда не&#160;остаемся — всякий труд должен оплачиваться.
+</p><p>— Помилуй, — смутился снова Керенский. — Да&#160;я&#160;совершенно бесплатно.
+</p><p>— Черт вас знает, что&#160;вы за&#160;народ, — засмеялся Троцкий. — Не от&#160;мира сего. Я&#160;понимаю, если уж продавать что-нибудь — так гони за&#160;это монету, а&#160;продавать и&#160;ничего не&#160;получать — на&#160;это способны только круглые идио… идеологи! Гм… да. Вот мы&#160;тогда с&#160;Володей маханули у&#160;этого немчуры пятьдесят миллиончиков чистоганом, глазом не&#160;моргнул, каналья, — дал!
+</p><p>— А&#160;вы моргали? — пошутил Керенский.
+</p><p>— За&#160;нас, брат, другие наморгались достаточно. Да-а… Ну а&#160;мы, брат, так вот и&#160;живем, хлеб жуем. Воюем вот все. Кстати! А&#160;ведь я&#160;тебя за&#160;главное забыл поблагодарить — совсем из&#160;ума вон. Прямо, брат, ты золотой человек у&#160;нас, на&#160;руках тебя, канашку, носить&#160;бы&#160;надо!!
+</p><p>— За&#160;что?
+</p><p>— А&#160;за&#160;резолюцию об&#160;интервенции. То&#160;есть так кстати, так кстати…
+</p><p>И&#160;снова около кассы послышался мелодичный звон ключей:
+</p><p>— Сколько?
+</p><p>— Лева, ты меня обижаешь…
+</p><p>— Ну не&#160;буду, не&#160;буду. Надеюсь, ты поживешь у&#160;нас, погостишь, осмотришься?
+</p><p>«Это, однако&#160;же, хорошо, — подумал Керенский, — оставят они&#160;меня у&#160;себя, а&#160;я возьму и&#160;покажусь населению. Сейчас&#160;же меня подхватят на&#160;руки, устроят восстание, свергнут советы, народ выберет меня…»
+</p><p>— Право, поживи. Ты не&#160;бойся, мы&#160;тебе охрану дадим — сотню красных башкир…
+</p><p>— От&#160;кого охрану? — удивился Керенский.
+</p><p>— Как&#160;от&#160;кого? От&#160;населения. Я&#160;ведь ихнее настроение знаю: увидят тебя — в&#160;клочья! И&#160;пуговицы потом не&#160;отыщешь.
+</p><p>— Нет, лучше я&#160;назад, за&#160;границу поеду, — печально сказал Керенский.
+</p><p>— И&#160;то&#160;поезжай. Там ты гораздо больше пользы принесешь, чем здесь. А&#160;знаешь, что&#160;мы сделаем? Мы&#160;тебя за&#160;границу в&#160;пломбированном вагоне отошлем. Ха-ха-ха! Вот. будет штука! Они&#160;тогда нас, а&#160;мы им теперь тебя. Работай, голубчик, работай, не&#160;покладая рук!! А&#160;если там понадобятся деньжата или&#160;что…
+</p><p>— Лева, ты меня оскорбляешь. Я&#160;разве из-за&#160;денег? Я&#160;единственно из-за&#160;чистоты партийной программы…
+</p><p>— Впрочем, нам один черт — из-за&#160;денег&#160;ли, из-за&#160;чистоты&#160;ли… Еще дешевле! Ну, всех тебе благ! Зензинова от&#160;меня чмокни в&#160;щечку, Лебедеву кланяйся… Эй, кто там есть! Вагон товарищу Керенскому! Да&#160;запломбируйте его покрепче, чтобы по&#160;дороге никакая дрянь его не&#160;обидела… да&#160;ковров ему положите, чтобы помягче было, да&#160;чтоб тепло ему было — угля побольше, угля-то! Ну, трогай! Эх вы, залетные!
+</p>
+<center>КЕРЕНСКИЙ</center>
+<center>(Третий портрет)</center>
+<center>РЯД ВОЛШЕБНЫХ ИЗМЕНЕНИЙ МИЛОГО ЛИЦА</center>
+<p>Однажды Александр Керенский сидел среди блестящего заграничного общества и&#160;блестяще говорил:
+</p><p>— Большевизм — это свирепый чугунный колосс на&#160;глиняных ногах! Подрубите ему ноги — и&#160;он рухнет. Мы, старые революционеры…
+</p><p>Мрачный чернобородый нахмуренный человек вдруг завозился в&#160;кресле и&#160;быстро перебил:
+</p><p>— Чего, чего?..
+</p><p>— Я&#160;говорю, что&#160;большевизм — это чугунный колосс на&#160;глинян…
+</p><p>— Нет, не&#160;это! А&#160;чего вы сказали: старый — чего?
+</p><p>— Я&#160;говорю, что&#160;я, как&#160;старый революционер…
+</p><p>— Это вы-то?
+</p><p>— Ну да, я, а&#160;то кто&#160;же?
+</p><p>— Послушайте… — вдруг совсем тихо, пониженным голосом и&#160;очень задушевно заговорил чернобородый. — Ну какой вы революционер? Как&#160;за&#160;копейку постоять. Разве такие революционеры бывают? Большевизм уже четвертый год, как&#160;сел на&#160;шею России — а&#160;как вы с&#160;ним боролись? Палец о&#160;палец не&#160;ударили! Только и&#160;делали, что&#160;под ногами путались — сначала у&#160;Корнилова, потом у&#160;Деникина, у&#160;Колчака, а&#160;в конце концов — у&#160;Врангеля… «Мы, старые революционеры». Эх, вы! Молчали&#160;бы&#160;лучше!
+</p><p>— Однако, послушайте…
+</p><p>— Да&#160;чего там слушать! Четыре года слушаем вас, а&#160;говорите вы и&#160;пишете так, будто чешется у&#160;меня правая нога, а&#160;вы скребете левую.
+</p><p>— Слушайте, я&#160;не советовал&#160;бы&#160;со мной таким тоном…
+</p><p>— Действительно, стану я&#160;с вами тон подбирать! Цаца какая! «Старый революционер!» Нет, брат, если ты старый революционер — так не&#160;болтайся здесь, за&#160;границей, не&#160;путайся между ногами у&#160;занятых людей, а&#160;поезжай в&#160;Россию и&#160;устраивай там революцию… А&#160;то&#160;отсюда-то, брат, легко кукиши всем сучить…
+</p><p>Чернобородый был тверд, резок, даже груб, но&#160;говорил он&#160;таким тоном, что&#160;нужно было или&#160;трахнуть его кулаком по&#160;темени, или&#160;покрыть еще более твердым тоном, чем тот, которым говорил он.
+</p><p>Керенский выбрал второе:
+</p><p>— И&#160;поеду!
+</p><p>— Куда?
+</p><p>— А&#160;в&#160;Россию.
+</p><p>— Ой, заливаешь?
+</p><p>— Виноват, я&#160;вас не&#160;понимаю…
+</p><p>— Да&#160;чего там понимать. Я&#160;тебе, Саш, скажу так… (Чернобородый перешел определенно на «ты», и&#160;голос его потемнел, сделался нежным.) Я&#160;тебе, Саша, скажу вот что: ежели ты да&#160;действительно поедешь в&#160;Россию — первым ты для&#160;меня человеком будешь!
+</p><p>— И&#160;поеду. А&#160;ты что&#160;думаешь? Мои рабочие, чай, заждались меня! Вот-то&#160;кому заварю. Я&#160;понимаю, что&#160;им действительно настоящий вождь нужен; а&#160;без вождя они&#160;что? Поеду! Так что-то. И&#160;когда я&#160;приеду, большевики у&#160;меня ко&#160;всем чертям полетят! Вот уж теперь я&#160;церемониться не&#160;буду… Не-ет, брат! Сам-с-усам.
+</p><p>— Вот это по-нашему! Люблю парня за&#160;ухватку. А&#160;я, брат, с&#160;тобой вместе поеду. Со мной не&#160;пропадешь. Когда едем? Завтра?
+</p><p>— Ну уж ты тоже скажешь — завтра… Вот бороду отпущу — и&#160;поедем.
+</p><p>— И&#160;верно. Отпусти ее, Сашенька, бог с&#160;ней. Так едем, Саша? Ай, молодца!
+</p><p>Расцеловались.
+</p><p>Керенский сидел дома и&#160;никого не&#160;принимал:
+</p><p>— Дома барин?
+</p><p>— Так точно, дома. Только они&#160;заняты.
+</p><p>— Чем?
+</p><p>— А&#160;бороду отпускают.
+</p><p>— Послушай, голубчик, какое&#160;же это занятие — отпускать бороду? Ведь он&#160;может со мной говорить, а&#160;борода все равно в&#160;это время будет отпускаться.
+</p><p>— Все вы так говорите. Не приказано принимать — значит, не&#160;приказано.
+</p><p>Пароход вез Керенского и&#160;его нового чернобородого друга из&#160;Константинополя в&#160;Севастополь.
+</p><p>Оба — Керенский и&#160;Чернобородый — стояли, опершись о&#160;борт, и&#160;разговаривали.
+</p><p>Разговор был несколько односторонний, так как&#160;говорил только Керенский:
+</p><p>— Большевизм нужно раздавить одним могучим ударом. Когда я&#160;подниму своих рабочих и&#160;вообще весь сознательный пролетариат, они&#160;должны сразу накинуться на&#160;эту зловонную стоголовую гадину и&#160;сразу отсечь все сто голов. Только один натиск — но&#160;быстрый, как&#160;молния. И&#160;все эти воры и&#160;насильники треснут, как&#160;пустой орех.
+</p><p>— Гм… да, — согласился Чернобородый. — А&#160;вот и&#160;Севастополь виден.
+</p><p>— Уже?! Скоро. Интересно, удастся нам проскочить с&#160;фальшивыми паспортами или, не&#160;дай бог, задержат? Собственно, я&#160;того мнения, что&#160;большевизм в&#160;своем чистом виде штука не&#160;плохая, и&#160;если&#160;бы&#160;его так не&#160;исказили люди, присосавшиеся…
+</p><p>— Какая красивая бухта, — перебил Чернобородый.
+</p><p>— Что&#160;бухта! Вы возьмите, какая красота некоторые тезисы учения Карла Маркса… Я&#160;понимаю, почему коммунисты считают Маркса своим Евангелием.
+</p><p>— Сторонись! Сходни ставят.
+</p><p>— Ах, уже сходни… Какое быстрое это морское дело. Я&#160;теперь понимаю, почему матросы так много сделали для&#160;Великой Русской Революции… Вообще, если буржуазия и&#160;раздавлена, то&#160;только благодаря мощной поддерж…
+</p><p>— Ну разговорились не&#160;вовремя! Тащите чемодан!
+</p><p>— Уже? Ах, какой красивый город! И&#160;какой порядок, чистота. Вот, думаю, при&#160;Врангеле тут безобразие было… Вообще, эта контрреволюция…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Ехали на&#160;север поездом.
+</p><p>— Какая станция? — спросил Керенский дремлющего Чернобородого.
+</p><p>— Мелитополь.
+</p><p>— Уже? Как&#160;скоро. Третий день всего едем — и&#160;уже Мелитополь. А&#160;раньше какое безобразие — чуть не 15 часов нужно было тащиться. Нет, что&#160;касается порядка и&#160;системы, то&#160;в большевизме есть хорошие семена. Конечно, я&#160;террора не&#160;одобряю… и&#160;удушение печати не&#160;одобряю… А&#160;что&#160;рабочие стали хорошо работать — это нужно коммунистам отдать должное.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Ехали, ехали.
+</p><p>— Какая станция?
+</p><p>— Харьков.
+</p><p>— Уже? Да&#160;ведь только двадцать первый день едем. Мальчик, какая у&#160;тебя газета? Коммунистическая? То-то. А&#160;если&#160;бы&#160;была белогвардейская, я&#160;б тебе штанишки спустил и&#160;по спине похлопал — таково больно: не&#160;торгуй белогвардейщиной! Конечно, я&#160;террора не&#160;одобряю, но&#160;с печатью, по-моему, поступлено правильно. Действительно: если меня&#160;же, правителя в&#160;моей&#160;же стране, ругают — неужто я&#160;буду молчать? Нет, товарищи, нужно войти в&#160;положение Ленина и&#160;Троцкого!!! Им тоже не&#160;сладко бремя власти. Для&#160;народа только и&#160;взвалили себе на&#160;плечи.
+</p><p>— Тула!
+</p><p>— Тьфу ты, черт! Это не&#160;товаро-пассажирский, а&#160;какой-то&#160;поезд-молния, прости господи! Второй месяц всего едем, и&#160;уже Тула. А&#160;почему так быстро? Потому что&#160;рабочий народ в&#160;страхе божьем держат. Некоторые говорят: «Террор, террор!» А&#160;что&#160;такое террор — и&#160;сами не&#160;знают. Террор, да&#160;ежели с&#160;толком применять — так это первая штука. Я&#160;не&#160;спорю, без&#160;толку не&#160;нужно… Меня, например, скажем — за&#160;что трогать? Никому я&#160;зла не&#160;делаю, советскую власть уважаю, давеча даже их во&#160;дворец Кшесинской пустил: живите, мне не&#160;жалко. Я&#160;такой человек. Я — добрый. Я&#160;знаю — коммунисты хорошие люди, тихие и&#160;хмельным не&#160;зашибают. Что&#160;это за&#160;станция, товарищ? Москва? А&#160;скажите, товарищ, как&#160;пройти на&#160;то место, где похоронены усопшие при&#160;исполнении обязанностей наши товарищи-коммунисты? Я&#160;хотел&#160;бы&#160;поклониться их святому праху.
+</p><p>Чернобородый почесал бороду, крякнул, сплюнул и, молча, как&#160;ошпаренный, выскочил из&#160;вагона.
+</p>
+<center>БАЛТИЙСКИЙ МАТРОС</center>
+<center>ЖИЗНЬ И&#160;СМЕРТЬ ШКЛЯРЕНКИ И&#160;БОНДАРЯ</center>
+<p>До&#160;октябрьской революции образ балтийского матроса был ясен и&#160;прозрачен, как&#160;стекло…
+</p><p>Вот он:
+</p><p>«Боцманмат с „Авроры“ Никита Шкляренко сдвинул на&#160;затылок шапку, выплюнул табачную жвачку, зашел в&#160;портовый кабак „Три якоря“, хватил одним духом полпинты рому и, ахнув могучим кулаком между лопаток своего приятеля Егора Бондаря, пустился с&#160;ним посреди кабака в&#160;пляс, оглашая воздух боевой матросской песней».
+</p><p>Я&#160;очень любил этот бесхитростный образ. Давно любил. Еще с&#160;тех пор, как&#160;в юности прочел незабвенный стивенсоновский «Остров сокровищ».
+</p><p>Я&#160;очень любил эту цельную здоровую натуру — могучего, грубоватого и&#160;добродушного матроса, сожженного солнцем тропиков, пропитанного морскими запахами, широкоплечего, немного неуклюжего на&#160;суше, покачивающегося во&#160;время ходьбы увальня.
+</p><p>Революция совершенно преобразила эту цельную монолитную натуру.
+</p><p>Началось с&#160;простого: вдруг матрос совершенно забросил свой корабль, перешел на&#160;сушу, вооружился ружьем, перепоясался пулеметной лентой и&#160;стал таскаться по&#160;всем подъездам, обыскивая и&#160;расстреливая.
+</p><p>В&#160;дальнейшем эволюция матроса пошла еще больше вглубь и&#160;вширь: некоторые неуклюже вскарабкались на&#160;коней и&#160;образовали совершенно неслыханную в&#160;природе «матросскую кавалерию»: кое-кто причалил к&#160;тихой пристани: устроился комиссаром в&#160;какой-нибудь Губчека; а&#160;большинство застряло в «Красном Питере» и&#160;образовало кадры новой аристократии.
+</p><p>Уже в 1918&#160;году можно было видеть на&#160;улицах Петербурга эту изысканную публику, одетую в&#160;штаны до&#160;того широкие, что&#160;казалось, на&#160;ногах болтались две женских юбки; одетую в&#160;традиционные голландки, но&#160;с таким огромным декольте, на&#160;которое светские дамы никогда&#160;бы&#160;не осмелились.
+</p><p>Эти странные матросы были напудрены, крепко надушены; на&#160;грубых лапах виднелись явные следы безуспешного, но&#160;усиленного маникюра; на&#160;ногах — туфли с&#160;высокими каблуками и&#160;чуть&#160;ли&#160;не с&#160;лентами; на&#160;груди приколота роза.
+</p><p>Так вырядился и&#160;выродился честный простой русский матрос.
+</p><p>Ясно, что&#160;на полпути он&#160;остановиться не&#160;мог: газеты сообщали, что&#160;в столичных театрах большинство публики — декольтированные матросы, напудренные, с&#160;подведенными глазами и&#160;накрашенными губами; на&#160;руках — браслеты, на&#160;груди — бриллиантовая брошка.
+</p><p>О, бывший могучий Никита Шкляренко, обвеянный всеми ветрами, согретый тропическим солнцем и&#160;пропитанный морским соленым запахом, — о, Никита Шкляренко! Отсюда даже вижу весь «трэн» {"Ход <i><sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> твоей нынешней столичной жизни.</i>
+</p><p>Не узнать тебя, о, Никита, выпивавшего одним духом полпинты крепчайшего рому и&#160;храбро вступавшего в&#160;бой хоть с&#160;полдюжиной задиристых коллег с&#160;английского угольщика.
+</p><p>Вот пришел ты со своим приятелем Егором Бондарем в&#160;Александрийский театр, с&#160;наигранной светской усталостью уселись вы оба на&#160;места в&#160;ложе и&#160;тут&#160;же стали вы оба разглядывать публику; Егорка Бондарь в&#160;перламутровый дамский бинокль, ты&#160;же, о&#160;Никишка Шкляренко, в&#160;лорнет.
+</p><p>Сощурили вы оба подрисованные глаза, сжали пренебрежительно накрашенные губы и, почесав могучей пятерней пышное свое декольте, — покачали в&#160;такт завитыми головами:
+</p><p>— Публика севодни — не&#160;охти чтобы какая.
+</p><p>На&#160;барьере вашей ложи стоит коробка шоколаду, и&#160;вы оба, отставив могучие, кривые от&#160;бывшей возни с&#160;канатами мизинцы, то&#160;и дело запускаете руку в&#160;коробку.
+</p><p>— Жарко! — говорит Шкляренко, утирая напудренный лоб. — А&#160;я&#160;веер дома забыл. Ах, знаешь, кстати, какую я&#160;брошку намедни видел у&#160;одного товарища! Прямо — с&#160;блюдце! Полгруди закрывает. Я&#160;на&#160;свое колье предлагал менку — не&#160;хочет, сволочь. А&#160;што говорють, что&#160;быдто теперь у&#160;волосах диадемы уже стали носить. А&#160;что&#160;такое диадемы — я&#160;и не&#160;знаю: чи то&#160;в роде звезды, чи то, как&#160;на манер рога.
+</p><p>— Никишка, черт собачий, — нервно перебивает размечтавшегося друга Бондарь. — Ты опять Верой Виолетой надушился?! Головизна от&#160;него трещать начинает. Накарай меня господь — сейчас упаду в&#160;обморок.
+</p><p>— При&#160;чем тут моя Вера Виолета? Просто я&#160;говорил тебе — не&#160;затягивай так корсет! А&#160;ты зашпаклевался до&#160;отказу!
+</p><p>— Ладно там! Сотри-ка лучше с&#160;бакборта румяны: на&#160;самый глаз въехали.
+</p><p>— Это я&#160;спешил: понимаешь, какая теперь дрянь ажурный чулок пошел: как&#160;натянешь, так у&#160;коленки — хрясь! Напополам, к&#160;чертовой матери!
+</p><p>— Да… трудно теперь матросу по-настоящему одеться!.. Ни&#160;тебе кружева к&#160;панталонам, ни&#160;тебе шелковых завязок до&#160;туфлей…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Тихо плещется у&#160;горячего песчаного берега далекий-далекий зеленый океан…
+</p><p>С&#160;жемчужным шорохом догоняет одна волна другую и&#160;шепчет ей:
+</p><p>— …Однажды несколько лет тому назад, во&#160;время бури, долго носила я&#160;на своем хребте прекрасный русский корабль… Очень хотелось мне утянуть его на&#160;дно, но&#160;команда корабля сражалась с&#160;бурей, как&#160;стая львов. Что&#160;это были за&#160;молодцы! И&#160;среди них два самых могучих отчаянно-храбрых льва — во&#160;время минуты затишья я&#160;подслушала имена их — то&#160;были: матрос Егор Бондарь и&#160;боцманмат Никита Шкляренко!..
+</p><p>Докатилась зеленая волна до&#160;берега, разлилась кружевом по&#160;желтому горячему песку и&#160;вздохнула в&#160;последний раз:
+</p><p>— Где-то&#160;теперь они?
+</p><p>Эх, зеленая кружевная океанская волна! Не знаешь ты, матушка, какие на&#160;свете чудеса бывают…
+</p><p>Хочешь, расскажу?
+</p><p>Вот лягу грудью на&#160;песок у&#160;самого того места, где ты, обессиленная зноем, растекаешься томным ленивым веером у&#160;самых моих губ и&#160;поведаю тебе окончание этой чудесной, диковинной, по-русскому, сказки.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Шли однажды по&#160;Невскому два декольтированных матроса в&#160;лаковых туфлях — Никита Шкляренко и&#160;Егор Бондарь… Беседовали о&#160;своих неоматросских делах.
+</p><p>— Говорят, что&#160;теперь самое модное — какой-то&#160;файф-о-клок чертячий. А&#160;где его купить и&#160;на кое место нацепить — так никто и&#160;не знает.
+</p><p>И&#160;наткнулись они&#160;в этот момент на&#160;группу людей, окруживших кого-то.
+</p><p>— А&#160;ну расступись, шпана, — гордо сказал Егор Бондарь. — У&#160;чем тут дело?
+</p><p>— Мальчишка с&#160;голоду на&#160;мостовой помирает, вот тебе и&#160;дело.
+</p><p>Бондарь притих немного.
+</p><p>— Чего ж это он! Неужто есть так-таки совсем и&#160;нечего?
+</p><p>— Кому как, — ответил из&#160;группы едкий голос. — Которые с&#160;брошками на&#160;грудях, с&#160;лаком на&#160;лапах — те едят первый сорт. А&#160;настоящий народ шибко мрет.
+</p><p>— А&#160;что&#160;ж я, по-твоему, не&#160;настоящий народ? — обиделся Бондарь.
+</p><p>— Ты? Да&#160;ты&#160;бы&#160;в зеркало на&#160;себя поглядел. — Шкляренко обернулся на&#160;друга, поглядел на&#160;него новыми, свежими глазами и&#160;вдруг шумно расхохотался: — А&#160;ведь и&#160;верно — чучело с&#160;огорода.
+</p><p>— А&#160;ты себя-то&#160;видел?
+</p><p>Потом Шкляренко сделался серьезен.
+</p><p>— Скидывай брошку: отдай мальчишке! Скидывай усе. Айда на&#160;корабль — рожи мыть. Я&#160;им, сволочам, покажу ихний коммунизм! До&#160;чего довели, а? Простите, православные, а&#160;мы это усе по-новому справим!
+</p><p>И&#160;два друга, порывистые, темпераментные во&#160;всем — и&#160;в боях с&#160;матросами угольщика и&#160;в обсуждении диадем и&#160;файф-о-клоков — помчались, как&#160;вихрь.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Балтийский лед скован на&#160;диво. Крепок. Ему не&#160;трудно и&#160;целый полк выдержать.
+</p><p>А&#160;тут всего два человека.
+</p><p>Лежат на&#160;бескрайном ледяном поле.
+</p><p>Раскинулись они&#160;по-богатырски: руки, ноги в&#160;стороны, головы закинуты.
+</p><p>И&#160;оба голые до&#160;пояса. Это уж такой обычай матросский: при&#160;такой драке, которая должна быть последней, и&#160;голландку и&#160;тельник сбрасывают… Потом все равно не&#160;надо, а&#160;драться куда способней.
+</p><p>Лежат неразлучные благоприятели.
+</p><p>И&#160;у&#160;Никиты Шкляренко уже не&#160;румяна на&#160;щеке, а&#160;что-то&#160;потемнее и&#160;погутце.
+</p><p>И&#160;Бондарь украшен рубиновым знаком в&#160;том самом месте на&#160;груди, где раньше сверкала брошка.
+</p><p>Расплатились честно морячки и&#160;за румяна, и&#160;за брошки.
+</p><p>Поработали — отдыхают. Такой крепкий сон, что&#160;хоть сто склянок бей над&#160;ухом, и&#160;ухом не&#160;повернут. Потому стоят уже на&#160;другой вахте…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Волна выслушала, вздохнула и, пересчитав камушки, как&#160;старуха — четки, когда молится за&#160;близких покойников, откатилась, удовлетворенная, в&#160;океан.
+</p>
+<center>СОВЕТСКИЙ УЧИТЕЛЬ</center>
+<center><i>Один из&#160;многих</i></center>
+<center>1. Эпоха первая, 1895&#160;год</center>
+<p>Маленький мальчик Вася Усов сидел у&#160;себя в&#160;комнате в&#160;детской за&#160;старым видавшим виды столом, сплошь изрезанным и&#160;залитым чернилами — и&#160;горько плакал.
+</p><p>— О&#160;чем ты? — спросила заглянувшая в&#160;детскую мать.
+</p><p>— Ничего не&#160;знаю.
+</p><p>— То&#160;есть… как&#160;это — ничего не&#160;знаешь?
+</p><p>— Да&#160;вот так-как&#160;есть решительно ничего, ничегошеньки не&#160;знаю. По&#160;географии. Все слова какие-то: Санта-фе-де-Богата. Гвадалупа, Баб-эль-Мандеб, изотерма, изохимена, меридиан…
+</p><p>— Бедный мой мальчик… Ну, может быть, и&#160;выкрутишься как-нибудь… Учитель, глядишь, позабудет и&#160;не спросит.
+</p><p>— Не таковский он. Пропала моя головушка.
+</p><p>Предчувствие не&#160;обмануло Усова Василия.
+</p><p>На&#160;уроке географии учитель первым долгом вызверился на&#160;Усова, как&#160;очковая змея на&#160;попугайчика:
+</p><p>— А&#160;ну, ты!.. Как&#160;тебя там… Усов, что&#160;ли… хотя, брат, тебе больше подходила&#160;бы&#160;фамилия — Безусов… Ну, вы там… загрохотали, обрадовались. Тише там! Расскажи мне, Длинноусов, об&#160;Изохимене.
+</p><p>— Слушаюсь-с. Изохименой называется, которая, такое она..
+</p><p>— Какое?
+</p><p>— Оно длинное…
+</p><p>— Так, так… Зеленый, длинный, висит в&#160;гостиной. Дернешь — пищит. Здорово ты знаешь, Черноусов. Еще раз тебя спрашиваю: что&#160;такое Изохимена.
+</p><p>— Ящерица такая — с&#160;энергией отчаяния крикнул Усов Василий и&#160;даже зажмурился — будто в&#160;черную пропасть прыгнул.
+</p><p>Безжалостный класс снова загрохотал.
+</p><p>— Что&#160;ты говоришь? Какого&#160;же она цвета?
+</p><p>— Такая… желтенькая, с&#160;крапинками.
+</p><p>— Что&#160;ж она… опасная?
+</p><p>— Ну, не&#160;очень.
+</p><p>— Ну, не&#160;скажи. Для&#160;тебя она очень опасна. Этакий маленький зверек, а&#160;единицу в&#160;зубах притащил. Впрочем, ты можешь поправиться. Экватор видел когда-нибудь?
+</p><p>— Не видел.
+</p><p>— Что&#160;же это ты так промахнулся? Почему не&#160;видел?
+</p><p>— Он&#160;же далеко. Он&#160;же в&#160;Африке.
+</p><p>— А&#160;здесь почему его нет?
+</p><p>— Он&#160;же водится в&#160;жарком климате…
+</p><p>— Здорово, Усов, Усов! Как&#160;жалко, что&#160;и ты не&#160;водишься в&#160;жарком климате. Был&#160;бы&#160;ты сейчас далеко от&#160;меня и&#160;не принуждал&#160;бы&#160;меня оставлять тебя без&#160;обеда и&#160;писать записку родителям. Стать к&#160;стенке в&#160;угол носом, пока я&#160;напишу записку родителям. Пусть они&#160;тебя по&#160;экватору хорошенько настегают.
+</p><p>Шесть часов вечера. Дома — знакомая, но&#160;тяжелая картина: отец бегает по&#160;кабинету, хватаясь за&#160;голову, и&#160;стонет, так что&#160;сердце разрывается.
+</p><p>— Ну, что&#160;мне с&#160;тобой делать! Уже такой большой дурак, а&#160;изохимены не&#160;знаешь. В&#160;пастухи мне теперь тебя отдавать, что&#160;ли…
+</p>
+<center>2. Эпоха вторая, 1922&#160;год</center>
+<p>Преподаватель Московской советской школы «Нормальсовместобуч» Василий Капитонович Усов перед&#160;уходом на&#160;занятия сидел у&#160;себя в&#160;кабинете и&#160;горько плакал.
+</p><p>— Что&#160;с&#160;тобой, папа? — спросила заглянувшая в&#160;кабинет десятилетняя дочь.
+</p><p>— Ничего не&#160;знаю, ничего не&#160;понимаю.
+</p><p>— Ну, например.
+</p><p>— Очень меня жучат мальчишки. Такие уроки задают, что&#160;никак не&#160;выучишь. И&#160;слова все самые непонятные: «Уездземельком», «Деркамбед», «Реввоенсов», «Соввоенспец».
+</p><p>— Ну, авось сегодня не&#160;вызовут…
+</p><p>— Да, как&#160;же, надейся. Мы, говорят, тебя выбрали всеобщим голосованием в&#160;учителя, и&#160;ты должен знать все назубок. Все пугают: не&#160;будешь знать, говорят, мы&#160;тебя без&#160;пайка оставим и&#160;записку домой твоим детям напишем. Тебя-то, Оличка, я&#160;не боюсь, ты меня любишь и&#160;не тронешь пальцем, а&#160;сын, если узнает, выпорет так, что&#160;до зеленых веников не&#160;забуду.
+</p><p>И&#160;предчувствие не&#160;обмануло Усова.
+</p><p>Когда он&#160;вошел в&#160;большую, холодную комнату «Нормальсовместобуча», сначала на&#160;него никто не&#160;обратил внимания: два мальчика, сидя верхом на&#160;кафедре и&#160;болтая ногами, дружески угощали друг друга доброй понюшкой кокаина; еще один мальчик мирно завтракал бутербродом из&#160;конины, запивая его бутылкой мутного пива, прямо из&#160;горлышка. Две девочки грели на&#160;спиртовой машинке щипцы и&#160;завивали друг друга с&#160;такой яростью, что&#160;запах паленого волоса заглушал все другие запахи. Компания из&#160;шести человек сгрудилась в&#160;углу у&#160;окна, и&#160;оттуда неслись оживленные возгласы: «У&#160;меня семь очков, а&#160;у тебя. Ага. Жир. Ставлю еще пятьсот тысяч. Четыре. Три. Очко деньги съело. Иду до&#160;банка».
+</p><p>— Кто сегодня дежурит? — робко озираясь, спросил Усов.
+</p><p>— А-а. Товарищ Мокроусов, — пробормотал счастливый владелец пива, отрывая губы от&#160;горлышка. — Чего&#160;же вы опаздываете?
+</p><p>— В&#160;аптеку ходил, ей-Богу, — соврал Усов Василий. — Дочка больна.
+</p><p>— Вечные отговорки. Ну что, приготовили урок? Или&#160;нет, как&#160;давеча, разнюнитесь.
+</p><p>— Кто сегодня дежурит? — переспросил Усов Василий, стараясь замять неприятный разговор.
+</p><p>— Овсюков. Только его сегодня не&#160;будет. Пошел в&#160;комиссариат с&#160;женой разводиться.
+</p><p>— Он&#160;ведь, кажется, позавчера разводился?
+</p><p>— Ну, что&#160;ж такого. Позавчера с&#160;одной разводился, сегодня с&#160;другой, — рассудительно возразила девочка, вертя на&#160;руке раскаленные щипцы. — Послушайте, душка Усаков. Достаньте мне денатурату для&#160;машинки, я&#160;вас поцелую в&#160;носик.
+</p><p>— Манька, — строго крикнул юноша, только что&#160;отправивший в&#160;нос очередную понюшку кокаина, — давно я&#160;тебя за&#160;косу не&#160;таскал… Ты у&#160;меня пококетничаешь.
+</p><p>— Товарищ Усов! Покурим, что&#160;ли. Сахарином не&#160;интересуетесь? Могу предложить полтора кило франко сюда. А&#160;у&#160;меня, знаете, печальная новость: Катя сбежала. На&#160;какого-то&#160;латыша паршивого променяла. Вот тебе и&#160;свободная школа, черт ее подери.
+</p><p>— Ну вы, шпана, — закричал, входя, дежурный Овсюков. — Раз учитель пришел, не&#160;будем терять золотого времени. Спросим у&#160;него урок да&#160;и айда по&#160;домам. У&#160;нас тут компашка в «Тифлис» собирается. Товарищ Усов, что&#160;вы сегодня готовили?
+</p><p>— Отношение «Деркомбедов» к «Уеземелькому».
+</p><p>— Ну вот, вы нам и&#160;расскажите об&#160;этом. Ступайте на&#160;кафедру. Оттуда будете говорить. Порядка не&#160;знаете, что&#160;ли?
+</p><p>— Гм… кхе, кхе… Эти самые… «Деркомбеды» относятся к «Уеземелькому» как&#160;низший подвластный орган, но&#160;в случае недоразумений всякий вопрос вносится в «Губсовнархоз», который совместно с «Осотопом» и «Всеобучем».
+</p><p>— С&#160;кем? С&#160;кем?
+</p><p>— Я&#160;хотел сказать с «Реввоенсовом»…
+</p><p>— Да&#160;вы знаете, что&#160;такое «Реввоенсов»?..
+</p><p>— Это такой… военный, который.
+</p><p>— Ну, что&#160;такое «Реввоенсов»? Может быть, вы думаете, что&#160;это в&#160;переводе: ревет военный, как&#160;сова? Не гогочите вы, жеребцы… Ах Усов, Усов. Что&#160;нам с&#160;вами делать?.. Ну, скажите нам, каковы функции «Ососовпатопа». Подчинен&#160;ли&#160;он… «Выссовпатопу» или&#160;нет?
+</p><p>— Нет, то&#160;есть да.
+</p><p>— Гм… «нет, то&#160;есть да». Ах, Длинноусов, Длинноусов… Опять придется вызывать ваших детей в&#160;ученическую — объясняться.
+</p><p>— Я&#160;старался… я&#160;учил…
+</p><p>— Опять слезы. Пойдите, станьте к&#160;стенке, пока я&#160;вашим детям записку напишу. Пусть хоть они&#160;вас усовестят…
+</p><p>А&#160;дома была знакомая, но&#160;тяжелая сцена. Двенадцатилетний сынишка Петька бегал по&#160;детской, хватался за&#160;голову и&#160;стонал:
+</p><p>— Ну, что&#160;я с&#160;тобой буду делать? До&#160;седых волос дожил, а «Реввоенсова» не&#160;знаешь. В&#160;пастухи мне тебя отдавать, что&#160;ли? — Дочь Оля подошла к&#160;пригорюнившемуся отцу, погладила его по&#160;голове и&#160;сказала брату с&#160;упреком:
+</p><p>— Ну, что&#160;ты к&#160;человеку привязался. Сегодня не&#160;выучил, завтра выучит. Я&#160;сама с&#160;ним позаймусь.
+</p>
+<center>АРТИСТКА ОБРАЗЦА 1922 ГОДА</center>
+<p>Одна из&#160;многих.
+</p><p>Хорошенькая, изящная, как&#160;нарядная куколка, девица придвинула к&#160;себе ближе обсахаренные орехи и, облизывая обсахаренные пальчики, сказала:
+</p><p>— Наша Одесса — ужасный город! Посмотрели&#160;бы&#160;вы, как&#160;вели себя одесситы при&#160;большевиках!..
+</p><p>— А&#160;вы разве были тогда в&#160;Одессе, при&#160;большевиках?
+</p><p>— Ну! — обиженно усмехнулась она с&#160;непередаваемой, неподражаемой одесской интонацией, придав этому слову из&#160;двух букв выражение целой длинной фразы, смысл которой должен был значить:
+</p><p>— Неужели ты сомневался, что&#160;я была в&#160;Одессе, и&#160;что я, вместе со всеми, пережила все тягчайшие ужасы большевизма, и&#160;что я&#160;с честью вышла из&#160;положения, заслужив титул героини и&#160;ореол мученицы!..
+</p><p>Да… многое может вложить настоящий одессит в&#160;слово из&#160;двух букв.
+</p><p>— Что&#160;ж… тяжело вам было там?
+</p><p>— Мне? Если&#160;бы&#160;я начала рассказывать обо всех моих страда… Передайте мне эти тянучки… merci! Страданиях, то&#160;в целую книгу не&#160;упишешь.
+</p><p>Она положила себе на&#160;голову белую ручку с&#160;отполированными ноготками и&#160;задумалась.
+</p><p>— Ах!.. Эти обыски, эти аресты…
+</p><p>— У&#160;вас был обыск?!
+</p><p>— Не один, а&#160;три. Положим не&#160;у меня, а&#160;у моих соседей, но&#160;все равно — тревожили и&#160;меня. Товарищ председателя чрезвычайки заходит вдруг ко&#160;мне и&#160;просит бумаги и&#160;чернил, — они&#160;там в&#160;соседней квартире что-то&#160;писали… Ну, что&#160;было делать — дала! Ведь мы&#160;тогда все были совершенно бессильны.
+</p><p>А&#160;он&#160;смотрит на&#160;меня и&#160;вдруг говорит… благодарю вас, мне не&#160;хочется этого кекса… и&#160;говорит: «А&#160;я&#160;вас знаю, вы очень хорошо поете!».
+</p><p>Понимаете — знает меня! Я&#160;чуть в&#160;обморок не&#160;упала…
+</p><p>Потом в&#160;чрезвычайке уже я&#160;ему говорю…
+</p><p>— Неужели в&#160;чрезвычайку вас таскали?!
+</p><p>— Да, видите&#160;ли… Там был какой-то&#160;концерт — вот нас артистов и&#160;заставили петь! Такой ужас! Револьвер к&#160;виску — и&#160;пой! Я&#160;там, впрочем, большой успех имела — они, вообще, замечательно умеют слушать. А&#160;как&#160;аплодировали! Потом уже, сидя в&#160;автомобиле с&#160;товарищем председателя чрезвычайки…
+</p><p>— Все-таки, значит, они&#160;были с&#160;вами вежливы — назад отвозили.
+</p><p>— Нет, это не&#160;назад… Это, вообще, днем было. Я&#160;шла к&#160;Робина, а&#160;он взялся меня подвезти. Шикарный у&#160;него автомобиль, знаете…
+</p><p>— Охота вам была с&#160;большевиком ездить, — заметил я.
+</p><p>— А&#160;что&#160;поделаешь? Револьвер к&#160;виску — и&#160;катайся! Я&#160;уж потом и&#160;то говорила ему: «Вы, Миша, ужасный человек! С&#160;вами прямо страшно». А&#160;он&#160;засмеялся, открыл крышку рояля и&#160;говорит: «хотите — говорит — шашкой перерублю все струны, а&#160;вам новый пришлю!»
+</p><p>— Неужели в&#160;автомобиле рояль стоял? — изумился я.
+</p><p>— В&#160;каком автомобиле?!.. При&#160;чем тут автомобиль?.. Дома у&#160;меня, а&#160;не в&#160;автомобиле.
+</p><p>— Неужели&#160;же вы большевиков у&#160;себя дома принимали?
+</p><p>— А&#160;что&#160;поделаешь? Револьвер к&#160;виску и&#160;сидит и&#160;пьет чай до&#160;трех часов ночи!.. «Миша, — говорю я&#160;ему — ты меня компрометируешь»… Ах, столько страданий за&#160;эти несколько месяцев! Не поехать к&#160;ним в&#160;чрезвычайку неловко, — обидятся, а&#160;поедешь… Впрочем, один раз очень смешной случай был. Присылают они&#160;за мной автомобиль — огромный-преогромный, теряешься в&#160;нем, как&#160;пуговица в&#160;кармане; плачу, а&#160;еду. Впрочем, единственный раз я&#160;у них была. Приезжаю… На&#160;столе столько наставлено, что&#160;глаза разбегаются! Преподносят мне, представьте, преогромный букет роз и&#160;мимозы…
+</p><p>— Неужели от&#160;большевиков букеты принимали? — с&#160;упреком заметил я.
+</p><p>— А&#160;что&#160;поделаешь?! Револьвер к&#160;виску и&#160;суют в&#160;руку. И&#160;темно-фиолетовая лента — чудесное сочетание! Впрочем, я&#160;один раз у&#160;них только и&#160;была. Спрашивают: «Чего — говорят — сначала хотите выпить?». Я&#160;говорю: «Зубровки, той, что&#160;мы вчера пили». Посмотрели друг на&#160;друга как-то&#160;странно, мнутся: «Да&#160;она — говорят — в&#160;погребе». — "А&#160;вы принесите из&#160;погреба, — говорю я. «Неужели боитесь? Пойдите с&#160;племянником Саней (племянник мой тогда тоже со мной был — Саня) и&#160;принесите». Саня уже встал было, а&#160;они совсем переполошились. «Нельзя туда, в&#160;тот погреб!». — «Да&#160;почему?!». — «Оттуда — говорят — еще расстрелянные бандиты не&#160;убраны!.. Там лежат». Нет, нет… Лучше эту розовенькую… Она, кажется, с&#160;орехами!.. Да… так, понимаете, какой ужас: где эта зубровка — расстрелянные бандиты лежат. Мы&#160;потом эту зубровку «бандитовкой» называли. Ох, уж эта Одесса-мама… Вечно она что-нибудь выдумает… ха-ха!.. Слушайте, отчего&#160;же вы не&#160;смеетесь?..
+</p><p>— Спасибо. Я&#160;уже года два, как&#160;не смеюсь.
+</p><p>Я&#160;встал, наклонил свое лицо к&#160;ее розовому, разрумянившемуся личику и&#160;тихо спросил, глядя прямо ей в&#160;глаза:
+</p><p>— Скажите, а&#160;они не&#160;могли подсунуть вам, вместо бандитовки — офицеровку?
+</p><p>И&#160;я&#160;видел, как&#160;что-то, будто кипятком, ошпарило ее птичий мозг.
+</p><p>Она заморгала глазами быстро-быстро и, отмахиваясь от&#160;чего-то&#160;невидимого, жалобно прочирикала:
+</p><p>— Но&#160;они&#160;же револьвер к&#160;виску… Танцуешь у&#160;них — и&#160;револьвер у&#160;виска, пьешь — и&#160;револьвер у&#160;виска… Не смотрите на&#160;меня так!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Разнообразный город Одесса.
+</p>
+<center>КОММЕНТАРИИ</center>
+<p>Книга впервые выпущена в&#160;издании Париж-Берлин-Прага, Internationale Commerciale Revue, 1923.
+</p><p><b>Мадам Ленина.</b>
+</p><p>Впервые под&#160;названием «Лошадь в&#160;Сенате»: Зарницы, 21 августа, 1921, № 19.
+</p><p><b>Мадам Троцкая.</b>
+</p><p>Впервые под&#160;названием «Шапка Мономаха»: Зарницы, 27 марта, 1921, № 4.
+</p><p><b>Феликс Дзержинский.</b>
+</p><p>Впервые под&#160;названием «Кобра в&#160;траве»: Presse du Soir, 12 октября, 1921, № 240.
+</p><p><b>Петерс.</b>
+</p><p>Впервые: Presse du Soir, 3 марта, 1921, № 53.
+</p><p><b>Максим Горький.</b>
+</p><p>Впервые под&#160;названием «Горький хлеб»: Presse du Soir, 28 июня 1921, № 150.
+</p><p><b>Мартов и&#160;Абрамович.</b>
+</p><p>Впервые под&#160;названием «Сказка про&#160;белого бычка»: Presse du Soir, 15 октября 1921, № 243.
+</p><p><b>Керенский (Первый портрет).</b>
+</p><p>Впервые под&#160;названием «Об&#160;одном господине»: Presse du Soir, 22 октября 1921, № 249.
+</p><p><b>Керенский (Второй портрет).</b>
+</p><p>Впервые под&#160;названием «Нечаянная радость»: Зарницы, 20 февраля 1921, № 2.
+</p><p><b>Керенский (Третий портрет).</b>
+</p><p>Впервые под&#160;названием «Первый любовник революции»: Presse du Soir, 3 февраля 1921, № 29.
+</p><p><b>Балтийский матрос.</b>
+</p><p>Впервые под&#160;названием «Красный матрос»: Юг России, 21 октября (3 ноября) 1920, № 163 (358).
+</p><p><b>Артистка образца 1922&#160;года.</b>
+</p><p>Впервые под&#160;названием «Бандитовка»: Юг, 29 декабря 1919, № 126.
+</p><p><br />
+</p>
+<style data-mw-deduplicate="TemplateStyles:r4837660">.mw-parser-output .hr-custom{height:1px;width:40em;margin-left:auto;margin-right:auto;margin-top:5ex;margin-bottom:5ex}</style><hr class="hr-custom" style="width:8em;margin-left:0ex; margin-right:auto; margin-top: 2ex; margin-bottom: 2ex;" /><div class="references-small" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Это все равно <i>(фр.).</i></span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Завтраку (искаж. нем. frühstuck).</span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">фр.<i> train), образ жизни </i>(фр.<i> train de vie).</i></span>
+</li>
+</ol>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5c9fc7f974‐2cx8c
+Cached time: 20260215151943
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.124 seconds
+Real time usage: 0.194 seconds
+Preprocessor visited node count: 319/1000000
+Revision size: 142319/2097152 bytes
+Post‐expand include size: 12444/2097152 bytes
+Template argument size: 1264/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1598/5000000 bytes
+Lua time usage: 0.049/10.000 seconds
+Lua memory usage: 1918127/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  150.705      1 -total
+ 83.87%  126.402      1 Шаблон:Отексте
+  7.65%   11.525      1 Шаблон:Right
+  4.96%    7.469      1 Шаблон:Примечания
+  2.90%    4.367      1 Шаблон:---
+  1.21%    1.817      1 Шаблон:License
+  1.19%    1.794     29 Шаблон:***
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:997658:|#|:idhash:canonical and timestamp 20260215151943 and revision id 5255716. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Двенадцать_портретов_(Аверченко)&amp;oldid=5255716">https://ru.wikisource.org/w/index.php?title=Двенадцать_портретов_(Аверченко)&amp;oldid=5255716</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B0_%D0%B8_%D1%8E%D0%BC%D0%BE%D1%80" title="Категория:Сатира и юмор">Сатира и юмор</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Категория:Аркадий Тимофеевич Аверченко">Аркадий Тимофеевич Аверченко</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1922_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1922 года">Литература 1922 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_200" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 200">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 200</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Категория:Импорт/az.lib.ru/Аркадий Тимофеевич Аверченко">Импорт/az.lib.ru/Аркадий Тимофеевич Аверченко</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 21 февраля 2025 года в 16:05.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Двенадцать портретов (Аверченко)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-f79556446-sghq7","wgBackendResponseTime":153,"wgPageParseReport":{"limitreport":{"cputime":"0.124","walltime":"0.194","ppvisitednodes":{"value":319,"limit":1000000},"revisionsize":{"value":142319,"limit":2097152},"postexpandincludesize":{"value":12444,"limit":2097152},"templateargumentsize":{"value":1264,"limit":2097152},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1598,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  150.705      1 -total"," 83.87%  126.402      1 Шаблон:Отексте","  7.65%   11.525      1 Шаблон:Right","  4.96%    7.469      1 Шаблон:Примечания","  2.90%    4.367      1 Шаблон:---","  1.21%    1.817      1 Шаблон:License","  1.19%    1.794     29 Шаблон:***"]},"scribunto":{"limitreport-timeusage":{"value":"0.049","limit":"10.000"},"limitreport-memusage":{"value":1918127,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Аркадий Тимофеевич Аверченко\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"От автора\u003Cbr\u003E\\\nМадам Ленина\u003Cbr\u003EМадам Троцкая\u003Cbr\u003EФеликс Дзержинский\u003Cbr\u003EПетерс\u003Cbr\u003EМаксим Горький\u003Cbr\u003EФедор Шаляпин\u003Cbr\u003EМартов и Абрамович\u003Cbr\u003EКеренский (Первый портрет)\u003Cbr\u003EКеренский (Второй портрет)\u003Cbr\u003EКеренский (Третий портрет)\u003Cbr\u003EБалтийский матрос\u003Cbr\u003EСоветский учитель\u003Cbr\u003EАртистка образца 1922 года\",\n    [\"published\"] = \"1922\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/a/awerchenko_a_t/text_1922_dvenadtzat_portretov.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Двенадцать портретов\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-5c9fc7f974-2cx8c","timestamp":"20260215151943","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

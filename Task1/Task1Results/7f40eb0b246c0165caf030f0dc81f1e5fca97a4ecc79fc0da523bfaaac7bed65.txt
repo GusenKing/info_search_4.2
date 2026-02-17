@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html class="client-nojs skin-theme-clientpref-day mf-expand-sections-clientpref-0 mf-font-size-clientpref-small mw-mf-amc-clientpref-0" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Категория:Сборники рассказов — Викитека</title>
+<script>(function(){var className="client-js skin-theme-clientpref-day mf-expand-sections-clientpref-0 mf-font-size-clientpref-small mw-mf-amc-clientpref-0";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"c833993b-db4c-4d8d-9348-d6208ff8fa38","wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Категория:Сборники_рассказов","wgTitle":"Сборники рассказов","wgCurRevisionId":4691272,"wgRevisionId":4691272,"wgArticleId":1068851,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Категория:Сборники_рассказов","wgRelevantArticleId":1068851,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFMode":"stable","wgMFAmc":false,"wgMFLazyLoadImages":true,"wgMFEditNoticesFeatureConflict":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgMFIsSupportedEditRequest":true,"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgWikibaseItemId":"Q7143411","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgMinervaPermissions":{"watchable":true,"watch":false},"wgMinervaFeatures":{"donateBanner":true,"donate":false,"mobileOptionsLink":true,"categories":false,"pageIssues":true,"talkAtTop":false,"historyInPageActions":false,"overflowSubmenu":false,"tabsOnSpecials":true,"personalMenu":false,"mainMenuExpanded":false,"nightMode":true},"wgMinervaDownloadNamespaces":[0]};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.wikimediamessages.styles":"ready","mediawiki.action.styles":"ready","ext.categoryTree.styles":"ready","mediawiki.helplink":"ready","skins.minerva.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.codex.styles":"ready","skins.minerva.icons":"ready","ext.tmh.player.styles":"ready","mobile.init.styles":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.categoryTree","site","mediawiki.page.ready","skins.minerva.scripts","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.tmh.player","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.visualEditor.targetLoader","mobile.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.categoryTree.styles%7Cext.tmh.player.styles%7Cext.wikimediamessages.styles%7Cmediawiki.action.styles%7Cmediawiki.helplink%2Chlist%7Cmobile.init.styles%7Cskins.minerva.codex.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=minerva">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=minerva">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="theme-color" content="#eaecf0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0">
+<meta property="og:title" content="Категория:Сборники рассказов — Викитека">
+<meta property="og:type" content="website">
+<link rel="manifest" href="/w/api.php?action=webapp-manifest">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-14 ns-subject mw-editable page-Категория_Сборники_рассказов rootpage-Категория_Сборники_рассказов skin-minerva action-view skin--responsive mw-mf-amc-disabled mw-mf mf-collapsible-sections-disabled">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<div class="minerva-header">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input"
+						data-event-name="ui.mainmenu"
+						class="toggle-list__checkbox" role="button" aria-haspopup="true" aria-expanded="false" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button" aria-hidden="true" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet toggle-list__toggle">
+    <span class="minerva-icon minerva-icon--menu"></span>
+<span></span>
+</label>
+
+					<div id="mw-mf-page-left" class="menu view-border-box">
+	<ul id="p-navigation" class="toggle-list__list">
+			<li class="toggle-list-item ">
+				<a class="toggle-list-item__anchor menu__item--home" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" data-mw-interface="1">
+					<span class="minerva-icon minerva-icon--home"></span>
+
+					<span class="toggle-list-item__label">Заглавная</span>
+				</a>
+			</li>
+			<li class="toggle-list-item ">
+				<a class="toggle-list-item__anchor menu__item--random" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" data-mw-interface="1">
+					<span class="minerva-icon minerva-icon--die"></span>
+
+					<span class="toggle-list-item__label">Случайная</span>
+				</a>
+			</li>
+	</ul>
+	<ul id="p-personal" class="toggle-list__list">
+			<li class="toggle-list-item ">
+				<a class="toggle-list-item__anchor mw-list-item menu__item--login" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3A%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" data-event-name="menu.login" data-mw-interface="1">
+					<span class="minerva-icon minerva-icon--logIn"></span>
+
+					<span class="toggle-list-item__label">Войти</span>
+				</a>
+			</li>
+	</ul>
+	<ul id="pt-preferences" class="toggle-list__list">
+			<li class="toggle-list-item ">
+				<a class="toggle-list-item__anchor menu__item--settings" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8_%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8&amp;returnto=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3A%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" data-event-name="menu.settings" data-mw-interface="1">
+					<span class="minerva-icon minerva-icon--settings"></span>
+
+					<span class="toggle-list-item__label">Настройки</span>
+				</a>
+			</li>
+	</ul>
+			<div class="donate-banner">
+				<a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru&amp;wmf_key=minerva" class="donate-banner__link"
+					data-event-name="menu.donateBanner">
+					<div class="donate-banner__text-container">
+						<span class="donate-banner__text">Пожертвовать сейчас</span>
+						<span class="donate-banner__subtitle">Если этот сайт был вам полезен, пожалуйста, сделайте пожертвование.</span>
+					</div>
+					<picture>
+						<source
+			    			srcset="https://en.wikipedia.org/static/images/donate/donate.png"
+			   				media="(prefers-reduced-motion)" />
+						<img src="https://en.wikipedia.org/static/images/donate/donate.gif" alt="" class="donate-banner__gif" loading="lazy">
+					</picture>
+				</a>
+			</div>
+	<ul class="hlist">
+			<li class="toggle-list-item ">
+				<a class="toggle-list-item__anchor menu__item--about" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" data-mw-interface="1">
+					
+					<span class="toggle-list-item__label">Описание Викитеки</span>
+				</a>
+			</li>
+			<li class="toggle-list-item ">
+				<a class="toggle-list-item__anchor menu__item--disclaimers" href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" data-mw-interface="1">
+					
+					<span class="toggle-list-item__label">Отказ от ответственности</span>
+				</a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0">
+						<span><img src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" alt="Викитека" width="146" height="25"
+	style="width: 9.125em; height: 1.5625em;"/>
+
+</span>
+					</a>
+				</div>
+					<form role="search" action="/w/index.php" method="get" class="minerva-search-form">
+				<div class="search-box search-box--typeahead">
+					<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+						<div class="cdx-search-input">
+							<div class="cdx-search-input__input-wrapper">
+								<div class="cdx-text-input cdx-text-input--has-start-icon">
+									<input type="hidden" name="title" value="Служебная:Поиск"/>
+									<input class="search skin-minerva-search-trigger cdx-text-input__input" id="searchInput"
+									 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" autocomplete="off">
+									<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<button id="searchIcon" class="cdx-button cdx-button--size-large cdx-button--icon-only cdx-button--weight-quiet skin-minerva-search-trigger">
+	    <span class="minerva-icon minerva-icon--search"></span>
+<span>Найти</span>
+	</button>
+</form>
+		<nav class="minerva-user-navigation" aria-label="Пользовательская навигация">
+					
+				</nav>
+			</div>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-namespace">Категория</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Сборники рассказов</span></h1>
+					<div class="tagline"></div>
+				</div>
+				<nav class="page-actions-menu">
+	<ul id="p-views" class="page-actions-menu__list minerva-icon-only-menu">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a role="button" href="#p-lang" data-mw="interface" data-event-name="menu.languages" title="Язык" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet language-selector">
+				    <span class="minerva-icon minerva-icon--language"></span>
+<span>Язык</span>
+				</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a role="button" id="ca-watch" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F%3A%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" data-event-name="menu.watch" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet menu__item--page-actions-watch">
+				    <span class="minerva-icon minerva-icon--star"></span>
+<span>Следить</span>
+				</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a role="button" id="ca-edit" href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2&amp;action=edit" data-event-name="menu.edit" data-mw-interface="1" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet edit-page menu__item--page-actions-edit">
+				    <span class="minerva-icon minerva-icon--edit"></span>
+<span>Править</span>
+				</a>
+		</li>
+	</ul>
+</nav>
+				<div id="mw-content-subtitle"></div>
+			</div>
+			<div id="bodyContent" class="content">
+				<div id="mw-content-text" class="mw-body-content"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";block.previousSibling.firstChild.className+=" mf-icon-rotate-flip";}</script><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr">
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐7845fc4659‐bfd9x
+Cached time: 20260130141450
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.001 seconds
+Real time usage: 0.003 seconds
+Preprocessor visited node count: 1/1000000
+Revision size: 106/2097152 bytes
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 1/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key ruwikisource:pcache:1068851:|#|:idhash:canonical and timestamp 20260130141450 and revision id 4691272. Rendering was triggered because: page_view
+ -->
+</div>
+<!-- MobileFormatter took 0.000 seconds --><div class="mw-category-generated" lang="ru" dir="ltr"><div id="mw-subcategories">
+<h2>Подкатегории</h2>
+<p>Эта категория содержит только следующую подкатегорию.
+</p><div lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>С</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet"></span> <bdi dir="ltr"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BB%D0%BE%D0%B1%D0%BE%D0%B6%D0%B0%D0%BD%D0%B5_(%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)" title="Категория:Слобожане (Данилевский)">Слобожане (Данилевский)</a></bdi> <span title="Содержит 0 подкатегорий, 10 страниц и 0 файлов" dir="ltr">(10: 10 с.)</span></div><div class="CategoryTreeChildren" style="display:none"></div></div></li></ul></div></div></div>
+</div><div id="mw-pages">
+<h2>Страницы в категории «Сборники рассказов»</h2>
+<p>Показано 200 страниц из 374, находящихся в данной категории.
+</p>(Предыдущая страница) (<a href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2&amp;pagefrom=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5+%D1%82%D1%80%D1%83%D0%B4%D0%B0+%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E#mw-pages" title="Категория:Сборники рассказов">Следующая страница</a>)<div lang="ru" dir="ltr" class="mw-content-ltr"><div class="mw-category mw-category-columns"><div class="mw-category-group"><h3>«</h3>
+<ul><li><a href="/wiki/%C2%AB%D0%94%D1%83%D1%88%D0%B0_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8%C2%BB/%D0%94%D0%9E" title="«Душа Японии»/ДО">«Душа Японии»/ДО</a></li>
+<li><a href="/wiki/%C2%AB%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%BE%D1%87%D0%BA%D0%B0%C2%BB_(%D0%A8%D0%B5%D0%BB%D0%B3%D1%83%D0%BD%D0%BE%D0%B2%D0%B0)/%D0%94%D0%9E" title="«Звездочка» (Шелгунова)/ДО">«Звездочка» (Шелгунова)/ДО</a></li>
+<li><a href="/wiki/%C2%AB%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%B5%D0%B3%D0%B0%D1%82%D0%B8%D0%B2%D1%8B%C2%BB_(%D0%90%D1%80%D1%81%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2)/%D0%94%D0%9E" title="«Исторические негативы» (Арсеньев)/ДО">«Исторические негативы» (Арсеньев)/ДО</a></li>
+<li><a href="/wiki/%C2%AB%D0%9D%D0%B5_%D0%BD%D0%B0%D1%88%D0%B8%C2%BB_(%D0%9E%D1%80%D1%84%D0%B0%D0%BD%D0%BE%D0%B2)/%D0%9E%D0%97_1881_(%D0%94%D0%9E)" title="«Не наши» (Орфанов)/ОЗ 1881 (ДО)">«Не наши» (Орфанов)/ОЗ 1881 (ДО)</a></li></ul></div><div class="mw-category-group"><h3>4</h3>
+<ul><li><a href="/wiki/40_%D0%BB%D0%B5%D1%82_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D0%B3%D1%80%D0%B0%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_%D0%B8_%D1%83%D0%B1%D0%B8%D0%B9%D1%86_(%D0%9F%D1%83%D1%82%D0%B8%D0%BB%D0%B8%D0%BD)" title="40 лет среди грабителей и убийц (Путилин)">40 лет среди грабителей и убийц (Путилин)</a></li></ul></div><div class="mw-category-group"><h3>А</h3>
+<ul><li><a href="/wiki/%D0%90%D0%BB%D1%91%D0%BD%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8_(%D0%9C%D0%B0%D0%BC%D0%B8%D0%BD-%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%8F%D0%BA)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Алёнушкины сказки (Мамин-Сибиряк)/Версия 2">Алёнушкины сказки (Мамин-Сибиряк)/Версия 2</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%B5%D0%BB,_%D0%B0%D0%B2%D1%82%D0%BE%D1%80_%D0%B8_%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%B5_(%D0%94%D0%B6%D0%B5%D1%80%D0%BE%D0%BC;_%D0%9C%D1%83%D1%80%D0%B0%D1%85%D0%B8%D0%BD%D0%B0-%D0%90%D0%BA%D1%81%D1%91%D0%BD%D0%BE%D0%B2%D0%B0)" title="Ангел, автор и другие (Джером; Мурахина-Аксёнова)">Ангел, автор и другие (Джером; Мурахина-Аксёнова)</a></li>
+<li><a href="/wiki/%D0%90%D0%BD%D0%B5%D0%BA%D0%B4%D0%BE%D1%82%D1%8B,_%D0%B8%D0%BB%D0%B8_%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D0%BE%D1%88%D0%B5%D1%85%D0%BE%D0%BD%D1%86%D0%B5%D0%B2%E2%80%A6_(%D0%91%D0%B5%D1%80%D0%B5%D0%B7%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9)/%D0%94%D0%9E" title="Анекдоты, или Веселые похождения старинных пошехонцев… (Березайский)/ДО">Анекдоты, или Веселые похождения старинных пошехонцев… (Березайский)/ДО</a></li>
+<li><a href="/wiki/%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%B2_%C2%AB%D0%9F%D1%80%D0%B0%D0%B3%D0%B5%D1%80_%D0%9F%D1%80%D0%B5%D1%81%D1%81%D0%B5%C2%BB_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Аркадий Аверченко в «Прагер Прессе» (Аверченко)">Аркадий Аверченко в «Прагер Прессе» (Аверченко)</a></li>
+<li><a href="/wiki/%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Африканские новеллы (Юргенсен; Журавская)/ДО">Африканские новеллы (Юргенсен; Журавская)/ДО</a></li></ul></div><div class="mw-category-group"><h3>Б</h3>
+<ul><li><a href="/wiki/%D0%91%D0%B0%D0%B1%D1%83%D1%88%D0%BA%D0%B0-%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%87%D0%B8%D1%86%D0%B0_(%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0)/%D0%94%D0%9E" title="Бабушка-рассказчица (Воронова)/ДО">Бабушка-рассказчица (Воронова)/ДО</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%B7%D0%B0%D1%80_%D0%BF%D0%BE%D1%8D%D1%82%D0%B0_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD;_%D0%93%D0%B0%D0%BD%D0%B7%D0%B5%D0%BD)" title="Базар поэта (Андерсен; Ганзен)">Базар поэта (Андерсен; Ганзен)</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%B4%D0%BD%D1%8B%D0%B5_%D1%83%D0%B3%D0%BB%D1%8B_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D0%BC%D0%B0_(%D0%A8%D0%B5%D0%BB%D0%BB%D0%B5%D1%80-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2)/%D0%94%D0%9E" title="Бедные углы большого дома (Шеллер-Михайлов)/ДО">Бедные углы большого дома (Шеллер-Михайлов)/ДО</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)/%D0%94%D0%9E" title="Бедовая доля (Ремизов)/ДО">Бедовая доля (Ремизов)/ДО</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%B7_%D0%BF%D1%80%D0%B5%D0%B4%D1%80%D0%B0%D1%81%D1%81%D1%83%D0%B4%D0%BA%D0%BE%D0%B2_(%D0%A2%D1%8D%D1%84%D1%84%D0%B8)" title="Без предрассудков (Тэффи)">Без предрассудков (Тэффи)</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%B5_%D0%B2%D0%B8%D0%BD%D0%BE_%D0%BB%D0%B0_%D0%92%D0%B8%D0%BB%D0%BB%D0%B5%D1%82_(%D0%A0%D0%BE%D0%BC%D0%B5%D0%BD)" title="Белое вино ла Виллет (Ромен)">Белое вино ла Виллет (Ромен)</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D1%81%D0%BF%D1%80%D0%B8%D0%B7%D0%BE%D1%80%D0%BD%D1%8B%D0%B5_(%D0%A8%D1%83%D0%BB%D1%8C%D0%B3%D0%B8%D0%BD)" title="Беспризорные (Шульгин)">Беспризорные (Шульгин)</a></li>
+<li><a href="/wiki/%D0%91%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_(%D0%93%D0%BE%D0%BB%D1%8C%D0%B4%D0%B1%D0%B5%D1%80%D0%B3)" title="Блатные рассказы (Гольдберг)">Блатные рассказы (Гольдберг)</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%BC_%D0%B4%D0%B5%D1%82%D1%8F%D0%BC_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8_(1917-1920)_(%D0%97%D0%B0%D0%BC%D1%8F%D1%82%D0%B8%D0%BD)" title="Большим детям сказки (1917-1920) (Замятин)">Большим детям сказки (1917-1920) (Замятин)</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D1%80%D1%8C%D0%B1%D0%B0_%D0%B7%D0%B0_%D1%81%D0%BC%D0%B5%D0%BD%D1%83_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Борьба за смену (Аверченко)">Борьба за смену (Аверченко)</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D1%80%D1%8C%D0%B1%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%B9_(%D0%93%D0%B0%D0%BC%D1%81%D1%83%D0%BD)/%D0%94%D0%9E" title="Борьба страстей (Гамсун)/ДО">Борьба страстей (Гамсун)/ДО</a></li></ul></div><div class="mw-category-group"><h3>В</h3>
+<ul><li><a href="/wiki/%D0%92_%D0%B3%D0%BE%D1%80%D0%BD%D0%BE%D0%B9_%D0%98%D0%BD%D0%B4%D0%B8%D0%B8_(%D0%9A%D0%B8%D0%BF%D0%BB%D0%B8%D0%BD%D0%B3;_%D0%9A%D0%B8%D1%81%D0%B5%D0%BB%D1%91%D0%B2)" title="В горной Индии (Киплинг; Киселёв)">В горной Индии (Киплинг; Киселёв)</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Васильки (Андреевская)/ДО">Васильки (Андреевская)/ДО</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD_(%D0%97%D0%B0%D0%BC%D1%87%D0%B0%D0%BB%D0%BE%D0%B2)" title="Великан (Замчалов)">Великан (Замчалов)</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%81%D1%82_(%D0%A1%D0%BE%D0%BB%D0%BE%D0%B3%D1%83%D0%B1)" title="Великий благовест (Сологуб)">Великий благовест (Сологуб)</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D1%8B%D0%B5_%D1%80%D0%B5%D0%B1%D1%8F%D1%82%D0%B0_%D0%B8_%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_(%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%D1%81%D0%BE%D0%BD;_%D0%AD%D0%BD%D0%BA%D0%B2%D0%B8%D1%81%D1%82)" title="Веселые ребята и другие рассказы (Стивенсон; Энквист)">Веселые ребята и другие рассказы (Стивенсон; Энквист)</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D1%8B%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%86%D1%8B_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Веселые устрицы (Аверченко)/Версия 2">Веселые устрицы (Аверченко)/Версия 2</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D1%87%D0%B5%D1%80_%D0%BD%D0%B0_%D0%A5%D0%BE%D0%BF%D1%80%D0%B5_(%D0%97%D0%B0%D0%B3%D0%BE%D1%81%D0%BA%D0%B8%D0%BD)" title="Вечер на Хопре (Загоскин)">Вечер на Хопре (Загоскин)</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BE%D1%81%D1%83%D0%B3%D0%B8_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Вечерние досуги (Андреевская)/ДО">Вечерние досуги (Андреевская)/ДО</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B5_%D1%82%D1%80%D0%B0%D0%BF%D0%B5%D0%B7%D1%8B_(%D0%93%D1%80%D0%B0%D1%86%D1%86%D0%B8%D0%BD%D0%B8)" title="Вечерние трапезы (Граццини)">Вечерние трапезы (Граццини)</a></li>
+<li><a href="/wiki/%D0%92%D0%BC%D0%B5%D1%81%D1%82%D0%BE_%D0%B8%D0%B3%D1%80%D1%83%D1%88%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Вместо игрушки (Андреевская)/ДО">Вместо игрушки (Андреевская)/ДО</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D0%A1%D0%B5%D1%87%D0%B5%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8_(%D0%9F%D1%80%D1%83%D0%B6%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)/%D0%9D%D0%B8%D0%B2%D0%B0_1872_(%D0%94%D0%9E)" title="Возникновение достопримечательного города Сеченовки (Пружанский)/Нива 1872 (ДО)">Возникновение достопримечательного города Сеченовки (Пружанский)/Нива 1872 (ДО)</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B5!_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2-%D0%9F%D0%BE%D1%81%D0%B0%D0%B4%D0%BE%D0%B2)" title="Война войне! (Горбунов-Посадов)">Война войне! (Горбунов-Посадов)</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%C2%AB%D0%93%D0%BD%D0%B5%D0%B7%D0%B4%D0%B0_%D0%BF%D0%B5%D1%80%D0%B5%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D1%85_%D0%BF%D1%82%D0%B8%D1%86%C2%BB_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Вокруг «Гнезда перелетных птиц» (Аверченко)">Вокруг «Гнезда перелетных птиц» (Аверченко)</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%BB%D1%87%D1%8C%D0%B8_%D1%8F%D0%BC%D1%8B_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Волчьи ямы (Аверченко)/Версия 2">Волчьи ямы (Аверченко)/Версия 2</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B8_(%D0%9B%D0%B5%D0%B9%D0%BA%D0%B8%D0%BD)/%D0%94%D0%9E" title="Воскресные охотники (Лейкин)/ДО">Воскресные охотники (Лейкин)/ДО</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D1%81%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B0_(%D0%9D%D0%B8%D0%BA%D0%B8%D1%84%D0%BE%D1%80%D0%BE%D0%B2-%D0%92%D0%BE%D0%BB%D0%B3%D0%B8%D0%BD)" title="Воспоминания детства (Никифоров-Волгин)">Воспоминания детства (Никифоров-Волгин)</a></li>
+<li><a href="/wiki/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%89%D0%B8%D0%BA%D0%B8_%D0%B8_%D1%84%D0%B0%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%BA%D0%B8_XVI,_XVII,_XVIII_%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%B9_(%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D1%8B%D0%B3%D0%B8%D0%BD)/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0_%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D1%8F" title="Временщики и фаворитки XVI, XVII, XVIII столетий (Каратыгин)/Книга вторая">Временщики и фаворитки XVI, XVII, XVIII столетий (Каратыгин)/Книга вторая</a></li>
+<li><a href="/wiki/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%89%D0%B8%D0%BA%D0%B8_%D0%B8_%D1%84%D0%B0%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%BA%D0%B8_XVI,_XVII,_XVIII_%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%B9_(%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D1%8B%D0%B3%D0%B8%D0%BD)/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0_%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F" title="Временщики и фаворитки XVI, XVII, XVIII столетий (Каратыгин)/Книга первая">Временщики и фаворитки XVI, XVII, XVIII столетий (Каратыгин)/Книга первая</a></li>
+<li><a href="/wiki/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%89%D0%B8%D0%BA%D0%B8_%D0%B8_%D1%84%D0%B0%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%BA%D0%B8_XVI,_XVII,_XVIII_%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%B8%D0%B9_(%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D1%8B%D0%B3%D0%B8%D0%BD)/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0_%D1%82%D1%80%D0%B5%D1%82%D1%8C%D1%8F" title="Временщики и фаворитки XVI, XVII, XVIII столетий (Каратыгин)/Книга третья">Временщики и фаворитки XVI, XVII, XVIII столетий (Каратыгин)/Книга третья</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5_%D0%BE_%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8_(%D0%A2%D1%8D%D1%84%D1%84%D0%B8)" title="Все о любви (Тэффи)">Все о любви (Тэффи)</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)" title="Встречи с Лиз (Добычин)">Встречи с Лиз (Добычин)</a></li>
+<li><a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0_%D0%B4%D0%B6%D1%83%D0%BD%D0%B3%D0%BB%D0%B5%D0%B9_(%D0%9A%D0%B8%D0%BF%D0%BB%D0%B8%D0%BD%D0%B3;_%D0%A7%D0%B8%D1%81%D1%82%D1%8F%D0%BA%D0%BE%D0%B2%D0%B0-%D0%92%D1%8D%D1%80)" title="Вторая книга джунглей (Киплинг; Чистякова-Вэр)">Вторая книга джунглей (Киплинг; Чистякова-Вэр)</a></li></ul></div><div class="mw-category-group"><h3>Г</h3>
+<ul><li><a href="/wiki/%D0%93%D0%B8%D0%BC%D0%BD%D0%B0%D0%B7%D0%B8%D1%81%D1%82%D0%BA%D0%B8_(%D0%A0%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B)_(%D0%A7%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F)" title="Гимназистки (Рассказы) (Чарская)">Гимназистки (Рассказы) (Чарская)</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D1%81%D1%82%D1%8C_%D0%BD%D0%B0%D1%86%D0%B8%D0%B8_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Гордость нации (Аверченко)">Гордость нации (Аверченко)</a></li>
+<li><a href="/wiki/%D0%93%D1%80%D0%B5%D0%B7%D1%8B_%D0%B8_%D1%82%D0%B5%D0%BD%D0%B8_(%D0%90%D0%BC%D1%84%D0%B8%D1%82%D0%B5%D0%B0%D1%82%D1%80%D0%BE%D0%B2)/%D0%94%D0%9E" title="Грезы и тени (Амфитеатров)/ДО">Грезы и тени (Амфитеатров)/ДО</a></li>
+<li><a href="/wiki/%D0%93%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%87%D0%B5%D1%80%D0%BA%D0%B8_(%D0%A1%D0%B0%D0%BB%D1%82%D1%8B%D0%BA%D0%BE%D0%B2-%D0%A9%D0%B5%D0%B4%D1%80%D0%B8%D0%BD)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Губернские очерки (Салтыков-Щедрин)/Версия 2">Губернские очерки (Салтыков-Щедрин)/Версия 2</a></li>
+<li><a href="/wiki/%D0%93%D1%83%D1%80%D1%8C%D0%B1%D0%BE%D0%B9!_(%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2)/%D0%94%D0%9E" title="Гурьбой! (Васильев)/ДО">Гурьбой! (Васильев)/ДО</a></li></ul></div><div class="mw-category-group"><h3>Д</h3>
+<ul><li><a href="/wiki/%D0%94%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE%D0%B5_(%D0%A2%D1%8D%D1%84%D1%84%D0%B8)" title="Далекое (Тэффи)">Далекое (Тэффи)</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)" title="Два рассказа, сказание и очерк (Опочинин)">Два рассказа, сказание и очерк (Опочинин)</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BE%D0%B2_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Двенадцать портретов (Аверченко)">Двенадцать портретов (Аверченко)</a></li>
+<li><a href="/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D0%BE%D0%B9_%D1%81%D0%B0%D0%B4_(%D0%9C%D0%B5%D1%82%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%BA)" title="Двойной сад (Метерлинк)">Двойной сад (Метерлинк)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%B2%D0%BE%D1%87%D0%BA%D0%B0%D0%BC_%D0%BE_%D0%B4%D0%B5%D0%B2%D0%BE%D1%87%D0%BA%D0%B0%D1%85_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Девочкам о девочках (Андреевская)/ДО">Девочкам о девочках (Андреевская)/ДО</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F_(%D0%94%E2%80%99%D0%90%D0%BD%D0%BD%D1%83%D0%BD%D1%86%D0%B8%D0%BE)" title="Девственная земля (Д’Аннунцио)">Девственная земля (Д’Аннунцио)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)" title="Деревенские встречи (Успенский)">Деревенские встречи (Успенский)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D1%8B_(%D0%93%D0%B0%D1%80%D0%B8%D0%BD-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)" title="Деревенские панорамы (Гарин-Михайловский)">Деревенские панорамы (Гарин-Михайловский)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%82%D0%B8_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Дети (Аверченко)/Версия 2">Дети (Аверченко)/Версия 2</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%82%D0%B8_(%D0%A2%D1%8D%D1%84%D1%84%D0%B8)" title="Дети (Тэффи)">Дети (Тэффи)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D1%8C_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Детская радость (Андреевская)/ДО">Детская радость (Андреевская)/ДО</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D1%8B_(%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0)/%D0%94%D0%9E" title="Детские портреты (Воронова)/ДО">Детские портреты (Воронова)/ДО</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8_%D0%B7%D1%83%D0%BB%D1%83%D1%81%D0%BE%D0%B2_(%D0%9A%D1%8D%D0%BB%D0%BB%D0%BE%D1%83%D1%8D%D0%B9)/%D0%94%D0%9E" title="Детские сказки зулусов (Кэллоуэй)/ДО">Детские сказки зулусов (Кэллоуэй)/ДО</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Детский мирок (Андреевская)/ДО">Детский мирок (Андреевская)/ДО</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%9D%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_15_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Дешевая юмористическая библиотека «Нового Сатирикона». Выпуск 15 (Аверченко)">Дешевая юмористическая библиотека «Нового Сатирикона». Выпуск 15 (Аверченко)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%9D%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_17_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Дешевая юмористическая библиотека «Нового Сатирикона». Выпуск 17 (Аверченко)">Дешевая юмористическая библиотека «Нового Сатирикона». Выпуск 17 (Аверченко)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%9D%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_67_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Дешевая юмористическая библиотека «Нового Сатирикона». Выпуск 67 (Аверченко)">Дешевая юмористическая библиотека «Нового Сатирикона». Выпуск 67 (Аверченко)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Дешевая юмористическая библиотека «Сатирикона». Выпуск 32 (Аверченко)">Дешевая юмористическая библиотека «Сатирикона». Выпуск 32 (Аверченко)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_39_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Дешевая юмористическая библиотека «Сатирикона». Выпуск 39 (Аверченко)">Дешевая юмористическая библиотека «Сатирикона». Выпуск 39 (Аверченко)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_50_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Дешевая юмористическая библиотека «Сатирикона». Выпуск 50 (Аверченко)">Дешевая юмористическая библиотека «Сатирикона». Выпуск 50 (Аверченко)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_74_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Дешевая юмористическая библиотека «Сатирикона». Выпуск 74 (Аверченко)">Дешевая юмористическая библиотека «Сатирикона». Выпуск 74 (Аверченко)</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_83_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Дешевая юмористическая библиотека «Сатирикона». Выпуск 83 (Аверченко)">Дешевая юмористическая библиотека «Сатирикона». Выпуск 83 (Аверченко)</a></li>
+<li><a href="/wiki/%D0%94%D0%BB%D1%8F_%D0%B4%D0%B5%D1%82%D0%B5%D0%B9_(%D0%A1%D0%B0%D0%BB%D1%82%D1%8B%D0%BA%D0%BE%D0%B2-%D0%A9%D0%B5%D0%B4%D1%80%D0%B8%D0%BD)" title="Для детей (Салтыков-Щедрин)">Для детей (Салтыков-Щедрин)</a></li>
+<li><a href="/wiki/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)" title="Дневник фокса Микки (Черный)">Дневник фокса Микки (Черный)</a></li>
+<li><a href="/wiki/%D0%94%D0%BE%D0%BA%D1%83%D0%BA%D0%B0_%D0%B8_%D0%B1%D0%B0%D0%BB%D0%B0%D0%B3%D1%83%D1%80%D1%8C%D0%B5_(%D0%A0%D0%B5%D0%BC%D0%B8%D0%B7%D0%BE%D0%B2)" title="Докука и балагурье (Ремизов)">Докука и балагурье (Ремизов)</a></li>
+<li><a href="/wiki/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B8_(%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2)/%D0%94%D0%9E" title="Дороги (Иванов)/ДО">Дороги (Иванов)/ДО</a></li>
+<li><a href="/wiki/%D0%94%D1%80%D1%83%D0%B6%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Дружок (Андреевская)/ДО">Дружок (Андреевская)/ДО</a></li>
+<li><a href="/wiki/%D0%94%D1%80%D1%83%D0%B7%D1%8C%D1%8F_%D0%B8_%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_(%D0%93%D0%B8%D0%BB%D1%8F%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)" title="Друзья и встречи (Гиляровский)">Друзья и встречи (Гиляровский)</a></li>
+<li><a href="/wiki/%D0%94%D1%8E%D0%B6%D0%B8%D0%BD%D0%B0_%D0%BD%D0%BE%D0%B6%D0%B5%D0%B9_%D0%B2_%D1%81%D0%BF%D0%B8%D0%BD%D1%83_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B8_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Дюжина ножей в спину революции (Аверченко)/Версия 2">Дюжина ножей в спину революции (Аверченко)/Версия 2</a></li></ul></div><div class="mw-category-group"><h3>Ж</h3>
+<ul><li><a href="/wiki/%D0%96%D1%91%D0%BD%D1%8B_%D0%B0%D1%80%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2_(%D0%94%D0%BE%D0%B4%D0%B5;_%D0%90._%D0%9D._%D0%9F%D0%BB%D0%B5%D1%89%D0%B5%D0%B5%D0%B2)" title="Жёны артистов (Доде; А. Н. Плещеев)">Жёны артистов (Доде; А. Н. Плещеев)</a></li>
+<li><a href="/wiki/%D0%96%D0%B5%D1%81%D1%82%D0%BE%D0%BA%D0%B8%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_(%D0%92%D0%B8%D0%BB%D1%8C%D0%B5-%D0%94%D0%B5-%D0%9B%D0%B8%D0%BB%D1%8C-%D0%90%D0%B4%D0%B0%D0%BD)/%D0%94%D0%9E" title="Жестокие рассказы (Вилье-Де-Лиль-Адан)/ДО">Жестокие рассказы (Вилье-Де-Лиль-Адан)/ДО</a></li>
+<li><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D1%8D%D0%BF%D0%BE%D1%81_%D0%B8_%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%B3%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D1%82%D0%BE%D1%82%D0%BE%D0%B2_(%D0%91%D0%BB%D0%B8%D0%BA)/%D0%94%D0%9E" title="Животный эпос и легенды готтентотов (Блик)/ДО">Животный эпос и легенды готтентотов (Блик)/ДО</a></li>
+<li><a href="/wiki/%D0%96%D0%B8%D0%B2%D1%8B%D0%B5_%D1%86%D0%B2%D0%B5%D1%82%D1%8B_(%D0%91%D1%83%D1%80%D0%BD%D0%B0%D1%88%D0%B5%D0%B2%D0%B0)/%D0%94%D0%9E" title="Живые цветы (Бурнашева)/ДО">Живые цветы (Бурнашева)/ДО</a></li>
+<li><a href="/wiki/%D0%96%D1%83%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B1%D1%83%D0%BB%D0%B0%D0%B2%D0%BA%D0%B0%D1%85_(%D0%91%D1%83%D1%85%D0%BE%D0%B2)" title="Жуки на булавках (Бухов)">Жуки на булавках (Бухов)</a></li></ul></div><div class="mw-category-group"><h3>З</h3>
+<ul><li><a href="/wiki/%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8_%D0%B8%D0%B7_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%C2%BB_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)" title="Заметки из журнала «Новый Сатирикон» (Черный)">Заметки из журнала «Новый Сатирикон» (Черный)</a></li>
+<li><a href="/wiki/%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8_%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_(%D0%9B%D0%B5%D1%81%D0%BA%D0%BE%D0%B2)" title="Заметки неизвестного (Лесков)">Заметки неизвестного (Лесков)</a></li>
+<li><a href="/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Записки охотника (Тургенев)/Версия 2">Записки охотника (Тургенев)/Версия 2</a></li>
+<li><a href="/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B4%D1%83%D1%88%D0%BD%D0%BE%D0%B3%D0%BE_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Записки Простодушного (Аверченко)">Записки Простодушного (Аверченко)</a></li>
+<li><a href="/wiki/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D1%82%D0%B5%D0%B0%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BA%D1%80%D1%8B%D1%81%D1%8B_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Записки театральной крысы (Аверченко)/Версия 2">Записки театральной крысы (Аверченко)/Версия 2</a></li>
+<li><a href="/wiki/%D0%97%D0%BE%D1%80%D1%8C%D0%BA%D0%B0_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Зорька (Андреевская)/ДО">Зорька (Андреевская)/ДО</a></li></ul></div><div class="mw-category-group"><h3>И</h3>
+<ul><li><a href="/wiki/%D0%98%D0%B7_%C2%AB%D0%9C%D0%B0%D1%82%D1%80%D0%BE%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%B4%D0%BE%D1%81%D1%83%D0%B3%D0%BE%D0%B2%C2%BB_(%D0%94%D0%B0%D0%BB%D1%8C)" title="Из «Матросских досугов» (Даль)">Из «Матросских досугов» (Даль)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7_%C2%AB%D0%9F%D0%BE%D1%88%D0%B5%D1%85%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%C2%BB_(%D0%A1%D0%B0%D0%BB%D1%82%D1%8B%D0%BA%D0%BE%D0%B2-%D0%A9%D0%B5%D0%B4%D1%80%D0%B8%D0%BD)" title="Из «Пошехонских рассказов» (Салтыков-Щедрин)">Из «Пошехонских рассказов» (Салтыков-Щедрин)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7_%C2%AB%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE-%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8F-%D0%B0%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD%D0%B0%D1%85%D0%B0_%D0%BD%D0%B0_1914_%D0%B3%D0%BE%D0%B4%C2%BB_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Из «Художественно-юмористического календаря-альманаха на 1914 год» (Аверченко)">Из «Художественно-юмористического календаря-альманаха на 1914 год» (Аверченко)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7_%D0%B0%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD%D0%B0%D1%85%D0%B0_%D1%81%D0%B0%D1%82%D0%B8%D1%80%D1%8B_%D0%B8_%D1%8E%D0%BC%D0%BE%D1%80%D0%B0_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B0_%22%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%22_%22%D0%A1%D1%82%D1%80%D1%83%D0%B6%D0%BA%D0%B8%22_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Из альманаха сатиры и юмора журнала &quot;Сатирикон&quot; &quot;Стружки&quot; (Аверченко)">Из альманаха сатиры и юмора журнала &quot;Сатирикон&quot; &quot;Стружки&quot; (Аверченко)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)" title="Из жизни глухих улиц (Моррисон; Анненская)/МБ 1897 (ДО)">Из жизни глухих улиц (Моррисон; Анненская)/МБ 1897 (ДО)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8_%C2%AB%D0%A4%D0%B8%D0%B7%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%B8_%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D0%BC%D0%B8%D1%8F_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0%C2%BB_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Из книги «Физиология и анатомия человека» (Аверченко)">Из книги «Физиология и анатомия человека» (Аверченко)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)" title="Из крымских рассказов (Шмелёв)">Из крымских рассказов (Шмелёв)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7_%D1%80%D0%B0%D0%BD%D0%BD%D0%B8%D1%85_%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D0%B9_(%D0%92%D0%B0%D0%B3%D0%B8%D0%BD%D0%BE%D0%B2)" title="Из ранних редакций (Вагинов)">Из ранних редакций (Вагинов)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D1%86%D0%B0_(%D0%91%D1%83%D0%BD%D0%B8%D0%BD)" title="Из рассказов охотника-переселенца (Бунин)">Из рассказов охотника-переселенца (Бунин)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B3%D0%BE_%D0%B5%D0%B3%D0%B5%D1%80%D1%8F_(%D0%9B%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Из рассказов старого егеря (Ларский)/Версия 2">Из рассказов старого егеря (Ларский)/Версия 2</a></li>
+<li><a href="/wiki/%D0%98%D0%B7_%D1%80%D0%B5%D0%BF%D0%B5%D1%80%D1%82%D1%83%D0%B0%D1%80%D0%B0_%D1%82%D0%B5%D0%B0%D1%82%D1%80%D0%B0-%D0%BA%D0%B0%D0%B1%D0%B0%D1%80%D0%B5_%C2%AB%D0%93%D0%BD%D0%B5%D0%B7%D0%B4%D0%BE_%D0%BF%D0%B5%D1%80%D0%B5%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D1%85_%D0%BF%D1%82%D0%B8%D1%86%C2%BB_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Из репертуара театра-кабаре «Гнездо перелетных птиц» (Аверченко)">Из репертуара театра-кабаре «Гнездо перелетных птиц» (Аверченко)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B0_%C2%AB%D0%9E%D0%BA%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8%C2%BB_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Из сборника «Оккультные науки» (Аверченко)">Из сборника «Оккультные науки» (Аверченко)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B0_%C2%AB%D0%9E%D1%81%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BB_%D0%BD%D0%B0_%D0%BC%D0%BE%D0%B3%D0%B8%D0%BB%D1%83_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B7%D0%BC%D0%B8%D1%8F%C2%BB_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Из сборника «Осиновый кол на могилу зеленого змия» (Аверченко)">Из сборника «Осиновый кол на могилу зеленого змия» (Аверченко)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D0%BE%D0%B9_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%22%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%22_%D0%B8_%22%D0%9D%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%22_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Из сборников дешевой юмористической библиотеки &quot;Сатирикона&quot; и &quot;Нового Сатирикона&quot; (Аверченко)">Из сборников дешевой юмористической библиотеки &quot;Сатирикона&quot; и &quot;Нового Сатирикона&quot; (Аверченко)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)" title="Избранная проза (Гуро)">Избранная проза (Гуро)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2/%D0%94%D0%9E" title="Избранные рассказы (Аверченко)/Версия 2/ДО">Избранные рассказы (Аверченко)/Версия 2/ДО</a></li>
+<li><a href="/wiki/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_(%D0%92%D0%B5%D1%80%D0%B3%D0%B0)" title="Избранные рассказы (Верга)">Избранные рассказы (Верга)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D1%8F_(%D0%AF%D0%BA%D1%83%D0%B1%D0%BE%D0%B2%D0%B8%D1%87)" title="Избранные стихотворения (Якубович)">Избранные стихотворения (Якубович)</a></li>
+<li><a href="/wiki/%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)" title="Изумительные похождения московского Пинкертона Агафона и его слуги Луки (Травин)">Изумительные похождения московского Пинкертона Агафона и его слуги Луки (Травин)</a></li>
+<li><a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_(%D0%9A%D0%B8%D0%BF%D0%BB%D0%B8%D0%BD%D0%B3)" title="Индийские рассказы (Киплинг)">Индийские рассказы (Киплинг)</a></li>
+<li><a href="/wiki/%D0%98%D1%80%D0%B5%D1%81%D0%B8%D0%BE%D0%BD%D0%B0_(%D0%97%D0%B5%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)" title="Иресиона (Зелинский)">Иресиона (Зелинский)</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8,_%D1%81%D1%86%D0%B5%D0%BD%D0%BA%D0%B8,_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8_(%D0%A3%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)" title="Истории, сценки, сказки (Ушинский)">Истории, сценки, сказки (Ушинский)</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%B5%D1%82%D0%B5%D0%B9_(%D0%A4%D0%BE%D0%B0)/%D0%94%D0%9E" title="Исторические повести для детей (Фоа)/ДО">Исторические повести для детей (Фоа)/ДО</a></li></ul></div><div class="mw-category-group"><h3>К</h3>
+<ul><li><a href="/wiki/%D0%9A%D0%B0%D0%BA_%D0%B6%D0%B8%D0%BB%D0%B0_%D0%A2%D0%B0%D1%81%D1%8F_(%D0%A2%D0%BE%D0%BB%D0%BC%D0%B0%D1%87%D0%B5%D0%B2%D0%B0)" title="Как жила Тася (Толмачева)">Как жила Тася (Толмачева)</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%81%D0%B8_%D0%B8_%D1%89%D1%83%D0%BA%D0%B8_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2/%D0%94%D0%9E" title="Караси и щуки (Аверченко)/Версия 2/ДО">Караси и щуки (Аверченко)/Версия 2/ДО</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%98%D0%B1%D1%81%D0%B5%D0%BD_(%D0%AD%D0%BD%D1%81%D1%82%D0%B8)/%D0%92%D0%98%D0%9B_1896_(%D0%94%D0%9E)" title="Карманный Ибсен (Энсти)/ВИЛ 1896 (ДО)">Карманный Ибсен (Энсти)/ВИЛ 1896 (ДО)</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD)" title="Картинки-невидимки (Андерсен)">Картинки-невидимки (Андерсен)</a></li>
+<li><a href="/wiki/%D0%9A%D0%B8%D0%BF%D1%8F%D1%89%D0%B8%D0%B9_%D0%BA%D0%BE%D1%82%D0%B5%D0%BB_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Кипящий котел (Аверченко)">Кипящий котел (Аверченко)</a></li>
+<li><a href="/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%80%D0%B0%D0%B7%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_(%D0%93%D0%B5%D0%B4%D1%80%D0%BE%D0%B9%D1%86)/%D0%94%D0%9E" title="Китайские разсказы (Гедройц)/ДО">Китайские разсказы (Гедройц)/ДО</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D1%87%D0%B8%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Колокольчики (Андреевская)/ДО">Колокольчики (Андреевская)/ДО</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8_(%D0%93%D0%B0%D1%80%D0%B8%D0%BD-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)" title="Корейские сказки (Гарин-Михайловский)">Корейские сказки (Гарин-Михайловский)</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA_(%D0%AD%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D0%B3%D0%B0%D1%80%D0%B4%D1%82)" title="Коробейник (Энгельгардт)">Коробейник (Энгельгардт)</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)" title="Краткие замысловатые повести (Курганов)">Краткие замысловатые повести (Курганов)</a></li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%B0%D1%80%D0%B5%D0%BC_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Кубарем по заграницам (Аверченко)">Кубарем по заграницам (Аверченко)</a></li></ul></div><div class="mw-category-group"><h3>Л</h3>
+<ul><li><a href="/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_(%D0%93%D1%80%D0%B8%D0%BC%D0%BC)" title="Легенды (Гримм)">Легенды (Гримм)</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%B8_%D0%BC%D0%B8%D1%84%D1%8B_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B9_%D0%93%D1%80%D0%B5%D1%86%D0%B8%D0%B8_(%D0%9A%D1%83%D0%BD)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Легенды и мифы Древней Греции (Кун)/Версия 2">Легенды и мифы Древней Греции (Кун)/Версия 2</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)" title="Легенды о графе Брюсе (Баранов)">Легенды о графе Брюсе (Баранов)</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)" title="Легенды о русских писателях (Баранов)">Легенды о русских писателях (Баранов)</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B5_(%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D0%BB%D1%91%D1%84)" title="Легенды о Христе (Лагерлёф)">Легенды о Христе (Лагерлёф)</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D1%81%D1%82%D1%80%D0%B8%D0%B3%D0%BE%D0%BD%D1%8B._%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0_II_(%D0%9A%D1%83%D0%BF%D1%80%D0%B8%D0%BD)" title="Листригоны. Книга II (Куприн)">Листригоны. Книга II (Куприн)</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B5_%D1%84%D0%B5%D0%BB%D1%8C%D0%B5%D1%82%D0%BE%D0%BD%D1%8B_(%D0%90%D0%B7%D0%BE%D0%B2)" title="Литературные фельетоны (Азов)">Литературные фельетоны (Азов)</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B8_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8_(%D0%A1%D0%BB%D0%B0%D0%B2%D1%83%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)" title="Литовские предания и сказки (Славутинский)">Литовские предания и сказки (Славутинский)</a></li>
+<li><a href="/wiki/%D0%9B%D1%8E%D1%82%D0%B8%D0%BA_(%D0%91%D0%B5%D1%81%D0%BF%D1%8F%D1%82%D0%BE%D0%B2)/%D0%94%D0%9E" title="Лютик (Беспятов)/ДО">Лютик (Беспятов)/ДО</a></li></ul></div><div class="mw-category-group"><h3>М</h3>
+<ul><li><a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_(%D0%93%D0%B0%D0%BC%D1%81%D1%83%D0%BD)/%D0%94%D0%9E" title="Маленькие приключения (Гамсун)/ДО">Маленькие приключения (Гамсун)/ДО</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D0%BA%D0%B0%D0%BC_%D0%BE_%D0%BC%D0%B0%D0%BB%D1%8C%D1%87%D0%B8%D0%BA%D0%B0%D1%85_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Мальчикам о мальчиках (Андреевская)/ДО">Мальчикам о мальчиках (Андреевская)/ДО</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8_(%D0%A1%D0%B5%D1%80%D0%B0%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87)" title="Мариупольские картинки (Серафимович)">Мариупольские картинки (Серафимович)</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%B8%D0%B7_%D0%B4%27%D0%90%D0%BC%D0%B5%D1%80%D0%BA%D0%B5%D1%80_(%D0%A0%D0%B5%D0%BD%D1%8C%D0%B5)" title="Маркиз д&#039;Амеркер (Ренье)">Маркиз д&#039;Амеркер (Ренье)</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C_(%D0%A8%D0%B5%D0%BB%D0%B3%D1%83%D0%BD%D0%BE%D0%B2%D0%B0)/%D0%94%D0%9E" title="Медведь (Шелгунова)/ДО">Медведь (Шелгунова)/ДО</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%BB%D0%BA%D0%B8%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)" title="Мелкие рассказы (Чернышевский)">Мелкие рассказы (Чернышевский)</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)" title="Мелочи (Успенский)">Мелочи (Успенский)</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D0%B0_I_(%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2-%D0%94%D0%B0%D0%B2%D1%8B%D0%B4%D0%BE%D0%B2)" title="Мелочи жизни Наполеона I (Фёдоров-Давыдов)">Мелочи жизни Наполеона I (Фёдоров-Давыдов)</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%87%D1%82%D1%8B_%D0%BE_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Мечты о прошлом (Аверченко)">Мечты о прошлом (Аверченко)</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%BE%D1%87%D0%BA%D0%B0_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Милочка (Андреевская)/ДО">Милочка (Андреевская)/ДО</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D0%BB%D1%8B%D0%B5_%D0%B1%D0%B5%D0%B7%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8_(%D0%A8%D0%B5%D0%BB%D0%BB%D0%B5%D1%80-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2)/%D0%94%D0%9E" title="Милые бездельники (Шеллер-Михайлов)/ДО">Милые бездельники (Шеллер-Михайлов)/ДО</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D0%BD%D0%B8%D0%B0%D1%82%D1%8E%D1%80%D1%8B_(%D0%93%D0%BE%D1%84%D0%BC%D0%B0%D0%BD)" title="Миниатюры (Гофман)">Миниатюры (Гофман)</a></li>
+<li><a href="/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B8%D0%BB%D0%B8%D0%B8_(%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD%D0%B1%D0%B0%D1%85)" title="Мистические лилии (Роденбах)">Мистические лилии (Роденбах)</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0_%D0%90%D0%B7%D0%B8%D1%81%D0%B0_(%D0%A8%D1%83%D1%84)" title="Могила Азиса (Шуф)">Могила Азиса (Шуф)</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%B8_%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%83%D0%BC%D0%B5%D1%80%D0%BA%D0%B8_(%D0%A1%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2)/%D0%94%D0%9E" title="Мои Петербургские сумерки (Страхов)/ДО">Мои Петербургские сумерки (Страхов)/ДО</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D1%8F_%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_(%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD)" title="Моя первая русская история (Головин)">Моя первая русская история (Головин)</a></li>
+<li><a href="/wiki/%D0%9C%D1%83%D0%B4%D1%80%D0%BE%D1%81%D1%82%D1%8C_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)" title="Мудрость народов (Лабуле)">Мудрость народов (Лабуле)</a></li></ul></div><div class="mw-category-group"><h3>Н</h3>
+<ul><li><a href="/wiki/%D0%9D%D0%B0_%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D1%85_%D1%83%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%85_(%D0%A2%D0%B5%D1%82%D0%BC%D0%B0%D0%B9%D0%B5%D1%80)/%D0%94%D0%9E" title="На горных уступах (Тетмайер)/ДО">На горных уступах (Тетмайер)/ДО</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0_%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D1%83_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="На Севастопольском берегу (Аверченко)">На Севастопольском берегу (Аверченко)</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B1%D1%80%D0%BE%D1%81%D0%BA%D0%B8_%D0%BA_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BC_(%D0%97%D0%B0%D0%BC%D1%8F%D1%82%D0%B8%D0%BD)" title="Наброски к рассказам (Замятин)">Наброски к рассказам (Замятин)</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B1%D1%80%D0%BE%D1%81%D0%BA%D0%B8_%D1%81%D0%B8%D0%BD%D0%B8%D0%BC,_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%BC_%D0%B8_%D1%81%D0%B5%D1%80%D1%8B%D0%BC_(%D0%94%D0%B6%D0%B5%D1%80%D0%BE%D0%BC;_%D0%9C%D1%83%D1%80%D0%B0%D1%85%D0%B8%D0%BD%D0%B0-%D0%90%D0%BA%D1%81%D1%91%D0%BD%D0%BE%D0%B2%D0%B0)" title="Наброски синим, зеленым и серым (Джером; Мурахина-Аксёнова)">Наброски синим, зеленым и серым (Джером; Мурахина-Аксёнова)</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)" title="Назарка-атаман (Минаев)">Назарка-атаман (Минаев)</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%B7%D0%B8%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%A1%D0%B5%D1%80%D0%B2%D0%B0%D0%BD%D1%82%D0%B5%D1%81)" title="Назидательные новеллы (Сервантес)">Назидательные новеллы (Сервантес)</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%88_%D0%BF%D1%80%D0%B8%D1%85%D0%BE%D0%B4_(%D0%94%D0%B8%D0%BA%D0%BA%D0%B5%D0%BD%D1%81)/%D0%A1_1852_(%D0%94%D0%9E)" title="Наш приход (Диккенс)/С 1852 (ДО)">Наш приход (Диккенс)/С 1852 (ДО)</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%88%D0%B5_%D0%B4%D0%B0%D1%87%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B7%D1%8F%D0%B1%D0%B0%D0%BD%D0%B8%D0%B5_(%D0%9B%D0%B5%D0%B9%D0%BA%D0%B8%D0%BD)/%D0%94%D0%9E" title="Наше дачное прозябание (Лейкин)/ДО">Наше дачное прозябание (Лейкин)/ДО</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%88%D0%B8_%D0%B1%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%B5_(%D0%A8%D0%B5%D0%BB%D0%BB%D0%B5%D1%80-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2)/%D0%94%D0%9E" title="Наши ближние (Шеллер-Михайлов)/ДО">Наши ближние (Шеллер-Михайлов)/ДО</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5_%D1%81%D0%B2%D1%8B%D1%88%D0%B5_(%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2)" title="Не свыше (Булгаков)">Не свыше (Булгаков)</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)" title="Небесные верблюжата (Гуро)">Небесные верблюжата (Гуро)</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D0%B2%D1%8B%D0%B4%D1%83%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_%D0%BE_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_(%D0%92%D0%B5%D1%80%D0%B5%D1%81%D0%B0%D0%B5%D0%B2)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Невыдуманные рассказы о прошлом (Вересаев)/Версия 2">Невыдуманные рассказы о прошлом (Вересаев)/Версия 2</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B1%D1%83%D0%B4%D0%BA%D0%B0_(%D0%91%D0%B5%D0%BB%D1%8F%D0%BD%D0%BA%D0%B8%D0%BD)/%D0%94%D0%9E" title="Незабудка (Белянкин)/ДО">Незабудка (Белянкин)/ДО</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)" title="Незавершенное (Тургенев)">Незавершенное (Тургенев)</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%B1%D1%8B%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B0_%D0%9D%D0%B5%D0%B1%D1%8B%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0_(%D0%91%D0%B5%D0%BB%D1%8F%D0%B5%D0%B2)" title="Необычайные приключения профессора Небывалова (Беляев)">Необычайные приключения профессора Небывалова (Беляев)</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%B1%D1%8B%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_(%D0%A0%D0%B5%D0%BD%D0%B0%D1%80)" title="Необычайные рассказы (Ренар)">Необычайные рассказы (Ренар)</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A4%D0%B5%D1%82)" title="Неоконченное (Фет)">Неоконченное (Фет)</a></li>
+<li><a href="/wiki/%D0%9D%D0%B5%D1%87%D0%B8%D1%81%D1%82%D0%B0%D1%8F_%D1%81%D0%B8%D0%BB%D0%B0_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Нечистая сила (Аверченко)">Нечистая сила (Аверченко)</a></li>
+<li><a href="/wiki/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B1%D0%B0%D1%81%D0%BD%D0%B8_%D0%B8_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8..._(%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B5%D0%B2%D0%B8%D1%87)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2/%D0%94%D0%9E" title="Новые басни и повести... (Базилевич)/Версия 2/ДО">Новые басни и повести... (Базилевич)/Версия 2/ДО</a></li>
+<li><a href="/wiki/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B1%D0%B0%D1%81%D0%BD%D0%B8_%D0%B8_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8..._(%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B5%D0%B2%D0%B8%D1%87)/%D0%94%D0%9E" title="Новые басни и повести... (Базилевич)/ДО">Новые басни и повести... (Базилевич)/ДО</a></li>
+<li><a href="/wiki/%D0%9D%D1%80%D0%B0%D0%B2%D1%8B_%D0%A0%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%8F%D0%B5%D0%B2%D0%BE%D0%B9_%D1%83%D0%BB%D0%B8%D1%86%D1%8B_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)" title="Нравы Растеряевой улицы (Успенский)">Нравы Растеряевой улицы (Успенский)</a></li>
+<li><a href="/wiki/%D0%9D%D1%8F%D0%BD%D0%B8%D0%BD%D1%8B_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Нянины сказки (Андреевская)/ДО">Нянины сказки (Андреевская)/ДО</a></li></ul></div><div class="mw-category-group"><h3>О</h3>
+<ul><li><a href="/wiki/%D0%9E_%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D1%85_-_%D0%B4%D0%BB%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D1%85_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)/%D0%94%D0%9E" title="О маленьких - для больших (Аверченко)/ДО">О маленьких - для больших (Аверченко)/ДО</a></li>
+<li><a href="/wiki/%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="О немцах и прочем таком (Аверченко)">О немцах и прочем таком (Аверченко)</a></li>
+<li><a href="/wiki/%D0%9E_%D0%BF%D0%B0%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8_%D0%B4%D0%BE%D0%BC%D0%B0_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)" title="О падении дома Романовых (Баранов)">О падении дома Романовых (Баранов)</a></li>
+<li><a href="/wiki/%D0%9E_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D1%85,_%D0%B2_%D1%81%D1%83%D1%89%D0%BD%D0%BE%D1%81%D1%82%D0%B8,_%D0%BB%D1%8E%D0%B4%D1%8F%D1%85_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="О хороших, в сущности, людях (Аверченко)/Версия 2">О хороших, в сущности, людях (Аверченко)/Версия 2</a></li>
+<li><a href="/wiki/%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C_(%D0%94%D0%B0%D0%BD%D1%82%D0%B5)/%D0%94%D0%9E" title="Обновленная жизнь (Данте)/ДО">Обновленная жизнь (Данте)/ДО</a></li>
+<li><a href="/wiki/%D0%9E%D0%BD%D0%B8_%D0%BE_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B8_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Они о революции (Аверченко)">Они о революции (Аверченко)</a></li>
+<li><a href="/wiki/%D0%9E%D0%BF%D1%8B%D1%82%D1%8B_%D0%B2_%D1%81%D1%82%D0%B8%D1%85%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D0%B7%D0%B5._%D0%A7%D0%B0%D1%81%D1%82%D1%8C_1._%D0%9F%D1%80%D0%BE%D0%B7%D0%B0_(%D0%91%D0%B0%D1%82%D1%8E%D1%88%D0%BA%D0%BE%D0%B2)" title="Опыты в стихах и прозе. Часть 1. Проза (Батюшков)">Опыты в стихах и прозе. Часть 1. Проза (Батюшков)</a></li>
+<li><a href="/wiki/%D0%9E%D1%81%D1%81%D0%B8%D0%B0%D0%BD,_%D1%81%D1%8B%D0%BD_%D0%A4%D0%B8%D0%BD%D0%B3%D0%B0%D0%BB%D0%BE%D0%B2_(%D0%9C%D0%B0%D0%BA%D1%84%D0%B5%D1%80%D1%81%D0%BE%D0%BD)/%D0%94%D0%9E" title="Оссиан, сын Фингалов (Макферсон)/ДО">Оссиан, сын Фингалов (Макферсон)/ДО</a></li>
+<li><a href="/wiki/%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Отдых на крапиве (Аверченко)">Отдых на крапиве (Аверченко)</a></li>
+<li><a href="/wiki/%D0%9E%D1%82%D1%80%D1%8B%D0%B2%D0%BA%D0%B8_%D0%B8%D0%B7_%D0%B2%D0%BE%D1%81%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D0%B9_-_%D1%81%D0%B2%D0%BE%D0%B8%D1%85_%D0%B8_%D1%87%D1%83%D0%B6%D0%B8%D1%85_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Отрывки из воспоминаний - своих и чужих (Тургенев)/Версия 2">Отрывки из воспоминаний - своих и чужих (Тургенев)/Версия 2</a></li>
+<li><a href="/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)" title="Очерки и рассказы (Успенский)">Очерки и рассказы (Успенский)</a></li>
+<li><a href="/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Очерки и рассказы (Успенский)/Версия 2">Очерки и рассказы (Успенский)/Версия 2</a></li>
+<li><a href="/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)" title="Очерки о старой Москве (Горбунов)">Очерки о старой Москве (Горбунов)</a></li>
+<li><a href="/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D1%83%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B8%D1%80%D0%B0_%D1%86%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8._%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0_%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D1%8F_(%D0%9A%D0%BE%D1%88%D0%BA%D0%BE)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Очерки уголовного мира царской России. Книга вторая (Кошко)/Версия 2">Очерки уголовного мира царской России. Книга вторая (Кошко)/Версия 2</a></li>
+<li><a href="/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D1%83%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B8%D1%80%D0%B0_%D1%86%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8._%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0_%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_(%D0%9A%D0%BE%D1%88%D0%BA%D0%BE)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Очерки уголовного мира царской России. Книга первая (Кошко)/Версия 2">Очерки уголовного мира царской России. Книга первая (Кошко)/Версия 2</a></li>
+<li><a href="/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D1%83%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B8%D1%80%D0%B0_%D1%86%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8._%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0_%D1%82%D1%80%D0%B5%D1%82%D1%8C%D1%8F_(%D0%9A%D0%BE%D1%88%D0%BA%D0%BE)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Очерки уголовного мира царской России. Книга третья (Кошко)/Версия 2">Очерки уголовного мира царской России. Книга третья (Кошко)/Версия 2</a></li></ul></div><div class="mw-category-group"><h3>П</h3>
+<ul><li><a href="/wiki/%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BE%D0%BD_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D1%8B%D0%BC_%D0%BB%D1%8E%D0%B4%D1%8F%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Пантеон советов молодым людям (Аверченко)">Пантеон советов молодым людям (Аверченко)</a></li>
+<li><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%D1%81%D0%BA%D0%B8%D0%B5_%D0%B0%D1%80%D0%B0%D0%B1%D0%B5%D1%81%D0%BA%D0%B8_(%D0%93%D1%8E%D0%B8%D1%81%D0%BC%D0%B0%D0%BD%D1%81)" title="Парижские арабески (Гюисманс)">Парижские арабески (Гюисманс)</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D0%B8%D0%BA,_%D0%B8%D0%BB%D0%B8_%D0%A1%D0%BB%D0%B0%D0%B2%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8_(%D0%A7%D1%83%D0%BB%D0%BA%D0%BE%D0%B2)" title="Пересмешник, или Славянские сказки (Чулков)">Пересмешник, или Славянские сказки (Чулков)</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%81%D1%82%D1%80%D0%B0%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%B0_(%D0%93%D0%BE%D1%84%D0%BC%D0%B0%D0%BD)/%D0%94%D0%9E" title="Пестрая книжка (Гофман)/ДО">Пестрая книжка (Гофман)/ДО</a></li>
+<li><a href="/wiki/%D0%9F%D1%91%D1%81%D1%82%D1%80%D1%8B%D0%B5_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8_%D1%81_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%BC_%D1%81%D0%BB%D0%BE%D0%B2%D1%86%D0%BE%D0%BC_(%D0%9E%D0%B4%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)" title="Пёстрые сказки с красным словцом (Одоевский)">Пёстрые сказки с красным словцом (Одоевский)</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_(%D0%92%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B)_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)" title="Повести и рассказы (Варианты) (Тургенев)">Повести и рассказы (Варианты) (Тургенев)</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B_(%D0%96%D0%B8%D1%82%D0%BA%D0%BE%D0%B2)" title="Повести и рассказы (Житков)">Повести и рассказы (Житков)</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%D0%B8%D0%B7_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%BF%D1%80%D0%B5%D0%B4%D0%B0%D0%BD%D0%B8%D0%B9_(%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D0%BE%D0%B2)/%D0%94%D0%9E" title="Повести из русских народных преданий (Макаров)/ДО">Повести из русских народных преданий (Макаров)/ДО</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D0%BD%D0%BE%D0%B3%D0%BE_%D0%98%D0%B2%D0%B0%D0%BD%D0%B0_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D0%B5%D0%BB%D0%BA%D0%B8%D0%BD%D0%B0_(%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD)" title="Повести покойного Ивана Петрович Белкина (Пушкин)">Повести покойного Ивана Петрович Белкина (Пушкин)</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)" title="Подписи к рисункам (Чехов)">Подписи к рисункам (Чехов)</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%80%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BA%D0%B8_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Подросточки (Андреевская)/ДО">Подросточки (Андреевская)/ДО</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%BD%D0%B5%D0%B6%D0%BD%D0%B8%D0%BA_(%D0%A8%D0%B5%D0%BB%D0%B3%D1%83%D0%BD%D0%BE%D0%B2%D0%B0)/%D0%94%D0%9E" title="Подснежник (Шелгунова)/ДО">Подснежник (Шелгунова)/ДО</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B7%D0%BE%D0%BB%D0%BE%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B8%D0%BB%D1%8E%D0%BB%D0%B8_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2" title="Позолоченные пилюли (Аверченко)/Версия 2">Позолоченные пилюли (Аверченко)/Версия 2</a></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)" title="Посещение Праги (Лабуле)">Посещение Праги (Лабуле)</a></li></ul></div></div></div>(Предыдущая страница) (<a href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2&amp;pagefrom=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5+%D1%82%D1%80%D1%83%D0%B4%D0%B0+%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E#mw-pages" title="Категория:Сборники рассказов">Следующая страница</a>)
+</div></div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=mobile&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Категория:Сборники_рассказов&amp;oldid=4691272">https://ru.wikisource.org/w/index.php?title=Категория:Сборники_рассказов&amp;oldid=4691272</a></div></div>
+				
+			</div>
+			<div class="post-content" id="page-secondary-actions">
+			</div>
+		</main>
+		<footer class="mw-footer minerva-footer" role="contentinfo">
+		  <a class="last-modified-bar" href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2&amp;action=history">
+  	<div class="post-content last-modified-bar__content">
+  		 <span class="minerva-icon minerva-icon-size-medium minerva-icon--modified-history"></span>
+ 
+  		<span class="last-modified-bar__text modified-enhancement"
+  				data-user-name="Butko"
+  				data-user-gender="male"
+  				data-timestamp="1669229169">
+  				<span>Последний раз редактировалась 23 ноября 2022 в 18:46</span>
+  		</span>
+  		 <span class="minerva-icon minerva-icon-size-small minerva-icon--expand"></span>
+ 
+  	</div>
+  </a>
+	<div class="post-content footer-content">
+			
+			<div id="p-lang">
+	    <h4>Языки</h4>
+	    <section>
+	        <ul id="p-variants" class="minerva-languages"></ul>
+	        <ul class="minerva-languages"><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikisource.org/wiki/%D0%9A%D0%B0%D1%82%D1%8D%D0%B3%D0%BE%D1%80%D1%8B%D1%8F:%D0%97%D0%B1%D0%BE%D1%80%D0%BD%D1%96%D0%BA%D1%96_%D0%B0%D0%BF%D0%B0%D0%B2%D1%8F%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F%D1%9E" title="Катэгорыя:Зборнікі апавяданняў — белорусский" lang="be" hreflang="be" data-title="Катэгорыя:Зборнікі апавяданняў" data-language-autonym="Беларуская" data-language-local-name="белорусский" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikisource.org/wiki/Kategori:Novellesamlinger" title="Kategori:Novellesamlinger — датский" lang="da" hreflang="da" data-title="Kategori:Novellesamlinger" data-language-autonym="Dansk" data-language-local-name="датский" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikisource.org/wiki/Category:Collections_of_short_stories" title="Category:Collections of short stories — английский" lang="en" hreflang="en" data-title="Category:Collections of short stories" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikisource.org/wiki/%D8%B1%D8%AF%D9%87:%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%DA%A9%D9%88%D8%AA%D8%A7%D9%87" title="رده:مجموعه‌های داستان کوتاه — персидский" lang="fa" hreflang="fa" data-title="رده:مجموعه‌های داستان کوتاه" data-language-autonym="فارسی" data-language-local-name="персидский" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikisource.org/wiki/Luokka:Novellikokoelmat" title="Luokka:Novellikokoelmat — финский" lang="fi" hreflang="fi" data-title="Luokka:Novellikokoelmat" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikisource.org/wiki/Cat%C3%A9gorie:Recueils_de_nouvelles" title="Catégorie:Recueils de nouvelles — французский" lang="fr" hreflang="fr" data-title="Catégorie:Recueils de nouvelles" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikisource.org/wiki/%EB%B6%84%EB%A5%98:%EB%8B%A8%ED%8E%B8%EC%86%8C%EC%84%A4%EC%A7%91" title="분류:단편소설집 — корейский" lang="ko" hreflang="ko" data-title="분류:단편소설집" data-language-autonym="한국어" data-language-local-name="корейский" class="interlanguage-link-target"><span>한국어</span></a></li></ul>
+	    </section>
+	</div>
+	<div class="minerva-footer-logo">
+				<img src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" alt="Викитека" width="146" height="25"
+	style="width: 9.125em; height: 1.5625em;"/>
+
+
+				<ul id="footer-icons" class="footer-icons">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+			</div>
+			<ul id="footer-info" class="footer-info hlist hlist-separated">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 23 ноября 2022 года в 18:46.</li>
+	<li id="footer-info-copyright">Если не указано иное, содержание доступно по лицензии <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">CC BY-SA 4.0</a>.</li>
+</ul>
+
+			<ul id="footer-places" class="footer-places hlist hlist-separated">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-terms-use"><a href="https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a></li>
+	<li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//ru.wikisource.org/w/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2&amp;mobileaction=toggle_view_desktop" data-event-name="switch_to_desktop">Настольная версия</a></li>
+</ul>
+
+			</div>
+		</footer>
+			</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+        <ul>
+                
+        </ul>
+</div>
+<div class="mw-notification-area" data-mw-interface></div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-f79556446-45qlz","wgBackendResponseTime":163,"wgPageParseReport":{"limitreport":{"cputime":"0.001","walltime":"0.003","ppvisitednodes":{"value":1,"limit":1000000},"revisionsize":{"value":106,"limit":2097152},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw-web.eqiad.main-7845fc4659-bfd9x","timestamp":"20260130141450","ttl":2592000,"transientcontent":false}}});});</script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-mw-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+</body>
+</html>

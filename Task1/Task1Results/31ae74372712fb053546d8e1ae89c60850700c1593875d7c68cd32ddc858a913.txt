@@ -1,0 +1,1376 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Легенды о графе Брюсе (Баранов) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"21045623-2492-4f97-956e-a10955229cbe","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Легенды_о_графе_Брюсе_(Баранов)","wgTitle":"Легенды о графе Брюсе (Баранов)","wgCurRevisionId":5583337,"wgRevisionId":5583337,"wgArticleId":1044900,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup","Импорт/lib.ru/Страницы с внешними ссылками","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100","Импорт/lib.ru","Импорт/az.lib.ru/Евгений Захарович Баранов","Публицистика 1925 года","Проза","Сборники рассказов","Евгений Захарович Баранов"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Легенды_о_графе_Брюсе_(Баранов)","wgRelevantArticleId":1044900,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5583337,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Легенды о графе Брюсе (Баранов) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Легенды_о_графе_Брюсе_Баранов rootpage-Легенды_о_графе_Брюсе_Баранов skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B+%D0%BE+%D0%B3%D1%80%D0%B0%D1%84%D0%B5+%D0%91%D1%80%D1%8E%D1%81%D0%B5+%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B+%D0%BE+%D0%B3%D1%80%D0%B0%D1%84%D0%B5+%D0%91%D1%80%D1%8E%D1%81%D0%B5+%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B+%D0%BE+%D0%B3%D1%80%D0%B0%D1%84%D0%B5+%D0%91%D1%80%D1%8E%D1%81%D0%B5+%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B+%D0%BE+%D0%B3%D1%80%D0%B0%D1%84%D0%B5+%D0%91%D1%80%D1%8E%D1%81%D0%B5+%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Легенды_о_графе_Брюсе"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Легенды_о_графе_Брюсе">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Легенды о графе Брюсе</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Легенды_о_графе_Брюсе-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Московские_легенды,_записанные_Евгением_Барановым"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Московские_легенды,_записанные_Евгением_Барановым">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span><i>Московские легенды, записанные Евгением Барановым</i></span>
+			</div>
+		</a>
+		
+		<ul id="toc-Московские_легенды,_записанные_Евгением_Барановым-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Легенды_о_графе_Брюсе_2"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Легенды_о_графе_Брюсе_2">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Легенды о графе Брюсе</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Легенды_о_графе_Брюсе_2-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Брюс_и_вечные_часы"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Брюс_и_вечные_часы">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Брюс и вечные часы</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Брюс_и_вечные_часы-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Как_Брюс_из_старого_человека_молодого_сделал"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Как_Брюс_из_старого_человека_молодого_сделал">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Как Брюс из старого человека молодого сделал</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Как_Брюс_из_старого_человека_молодого_сделал-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Брюсовы_чудеса"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Брюсовы_чудеса">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Брюсовы чудеса</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Брюсовы_чудеса-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Смерть_Брюса"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Смерть_Брюса">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>Смерть Брюса</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Смерть_Брюса-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Брюс_и_Петр_Великий"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Брюс_и_Петр_Великий">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>Брюс и Петр Великий</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Брюс_и_Петр_Великий-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Как_Брюс_с_царем_поссорился"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Как_Брюс_с_царем_поссорился">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>Как Брюс с царем поссорился</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Как_Брюс_с_царем_поссорился-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Брюс_и_волшебная_наука"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Брюс_и_волшебная_наука">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>Брюс и волшебная наука</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Брюс_и_волшебная_наука-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Легенды о графе Брюсе (Баранов)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B+%D0%BE+%D0%B3%D1%80%D0%B0%D1%84%D0%B5+%D0%91%D1%80%D1%8E%D1%81%D0%B5+%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;oldid=5583337" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29&amp;id=5583337&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259B%25D0%25B5%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25B4%25D1%258B_%25D0%25BE_%25D0%25B3%25D1%2580%25D0%25B0%25D1%2584%25D0%25B5_%25D0%2591%25D1%2580%25D1%258E%25D1%2581%25D0%25B5_%28%25D0%2591%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BD%25D0%25BE%25D0%25B2%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259B%25D0%25B5%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25B4%25D1%258B_%25D0%25BE_%25D0%25B3%25D1%2580%25D0%25B0%25D1%2584%25D0%25B5_%25D0%2591%25D1%2580%25D1%258E%25D1%2581%25D0%25B5_%28%25D0%2591%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BD%25D0%25BE%25D0%25B2%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Легенды о графе Брюсе</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Автор:Евгений Захарович Баранов">Евгений Захарович Баранов</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1925</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/b/baranow_e_z/text_1925_legendy_o_grafe_bruse.shtml">az.lib.ru</a></span>  • Брюс и&#160;вечные часы.
+<br />Как&#160;Брюс из&#160;старого человека молодого сделал.<br />Брюсовы чудеса.<br />Смерть Брюса.<br />Брюс и&#160;Петр Великий.<br />Как&#160;Брюс с&#160;царем поссорился.<br />Брюс и&#160;волшебная наука.</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Автор:Евгений Захарович Баранов">Евгений Захарович Баранов</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="Легенды_о_графе_Брюсе"><span id=".D0.9B.D0.B5.D0.B3.D0.B5.D0.BD.D0.B4.D1.8B_.D0.BE_.D0.B3.D1.80.D0.B0.D1.84.D0.B5_.D0.91.D1.80.D1.8E.D1.81.D0.B5"></span>Легенды о&#160;графе Брюсе</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=1" title="Редактировать раздел «Легенды о графе Брюсе»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="Московские_легенды,_записанные_Евгением_Барановым"><span id=".D0.9C.D0.BE.D1.81.D0.BA.D0.BE.D0.B2.D1.81.D0.BA.D0.B8.D0.B5_.D0.BB.D0.B5.D0.B3.D0.B5.D0.BD.D0.B4.D1.8B.2C_.D0.B7.D0.B0.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.BD.D1.8B.D0.B5_.D0.95.D0.B2.D0.B3.D0.B5.D0.BD.D0.B8.D0.B5.D0.BC_.D0.91.D0.B0.D1.80.D0.B0.D0.BD.D0.BE.D0.B2.D1.8B.D0.BC"></span><i>Московские легенды, записанные Евгением Барановым</i></h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=2" title="Редактировать раздел «Московские легенды, записанные Евгением Барановым»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>Источник текста: Московские легенды, записанные Евгением Барановым. Составление, вступительная статья и&#160;примечания Веры Боковой. М., «Литература и&#160;политика», 1993.</i>
+</p><p><i>Публикация Веры Боковой.</i>
+</p><p><i>Оригинал здесь: <a rel="nofollow" class="external free" href="http://imwerden.de/">http://imwerden.de/</a></i>
+</p><p><i>Содержание</i>:
+</p><p>Брюс и&#160;вечные часы
+</p><p>Как&#160;Брюс из&#160;старого человека молодого сделал
+</p><p>Брюсовы чудеса
+</p><p>Смерть Брюса
+</p><p>Брюс и&#160;Петр Великий
+</p><p>Как&#160;Брюс с&#160;царем поссорился
+</p><p>Брюс и&#160;волшебная наука
+</p>
+<hr />
+<div class="mw-heading mw-heading3"><h3 id="Легенды_о_графе_Брюсе_2"><span id=".D0.9B.D0.B5.D0.B3.D0.B5.D0.BD.D0.B4.D1.8B_.D0.BE_.D0.B3.D1.80.D0.B0.D1.84.D0.B5_.D0.91.D1.80.D1.8E.D1.81.D0.B5_2"></span>Легенды о&#160;графе Брюсе</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=3" title="Редактировать раздел «Легенды о графе Брюсе»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="Брюс_и_вечные_часы"><span id=".D0.91.D1.80.D1.8E.D1.81_.D0.B8_.D0.B2.D0.B5.D1.87.D0.BD.D1.8B.D0.B5_.D1.87.D0.B0.D1.81.D1.8B"></span>Брюс и&#160;вечные часы</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=4" title="Редактировать раздел «Брюс и вечные часы»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Про&#160;этого Брюса мало&#160;ли&#160;рассказывают! Всего и&#160;не упомнить. Я&#160;еще когда мальчишкой был, слышал про&#160;него, да&#160;и теперь, случается, говорят. А&#160;был он&#160;ученый — волшебством занимался и&#160;все знал: и&#160;насчет месяца, солнца, и&#160;по звездам умел судьбу человека предсказать. Наставит на&#160;небо подзорную трубу, посмотрит, потом развернет свои книги и&#160;скажет, что&#160;с тобой будет. И&#160;как&#160;скажет, так и&#160;выйдет точка в&#160;точку. А&#160;вот про&#160;себя ничего не&#160;мог узнать. И&#160;сколько ни&#160;смотрел на&#160;звезды, сколько ни&#160;читал свои книги — ничего не&#160;выходит.
+</p><p>— Вижу, говорит, один туман.
+</p><p>Ну, все-таки хотел добиться. Мучился-мучился, да&#160;уж потом откровение во&#160;сне ему было. Сам рассказывал.
+</p><p>— Приходит, говорит, неизвестный старец и&#160;пальцем погрозил:
+</p><p>— Ты, говорит, сверх меры хочешь захватить. А&#160;ты, говорит, будь тем доволен,
+</p><p>что&#160;тебе дано. А&#160;ежели, говорит, будешь пытать сверх указанного, все отымется и&#160;будешь ты наподобие пня или&#160;чурбана…
+</p><p>Ну, он&#160;после этого и&#160;остыл…
+</p><p>Ладно, говорит, что&#160;будет, то&#160;будет…
+</p><p>А&#160;про&#160;других хорошо узнавал. Вот и&#160;насчет погоды… Ведь это он&#160;календарь составил, все распределил по&#160;дням, по&#160;месяцам, по&#160;годам… Вот потому-то&#160;и называется «Брюсов календарь». А&#160;в&#160;отношении погоды брал он&#160;от птиц, животных… и&#160;от природы брал — от&#160;зари, облаков. Взять хоть воробья. Ну, какая из&#160;него птица? Ни&#160;пения, ни&#160;красоты… щелкни его по&#160;башке, он&#160;и подохнет… А&#160;ведь как&#160;погоду предсказывает! Ежели назавтра вёдро, так он&#160;тут и&#160;давай прыгать «жив-жив» и&#160;весь такой пушистый станет. А&#160;ежели к&#160;дождю, то&#160;молчит, насупится. Тоже и&#160;ворона… Ну, эта как&#160;закаркала, то&#160;обязательно дождь или&#160;снег пойдет. От&#160;этого чорта не&#160;жди ясного дня…
+</p><p>Вот Брюс и&#160;примечал все. Да&#160;тут много из&#160;своей головы брал. Но&#160;только не&#160;в календаре дело, а&#160;тут все больше по&#160;волшебству он&#160;работал, тоже вот и&#160;машины выдумывал. И, жил он&#160;при Петре Первом, Петре Великом. В&#160;Сухаревой башне [2] ему помещение было отведено, там и&#160;составлял разные порошки, составы. Книги у&#160;него редкостные были, вот из&#160;них-то&#160;он и&#160;брал. Конечно, без&#160;ума не&#160;возьмешь, а&#160;у него ум обширный был.
+</p><p>Ну, всего не&#160;упомнишь, что&#160;он повыдумал. А&#160;вот насчет вечных часов я&#160;знаю хорошо, это помню, как&#160;все дело произошло. И&#160;трудился он&#160;долго, может, лет десять, а&#160;все-таки выдумал. И&#160;такие часы выдумал, что&#160;раз завел их — на&#160;вечные времена пошли без&#160;остановки. И&#160;как&#160;завел он&#160;их — ключ в&#160;Москву-реку забросил. И&#160;как&#160;был жив Петр Первый и&#160;Брюс был жив, то&#160;часы шли в&#160;полной исправности. Из-за&#160;границы приезжали, осматривали. Хотели купить, только Петр не&#160;согласился.
+</p><p>— Я, говорит, не&#160;дурак, чтобы брюсовские часы продавать. Ну, те и&#160;утерлись, — отъехали ни&#160;с чем.
+</p><p>Ну, значит, при&#160;Петре и&#160;при Брюсе ходили часы. А&#160;стала царицей Екатерина, тут и&#160;пришел им конец. Конечно, затея глупая, женская.
+</p><p>— Мне, говорит, желательно, чтобы ровно в&#160;двенадцать часов дня из&#160;нутра часов солдат с&#160;ружьем выбегал и&#160;кричал:
+</p><p>— Здравия желаем, Ваше Величество!
+</p><p>Это вроде как&#160;раньше были часы с&#160;кукушкой: «дон… ку-ку… дон…ку-ку…». А&#160;то&#160;еще с&#160;перепелом: «Пить пойдем… пить пойдем…» Так это что&#160;же? Это штука не&#160;мудреная, это кто знает — может устроить, тут такой механизм. А&#160;вечные часы для&#160;этого не&#160;годятся, они&#160;не для&#160;того сделаны, чтобы на&#160;птичьи голоса выкрикивать или&#160;чтобы солдаты с&#160;ружьем выбегали… Они&#160;для&#160;вечности сделаны, чтобы шли и&#160;чтобы веку им не&#160;было. А&#160;Екатерина в&#160;этом деле ничего не&#160;смыслила. Она так полагала: постучат молотком и&#160;готово дело. Ну, а&#160;вразумить-то&#160;ее некому было. Министры эти — «слушаем, говорят, все исполнено будет». Тоже — ветер в&#160;голове погуливал. Ну как&#160;можно так говорить, ежели не&#160;знать механизма? Они&#160;думали: стоит только сказать, и&#160;все готово будет. И&#160;приказали привести самого лучшего мастера. Вот разыскали немца. Пришел и&#160;только глянул на&#160;часы, а&#160;уж говорит:
+</p><p>— Можно. Но&#160;только, говорит, я&#160;меньше пяти тысяч не&#160;возьму, и&#160;чтобы мне квартира при&#160;дворце и&#160;чтобы харчи первоклассные.
+</p><p>А&#160;министры говорят:
+</p><p>— Все будет, делай.
+</p><p>Вот и&#160;начал немец делать. Осмотрел часы.
+</p><p>— Дурацкая, говорит, работа. Это, говорит, дурак делал.
+</p><p>Ну ладно, пусть будет дурак. Посмотрим, как&#160;ты, умная голова, станешь делать…
+</p><p>Вот он&#160;разобрал часы и&#160;начал мудрить. Дня три проработал — ничего не&#160;выходит. Приходят министры.
+</p><p>— Сделал, спрашивают, солдата?
+</p><p>А&#160;немец сердится:
+</p><p>— Я, говорит, не&#160;волшебник, чтобы в&#160;такой короткий срок солдата сделать.
+</p><p>Ну, министры говорят:
+</p><p>— Ладно, делай, не&#160;станем мешать, — и&#160;пошли…
+</p><p>А&#160;немцу не&#160;везет: никак не&#160;может потрафить в&#160;точку. Не спорится дело… Начал по-своему механизм переделывать. А&#160;толку нет. Кушанье каждый день хорошее: курятина, поросятина, индюшатина, разные там супы да&#160;макароны. Ну, и&#160;вина вдоволь. Вот прошел месяц, идет сама Екатерина.
+</p><p>— Ну что, сделал? — спрашивает.
+</p><p>Тут немец и&#160;признался:
+</p><p>— Никак, говорит, не&#160;могу поставить на&#160;точку зрения. Вот Екатерина видит, что&#160;зря была ее затея и&#160;говорит:
+</p><p>— Не надо делать солдата, собери часы, как&#160;они были.
+</p><p>— Это можно, — говорит немец.
+</p><p>А&#160;какое там «можно»! Три недели собирал и&#160;ничего не&#160;вышло. А&#160;потому и&#160;не вышло, что&#160;он брюсовские пружины изломал, винты изломал, колеса искалечил, маятник тоже испортил. А&#160;которые сам сделал пружины — они&#160;не годятся, ломаются. Видят министры: не&#160;выходит у&#160;немца дело. Докладывают царице.
+</p><p>— В&#160;шею, говорит, немца, а&#160;найдите такого, который мог&#160;бы&#160;собрать часы.
+</p><p>Вот взяли немца за&#160;рукав, вывели за&#160;ворота, да&#160;и дали по&#160;шее. Он&#160;и&#160;полетел торчмя головой. После того многие мастера приходили. Посмотрят, понюхают и&#160;отворотят морду, не&#160;по зубам кушанье. Но&#160;все&#160;же отыскался один такой русский разудалый молодец — у&#160;хозяина в&#160;подмастерьях служил. И&#160;взял он&#160;на себя такую отвагу, чтобы часы в&#160;полный порядок привести.
+</p><p>— Все, говорит, в&#160;лучшем виде исполню, только чтобы мне награда царская была и&#160;чтобы харчи хорошие.
+</p><p>Министры и&#160;рады:
+</p><p>— Все будет, и&#160;награду деньгами дадим, и&#160;золотую медаль, только собери часы. А
+</p><p>насчет харча, говорят, не&#160;беспокойся.
+</p><p>Вот и&#160;принялся тот мастер работать. И&#160;стучит, и&#160;гремит, и&#160;пилит, и&#160;молоточном пристукивает, и&#160;припаивает, и&#160;меха у&#160;него горят — жар раздувают… И&#160;на&#160;весь дворец напустил дыму, копоти этой. Вот приходят министры. Видят — суетится человек, работа так и&#160;кипит у&#160;него.
+</p><p>— Вот, говорят меж собой, мастер так мастер, не&#160;сравнять с&#160;немцем.
+</p><p>— Ну как? — спрашивают. — Подвигается? А&#160;тот и&#160;говорит:
+</p><p>— У&#160;нас подвинется. Мы, говорит, знаем дело. Тут, говорит, разве такая пружина нужна? А&#160;колесо? Нетто это колесо? Это лабуда, а&#160;не колесо. А&#160;министры одобряют его:
+</p><p>— Это, говорят меж собой, настоящий спец.
+</p><p>Тут сейчас один министр побежал, припер ему бутылку вина.
+</p><p>— Пей, говорит, на&#160;доброе здоровье!
+</p><p>Ну, тому это и&#160;на руку — высосал всю бутылку. В&#160;башке зашумело, он&#160;и давай свою специальность оказывать: чего немец не&#160;успел изломать, так он&#160;докончил. А&#160;министры бегут к&#160;царице:
+</p><p>— Так и&#160;так, докладывают, очень хорошего мастера мы&#160;отыскали: работа так и&#160;кипит. Часы скоро готовы будут.
+</p><p>Царица и&#160;рада.
+</p><p>— Ну, и&#160;слава Богу, — говорит.
+</p><p>А&#160;этот «хороший мастер» стучал, стучал молотком, видит: дело не&#160;подвигается вперед, и&#160;не знает, что&#160;тут делать, как&#160;тут быть, как&#160;тут горю подсобить. По&#160;его расчетам дело пустяковое, а&#160;примется собирать часы — ничего не&#160;выходит. И&#160;сам он&#160;за этой работой обалдел и&#160;стоит истукан-истуканом, на&#160;эти винты, гайки да&#160;колеса смотрит, бельмы свои вытаращил…
+</p><p>Оно и&#160;понятно. Брюс над&#160;этими часами 10&#160;лет мозговал, а&#160;этот чертогон за&#160;месяц захотел в&#160;порядок привести их. А&#160;главное — не&#160;тот состав у&#160;него в&#160;голове был.. У&#160;Брюса-то&#160;ум какой был? Один на&#160;всю Россию… Ну, может Петр Первый превышал его. Да&#160;и&#160;как сказать? В&#160;одном-то&#160;деле и&#160;превышал, а&#160;в другом не&#160;доходил… Ну, а&#160;у этого похвальбишки какой-такой ум? Глупость одна. А&#160;раз в&#160;башке нет, из… спины не&#160;достанешь: спина есть спина — такой и&#160;почет ей. Вот в&#160;чем тут дело.
+</p><p>А&#160;министрам не&#160;терпится, хочется, чтобы он&#160;поскорее собрал часы. Идут к&#160;нему. А&#160;тот уже вделся_, инструменты сложил в&#160;сумку — собрался уходить.
+</p><p>— Ну, как? — спрашивают министры.
+</p><p>— Хитра механика! — говорит хваленый мастер. — Тут, говорит, и&#160;сам чорт ни&#160;чего не&#160;поделает, а&#160;уж где мне: мое дело маленькое.
+</p><p>Тут министры и&#160;приступили к&#160;нему:
+</p><p>— А&#160;как&#160;же, говорят, подлая твоя душа, ты хвалился, что&#160;сделаешь?
+</p><p>— А&#160;он&#160;отвечает: — Что&#160;ж из&#160;того, что&#160;хвалился? Спервоначала, говорит, я&#160;думал, что&#160;штука тут не&#160;важная, а&#160;на поверку вышло — не&#160;нашего ума это дело.
+</p><p>Тут один министр развернулся — бац его в&#160;ухо! Тот и&#160;завертелся кубарем. А&#160;другой министр вцепился ему в&#160;волосья и&#160;давай таскать. И&#160;принялись они&#160;тут вдвоем разделывать своего «спеца»: один за&#160;патлы теребит, другой то&#160;в ухо засмолит, то&#160;по зубам стебанет… И&#160;невмочь стало мастеру, и&#160;тут заорал он&#160;на все горло:
+</p><p>— Караул! Убивают!
+</p><p>И&#160;вышел переполох на&#160;весь дворец. Бежит царица, бегут генералы:
+</p><p>— Что&#160;это такое? — спрашивает царица. — За&#160;что&#160;бьете мастера?
+</p><p>А&#160;министры говорят:
+</p><p>— Его, подлеца, убить мало! Нешто, говорят, это мастер? Это мазурик, он&#160;и нас, и&#160;вас обманул, с&#160;первого раза обнадежил, соберу, мол, часы, а&#160;теперь пошел на&#160;попятную, «не&#160;моего, говорит, ума дело».
+</p><p>— Ну хорошо, — говорит царица. — Я&#160;это дело разберу, — и&#160;приказала взять мастера под&#160;арест.
+</p><p>И&#160;посадили этого поганца за&#160;решетку. Потом такое определение сделала Екатерина: министров со службы вон, а&#160;мастеру дать сто розог. Ну, разложили его степенство и&#160;нарисовали ему на&#160;спине разгонами_ и&#160;маятники, и&#160;пружины, и&#160;колеса, потом с&#160;зашейным маршем проводили из&#160;дворца. Так он, словно окаянный, бросился бежать, как&#160;будто собака бешеная гналась за&#160;ним. И&#160;после такой прокламации баста хвалиться, только одно и&#160;знал: «наше дело маленькое». Вот как&#160;градусник понизился! А&#160;то «я» да «мы». А&#160;что&#160;такое «я»? Прохвост, и&#160;больше ничего. Только людям голову морочить можешь. Много таких «спецов» — свиньям хвосты закручивать! А&#160;ежели ты не&#160;брешешь языком, а&#160;с умом дело свое делаешь, то&#160;ты и&#160;есть настоящий спец. И&#160;цена тебе настоящая. Тоже вот и&#160;с брюсовскими часами: ну как&#160;можно было их разбирать да&#160;исправлять, ежели ты ихнее устройство не&#160;знаешь? После-то&#160;Екатерина каялась, сколько потом выписывала она этих мастеров! Только результату не&#160;вышло настоящего. Да&#160;и&#160;как ему выйти-то? Ведь каждый по-своему крутил, завинчивал, да&#160;молотком пристукивал. Ну и&#160;докрутились, достучались — все изломали, исковеркали и&#160;уж понять нельзя было — часы&#160;ли&#160;это были или&#160;еще какая машина. И&#160;лежали, лежали эти пружины да&#160;колеса, да&#160;и выбросили их, чтобы глаза не&#160;мозолили. После-то&#160;ученые кинулись их искать, да&#160;где найдешь, ежели от&#160;них и&#160;звания не&#160;осталось? Человек столько ума положил, а&#160;тут такое хамское обращение. Вот и&#160;толкуют: «Брюс», «Брюс»…
+</p><p>Ну, Брюс-то, Брюс, а&#160;вот мы-то&#160;и не&#160;можем ценить его… Ну, что&#160;осталось после него? Все изломали, все испакостили. Вот только Сухаревская башня осталась, да, говорят, еще книги. Только говорят, а&#160;доподлинно-то&#160;никто не&#160;знает…
+</p><p><i>Записано в&#160;Москве в&#160;августе 1924&#160;г.; рассказывал рабочий-штукатур Егор Степанович Пахомов.</i>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Как_Брюс_из_старого_человека_молодого_сделал"><span id=".D0.9A.D0.B0.D0.BA_.D0.91.D1.80.D1.8E.D1.81_.D0.B8.D0.B7_.D1.81.D1.82.D0.B0.D1.80.D0.BE.D0.B3.D0.BE_.D1.87.D0.B5.D0.BB.D0.BE.D0.B2.D0.B5.D0.BA.D0.B0_.D0.BC.D0.BE.D0.BB.D0.BE.D0.B4.D0.BE.D0.B3.D0.BE_.D1.81.D0.B4.D0.B5.D0.BB.D0.B0.D0.BB"></span>Как&#160;Брюс из&#160;старого человека молодого сделал</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=5" title="Редактировать раздел «Как Брюс из старого человека молодого сделал»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В&#160;Сухаревой башне жил этот Брюс. Ну, тут только банки стояли с&#160;разными составами да&#160;подзорные трубы, а&#160;главная мастерская у&#160;него была в&#160;подземельи — там и&#160;работал по&#160;ночам. Мастер на&#160;все был. Вот раз взял, да&#160;и сделал горничную из&#160;цветов. Настоящая девушка была: комнату убирала, кофий подавала, только говорить не&#160;могла. Приходит царь Петр Великий.
+</p><p>— Хороша, говорит, у&#160;тебя служанка, только одно плохо — не&#160;говорит. Немая,
+</p><p>что&#160;ли? — спрашивает.
+</p><p>А&#160;Брюс говорит:
+</p><p>— Да&#160;ведь она не&#160;рожденная. Я, говорит, из&#160;цветов ее сделал.
+</p><p>А&#160;царь не&#160;верит:
+</p><p>— Полно, говорит, зря языком трепать, мыслимое&#160;ли&#160;это дело?
+</p><p>— Ну, говорит Брюс, смотри!
+</p><p>Вынул из&#160;головы служанки булавку, она вся рассыпалась цветами. Царь и&#160;смотрит, дескать, что&#160;это за&#160;чудо такое?
+</p><p>— Как, говорит, ты этого добился?
+</p><p>— Наукой, — говорит Брюс.
+</p><p>— Да&#160;ведь наука науке рознь, — говорит царь. — Может, волшебством? Ты, говорит, лучше признайся.
+</p><p>А&#160;Брюс ему отвечает:
+</p><p>— Мне, говорит, нечего признаваться. Вот мои книги, вот составы, смотри сам.
+</p><p>Посмотрел Петр книги. Видит — книги ученые. А&#160;Брюс не&#160;все книги показал ему: самые главные по&#160;волшебству были спрятаны в&#160;подземельи, тринадцать штук. Очень редкие и&#160;тогда были, а&#160;теперь и&#160;не найти. Но&#160;Петр все&#160;же не&#160;поверил ему. А&#160;без&#160;волшебства тут ничего не&#160;поделаешь. Только ведь это не&#160;такое волшебство, вроде колдовства. Это в&#160;деревне раньше были колдуны. Действительно, попадались знатоки… И&#160;так у&#160;них заведено было: от&#160;отца сыну передавалось, весь род — все колдуны были. Но&#160;до&#160;Брюса им далеко. Есть и&#160;теперь в&#160;деревне, только не&#160;колдуны, а&#160;выдают себя за&#160;колдунов, и&#160;не от&#160;науки действуют, а&#160;наобум святого Лазаря. Иной-то&#160;дуролом поймает лягушку и&#160;примется шилом ей голову колоть.
+</p><p>— Мне, говорит, надобно достать лягушиные мозги, чтобы сделать лягушиное масло.
+</p><p>А&#160;для&#160;чего, спроси. Он&#160;и&#160;не скажет — сам не&#160;знает. Он&#160;слышал звон, да&#160;не знает, откуда он. Тут не&#160;каждая лягушка годна, а&#160;нужна жаба, да&#160;и не&#160;мозги ее требуются, а&#160;сердце. Положат ее в&#160;муравейник, муравьи и&#160;объедят ее. Да&#160;ведь все с&#160;умом надо делать, а&#160;не на&#160;авось. Тоже вот и&#160;травы: надо знать, какая против какой болезни действует. А&#160;то&#160;дадут тебе такого настоя, что&#160;ты на&#160;стену полезешь или&#160;станешь на&#160;людей кидаться. На&#160;все надо наука, но&#160;только без&#160;ума и&#160;наука ни&#160;к чему.
+</p><p>Тоже вот и&#160;Брюс: науки науками, а&#160;ум-то&#160;у него все разрабатывал. И&#160;все доступно было ему. Квартира его была на&#160;Мясницкой — жена там жила. И&#160;посейчас дом этот цел, гимназия там раньше была. Так вот Брюс сделал вечные часы и&#160;замуровал в&#160;стену. И&#160;до&#160;настоящего времени ходят эти часы. Приложишься ухом к&#160;стене и&#160;слышишь, как&#160;стучат: тик-тук… тик-тук… А&#160;сверху вделал в&#160;стену такую фигуристую доску, а&#160;к чему — неизвестно. Ну, думает хозяин, к&#160;чему эта доска? Долой ее! Начали выламывать — не&#160;поддается. Позвали каменщика. Он&#160;стук киркой, а&#160;кирка отскочила, да&#160;его по&#160;башке тоже стук! Каменщик удивляется:
+</p><p>— Что&#160;за&#160;оказия? — говорит.
+</p><p>Да&#160;тут хозяин проговорился.
+</p><p>— Эту, говорит, доску еще Брюс вделал.
+</p><p>Тут каменщик и&#160;принялся ругать хозяина.
+</p><p>— Чего&#160;же, говорит, ты раньше не&#160;сказал мне об&#160;этом? Пусть, говорит, чорт выламывает эту доску, а&#160;не я! — и&#160;ушел.
+</p><p>Хозяин и&#160;приказал закрасить доску. Ну, выкрасили, а&#160;ее все еще видно. И&#160;вот тут что&#160;главное: как&#160;быть войне, доска становится красной. Перед&#160;японской войной замечали, перед&#160;германской… Закрашивали ее сколько раз, она все выступает. А&#160;где подъезд — медная доска прибита и&#160;на ней какие-то&#160;буквы вырезаны, и&#160;тоже неизвестно для&#160;чего. Приходили профессора, смотрели:
+</p><p>— Это, говорят, Брюсова работа, а&#160;что означает — ничего, говорят, не&#160;можем понять.
+</p><p>А&#160;ведь, гляди, недаром&#160;же прибита доска?..
+</p><p>Ну, это все не&#160;то. А&#160;вот как&#160;он из&#160;старого человека молодого сделал — это, действительно, чудо из&#160;чудес… Работал-работал, и&#160;добился-таки — выдумал эти составы. Сперва-наперво он&#160;над собакой сделал испытание: розыскал старую-престарую собаку, да&#160;худющую такую — кости да&#160;кожа. Притащил он&#160;этого пса в&#160;подземелье, изрубил на&#160;куски, потом перемыл в&#160;трех водах. После того посыпал куски порошком и&#160;снова они&#160;срослись как&#160;следует, по-настоящему. Вот он&#160;полил на&#160;ту собаку из&#160;пузырька каким-то&#160;составом, и&#160;сейчас из&#160;нее получился кобелек месяцев шести. Вскочил на&#160;ноги, хвостом замахал и&#160;давай вокруг Брюса бесноваться. Известно, малыш: ему&#160;бы&#160;только поиграться. Тут Брюс и&#160;обрадовался:
+</p><p>— Наше дело на&#160;мази! — говорит. — Теперь всех стариков сделаю молодыми, пусть живут.
+</p><p>А&#160;этот кобелек так и&#160;остался при&#160;нем; как&#160;вечер, сейчас взберется наверх и&#160;поднимет брех: тяв-тяв… тяв-тяв…
+</p><p>А&#160;народ, который мимо идет, поскорее бежать: думает, что&#160;это Брюс собакой обернулся и&#160;свою башню сторожит. Понятно, не&#160;знали, в&#160;чем тут дело.
+</p><p>Вот приходит к&#160;нему царь Петр и&#160;говорит:
+</p><p>— Где ты достал такого славного кобелька? А&#160;Брюс говорит:
+</p><p>— Это я&#160;его из&#160;старой собаки переделал.
+</p><p>— Как&#160;так? — спрашивает царь.
+</p><p>Брюс все рассказал ему, а&#160;царь не&#160;верит.
+</p><p>— Ну, хорошо, — говорит Брюс, — приведи ко&#160;мне самого старого старика; я&#160;из него сделаю молодого парня.
+</p><p>Вот царь сделал распоряжение.
+</p><p>Отыскали такого старючего деда, что&#160;он и&#160;лета свои позабыл считать и&#160;ходить не&#160;может, не&#160;слышит ничего. В&#160;носилках притащили его в&#160;башню, спустили в&#160;подземелье. Вот как&#160;царская прислуга ушла, Брюс изрубил в&#160;куски старика, перемыл в&#160;трех водах, посыпал порошком. Вот видит царь: ползут эти куски один к&#160;другому, срастаются. И&#160;видит, лежит целый дед… Тут Брюс полил из&#160;пузырька, и&#160;заместо этого деда поднимается молодой парень. Встал, стоит и&#160;смотрит. Тут Петр очень удивился и&#160;думает: «Наяву&#160;ли&#160;я или&#160;во сне?» Потом приказывает выгнать этого парня. Брюс и&#160;выпроводил его, ну, может, дал ему рублишко-другой… Потом натравил на&#160;него кобелька. Как&#160;принялся кобелек за&#160;икры хватать, так этот парень, точно полоумный, бросился бежать.
+</p><p>После этого Петр и&#160;говорит:
+</p><p>— А&#160;ты брось свою затею, чтобы из&#160;стариков делать молодых.
+</p><p>— А&#160;почему бросить? — спрашивает Брюс.
+</p><p>— По&#160;этому, по&#160;самому, — говорит Петр, — что&#160;из этого кроме греха ничего не&#160;выйдет. Ведь если переделать стариков на&#160;молодых, тогда и&#160;смерти не&#160;будет человеку.
+</p><p>И&#160;как, говорит, тогда жить? Ведь ежели теперь люди грызутся, то&#160;тогда, говорит, за&#160;каждый вершок земли станут резаться. А&#160;с&#160;человека довольно и&#160;той жизни, какая ему определена. Ты, — говорит, — уничтожь эти порошки и&#160;составы и&#160;больше не&#160;занимайся этаким делом.
+</p><p>Брюс послушался, уничтожил. Только он&#160;тут другую штуку придумал: сделал из&#160;стальных планок и&#160;пружин огромаднейшего орла. Сядет на&#160;него верхом, придавит пружинку, орел и&#160;полетит. И&#160;сколько раз летал над&#160;Москвой. Народ и&#160;высыпет, задерет голову и&#160;смотрит. Только полицмейстер ходил к&#160;царю жаловаться на&#160;Брюса.
+</p><p>— Первое, говорит, от&#160;народу нет ни&#160;прохода, ни&#160;проезда. А&#160;второе, говорит, приманка для&#160;воров: народ, говорит, кинется на&#160;Брюсова орла смотреть, а&#160;воры квартиры очищают…
+</p><p>Ну, царь дал распоряжение, чтобы Брюс по&#160;ночам летал. А&#160;говорят, не&#160;знаю, правда&#160;ли, что&#160;нынешние аэропланы по&#160;Брюсовым чертежам сделаны. Будто профессор один отыскал эти самые чертежи. И&#160;будто писали об&#160;этом в&#160;газетах…
+</p><p>Но&#160;только долетался Брюс на&#160;своем орле. Полетел раз и&#160;не вернулся: унес его орел, а&#160;куда — никто не&#160;знает. Царь жалел его:
+</p><p>— Такого, говорит, Брюса больше у&#160;меня не&#160;будет. И&#160;верно, не&#160;было ни&#160;одного такого ученого.
+</p><p><i>Рассказывал в&#160;Москве в&#160;марте 1923&#160;г. маляр Василий. Фамилия его мне неизвестна; рассказ происходил в&#160;чайной «Низок» на&#160;Арбатской площади, за&#160;общим столом.</i>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Брюсовы_чудеса"><span id=".D0.91.D1.80.D1.8E.D1.81.D0.BE.D0.B2.D1.8B_.D1.87.D1.83.D0.B4.D0.B5.D1.81.D0.B0"></span>Брюсовы чудеса</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=6" title="Редактировать раздел «Брюсовы чудеса»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Брюс астроном был. У&#160;него на&#160;Сухаревской башне подзорные трубы стояли — по&#160;ночам смотрел на&#160;звезды, изучал. Это он&#160;определил, когда затмению солнца быть, когда луне… Он&#160;и&#160;календарь составил. Только все&#160;же главное занятие его — волшебство. Книги у&#160;него были очень редкие, древние. Ищут их теперь, только зря: они&#160;уже давно в&#160;Германии. Еще как&#160;только он&#160;помер, кинулись искать деньги, а&#160;у него денег-то&#160;всего-навсего сотня рублей была. Они&#160;же думали — у&#160;него миллионы имеются. Ну, взяли эту сотню, а&#160;на книги внимания не&#160;обращают — разбросали по&#160;полу бумаги, планы, топчут… Ну, не&#160;все&#160;же были тут вислоухие, нашелся один умный человек — немец, забрал книги, рукописания и&#160;гойда в&#160;Германию. Вот теперь эти аэропланы, телефоны, телеграфы — все по&#160;бумагам Брюса сделаны, по&#160;его планам и&#160;чертежам. Он&#160;дорожку первый проделал, а&#160;там уж нетрудно было разработать. Да&#160;и&#160;то сколько лет возились — все не&#160;выходило: в&#160;голове не&#160;хватало. Что&#160;Брюс один сделал, то&#160;сотня самых ученых профессоров разрабатывала. Башка не&#160;та! Теперь эти профессора, эти разные механики, разные спецы, техники, инженеры нос кверху задирают: «Мы&#160;сделали». — Вы? А&#160;кто дорогу вам показал? Откуда вы взяли программу? Зачем вы над&#160;брюсовскими бумагами свои головы ломали? К&#160;чему это вам понадобились Брюсовы книги и&#160;вы, как&#160;угорелые, мечетесь по&#160;всей Москве, ищете их? «Мы, говорят, от&#160;природы берем». А&#160;Брюс откуда брал? Не из&#160;чорта&#160;же лохматого брал, а&#160;тоже из&#160;природы. Ведь ежели не&#160;будет природы, то&#160;и ничего не&#160;будет. «Природа»! Ты вот ее сумей взять!
+</p><p>Тогда еще царь Петр был… И&#160;раз спрашивает:
+</p><p>— А&#160;скажи, говорит, Брюс, как&#160;на твое мнение: природа одолеет человека или
+</p><p>человек природу?
+</p><p>А&#160;Брюс отвечает:
+</p><p>— Это глядя по&#160;человеку.
+</p><p>— Как&#160;так? — спрашивает Петр.
+</p><p>Тут Брюс выломал из&#160;улья сот меду и&#160;спрашивает:
+</p><p>— Знаешь, что&#160;это за&#160;штука?
+</p><p>— Мед, — говорит Петр.
+</p><p>— А&#160;как&#160;он делается, знаешь? — спрашивает Брюс.
+</p><p>— Да&#160;как? — говорит Петр. — Пчела летает по&#160;цветам, по&#160;травам, высасывает сладкий сок и&#160;несет в&#160;улей.
+</p><p>— Это ты правильно объясняешь, — говорит Брюс. — Ну а&#160;между прочим, и&#160;муха умеет высасывать сок, только отчего, говорит, ни&#160;сота не&#160;сделает, ни&#160;меда не&#160;принесет?
+</p><p>— Муха, — говорит Петр, — не&#160;работает, она жрет и&#160;пакостит.
+</p><p>— Ну, а&#160;муравьи? — спрашивает Брюс. — Ведь они&#160;только и&#160;знают, что&#160;работать, — этакие-то&#160;домины себе выбухивают. А&#160;какая от&#160;этого польза? А&#160;ведь тоже, говорит, мастера они&#160;вытягивать сладкий сок: брось им окурок — и&#160;нос завернут, а&#160;брось кусок сахару — то&#160;откуда только их, чертей, наберется — живо сожрут, только не&#160;сделают ни&#160;сахару, ни&#160;меду… Действительно, говорит, если их набить полну бутылку и&#160;поставить в&#160;вольный дух, то&#160;получится муравьиный спирт — от&#160;ревматизма хорошо помогает. Но&#160;только, говорит, и&#160;паук одобряет мух — вкусная пища для&#160;него.
+</p><p>Вот какую загадку загадал он&#160;Петру. Только Петр был башковитый.
+</p><p>— А&#160;это, говорит, вот отчего: ежели, говорит, пчела берет сок, то&#160;обрабатывает его: что&#160;нужно — тащит в&#160;сот, а&#160;что не&#160;нужно — бросает. А&#160;муравей и&#160;муха, хоть и&#160;высасывает сок, да&#160;не могут обработать его и&#160;жрут целиком.
+</p><p>— А&#160;почему не&#160;могут? — спрашивают Брюс.
+</p><p>— Потому не&#160;могут, — говорит Петр, — что&#160;им этого не&#160;дано.
+</p><p>Тогда Брюс и&#160;говорит:
+</p><p>— То&#160;же самое и&#160;с человеком. Дано ему — он&#160;одолеет природу, а&#160;не дано — не&#160;одолеет. Тут хоть сто лет трудись — толку не&#160;будет. Тут, говорит, важно, чтобы котелок твой варил, да&#160;и было&#160;бы&#160;чем варить.
+</p><p>Вот как&#160;он разъяснил «от&#160;природы берем». Она тому и&#160;дает, кто умеет варить.
+</p><p>Вот тот&#160;же Брюс сделал из&#160;цветов девушку: и&#160;ходила, и&#160;комнату убирала, только говорить не&#160;могла. Правда, долго работал, но&#160;все&#160;же сделал. Вот один граф увидел ее и&#160;полюбил — красавица была. Ну, знал, что&#160;она не&#160;может говорить, только так рассуждал, что&#160;и с&#160;немой можно жить. И&#160;пристал к&#160;Брюсу:
+</p><p>— Выдай замуж за&#160;меня свою девицу.
+</p><p>А&#160;Брюс отвечает:
+</p><p>— Да&#160;ведь она искусственная!
+</p><p>Граф не&#160;верит, пристал как&#160;банный лист к&#160;спине:
+</p><p>— Отдай, говорит, не&#160;то жизни лишусь и&#160;записку оставлю, что&#160;это ты меня до&#160;точки довел.
+</p><p>Ну, что&#160;с дураком делать? Взял Брюс из&#160;головы девушки шпинек — она вся и&#160;рассыпалась цветами. Тут граф испугался и&#160;кинулся бежать.
+</p><p>— Ну, говорит, к&#160;чорту его, этого Брюса! Он, говорит, еще возьмет, да&#160;превратит меня в&#160;медведя или&#160;волка! — И&#160;после того и&#160;близко к&#160;Брюсу не&#160;подходил.
+</p><p>А&#160;то&#160;еще и&#160;так бывало: среди лета, в&#160;самую жару, идет дождь и&#160;гром гремит… Вот Брюс выйдет на&#160;свою башню и&#160;давай разбрасывать направо, налево какой-то&#160;состав. И&#160;вот на&#160;тебе: валит снег! Молния сверкает, гром гремит, а&#160;снег сыплет и&#160;сыплет. Вся Москва в&#160;снегу! Форменная зима: снег на&#160;крышах, снег на&#160;земле, снег на&#160;деревьях… А&#160;гром гремит. Ну, известно, народ всполошится, испугается:
+</p><p>— Что&#160;это за&#160;чудо? — говорит.
+</p><p>Выбежит на&#160;улицу, видит — Брюс стоит на&#160;башне и&#160;хохочет. Ну, тут народ и&#160;поймет, что&#160;это его работа и&#160;примется ругать его, потому что&#160;для овощи вред от&#160;того снега. Только не&#160;долго снег лежал — час, не&#160;больше, ну, от&#160;силы два…
+</p><p>А&#160;вот дождь Брюс не&#160;мог остановить. Петр спрашивал его насчет этого.
+</p><p>— Нет, говорит, это невозможно. Я, говорит, все испробовал: что&#160;можно, то&#160;де
+</p><p>лаю, а&#160;чего нельзя, то&#160;и не&#160;пытаю.
+</p><p>Тоже вот — не&#160;понимал он&#160;птичьего языка. Ученый, волшебник и&#160;все такое, а&#160;вот не&#160;знал. Это только одному царю Соломону премудрому дано было. Тот знал. Но&#160;ведь Соломон — совсем другое дело: тот мудрец был, а&#160;волшебство ему ни&#160;к чему было. Соломон от&#160;природы такой был, а&#160;Брюс умом и&#160;наукой до&#160;всего доходил.
+</p><p>Вот не&#160;знаю, не&#160;могу объяснить, за&#160;что Брюс замуровал в&#160;стену свою жену. Квартировал он&#160;на Разгуляе. Дом этот и&#160;теперь еще цел, гимназия раньше в&#160;нем была. И&#160;вот говорят, будто в&#160;это доме в&#160;стене доска вделана. Сколько раз закрашивали, а&#160;ее все видно — не&#160;принимает краску. И&#160;будто в&#160;этом месте он&#160;замуровал свою жену, а&#160;за что, за&#160;какую вину — не&#160;знаю.
+</p><p><i>Записывал в&#160;Москве в&#160;августе 1924&#160;г.&#160;Рассказывал в&#160;чайной неизвестный мне старик-рабочий.</i>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Смерть_Брюса"><span id=".D0.A1.D0.BC.D0.B5.D1.80.D1.82.D1.8C_.D0.91.D1.80.D1.8E.D1.81.D0.B0"></span>Смерть Брюса</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=7" title="Редактировать раздел «Смерть Брюса»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Пропал Брюс через&#160;свою жену и&#160;ученика своего: они&#160;погубили его. Брюс был старый, а&#160;жена молодая, красивая. Ученик тоже старый был. Тут как&#160;раз в&#160;этому времени Брюс выдумал лекарство… ну такой состав, чтобы старого переделывать в&#160;молодого. А&#160;еще не&#160;пробовал, как&#160;он действует: удача будет или&#160;неудача? А&#160;на&#160;ком испытать? Думал, думал… Вот позвал ученика в&#160;подземелье. А&#160;у&#160;него в&#160;этом подземельи тайная мастерская была — никого в&#160;нее не&#160;пускал. И&#160;как&#160;позвал ученика, взял да&#160;и зарезал. Всего на&#160;куски изрубил, сложил в&#160;кадку, посыпал порошком. А&#160;сам рассказал, что&#160;будто рассчитал своего ученика, так как&#160;он ленивый. И&#160;целых девять месяцев в&#160;кадке лежали эти куски. Это как&#160;женщина носит ребенка девять месяцев, так и&#160;тут. Вот на&#160;десятый месяц взял он&#160;изрубленное тело, вывалил на&#160;стол, сложил кусок к&#160;куску, как&#160;было у&#160;живого. Как&#160;сложил — сейчас полил составом, куски все срослись. Он&#160;взял, из&#160;пузырька покапал. И&#160;поднялся ученик: был старый, стал молодой.
+</p><p>— Вот, говорит, как&#160;я спал долго!
+</p><p>А&#160;Брюс говорит:
+</p><p>— Ты спал девять месяцев. Ты, говорит, вновь народился.
+</p><p>— Как&#160;так? — спрашивает ученик. Брюс рассказал ему. А&#160;тот не&#160;верит.
+</p><p>— Это, говорит, белой кобылы сон.
+</p><p>Брюс и&#160;говорит:
+</p><p>— Когда не&#160;веришь — посмотри в&#160;зеркало.
+</p><p>Вот ученик посмотрел в&#160;зеркало, видит: совсем молодым стал.
+</p><p>— Это, говорит, такие чудеса, что&#160;и сказать нельзя. По&#160;наружности, говорит, я&#160;молодой, а&#160;по уму старый.
+</p><p>Вот Брюс и&#160;приказывает ему:
+</p><p>— Ты, говорит, смотри, никому не&#160;говори, что&#160;я сделал тебя молодым. И&#160;жене моей не&#160;говори. А&#160;рассказывай, что&#160;ты у&#160;меня новый ученик. Я&#160;буду то&#160;же говорить.
+</p><p>Потом стал он&#160;учить его, как&#160;переделывать старого на&#160;молодого.
+</p><p>— Это, говорит, для&#160;того учу тебя, что&#160;сам хочу переделаться на&#160;молодого. А&#160;когда, говорит, будут спрашивать, где Брюс, говори: уехал, мол, на&#160;девять месяцев, а&#160;куда — неизвестно. И&#160;жене моей не&#160;рассказывай про&#160;наше дело, а&#160;то она по&#160;всей Москве разнесет.
+</p><p>И&#160;взял с&#160;ученика клятву, что&#160;все исполнит как&#160;следует. И&#160;отдал он&#160;ученику эти порошки и&#160;составы. И&#160;после того ученик зарезал Брюса, на&#160;куски изрубил, в&#160;кадку положил, порошком засыпал. А&#160;сам молчок. Но&#160;только жена Брюсова, как&#160;увидела молодого ученика, сейчас полюбила его. Ну и&#160;он оказался тоже парень не&#160;промах. Одним словом, закрутили они&#160;вдвоем любовь. Ну, он&#160;тоже брех оказался: все выложил Брюсовой жене. А&#160;та говорит:
+</p><p>— Не надо переделывать Брюса на&#160;молодого. А&#160;будем, говорит, жить вместе: ты будешь заниматься волшебными делами, а&#160;я по&#160;хозяйству управлять стану.
+</p><p>Вот ученик и&#160;взял себе в&#160;голову:
+</p><p>— Это, говорит, верно. Я, говорит, довольно обучен и&#160;буду как&#160;Брюс.
+</p><p>Но&#160;только ему до&#160;Брюса было очень далеко: и&#160;сотой части брюсовских наук не&#160;знал.
+</p><p>Ну, время идет. Народ удивляется:
+</p><p>— Что&#160;это, мол, Брюса не&#160;видать, не&#160;слыхать? И&#160;царь Петр Великий спрашивает:
+</p><p>— Где это девался Брюс? Раньше, говорит, каждое утро с&#160;рапортом являлся, а&#160;теперь не&#160;приходит?
+</p><p>А&#160;это, значит, такой рапорт: что&#160;он за&#160;ночь выдумает, то&#160;утром докладывает царю. Вот пошли от&#160;царя узнать насчет Брюса. А&#160;ученик говорит:
+</p><p>— Уехал на&#160;девять месяцев, а&#160;куда — неизвестно.
+</p><p>Ну, те и&#160;доложили царю. И&#160;тут девять месяцев кончились. Вот ученик и&#160;Брюсова жена выложили изрубленное тело, сложили по&#160;порядку. Ученик взял, этим составом полил. Куски срослись. Вот он&#160;вынимает из&#160;кармана пузырек с&#160;каплями. А&#160;жена Брюсова вырвала у&#160;него пузырек, да&#160;хлоп! — обземь и&#160;разбила.
+</p><p>— Теперь, говорит, пускай Брюс Страшного суда ожидает — тогда воскреснет. Довольно, говорит, я&#160;помучилась за&#160;ним, бродягой, пососал он&#160;моей кровушки вволю.
+</p><p>А&#160;ведь брехала, потому что&#160;он не&#160;бил ее. А&#160;тут, видишь, такая вещь: она молодая, в&#160;ней кровь играет, а&#160;он старый. Она бесится, а&#160;он без&#160;всякого, может, внимания, потому что&#160;ему и&#160;без этого полон рот дела. Конечно, если правильно рассуждать, на&#160;что ему молодая жена? Но&#160;только она больше виновата: ведь видела, за&#160;кого ты выходила? Или&#160;тебе, чортовой лахудре, платком глаза завязывали, когда выдавали за&#160;Брюса? Но&#160;только у&#160;нас такого закона нет. А&#160;тут, видишь, простая штука: она думала, что&#160;через Брюса ей будет почет — дескать, народ станет говорить: «Вон идет волшебникова жена». А&#160;народу и&#160;дела до&#160;нее не&#160;было никакого. Действительно, самому Брюсу от&#160;всех почет и&#160;уважение, ну, многие и&#160;боялись. А&#160;Брюс с&#160;ней под&#160;ручку по&#160;бульвару не&#160;ходил на&#160;прогулку. Вот ее и&#160;брала досада, вот в&#160;чем тут дело. А&#160;больше всего, как&#160;она полюбила этого ученика, так и&#160;думала, что&#160;лучше его и&#160;на свете нет никого. Баба, и&#160;понятие у&#160;ней бабское.
+</p><p>И&#160;вот они&#160;вдвоем обрядили Брюса, в&#160;гроб положили и&#160;сговорились, как&#160;им брехать перед&#160;людьми. Вот она сейчас и&#160;подает известие:
+</p><p>— Головушка ты моя бедная!.. — завыла, заголосила…
+</p><p>Ну, народ стал спрашивать:
+</p><p>— Чего это Брюсиха завыла?
+</p><p>Ну, пришли люди, посмотрели — лежит Брюс в&#160;гробу… Ну, которые-то&#160;обрадовались: «А! — себе на&#160;думке. — Наконец-то&#160;черти забрали!» А&#160;все по&#160;глупости: думали, что&#160;он чорту душу продал. А&#160;тут только наука была. А&#160;которые понимали, те жалели и&#160;спрашивали:
+</p><p>— Когда помер? От&#160;каких причин?
+</p><p>Вот Брюсиха и&#160;принялась разводить свою брехню:
+</p><p>— Только, говорит, вчера приехал больной, а&#160;нынче помер.
+</p><p>Народ и&#160;верит. Смерть свое время знает. Доложили царю. Только он&#160;не очень-то&#160;поверил, пошел сам посмотреть. Вот приходит. А&#160;жена Брюсова еще пуще принялась выть, на&#160;разные голоса выделывала. Тут Петр Великий сразу догадался, что&#160;тут дело не&#160;спроста. И&#160;думает себе: «Баба через&#160;меру воет, значит, тут есть подлость и&#160;обман». И&#160;увидел он&#160;ученика, посмотрел на&#160;него. Знает, что&#160;он ученик, но&#160;только такой вид показал, будто не&#160;знает его.
+</p><p>— Ты, говорит, за&#160;каким здесь делом? Что&#160;тебе здесь требуется?
+</p><p>А&#160;тот испугался и&#160;говорит:
+</p><p>— Я&#160;Брюсов ученик.
+</p><p>— Как&#160;ученик? — спрашивает царь. — Ведь у&#160;него старый ученик. Ты, говорит, врешь! Ты самозванец.
+</p><p>А&#160;ученик говорит:
+</p><p>— Да&#160;ведь я&#160;тот самый и&#160;есть, но&#160;только Брюс переделал меня на&#160;молодого.
+</p><p>Спохватился было, да&#160;уж поздненько. Петр и&#160;говорит:
+</p><p>— Ну-ка, расскажи, как&#160;он тебя переделал.
+</p><p>Нечего делать — надо рассказывать. Тут он&#160;и принялся говорить, да&#160;во всем сознался.
+</p><p>— Я, говорит, не&#160;виноват, а&#160;меня подговорила вот эта мадама, — указывает на&#160;Брюсиху.
+</p><p>А&#160;она оправдывать себя начала.
+</p><p>— Нет, говорит, ты врешь, поганый прощелыга, от&#160;тебя, жулика, все огни загорелись!
+</p><p>А&#160;ученик на&#160;нее все сваливает. А&#160;царь слушает и&#160;вникает. Слушал, слушал и&#160;говорит:
+</p><p>— Я&#160;вижу, вы два сапога пара. У&#160;вас, говорит, анафемов, совместный уговор был погубить Брюса. Ну, говорит, если совместный, так и&#160;награда вам будет совместная.
+</p><p>Взять, говорит, их под&#160;арест!
+</p><p>И&#160;сейчас этому ученику и&#160;этой его любовнице белые ручки назад и&#160;потащили, куда следует. После того Петр приказал, чтоб Брюса с&#160;большим почетом похоронили. Потом ученику и&#160;Брюсовой жене отрубили головы. Но&#160;только народ нисколько их не&#160;жалел.
+</p><p>— Собакам, говорит, и&#160;смерть собачья.
+</p><p>Так и&#160;пропали эти живительные капли. Петр поискал, как&#160;похоронили Брюса. Много пузырьков нашел, а&#160;как без&#160;Брюса распознаешь? Без&#160;хозяина и&#160;товар плачет. А&#160;если&#160;бы&#160;не погубили Брюса, так, гляди, сколько&#160;бы&#160;он переделал стариков на&#160;молодых…
+</p><p><i>Записано в&#160;Москве в&#160;августе 1924&#160;г., рассказывал уличный торговец яблоками Павел Иванович Кузнецов, уроженец Тверской губ</i>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Брюс_и_Петр_Великий"><span id=".D0.91.D1.80.D1.8E.D1.81_.D0.B8_.D0.9F.D0.B5.D1.82.D1.80_.D0.92.D0.B5.D0.BB.D0.B8.D0.BA.D0.B8.D0.B9"></span>Брюс и&#160;Петр Великий</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=8" title="Редактировать раздел «Брюс и Петр Великий»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Про&#160;Брюса не&#160;все правду говорят: есть и&#160;такие, что&#160;привирают многое. Иной пустослов напустит дыму, лишь&#160;бы&#160;людей обморочить… А&#160;доподлинная история про&#160;Брюса то&#160;из историев история. Подумаешь, до&#160;чего роскошный ум был у&#160;человека! И&#160;шел он&#160;по науке, и&#160;все узнавал. Умнейший из&#160;умнейших был человек!
+</p><p>А&#160;жил он&#160;тогда в&#160;Сухаревой башне. Положим, не&#160;вполне жил, а&#160;только была у&#160;него там мастерская и&#160;работал он&#160;в ней больше по&#160;ночам. И&#160;какого только струмента не&#160;было в&#160;этой мастерской! И&#160;подзорные трубы, и&#160;циркуля… А&#160;этих снадобий пропасть: и&#160;настойки разные, и&#160;кислота, и&#160;в банках, и&#160;в пузырьках. Это не&#160;то, что&#160;у докторов: несчастная хина, да&#160;нашатырный спирт, а&#160;тут змеиный яд, спирты разные! Да&#160;всего и&#160;не перечесть! И&#160;добивался человек наукой все постигнуть на&#160;свете: что&#160;на земле, что&#160;под землей и&#160;что в&#160;земле — хотел узнать премудрость природы.
+</p><p>А&#160;купечество московское не&#160;любило его, очень противен он&#160;был купцам. И&#160;не&#160;любили его купцы, собственно, вот через&#160;что: сидит, примерно, купец в&#160;своей лавке, торгует. У&#160;него на&#160;уме покупателя общипать, а&#160;тут глядь — на&#160;самого каркадил лезет… Такой огромаднейший каркадилище, пасть — во&#160;как разинул и&#160;так и&#160;прет на&#160;него. Ну, купец с&#160;перепугу вскочит на&#160;прилавок и&#160;заорет не&#160;своим голосом на&#160;весь квартал:
+</p><p>— Караул, пропадаю! Кара-ул!
+</p><p>И&#160;взбулгачит он&#160;своими криками народ. Вот и&#160;сбежится народ со всех сторон.
+</p><p>— Что&#160;такое? В&#160;чем дело? Чего ты разорался? А&#160;купец чуть не&#160;плачет и&#160;весь дрожит.
+</p><p>— Да&#160;как&#160;же, говорит, мне не&#160;орать, ежели каркадил слопать меня хотел?!
+</p><p>— Какой такой каркадил? — спрашивают. — Где он? Покажи!
+</p><p>Смотрит купец… нет никакого каркадила… И&#160;сам себе не&#160;верит. А&#160;народ смотрит на&#160;него и&#160;удивляется.
+</p><p>— Что&#160;же, говорит, это такое?
+</p><p>И&#160;не&#160;знает, как&#160;понимать ему об&#160;этом купце. Ежели&#160;бы&#160;сказать пьян, так этого не&#160;видать: человек совсем тверезый. Или&#160;сказать — полоумен, так опять&#160;же ничего такого не&#160;заметно: человек как&#160;будто при&#160;своем полном рассудке. Может, скуки ради озорничать начал? Так и&#160;на это не&#160;похоже: человек уже пожилой и&#160;борода седая. И&#160;примется народ ругать этого купца:
+</p><p>— Ах, ты, говорит, чорт новой ловли! Ах ты, бес прокаженный!
+</p><p>А&#160;купца стыд берет и&#160;опасается он, как&#160;бы по&#160;шее не&#160;наклали ему. И&#160;сам не&#160;знает, что&#160;подумать: не&#160;спал и&#160;не дремал, своим делом занимался, а&#160;между прочим явственно видел каркадила. И&#160;народ тоже ничего не&#160;понимает.
+</p><p>А&#160;тут слышит — другой купец завопил:
+</p><p>— Караул, грабят! — и&#160;потому он&#160;так закричал, что&#160;видит, быдто полна лавка свиней набежала. Прибежали свиньи и&#160;давай буровить, давать копать, и&#160;рвут на&#160;клочья ситец, сукно… И&#160;видит купец — разор на&#160;него пришел, вся его мануфактура пропадает зря. Вот он&#160;и давай кричать, чтобы помощь ему дали. Ну, народ слышит — орет человек, надрывается, бежит к&#160;нему. Городовые в&#160;свистки свистят, пристав мчится, как&#160;рысак… Только смотрит — и&#160;тут ничего нет, и&#160;тут все в&#160;порядке, все благородно и&#160;никто не&#160;грабит купца. И&#160;опять все в&#160;удивление приходят:
+</p><p>— Ты что&#160;же, говорят, безобразничаешь? Кто тебя грабит? Разуй глаза, обуй очи — посмотри, где тут грабители?
+</p><p>А&#160;купец говорит:
+</p><p>— Да&#160;я&#160;не насчет грабителей, а&#160;вот, говорит, свинота меня одолела.
+</p><p>Смотрит народ — ну хоть&#160;бы&#160;одна свинья была.
+</p><p>— Да&#160;ты, говорит, видно, с&#160;перепою в&#160;белой горячке, или, может, маналхолия на&#160;тебя нашла. Ну, где эта твоя свинота?
+</p><p>Смотрит купец — нет свиней и&#160;товар цел. Тут пристав бац его в&#160;ухо.
+</p><p>— Подай, говорит, мерзавец, штраф за&#160;беспокойство! -и&#160;потянет с&#160;него пятерку.
+</p><p>Конечно, какой штраф! В&#160;собственный карман сунет, а&#160;не в&#160;казну. Не дурак, своего не&#160;упустит.
+</p><p>Ну, покончат с&#160;этим свинопасом, станут расходиться, а&#160;тут третий завыл. И&#160;все бегут к&#160;нему.
+</p><p>— Ты еще, спрашивают, чего?
+</p><p>— Да&#160;я, говорит, великана испугался…
+</p><p>— Какого, спрашивают, великана?
+</p><p>— Да&#160;вот, говорит, пришел в&#160;лавку великан и&#160;стал матерно ругать меня. Я, говорит, тебя, негодяя, в&#160;три погибели согну.
+</p><p>Ну, и&#160;тут то&#160;же самое: нет никакого великана. Народ примется ругаться.
+</p><p>— Да&#160;вы, говорит, все нынче перебесились.
+</p><p>А&#160;пристав свое дело знает: развернется да&#160;как чесанет в&#160;ухо купца, так у&#160;того аж колокола в&#160;башке зазвенят.
+</p><p>— Подай, говорит, штраф, шелапут ты этакий! — и&#160;с этого пятерик, а&#160;то и&#160;всю десятку потянет.
+</p><p>И&#160;вот раз происходит такая контробация, а&#160;понимающие люди идут мимо. Видят, народ собрался, галдеж поднял.
+</p><p>— Это еще что&#160;за синедрион такой собрался? — спрашивают.
+</p><p>Ну, им объясняют, какое здесь дело разыгралось. А&#160;они&#160;смеются:
+</p><p>— Эх, вы, говорят, скоты неразумные! Да&#160;ведь это, говорят, испытание натуры Брюс производит. А&#160;народ не&#160;знает, что&#160;это за&#160;испытание.
+</p><p>— А&#160;как, спрашивает, это испытание и&#160;в чем тут корень вещества?
+</p><p>А&#160;эти понимающие говорят:
+</p><p>— Об&#160;этом Брюса спросите.
+</p><p>Пристав, как&#160;услышал про&#160;Брюса, со всех ног бросился бежать.
+</p><p>— Ну его к&#160;шуту! — говорит. — Свяжись с&#160;ним, и&#160;жизни не&#160;рад станешь!
+</p><p>И&#160;как&#160;пристав задал тягуля, народ себе бросился врассыпную, кто куда попало.
+</p><p>А&#160;боялся народ Брюса от&#160;своего недопонимания, от&#160;того, что&#160;не знал, какое это бывает испытание натуры. А&#160;это — наука такая, тут требуется хороший ум, чтобы уразуметь ее. И&#160;это самое испытание натуры вот что&#160;означает: положим, возьми человека. Вот он&#160;живет, делом каким занимается, а&#160;то просто ворует. Но&#160;только ему и&#160;в ум не&#160;приходит, какой в&#160;нем есть магнит. Ему какой магнит требуется? Нажрался да&#160;спать, а&#160;нет — портамонет с&#160;деньгами из&#160;чужого кармана вытащить — вот какой его магнит. И&#160;выходит, что&#160;он, как&#160;свинья нечувствительная, не&#160;шевелит мозгами. Вот от&#160;этого самого он&#160;натуры не&#160;знает, да&#160;и где знать, ежели он&#160;как Божий бык? А&#160;Брюс знал и&#160;умел отводить глаза. А&#160;этот отвод вот что&#160;значит: вот, примерно, сидит человек и&#160;пьет чай, а&#160;Брюс сделает такое, и&#160;человеку этому представится, будто полна комната медведей. Вот это и&#160;есть испытание натуры. Всем наукам наука. И&#160;по-настоящему за&#160;нее Брюсу должна быть похвала, а&#160;купцы ругают его.
+</p><p>— Он, говорят, окаянный дух, в&#160;Сухаревой башне сидит, испытание натуры производит, а&#160;мы пугайся, кричи? Нет, говорят, это не&#160;фасон. Потому что, говорят, ежели мы&#160;будем каждый день кричать, народ скажет: купцы с&#160;ума посходили, и&#160;покупать у&#160;нас ничего не&#160;станет.
+</p><p>И&#160;как&#160;они обсудили это дело, сговорились ехать жаловаться царю Петру Великому. Выбрали людей, которые поразумнее, и&#160;отправили с&#160;жалобой.
+</p><p>Вот приезжают эти разумники к&#160;царю и&#160;свою жалобу рассказали. А&#160;Петр Великий такой был: не&#160;любил бумаги писать, а&#160;сам до&#160;всего докапывался.
+</p><p>— Надо, говорит, посмотреть, что&#160;это за&#160;испытание натуры такое.
+</p><p>И&#160;как&#160;приехал в&#160;Москву, взобрался на&#160;Сухареву башню. А&#160;Брюс только что&#160;собрался обедать идти. И&#160;как&#160;он отворил дверь, Петр ухватил его за&#160;волосья и&#160;давай таскать. А&#160;Брюс и&#160;понять не&#160;может, за&#160;что ему такое наказание от&#160;царской руки.
+</p><p>— Петр Великий! — кричит. — Да&#160;ты что&#160;это? Ведь за&#160;мной никакой вины нет!
+</p><p>— Врешь! — говорит Петр. — Есть: ты московскую торговлю портишь!
+</p><p>— Трепанул еще Брюса раза два, а&#160;может, и&#160;три, и&#160;после того рассказал про&#160;купцову жалобу.
+</p><p>Тут-то&#160;Брюс и&#160;уразумел, каким ветром нагнало на&#160;него черную тучу, тут-то&#160;и понял, через&#160;что, собственно, воспоследовало ему наказание от&#160;царской руки. И&#160;тут он&#160;принялся разъяснять Петру свою прахтику насчет испытания натуры. А&#160;Петр еще не&#160;знал эту иструкцию_ насчет отвода глаз и&#160;на дает веры словам Брюса.
+</p><p>— И&#160;как&#160;это, говорит, возможно, чтобы отводом глаз сделать каркадила? Тут, говорит, может, какая другая наука?
+</p><p>А&#160;Брюс на&#160;своем стоит:
+</p><p>— Раз я, говорит, сказал «отвод», значит, и&#160;есть отвод. А&#160;так как, говорит, тебя берет сумнение, то&#160;идем сейчас на&#160;площадь и&#160;там увидишь этот отвод.
+</p><p>— Ну, идем, — говорит Петр, — только смотри, Брюс, ежели ты подведешь пантомину насчет брехни, я&#160;тебя по&#160;зубам двину.
+</p><p>А&#160;Брюс только посмеивается.
+</p><p>И&#160;спустились они&#160;с башни, приходят на&#160;Красную площадь, а&#160;народ прослышал, что&#160;царь приехал, собрался его смотреть. Ну вот, хорошо… И&#160;как&#160;приехали на&#160;площадь, Брюс взял палочку и&#160;нарисовал на&#160;земле преогромного коня с&#160;двумя крыльями и&#160;говорит Петру:
+</p><p>— Смотри, сяду я&#160;на этого коня и&#160;вознесусь в&#160;поднебесье. А&#160;Петр молчит, только смотрит, не&#160;станет&#160;ли&#160;Брюс посыпать этого коня каким-нибудь порошком. Только нет, не&#160;посыпал, а&#160;только махнул три раза рукой и&#160;сделался этот конь живой и&#160;поднялся на&#160;небеса, а&#160;Брюс сидит на&#160;нем верхом, смотрит на&#160;Петра и&#160;смеется.
+</p><p>Задрал Петр голову кверху, смотрит на&#160;коня этого, и&#160;народ тоже смотрит и&#160;в удивление приходит.
+</p><p>Вот Петр смотрел, смотрел и&#160;говорит:
+</p><p>— Удивительное дело, до&#160;чего Брюс наукой дошел. Только слышит, кто-то&#160;позади него говорит:
+</p><p>— Петр Великий, а&#160;ведь я — вот он!
+</p><p>Обернулся Петр, смотрит — стоит Брюс и&#160;смеется. Тут Петр в&#160;большое удивление пришел.
+</p><p>— Что&#160;же, говорит, это такое? Был один Брюс, а&#160;стало два? Только, говорит, не&#160;знаю, какой настоящий, какой поддельный?
+</p><p>А&#160;Брюс разъясняет ему:
+</p><p>— Я, говорит, есть настоящий, а&#160;который летает — одно лишь твое мечтание. И&#160;коня, говорит, нет никакого.
+</p><p>А&#160;Петр сердится:
+</p><p>— Как, говорит, нет? Не пьян&#160;же, говорит, я&#160;в сам-деле! Ну, Брюс не&#160;стал с&#160;ним спорить, а&#160;только махнул рукой — и&#160;не стало крылатого коня на&#160;небе. После этого Брюс и&#160;говорит:
+</p><p>— Вот это и&#160;есть отвод глаз. Что, говорит, я&#160;захочу, то&#160;и будет тебе представляться.
+</p><p>Вот, говорит, я&#160;сделал купцам отвод глаз, только они&#160;не вразумились и&#160;нажаловались тебе на&#160;меня, а&#160;ты, не&#160;разобрамши дела, ухватил меня за&#160;волосья и&#160;давай трепать.
+</p><p>А&#160;Петр говорит:
+</p><p>— Купцово дело можно поправить.
+</p><p>И&#160;отдал он&#160;приказ собрать всех купцов. И&#160;как&#160;их собрали, он&#160;и говорит:
+</p><p>— Вы вот нажаловались на&#160;Брюса, будто он&#160;вашу торговлю портит, а&#160;ведь зря: это не&#160;порча, а&#160;только отвод глаз. А&#160;так как, говорит, вы не&#160;вразумились, то&#160;у меня есть такой состав: как&#160;примете, сразу вразумитесь.
+</p><p>Купцы и&#160;думают, что&#160;он будет давать им брюсовские порошки или&#160;капли. И&#160;очень боятся, думают: от&#160;брюсовского состава добра не&#160;жди, примешь — и&#160;обернешься каркадилом или&#160;свиньей.
+</p><p>И&#160;говорят они&#160;Петру:
+</p><p>— Лучше штраф наложи, а&#160;лишь&#160;бы&#160;не этот состав.
+</p><p>— Нет, — говорит Петр, — что&#160;такое штраф? Заплатил, и&#160;опять без&#160;умственного понятия остался, а&#160;от моего состава ясность ума будет. Ну-ка, говорит, снимай по&#160;очереди портки да&#160;ложись.
+</p><p>И&#160;делает он&#160;распоряжение дать каждому купцу двадцать пять горячих. Ну, их сейчас разложили, и&#160;отпустили каждому. И&#160;как&#160;отполировали их, Петр говорит Брюсу:
+</p><p>— Пойдем-ка, Брюс, в&#160;трактир, чайку напьемся.
+</p><p>А&#160;он&#160;простецкий был, ему этого чох-мох не&#160;дал Бог, не&#160;разбирал, где пить чай: трактир — трактир, харчевня — харчевня, а&#160;не то&#160;чтобы беспримерно_ дворец.
+</p><p>Ну, а&#160;Брюс что? Чай пить — не&#160;дрова рубить, притом&#160;же приглашает не&#160;чорт шелудивый, а&#160;сам Петр Великий. Вот Брюс и&#160;говорит:
+</p><p>— Что&#160;ж, пойдем.
+</p><p>Вот приходят. Заказывает Петр чаю две пары, графинчик водочки. Вот выпили, закусили, после за&#160;чай взялись. Только Брюс и&#160;думает: «Неспроста, говорит, это Петрово угощение!» А&#160;не&#160;знает, к&#160;чему тот дело клонит. Вот Петр за&#160;чаем и&#160;давай Брюса расхваливать:
+</p><p>— Это, говорит, ты умной штуки добился — глаза отводить. Это, говорит, для&#160;войны хорошо будет.
+</p><p>И&#160;стал объяснять, как&#160;действовать этим отводом:
+</p><p>— Это, примерно, идет на&#160;нас неприятель, а&#160;тут такой отвод глаз надо сделать, будто бегут на&#160;него каркадилы, свиньи, медведи и&#160;всякое зверье, а&#160;по небу летают крылатые кони. И&#160;от&#160;этого неприятель в&#160;большой испуг придет, кинется бежать, а&#160;тут наша антиллерия и&#160;начнет угощать его из&#160;пушек.
+</p><p>И&#160;выйдет так, что&#160;неприятелю конец придет, а&#160;у нас ни&#160;одного солдата не&#160;убьют. Вот Брюс слушал, слушал да&#160;и говорит:
+</p><p>— Тут мошенство, а&#160;честности нет.
+</p><p>А&#160;Петр спрашивает:
+</p><p>— Как&#160;так? Какое&#160;же тут мошенство?
+</p><p>А&#160;Брюс разъясняет:
+</p><p>— А&#160;вот какое, говорит, на&#160;войне сила на&#160;силу идет, и&#160;ежели, говорит, у&#160;тебя войско хорошее и&#160;сам ты командир хороший, то&#160;и победишь, а&#160;так воевать, с&#160;отводом глаз — одна подлость. Я, говорит, мог&#160;бы&#160;невесть что&#160;напустить на&#160;купцов, а&#160;сам забрался&#160;бы&#160;в ящик и&#160;унес&#160;бы&#160;деньги. Так это, говорит, будет жульничество.
+</p><p>А&#160;Петра за&#160;сердце взяли Брюсовы слова.
+</p><p>— Ну, ежели тут жульничество, зачем&#160;же ты, так-растак, выдумал этот отвод глаз?
+</p><p>А&#160;Брюс говорит:
+</p><p>— Я&#160;не&#160;выдумал, а&#160;так наука доказывает. Я, говорит, на&#160;свой манер повернул науку, вот у&#160;меня и&#160;вышло, а&#160;другой, говорит, как&#160;ни вертит ее, ничего у&#160;него вне выходит, потому что&#160;он скотина и&#160;поврежденного ума человек.
+</p><p>Только Петр не&#160;сдается:
+</p><p>— После таких твоих слов, говорит, ты есть самый последний человек. Ты, говорит, своему царю не&#160;хочешь уважить, и&#160;за это, говорит, надо надавать тебе оплеух.
+</p><p>Только Брюс нисколечко не&#160;боится.
+</p><p>— Эх, говорит, Петр Великий, Петр Великий, грозишь ты мне, а&#160;того не&#160;видишь, что&#160;у самого змея под&#160;ногами.
+</p><p>Глянул Петр — и&#160;взаправду змея у&#160;него под&#160;ногами. Как&#160;вскочит… Схватил стул, давай бить змею. А&#160;хозяин и&#160;половые смотрят, а&#160;подступиться боятся: знают, что&#160;он царь, и&#160;Брюса тоже знают.
+</p><p>И&#160;разломал Петр стул об&#160;пол. Смотрит — нет никакой змеи, и&#160;Брюса нет. Тут он&#160;и понял, что&#160;Брюс сделал ему отвод глаз. Отдал за&#160;чай и&#160;за водку — четвертной билет выкинул и&#160;сдачи не&#160;взял.
+</p><p>— Это, — говорит половому, — тебе на&#160;водку. — И&#160;поскорее вон из&#160;трактира.
+</p><p>И&#160;сильно осерчал он&#160;тогда на&#160;Брюса. А&#160;тронуть его боится. И&#160;уехал ни&#160;с чем, а&#160;после жаловался:
+</p><p>— Он, говорит, из&#160;прохвостов. Правда, говорит, он&#160;самый ученый человек, а&#160;все&#160;же ехидина.
+</p><p>Ну, Брюсу передали царские слова:
+</p><p>— Ты, говорят, что&#160;же это наделал? Вон царь обижается на&#160;тебя.
+</p><p>А&#160;Брюс говорит:
+</p><p>— А&#160;что&#160;я наделал? Ничего, говорит, такого особенного от&#160;меня не&#160;было. Действительно, говорит, я&#160;по науке работаю. Только у&#160;меня этого нет, чтобы наукой на&#160;подлость идти. Вот, говорит, я&#160;умею фальшивые деньги делать, а&#160;не делаю, потому что&#160;это есть подлость. А&#160;Петр, говорит, чего добивался от&#160;меня? Он&#160;хотел, чтобы я&#160;помогал ему весь свет обманом завоевать, только я&#160;на это не&#160;пошел. Вот, говорит, через&#160;что его обида…
+</p><p>Ну, уж разумеется, Брюсовы слова передали Петру. А&#160;тот ругается.
+</p><p>— Ничего, говорит, пусть храбрится, так-растак! Но&#160;только, говорит, придет время и&#160;его черти заберут, и&#160;никакая наука ему не&#160;поможет.
+</p><p>Ну, это что? Понятно, каждый умрет, как&#160;придет его время, тут чертей в&#160;науку нечего примешивать… А&#160;только Брюсова смерть такая была: пропал он, можно сказать, дуром. Вот он&#160;и умный человек был, и&#160;ученый, а&#160;все&#160;же была в&#160;нем дуринка: своему лакею доверился, а&#160;тот и&#160;уложил его в&#160;гроб. И&#160;как&#160;это он&#160;не взял в&#160;свой ум, что&#160;прислуге нельзя вполне доверяться?.. Ведь это что&#160;за народец такой? Нынче ты для&#160;него хорош и&#160;он для&#160;тебя хорош. А&#160;назавтра погладь его против шерсти, он&#160;и ощетинится, выберет время и&#160;тяпнет тебя исподтишка. А&#160;Брюс не&#160;взял этого в&#160;расчет. Конечно, человек думал, как&#160;жил у&#160;него этот лакей много лет и&#160;ничего такого заметно за&#160;ним не&#160;было, — вот он&#160;и понадеялся на&#160;него, и&#160;доверил ему свой секрет.
+</p><p>А&#160;дело такое: мазь и&#160;настойку выдумал Брюс, чтобы из&#160;старого человека сделать молодого. И&#160;поступать надо было в&#160;таком порядке: взять старика, изрубить на&#160;куски, перемыть хорошенько и&#160;сложить эти куски как&#160;следует, потом смазать их мазью и&#160;все они&#160;срастутся. После того надо побрызгать этим настоем, этим бальзаном. И&#160;как&#160;обрызгал, станет человек живой и&#160;молодой. Ну, не&#160;так, чтобы вполне молодой, а&#160;наполовину. Примерно, было человеку 70&#160;лет, станет 30. Это так по&#160;науке полагается. С&#160;наукой шутить нельзя: требуй от&#160;нее столько, сколько она может дать, а&#160;лишку потребовал — она сейчас на&#160;дыбы станет, и&#160;сколько ты ни&#160;трудись, все попусту будет, прахом пойдут твои труды, потому что&#160;науке аккуратность нужна. А&#160;Брюс знал все это, умел, как&#160;обойтись с&#160;ней, вот от&#160;этого у&#160;него все выходило. А&#160;главное — голова, ум хороший был у&#160;него.
+</p><p>А&#160;было тогда Брюсу восемьдесят лет, и&#160;хотел он, чтобы стало сорок. И&#160;приказал он&#160;лакею, чтобы тот перерезал ему горло бритвой, изрубил на&#160;куски и&#160;чтобы эти куски перемыл и&#160;сложил по&#160;порядку, после того смазал&#160;бы&#160;мазью и&#160;уже после полил&#160;бы&#160;бальзаном. А&#160;лакей сделать-то&#160;сделал, да&#160;не все: бальзаном не&#160;полил, а&#160;взял, да&#160;разлил его по&#160;полу. И&#160;чего ради пошел он&#160;такое дело — и&#160;поднесь никто на&#160;знает. Зло&#160;ли&#160;какое было ему от&#160;Брюса или&#160;подкупил его кто — никому не&#160;сказал об&#160;этой причине. На&#160;что&#160;уж ученые профессора по&#160;книгам, по&#160;бумагам смотрели — ни&#160;до чего не&#160;докопались.
+</p><p>— Тут, говорят, лакеева тайна.
+</p><p>Разумеется, причина была, потому что&#160;как&#160;же так без&#160;причины убить человека? Что-то&#160;такое было…
+</p><p>Ну, хорошо… Вот он&#160;не полил бальзаном и&#160;не знает, куда спровадить мертвого Брюса. А&#160;тут как&#160;раз в&#160;эту пору приходят в&#160;башню Брюсовы знакомцы. Смотрят — лежит мертвый Брюс. Они&#160;и&#160;удивляются:
+</p><p>— Что&#160;же это такое? — говорят. — Ничего не&#160;слышно было, чтобы Брюс болел, а&#160;уже лежит мертвецом. — И&#160;спрашивают они&#160;лакея:
+</p><p>— Когда&#160;же это Брюс помер? А&#160;он&#160;говорит:
+</p><p>— Вчера поутру.
+</p><p>Они&#160;опять спрашивают:
+</p><p>— Почему&#160;же ты, подлая твоя харя, молчишь? Почему ты, анафемская сила, никому об&#160;этом не&#160;сказал? А&#160;он&#160;и не&#160;знает, что&#160;на это сказать.
+</p><p>— Да&#160;я, говорит, маленько перепугался.
+</p><p>Ну, они&#160;были не&#160;дураки — сразу увидели, что&#160;тут дело не&#160;чисто. Кинулись к&#160;нему, давай его бить:
+</p><p>— Признавайся, говорят, как&#160;дело было?
+</p><p>А&#160;он&#160;говорит:
+</p><p>— У&#160;него разрыв сердца произошел.
+</p><p>Ну, только они&#160;не верят:
+</p><p>— Брешешь, чортов мазурик! — И&#160;давай его головой об&#160;стенку стукать.
+</p><p>Он&#160;было крепился, да&#160;видит — мочи нет, и&#160;сознался:
+</p><p>— Мой, говорит, грех. Вот так и&#160;так произошло, — все рассказал.
+</p><p>Они&#160;спрашивают:
+</p><p>— А&#160;за&#160;что ты руку на&#160;Брюса наложил?
+</p><p>А&#160;он&#160;говорит:
+</p><p>— Хоть убейте, не&#160;скажу.
+</p><p>Они&#160;давай ему под&#160;бока ширять кулаками, давай по&#160;затылку бить. Только он&#160;не сознается. Вот они&#160;видят — человек уперся на&#160;своем, заковали его в&#160;кандалы, повезли к&#160;царю. Привезли, и&#160;рассказали об&#160;этом деле. А&#160;Петр так рассудил:
+</p><p>— Действительно, говорит, Брюс очень ученый был, это правда. Ну, говорит, и&#160;то правда, что&#160;ехидина из&#160;ехидин был. Он, говорит, очень зазнался и&#160;царской короны не&#160;признавал.
+</p><p>Это Петр за&#160;насмешку так говорил и&#160;за то, что&#160;Брюс не&#160;дал своего согласия на&#160;отвод глаз в&#160;военном деле. Не мог забыть он&#160;своей злобы.
+</p><p>— Правда, говорит, такая Брюсова судьба, чтобы от&#160;руки лакея смерть ему была, только все&#160;же, говорит, лакея никак прощать нельзя, а&#160;то, говорит, и&#160;другие лакеи станут убивать своих господ. И&#160;потому, говорит, надо сжечь лакея живьем, чтобы другим лакеям пример был.
+</p><p>И&#160;сейчас подхватили лакеишку под&#160;мышки, поволокли на&#160;площадь. И&#160;как&#160;притащили, стали жечь: костер огромаднейший разложили и&#160;стали поджаривать. А&#160;тогда простота-матушка была: ни&#160;этой Сибири, ни&#160;каторжной работы не&#160;знали, а&#160;рубили головы да&#160;живьем жгли. Этой волокиты и&#160;в помине не&#160;было. Вот и&#160;с лакеем долго не&#160;стали хомутаться: сожгли, и&#160;дело с&#160;концом.
+</p><p>А&#160;Брюса Петр велел похоронить:
+</p><p>— Оттащите, говорит, этого пса на&#160;кладбище, закопайте!
+</p><p>Вот как&#160;он благословил Брюса! Видно, солоно пришлось ему от&#160;Брюсовой насмешки!
+</p><p>Ну, похоронили Брюса, а&#160;Сухареву башню Петр приказал запечатать. После-то&#160;ее и&#160;распечатывали не&#160;раз, Брюсовы книги искали, да&#160;не нашли. И&#160;как&#160;найдешь, ежели они&#160;в стене замурованы? Станешь стену ломать — башня завалится, — вот и&#160;не трогают ее, пусть, мол, стоит.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Как_Брюс_с_царем_поссорился"><span id=".D0.9A.D0.B0.D0.BA_.D0.91.D1.80.D1.8E.D1.81_.D1.81_.D1.86.D0.B0.D1.80.D0.B5.D0.BC_.D0.BF.D0.BE.D1.81.D1.81.D0.BE.D1.80.D0.B8.D0.BB.D1.81.D1.8F"></span>Как&#160;Брюс с&#160;царем поссорился</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=9" title="Редактировать раздел «Как Брюс с царем поссорился»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Раньше Брюс жил в&#160;Петрограде, да&#160;царь Петр выслал его в&#160;Москву за&#160;одну его провинность: на&#160;царском балу, во&#160;дворце, он&#160;устроил насмешку. А&#160;эта насмешка такая. Приехал на&#160;этот бал Брюс, а&#160;уж был хватемши, да&#160;мало-мало до&#160;настоящей припорции недоставало. Вот он&#160;подошел к&#160;буфету, взял бутылку вишневки и&#160;давай прямо из&#160;горлышка сосать. Сейчас лакузы [<i>т. е. лакеи</i>], разная эта шушера-мушера побежали царю жаловаться.
+</p><p>— Брюс, говорят, пьяный напился и&#160;безобразничает: прямо изо всей бутылки наливку вишневую пьет, а&#160;тут дамский пол, генералы…
+</p><p>Вот царь подходит к&#160;Брюсу и&#160;говорит:
+</p><p>— Ты что&#160;же хамничаешь? Нешто рюмок нет, что&#160;ты из&#160;бутылки прямо тянешь?
+</p><p>Ты вот, говорит, вместо того, чтобы охальничать, устроил&#160;бы&#160;какую-нибудь потеху, а&#160;гости посмеялилсь&#160;бы…
+</p><p>— Ну ладно, — говорит Брюс, — устрою тебе потеху. И&#160;устроил. Понятно, с&#160;пьяных глаз…
+</p><p>Эта публика, разные там графы да&#160;князья, генералы, женский пол, эти барыни под&#160;музыку плясали-танцевали… Все одеты хорошо, все шелка да&#160;бархат, одним словом, шико… Вот Брюс махни рукой. И&#160;тут видят эти самые господа, которые по&#160;паркету кренделя выделывали, что&#160;на полу отчего-то&#160;стало мокро… По&#160;первому-то&#160;разу подумали, что&#160;беспременно грех с&#160;кем-нибудь случился… И-и&#160;пошло у&#160;них тут «хи-хи» да «ха-ха»… Но&#160;только видят — идет вода из&#160;дверей, из&#160;окон, падает с&#160;потолка… И&#160;завизжали, загорланили…
+</p><p>— Потоп! Потоп!
+</p><p>Они&#160;думали, что&#160;это петербургское наводнение. Нева из&#160;берегов вышла, весь город потопила. И&#160;началась тут потеха! Эти госпожи барыни платья задрали, а&#160;генералы да&#160;князья кто на&#160;стул взобрался, кто на&#160;стол, кто на&#160;подоконник… И&#160;все вопят, орут, — думают, что&#160;им конец подошел. Только царь знал, что&#160;это Брюс сделал отвод глаз, и&#160;кричит он&#160;ему:
+</p><p>— Брюс, пьяная морда! Брось свои штуки!
+</p><p>Вот Брюс опять махнул рукой — и&#160;смотрят все: нет никакой воды, везде сухо. Но&#160;только господа эти стоят на&#160;столах, на&#160;стульях, а&#160;барыни задрали подол… Тут все поняли, что&#160;Брюс над&#160;ними шутку подшутил, и&#160;стали жаловаться царю, дескать, Брюс на&#160;нас такую срамоту нагнал — разговор на&#160;весь столичный город Петербург выйдет. А&#160;Петр им говорит:
+</p><p>— Вы как&#160;веселились, так и&#160;веселитесь, а&#160;я с&#160;Брюсом расправлюсь.
+</p><p>Подозвал Брюса и&#160;принялся ему выговаривать:
+</p><p>— Нешто, говорит, я&#160;такую потеху приказывал делать? Ты, говорит, моих гостей осрамил.
+</p><p>А&#160;Брюс в&#160;ответ говорит царю:
+</p><p>— Не велика, говорит, штука русский квас: копейка стакан! А&#160;что&#160;касается твоих гостей, то, по&#160;мне, они&#160;есть собрание сволочей.
+</p><p>Тут Петр осердился:
+</p><p>— Не смей, говорит, выражаться! Я, говорит, с&#160;улицы не&#160;собираю всякую сволочь.
+</p><p>Ты, говорит, напился, ты пьян!
+</p><p>А&#160;Брюс смеется:
+</p><p>— Немножко, говорит, заложил за&#160;галстук. Но&#160;только, говорит, скажу, что&#160;пьяница проспится, а&#160;дурак никогда!
+</p><p>Тут Петр и&#160;спрашивает:
+</p><p>— Так это, по-твоему выходит, что&#160;я дурак?
+</p><p>А&#160;Брюс отвечает:
+</p><p>— Я&#160;тебя не&#160;ставлю в&#160;дураки, а&#160;только меня досада берет, что&#160;ты взял под&#160;свою защиту этих оглоедов.
+</p><p>Ну, слово за&#160;слово. В&#160;голове-то&#160;Брюса зашумело, он&#160;и наговорил много лишнего. Тут еще больше рассердился царь.
+</p><p>— Я, говорит, вижу, ты чересчур много о&#160;себе понимаешь: все у&#160;тебя дураки, одного себя ты умным выставляешь. Ну, ежели, говорит, все дураки, а&#160;ты один умный, то&#160;нечего тебе промежду дураков жить. Завтра поутру пришлю тебе подводу и&#160;отправляйся в&#160;Москву, живи в&#160;Сухаревой башне.
+</p><p>Вот после такого приказа Брюс и&#160;отправился домой.
+</p><p>— В&#160;Москву, так Москву, — говорит Брюс.
+</p><p>А&#160;царь все-таки думал, что&#160;Брюс проснется и&#160;придет прощения у&#160;него просить. Только утром ждет — Брюс не&#160;приходит. Вот он&#160;сам к&#160;нему направляется. А&#160;Брюс забрал с&#160;собой свои книги, бумаги, подзорные трубы и&#160;все свои причиндалы, которые нужны по&#160;его науке, и&#160;сел в&#160;свой воздушный корабль. А&#160;у&#160;него такой корабль был, вроде как&#160;теперь аэропланы… Ну, сел в&#160;этот корабль. А&#160;Петр бежит и&#160;кричит:
+</p><p>— Стой, Брюс!
+</p><p>Только Брюс не&#160;послушал, надавил кнопку, корабль и&#160;поднялся. Взяло тут Петра большое зло, выхватил он&#160;пистолет — ба-бах! в&#160;Брюса… Но&#160;только пуля отскочила от&#160;Брюса и&#160;чуть самого царя не&#160;убила. А&#160;Брюс кричит с&#160;корабля:
+</p><p>— Ваши пули для&#160;нас ничего, а&#160;вот от&#160;наших, говорит, мыслей вы покоробитесь!
+</p><p>И&#160;взвился корабль его птицей. А&#160;народ собрался, смотрит и&#160;крестится:
+</p><p>— Слава тебе, Господи, — говорит. — Унесли черти Брюса от&#160;нас.
+</p><p>Невежество, понятно. Ведь у&#160;этого народа какое понятие про&#160;Брюса было? За&#160;колдуна его почитали, и&#160;думали, что&#160;он все болезни на&#160;людей насылает. Теперь дури в&#160;России много, а&#160;раньше еще больше было. Ну, только какое дело до&#160;этого Брюсу? Колдун? Ну и&#160;пусть. А&#160;он&#160;свой путь исправно на&#160;Москву направляет. И&#160;вот прилетел, закружился, как&#160;коршун, высматривает, где Сухарева башня стоит… Высмотрел и&#160;опустился. Тут полны улицы, полны площади народа… Кто радуется, а&#160;больше все ругают:
+</p><p>— Не было, говорят, печали, черти накачали: нелегкая Брюса принесла.
+</p><p>А&#160;Брюс принялся в&#160;башне работать. Тут один генерал приходит и&#160;стал выпытывать, что&#160;тот приготавливает. А&#160;Брюс говорит:
+</p><p>— Да&#160;тебе-то&#160;что? Ну, приготавливаю. Можешь&#160;ли&#160;это понять? Я, говорит, в&#160;твои дела не&#160;вмешиваюсь, ничего от&#160;тебя не&#160;выпытываю.
+</p><p>А&#160;генерал говорит:
+</p><p>— Мое дело иное — я&#160;генерал.
+</p><p>— Ну, и&#160;я генерал, — говорит Брюс. А&#160;генерал смеется:
+</p><p>— Какой, говорит, ты генерал? Ты кудесник. Тут Брюс и&#160;разъяснил ему:
+</p><p>— Ты, говорит, по&#160;аполетам генерал, а&#160;я по&#160;уму генерал. Сорви, говорит, с&#160;тебя аполеты, кто скажет, что&#160;ты генерал? Дворник, скажут.
+</p><p>Тут генерал рассердился и&#160;давай его ругать.
+</p><p>— Ежели, говорит, на&#160;то пошло, я&#160;твою башку к&#160;чертям разнесу! Наставлю, говорит, орудии, да&#160;как тресну, так от&#160;тебя, стервы, только клочья полетят.
+</p><p>Брюс на&#160;это отвечает:
+</p><p>— Ежели я&#160;стерва, так зачем ты пришел ко&#160;мне? Пошел, говорит, прочь! — и&#160;в шею выгнал генерала.
+</p><p>Вот этот господин генерал, его превосходительство, и&#160;распалился, помчался в&#160;казарму и&#160;отдал приказ, чтобы немедля разбить из&#160;орудий Сухареву башню. И&#160;сейчас привезли пять орудий, наставили на&#160;башню… Вот скомандовали: «пли!» И&#160;ни&#160;одна пушка не&#160;выстрелила. Принялись солдаты мудрить и&#160;так, и&#160;этак — ничего не&#160;помогает, словно это не&#160;пушки, а&#160;бревна. А&#160;Брюс стоит на&#160;башне, смеется и&#160;кричит:
+</p><p>— Вы — дураки! Зарядили песком орудия и&#160;хотите, чтобы они&#160;дали огонь.
+</p><p>Генерал приказал разрядить одно орудие. Разрядили. Смотрят — вместо пороха песок и&#160;в других то&#160;же самое. А&#160;народ, который тут собрался, говорит генералу:
+</p><p>— Вы, ваше превосходительство, лучше увозите свое орудие, не&#160;то, говорят, Брюс того вам наделает, что&#160;век не&#160;человеком будете.
+</p><p>Тут генерал и&#160;того… испугался и&#160;скомандовал, чтобы уводили орудия в&#160;казарму. А&#160;как&#160;привезли, смотрят солдаты — порох настоящий в&#160;орудиях. Доложили генералу. А&#160;он&#160;и руками машет:
+</p><p>— Ну его к&#160;чорту, этого Брюса, говорит, с&#160;ним только грех один. — И&#160;отступил от&#160;Брюса.
+</p><p>Да&#160;мало&#160;ли&#160;еще проделывал Брюс… Вон Лев Толстой говорил: «Брюс на&#160;всю Россию был самый чудесный человек». И&#160;верно. Ведь иной-то&#160;и не&#160;поверит, какой он&#160;был искусник.
+</p><p>У&#160;него служанка была, сделанная из&#160;цветов: подавала, комнату убирала. Теперь вот доискиваются до&#160;этого секрета и&#160;дойти никак не&#160;могут: локомотив плохо действует.
+</p><p>А&#160;Брюс-то&#160;вон как&#160;шагал: на&#160;тысячу лет вперед погоду предсказывал. А&#160;теперь эти самые барометры. Посмотришь — одно только смехотворство. Указывает стрелка: «ясная погода». А&#160;на&#160;дворе-то&#160;жарит дождище как&#160;из ведра. По&#160;мостовой реки бегут. Что&#160;же это, мол, ваш инструмент врет? Говорит: «ясная погода», а&#160;вон какой хлещет дождь! Или, по-вашему, называется это прекрасная погода?
+</p><p>— Да&#160;тут, говорит, что-то&#160;винтик в&#160;каприз ударился.
+</p><p>— И&#160;примется крутить этот винтик. — Теперь, говорит, в&#160;полной исправности.
+</p><p>— А&#160;что, спрашиваю, показывает?
+</p><p>— Да&#160;теперь, говорит, на&#160;завтрашний день предрекает: «пасмурно, а&#160;к вечеру дождь».
+</p><p>Ну, утром встаешь… Солнце — и&#160;ни единой тучки!.. Ну, думаешь, к&#160;вечеру дождь соберется… И&#160;вечером хорошая погода, и&#160;заря ясная… — Что&#160;же это, мол, наше здоровье, механизм-то&#160;ваш подгулял? Вы&#160;бы&#160;салом его смазали, что&#160;ли…
+</p><p>— А&#160;чорт его знает, что&#160;он врет! Только, говорит, зря деньги загубил на&#160;такую дрянь! — да&#160;обземь его… И&#160;вылетели винты, стрелки, пружинки дурацкие, крючочки — этот поганый механизм…
+</p><p>А&#160;почему он&#160;действует с&#160;обманом? А&#160;все по&#160;единственной причине: слаба гайка — дойти не&#160;могут и&#160;только пыль в&#160;глаза пускают. На&#160;словах — мастера: все теория-матушка отдувается, а&#160;как практики коснется, то&#160;и примутся выдумывать эти стрелки, стержни. Понятно, без&#160;теории практики не&#160;бывает, но&#160;практика теорию побивает. А&#160;у&#160;Брюса всегда теория с&#160;практикой сходилась. Вот от&#160;этого самого и&#160;ошибки не&#160;выходило… Ну, и&#160;голова на&#160;плечах была, а&#160;не тыква!
+</p><p>А&#160;вот насчет смерти его не&#160;знаю, как&#160;и сказать: тут надвое рассказывают. Одни говорят, что&#160;лакей не&#160;полил его живой водой. Это будто он&#160;выдумал живую и&#160;мертвую воду, чтобы стариков превращать в&#160;молодых. Вот взял, изрубил в&#160;куски своего лакея. А&#160;тот лакей был старый… Ну, изрубил, перемыл мясо, полил мертвой водой, все тело срослось, полил живой водой — лакей стал молодым. Потом Брюс сам захотел помолодеть. Научил лакея. Вот изрубил его лакей, полил мертвой водой — тело срослось. А&#160;живой водой не&#160;полил. Ну, видит — умер, похоронили…
+</p><p>А&#160;вернее всего он&#160;улетел, потому что&#160;ежели&#160;бы&#160;он умер, то&#160;остался&#160;бы&#160;воздушный корабль, а&#160;то его нигде не&#160;могли найти. Это так и&#160;было: сел на&#160;корабль и&#160;полетел, а&#160;куда — неизвестно. И&#160;трубы забрал с&#160;собой. Вот начальство видит — нет Брюса, и&#160;написало царю: «Брюс неизвестно куда девался, какое распоряжение будет насчет его книг, порошков?» А&#160;Петр написал: «Не трогать до&#160;моего приезда». Через&#160;сколько-то&#160;времени приезжает. Заперся в&#160;башне и&#160;трое суток рассматривал книги, порошки. Туда ему обед и&#160;ужин подавали. А&#160;народ собрался, ждет, что&#160;будет. Вот на&#160;четвертые сутки приказывает царь вылить в&#160;яму все эти Брюсовы жидкости, а&#160;порошки сжечь на&#160;костре, книги и&#160;бумаги замуровать в&#160;стену этой самой башни.
+</p><p>— Но, говорит Петр, главных-то&#160;книг нет. Должно быть, спрятал в&#160;потаенном месте.
+</p><p>Ну, замуровали. И&#160;приказал царь запереть башню на&#160;замок и&#160;сам печати к&#160;двери приложил сургучные. И&#160;приказал поставить часового с&#160;ружьем. И&#160;уехал царь, и&#160;тут вскорости помер.
+</p><p>После него другие царствовали. А&#160;только у&#160;Сухаревой башни все ставят часового. Вот стала царствовать Екатерина Великая. Докладывают ей насчет Сухаревой башни. Она говорит:
+</p><p>— Не я&#160;ее запечатывала, и&#160;не мне ее распечатывать. А&#160;часовой, говорит, пусть стоит. Как, говорит, заведено, так пусть и&#160;будет.
+</p><p>Ну и&#160;другие цари такой&#160;же ответ давали.
+</p><p>Вот взошел на&#160;престол Александр Третий. Был он&#160;на коронацию в&#160;Москве. Едет осматривать город и&#160;проезжает мимо Сухаревой башни. Часовой встал на&#160;караул — честь отдает. Вот царь спрашивает генерала:
+</p><p>— А&#160;что&#160;хранится в&#160;этой башне? А&#160;генерал отвечает:
+</p><p>— Не могу знать.
+</p><p>Царь приказал кучеру остановиться, выходит из&#160;коляски, спрашивает часового:
+</p><p>— Что&#160;ты, братец, караулишь?
+</p><p>— Не могу знать, ваше императорское величество, — говорит часовой.
+</p><p>Смотрит царь — висит замчище, может, фунтов в&#160;пятнадцать, и&#160;семь печатей сургучных со шнурами привешены. Стал спрашивать генералов — ни&#160;один не&#160;знает, что&#160;в этой башне хранится. Время-то&#160;прошло много, как&#160;она запечатана была. Которые знали, те давно поумирали, а&#160;новым эта башня без&#160;надобности. Вот царь требует ключ. Кинулись искать. А&#160;где его в&#160;чертях найдешь, когда его и&#160;в глаза никто не&#160;видел, какой он&#160;есть! Тут генерал объяснил:
+</p><p>— Это, говорит, по&#160;неизвестному случаю башня запечатана, а&#160;где находится ключ, тоже никому не&#160;известно.
+</p><p>Рассердился царь.
+</p><p>— Что&#160;за&#160;порядки, говорит, такие дурацкие: не&#160;знают, что&#160;в башне хранится! Тащи лом, командует, тащи молот!
+</p><p>Живо притащили. Засунули лом… Только не&#160;поддается замок.
+</p><p>— Бей молотом! — командует царь. И&#160;принялись наяривать молотом по&#160;замку.
+</p><p>Насилу сбили с&#160;двери. Ну вот, отворили дверь, входит царь, смотрит — все пусто кругом, стоят голые стены и&#160;больше ничего. Тут царь опять рассердился:
+</p><p>— Какого&#160;же, говорит, чорта здесь караулили? Пауков, что&#160;ли? Только, говорит, это не&#160;такая драгоценность, чтобы из-за&#160;такой сволочи ставить караул!
+</p><p>Да&#160;тут пришло ему в&#160;голову постучать в&#160;стену. Постучал — слышит, будто отдает пустое место. Приказал позвать каменщика. Притащили их целый десяток.
+</p><p>— Выламывай стену! — приказывает царь.
+</p><p>Ну, выломали. Смотрят — лежат книги, бумаги. Царь удивился.
+</p><p>— Что&#160;же это за&#160;архив такой секретный? — спрашивает. Генералы в&#160;один голос отвечают:
+</p><p>— Не можем знать!
+</p><p>Посмотрел царь, что&#160;напечатано, — ничего понять не&#160;может. Смотрели и&#160;генералы — тоже ни&#160;в зуб толкнуть. Посылает царь за&#160;профессорами. Набралось их много. Принялись разбирать. Уж как&#160;они ни&#160;старались, чтобы перед&#160;царем отличиться, — ничего не&#160;выходит, не&#160;действует механизм!
+</p><p>— Это, говорят, какие-то&#160;неизвестные книги. А&#160;царь сердится.
+</p><p>— Неужели, говорит, ни&#160;одного не&#160;найдется, который&#160;бы&#160;разобрал?
+</p><p>Тут говорят ему:
+</p><p>— Есть еще один старичок-профессор: если он&#160;не разберет, так никто не&#160;разберет.
+</p><p>Послал царь за&#160;этим старичком. Привозят его. Как&#160;глянул, так сразу и&#160;сказал:
+</p><p>— Это, говорит, книги Брюсовы, и&#160;бумаги тоже его.
+</p><p>А&#160;царь и&#160;не знал, какой-такой Брюс был, и&#160;спрашивает старичка:
+</p><p>— А&#160;что&#160;за человек был Брюс, что&#160;его книги и&#160;бумаги беспременно нужно было замуровать в&#160;башню?
+</p><p>Старичок и&#160;говорит:
+</p><p>— А&#160;это, говорит, вот какой был человек: такого, говорит, больше не&#160;рождалось, да&#160;и не&#160;родится. — И&#160;стал рассказывать про&#160;Брюса.
+</p><p>А&#160;царь слушает и&#160;удивляется.
+</p><p>— А&#160;ну-ка, говорит, почитай хоть одну книгу.
+</p><p>Вот старичок начал читать. Все слушают, а&#160;понять ничего не&#160;могут, потому что&#160;на каком-то&#160;неизвестном языке написано. Чорт знает, что&#160;за язык! Царь говорит:
+</p><p>— Хоть ты и&#160;читал, а&#160;понять ничего невозможно.
+</p><p>Тут старичок и&#160;стал объяснять эти слова. И&#160;все насчет волшебства. Вот царь и&#160;говорит:
+</p><p>— Ладно, теперь я&#160;понял, в&#160;чем тут дело, — это тайные науки. Только ты не&#160;читай их здесь, а&#160;поедем со мной — там мне одному прочитаешь.
+</p><p>— Это все, — говорит, — волшебство тут описано. Это Брюс разные волшебные составы делал.
+</p><p>Царь спрашивает:
+</p><p>— Откуда ты научился книги такие читать? Сколько, говорит, профессоров, ни&#160;один не&#160;знает, а&#160;вот ты выискался, что&#160;и про&#160;волшебство знаешь.
+</p><p>А&#160;старик говорит:
+</p><p>— Я&#160;до&#160;всего доходил.
+</p><p>— Значит, говорит царь, ты много знаешь? Ну так, говорит, поезжай со мной — послушаю я&#160;твою премудрость. — И&#160;забрал все книги Брюсовы, бумаги и&#160;того старика…
+</p><p>Уехал, и&#160;ничего неизвестно, что&#160;стало с&#160;этим стариком и&#160;книгами — и&#160;приказал забрать эти книги и&#160;бумаги, положить в&#160;коляску.
+</p><p>Взял старичка с&#160;собой и&#160;поехал. И&#160;где теперь эти книги, бумаги, где старичок — никто не&#160;знает, нет ни&#160;духу, ни&#160;слуху.
+</p><p><i>Записано в&#160;Москве 8 сентября 1924&#160;г.&#160;Рассказывал старик-печник Егор Алексеевич, фамилию не&#160;знаю.</i>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Брюс_и_волшебная_наука"><span id=".D0.91.D1.80.D1.8E.D1.81_.D0.B8_.D0.B2.D0.BE.D0.BB.D1.88.D0.B5.D0.B1.D0.BD.D0.B0.D1.8F_.D0.BD.D0.B0.D1.83.D0.BA.D0.B0"></span>Брюс и&#160;волшебная наука</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=10" title="Редактировать раздел «Брюс и волшебная наука»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Был этот Брюс умнейший человек, ученый: волшебную науку постиг лучше и&#160;некуда. Ну, и&#160;прочее. Какая видимость на&#160;земле, какая на&#160;небе — это мог определить, что&#160;к чему принадлежит. Ну, тут и&#160;так, и&#160;этак толковать можно, у&#160;каждого свой ум. А&#160;вот как&#160;он свою волшебную науку показал, так это на&#160;удивление: живую женщину сделал из&#160;цветов: ходила, работала, прислугой у&#160;него была, только говорить не&#160;могла. А&#160;Брюсова жена приревновала к&#160;нему эту прислугу.
+</p><p>— Ты, говорит, с&#160;нею живешь.
+</p><p>А&#160;Брюс смеется:
+</p><p>— Эх, говорит, Дурында Ивановна, ничего не&#160;понимаешь.
+</p><p>Ну, та все свое, давай его грызть, давай пилить каждый день:
+</p><p>— Не без&#160;того, говорит, ты с&#160;ней живешь.
+</p><p>Вот раз при&#160;гостях и&#160;начни она его срамить.
+</p><p>— Бесстыжие, говорит, глаза: от&#160;законной жены откачнулся, с&#160;прислугой связался.
+</p><p>Взяла тут досада Брюса.
+</p><p>— Эх, говорит, дуреха, да&#160;и мозги твои дурацкие. Посмотри-ка, какая это прислуга! — Взял, да&#160;и вынул железный стержень у&#160;прислуги из&#160;головы. Она тут вся цветами и&#160;рассыпалась. Жена, гости: ах-ах! А&#160;жена говорит:
+</p><p>— А&#160;я&#160;думала, она из&#160;тела сделана.
+</p><p>Ну — баба, какое у&#160;нее понятие о&#160;такой науке?
+</p><p>А&#160;только нашлись такие шпионы поганые, — может, из&#160;гостей и&#160;были, — донесли царю про&#160;это Брюсово рукомесло, про&#160;цветочную женщину. А&#160;царь не&#160;любил Брюса и&#160;не любил вот за&#160;что: Брюс сделал над&#160;ним волшебную насмешку. Он&#160;хотел шутку подшутить, а&#160;вышла насмешка. А&#160;какая это была насмешка — точно рассказать не&#160;смогу. То&#160;ли&#160;он царя в&#160;дураках оставил, или&#160;еще что… не&#160;знаю… А&#160;какой был царь — тоже сказать не&#160;сумею, только не&#160;Петр Великий.
+</p><p>Ну, значит, эти мазурики-шпионы донесли царю. А&#160;царь говорит:
+</p><p>— Этот проклятый Брюс — бельмо у&#160;меня на&#160;глазу. Пойдите, говорит, хоть обманом поймайте его и&#160;приведите под&#160;конвоем.
+</p><p>Хм… «поймайте»… Не таковский Брюс был, чтобы попасть в&#160;клетку: царь только сказал, а&#160;он уже знал, что&#160;ловить его собрались. Царь думал обманом взять его, а&#160;Брюс сам всех обманул.
+</p><p>Ну, полиция и&#160;направилась прямо к&#160;Брюсу в&#160;дом. А&#160;жил Брюс на&#160;Басманной — дом и&#160;теперь цел. И&#160;в&#160;доме этом в&#160;стену вделана гробовая доска — крышка от&#160;гроба, и&#160;на ней крест, а&#160;повыше доски надпись сделана, только не&#160;нашими буквами, а&#160;какие это буквы — никто не&#160;знает и&#160;прочитать никто не&#160;может. Собрались профессора, посмотрели и&#160;отвернули нос: не&#160;вкусна говядина, не&#160;по зубам. Ну, прочесть не&#160;сумели, давай Брюса ругать: накрутил, нацарапал, сам чорт не&#160;поймет! И&#160;немцы, и&#160;англичане приезжали разбирать надпись, и&#160;французы… Ничего у&#160;них не&#160;выходит.
+</p><p>— Нет, говорят, не&#160;нам читать это надписание.
+</p><p>Ну и&#160;приказание было закрасить эту надпись и&#160;гробовую доску. И&#160;сколько раз закрашивали, а&#160;никак закрасить не&#160;могут: нынче закрасят, а&#160;назавтра доска и&#160;надпись опять выступают. Вот она какая тут волшебная наука!
+</p><p>Ну, хорошо… Вот, значит, полиция пришла в&#160;Брюсов дом. Пристав и&#160;спрашивает жену:
+</p><p>— Где Брюс?
+</p><p>Она говорит:
+</p><p>— Из&#160;Москвы уехавши. К&#160;вечеру вернется.
+</p><p>А&#160;это Брюс научил ее так говорить. Вот пристав и&#160;пошел ловить Брюса по&#160;заставам. Ну, разослал на&#160;пять застав. Смотрит — сам Брюс едет. Тут пристав подкрался, ухватил Брюса.
+</p><p>— А-а, говорит, попался, милачок!
+</p><p>А&#160;Брюс ничего: попался и&#160;попался, и&#160;не вырывается, стоит смирно. Только смотрит пристав — волокут еще одного Брюса. Он&#160;и&#160;рот разинул.
+</p><p>— Что&#160;же это такое? — говорит. — Откуда взялось два Брюса? А&#160;тут и&#160;третьего притащили. Да&#160;так на&#160;пяти заставах пять Брюсов и&#160;наловили. И&#160;все как&#160;один, точка в&#160;точку, и&#160;обличьем, и&#160;одеждой, и&#160;голосом. Пристав и&#160;глаза вылупил, и&#160;понять ничего не&#160;может — как&#160;ошалелый стоит.
+</p><p>— Кто&#160;же, спрашивает, из&#160;вас настоящий Брюс?
+</p><p>А&#160;Брюсы смеются:
+</p><p>— Да&#160;мы, говорят, все настоящие, все сами по&#160;себе.
+</p><p>Вот тут и&#160;разгадывай — где настоящий. Ну, что&#160;тут делать приставу? И&#160;ничего придумать не&#160;может. Ведет к&#160;царю всех Брюсов: пусть, мол, сам ищет настоящего. Вот приводит:
+</p><p>— Так и&#160;так, эмператорское величество, говорит, наловил я, говорит, на&#160;заставах пять Брюсов, а&#160;какой из&#160;них настоящий Брюс — не&#160;мог дознаться.
+</p><p>Посмотрел царь на&#160;этих Брюсов, и&#160;зло его взяло большое:
+</p><p>— Ну и&#160;стерва&#160;же, говорит, этот Брюс, ишь, на&#160;какие штуки ударился! Ну как, говорит, отыщешь тут настоящего Брюса, ежели все они&#160;один в&#160;один? Только, говорит, одно и&#160;остается: взять, да&#160;и перестрелять всех из&#160;поганого ружья. Да&#160;и&#160;то вряд&#160;ли&#160;настоящего убьешь: уйдет, говорит, проклятый, козявкой обернется и&#160;уйдет, а&#160;безвинные люди смерть примут… А&#160;я, говорит, не&#160;хочу грех на&#160;душу брать.
+</p><p>Думал, думал:
+</p><p>— Гоните, говорит, всех вон — добра нечего ждать от&#160;них!
+</p><p>Ну, кинулись к&#160;Брюсам — кого в&#160;шею, кого по&#160;затылку.
+</p><p>Побежали пятеро, а&#160;стало четверо, и&#160;ведь совсем они&#160;не Брюсы, а&#160;царские генералы. А&#160;это Брюс нарочито обернул их Брюсами, чтобы царю досадить. Ну, стало четверо генералов, а&#160;настоящий-то&#160;Брюс пропал.
+</p><p>Еще больше взяло зло царя.
+</p><p>— Я, говорит, так и&#160;знал, что&#160;тут подлость. Ишь, говорит, что&#160;выкинул!
+</p><p>А&#160;генералы вернулись и&#160;жалуются:
+</p><p>— Когда&#160;же, говорят, эмператорское величество, посадишь проклятого Брюса на&#160;цепь?
+</p><p>А&#160;царю и&#160;без них тошно. Как&#160;закричит:
+</p><p>— Вон из&#160;моего дворца! Генералы и&#160;помчалилсь.
+</p><p>А&#160;Брюса пристав все&#160;же накрыл: сидит в&#160;пивной и&#160;пивцо попивает.
+</p><p>— А-а, — говорит пристав, — вот где настоящий Брюс!
+</p><p>А&#160;Брюс ему говорит:
+</p><p>— Ты вот что: отстань, а&#160;не то&#160;оберну тебя петухом — будешь на&#160;улице лошадиный навоз разгребать.
+</p><p>Пристав как&#160;дунет от&#160;него — испугался: свяжись, мол, с&#160;чортом и&#160;кукарекай целый век!
+</p><p>Вот он&#160;какой мастер был по&#160;волшебству! И&#160;все ведь наукой постигал. Ну, это что&#160;хитро, то&#160;хитро, а&#160;все&#160;же не&#160;настоящее. А&#160;настоящее вот какое у&#160;него было дело: из&#160;старых людей молодых делал. И&#160;никаким отваром не&#160;поил, а&#160;поступал великатно: увидит старика, сейчас перережет ему горло и&#160;давай его кромсать — всего на&#160;куски изрежет. После того польет одним составом — тело срастется, польет другим — и&#160;станет из&#160;старика молодой. Вот это наука, всем наукам наука!
+</p><p>Ну, только&#160;же она и&#160;погубила Брюса. Правду сказать, тут наука не&#160;виновата, а&#160;лакей Брюсов виноват — такая гадина был человек. Вот кому&#160;бы&#160;пулю из&#160;поганого ружья в&#160;затылок закатить — в&#160;самый&#160;бы&#160;раз!
+</p><p>Тоже и&#160;Брюса оправдать нельзя. Нашел, кому довериться в&#160;таком важном деле — лакею! А&#160;может, тут такая судьба Брюса была — пропасть ему от&#160;лакейской руки. Это, пожалуй, вернее будет…
+</p><p>А&#160;уж стар был Брюс — восемьдесят годов было. И&#160;говорит лакею:
+</p><p>— Изруби меня на&#160;куски. Сперва, говорит, вот из&#160;этого пузырька полей, потом вот из&#160;этого, и&#160;стану, говорит, я&#160;юноша прекрасный.
+</p><p>Вот лакей изрубил его на&#160;куски. Из&#160;одного пузырька полил — срослось тело, а&#160;из другого не&#160;стал поливать. Побежал к&#160;царю… ну, может, не&#160;к самому царю, а&#160;к генералу, который при&#160;царе находился.
+</p><p>— Вот каким, мол, средствием я&#160;сделал конец Брюсу. Ну, отпустили ему сколько-то&#160;денег. А&#160;Брюса поскорее тайком похоронили — боялись, чтобы не&#160;ожил.
+</p><p>А&#160;книги Брюсовы приказал царь разыскивать и&#160;жечь. И&#160;которые нашли — сожгли… Только еще штук с&#160;десяток утаили… ну те, которые разыскивали: пристава, полиция. А&#160;самые главные книги под&#160;Сухаревой башней в&#160;сундуке железном спрятаны. В&#160;башне этой у&#160;него мастерская была. А&#160;из&#160;башни ход был проделан в&#160;подземелье. Тут вот, в&#160;этом подземельи у&#160;него главная мастерская была, там он&#160;и делал разные секретные составы. Да&#160;нетто в&#160;одном месте у&#160;него такое подземелье было? Он&#160;всю Москву избуровил, ходы проделал, как&#160;крот. А&#160;книги те и&#160;посейчас лежат там.
+</p><p><i>Записано мною в&#160;Москве 15 ноября (н. ст.) 1925&#160;г. от&#160;крестьянина, ломового извозчика Ивана Антоновича Калины из&#160;Волоколамского уезда.</i>
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐f79556446‐bwpzx
+Cached time: 20260217085959
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.112 seconds
+Real time usage: 0.192 seconds
+Preprocessor visited node count: 161/1000000
+Revision size: 135736/2097152 bytes
+Post‐expand include size: 8277/2097152 bytes
+Template argument size: 1137/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.057/10.000 seconds
+Lua memory usage: 1894261/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  147.537      1 Шаблон:Отексте
+100.00%  147.537      1 -total
+  1.73%    2.545      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1044900:|#|:idhash:canonical and timestamp 20260217085959 and revision id 5583337. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Легенды_о_графе_Брюсе_(Баранов)&amp;oldid=5583337">https://ru.wikisource.org/w/index.php?title=Легенды_о_графе_Брюсе_(Баранов)&amp;oldid=5583337</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D1%86%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_1925_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Публицистика 1925 года">Публицистика 1925 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Евгений Захарович Баранов">Евгений Захарович Баранов</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BD%D0%B5_%D0%B2%D0%B8%D0%BA%D0%B8-%D1%81%D0%BD%D0%BE%D1%81%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%BB%D0%B8_%D1%81_%D1%82%D0%B5%D0%B3%D0%BE%D0%BC_sup" title="Категория:Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup">Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Импорт/lib.ru/Страницы с внешними ссылками">Импорт/lib.ru/Страницы с внешними ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_100" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Импорт/az.lib.ru/Евгений Захарович Баранов">Импорт/az.lib.ru/Евгений Захарович Баранов</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 29 июля 2025 года в 09:39.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D0%B3%D1%80%D0%B0%D1%84%D0%B5_%D0%91%D1%80%D1%8E%D1%81%D0%B5_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Легенды о графе Брюсе (Баранов)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-f79556446-bwpzx","wgBackendResponseTime":493,"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.192","ppvisitednodes":{"value":161,"limit":1000000},"revisionsize":{"value":135736,"limit":2097152},"postexpandincludesize":{"value":8277,"limit":2097152},"templateargumentsize":{"value":1137,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  147.537      1 Шаблон:Отексте","100.00%  147.537      1 -total","  1.73%    2.545      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.057","limit":"10.000"},"limitreport-memusage":{"value":1894261,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Евгений Захарович Баранов\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"Брюс и вечные часы.\\\n\u003Cbr\u003EКак Брюс из старого человека молодого сделал.\u003Cbr\u003EБрюсовы чудеса.\u003Cbr\u003EСмерть Брюса.\u003Cbr\u003EБрюс и Петр Великий.\u003Cbr\u003EКак Брюс с царем поссорился.\u003Cbr\u003EБрюс и волшебная наука.\",\n    [\"published\"] = \"1925\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/b/baranow_e_z/text_1925_legendy_o_grafe_bruse.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Легенды о графе Брюсе\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-f79556446-bwpzx","timestamp":"20260217085959","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

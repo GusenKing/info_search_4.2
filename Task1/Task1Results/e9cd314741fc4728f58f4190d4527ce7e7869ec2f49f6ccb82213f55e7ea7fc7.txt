@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Дешевая юмористическая библиотека «Сатирикона». Выпуск 32 (Аверченко) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"ce7581d7-7fb5-48cb-b88d-b877299425c2","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Дешевая_юмористическая_библиотека_«Сатирикона»._Выпуск_32_(Аверченко)","wgTitle":"Дешевая юмористическая библиотека «Сатирикона». Выпуск 32 (Аверченко)","wgCurRevisionId":5256306,"wgRevisionId":5256306,"wgArticleId":997460,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100","Импорт/lib.ru","Проза","Сатира и юмор","Сборники рассказов","Аркадий Тимофеевич Аверченко","Литература 1911 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Дешевая_юмористическая_библиотека_«Сатирикона»._Выпуск_32_(Аверченко)","wgRelevantArticleId":997460,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5256306,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":60000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Дешевая юмористическая библиотека «Сатирикона». Выпуск 32 (Аверченко) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Дешевая_юмористическая_библиотека_«Сатирикона»_Выпуск_32_Аверченко rootpage-Дешевая_юмористическая_библиотека_«Сатирикона»_Выпуск_32_Аверченко skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F+%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0+%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB.+%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA+32+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F+%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0+%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB.+%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA+32+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F+%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0+%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB.+%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA+32+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F+%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0+%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB.+%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA+32+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Дешевая юмористическая библиотека «Сатирикона». Выпуск 32 (Аверченко)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F+%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F+%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0+%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB.+%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA+32+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;oldid=5256306" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29&amp;id=5256306&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2594%25D0%25B5%25D1%2588%25D0%25B5%25D0%25B2%25D0%25B0%25D1%258F_%25D1%258E%25D0%25BC%25D0%25BE%25D1%2580%25D0%25B8%25D1%2581%25D1%2582%25D0%25B8%25D1%2587%25D0%25B5%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F_%25D0%25B1%25D0%25B8%25D0%25B1%25D0%25BB%25D0%25B8%25D0%25BE%25D1%2582%25D0%25B5%25D0%25BA%25D0%25B0_%25C2%25AB%25D0%25A1%25D0%25B0%25D1%2582%25D0%25B8%25D1%2580%25D0%25B8%25D0%25BA%25D0%25BE%25D0%25BD%25D0%25B0%25C2%25BB._%25D0%2592%25D1%258B%25D0%25BF%25D1%2583%25D1%2581%25D0%25BA_32_%28%25D0%2590%25D0%25B2%25D0%25B5%25D1%2580%25D1%2587%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25BE%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2594%25D0%25B5%25D1%2588%25D0%25B5%25D0%25B2%25D0%25B0%25D1%258F_%25D1%258E%25D0%25BC%25D0%25BE%25D1%2580%25D0%25B8%25D1%2581%25D1%2582%25D0%25B8%25D1%2587%25D0%25B5%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F_%25D0%25B1%25D0%25B8%25D0%25B1%25D0%25BB%25D0%25B8%25D0%25BE%25D1%2582%25D0%25B5%25D0%25BA%25D0%25B0_%25C2%25AB%25D0%25A1%25D0%25B0%25D1%2582%25D0%25B8%25D1%2580%25D0%25B8%25D0%25BA%25D0%25BE%25D0%25BD%25D0%25B0%25C2%25BB._%25D0%2592%25D1%258B%25D0%25BF%25D1%2583%25D1%2581%25D0%25BA_32_%28%25D0%2590%25D0%25B2%25D0%25B5%25D1%2580%25D1%2587%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25BE%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Дешевая юмористическая библиотека "Сатирикона". Выпуск 32</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Автор:Аркадий Тимофеевич Аверченко">Аркадий Тимофеевич Аверченко</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1911</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/a/awerchenko_a_t/text_1911_biblioteka_32.shtml">az.lib.ru</a></span>  • Их праздник<br />
+Глухая исповедь<br />Преступление на&#160;Бармалеевой улице (Хроника)<br />Кухарка Аксинья Демина</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Автор:Аркадий Тимофеевич Аверченко">Аркадий Тимофеевич Аверченко</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<center>Дешевая юмористическая библиотека «Сатирикона»</center>
+<center>Выпуск 32</center>
+<center>(1911)</center>
+<p>Аверченко А. Т.&#160;Собрание сочинений: В 13 т.
+</p><p>Т.&#160;3. Круги по&#160;воде
+</p><p>М.: Изд-во «Дмитрий Сечин», 2012
+</p><p>Их праздник
+</p><p>Глухая исповедь
+</p><p>Преступление на&#160;Бармалеевой улице (Хроника)
+</p><p>Кухарка Аксинья Демина
+</p>
+<center>ИХ ПРАЗДНИК</center>
+<p>Всякий вновь входящий считал своим долгом облобызаться с&#160;юбиляром-антрепренером, который встречал гостей у&#160;дверей, кланяясь всем с&#160;беспокойно ликующим видом.
+</p><p>Всякому вновь входящему юбиляр говорил так:
+</p><p>— Семен Иваныч! Низкое спасибо за&#160;то, что&#160;ответили на&#160;мое скромное приглашение! Вася! Здравствуй! Низкое спасибо за&#160;то, что… скромное приглашение… вспомнил… Григор Григорич! Низкое спа… за&#160;приглашение… скромная память… Василий Пентелеймоныч! Низкое… ничего, что&#160;насморк, поцелуемся… Скромное приглашение… низкое спас… Игнатов!..
+</p><p>Напустив в&#160;комнату достаточное число почитателей, юбиляр пошептался с&#160;распорядителем, и, похлопав в&#160;ладоши, крикнул с&#160;искусно разыгранной скромностью:
+</p><p>— Дорогие гости! Пожалуйте за&#160;стол перекусить чего-нибудь… У&#160;меня очень невзыскательно…
+</p><p>Он&#160;лгал. В&#160;душе его все пело и&#160;ликовало, потому что&#160;ужин был приготовлен не&#160;такой уж скромный, — и&#160;закуски, и&#160;горячее, и&#160;шампанское. А&#160;десерт был совсем диковинный: выдолбленные ананасы с&#160;какой-то&#160;былой штукой внутри.
+</p><p>Уселись за&#160;столы. Места хватило всем, кроме одного обиженного судьбой, потертого юноши. Юноша долго бродил между столами с&#160;видом человека, который развязно спешит куда-то&#160;по собственному делу, и&#160;едой не&#160;интересуется. Не найдя места, юноша, снедаемый горем, пробрался к&#160;дверям и&#160;незаметно ушел, решив раз навсегда порвать с&#160;шумным светом и&#160;заняться научными исследованиями…
+</p><p>Закуски уничтожались почитателями юбиляра с&#160;изумительной торопливостью. Так отступающая армия спешит сжечь и, вообще, уничтожить все приготовленные запасы, чтобы они&#160;не достались неприятелю. Успокоились только тогда, когда неприятель был поставлен в&#160;безвыходное положение. И, наконец, подали какой-то&#160;бульон.
+</p><p>Первым встал местный рецензент единственной в&#160;городе газеты, человек до&#160;того изысканный и&#160;светский, что&#160;окружающие тускнели около него, как&#160;светляки перед&#160;электрическим фонарем. Но&#160;да&#160;и этот человек, умевший владеть собой, сейчас волновался. Стараясь скрыть обуревавшие его чувства, он&#160;схватился за&#160;сползший на&#160;бок галстук, передвинул его еще дальше и&#160;начал странной нотой, как&#160;отсыревший орган:
+</p><p>— Кге!.. Милостивые государыни и&#160;милостивые государи! Позвольте мне, скромному летописцу русского театра, сказать несколько слов о&#160;том, к&#160;кому сегодня прикованы все любящие восторженные взоры, — о&#160;том, кто сейчас сидит со скромно опущенной, талантливой головой, одним словом, — об&#160;антрепренере здешнего театра, Кузьме Федоровиче Сверкалове! Кузьма Федорыч! Позволь тебе поклониться от&#160;имени зрителя и&#160;принести нашу теплую благодарность за&#160;те минуты незабываемого, трепетного восторга, который мы&#160;переживаем в&#160;этом театре, превращенном твоим гением в&#160;светлый храм искусства. Пусть в&#160;этот день все узнают и&#160;услышат о&#160;тебе правду, — о&#160;тебе, чутком, умном художнике, обаятельном товарище и&#160;кротком, милосердном человеке к&#160;младшей актерской братии… Ура!
+</p><p>Грянули аплодисменты. Все гуськом потянулись к&#160;юбиляру целоваться. Образовалась очередь, которую бледный от&#160;восторга антрепренер не&#160;всегда видел даже у&#160;своей театральной кассы.
+</p><p>Когда, разбушевавшиеся волны общего восхищения и&#160;приязни к&#160;юбиляру немного улеглись, раздался стук ножа о&#160;тарелку.
+</p><p>— Тссс!.. Слушайте, слушайте!
+</p><p>— Многоуважаемые собравшиеся! — сказал оратор, ражий поклонник театрального искусства. — Здесь говорили сейчас о&#160;маститом юбиляре — гордости русской сцены! Да! Он&#160;этого вполне заслуживает… Но&#160;не&#160;забудем&#160;же и&#160;о тех скромных трудолюбивых муравьях, с&#160;помощью которых достиг уважаемый юбиляр своего величия и&#160;значения! Не забудем, господа, и&#160;об актерах-строителях этого храма, руководителем и&#160;вдохновителем которых был юбиляр… За&#160;них поднимая я&#160;свой бокал! Господа! За&#160;здравие актеров!
+</p><p>И&#160;снова зазвенела тарелка, о&#160;которую неистово колотили черенком ножа.
+</p><p>— Господа! — сказал третий оратор. — Сейчас здесь мой многоуважаемый оппонент говорил об&#160;актерах, назвав их строителями храма, рабочими, если так можно выразиться, подрядчиком которых, вдохновителем которых был юбиляр. Нет, господа! Настоящим вдохновителем и&#160;творцом всего является режиссер — гениальный полководец этой разнокалиберной армии, и&#160;за него я&#160;поднимаю свой бокал! А&#160;юбиляр — это просто большая финансовая сила, которая сумела организовать коммерческую сторону предприятия… Итак, за&#160;здоровье режиссера! Ура!!
+</p><p>Восторженное ура прокатилось по&#160;комнате.
+</p><p>И&#160;четвертый оратор тоже встал и&#160;скромно начал:
+</p><p>— Здесь говорили об&#160;уважаемом юбиляре, как&#160;об организаторе деловой, коммерческой стороны предприятия. Откуда оратор это взял? Позвольте мне, господа, поднять бокал за&#160;истинную вдохновительницу и&#160;доброго гения коммерческой части нашего театра — купеческую вдову, Агнию Стечкину, которая, к&#160;сожалению, сейчас доведена болезнью до&#160;печального пребывания в&#160;доме для&#160;умалишенных. Ура!
+</p><p>Все выпили и&#160;потом притихли, так как&#160;встал следующий оратор:
+</p><p>— Здесь говорили о&#160;болезни многоуважаемой купеческой вдовы Стечкиной, о&#160;болезни, которая довела последнюю до&#160;сумасшедшего дома. Так… Болезнь довела ее до&#160;сумасшедшего дома, а&#160;кто, или&#160;что довело ее до&#160;болезни? Не то-ли&#160;предприятие, организатора которого мы&#160;здесь чествуем? И&#160;я&#160;считаю своим долгом выпить за&#160;то, чтобы наступили те светлые времена, при&#160;которых подобные вещи казались чудовищными, а&#160;не собирали&#160;бы&#160;здесь толпу людей, инертно любующихся на&#160;развал искусства… Да&#160;здравствует будущее, когда все антрепренеры из&#160;волков превратятся в&#160;овец!
+</p><p>Гром аплодисментов не&#160;помешал сказать следующему оратору:
+</p><p>— Здесь говорили сейчас о&#160;каком-то&#160;золотом веке, веке добрых антрепренеров… Жалкий оптимистический бред! Нет! Долго еше не&#160;выведутся эти грабители, эти канальи! Конечно, о&#160;присутствующих не&#160;говорим, но&#160;самое лучшее, господа, выпьем — и&#160;молчок! Черт с&#160;ним! Ура!
+</p><p>— Предыдущий оратор, — сказал следующий оратор, — сказал фразу: «о&#160;присутствующих не&#160;говорим»… Да&#160;почему? Вот, я, например, имею мужество сказать в&#160;лицо юбиляру: куда вы дели залоги театральных служащих? Почему второй актер Беззубов пытался отравиться и&#160;не отравился только потому, что&#160;у него не&#160;было денег — ты ему не&#160;заплатил ни&#160;копейки! Почему бездарная лошадь Паникадилова играет первые роли? Почему я&#160;с тебя уже три месяца не&#160;могу получить пятьдесят рублей? Тебе кричали ура? Нет, брат, нужно кричать «караул!»
+</p><p>Следующий и&#160;последний оратор сказал очень кратко:
+</p><p>— Да&#160;разве с&#160;ним словами можно? Намять ему бока, чтобы знал… Сеня, ты сидишь ближе к&#160;нему — дай-ка ему, как&#160;следует!
+</p><p>Сеня, пошатываясь, встал, — и&#160;чествование юбиляра затянулось далеко за&#160;полночь…
+</p>
+<center>ГЛУХАЯ ИСПОВЕДЬ</center>
+<p>Неизвестный старик шел в&#160;сумерки по&#160;улице, прихрамывая и&#160;нюхая воздух своим длинным острым лисьим носом.
+</p><p>Неизвестный старик повернул в&#160;переулок, вошел в&#160;ворота большого дома, поднялся по&#160;широкой лестнице на&#160;четвертый этаж и&#160;постучал в&#160;дверь.
+</p><p>— Эй, племянник, ежовая голова… Отопри-ка!
+</p><p>Он&#160;дернул дверную ручку и&#160;дверь распахнулась.
+</p><p>— Ишь, ты… Не запираетесь. Как&#160;будто, нарочно гостей ждете. Эй, племянничек! Будет тебе дуться. Ты&#160;бы&#160;встретил своего престарелого родственника.
+</p><p>Он&#160;вошел в&#160;комнату и&#160;огляделся. На&#160;широком диване лежала лицом к&#160;стене какая-то&#160;фигура, которая даже не&#160;обернулась при&#160;появлении старика.
+</p><p>— Ведь, не&#160;спишь&#160;же, — хрипло рассмеялся старик, — чего там притворяешься? Я&#160;бы&#160;имел больше права на&#160;тебя дуться — подумай-ка: ты не&#160;ответил на&#160;два моих письма! Что&#160;это — у&#160;тебя новый ковер? Поздравляю.
+</p><p>Племянник промолчал. Дядя прошелся по&#160;комнате, потыкал пальцем землю в&#160;цветочном горшке и&#160;сел.
+</p><p>— Сердишься? Все еще сердишься?
+</p><p>Племянник ничего не&#160;ответил.
+</p><p>— Что&#160;это за&#160;моду ты выдумал — укрываться пальто с&#160;головой — ведь, жарко.
+</p><p>Тиканье будильника было ему ответом.
+</p><p>Старик ударил себя по&#160;коленке и&#160;энергично сказал:
+</p><p>— Я&#160;ведь знаю, за&#160;что ты сердишься и&#160;презираешь своего добряка дядю… За&#160;историю с&#160;Анфисой! Да? Угадал ведь? Мне только интересно — откуда ты узнал? А&#160;людишки что&#160;передадут, то&#160;и переврут. А&#160;по-моему, все это не&#160;так уж и&#160;страшно… Ну, зашел я&#160;ночью в&#160;ее комнату, ну, хотел ее поцеловать — эка важность. Простая горняшечка. Да, ведь, и&#160;не обидел&#160;бы&#160;я ее, в&#160;случае чего. Мы-то&#160;старые люди щедрее вас молодых… Что&#160;в&#160;ней, в&#160;сущности, особенного? А&#160;я&#160;ей обещал подарить костяную коробочку для&#160;булавок и&#160;десять целковых наличными… Что? Ты, кажется, что-то&#160;ворчишь? Нет? Хоть&#160;бы&#160;ты словечко мне сказал, дерево ты бесчувственное!
+</p><p>Старик снова потыкал пальцем землю в&#160;цветочном горшке и&#160;вздохнул.
+</p><p>— Ты б поливал чаще. Сухо… Гм… Значит, ты, я&#160;вижу, не&#160;за Анфису сердишься, а&#160;за что-то&#160;другое… Очень я&#160;подозреваю, что&#160;к тебе в&#160;последнее время завертывал проклятый Егорка. Когда выгонял его — чувствовало мое сердце, что&#160;побежит он&#160;к тебе жаловаться. Эх, ты! Вместо того, чтобы дуться — ты&#160;бы&#160;лучше постиг душу своего дяденьки. Легко мне это было? Легко, когда Анфиска прямо в&#160;глаза мне заявляет, что&#160;я для&#160;нее ничто, а&#160;письмоводитель мой Егорка для&#160;нее все! Должен был я&#160;выгнать Егорку или&#160;нет? По-моему, — должен.
+</p><p>Старик поджал печально губы и&#160;потом, озаренный какой-то&#160;мыслью, внезапно вскрикнул:
+</p><p>— Эге! Да&#160;ты не&#160;потому&#160;ли&#160;так освирепел на&#160;меня, что&#160;у Егорки в&#160;сундучке мои золотые часы нашли? Так, ведь я&#160;ж его под&#160;суд не&#160;отдавал. Только предлог выискал, чтобы выгнать эту гадину. Иначе, сам посуди, за&#160;что? Не могу&#160;же я&#160;ему сказать — хе-хе, — что&#160;сам не&#160;прочь приволокнуться за&#160;Анфиской. Еще&#160;бы&#160;ты мог негодовать не&#160;меня, если&#160;бы&#160;я взломал Егоркин сундук, да&#160;и сунул туда часы. А, ведь, сундучок-то&#160;его был открыт… Я&#160;даже замка не&#160;портил… Ну, что&#160;же ваше королевское величество? Смените свой гнев на&#160;милость?
+</p><p>— Тик-так, тик-так, — ответили часы.
+</p><p>— А&#160;за&#160;Егорку будь спокоен — я&#160;его облагодетельствую. Я&#160;ему местечко тут нашел у&#160;приятеля в&#160;страховой конторе. Правда, вакансии у&#160;него нет, да&#160;я, брат, тут целый планчик соорудил… У&#160;этого приятеля служит девица в&#160;машинистках — рожа, ни&#160;на какую постройку негодная. На&#160;какую&#160;же штуку я&#160;пускаюсь? Иду я, братец ты мой, к&#160;приятелю этому и&#160;рассказываю, будто&#160;бы&#160;его машинистка в&#160;одном обществе говорила, что&#160;его контора мошеннические полисы выдает. Озверел он, как&#160;черкес. Я, говорит, ее без&#160;объяснения причин в&#160;двадцать четыре часа уволю. Ладно, думаю, вот оно и&#160;хорошо: от&#160;Егорки я&#160;избавлюсь и&#160;место ему нахожу, чтобы он&#160;у меня вдруг да&#160;опекунского отчета не&#160;потребовал. Ты, ведь, знаешь, я&#160;его опекун.
+</p><p>Племянник молчал, будто воды в&#160;рот набрал.
+</p><p>— Да, брат, опекун. Ты, впрочем, может быть, на&#160;то и&#160;сердишься, что&#160;я его денежки пустил по&#160;широкой дорожке? Какая собака могла это принести тебе на&#160;хвосте? До&#160;этого, брат, никому дела нет пока, потому что&#160;Егорка еще несовершеннолетний…
+</p><p>Вдруг старик беспокойно завозился в&#160;кресле, поглядывая на&#160;молчаливую фигуру злобно настроенного племянника.
+</p><p>— Послушай! Ты, может быть, оттого и&#160;злишься, что&#160;узнал историю с&#160;Егоркиной метрикой?.. Миленький мой! Да&#160;кто теряет, — тем более, Егорка — оттого, что&#160;он двадцатичетырехлетний балбес по&#160;документам числится восемнадцатилетним. Экая важность! Да&#160;когда у&#160;меня будут деньги, я&#160;снова переделаю его метрику и&#160;паспорт и&#160;заткну ему глотку деньгами!
+</p><p>Старик скривил губы в&#160;плаксивую гримасу:
+</p><p>— Ах, как&#160;это все мне грустно! Уж вот, я&#160;тебе скажу так: если и&#160;грешить и&#160;делать неверные шаги, так для&#160;чего-нибудь, во&#160;имя каких-нибудь таких вещей… Ну, для&#160;детей, что&#160;ли, жены… А, ведь, от&#160;бедности и&#160;жену свою в&#160;гроб вогнал. Помнишь тетю Катю? Ты еще ее любимцем был. Гм… Не пронюхал&#160;ли&#160;ты, мой милый, старинную историю с&#160;ее родильной горячкой? Я&#160;тогда этой проклятой акушерке заткнул глотку красненькой, чтобы молчала, а&#160;она, гляди, и&#160;разболтала. Ну, положим, я&#160;и не&#160;знал, что&#160;в это время бабье бою не&#160;переносит — легонечко потрепал ее, а&#160;она и&#160;того… «Иде&#160;же, как&#160;говорится, несть ни&#160;печали, ни&#160;всякого другого». Охо-хо…
+</p><p>Старик встал и&#160;долго ходил по&#160;комнате, поглядывая на&#160;племянника, похлопывая рукой по&#160;обоям и&#160;насвистывая беззубым ртом какой-то&#160;марш.
+</p><p>— Черт тебя знает… Не пойму я. Не приходил&#160;ли&#160;к тебе случайно мальчишка, лет этак шестнадцати и&#160;не рассказывал&#160;ли&#160;он тебе душераздирательной истории о&#160;гнусном отце, который в&#160;младенчестве оставил его, малютку в&#160;багажном отделении на&#160;станции Раздельной? Так я&#160;тебя обрадую: наполовину врет! Да-с… Я&#160;давно боялся, что&#160;этот пронырливый мальчишка выплывет, ибо он&#160;и тогда еще — двухлетним щенком — отличался самыми продувными свойствами. Врет он&#160;потому, что&#160;я не&#160;бросил его, а&#160;просто потерял. Потом спохватился, да&#160;где там! Поезд уже верст восемьсот отошел. Туда-сюда — ничего подобного. Вот, брат, как… Это уж верно, как&#160;по писаному…
+</p><p>Старина нерешительно кашлянул.
+</p><p>— Ну, что&#160;ж… Ты и&#160;сейчас не&#160;протянешь дядьке, своему старому дяденьке, руки примирения, как&#160;говорится в&#160;романах с&#160;политипажами в&#160;тексте. Хе-хе! Ну, племяш, будет. Это даже невежливо… Я&#160;тебе все, как&#160;на ладони, а&#160;ты, как&#160;рыба: ни&#160;адью, ни&#160;бонжур. Ну, вставай, что&#160;ли!!
+</p><p>Старик схватил племянника за&#160;плечо и&#160;в удивлении отскочил в&#160;сторону, потому что&#160;плечо в&#160;его руках смялось, как&#160;тряпка. Он&#160;взял племянника за&#160;рукав, но&#160;и в&#160;рукаве ничего не&#160;было. Он&#160;поднял лежавшее на&#160;диване пальто — под&#160;пальто никого не&#160;было. Диван был пуст и&#160;комната была пуста.
+</p><p>— Эх, эх, — укоризненно сказал старик. — Такой неряха… Вечно пальто на&#160;диван как&#160;попало бросит.
+</p><p>Неизвестный старик взял племянниково пальто, аккуратно повесил его на&#160;гвоздь и, хмыкнув носом, ушел… Вышел на&#160;лестницу, спустился вниз, вышел из&#160;ворот, зашагал по&#160;переулку, нюхая острым носом воздух, и&#160;пропал за&#160;углом, оставшись таким&#160;же загадочным, как&#160;и тогда, когда появился.
+</p>
+<center>ПРЕСТУПЛЕНИЕ НА БАРМАЛЕЕВОЙ УЛИЦЕ</center>
+<center>(Хроника)</center>
+<p>Это лето было какое-то&#160;особенное: жара была сильная, а&#160;общественная жизнь чрезвычайно слабая; мух было колоссальное количество, а&#160;газетной темы — ни&#160;одной.
+</p><p>И&#160;наша маленькая газетка «Чебоксарские Вести» в&#160;это лето влачила жалкое существование, что&#160;мы, сотрудники, глядя ее предсмертные конвульсии, плакали. Хитрые читатели почти не&#160;покупали «Чебоксарских Вестей», зная, что, кроме объявлений, статьи по&#160;албанскому вопросу и&#160;петербургских перепечаток «об&#160;оздоровлении города», они&#160;ничего в&#160;ней не&#160;найдут.
+</p><p>— Странно, что&#160;в городе нет убийств, — удивлялся издатель. — Взял&#160;бы&#160;кто-нибудь да&#160;убил&#160;бы&#160;кого-нибудь…
+</p><p>— За&#160;что? — спрашивает редактор.
+</p><p>— Да&#160;я&#160;не знаю. Тому виднее. Подлецы все! Не кровь течет в&#160;жилах, а&#160;вода. Опять&#160;же — корыстолюбия в&#160;них нет, желания присвоить что-нибудь, утащить что-нибудь у&#160;своего ближнего!
+</p><p>— Что&#160;вы такое говорите! — возмутился редактор.
+</p><p>— Да&#160;ей-Богу! Если&#160;бы&#160;они еще были благонравны из-за&#160;добродетелей, а&#160;то ведь так… из-за&#160;простой трусости. Слякотный народишка!
+</p><p>Такой разговор они&#160;вели пятого июля; а 6 июля случилось преступление на&#160;Бармалеевой улице.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r4837660">.mw-parser-output .hr-custom{height:1px;width:40em;margin-left:auto;margin-right:auto;margin-top:5ex;margin-bottom:5ex}</style><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Преступление состояло в&#160;следующем: в&#160;квартиру гимназического надзирателя Шаплюгина, воспользовавшись его отсутствием, забрался неизвестный злодей, взломал надзирателев комод и&#160;похитил надзирательские сбережения в&#160;сумме 140&#160;р., а&#160;также новый сюртук, сшитый портным Канцлером.
+</p><p>7-го числа «Вести» уже писали об&#160;этом:
+</p><p>«Преступление на&#160;Бармалеевой улице».
+</p><p>«Гнусное злодеяние, взволновало и&#160;возмутило все мыслящие общественные элементы»…
+</p><p>После подробного изложения события и&#160;описания первых шагов сыскной полиции, газета настойчиво спрашивала:
+</p><p>«Можем&#160;ли&#160;мы быть уверены, что&#160;подобные, леденящие кровь преступления не&#160;повторятся? Можем&#160;ли&#160;мы спокойно спать в&#160;то время, когда преступник, этот тигр в&#160;образе человека, это существо без&#160;жалости и&#160;милосердия в&#160;душе, может быть, в&#160;это&#160;же время под&#160;кровом ночи бродит, сжимая в&#160;руке окровавленный кровью несчастной жертвы нож и&#160;задумывая новое преступление?»
+</p><p>Конечно, никто не&#160;мог спокойно спать. И&#160;не&#160;спали.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Восьмого июля в&#160;городе только и&#160;было разговоров, что&#160;о преступлении на&#160;Бармалеевой улице, а&#160;газета того&#160;же числа писала:
+</p><p>Передовая статья:
+</p><p>— Дума 3-го созыва — работоспособная дума в&#160;кавычках — отдыхает на&#160;лоне природы, и&#160;до судеб страны ей такое&#160;же дело, как&#160;до прошлогоднего снега. Проект обязательного обучения народа лежит до&#160;сих пор под&#160;сукном, и&#160;несчастный народ, темный, неграмотный, не&#160;озаренный светом знания, дичает, звереет, опускаясь и&#160;падая иногда до&#160;грабежей и&#160;преступлений… Случай на&#160;Бармалеевой улице достаточно показывает, до&#160;чего может довести преступное промедление в&#160;рассмотрении законопроекта о&#160;всеобщем обучении.
+</p><p>Фельетон носил такое заглавие:
+</p><p>«Отцы города и&#160;преступление на&#160;Бармалеевой улице». — Свершилось! Как&#160;раз то, что&#160;мы предсказывали… Преступное равнодушие наших «гласных» (иначе, как&#160;в кавычках, этого слова нельзя поставить), отсутствие интереса у&#160;них к&#160;вопросу о&#160;ночных сторожах привели нас к&#160;тому, что&#160;теперь называется Цусимой… Да! На&#160;Бармалеевой улице гор. Дума имела новую Цусиму — все по&#160;причине той&#160;же прославленной русской лени, русского «авось» и&#160;русского «небось»… Ха-ха. Слово за&#160;вами, господа «гласные».
+</p><p>Что&#160;касается хроники «Вестей», то&#160;она прямо неистовствовала… Было описание улицы, места преступления, план дома, предполагаемый путь преступника (пунктиром), интервью с&#160;Шаплюгиным, — очень подробное и&#160;содержательное… Писал хроникер так:
+</p><p>— Вчера мы&#160;посетили жертву преступления на&#160;Бармалеевой улице. Несчастный чувствует себя очень удрученно и&#160;о грабителе говорит не&#160;иначе, как&#160;с чувством глубокого возмущения. Он&#160;даже заболел и, большею частью, лежит. Сообщают, что&#160;полиция уже напала на&#160;следы. Вчера допрашивали портного Канцлера, сделавшего Шаплюгину сюртук. Маленькая подробность: в&#160;момент совершения преступления потерпевший был с&#160;друзьями в&#160;трактире «Пекин».
+</p><p>9-го июля в&#160;передовой «Вестей» говорилось так:
+</p><p>«Как&#160;это ни&#160;печально, но&#160;весь наш бюджет зиждется на&#160;доходах от&#160;винной монополии, и&#160;правительство сознательно попустительствует злу пьянства, приводящего народ к&#160;несчастьям и&#160;разорению. Пусть преступление на&#160;Бармалеевой улице стоит перед&#160;министерством финансов живым укором! Если&#160;бы&#160;хозяин квартиры Шаплюгин не&#160;сидел в&#160;момент преступления в&#160;трактире с&#160;горячими напитками — „Пекин“, а&#160;сидел&#160;бы&#160;дома — преступления&#160;бы&#160;не случилось… Впрочем, что&#160;эти укоры министерству финансов?!..
+</p><p>И&#160;погромче нас были витии…»
+</p><p>Хроника сообщала, что&#160;жена Шаплюгина, узнав о&#160;трагическом преступлении, выезжает из&#160;Старой Руссы, где она гостила у&#160;сестры. Хроника приводила рассказ дворника и&#160;показания портного Канцлера. Хроника обещала, в&#160;виду сенсационности всего дела, поместить портрет пострадавшего и&#160;рисунок (от&#160;руки) дома, где произошло преступление. Хроника это сделала.
+</p><p>Во&#160;всем городе самым известным человеком считался теперь Шаплюгин. Им интересовались, некоторые восхищались его стойкостью и&#160;мужеством, некоторые завидовали, а&#160;большинство с&#160;лихорадочным интересом ожидало раскрытия преступления…
+</p><p>Город понемногу стал оживляться. В&#160;газете появились свежие объявления: портного Канцлера, трактира «Пекин» и&#160;какого-то&#160;слесарного мастера, предлагавшего обывателям делать замки такой прочности, которая не&#160;позволит никому вновь пережить «ужасы Бармалеевой улицы».
+</p><p>Уже приехала жена Шаплюгина… уже его выбрали в&#160;члены клуба, и&#160;незнакомые вежливо раскланивались с&#160;ним на&#160;улице… Уже была написана передовая о&#160;реформе полиции в&#160;связи с&#160;нераскрытием преступления на&#160;Бармалеевой улице, — а&#160;преступник все не&#160;обнаруживался.
+</p><p>Наконец, он&#160;обнаружился самым странным образом, самым простым образом: в&#160;трактир «Пекин» пришел заблудший бродячий дьяконов сын Геранька, и, так как&#160;на нем был надзирателев сюртук, и&#160;менял он&#160;надзирателеву сторублевку — его схватили. Он&#160;заплакал, стал на&#160;колени и&#160;поцеловал буфетчику руку.
+</p><p>Злодея связали и&#160;под конвоем громадной толпы повели в&#160;часть… Наэлектризованная громовыми статьями «Вестей», толпа эта едва не&#160;растерзала негодяя.
+</p><p>Хроникер «Вестей» навестил его в&#160;участке и&#160;даже беседовал с&#160;ним. Леденящие душу подробности сообщил он&#160;в газете.
+</p><p>Передовая была — «о&#160;реорганизации духовного ведомства в&#160;связи с&#160;причастностью сына священнослужителя к&#160;злодейству на&#160;Бармалеевой улице…»
+</p><p>Напечатано было стихотворение о&#160;страшном дьяконовом сыне, под&#160;заглавием:
+</p><p>— «Десница Божия».
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Весь август был целиком занят сенсационным преступлением на&#160;Бармалеевой улице, судом над&#160;преступником и&#160;приговором. (Передовая — реформа местного суда и&#160;недостатки министерства юстиции).
+</p><p>Часть сентября питалась слабыми отголосками преступления, описанием самочувствия заключенного злодея и&#160;чертами из&#160;жизни Шаплюгина…
+</p><p>А&#160;с&#160;октября месяца в&#160;нашей газете подуло свежим ветром, паруса бодро надулись и&#160;мы весело ринулись вперед на&#160;борьбу с&#160;реакцией. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+</p><p>Однажды дождливым ноябрьским днем, в&#160;редакции появился Шаплюгин… Мы, признаться, уже забыли о&#160;нем и&#160;были, поэтому, очень удивлены его визитом.
+</p><p>— Что&#160;вам угодно?
+</p><p>— Несчастье, — сказал он. — Такое, перед, которым бледнеет «преступление на&#160;Бармалеевой улице». Вот-то&#160;материалу вам, господа!
+</p><p>Мы&#160;сухо спросили:
+</p><p>— Да, в&#160;чем дело?
+</p><p>— Ночью к&#160;нам забрались трое мужчин в&#160;масках, связали нас и&#160;вынесли все, что&#160;можно было унести. У&#160;одного даже был револьвер. Жена ранена…
+</p><p>— Хорошо, — небрежно кивнул головой редактор. — Можете идти. Спасибо.
+</p><p>И&#160;на&#160;другой день в&#160;хронике появилось петитом:
+</p><p>— «Третьего дня трое неизвестных, войдя к&#160;гимназическому надзирателю Шаплюгину, произвели нападение и&#160;унесли кое-что&#160;из утвари. Дело ограничилось одним испугом, да&#160;мелкими царапинами, полученными женой Ш. К&#160;розыску приняты меры».
+</p>
+<center>КУХАРКА АКСИНЬЯ ДЕМИНА</center>
+<p>Многие люди солидного, преклонного возраста каким-то&#160;образом застревают на&#160;одном из&#160;ранних периодов своей жизни, и&#160;сидят на&#160;этом периоде до&#160;самой смерти…
+</p><p>У&#160;солидного господина есть борода, государственная служба, взрослые дети. Но&#160;он, как&#160;только выберет свободную минуту, — поймает свою комнатную собачку, привяжет к&#160;хвосту бумажку и, бегая за&#160;изумленным животным, испытывает самое искреннее, неподдельное веселье. Или&#160;он&#160;будет стараться закрутить свой серебряный портсигар на&#160;поверхности стола так искусно, чтобы портсигар вертелся минуты две. Если ему это не&#160;удается — он&#160;нервничает, волнуется, а&#160;при удаче — рад безмерно и&#160;искренно.
+</p><p>Этот человек застрял на&#160;восьми годах от&#160;роду.
+</p><p>Однажды, когда я&#160;был в&#160;этом возрасте — меня впервые взяли в&#160;цирк. Я&#160;сидел рядом с&#160;сестрой, десятилетней нервной девочкой, уже смотревшей раз эту цирковую программу.
+</p><p>Когда кончался какой-нибудь номер, она поворачивалась ко&#160;мне и&#160;порывисто шептала:
+</p><p>— Сейчас выедет такой, на&#160;белой лошади. Через&#160;ленты будет прыгать. А&#160;рыжий клоун будет хватать лошадь за&#160;хвост и&#160;бегать за&#160;ней.
+</p><p>И&#160;я, действительно, через&#160;минуту видел и&#160;белую лошадь, и&#160;рыжего клоуна.
+</p><p>И&#160;все мое удовольствие тонуло в&#160;целом море зависти к&#160;сестре, в&#160;страстном желании видеть все происходившее не&#160;в первый, а&#160;во второй раз и, так&#160;же, как&#160;и сестра, объяснять кому-нибудь:
+</p><p>— Сейчас будет ходить по&#160;проволоке.
+</p><p>Лучшим человеческим наслаждением мне казалась именно эта осведомленность, эта возможность во&#160;всякий момент сообщить соседу:
+</p><p>— А&#160;сейчас один будет ломаться на&#160;трапеции.
+</p><p>Весь тот вечер сестра казалась мне высшим существом. Теперь мне тридцать лет.
+</p><p>Когда я&#160;сижу в&#160;театре на&#160;втором представлении новой пьесы, я&#160;шепчу соседу:
+</p><p>— Сейчас героиня будет писать любовнику письмо и&#160;в это время неожиданно войдет граф.
+</p><p>Я&#160;ловлю себя на&#160;том превосходстве, с&#160;которым сообщаю соседу это сведение, и — холодею:
+</p><p>— Неужели мне 8&#160;лет?!..
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Безработная кухарка Аксинья Демина была существом угрюмым, нелюдимым и, казалось, с&#160;момента своего рождения смотрела на&#160;весь мир, нахмурив раз навсегда жидкие бледные брови.
+</p><p>Когда она шла по&#160;улице, направляясь, по&#160;обыкновению, в&#160;рекомендательную контору — не&#160;было на&#160;свете женщины более необщительной, суровой, солидной, ушедшей в&#160;самое себя.
+</p><p>Снаружи казалось, что&#160;эта женщина изнемогает под&#160;бременем невыносимой солидности и&#160;положительности. Казалось, что&#160;ее угрюмые, неподвижные глаза заморозили&#160;бы&#160;своим тяжелым холодным взглядом каждого, кто попытался&#160;бы&#160;сделать что-нибудь, выходящее из&#160;рамок строгого делового отношения к&#160;жизни.
+</p><p>Но&#160;у&#160;Аксиньи Деминой под&#160;твердокаменной корой положительности — теплились свои стремления и&#160;идеалы, глупые, величиной с&#160;воробьиный нос, смешные и&#160;никому непонятные, но&#160;все&#160;же ее, Аксиньины, идеалы, из-за&#160;которых она бедствовала, ужасающе голодала и&#160;хронически бродила без&#160;места.
+</p><p>У&#160;кухарки не&#160;может быть такого&#160;же идеала, как&#160;у Наполеона или&#160;Байрона. Аксинья имела самый мелкий и&#160;низменный идеал:
+</p><p>— Поразить.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Сидя скромно в&#160;уголку рекомендательной конторы, Аксинья терпеливо выжидала своей счастливой минуты и&#160;вся дрожала от&#160;внутреннего, грудного смеха, загнанного туда раз навсегда.
+</p><p>Из&#160;всей ожидающей ангажемента прислуги — она была самой жалкой, обтрепанной, с&#160;самым серым, невеселым лицом, — но&#160;это-то&#160;и придавало пикантности тому, что&#160;она считала приятным долгом проделывать почти каждый день.
+</p><p>Приходили барыни, с&#160;брезгливо выдвинутой нижней губой, и&#160;пытливым взором выискивали себе будущую «за&#160;повара», «полубелых» и&#160;со стиркой. Все барыни были непоколебимо убеждены, что&#160;ряд женщин, стоявших перед&#160;ними — закоренелые воровки, развратницы и&#160;сообщницы убийц. Все искусство выбора, значит, заключалось в&#160;том, чтобы выбрать наименее корыстолюбивую воровку и, если убийцу, то&#160;такую, которая из-за&#160;пустяков на&#160;преступление не&#160;пойдет.
+</p><p>А&#160;выбираемые женщины хранили в&#160;душе стойкое убеждение, что&#160;барыня пришла нанимать прислугу не&#160;для какой-либо надобности, а&#160;просто, чтобы сжить лишнего человека со света, вогнать в&#160;гроб, отравить капризами жизнь и, в&#160;конце концов, погубить ни&#160;в чем неповинную «за&#160;повара» или «полубелую»…
+</p><p>Осмотрев всех «полубелых» и&#160;найдя их наглыми грязнухами, барыня неосторожно приближалась к&#160;Аксинье Деминой.
+</p><p>— А&#160;ты, голубушка… Умеешь готовить?
+</p><p>Аксинья равнодушно смотрит на&#160;барыню.
+</p><p>— Да&#160;чего ж его не&#160;готовить? Конечно ж готовлю.
+</p><p>— Что&#160;ж ты готовишь?
+</p><p>Аксинья на&#160;секунду медлила и, вдруг, неожиданно, забрасывала барыню самыми причудливыми блюдами, которые она измыслила во&#160;время долгих часов ожидания:
+</p><p>— Плюмажи, разные лампасе, загибалы соусные — мало&#160;ли!
+</p><p>Ошеломленная барыня качала одобрительно головой и&#160;спрашивала:
+</p><p>— А&#160;сколько ж ты хочешь в&#160;месяц?
+</p><p>И&#160;здесь в&#160;груди Аксиньи снова зарождался внутренний, далеко запрятанный, счастливый смех — это была долгожданная минута!
+</p><p>Аксинья равнодушно смотрела в&#160;угол и, делая вид, что&#160;занята какими-то&#160;расчетами, апатично говорила:
+</p><p>— Сколько&#160;же вам положить?.. Сорок рублей в&#160;месяц.
+</p><p>Изумленная барыня отшатывалась от&#160;Аксиньи, а&#160;она крутила концы дряхлого платка и&#160;стояла наружно спокойная, безмятежная.
+</p><p>— Сорок рублей положите — настоящая цена.
+</p><p>— Да&#160;ты в&#160;уме?
+</p><p>— А&#160;чего ж нам! В&#160;уме. Нам из&#160;ума выйти — последнюющее дело.
+</p><p>Барыня, ругаясь, отходила к&#160;другим женщинам, а&#160;Аксинья, безмерно счастливая, возвращалась на&#160;свое место.
+</p><p>Знающие ее, подсмеивались над&#160;этой глупой бесшабашной старухой, а&#160;она сидела, значительно поджав губы, серьезная, жалкая в&#160;своей солидности…
+</p><p>Что&#160;она делала вне своей рекомендательной конторы? Как&#160;она бедствовала, сидя месяцами без&#160;места, голодная, сурово-непреклонная, нося в&#160;груди дрожащий смех и&#160;нелепое сладострастное стремление:
+</p><p>— Оглушить.
+</p><p>Какое дитя сидело в&#160;этой странной закоренелой старухе?
+</p><p>Однажды в&#160;контору пришла маленькая очень молодая дама под&#160;руку с&#160;мужем.
+</p><p>Она с&#160;любопытством осматривалась, как&#160;птичка, из-под&#160;полей громадной черной шляпы, прижималась к&#160;руке мужа, и&#160;всем своим видом показывала, что&#160;она замужем уже не&#160;менее трех дней, что&#160;ее все смешит и&#160;что жизнь она изучила с&#160;добросовестностью и&#160;тщанием годовалого младенца.
+</p><p>Дама эта указала рукой на&#160;Аксинью и&#160;шепнула мужу:
+</p><p>— Какая смешная… Как&#160;будто, из&#160;папье-маше. Наймем ее.
+</p><p>— Куропатка ты моя, — возразил муж. — Кухарок нанимают, насколько я&#160;знаю, вовсе не&#160;по той причине, что&#160;они смешные. И&#160;потом у&#160;нее лицо, как&#160;у каменной бабы…
+</p><p>— Ну. Наймем ее, Костя… Я&#160;же прошу тебя!
+</p><p>Из-под&#160;шляпы на&#160;него смотрели два молящих глаза. Муж засмеялся.
+</p><p>— Ну, иди, нанимай.
+</p><p>Дама подошла и&#160;поклонилась Аксинье.
+</p><p>— Здравствуйте, сударыня.
+</p><p>— Здравствуйте, — сказала, вздыхая, Аксинья.
+</p><p>Они&#160;стояли одна против другой и, молча, смотрели друг на&#160;друга.
+</p><p>— Вы… простите меня за&#160;нескромный вопрос… кухарка?
+</p><p>— Она, — отвечала Аксинья. — Могу готовить разное супе, загибалы, пирожные…
+</p><p>— Какие странные блюда, — удивилась дама. — А&#160;сколько вы хотите в&#160;месяц?
+</p><p>Барыня произвела на&#160;Аксинью благоприятное впечатление. Подумав, Аксинья ответила:
+</p><p>— Тридцать пять рублей!
+</p><p>Зная, что&#160;настоящие хозяйки торгуются, барыня сморщила нос и&#160;предложила:
+</p><p>— Возьмите тридцать.
+</p><p>Аксинья вздрогнула, но&#160;сдержала крик изумления и&#160;уверенно сказала:
+</p><p>— Самая низменная цена: тридцать пять рублей.
+</p><p>— Ну, хорошо, — согласилась барыня. — Служите у&#160;нас.
+</p><p>Она задумалась и&#160;потом сделала то, что&#160;считала первым и&#160;необходимым условием всякой сделки:
+</p><p>— Вот вам тогда задаток. Десять рублей.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>На&#160;новом месте Аксинья ходила смущенная, растерянная, забыв закрыть изумленный рот, который грозил так и&#160;остаться в&#160;этом неудобном положении.
+</p><p>В&#160;первое утро она решила раз навсегда «оглушить» молодую барыню бешеными ценами на&#160;припасы и, явившись к&#160;ней, заявила:
+</p><p>— Денег дайте на&#160;рынок. Пятнадцать рублей. Маловато, да&#160;и готовить-то&#160;ведь на&#160;троих… Картофелю куплю — по&#160;полтине фунт, круп на&#160;трешницу, да&#160;мясо — дерут нынче за&#160;говяду по&#160;семи гривен — мяса еще куплю. Опять&#160;же зелень разная, пустерняк, лук-порей…
+</p><p>И&#160;она безнадежно замолчала.
+</p><p>— Сейчас, — засуетилась барыня. — Вот вам пятнадцать рублей. Ничего, что&#160;золотом? А&#160;вы соль и&#160;горчицу уже посчитали здесь? Может, не&#160;хватит.
+</p><p>Аксинья не&#160;ощутила в&#160;груди знакомого сладострастного дрожащего смеха…
+</p><p>Ни&#160;ошеломления, ни&#160;эффекта не&#160;было.
+</p><p>И&#160;почва заколебалась под&#160;ногами обескураженной кухарки.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>В&#160;тот&#160;же день, когда молодые супруги, сидя за&#160;обедом, уничтожали с&#160;аппетитом ее странную подозрительного вида стряпню, кухарка Аксинья вошла в&#160;столовую и&#160;остановилась у&#160;порога.
+</p><p>— Чего вы желаете, Аксинья? — вежливо спросила барыня. Аксинья заплакала.
+</p><p>— Невтерпеж мне! Какая я&#160;кухарка? Таких кухарок метлой нужно гнать из&#160;кухни. Тридцать пять рублей мне нужно давать? Три рубли много! Где ваши глаза-то&#160;были? Нешто такой обед пятнадцать целковых стоит? Рупь ему цена! Берите ваши деньги!.. Тоже нанима-ают… Ну вас!
+</p><p>Она положила на&#160;стол деньги и&#160;убежала.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>На&#160;другой день ее видели шагающей по&#160;улице по&#160;направлению рекомендательной конторы. Была она еще холоднее, сумрачнее и&#160;строже.
+</p><p>В&#160;конторе забилась в&#160;самый угол, а&#160;когда одна из&#160;барынь попыталась нанять ее, она, даже не&#160;думая, заявила:
+</p><p>— Семьсят пять!
+</p>
+<center>КОММЕНТАРИИ</center>
+<p>Сборник вышел впервые в&#160;Петербурге в 1911&#160;г.&#160;Все рассказы выпуска публиковались впервые.
+</p><p>В&#160;настоящем издании печатаются по&#160;данному выпуску.
+</p><p>Глухая исповедь.
+</p><p><i>…в&#160;романах с&#160;политипажами в&#160;тексте.</i> — Политипаж — отпечаток гравюры на&#160;дереве в&#160;тексте книги (от&#160;греч. <i>поли</i> — много и <i>типос</i> — отпечаток).
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐7b454bf66b‐52k6c
+Cached time: 20260216193000
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.106 seconds
+Real time usage: 0.175 seconds
+Preprocessor visited node count: 491/1000000
+Revision size: 59164/2097152 bytes
+Post‐expand include size: 11933/2097152 bytes
+Template argument size: 1257/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1776/5000000 bytes
+Lua time usage: 0.059/10.000 seconds
+Lua memory usage: 1612881/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  153.197      1 -total
+ 92.62%  141.890      1 Шаблон:Отексте
+  7.04%   10.787      8 Шаблон:---
+  0.97%    1.489      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:997460:|#|:idhash:canonical and timestamp 20260216193000 and revision id 5256306. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Дешевая_юмористическая_библиотека_«Сатирикона»._Выпуск_32_(Аверченко)&amp;oldid=5256306">https://ru.wikisource.org/w/index.php?title=Дешевая_юмористическая_библиотека_«Сатирикона»._Выпуск_32_(Аверченко)&amp;oldid=5256306</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B0_%D0%B8_%D1%8E%D0%BC%D0%BE%D1%80" title="Категория:Сатира и юмор">Сатира и юмор</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Категория:Аркадий Тимофеевич Аверченко">Аркадий Тимофеевич Аверченко</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1911_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1911 года">Литература 1911 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_100" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 21 февраля 2025 года в 16:20.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%94%D0%B5%D1%88%D0%B5%D0%B2%D0%B0%D1%8F_%D1%8E%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%C2%AB%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%C2%BB._%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA_32_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Дешевая юмористическая библиотека «Сатирикона». Выпуск 32 (Аверченко)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-f79556446-2ddw5","wgBackendResponseTime":131,"wgPageParseReport":{"limitreport":{"cputime":"0.106","walltime":"0.175","ppvisitednodes":{"value":491,"limit":1000000},"revisionsize":{"value":59164,"limit":2097152},"postexpandincludesize":{"value":11933,"limit":2097152},"templateargumentsize":{"value":1257,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1776,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  153.197      1 -total"," 92.62%  141.890      1 Шаблон:Отексте","  7.04%   10.787      8 Шаблон:---","  0.97%    1.489      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.059","limit":"10.000"},"limitreport-memusage":{"value":1612881,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Аркадий Тимофеевич Аверченко\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"Их праздник\u003Cbr\u003E\\\nГлухая исповедь\u003Cbr\u003EПреступление на Бармалеевой улице (Хроника)\u003Cbr\u003EКухарка Аксинья Демина\",\n    [\"published\"] = \"1911\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/a/awerchenko_a_t/text_1911_biblioteka_32.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Дешевая юмористическая библиотека \\\"Сатирикона\\\". Выпуск 32\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.codfw.main-7b454bf66b-52k6c","timestamp":"20260216193000","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

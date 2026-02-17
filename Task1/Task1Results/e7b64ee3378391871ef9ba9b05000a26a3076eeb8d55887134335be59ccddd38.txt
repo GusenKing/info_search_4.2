@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Очерки о старой Москве (Горбунов) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"8facb561-5b95-407e-9e54-eef98aa6d747","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Очерки_о_старой_Москве_(Горбунов)","wgTitle":"Очерки о старой Москве (Горбунов)","wgCurRevisionId":5276905,"wgRevisionId":5276905,"wgArticleId":1006293,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup","Импорт/lib.ru/Страницы с внутренними ссылками по анкорам","Импорт/lib.ru","Импорт/az.lib.ru/Иван Федорович Горбунов","Проза","Сборники рассказов","Иван Фёдорович Горбунов","Литература 1881 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Очерки_о_старой_Москве_(Горбунов)","wgRelevantArticleId":1006293,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5276905,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Очерки о старой Москве (Горбунов) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Очерки_о_старой_Москве_Горбунов rootpage-Очерки_о_старой_Москве_Горбунов skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8+%D0%BE+%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5+%28%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8+%D0%BE+%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5+%28%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8+%D0%BE+%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5+%28%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8+%D0%BE+%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5+%28%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Очерки_о_старой_Москве"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Очерки_о_старой_Москве">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Очерки о старой Москве</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Очерки_о_старой_Москве-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Иван_Горбунов"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Иван_Горбунов">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Иван Горбунов</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Иван_Горбунов-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Примечания"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Примечания">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Примечания</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Примечания-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Очерки о старой Москве (Горбунов)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8+%D0%BE+%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5+%28%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)&amp;oldid=5276905" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_%28%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%29&amp;id=5276905&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259E%25D1%2587%25D0%25B5%25D1%2580%25D0%25BA%25D0%25B8_%25D0%25BE_%25D1%2581%25D1%2582%25D0%25B0%25D1%2580%25D0%25BE%25D0%25B9_%25D0%259C%25D0%25BE%25D1%2581%25D0%25BA%25D0%25B2%25D0%25B5_%28%25D0%2593%25D0%25BE%25D1%2580%25D0%25B1%25D1%2583%25D0%25BD%25D0%25BE%25D0%25B2%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259E%25D1%2587%25D0%25B5%25D1%2580%25D0%25BA%25D0%25B8_%25D0%25BE_%25D1%2581%25D1%2582%25D0%25B0%25D1%2580%25D0%25BE%25D0%25B9_%25D0%259C%25D0%25BE%25D1%2581%25D0%25BA%25D0%25B2%25D0%25B5_%28%25D0%2593%25D0%25BE%25D1%2580%25D0%25B1%25D1%2583%25D0%25BD%25D0%25BE%25D0%25B2%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_%28%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_%28%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_%28%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_%28%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_%28%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_%28%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Очерки о старой Москве</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%98%D0%B2%D0%B0%D0%BD_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2" class="mw-redirect" title="Автор:Иван Федорович Горбунов">Иван Федорович Горбунов</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1881</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/g/gorbunow_i_f/text_0230.shtml">az.lib.ru</a></span> </td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%98%D0%B2%D0%B0%D0%BD_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2" class="mw-redirect" title="Автор:Иван Федорович Горбунов">Иван Федорович Горбунов</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<div class="mw-heading mw-heading3"><h3 id="Очерки_о_старой_Москве"><span id=".D0.9E.D1.87.D0.B5.D1.80.D0.BA.D0.B8_.D0.BE_.D1.81.D1.82.D0.B0.D1.80.D0.BE.D0.B9_.D0.9C.D0.BE.D1.81.D0.BA.D0.B2.D0.B5"></span>Очерки о&#160;старой Москве</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=1" title="Редактировать раздел «Очерки о старой Москве»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div>Актер Горбунов совершал многочисленные поездки по&#160;России. Он&#160;создал эстрадный жанр устного рассказа, породил многочисленных последователей, литературных и&#160;сценических двойников. В&#160;настоящее издание вошли избранные юмористические произведения знаменитого писателя XIX&#160;века Ивана Федоровича Горбунова.
+<p><i>Источник текста: И. Ф. Горбунов 'Юмористические рассказы и&#160;очерки'. М: Московский рабочий, 1962.<br /></i>
+</p>
+<hr />
+<ul><li><a href="#TOC_id20224355">Иван Горбунов</a>
+<ul><li><a href="#TOC_id20224377">Из&#160;московского захолустья</a>
+<ul><li><a href="#TOC_id20224421">I</a></li>
+<li><a href="#TOC_id20227411">II</a></li></ul></li>
+<li><a href="#TOC_id20232567">Из&#160;московского захолустья</a>
+<ul><li><a href="#TOC_id20232577">I. Иверские юристы</a></li>
+<li><a href="#TOC_id20234462">II. Широкие натуры</a></li></ul></li></ul></li></ul>
+<hr />
+<div class="mw-heading mw-heading3"><h3 id="Иван_Горбунов"><span id=".D0.98.D0.B2.D0.B0.D0.BD_.D0.93.D0.BE.D1.80.D0.B1.D1.83.D0.BD.D0.BE.D0.B2"></span>Иван Горбунов</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=2" title="Редактировать раздел «Иван Горбунов»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<center>=== Очерки о&#160;старой Москве ===</center>
+<p><span id="TOC&#95;id20224377"></span>
+</p>
+<center>=== Из&#160;московского захолустья<br /></center>
+<center>Рассказ<br /></center>
+<center> ===</center>
+<p><span id="TOC&#95;id20224421"></span>
+</p>
+<center>== I<br /></center>
+<center> ==</center>
+<p>Давно уж это было, в&#160;тридцатом году, в&#160;первую холеру. Тихо жили тогда в&#160;Москве. Вставали на&#160;восходе, ложились на&#160;закате. Движение было только в&#160;городе, да&#160;на больших улицах, и&#160;то не&#160;на всех, а&#160;в захолустьях, особенно в&#160;будни, целый день ни&#160;пешего, ни&#160;проезжего. Ворота заперты, окна закрыты, занавески спущены. Что-то&#160;таинственное представляло из&#160;себя захолустье. Огромная улица охранялась одним будочником. Днем он&#160;сидел на&#160;пороге своей будки, тер табак, а&#160;ночью постукивал в&#160;чугунную доску и&#160;по временам кричал во&#160;всю глотку на&#160;всю улицу: 'По-сма-три-вай!..' Хотя некому было посматривать и&#160;не на&#160;что: пусто и&#160;темно, только купеческие псы заливались, раздражаемые его криком. Полагалось четыре фонаря на&#160;всю улицу, и&#160;те освещали только собственный свой столб, на&#160;котором были утверждены. — Если ты так кричать будешь, я&#160;к квартальному пойду… Всю ночь спать не&#160;даешь! — замечал купец будочнику. — Приказано, — отвечал будочник, — чтобы как&#160;можно кричать. Мало&#160;ли&#160;тут непутевого народу? — В&#160;нашей-то&#160;стороне?! — Бывает. Намедни тут днем у&#160;калачника тесто украли. — Поймали? — Где поймать — ушел! — Что&#160;ж ты криком-то&#160;испугаешь его, что&#160;ли? — Все-таки опаска ему есть… — Какая&#160;же ему опаска: ты кричишь 'посматривай', а&#160;в переулке кричат 'караул'. — Это не&#160;у нас: в&#160;тупичке извозчика грабили. Два часа голый у&#160;меня в&#160;будке сидел. Был в&#160;захолустье дом, очень красивый, старинной архитектуры, с&#160;колоннами; он&#160;стоял пустой, заколоченный. Ходила молва, что&#160;в нем обитает нечистая сила. Один купец видел ее собственными глазами. Этому верили все — и&#160;Немецкая слобода, и&#160;Замоскворечье, и&#160;Сыромятники. Горело захолустье очень часто. Эпохи его считались от&#160;пожаров. — Это еще до&#160;большого пожара было. Или: — Это еще, когда Балкан не&#160;горел. Ни&#160;врачей, ни&#160;аптек в&#160;то время ни&#160;в захолустье, ни&#160;близко в&#160;окружности не&#160;полагалось, да&#160;и незачем было. 'Все под&#160;богом', — говорили обыватели. В&#160;самых крайних случаях, и&#160;то к&#160;очень богатым людям, приглашался штаб-лекарь Воскресенский. Болящие прибегали или&#160;к своим средствам — череде, бузине, бобковой мази, разным ладанкам с&#160;наговором, или&#160;обращались к&#160;капитанше Мирзоевой — от&#160;золотухи и&#160;от ушибов лечила; к&#160;сапожнику Разумову — от&#160;лихорадки пользовал и&#160;от килы знал лекарство; к&#160;банщику Ильичу — накожные сыпи понимал; к&#160;цирюльнику Ефиму Филиппову — отворял кровь 'заграничным инструментом' и&#160;помогал от&#160;запоя, 'пьяного червяка' замаривал. На&#160;вывеске у&#160;него значилось: '<i>С&#160;дозволения правительства медицинской конторы, заседания г-д врачей, в&#160;сем зале отворяют кровь заграничным инструментом пиявочную, баночную и&#160;жильную, прическа невест, бандо, стрижка волос, завивка и&#160;бритье и&#160;прочие принадлежности мужского туалета, по&#160;желанию на&#160;дом, по&#160;соглашению. Экзаменованный фельдшерный мастер Ефим Филиппов и&#160;дергает зубы'.</i> Жила в&#160;захолустье в&#160;собственном доме привилегированная повивальная бабка Юлия Янсон, но&#160;к помощи ее никто не&#160;обращался, и&#160;вывеска у&#160;ней болталась для&#160;собственного удовольствия. За&#160;воротами дома так&#160;же тихо и&#160;однообразно, как&#160;на улице. Чисто выметенный двор, до&#160;того огромный, что&#160;на нем можно выстроить свободно эскадрон кавалерии. Большой сад, в&#160;нем рдеют пионы, прозябает калуфер,<a href="#n_1"><sup>[1]</sup></a> божье дерево, цветут бархатцы, шапочки, анютины глазки; десятка два яблонь белого налива, несколько кустов крыжовника и&#160;смородины. В&#160;доме необыкновенная чистота, то&#160;есть в&#160;тех комнатах, где не&#160;живут хозяева, а&#160;принимают гостей. Мебель тяжелая, красного дерева: в&#160;углу, в&#160;больших раззолоченных киотах божье милосердие; на&#160;стене часы с&#160;боем; на&#160;окошке канарейка в&#160;клетке. Вот и&#160;все украшение комнаты. Тишина… Установленный издревле порядок никогда не&#160;нарушался. Как&#160;в&#160;прошлом году на&#160;святках ставили мелом на&#160;дверях кресты, так и&#160;в этом году будут ставить; как&#160;в прошлом году 9 марта пекли из&#160;теста жаворонков, так и&#160;в этом будут печь их. Я&#160;сказал, что&#160;в редких случаях в&#160;захолустье появлялся доктор. Эти случаи бывали обыкновенно после масленицы. Въезжала широкая масленица в&#160;купеческий дом
+</p>
+<blockquote><p>С&#160;пирогами, с&#160;оладьями,<br />
+</p><p>С&#160;блинами, с&#160;орехами.<br />
+<br />
+</p>
+</blockquote>
+<p>За&#160;неделю до&#160;ее прихода в&#160;семье устанавливался порядок встречи ее и&#160;проводов. С&#160;которого дня приступить к&#160;блинам — вопрос был важный; решался он&#160;на семейном совете и&#160;утверждался самим хозяином. — Ну, с&#160;понедельника, так с&#160;понедельника, пущай так, — говорил он. — А&#160;оладьи с&#160;четверга, — предлагала хозяйка. — А&#160;то&#160;кухаркам не&#160;управиться, — замечала бабушка. — Ну, с&#160;четверга, — соглашался хозяин. — А&#160;лещи каждый день пойдут. — Само собой, что&#160;их жалеть-то… В&#160;понедельник, рано утром, по&#160;всему дому распространяется блинный запах. Коты замурлыкали, даже в&#160;щелях тараканы зашевелились. Шарик давно уж сидит на&#160;кухне, облизывается и&#160;поглядывает на&#160;кухарок. — Блинов, старый черт, дожидаешься! — говорит ему дворник. Шарик ласково бросается к&#160;нему на&#160;шею. — Только я&#160;посмотрю, как&#160;ты опосля лаять будешь, Я&#160;то&#160;опять я&#160;тебя на&#160;постную пищу. Лица у&#160;кухарок от&#160;жара кажутся обтянутыми красным сафьяном. Стол накрыт. Выходят хозяева; ведут под&#160;руки разбитого параличом дедушку, который только три раза в&#160;год появляется в&#160;обществе, а&#160;остальное время комнаты своей не&#160;покидает; входит дальняя родственница Дарья Гавриловна, в&#160;молодости имевшая роман с&#160;секретарем магистрата, который пропил все ее состояние и 'на&#160;всю жизнь оставил только одну меланхолию'. 'Бедная я&#160;женщина, — говорит она, — но&#160;во мне столько благородства, хотя и&#160;купеческого, что&#160;я никому не&#160;позволю'. За&#160;ней следует еще родственница Марфа Степановна; постоянное выражение ее лица такое, точно она просит милостыню; шествие замыкают купеческий племянник Кирюша, с&#160;отдутловатой физиономией, мужчина лет пятидесяти; наконец, Анна Герасимовна, пожилая, бойкая купеческая вдова, имеющая в&#160;захолустье дом с&#160;большим старинным садом. Сад этот она весь изрыла и&#160;ископала, отыскивая клад, зарытый кем-то&#160;в 1812&#160;году. Свернувши блин в&#160;трубку и&#160;обмакивая его в&#160;сметану — 'в&#160;радости дождамшись', говорит хозяин. Лица всех просияли. Дедушка хотел было выразить удовольствие улыбкой, но&#160;мускулы лица его не&#160;действовали, и&#160;он только пошевелил левой рукой. Марфа Степановна, взявши первый блин, прослезилась и&#160;глубоко вздохнула. Сын Семушка взвизгнул. Дедушка левой рукой подбрасывал блин и&#160;хватал его на&#160;лету, наподобие собаки, ловящей муху. Полное молчание. Семушка сбился со счета. — Манька, я&#160;забыл, сколько съел. — Грех, батюшка, считать-то, — заметила ему бабушка, — кушай так, во&#160;славу божью. Глаза начинают суживаться; лица у&#160;всех сделались влажными, утомленными. К&#160;последней партии блинов с&#160;семгой никто не&#160;касается. — Дай бог доброго здоровья, — начал Кирюша, вставая из-за&#160;стола. — А&#160;ты&#160;бы&#160;еще ел. — Много довольны… не&#160;могу! — Что&#160;ты, Кирюша, поделываешь? — обратилась к&#160;нему Анна Герасимовна. Кирюша глупо улыбнулся. — Ничего! — Я&#160;тебе говорила — женись. — Жениться… по&#160;нынешним временам… — Ну, торговлю&#160;бы&#160;открыл… — Торговать тоже… по&#160;нынешним временам… — Куда ж теперь пойдешь? — Туда… — Куда? — К&#160;тетеньке Василисе на&#160;Зацепу спать пойду. — Ты у&#160;ней живешь-то? — Нет. — А&#160;где&#160;же? — В&#160;монастыре… — Что&#160;ж ты, душу свою соблюсти хочешь? — вмешался хозяин. — Звоню. Колокол у&#160;нас большой, край только у&#160;него треснул… Шелапутиху хоронили, он&#160;и треснул… — Как&#160;же, братец ты мой, — продолжал хозяин, — купеческий ты племянник, на&#160;линии, можно сказать, почетного гражданина, а&#160;каким пустым делом занимаешься, не&#160;купеческим… Кирюша, уныло повесив голову, обтер рукавом скатившуюся слезу. — Тетенька Василиса из&#160;дому выгнала… Ступай, говорит, вон!.. Холодно было… Всю ночь ходил по&#160;Яузе… Из&#160;Андроньева монахи взяли… 'Звони', — говорят… Сапоги дали. Теперь в&#160;теплом соборе служат, а&#160;холодный который — заперт… Вчера отец казначей на&#160;Солянку за&#160;рыбой ездил… — Стало быть, вы там хорошо едите? — Монахи едят, — поспешно подхватил Кирюша, — мы&#160;звоним. Сегодня раннюю звонил… — Ну, ступай с&#160;богом! Не ближний тебе путь на&#160;Зацепу-то, — сказала хозяйка. Кирюша, положивши в&#160;рот указательный палец, робко обвел всех глазами и, тихо пробираясь по&#160;стенке, вышел из&#160;комнаты. Кухарка дала ему на&#160;дорогу пару лещей. — Прими Христа ради, — сказала она. Кирюша поклонился ей в&#160;ноги, промолвив: — Благодарим за&#160;неоставление. Первый блин, как&#160;говорится, комом. Целый день ходили все вялые. Коты не&#160;сходили с&#160;хозяйской постели. Ночь проведена беспокойно: хозяйка во&#160;сне вздрагивала, хозяин метался всю ночь, Семушка бился головой об&#160;стену и&#160;неистово кричал; Шарик, к&#160;величайшему огорчению дворника, всю ночь не&#160;лаял. 'Но&#160;уж только с&#160;завтрашнего числа я&#160;тебя лаять заставлю! Ты у&#160;меня на&#160;разные голоса лаять будешь, — думал дворник, перевертываясь с&#160;боку на&#160;бок, — теперь дело масленичное, двор у&#160;нас большой, улица глухая… Уж сам я&#160;за тебя лаять не&#160;буду'. В&#160;следующие затем дни желудки попривыкли и&#160;стали ладить.
+</p>
+<blockquote><p>С&#160;пирогами, с&#160;оладьями,<br />
+</p><p>С&#160;блинами, с&#160;орехами.<br />
+<br />
+</p>
+</blockquote>
+<p>Дворника все беспокоили лещи, которых куплено было очень много. — Как&#160;возможно такую силу лещей съесть, — говорил он&#160;кухарке, — никто не&#160;одолеет. Порешили, что, должно быть, в&#160;прощеный день<a href="#n_2"><sup>[2]</sup></a> раздадут нищим. — А&#160;вот у&#160;Гужонкина мастер агличанин, — замечал дворник, — весь пост будет скоромное есть. 'По&#160;нашей, говорит, вере все возможно'. Намедни ребята его спрашивают: 'Ужли, говорят, Личада Фомич, и&#160;на страшной у&#160;вас говядину едят?' — 'С&#160;великим, говорит, удовольствием'. Ведь они&#160;в петуха веруют. — В&#160;петуха?! — с&#160;удивлением воскликнула кухарка. — В&#160;петуха, верно тебе говорю, — окончил дворник. В&#160;чистый понедельник жирный блинный запах сменился чем-то&#160;кисло-удушливым, отвратительно действующим на&#160;обоняние. Резкий переход к&#160;постной пище сильно подействовал на&#160;бабушку. Она захворала. Прибегли к&#160;домашним средствам — не&#160;подействовало. Послали за&#160;Ефимом Филипповым, тот сразу чикнул старуху заграничным инструментом и&#160;выпустил ей фунт крови. Болезнь обострилась. Решили пригласить доктора. И&#160;вот вечером к&#160;воротам дома подъехала в&#160;парных санях необыкновенно толстая фигура, в&#160;медвежьей шубе, в&#160;четырехугольном картузе уланского покроя, с&#160;кисточкой. Это был штаб-лекарь Иван Алексеевич Воскресенский. Вера в&#160;него в&#160;захолустье была необычайная по&#160;двум причинам: во-первых, он&#160;имел право носить шпагу, а&#160;во-вторых, он&#160;одному умершему купцу всыпал в&#160;рот порошок, тот встал, подписал духовную и&#160;опять умер. — Ну, что&#160;тут у&#160;вас делается? — начал он, входя в&#160;переднюю. Хозяин бросился помогать ему снимать шубу. — Ни, ни, ни, — остановил его доктор, — всегда сам — и&#160;надеваю, и&#160;снимаю всегда сам. Сам себе хозяин, сам себе и&#160;слуга. Старушка у&#160;вас захворала. Вылечим. Телесного вы врача пригласили — значит, за&#160;душевным посылать еще рано. Посмотрим, — окончил он, вынимая из&#160;уха вату. — Кровь мы&#160;ей отворили, чтобы дрянь-то&#160;очистить, — робко сказал хозяин. — Хорошо. Крови жалеть не&#160;надо, материал недорогой. Максим Мудров говорит — крови не&#160;жалей. Доктора ввели в&#160;комнату, где лежала бабушка. — Вот она где, божья-то&#160;старушка, — начал он&#160;ласково. — Кровь, батюшка, отворяли, — едва внятным голосом произнесла старушка. — Что&#160;ж, тебе, матушка, жалко ее, что&#160;ли… — Да&#160;вот пособороваться хочу. — Рано. Я&#160;скажу, когда нужно. Вот мы&#160;узнаем, в&#160;чем дело, и&#160;выпишем из&#160;латинской кухни порошков целительных. Узнавши, в&#160;чем дело, доктор вышел из&#160;комнаты. В&#160;зале его ожидала толпа пациентов. Благо приехал, за&#160;одно уж всех лечить-то. Первой подошла Дарья Гавриловна. — У&#160;меня, — начала она, — господин доктор, по&#160;ночам под&#160;сердце подкатывает. Словно&#160;бы&#160;этакое забвение чувств и&#160;вдруг этак… даже сама не&#160;понимаю… Вдруг этак, знаете… даже удивительно! И&#160;так, знаете, вздрогнешь… Доктор, многодумно и&#160;терпеливо выслушав, назначил лавровишневые капли. Подвели дедушку. Он&#160;потрепал доктора по&#160;плечу левой рукой и&#160;промычал что-то&#160;непонятное. — Как&#160;тебя, Савелий Захарыч, ярманки-то&#160;уходили, — отнесся к&#160;нему ласково доктор. Дедушка хотел улыбнуться, но&#160;не вышло. — Он. батюшка, Иван Алексеевич, все слышит, все понимает, только господь у&#160;него слова все отнял, — вмешалась хозяйка, — и&#160;отчего это с&#160;ним? — Пил, матушка, много… ну, да&#160;и… — Насчет нашей сестры большой был проказник, — ввернула Анна Герасимовна. — Бывало, говорит мне: 'Ежели, Антоша, разлить теперь по&#160;бутылкам все, что&#160;я на&#160;своем веку выпил, — погребок открыть можно и&#160;торговать три года'. Дедушка покачал головой в&#160;знак согласия. Приказано в&#160;еде не&#160;отказывать. — Самому здоровенному плотнику не&#160;съесть столько, сколько наш дедушка обработает, — отозвалась кухарка, предъявляя обрезанный до&#160;кости палец. Прописана примочка. Силой притащили Семушку, у&#160;которого голова была развита непропорционально туловищу. Доктор побарабанил по&#160;ней пальцами, оттуда раздались звуки, как&#160;из спелого арбуза. Семушка заплакал. Лечения никакого не&#160;назначено. Хозяин спросил, на&#160;чем полезнее водку настаивать: на&#160;цап-цапарели или&#160;на милифоли? И&#160;то&#160;и другое одобрено. Прописавши рецепты и&#160;давши просто советы, доктор вышел и&#160;сел в&#160;сани. В&#160;воротах остановил его дворник: у&#160;него чесалось сердце и&#160;на левом плече вскочил веред. Приказано выпариться в&#160;бане, а&#160;на веред положить сапожного вару. Через&#160;неделю весь дом был здоров. Ни&#160;внутренней, ни&#160;внешней политикой захолустье не&#160;занималось и&#160;под словом 'политика' разумело учтивое обращение. 'Политичный человек', 'политикан', 'сейчас видно, что&#160;политик'. Жили все изо дня в&#160;день, день да&#160;ночь — сутки прочь, и&#160;не чаяли, что&#160;на Москву беда идет. Дни после сильных дождей стояли жаркие. Из&#160;Яузы, Самотеки и&#160;других московских источников смердело. По&#160;переулкам захолустья ходить было невозможно — грязь невылазная. Душно. Воскресный день. Еще до&#160;благовеста церковного на&#160;Серединке, у&#160;трактира 'Северный океан', стояли лоскутниковские певчие — сборная братия. Один бас безграмотный ходит с&#160;хором для&#160;октавы. Тенора одеты франтами, альты и&#160;дисканты гладко выстрижены. Басы <i>поправлялись</i> в&#160;трактире. — Без&#160;приготовки не&#160;выдержишь, — говорит один бас, закусывая мятным пряником. — Поворкуем, ничего, — ободрял его другой. — Я&#160;вчера у&#160;Спаса в&#160;Наливках апостол читал за&#160;ранней да&#160;вечером на&#160;свадьбе, а&#160;ничего. Ударили в&#160;колокол. Улица начинает оживляться. Разряженные обыватели идут к&#160;обедне. Вот богатейший купец Рожнов идет с&#160;своей семьей: три дочери и&#160;два сына. От&#160;дочерей пахнет гвоздичной помадой. Сыновья глупые, белокурые. Пробовали их отдавать 'в&#160;ученье', но&#160;оказалось невозможным. Старший стал пугать мать членовредительством, а&#160;у младшего оказались припадки родимчика. По&#160;объяснение бабушки, это произошло оттого, что&#160;его в&#160;младенчестве опоили маком. Плетется весьма почтенный, с&#160;добрыми черными глазами, одетый в&#160;рубище, проторговавшийся купец Дягилев, несколько лет томившийся в 'яме'. Он&#160;почтительно поклонился купцу Рожнову, тот отвернулся от&#160;его поклона: 'за&#160;низкость себе поставил кланяться горькому человеку, внимания нестоющему'. Старик проводил его своими добрыми глазами и&#160;с горькой улыбкой, покачав головой, промолвил: — Не воздымайся! Сам, может, хуже будешь. Озорник фабричный, в&#160;новом картузе, поддакнул своему хозяину: проходя мимо бедного человека, он&#160;отвесил ему низкий поклон, промолвил: — Миллионщику! — Ах ты, пустой человек! Таких, как&#160;ты-то, я, может, три тысячи кормил. — Первостатейному! — окончил фабричный, завернув за&#160;угол. Распахнулись ворота; жирный жеребец вывез жирную купчиху Романиху. Первый человек она в&#160;захолустье по&#160;капиталу и&#160;по общественному положению — кума частного пристава. Из&#160;цирюльни Ефима Филиппова несет паленым: приказчики завиваются. — Продай, Петрович, соловья, — обращается к&#160;Дягилеву чиновник. — Никак невозможно-с! — Я&#160;бы&#160;деньги хорошие дал. — Нельзя-с&#160;этого. Это такой соловей, что, кажется, умереть мне легче, чем его лишиться. Вчера он, батюшка, как&#160;пошел это вечером орудовать, думаю — не&#160;в царстве&#160;ли&#160;я небесном. Вот какой соловей! А&#160;перепелов не&#160;видали? — Нет! — Тоже, я&#160;вам доложу, перепела! Вчера один какой-то: 'Продай перепела'. — 'Тут, говорю, два: вот перепел, и <i>вот</i> перепел'. — 'Вот этого', говорит. 'Этому, говорю, цены нет'. — 'Почему?' — 'Потому, говорю, у&#160;этого раскат… и&#160;у <i>этого</i> раскат'. Старик воодушевился и&#160;начал подражать перепелу. — Вот вы, говорю, и&#160;знайте, какой это есть перепел. Птицу, батюшка, — ее любить надо, надо понимать ее. Скворец у&#160;меня говорил все одно, как&#160;человек, и&#160;любил меня, как&#160;родного отца… Будил меня утром. Бывало, сядет на&#160;подушку: 'Вставай, Петрович, вставай, Петрович!' Старик все более и&#160;более воодушевлялся, черные глаза его разгорелись. — Дочь у&#160;меня в&#160;родах мучилась, письмо написала: тятенька, помоги. Всю ночь я, батюшка, Василий Его-рыч, проплакал. Утром встал, взял его, голубчика, закрыл клетку платком, да&#160;и понес в&#160;Охотный ряд. Несу, а&#160;у самого слезы так в&#160;три ручья и&#160;текут, а&#160;он оттуда, из&#160;клетки-то: 'Куда ты меня несешь, куда ты меня несешь?' — да&#160;таково жалобно… Старик был убежден, что&#160;все это так было. — Сел я&#160;на тумбочку, да&#160;и реву, как&#160;малый ребенок. Идет какой-то&#160;барин. 'Об&#160;чем ты, старичок, плачешь?' — 'Купите, говорю, сударь, скворца. Всю жизнь&#160;бы&#160;с ним не&#160;расстался, да&#160;беда пришла'. — 'Что, говорит, стоит?' — 'Что&#160;дадите, говорю, дочь помирает'. Дал две синеньких. 'Неси, говорит, его с&#160;богом домой'. Вот, батюшка… Раздался трезвон. Собеседники скорыми шагами направились к&#160;церкви. Обедня кончена. Все тем&#160;же порядком возвращаются домой. Улица опустела. Обед и&#160;сон. Но&#160;какой сон! Сон с&#160;храпом, со свистом, со скрежетом зубовным. Все спит! Спят хозяева, спят дети, спят коты, спят куры. На&#160;улице жарко, тихо я&#160;мертво, ни&#160;малейшего признака жизни, даже птицы попрятались, даже в&#160;саду ветви дерев не&#160;колышутся. Беда идет… <span id="TOC&#95;id20227411"></span>
+</p>
+<center>== II<br /></center>
+<center> ==</center>
+<p>После вечерен по&#160;Большой Мещанской улице по&#160;направлению к&#160;Сухаревой башне бежал, едва переводя дух, парень, бессмысленно ища чего-то&#160;глазами. — Где тут, сударь, аптека? — торопливо спросил он, наткнувшись на&#160;какого-то&#160;прохожего. — А&#160;ты осторожней! Выпучил бельма, да&#160;и летишь сломя голову. — Нам аптеку требовается, хозяин у&#160;нас нездоров, — отвечал парень, устремляясь вперед. — Служба, где тут аптека? — обратился он&#160;к стоящему на&#160;часах будочнику. Будочник зевнул во&#160;весь рот так сильно, что&#160;левая рука его непроизвольно приподняла алебарду<a href="#n_3"><sup>[3]</sup></a> на&#160;аршин от&#160;земли, а&#160;стоявшая рядом извозчичья лошадь вздрогнула. — Проходи, проходи, — промычал он. — Давай пятачок, найдем, — предложил извозчик. Парень, махнув рукой, помчался дальше. — Пожалуйте кровочистительиых капель на&#160;двадцать копеек, — сказал он, переступив порог аптеки. Аптекарь флегматически, не&#160;спеша взял склянку, долго тер ее полотенцем, налил туда какой-то&#160;жидкости, заткнул пробочкой, завернул бумажкой, запечатал сургучиком и&#160;отпустил. Парень побежал обратно. У&#160;ворот дома купца Рожнова он&#160;встретился с&#160;Ефимом Филипповым. — Шабаш, брат, не&#160;поспел. — А&#160;что? — Хозяин твой порешился. Парень остолбенел. Дворник стоял бледный как&#160;смерть. Подошел священник с&#160;дьяконом и&#160;дьячками. Все приняли благословение. — Что&#160;плохо лечил, Филиппыч? — начал священник, обращаясь к&#160;Ефиму Филиппову. — Что&#160;делать, батюшка, — отвечал цирюльник, — в&#160;четырех местах кидал- инструмент не&#160;действует. В&#160;одном месте, кажется, жилу пополам рассек. Это уж не&#160;от нас. Да, не&#160;от нас. Всем нам один путь, — окончил он, входя в&#160;калитку. Утро. Не поведу читателя туда, где теперь раздается надгробное рыдание, где слышится раздирающий душу стон, где из&#160;глубины растроганного сердца льются горячие слезы; будем стоять у&#160;ворот дома и&#160;смотреть, что&#160;происходит на&#160;улице. Вот в&#160;калитку юркнули два худеньких человечка в&#160;сибирочках,<a href="#n_4"><sup>[4]</sup></a> а&#160;за ними еще двое… еще… Это гробовщики. Вышли все назад, столпились в&#160;кучу, постояли, поговорили, опять ушли в&#160;калитку… опять вышли. Трое отделились, взяли отступного и&#160;ушли. В&#160;нескольких шагах от&#160;ворот на&#160;тумбах расположились какие-то&#160;неопределенные личности. Один во&#160;фризовой шинели, другой в&#160;длинном истрепанном халате, третий в&#160;истасканном донельзя вицмундире, четвертый… Это нищие. Фризовая шинель обращается к&#160;дворнику: — А&#160;что, почтенный, подавать нынче будут? — Что&#160;вы за&#160;народ такой? — отвечал сердито дворник. — Только что&#160;панафиду начали, а&#160;уж вам подавать. — Самое&#160;бы&#160;теперь настоящее время подавать. — Есть которые благочестивые, — поддакнула нищая женщина, — сейчас подают. — Может, и&#160;завтра-то&#160;подавать не&#160;будут. Вы не&#160;мешайтесь тут, отходите… Не до&#160;вас теперь. — Слушай команду, проходи, — скомандовал вицмундир. — Ты&#160;бы&#160;сам-то&#160;проходил, — заметила фризовая шинель, — стыдился&#160;бы! Пуговицы светлые имеешь, а&#160;побираешься. Мы&#160;ночевать здесь будем, а&#160;не уйдем. Около пяти часов вечера вся улица запружена была нищей братией. — Эко рвани-то, рвани-то&#160;что понаперло, пушкой не&#160;прошибешь, — замечает дворник. — Кормимся, почтенный, кормимся, — отвечает фризовая шинель. — Ты думаешь, лестно ходить по&#160;Москве-то… — Без&#160;них и&#160;кабаки&#160;бы&#160;не стояли, — ввернул сидевший на&#160;козлах кучер. — Тебе, жирному черту, хорошо там сидеть-то!.. — Мне чудесно! Лучше требовать нельзя. — Ну, так и&#160;сиди, тебя не&#160;трогают. — Еще&#160;бы&#160;ты тронул! Я&#160;те так трону… Тпру! Балуй! — отнесся он&#160;к беспокоившейся лошади. Вицмундир был уже пьян и&#160;ссорился со своею братнею. Он&#160;рассказывал, как&#160;фризовая шинель по&#160;гостиному двору на&#160;мертвое тело сбирал и&#160;для этого носил с&#160;собой деревянный ящик, в&#160;котором лежала селедка. Селедка и&#160;изображала мертвое тело. — А&#160;помнишь, как&#160;ты в&#160;Ножовой линии у&#160;разносчика блин стащил… — Помню! А&#160;ты помнишь&#160;ли, как&#160;тебя на&#160;цепи, как&#160;собаку, по&#160;всей Москве провели. — А&#160;ты вот что&#160;помнишь&#160;ли, как&#160;тебя за&#160;фальшивую присягу в&#160;остроге гноили: животворящий ты крест целовал… — Полноте вам, — заметил благочестивый старичок нищий. — Божьим именем приняли просить… Стыда-то&#160;в вас нет. От&#160;сильного напора нищих потребовалась вооруженная сила, которая и&#160;не замедлила явиться в&#160;лице двух будочников. Сначала они&#160;увещевали разойтись, потом пригрозили холодным оружием — тесаками, или, по&#160;московскому выражению, селедками — не&#160;подействовало; тогда воины врезались в&#160;толпу и&#160;начали крушить направо и&#160;налево и, не&#160;кончивши кампании, отошли. — Хоть бей, хошь нет — ничего с&#160;нами не&#160;сделаешь. Такие купцы не&#160;каждый день помирают, — заметил один из&#160;нищих, — теперь не&#160;токмо вы — сам частный ничего не&#160;сделает. Вишь народ как&#160;разъярился — он&#160;все три дня здесь стоять будет… Но&#160;вот открылось окно, высунулась оттуда в&#160;черном платке голова старухи. — Подходите которые, — обратилась она к&#160;толпе. Нищие хлынули к&#160;окну. Давка, визг… крики. — Поминайте в&#160;ваших молитвах раба Василия, — сказала она, залившись слезами. — Дарья Карнеевна, вам неспособно, позвольте, я&#160;буду, — предупредил ее молодой приказчик, — подходите помаленьку, не&#160;все чтобы вдруг, всем будет. За&#160;упокой души Василия, — проговорил он, опуская в&#160;руку нищего медный пятак. Долго шла раздача, толпа мало-помалу редела. — Ты сколько раз подходил? — Раза четыре. В&#160;последний раз не&#160;дал, приметил. Соседний кабак торговал на&#160;славу. Целовальник с&#160;чувством принимал нищих-гостей. — Божьи люди, мои голубчики! Кушайте на&#160;доброе здоровье. С&#160;утра стояли, устали чай, да&#160;и бока-то&#160;вам понамяли, — приговаривал он, отмеривая крючком пенник. Вицмундир беседовал с&#160;какими-то&#160;кабацкими завсегдатаями. — Неужели тебе не&#160;стыдно побираться? — Стыдно! Очень стыдно! Мне вот как&#160;стыдно: разрежь ты мою грудь да&#160;и посмотри, что&#160;у меня там теперь. Горе! — Ведь тебя из&#160;консистории-то<a href="#n_5"><sup>[5]</sup></a> выгнали. — Выгнали! По&#160;третьему пункту! А&#160;ты знаешь, что&#160;это значит? Это значит: вот я&#160;теперь с&#160;тобой говорю, а&#160;меня нет на&#160;свете. — Где ж ты? — Меня нет! Нет&#160;меня! Вот что&#160;значит третий пункт. — За&#160;что&#160;же это тебя? — За&#160;добрые дела! Каюсь! — Так и&#160;быть, поднесем стаканчик, сказывай. Дай секлетарю стаканчик. — Коллежский секретарь! — Бог тебя знает, какой ты там есть, знаем, что&#160;секретарь прокутимший. Мальчик поднес стакан водки и&#160;два сухарика. Вицмундир, взяв стакан, стал в&#160;позу и&#160;начал: — Благоденственное и&#160;мирное житие… — Пей так, не&#160;безобразничай. Выпив водки, он&#160;схватился за&#160;голову и&#160;забормотал: — Стыдно, стыдно, стыдно! не&#160;осудите меня! Столоначальник говорит: 'Приходи, Куняев, по&#160;бедности твоей, в&#160;суд подшивать журналы'. Могу я&#160;это? — Дело не&#160;хитрое! — А&#160;я&#160;что, портной? Портной я?
+</p>
+<blockquote><p>Я&#160;не&#160;портной журналы шить,<br />
+</p><p>Не из&#160;таких я&#160;негодяев!<br />
+Никак портным не&#160;может быть<br />
+Коллежский секретарь Куняев, -<br />
+<br />
+</p>
+</blockquote>
+<p>пропел вицмундир торжественно. — Так рассказывай, за&#160;что тебя выгнали-то?. — А&#160;вот видишь ты: нужно было купцу Кочеврягину… знаешь Ивана Семенова? — Слыхали. — Нужно было ему родственников ограбить. — Дело хорошее! — Ну, на&#160;что уж лучше! Вот вы и&#160;слушайте. А&#160;по&#160;ходу-то&#160;дела надо было из&#160;консистории метрику украсть. Лишение всех прав, конная, Сибирь!.. Вот он&#160;к Бабушкину — тысячу рублей. К&#160;Захарычу — две тысячи. К&#160;тому, к&#160;другому — все на&#160;одном стоят. Ко&#160;мне. Перекрестился я, да&#160;и думаю: возьмусь за&#160;это дело. Сойдет с&#160;рук — в&#160;монастырь уйду; не&#160;сойдет — туда мне, собаке, и&#160;дорога. 'Извольте, говорю, за&#160;триста рублей оборудую'. — 'Ну, говорит, орудуй, от&#160;меня забыт не&#160;будешь'. И&#160;стал я&#160;орудовать. Первое дело — архивариус. Он&#160;в&#160;консисторию, и&#160;я за&#160;ним; он&#160;из консистории, и&#160;я за&#160;ним; как&#160;свечка, я&#160;перед ним теплился. Полюбился я&#160;ему за&#160;это, позвал меня к&#160;себе, на&#160;Якиманке он&#160;жил. И&#160;сделался я&#160;у него первым человеком. Детей его стал грамоте учить, а&#160;старшенького на&#160;скрипке. — А&#160;ты и&#160;на скрипке играешь? — Я?! Я&#160;первый скрипач по&#160;Москве был. Только вот теперь в&#160;руках трясение, смычка держать не&#160;могу. Вот раз он&#160;мне и&#160;говорит: 'Тебя, Куняев, я&#160;выпросил у&#160;секретаря к&#160;себе в&#160;архив на&#160;подмогу'. Как&#160;вошел я&#160;туда в&#160;первый-то&#160;раз, так у&#160;меня сердце-то&#160;словно каленым железом… Думаю, ведь я&#160;разбойник!.. Прошелся по&#160;алфавиту — есть! Что&#160;ж вы думаете, други сердечные, я&#160;сделал? Украл? Зачем воровать — за&#160;воровство бьют. А&#160;я&#160;вот перед&#160;вами, как&#160;перед богом… — Выпей еще стаканчик. Поднеси. — Выпью! Ничтожный я&#160;человек, оплеванный… Одно мне осталось…
+</p>
+<blockquote><p>Давайте веселиться,<br />
+</p><p>Давайте пить вино!<br />
+Не грех вина напиться -<br />
+Оно на&#160;то дано.<br />
+<br />
+</p>
+</blockquote>
+<p>— Тебе&#160;бы&#160;театры разыгрывать!.. Взяв стакан, он&#160;с чувством произнес: — Посторонись, душа, оболью! — Так что&#160;ж ты сделал-то? — Не украл! Вот запекись моя гортань кровью, коли я&#160;украл. Я&#160;взял да&#160;в эту папку, где значилась метрика, положил две сальных свечки. Какова штука! Умственная, а? — Зачем&#160;же это ты? — Постой! Ровно через&#160;год из&#160;сиротского суда справка об&#160;этой метрике. Цап! а&#160;в папке-то&#160;дыра одна! Крысы за&#160;год-то&#160;все скушали. Налетели! Архивариус-то&#160;как сидел, так и&#160;остался. Меня, раба божьего, в&#160;Тверскую часть… в&#160;острог, в&#160;уголовную!.. Дело-то&#160;до правительствующего сената восходило, а&#160;правительст… Речь рассказчика мгновенно прервалась, рот искривился, глаза помутились: точно пронизанный пулей, отшатнувшись в&#160;сторону, он&#160;грохнулся на&#160;пол. Собеседники вскочили и&#160;бросились вон. Целовальник загородил им дорогу. — Нет, у&#160;нас так делается: вместе пили, вместе и&#160;отвечать будете. — Мы&#160;ни&#160;в чем непричинны. — Нет, позвольте! У&#160;нас такие разы бывали. Еще вы то&#160;возьмите в&#160;рассуждение, его теперича потрошить будут: как&#160;же его можно потрошить без&#160;свидетелев? Нет, уж вы сделайте милость! Вы думаете, мне-то&#160;приятность какая? Приятности мне никакой нет, а&#160;сущее разорение! Никитка, беги на&#160;улицу, кричи 'караул'. Водка, она тоже никого не&#160;помилует, — окончил он, закрывая труп грязной рогожей. Целые три дня около дома купца Рожнова толпились нищие, и&#160;по захолустью стали ходить беспокойные слухи, что&#160;скоропостижная смерть купца Рожнова не&#160;есть первая, что&#160;точно так&#160;же окончил дни свои мещанин Заклюев, шорник из&#160;тупого переулка, лавочник, а&#160;в Хамовниках народ так и&#160;валит. Слухам этим не&#160;придавали особенной веры; мало&#160;ли&#160;что народ болтает. Не успели нищие очувствоваться после поминок Рожнова, как&#160;вновь были приглашены к&#160;себе купчихою Романихою, которая, несмотря на&#160;усилия известнейших в&#160;то время врачей Лоедера и&#160;Гааза, окончила жизнь в&#160;несколько часов. Слухи о&#160;чем-то&#160;неладном увеличивались. Редкий день, чтобы по&#160;Серединке не&#160;проводили от&#160;сорока до&#160;пятидесяти покойников. Вдруг дотоле неслыханное слово 'холера' разнеслось по&#160;захолустью. Народ оцепенел! Гнев божий! Полиция приколачивает на&#160;заборах печатные объявления о&#160;предосторожности. Их никто не&#160;читает. Ефим Филиппов обессилел от&#160;практики, он&#160;отворяет кровь на&#160;улице. Церковные колокола не&#160;умолкают. Погребальные дороги и&#160;просто фуры тянутся к&#160;Пятницкому кладбищу с&#160;утра до&#160;ночи. Гнев божий! Нет&#160;помощи, нет спасения! Захолустье потеряло больше половины своих обывателей. Осталось одно утешение — молитва. И&#160;вот посреди улицы воздвигнули помост и&#160;пригласили духовенство соседних церквей с&#160;крестным ходом. Лишь только певчие возгласили 'Царю небесный', народ, измученный страхом и&#160;ожиданием смерти, пал на&#160;колени и&#160;зарыдал, как&#160;один человек. Священнослужители не&#160;выдержали своего высокого положения — тоже зарыдали. Протодьякон Успенского собора читал апостол и&#160;лишь дошел до&#160;слов 'да&#160;смертию упразднит имущего державу смерти', с&#160;ближайшей колокольни раздался троекратно удар колокола — весть о&#160;смерти настоятеля, — голос его прервался и&#160;он едва мог кончить чтение. Во&#160;время молебствия по&#160;захолустью проскакал взвод казаков, с&#160;полицеймейстером во&#160;главе. — Бунт! — разнеслось по&#160;захолустью. — Мастеровщина взбунтовалась, — закричал лавочник. В&#160;трактир 'Адрианополь' собралась мастеровая чернь — шорники, сапожники, позументщики и&#160;т. п. Кто-то&#160;из компании сказал, что&#160;народ морят. Пошел на&#160;эту тему разговор. Пьяный портняга сказал, что&#160;всему делу причина Ефим Филиппов, что&#160;он все кровь отворяет, что&#160;предлагал и&#160;ему, да&#160;он не&#160;согласился. — Разве возможно христианскую кровь выпущать! — Мы&#160;ему докажем! — Ежели он, значит, кровь отворял и, значит… по&#160;какому праву? — подхватил тщедушный, чахоточный сапожник, — надо, значит, к&#160;нему и&#160;сейчас, значит… — Своим судом! — Покажи струмент! По&#160;какому праву? Трактирщик начал было успокаивать, но&#160;избитый бросился в&#160;квартал и&#160;донес о&#160;случившемся. Мастеровщина бросилась в&#160;кабак, в&#160;котором кончил дни свои коллежский секретарь Куняев. Целовальник ничего не&#160;возражал. — Лопайте, черти! Все равно вам издыхать-то, — сказал он&#160;и вышел на&#160;улицу. Обезумев от&#160;пенника, пьяная голь ринулась к&#160;цирюльне Ефима Филиппова. У&#160;цирюльни было тихо и&#160;не пахло, как&#160;бывало, паленым. Стеклянная дверь разлетелась вдребезги, и&#160;пьяным глазам представилось тяжелое зрелище. Ефим Филиппов лежал на&#160;столе бездыханный, и&#160;Петрович нараспев произносил стих из&#160;псалтыря: 'Яко дух пройдет в&#160;нем и&#160;не будет, и&#160;не познает к&#160;тому места своего'. Толпа отхлынула и&#160;была окружена казаками. — Ах, как&#160;это народ-от&#160;мрет! Господи ты боже наш! Царица ты наша небесная! — говорил живший в&#160;захолустье на&#160;большой улице кривой купец, мимо дома которого провозили жертву смерти. — И&#160;что&#160;это теперича будет? Вся Москва, почитай, вымерла. Испытует нас господь или&#160;наказывает — его святая воля. В&#160;городе-то&#160;пусто; мимо Минина вчера проехал — хоть&#160;бы&#160;те один человек был… жутко; только заблудящий какой-то, бога-то&#160;знать в&#160;ем нет, стал середь площади да&#160;песней так и&#160;заливается… 'Что, говорю, просторно тебе?' — 'Просторно, говорит, господин купец! Никто не&#160;препятствует'. Индо руками я&#160;всплеснул!.. Этакое божеское наказание, а&#160;он… — Что, значит, непутевый-то&#160;человек! — заметила старуха жена… — Диву я&#160;дался! Молодой парень — дворовый али так какой… 'На&#160;смирение-то, говорю, взять тебя некому'. — 'Живых, говорит, теперича не&#160;трогают, мертвых подбирать впору'. Старики в&#160;глубоком молчании смотрели в&#160;окно. — Сирот-то, сирот-то&#160;теперича… Господи! — сказала старуха. — Сироты теперича много! — отвечал старик. — Столько теперича этой сироты… и&#160;куда пойдет она, кто ее вспоит-вскормит, оденет-обует… Давеча я&#160;посмотрел… ребенок один: сколь мать свою любит, так под&#160;гроб и&#160;бросается… Удивительно мне это! Махонький, от&#160;земли не&#160;видать, а&#160;сколь у&#160;него сердце это к&#160;родительнице. Индо слеза меня прошибла! Еду, а&#160;у самого так слеза и&#160;бьет, уж очень чувствительно мне это… Махонький, а&#160;любовь свою… подобно как… Старуха прослезилась. — Сама была сирота, без&#160;отца, без&#160;матери, без&#160;роду, без&#160;племени… — И&#160;должна, значит, чувствовать сиротское дело. Сам куска не&#160;ешь — сироте отдай, потому сирота, она ни&#160;в чем не&#160;повинная… Должен ты ее… Вот ты теперича плачешь, значит — это бог тебе дал, чтобы народ жалеть. А&#160;ежели мы&#160;так рассудим: двое нас с&#160;тобою; дом у&#160;нас большой, барский, заблудиться в&#160;ем можно: ежели в&#160;этот дом наберем мы&#160;с тобой ребяток оставших, сироту эту неимущую, пожалуй, и&#160;богу угодим. Своих-то&#160;нет — чужих беречи будем. И&#160;будет эта сирота в&#160;саду у&#160;нас гулять да&#160;богу за&#160;нас молиться. Так, что&#160;ли? Старуха перекрестилась. — Дай тебе бог! Старик исполнил свое предположение. По&#160;окончании холеры он&#160;пожертвовал свой дом под&#160;училище, внес большой капитал на&#160;его содержание. Святитель Филарет благословил иконою доброго старца, а&#160;протодьякон провозгласил: — Потомственному почетному гражданину, фридрихсгамскому первостатейному купцу Феодору Феодоровичу Набилкову многая лета. Об&#160;этой высокой личности будет мое душевное слово.<a href="#n_6"><sup>[6]</sup></a><br />
+'<i>Новое время', 5 и 12 октября 1880&#160;г.</i> <span id="TOC&#95;id20232567"></span>
+</p>
+<center>=== Из&#160;московского захолустья<br /></center>
+<center> ===</center>
+<p><span id="TOC&#95;id20232577"></span>
+</p>
+<center>== I<br /></center>
+<center>Иверские юристы<br /></center>
+<center> ==</center>
+<p>Не бог сотвори комиссара, но&#160;бес начерта его на&#160;песце и&#160;вложи в&#160;него душу злонравную, исполненну всякия скверны, и&#160;вдаде ему в&#160;руце крючец, во&#160;еже прицеплятися и&#160;обирати всякую душу христианскую.<br />
+Так начинается весьма редкая раскольничья рукопись, озаглавленная так: 'О&#160;некоем комиссаре, како стяжал, и&#160;о купце'. В&#160;ней рассказывается, как&#160;помощник квартального надзирателя (в&#160;тридцатых-сороковых годах они&#160;назывались комиссарами) притеснял купца и&#160;какие купец принимал меры против своего гонителя. Комиссар в&#160;то время был для&#160;захолустья персона важная, важнее квартального надзирателя, район действий которого была канцелярия, а&#160;комиссар представлял из&#160;себя наружную полицию, и&#160;обыватели находились в&#160;полнейшей от&#160;него зависимости. Протоколов в&#160;то время не&#160;было, а&#160;все решалось на&#160;словах, по&#160;душе. Огородил купец у&#160;себя на&#160;дворе, по&#160;собственному рисунку, какую-нибудь невообразимую нескладную постройку: теперь — протокол… отступление от&#160;строительного устава… Или: начнет тот&#160;же купец выкачивать из&#160;своего погреба на&#160;улицу смрадную миазматическую жидкость и&#160;распустит зловоние по&#160;всему захолустью: теперь — протокол… несоблюдение санитарного устава… обязательное постановление и&#160;т. д. А&#160;прежде: — Что&#160;это, Иван Семеныч, ты… тово… — говорит комиссар, — сам увидит — не&#160;хорошо!.. И&#160;мне за&#160;тебя достанется. Четыре стертых или&#160;так называвшихся 'слепых' полтинника в&#160;руку — и&#160;смотрительный устав обойден. Или: — Что&#160;это, Иван Семеныч, ты весь квартал заразил?… — Мне и&#160;самому, брат, тошно, — отвечает купец, — да&#160;что&#160;же делать-то! Три года не&#160;выкачивали. Капуста, Ермил Николаевич, действует!.. Заходи ужо, милый человек… Портфеинцу по&#160;рюмочке выпьем… Санитарная часть обойдена. Комиссар был на&#160;ногах чуть&#160;ли&#160;не все двадцать четыре часа в&#160;сутки… То&#160;он&#160;подойдет к&#160;будке и&#160;свистнет по&#160;зубам задремавшего старика будочника. Необыкновенный тип представляли из&#160;себя будочники. Они&#160;выбирались из&#160;самых неспособных и&#160;бессильных солдат. Мастеровой и&#160;фабричный народ называл их 'кислой шерстью'. То&#160;отколотит извозчика, приговаривая: 'Я&#160;давно до&#160;тебя, шельма, добираюсь!' — Ваше благородие, там, на&#160;Яузе, мертвое тело к&#160;нашему берегу подплыло. Пожалуйте! Хозяин к&#160;вам послал… опасается. Мы&#160;было хотели его пониже, к&#160;Устинскому мосту спустить, чтобы из&#160;нашего кварталу… А&#160;хозяин говорит: беги к&#160;Ермилу Николаевичу. Надо полагать, давно утопился, по&#160;той причине — оченно уж распух… Комиссар на&#160;месте. Кричит, ругается, дерется, командует. — Давай багор! Тащи!.. — Я&#160;не&#160;полезу! — Что&#160;ж, сам я, что&#160;ли, должен лезть… Кто я? — Мы&#160;знаем, что&#160;ты ваше благородие, а&#160;только я&#160;ни в&#160;каком случае не&#160;полезу. В&#160;ем теперича пудов двадцать есть, его и&#160;вытащить невозможно. — Молчать! — и&#160;т. д. — Ермил Николаевич, хозяин приказал, как&#160;собственно завтрашнего числа у&#160;нас поминки по&#160;Матрене Герасимовне, так вот именно приказали доложить… Архимандрит хоронить будет… — Стало быть, обед рыбный будет… — И&#160;рыбный, и&#160;такой — обыкновенный. — Буду. И&#160;сидит комиссар на&#160;почетном месте с&#160;духовенством, отдавая предпочтение свежей икре перед&#160;паюсной. — У&#160;кого какой вкус! По&#160;мне свежая икра несравненно лучше паюсной, — говорит он, забивая рот блином, густо наслоенным свежей икрой. — И&#160;я&#160;того&#160;же мнения, — соглашается с&#160;ним отец протоиерей. — Ермил Николаевич, не&#160;оставьте нас своим посещением: дочку просватали. Завтра сговор. — Всенепременно! И&#160;сидит комиссар на&#160;купеческом сговоре в&#160;отдельной комнате и&#160;дуется с&#160;купцами в&#160;трынку, принимая каждые четверть часа по&#160;стакану лиссабонского. 'Предписываю вашему благородию с&#160;получением сего немедленно произвести опись имущества и&#160;охранить оное несостоятельного должника, московского третьей гильдии купца и&#160;т. д.' И&#160;едет Ермил Николаевич с&#160;писарем, понятыми и&#160;добросовестными свидетелями творить волю пославшего… — Шуба соболья! — выкрикивает охранитель. Писарь записал. — Что&#160;ты, в&#160;первый раз, что&#160;ли, на&#160;описи-то? — говорит тихо Ермил Николаевич. Писарь вытаращил глаза. — Пиши: 'меховая'. — Ложек серебряных… Писарь записал. — Да&#160;металлических!.. Черт тебя возьми! Металлических… Я&#160;такого дурака еще не&#160;видывал!.. Он&#160;был в&#160;своем квартале мировой судья. — Иван Семенов, помирись ты с&#160;этой анафемой. Ведь тебе&#160;же хуже будет, если она дело направит в&#160;управу благочиния. — Обидно, Ермил Николаевич, обидно мириться-то, ведь я&#160;по первой гильдии. — Ну, дай ты ей пятнадцать целковых… — Ну, так и&#160;быть, получи! Только нельзя&#160;ли&#160;ее хошь дня на&#160;три в&#160;часть посадить… — Уж сделаем, что&#160;можно. — Позвольте узнать, в&#160;каком положении мое дело? — спрашивает, подходя к&#160;столу, средних лет женщина. — Вы Анна Клюева? — скроивши важную мину, спрашивает комиссар, — вдова сенатского копииста? По&#160;происхождению — дочь унтер-офицера карабинерного полка? — Да-с. — Тэк-с. А&#160;вы давно кляузами изволите заниматься? — Помилуйте, какие&#160;же это кляузы, когда он&#160;на паперти меня прибил… — А&#160;свидетели у&#160;вас есть? А&#160;доктор вас свидетельствовал? — Помилуйте… — Вы нас, матушка, помилуйте! И&#160;без&#160;вас у&#160;нас дела много. Вы женщина бедная, возьмите пять рублей и&#160;ступайте с&#160;богом. А&#160;то&#160;мы вас сейчас должны будем отправить к&#160;частному доктору для&#160;освидетельствования нанесенных вам побоев, тот раздевать вас будет… Что&#160;хорошего — вы дама. Просительница начинает всхлипывать. — А&#160;как&#160;тот с&#160;своей стороны, — продолжает спокойным тоном комиссар, — озлится, да&#160;приведет свидетелей, которые под&#160;присягой покажут, что&#160;его в&#160;тот день не&#160;только в&#160;церкви, а&#160;и в&#160;Москве не&#160;было, так вас за&#160;облыжное-то&#160;показание… — Помилуйте, — прерывает просительница. — Позвольте, дайте мне говорить… — останавливает комиссар. — Вы не&#160;бывали на&#160;Ваганьковском кладбище? — Мой муж там схоронен. — Стало быть, мимо острога проезжали. Неприятно ведь вам будет в&#160;остроге сидеть. — Я&#160;правду говорю! Неужели за&#160;правду… — А&#160;те святой крест и&#160;евангелие будут целовать, что&#160;вы неправду говорите! Полноте, возьмите пять рублей. Василий Иванович, возьмите с&#160;г-жи&#160;Клюевой подписку, что&#160;она дело прекращает миром. Вам напишут, а&#160;вы подпишите. — Извольте, я&#160;подпишу, только пяти рублей не&#160;возьму… Бог с&#160;ним! — Ну, как&#160;хотите! Он&#160;был в&#160;своем квартале и&#160;прокурор, только в&#160;редких случаях, это когда считал себя оскорбленным кем-либо из&#160;купцов, обидевших его 'праздничными' или&#160;иными установленными обычаем денежными взносами. Тут он&#160;являлся во&#160;всем величии своей власти: вызывал в&#160;квартал дворников, находил в&#160;колодцах у&#160;обывателей утопленных котят, отыскивал непрописанные паспорта; простой пьяный шум на&#160;фабрике принимал за&#160;буйство с&#160;сопротивлением властям, но&#160;по свидании с&#160;обвиняемым обывателем преследование прекращалось 'по&#160;недостатку улик'. Он&#160;был и&#160;судебным следователем. 'Во&#160;исполнение приказания вашего высокоблагородия, производил следствие с&#160;прикомандированным чиновником (таким-то) об&#160;ограблении купца (такого-то) в&#160;Водосточном переулке, причем грабители, употребив насилие, скрылись, оставив на&#160;месте, по&#160;всему вероятию, принадлежащий им лом и&#160;огарок стеариновой свечки. То&#160;и&#160;надо полагать, названные грабители из&#160;Москвы бежали, ибо нахождение их в&#160;Москве, при&#160;опасности быть пойманными, при&#160;нашем совместном заключении, невозможно. Причем, по&#160;долгу присяги, не&#160;могу не&#160;отнестись с&#160;большою похвалою к&#160;полицейскому служителю Гаврилову, трое суток, несмотря на&#160;сырость и&#160;ветер, сидевшему на&#160;реке Яузе, под&#160;Полуярославским мостом, выслеживая злодеев'. Он&#160;был и&#160;защитник. — Батюшка, ваше благородие, защити ты меня, отец родной, — голосит, валяясь в&#160;ногах у&#160;комиссара, старуха… — Все пропил… — Кто пропил? — грозно вскрикивает Ермил Николаевич. — Сын, батюшка, родной сын… Защити ты меня… — Это ты? — обращается комиссар к&#160;молодому, щеголевато одетому мастеровому. — Я, — отвечает нахально мастеровой. — Ты кто такой? — Цеховой кислощейного цеха. — То-то&#160;у тебя и&#160;рожа-то&#160;кислая!.. Ты знаешь божью заповедь: 'Чти отца твоего и&#160;матерь твою'? Бац! Цеховой летит в&#160;стену. — Ты знаешь, что&#160;твоя мать носила тебя в&#160;своей утробе сорок недель? — Зн… Бац! — Ваше благородие… — Ступай с&#160;богом! На&#160;первый раз с&#160;тебя довольно. Василий Иванович, возьмите с&#160;него подписку, что&#160;впредь он&#160;будет оказывать матери сыновнее почтение. Дел в&#160;то блаженное время, требующих психического анализа, юридических знаний, научной подготовки, не&#160;возникало. Все дела были компетенции комиссаров, квартальных надзирателей, в&#160;редких случаях частных приставов, а&#160;если дело восходило до&#160;обер-полицеймейстера и&#160;обращались в&#160;управу благочиния, то&#160;сейчас&#160;же переносились обвиняемыми на&#160;консультацию к&#160;Иверским воротам,<a href="#n_7"><sup>[7]</sup></a> в&#160;институт иверских юристов, дельцов, изгнанных из&#160;московских палат, судов и&#160;приказов. В&#160;числе этих дельцов были всякие секретари — и&#160;губернские, и&#160;коллежские, и&#160;проворовавшиеся повытчики, бывшие комиссары, и&#160;архивариус, потерявший в&#160;пьяном виде вверенное ему на&#160;хранение какое-то&#160;важное дело, и&#160;заведомые лжесвидетели, и&#160;честные люди, но&#160;от пьянства лишившиеся образа и&#160;подобия божия. Собирались они&#160;в Охотном ряду, в&#160;трактире, прозванном ими 'Шумла'. Ни&#160;дома этого, ни&#160;трактира теперь уже не&#160;существует. В&#160;этом трактире и&#160;ведалось ими, и&#160;оберегалось всякое московских людей воровство, и&#160;поклепы, и&#160;волокита. Здесь они&#160;писали 'со слов просителя' просьбы, отзывы, делали консультации, бегали расписываться 'за&#160;безграмотностью просителя'. И&#160;текла их жизнь, полная лишений, полная непробудного пьянства и&#160;угрызений совести, у&#160;кого она оставалась… С&#160;горечью взирали они&#160;на своего брата-дельца, подъезжавшего к&#160;сенату на&#160;своей лошади, приветствуемого всей служившей братией. — Вот ведь по&#160;делу Павла Матвеича надо&#160;бы&#160;уж давно ему в&#160;Сибири быть, а&#160;он в&#160;коляске… — замечает один из&#160;дельцов. — Suum quique!<a href="#n_8"><sup>[8]</sup></a> Не завидуй! — успокаивает его губернский секретарь Никодим Кипарисов. — Все сравняемся!
+</p>
+<blockquote><p>Безумцы станут с&#160;мудрецами,<br />
+</p><p>С&#160;ханжой столкнется изувер.<br />
+<br />
+</p>
+</blockquote>
+<p>— Эх, Петя, сразил нас с&#160;тобой этот центифарис! (Центифарисом иверские юристы называли водку.) Не пей я — кто&#160;бы&#160;теперь я&#160;был? Может быть, епископом, может быть, профессором, может быть, гражданской палатой ворочал; а&#160;чем я&#160;кончил? — Магистром, да&#160;и то&#160;с таким формуляром, что&#160;самому в&#160;него смотреть стыдно! — Epistola non erubescit,<a href="#n_9"><sup>[9]</sup></a> а&#160;я как&#160;глядя на&#160;нее краснею!.. Две диссертации написал на&#160;латыни, да&#160;какие! Преосвященный пред всей семинарией меня в&#160;пример поставил. 'Кто, говорит, у&#160;вас, отец ректор, писал диссертацию на&#160;тему: 'Mens agitвt molum?'<a href="#n_10"><sup>[10]</sup></a> Никодим Кипарисов, сын заштатного дьячка. Велел мне из-за&#160;парты выйти и&#160;преподал благословение. Диоген в&#160;бочке<a href="#n_11"><sup>[11]</sup></a> не&#160;переносил таких лишений, какие переношу я… У&#160;тебя хоть зимняя оболочка есть, а&#160;я с&#160;ужасом ожидаю пришествия борея:<a href="#n_12"><sup>[12]</sup></a> не&#160;в чем будет на&#160;улицу выйти. А&#160;никому я&#160;не завидую!.. Сам себе такую дорогу проложил. Верь мне — придет время, 'грядет час и&#160;ныне есть' — полетим мы&#160;все вниз, как&#160;с Тарпейской скалы,<a href="#n_13"><sup>[13]</sup></a> и 'пронесут имя наше яко зло'. Готовься к&#160;этому и&#160;мужайся. Дальше идти нельзя! Другие к&#160;нам на&#160;смену придут… — А&#160;другие-то&#160;лучше, что&#160;ли, нас будут? — возразил делец. — Не знаю! 'Темна вода во&#160;облацех воздушных'. Но&#160;нам конец! Не токмо сенат, но&#160;и уездный земский суд затворит нам свои двери. Кроме образовательного — нравственный ценз потребуется… Ну! — Ну? — Ну и&#160;умри! — 'Правда и&#160;милость да&#160;царствует в&#160;судах!' — раздалось с&#160;высоты трона. Оцепенели иверские юристы. — 'Да&#160;сбудется реченное', — воскликнул Никодим Кипарисов. — Однако! — произнес со вздохом квартальный надзиратель. — Теперь ступай к&#160;мировому, а&#160;не ко&#160;мне, мы&#160;больше не&#160;годимся, — иронически говорил комиссар просительнице. — Сам, батюшка, нас рассуди! Зачем я&#160;полезу к&#160;мировому… Еще кто он&#160;такой… — Молодой… С&#160;золотой цепью на&#160;шее сидит… Хе, хе, хе… да&#160;поверенного возьми. Деньги-то&#160;есть, что&#160;ли? — Какие у&#160;нас, батюшка, деньги. — Ну, уж это твое дело… Теперь там на&#160;лестнице поверенные стоят. Да&#160;ты не&#160;бойся: не&#160;от иверских — тех уж нет, — теперь все новые, хе, хе, хе. — Кипарисыч, — говорит молодой купец иверскому юристу, прозябшему до&#160;костей у&#160;ворот московского трактира, — говорят, вашему брату последний конец пришел. — Верно, господин коммерсант. — Что&#160;ж, ведь замерзнешь без&#160;дела-то. — По&#160;теории вероятностей должен замерзнуть. — Ты&#160;бы&#160;к чему-нибудь пристроился. Говорят, еще на&#160;Хитровом рынке вашим братом не&#160;гнушаются. — Что&#160;ж ты смеешься надо мной? Твой отец не&#160;только мной не&#160;гнушался, а&#160;когда его в&#160;яму тащили — в&#160;ногах у&#160;меня валялся. Выручи! Эх ты! Может быть, ты мне обязан, что&#160;капитал у&#160;тебя есть. Погоди, вспомнишь и&#160;нас! Мы&#160;самим богом были устроены для&#160;вашего купеческого нрава, а&#160;с новыми вам придется побарахтаться. Dixi!.<a href="#n_14"><sup>[14]</sup></a> — Это насчет чего? — А&#160;насчет того, что&#160;ты, немилосердный человек, смеешься над&#160;умирающим. И&#160;комиссары московские перемерли, и&#160;кипарисычи, и&#160;все члены иверской консультации отошли в&#160;вечность, но&#160;на почве, которую они&#160;возделывали и&#160;удобряли и&#160;на которой в&#160;былые времена произрастало 'крапивное семя', — прозябло новое растение, не&#160;значившееся прежде в&#160;юридической ботанике и&#160;названное при&#160;своем появлении 'аблокатом'.<a href="#n_15"><sup>[15]</sup></a> Аблокат не&#160;имеет ничего общего с&#160;людьми, аккредитованными судом и&#160;институтом присяжных поверенных. Он&#160;торгует без&#160;патента. Между ними есть незрелые шантажисты, деяния которых не&#160;предусмотрены законом, но&#160;деяния эти заставили&#160;бы&#160;содрогнуться иверскогс юриста. Об&#160;этих общественных деятелях впереди мое слово. <span id="TOC&#95;id20234462"></span>
+</p>
+<center>== II<br /></center>
+<center>Широкие натуры<br /></center>
+<center> ==</center>
+<p>Немилосердный коммерсант, смеявшийся над&#160;умирающим иверским юристом Никодимом Кипарисовым, принадлежал к&#160;широким купеческим натурам. То&#160;время было время широких натур, почти уже не&#160;существующего теперь типа загульных людей. Широкая натура появлялась тогда и&#160;в образе промотавшегося интеллигента, прислонившегося к&#160;загульному купцу в&#160;качестве 'дикого барина', с&#160;обязанностью откупоривать бутылки, играть на&#160;гитаре, 'выкидывать колена' и&#160;т. п., и&#160;в образе купца, разносившего публичные дома, и&#160;в образе художника, которому уже перестала повиноваться кисть, и&#160;в образе высокодаровитого артиста, пренебрегавшего преклонением пред его талантом народной массы, и&#160;даже в&#160;образе басистого дьякона. Широкую натуру в&#160;Москве уважали, она даже не&#160;теряла уважения и&#160;тогда, когда, растративши материальные, нравственные и&#160;физические силы, насидевшись в 'яме' и&#160;навалявшись в&#160;больнице, становилась с&#160;нищими на&#160;паперти церковной. — Ивана Семенова давеча видел: у&#160;Василья Блаженного на&#160;паперти стоит, — говорит купец соседу своему по&#160;лавке. — Хорош? — Весь распух, словно стеклянный стал, а&#160;духу своего не&#160;теряет. Увидел меня, словно&#160;бы&#160;маленько улыбнулся и&#160;сейчас опять в&#160;серьез вошел. Мигнул я&#160;ему, дескать, приходи… Не знаю, понял&#160;ли. — Значит, гордости своей с&#160;себя не&#160;снимает… — С&#160;отвагой стоит!.. Уж и&#160;туз&#160;же был!.. — Богатырь!.. Всякие безобразия и&#160;буйства, несмотря на&#160;строгие в&#160;то время порядки, проходили широким натурам даром. Разве какое-нибудь исключительное проявление дикого нрава вызывало протест со стороны графа Закревского, да&#160;и то&#160;кончалось большею частью только отеческим внушением. — Ты опять! — встречает строгий граф широкую натуру, именитого купца. — Виноват, ваше сиятельство!.. — Пора исправиться. Ты дурной пример подаешь своим детям. Молчание. — Ты уж седой! — По&#160;родителю, ваше сиятельство: покойный родитель рано поседел. — Ступай! Но&#160;чтоб больше этого не&#160;было!.. Стыдно! Ты знаешь, я&#160;не посмотрю, что&#160;ты… Последняя фраза имела большое значение. В&#160;Москве тогда убеждены были, что&#160;граф Закревский имеет какие-то&#160;особенные бланки, по&#160;которым он&#160;может ссылать в&#160;Сибирь, постригать в&#160;монастырь и&#160;т. п. Приходит широкая натура после генерал-губернаторского внушения в&#160;клуб. — Ну что? — спрашивают. — Ничего, разговор был самый обыкновенный… Про&#160;матушку спрашивал, — церковь ведь она тепереча строит… Ну, а&#160;после про&#160;это дело… 'Мало&#160;ли&#160;что, говорю, ваше сиятельство, в&#160;своем саду делается…' — Ну, ничего, благородно обошелся… Мне вот только дьякона жалко. К&#160;Николе на&#160;Перерву его на&#160;исправление послали. — А&#160;дьякона-то&#160;за что? — Да&#160;вот изволите видеть: собрались мы&#160;у Назара Ивановича в&#160;саду. Ну, шум был… Что&#160;за&#160;важность! Ну, дьякон нам всем по&#160;очереди многолетие сказывал. — Насколько я&#160;знаю, — вмешивается чиновник какой-то&#160;палаты, — он&#160;произносил многолетие не&#160;так, как&#160;следует. — Обыкновенно как: кричал многая лета, а&#160;мы пели пьяные. — Да, все это хорошо! Благоденственное и&#160;мирное житие — это&#160;бы&#160;ничего; а&#160;зачем он&#160;говорил: 'на&#160;врагиже победы и&#160;одоление коммерции советнику…' Это весьма важно! Это ведь знаете… — Да&#160;ведь ваш брат как&#160;пойдет привязываться… — Да&#160;это не&#160;у нас, это в&#160;консистории. — Ну, я&#160;там не&#160;знаю где, а&#160;только очень жалко! Этакого, можно сказать, удивительного баса и&#160;нашего друга… Ну, конечно, мы&#160;на Перерву-то&#160;к нему ездим, горевать там ему не&#160;дадим. Большая часть притонов, где собирались по&#160;вечерам широкие натуры, теперь уже не&#160;существует; память об&#160;них сохраняется только в&#160;устном предании. То&#160;были: трактир у&#160;Каменного моста 'Волчья долина', трактир Глазова на&#160;окраине Москвы, в&#160;Грузинах; кофейная 'с&#160;правом входа для&#160;дворян и&#160;купцов' в&#160;Сокольниках; трактир в&#160;Марьиной роще и&#160;разные ренсковые погреба,<a href="#n_16"><sup>[16]</sup></a> В&#160;этих притонах широкая натура пила 'Лиссабон', приводивший человека в&#160;неистовство; пила шампанское, приготовлявшееся в&#160;городе Кашине, одной бутылки которого достаточно было для&#160;того, чтобы привести человека в&#160;остервенение; била половых, била маркеров, била посуду и&#160;зеркала, целовалась с&#160;арфистками, становилась на&#160;колени перед&#160;цыганками и&#160;щедро оплачивала зорко следившего за&#160;нарушением общественной тишины и&#160;спокойствия квартального надзирателя. Бывали и&#160;такие широкие натуры, которые, как&#160;говорится, смешивали грех со спасением. — Заходи завтра, Иван Левонтьич. — Нет, три дня чертили, отдохнуть надо. — Да&#160;завтра ничего такого не&#160;будет… Весь хор прокофьевских певчих только… попоют… а&#160;чертить не&#160;будем. Признаться сказать, матушка коситься начинает, в&#160;Воронеж на&#160;богомолье ехать хочет. 'На&#160;год, говорит, от&#160;вас уеду'. И&#160;вот собираются вечером широкие натуры, садятся чинно в&#160;зале. Налево в&#160;углу в&#160;золоченых киотах 'божье милосердие', направо стол, уставленный закусками и&#160;разной цветной и&#160;бесцветной жидкостью акцизно-откупного комиссионерства. Выходит 'сама', внушительной полноты женщина, с&#160;заплывшими глазами и&#160;тройным подбородком, а&#160;за ней 'матушка', худая, высокая старуха в&#160;темном платье и&#160;черном платке, говорит на 'о'. — Фекла Семеновна, матушка… — вскакивает Иван Левонтьич. — И&#160;ты, грешник, здесь? — полусерьезно относится к&#160;нему старуха — Ну, те молодые ребята, их и&#160;палкой можно, а&#160;ты уж… — Матушка, Фекла Семеновна, один раз живем!.. Помрем — все останется… Ведь не&#160;в лаптях ходим, голубушка: есть на&#160;что… — Крутятся, крутятся… и&#160;лба-то&#160;перекрестить некогда. И&#160;домой-то&#160;вас одна заря вгонит, другая выгонит. А&#160;ты что&#160;про лапти говоришь: я&#160;сама в&#160;лаптях хаживала. Ты лапти не&#160;кори… — Я&#160;не&#160;к тому. — То-то — не&#160;к тому! Покойник сертук-ат надел, когда весь свой полный капитал скопировал, да&#160;и то, бывало, говорил: неловко, Семеновна; давай опять поддевку надену; поддевка-то, говорит, нас с&#160;тобой выкормила. Внучки-то&#160;вот тоже мои куцки себе понашили, девки&#160;же говорить с&#160;ними стыдятся, словно&#160;бы, говорят, облупленные сидят и&#160;приступиться-то&#160;к ним стыдно. — Матушка, пожалуйте садиться, — прерывает сын, — сейчас весь состав идет… Басы уж готовы — закусили в&#160;саду. И&#160;хор или&#160;весь состав прокофьевских певчих входил, имея во&#160;главе своего хозяина и&#160;регента, ямщика Прокофьева. Хор этот гремел по&#160;Москве; без&#160;него не&#160;обходился ни&#160;один храмовой праздник, ни&#160;одна купеческая свадьба. Он&#160;был многочисленный, содержал его страстный любитель пения, купец Прокофьев, по&#160;профессии ямщик, содержатель лошадей и&#160;тарантасов. Спавший с&#160;голоса или&#160;отставленный по&#160;каким-либо причинам синодальный или&#160;чудовский певчий,<a href="#n_17"><sup>[17]</sup></a> любители пения чиновники, мещане и&#160;всякого звания люди в&#160;хору были. Был даже один певчий безграмотный и&#160;становился на&#160;клиросе, чтобы, как&#160;говорили, 'пущать октаву'. И&#160;октава была у&#160;него необыкновенная. Басы в&#160;Москве, в&#160;то время, да&#160;и теперь, ценились дорого. Свадьба не&#160;в свадьбу, если апостол будет прочитан тенором. Жалко, что&#160;пером нельзя передать тех звуков, которые вылетали из&#160;груди прокофьевских басов. — Ты уж, Николай Иваныч, к&#160;завтрешнему дню 'приготовься', — упрашивал старший приказчик одного купца, на&#160;венчании дочери которого долженствовал читать апостол Николай Иваныч, — то&#160;возьми во&#160;внимание: одна дочь, опять&#160;же и&#160;родство большое. — Уж сделаю, — успокаивал его Николай Иваныч, — сегодня у&#160;меня у&#160;Троицы в&#160;Вешняках парамеи за&#160;всенощной, ну, да&#160;я как-нибудь проворчу полегонечку, а&#160;у вас завтра пущу вовсю… — Голубчик, грохни! — У&#160;Егорья на&#160;Всполье на&#160;прошлой неделе венчали; худенькая такая невеста, на&#160;половине апостола сморщилась, а&#160;как хватил я 'жену свою сице да&#160;любит', так она так на&#160;шафера и&#160;облокотилась… — Нет, наша выдержит! Наша даже до&#160;пушек охотница… Вот когда в&#160;царский день палят… А&#160;уж ты действуй вовсю, сколько тебе господь бог голосу послал. — С&#160;вечера-то&#160;я сегодня, может, согрешу, а&#160;завтра утром 'оттяну', оно и&#160;будет так точно. За&#160;человека становилось страшно, когда 'оттянувший' по&#160;утру бас вечером забирался в&#160;верхние слои своих голосовых средств. Глаза его наливались кровью, грудь выступала вперед, подымались плечи… Ужасно! Певчие разместились по&#160;порядку: басы назад, тенора на&#160;правом крыле, альты на&#160;левом, дисканты впереди. Прокофьев, седой, почтенный, строгой наружности старик, вынул камертон, куснул его зубами, подставил к&#160;уху… еще раз… погладил по&#160;голове гладко выстриженного мальчика, дисканта, нагнулся к&#160;его уху и&#160;промычал ему нотку, потом обратился к&#160;басам: 'Соль-сире… си', потом громогласно сказал: 'Покаяния отверзи ми двери'. Хор шевельнул нотами и&#160;запел очень стройно. Изредка слышалось только дребезжание старческого голоса самого регента, но&#160;оно тотчас&#160;же покрывалось басами. Кончили… Басы откашлялись, тенора поправили волосы, альты завертели нотами, регент закусал камертон, опять послышалось 'ля-до-ми…', и&#160;торжественный концерт Бортнянского<a href="#n_18"><sup>[18]</sup></a> 'Кто взыдет на&#160;гору господню' огласил не&#160;только залу, но&#160;и улицу и&#160;близлежащие переулки. Мальчишки с&#160;улицы прислонились к&#160;окнам и&#160;приплюснули к&#160;стеклам свои носы. Сильно подействовала на&#160;душу матушки пропетая песнь. Она обтерла рукой увлажнившиеся слезами глаза и&#160;посмотрела на&#160;сына. Сын глубоко вздохнул и, покачав головою, сказал: 'Да!' Иван Левонтьич взял у&#160;регента камертон, повертел его в&#160;руках и&#160;отнесся к&#160;матушке: — Фекла Семеновна, вот рогулька, ничего не&#160;стоющая, а&#160;без нее никак невозможно. — У&#160;всякого дела свой струмент есть, — заметила старуха. Насладившись пением, хозяин пригласил певчих к&#160;столу. Один бас закусил икрой, другой — мятным пряником, говоря, что 'это очищает', третий ничем не&#160;закусывал, говоря, что&#160;после закуски вторую рюмку пить неприятно; октава привела всех в&#160;изумление — ничего не&#160;пила, несмотря на&#160;все увещания. — Это даже удивительно, — заметил Иван Левонтьич, — такой видный человек и&#160;не пьет! — Прежде был подвержен, — объяснила ему октава, — в&#160;больнице раз со второго этажа в&#160;окошко выбросился. Доктор больше не&#160;приказал. Тенора выпили 'легонького', т. е. портвейну и&#160;хересу; мальчикам были бабушкой отпущены моченые яблоки. После угощения хор разбрелся: кто петь всенощную на&#160;храмовом празднике, кто петь на&#160;свадьбе. Сам Прокофьев остался с&#160;широкими натурами и, вручивши свой камертон своему помощнику, сказал: 'Не потеряй! Сорок лет я&#160;им орудую! Да&#160;скажи там: завтра в&#160;Медном ряду молебен… 'Царю' и 'Воспойте'. Чтобы утром пораньше спевались. Я&#160;сам буду. К&#160;Троице в&#160;Сыромятники к 'Взбранной воеводе' тоже приду'. Начался разговор о&#160;соборных дьяконах, о&#160;певчих, о&#160;том, что&#160;певчим быть трудно, и&#160;т. п. Наконец хозяин обратился к&#160;гостям с&#160;предложением: — А&#160;что, господа, не&#160;на воздух&#160;ли&#160;нам перейти? Решили, что&#160;на воздух лучше, и&#160;перешли. Там их ожидало новое удовольствие. Их встречал певец, отлично исполнявший русские песни и&#160;романсы. И&#160;пошло!..
+</p>
+<blockquote><p>Заложу я&#160;тройку борзых<br />
+</p><p>Серо-пегих лошадей<br />
+И&#160;помчусь я&#160;в ночь морозну<br />
+Прямо к&#160;Любушке своей…<br />
+<br />
+</p>
+</blockquote>
+<p>Золотое тогда время было для&#160;широких натур, но&#160;и ему приближался конец. — 'Правда и&#160;милость да&#160;царствуют в&#160;судах!' И&#160;вместо квартального и&#160;комиссара, с&#160;которыми, совершив всякую 'неправду', можно было 'сделаться', — является умягчающий поврежденные нравы мировой судья; вместо отеческого внушения генерал-губернатора распахнулись для&#160;широких натур двери знаменитых Титов. Дрогнули широкие натуры, когда, на&#160;первых порах, одну из&#160;них, невзирая на&#160;ее общественное положение и&#160;почти неприкосновенность, за&#160;содеянное ею в&#160;трактире буйство, мировой судья пригласил на&#160;новоселье в&#160;Титы. — Уж теперь дело видимое, что&#160;прежние порядки отошли, — заключили в&#160;захолустье. — Уж если такой туз не&#160;отвертелся, значит, никак невозможно. — Tempora mutantur,<a href="#n_19"><sup>[19]</sup></a> — со вздохом произнес Никодим Кипарисов, выходя из&#160;камеры мирового судьи. — Ничего! можно сказать, даже превосходнее, — заметил один обыватель захолустья, — по&#160;крайней мере теперича знаешь, что&#160;драться невозможно. — А&#160;прежде не&#160;знал? — Знал, да&#160;никакой тебе остановки в&#160;этом не&#160;было, никто не&#160;препятствовал… Очень скоро применилось захолустье к&#160;новым порядкам и&#160;сознало, что&#160;существовать стало легче. Комиссар потерял свой престиж и&#160;не имел уже прежнего значения в&#160;купеческих домах, ни&#160;на похоронах, ни&#160;на свадьбе. Уже его не&#160;подводил хозяин под&#160;руку к&#160;закуске, с&#160;упрашиванием выкушать на&#160;доброе здоровье, а&#160;предлагал ему просто, мимоходом: 'Ермил Николаевич, ты&#160;бы&#160;водки выпил. Настойка там есть…' Праздничные его взимания тоже умалялись. Давали обыватели по&#160;старой привычке, но&#160;уже не&#160;в прежних размерах и&#160;с видимым неудовольствием. А&#160;один купец стал даже над&#160;ним подтрунивать: — Однако у&#160;тебя, Ермил Николаевич, пузо-то&#160;подсыхать стало… при&#160;новых-то&#160;порядках… Какой ты прежде пузатый был — на&#160;удивление, а&#160;теперь ишь как&#160;тебя подвело… — Да, — с&#160;горьким вздохом произносил комиссар, — не&#160;нужны мы&#160;стали!.. — Ну как&#160;вы с&#160;вашим мировым? — скроивши саркастическую улыбку, спрашивает частный пристав обывателя. — Во&#160;все вникает, — отвечает обыватель. — Вникает? Ха, ха, ха… Вникает! Это хорошо! Не получая ни&#160;от кого ни&#160;приказаний, ни&#160;предписаний, не&#160;рыская целый день то&#160;с рапортом на&#160;Тверской бульвар то&#160;на пожар, то&#160;в наряд на&#160;гулянье, — можно вникать. — Очень вникает! Намедни на&#160;фабрике у&#160;немца одному шпульнику руку шестерней оторвало, — заплатить велел. Оно ведь, пожалуй, и&#160;справедливо. Опять&#160;же носовские фабричные на&#160;пищу жаловались. Сам приехал и&#160;сейчас: 'Стыдно, говорит, вам! Вы почетный гражданин, а&#160;фабричных ваших хуже собак кормите!' Тот было нрав свой распустил: 'По&#160;какому праву? Я, говорит, их три тысячи продовольствую…' Но&#160;между прочим, говорят, в&#160;Титах сидеть будет. Уж трех аблокатов приспособил… — Так, значит, вы довольны. — Коли и&#160;вперед так дела пойдут — довольны. — Ну, и&#160;слава богу, коли довольны, — окончил иронически частный пристав. Впрочем, новые порядки неблагоприятно подействовали на&#160;стариков и&#160;на среднее поколение. Старикам не&#160;нравилось, что&#160;они уже больше не&#160;могли распоряжаться своим необузданным характером во&#160;всю меру, что&#160;в лице мирового в&#160;применении этого характера они&#160;встречали препоны; среднему поколению казалось уж стыдно за&#160;какие-нибудь пустяки, за&#160;трепку, например, полового или&#160;маркера в 'Волчьей долине', предстать пред лицом нелицеприятного судьи. Молодое поколение, в&#160;котором еще не&#160;проявилась 'тятенькина натура', осталось равнодушно. Да&#160;оно не&#160;было еще испорчено. Оно еще не&#160;вкусило сладости 'Волчьей долины', ренсковых погребов и&#160;приютов Соболева переулка. Целомудрие его не&#160;было растлено общением с&#160;арфистками и&#160;торбанистами.<a href="#n_20"><sup>[20]</sup></a> Пред ним предстояло высшее эстетическое наслаждение. И&#160;оно не&#160;замедлило явиться. С&#160;обнаженными чреслами<a href="#n_21"><sup>[21]</sup></a> показалась на&#160;сцене 'La belle Hélène.<a href="#n_22"><sup>[22]</sup></a> Не только молодое и&#160;среднее поколение, встрепенулись и&#160;старцы. — Очень хорошо! Старики созерцали женщин в&#160;таком виде, но&#160;только в&#160;Кунавине и&#160;то за&#160;большие деньги и&#160;при закрытых дверях, а&#160;тут на&#160;сцене, и&#160;всего за&#160;полтора рубля. — Превосходно! И&#160;охватила оперетка все мое любезное отечество 'даже до&#160;последних земли'. Где не&#160;было театров, она располагалась в&#160;сараях, строила наспех деревянные павильоны, эстрады в&#160;садах и&#160;т. п. Появились опереточные антрепренеры из&#160;актеров, из&#160;прожившихся помещиков, из&#160;артельщиков, был один отставной унтер-офицер, один лакей и&#160;т. п.
+</p>
+<blockquote><p>И&#160;на&#160;голос ласковой пери<br />
+</p><p>Шел воин, купец и&#160;пастух.<br />
+<br />
+</p>
+</blockquote>
+<p>Бросились в&#160;ее объятия достойные лучшей участи девушки, повыскакивали со школьной скамьи недоучившиеся молодые люди, актеры всех столичных и&#160;провинциальных театров были 'поверстаны' в&#160;опереточные певцы, даже слава и&#160;гордость русского театра, П. М.&#160;Садовский, уступая не&#160;духу времени, а&#160;требованию начальства, должен был напялить на&#160;себя дурацкий костюм аркадского принца.<a href="#n_23"><sup>[23]</sup></a> Драма посторонилась. На&#160;помощь оперетке вдруг появляется куплет. В&#160;один прекрасный вечер он&#160;выскочил на&#160;сцену в&#160;черном фраке и&#160;запел:
+</p>
+<blockquote><p>'Денег в&#160;России нет', — смело<br />
+</p><p>Каждый готов произнесть.<br />
+Нет&#160;у&#160;нас денег на&#160;дело, -<br />
+На&#160;безобразие есть!<br />
+<br />
+</p>
+</blockquote>
+<p>— Браво! — закричали поврежденные нравы и&#160;задумались. — А&#160;ведь правда, — заговорили, — на&#160;безобразие у&#160;нас сколько угодно!..
+</p>
+<blockquote><p>Ходят больные, как&#160;трупы,<br />
+</p><p>Просят голодные есть:<br />
+Нет&#160;у&#160;нас денег…<br />
+<br />
+</p>
+</blockquote>
+<p>— Правда! Чудесно! — закричал Назар Иванович, поглядывая на&#160;Ивана Назарыча, — расчесывай, расчесывай хорошенько! И&#160;стал куплет расчесывать поврежденные нравы. И&#160;распространился тоже по&#160;всему лицу земли русской и&#160;засел не&#160;только в&#160;театре, но&#160;и в&#160;клубах, и&#160;в трактирах, даже на&#160;открытом воздухе. И&#160;полетел со своего пьедестала торбанист, услаждавший отцов и&#160;дедов захолустных обывателей и&#160;в Ирбите, и&#160;в Нижнем,<a href="#n_24"><sup>[24]</sup></a> и&#160;в 'Волчьей долине', и&#160;во всех веселых притонах государства Российского. Почтительно отошел в&#160;сторону и&#160;дал дорогу куплету веселый водевиль, много лет царивший на&#160;сцене. '<i>Сцены и&#160;рассказы', 1881 г</i>,
+</p>
+<hr />
+<div class="mw-heading mw-heading3"><h3 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=3" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>С&#160;чтением сцен из&#160;народного быта И. Ф. Горбунов выступил впервые в&#160;Москве в 1853&#160;году в&#160;кружке 'молодой редакции' журнала 'Москвитянин' (А, Н. Островский, А. А. Григорьев, П. М.&#160;Садовский, Б. Н. Алмазов, Е. Н. Эдельсон, Т.&#160;И. Филиппов и&#160;другие). 'Е. Н. Эдельсон стал мне давать небольшие книжки для&#160;рецензии в 'Москвитянине', — пишет Горбунов в&#160;воспоминаниях. В&#160;неопубликованном письме Е. Н. Эдельсону, хранящемся в&#160;Центральном государственном архиве литературы и&#160;искусства, Горбунов пишет: '…прошу выслать деньги за&#160;мою работу в 'Москвитянине' (Фонд 1951, опись 1, ед. хр. 4). Это и&#160;были первые печатные выступления И. Ф. Горбунова. Но&#160;установить, какие рецензии были написаны им, не&#160;удалось. Маленькие рецензии в 1853—1855&#160;годах в&#160;отделе 'Критика и&#160;библиография', как&#160;правило, были анонимными. В&#160;сентябрьском номере 'Отечественных записок' за 1855&#160;год — дебют в&#160;печати Горбунова-рассказчика: сцены из&#160;купеческого быта 'Просто случай'. Горбунов помешал свои произведения в&#160;журналах 'Современник', 'Искра', 'Общезанимательный вестник', 'Осколки', 'Русская старина', 'Русский вестник', 'Русский архив', 'Нива', 'Еженедельное новое время', в&#160;литературном сборнике русских литераторов в&#160;пользу пострадавших от&#160;голода в&#160;Самарской губернии 'Складчина' (1874), в&#160;газетах 'Новое время', 'Северная пчела', 'Санкт-Петербургские ведомости', 'Гражданин', 'Новости', 'Московский листок', 'Русское дело'. В 1861&#160;году в&#160;Петербурге выходит первый сборник Горбунова 'Сцены из&#160;народного быта', включивший восемь произведений. Дополнявшиеся переиздания этого сборника выходили в 1868, 1870, 1873, 1874&#160;годах. Самое полное прижизненное издание Горбунова — 'Сцены и&#160;рассказы' — осуществил в 1881&#160;году А. С.&#160;Суворин. Было отпечатано несколько сот экземпляров на&#160;толстой бумаге, с&#160;большими полями, в&#160;дорогом, с&#160;золотым тиснением переплете. В&#160;этом сборнике помещено 35 произведений. Все прижизненные издания Горбунова стали библиографической редкостью. В 1901&#160;году в&#160;приложении к&#160;журналу 'Нива' А. Ф. Маркс под&#160;редакцией и&#160;с предисловием А. Ф. Кони напечатал Полное собрание сочинений, выдержавшее три издания. В&#160;этом двухтомнике далеко не&#160;все произведения писателя, в&#160;нем нет переписки. В 1904—1910&#160;годах Общество любителей древней письменности издает под&#160;редакцией П. С.&#160;Шереметева Сочинения Горбунова в&#160;трех томах — дорогое подписное издание большого формата, с&#160;множеством рисунков и&#160;фотографий. А. Ф. Маркс, купивший у&#160;наследников право на&#160;издание Горбунова, разрешил Обществу издать всего 500 экземпляров по&#160;цене не&#160;менее 15&#160;рублей. Это самое полное издание. Здесь помещено 76 произведений Горбунова, его переписка, дневники, воспоминания о&#160;нем, материалы для&#160;биографии; ко&#160;второму тому приложен юмористический 'Ватерпас' — 'газета уравнительная для&#160;всех партий' (? 1, 2). Это было последнее дореволюционное издание. После 1917&#160;года издавались только отдельные произведения и&#160;небольшие репертуарные сборники. Рассказы Горбунова в&#160;советское время неоднократно включались в&#160;вузовские хрестоматии и&#160;различные тематические сборники. Популярность рассказов Горбунова порождала многочисленных устных и&#160;даже печатных подражателей. В 1871&#160;году выходят поддельные 'Сцены из&#160;народного быта Горбунова' в&#160;трех частях, без&#160;инициалов автора, с&#160;подзаголовком 'Для&#160;рассказов на&#160;сцене и&#160;семейных вечерах'. Издание носило коммерческий характер и&#160;было рассчитано на&#160;дешевый эффект, что&#160;и возмутило всех почитателей И. Ф. Горбунова. Эта подделка выдержала 10 изданий. На&#160;последнем, напечатанном со старых матриц в 1923&#160;году, на&#160;обложке ошибочно поставлены инициалы автора: И. Ф. Горбунов. Рукописи Горбунова не&#160;сохранились. Тексты рассказов 'Затмение солнца', 'У&#160;пушки', 'Воздухоплаватель', 'Мастеровой', 'У&#160;квартального надзирателя', 'У&#160;мирового судьи', 'Развеселое житье', 'Просто случай', 'Спрятался месяц за&#160;тучи', 'На&#160;почтовой станции', 'Громом убило', 'Безответный', 'Лес', 'Утопленник', 'На&#160;реке', 'Медведь', 'Из&#160;московского захолустья' даются по&#160;последнему прижизненному изданию Горбунова — 'Сцены и&#160;рассказы', Спб., 1881. 'С&#160;широкой масленицей', 'Об&#160;Саре Бернар', 'Тенериф', 'В&#160;деньгах счастье', 'Общее собрание общества прикосновения к&#160;чужой собственности', 'Тост генерала Дитятина', 'Белая зала', не&#160;вошедшие в&#160;издание 1881&#160;года, даются по&#160;газетным и&#160;журнальным публикациям. 'Речь, сказанная генерал-майором Дитятиным при&#160;освящении танцевальной залы…', 'Письмо из&#160;Бузулука', 'Приезд шаха персидского', впервые напечатанные в&#160;издании Общества любителей древней письменности, и&#160;рассказы 'Жестокие нравы', 'Нана', 'Травиата', 'Из&#160;московского захолустья' (I. 'Иверские юристы', II. 'Широкие натуры'), 'Перед&#160;лицом графа Закревского', 'Дьявольское наваждение', первая публикация которых неизвестна, даются по&#160;тексту Сочинений, т.&#160;1-3, Спб., 1904—1910. По&#160;этому&#160;же изданию даются и 'Воспоминания', которые хотя и&#160;печатались в&#160;газете 'Новое время', но&#160;в Сочинениях они&#160;значительно дополнены по&#160;неизвестной нам рукописи. Указание на&#160;первую публикацию дано после каждого рассказа. Произведения Горбунова в&#160;настоящем издании расположены не&#160;по хронологическому, а&#160;по тематическому принципу, так как&#160;все они&#160;распадаются на&#160;весьма определенные тематические группы: 'Сцены из&#160;городской жизни', 'Сцены из&#160;купеческого быта', 'Сцены из&#160;крестьянского быта', составившие в&#160;настоящем издании раздел 'Сцены из&#160;народного быта'. Совершенно особняком стоят речи и&#160;письма генерала Дитятина. Отдельные группы составляют 'Очерки о&#160;старой Москве' и&#160;личные воспоминания артиста. В&#160;подзаголовке своих рассказов Горбунов всегда подчеркивал их тематику: 'Сцена из&#160;крестьянского быта', 'Сцена из&#160;купеческого быта', 'Рассказ купца', 'Сцена из&#160;московского захолустья' и&#160;т. д., и&#160;не придерживался хронологического принципа в&#160;прижизненных изданиях. Произведения в 'Сценах из&#160;народного быта' (1861—1874&#160;гг.) расположены не&#160;по времени написания, а&#160;в порядке появления их в&#160;печати. И&#160;рассказы, которые слышала вся Россия на&#160;концертах Горбунова, по&#160;многу лет оставались не&#160;напечатанными. Не придерживался Горбунов хронологического принципа и&#160;в последнем прижизненном издании 'Сцены и&#160;рассказы' 1881&#160;года. Редактор Полного собрания сочинений И. Ф. Горбунова (т.&#160;1-2, Спб., 1901)&#160;А. Ф. Кони впервые разбил произведения Горбунова на&#160;тематические группы. По&#160;этому&#160;же принципу составлено и&#160;самое полное, академического типа, издание И. Ф. Горбунова под&#160;редакцией П. С.&#160;Шереметева — Сочинения, т.&#160;1-3, Спб., 1904—1910. Распределение произведений по&#160;хронологическому принципу не&#160;облегчило, а&#160;только затруднило&#160;бы&#160;восприятие и&#160;изучение творчества И. Ф. Горбунова.
+</p><p><span id="n&#95;1"></span> <b> 1<br /></b>
+<b>Калуфер (литературное кануфер) — многолетняя сильно пахнущая трава, употребляющаяся как&#160;пряность.</b>
+</p><p><span id="n&#95;2"></span> <b> 2<br /></b>
+<b>Прощеный день — прощеное воскресенье, последнее перед&#160;великим постом.</b>
+</p><p><span id="n&#95;3"></span> <b> 3<br /></b>
+<b>Алебарда — старинное оружие, секира на&#160;длинном древке.</b>
+</p><p><span id="n&#95;4"></span> <b> 4<br /></b>
+<b>Сибирка — короткий кафтан со сборками и&#160;стоячим воротником.</b>
+</p><p><span id="n&#95;5"></span> <b> 5<br /></b>
+<b>Консистория — учреждение с&#160;административными и&#160;судебными функциями, подчиненное епархиальному архиерею.</b>
+</p><p><span id="n&#95;6"></span> <b> 6<br /></b>
+<b>Набилков Ф. Ф. — в&#160;Набилковском училище учился И. Ф. Горбунов. Задуманный очерк написан не&#160;был</b>
+</p><p><span id="n&#95;7"></span> <b> 7<br /></b>
+<b>Иверские ворота — у&#160;Иверских ворот, пересекавших проезд между современными зданиями Музея В. И. Ленина и&#160;Исторического, находились здания присутственных мест.</b>
+</p><p><span id="n&#95;8"></span> <b> 8<br /></b>
+<b>Каждому свое (лат.).</b>
+</p><p><span id="n&#95;9"></span> <b> 9<br /></b>
+<b>Написанное не&#160;краснеет (лат.).</b>
+</p><p><span id="n&#95;10"></span> <b> 10<br /></b>
+Дух гонит невзгоды' (лат.).
+</p><p><span id="n&#95;11"></span> <b> 11<br /></b>
+<b>Диоген в&#160;бочке — древнегреческий философ Диоген (414—323&#160;гг.&#160;до&#160;н. э.), по&#160;преданию, живший в&#160;бочке.</b>
+</p><p><span id="n&#95;12"></span> <b> 12<br /></b>
+<b>Борей — северный ветер.</b>
+</p><p><span id="n&#95;13"></span> <b> 13<br /></b>
+<b>Тарпейская скала — утес на&#160;западной стороне Капитолийского холма в&#160;Риме, с&#160;которого сбрасывали приговоренных к&#160;смерти преступников.</b>
+</p><p><span id="n&#95;14"></span> <b> 14<br /></b>
+<b>Я&#160;сказал (лат.).</b>
+</p><p><span id="n&#95;15"></span> <b> 15<br /></b>
+<b>Аблокат — искаженное 'адвокат'.</b>
+</p><p><span id="n&#95;16"></span> <b> 16<br /></b>
+<b>Ренсковые погреба — магазины, торгующие виноградными винами; всякое виноградное вино называлось 'ренское' — искаженное 'рейнское'.</b>
+</p><p><span id="n&#95;17"></span> <b> 17<br /></b>
+<b>Синодальный певчий — певчий одного из&#160;старейших русских церковных хоров — Синодального.</b>
+</p><p><span id="n&#95;18"></span> <b> 18<br /></b>
+<b>Бортянский Д. С. (1751—1825) — русский композитор.</b>
+</p><p><span id="n&#95;19"></span> <b> 19<br /></b>
+<b>Времена меняются (лат.).</b>
+</p><p><span id="n&#95;20"></span> <b> 20<br /></b>
+<b>Торбанист — игрок на&#160;торбане, струнном инструменте, схожем с&#160;бандурой.</b>
+</p><p><span id="n&#95;21"></span> <b> 21<br /></b>
+<b>Чресла — бедра.</b>
+</p><p><span id="n&#95;22"></span> <b> 22<br /></b>
+Прекрасная Елена' (франц.) — оперетта Ж- Оффенбаха,
+</p><p><span id="n&#95;23"></span> <b> 23<br /></b>
+<b>Аркадский принц — идиллический образ безмятежного человека.</b>
+</p><p><span id="n&#95;24"></span> <b> 24<br /></b>
+<b>Ирбитской и&#160;Нижегородской ярмарках.</b>
+</p></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐f79556446‐mr5v8
+Cached time: 20260217090543
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.090 seconds
+Real time usage: 0.169 seconds
+Preprocessor visited node count: 201/1000000
+Revision size: 135900/2097152 bytes
+Post‐expand include size: 7537/2097152 bytes
+Template argument size: 1137/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.048/10.000 seconds
+Lua memory usage: 1855108/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  134.554      1 Шаблон:Отексте
+100.00%  134.554      1 -total
+  1.45%    1.957      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1006293:|#|:idhash:canonical and timestamp 20260217090543 and revision id 5276905. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Очерки_о_старой_Москве_(Горбунов)&amp;oldid=5276905">https://ru.wikisource.org/w/index.php?title=Очерки_о_старой_Москве_(Горбунов)&amp;oldid=5276905</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B2%D0%B0%D0%BD_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2" title="Категория:Иван Фёдорович Горбунов">Иван Фёдорович Горбунов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1881_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1881 года">Литература 1881 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BD%D0%B5_%D0%B2%D0%B8%D0%BA%D0%B8-%D1%81%D0%BD%D0%BE%D1%81%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%BB%D0%B8_%D1%81_%D1%82%D0%B5%D0%B3%D0%BE%D0%BC_sup" title="Категория:Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup">Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BD%D0%BA%D0%BE%D1%80%D0%B0%D0%BC" title="Категория:Импорт/lib.ru/Страницы с внутренними ссылками по анкорам">Импорт/lib.ru/Страницы с внутренними ссылками по анкорам</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%98%D0%B2%D0%B0%D0%BD_%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2" title="Категория:Импорт/az.lib.ru/Иван Федорович Горбунов">Импорт/az.lib.ru/Иван Федорович Горбунов</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 22 февраля 2025 года в 00:25.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D0%BE_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Очерки о старой Москве (Горбунов)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-f79556446-mr5v8","wgBackendResponseTime":462,"wgPageParseReport":{"limitreport":{"cputime":"0.090","walltime":"0.169","ppvisitednodes":{"value":201,"limit":1000000},"revisionsize":{"value":135900,"limit":2097152},"postexpandincludesize":{"value":7537,"limit":2097152},"templateargumentsize":{"value":1137,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  134.554      1 Шаблон:Отексте","100.00%  134.554      1 -total","  1.45%    1.957      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.048","limit":"10.000"},"limitreport-memusage":{"value":1855108,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Иван Федорович Горбунов\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"published\"] = \"1881\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/g/gorbunow_i_f/text_0230.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Очерки о старой Москве\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-f79556446-mr5v8","timestamp":"20260217090543","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

@@ -1,0 +1,1240 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Африканские новеллы (Юргенсен; Журавская)/ДО — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"dfb1cec7-90f2-4fe6-aab8-46af2f6e6343","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Африканские_новеллы_(Юргенсен;_Журавская)/ДО","wgTitle":"Африканские новеллы (Юргенсен; Журавская)/ДО","wgCurRevisionId":5503688,"wgRevisionId":5503688,"wgArticleId":1101498,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-RusEmpire","Дореформенная орфография","25%","Страницы без сканов","Импорт/lib.ru","Переводы с датского языка","Проза","Сборники рассказов","Юрген Юргенсен","Переводы, выполненные Зинаидой Николаевной Журавской","Литература 1912 года","Африка"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Африканские_новеллы_(Юргенсен;_Журавская)/ДО","wgRelevantArticleId":1101498,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5503688,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":200000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Африканские новеллы (Юргенсен; Журавская)/ДО — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Африканские_новеллы_Юргенсен_Журавская_ДО rootpage-Африканские_новеллы_Юргенсен_Журавская skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B+%28%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD%3B+%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B+%28%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD%3B+%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B+%28%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD%3B+%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B+%28%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD%3B+%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-I._Желѣзный_голодъ."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#I._Желѣзный_голодъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>I. Желѣзный голодъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-I._Желѣзный_голодъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-II._Возвращеніе_Конго."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#II._Возвращеніе_Конго.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>II. Возвращеніе Конго.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-II._Возвращеніе_Конго.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-II._Бѣлыя_святки_на_Конго."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#II._Бѣлыя_святки_на_Конго.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>II. Бѣлыя святки на Конго.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-II._Бѣлыя_святки_на_Конго.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-IV._Сангалимене_изъ_Упото."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#IV._Сангалимене_изъ_Упото.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>IV. Сангалимене изъ Упото.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-IV._Сангалимене_изъ_Упото.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Африканские новеллы (Юргенсен; Журавская)/ДО</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B+%28%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD%3B+%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;oldid=5503688" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_%28%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD%3B_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E&amp;id=5503688&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2590%25D1%2584%25D1%2580%25D0%25B8%25D0%25BA%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B5_%25D0%25BD%25D0%25BE%25D0%25B2%25D0%25B5%25D0%25BB%25D0%25BB%25D1%258B_%28%25D0%25AE%25D1%2580%25D0%25B3%25D0%25B5%25D0%25BD%25D1%2581%25D0%25B5%25D0%25BD%3B_%25D0%2596%25D1%2583%25D1%2580%25D0%25B0%25D0%25B2%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F%29%2F%25D0%2594%25D0%259E"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2590%25D1%2584%25D1%2580%25D0%25B8%25D0%25BA%25D0%25B0%25D0%25BD%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B5_%25D0%25BD%25D0%25BE%25D0%25B2%25D0%25B5%25D0%25BB%25D0%25BB%25D1%258B_%28%25D0%25AE%25D1%2580%25D0%25B3%25D0%25B5%25D0%25BD%25D1%2581%25D0%25B5%25D0%25BD%3B_%25D0%2596%25D1%2583%25D1%2580%25D0%25B0%25D0%25B2%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F%29%2F%25D0%2594%25D0%259E"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_%28%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD%3B_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_%28%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD%3B_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_%28%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD%3B_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_%28%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD%3B_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_%28%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD%3B_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_%28%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD%3B_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" id="pre-reform"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%94%D0%BE%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Викитека:Дореформенная орфография"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yat-round-icon1.jpg/40px-Yat-round-icon1.jpg" decoding="async" width="32" height="32" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yat-round-icon1.jpg/60px-Yat-round-icon1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yat-round-icon1.jpg/120px-Yat-round-icon1.jpg 2x" data-file-width="150" data-file-height="150" /></a></span></div><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Африканские новеллы</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">авторъ Юрген Юргенсен</span>, пер. <span id="ws-translator"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%97%D0%B8%D0%BD%D0%B0%D0%B8%D0%B4%D0%B0_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BD%D0%B0_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F" title="Автор:Зинаида Николаевна Журавская">З. Журавская</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Оригинал: датскій, опубл.: <span id="ws-original&#95;published">1912</span>.&#160;— Источникъ: <span class="ws-source">журнал «Русское Богатство», № 5, 1912. <a rel="nofollow" class="external text" href="http://az.lib.ru/j/jurgensen_j/text_1912_africanskie_novelly-oldorfo.shtml">az.lib.ru</a></span> </td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="#top">Наверх</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение было опубликовано до 7 ноября 1917 года (по новому стилю) на территории <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" class="extiw" title="w:Российская империя">Российской империи</a> (<a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" class="extiw" title="w:Российская республика">Российской республики</a>), за исключением территорий <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D1%81%D0%BA%D0%BE%D0%B5" class="extiw" title="w:Великое княжество Финляндское">Великого княжества Финляндского</a> и <a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5" class="extiw" title="w:Царство Польское">Царства Польского</a>, и не было опубликовано на территории <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" class="extiw" title="w:Советская Россия">Советской России</a> или других государств в течение 30 дней после даты первого опубликования.
+<p>Поскольку Российская Федерация (Советская Россия, РСФСР), несмотря на историческую преемственность, юридически не является полным правопреемником Российской империи, а сама Российская империя не являлась страной-участницей <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D1%85_%D0%B8_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9" class="extiw" title="w:Бернская конвенция об охране литературных и художественных произведений">Бернской конвенции об охране литературных и художественных произведений</a>, то согласно статье 5 конвенции это произведение <b>не имеет страны происхождения</b>.
+</p><p>Исключительное право на это произведение не действует на территории Российской Федерации, поскольку это произведение не удовлетворяет положениям статьи 1256 Гражданского кодекса Российской Федерации о территории обнародования, о гражданстве автора и об обязательствах по международным договорам.
+</p><p>Это произведение находится также в <a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Справка:Общественное достояние">общественном достоянии</a> в США (<i><a href="https://en.wikisource.org/wiki/Help:Public_domain" class="extiw" title="en:Help:Public domain">public domain</a></i>), поскольку оно было опубликовано до 1 января 1931 года.
+</p>
+</td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Russia.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/60px-Flag_of_Russia.svg.png" decoding="async" width="60" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/120px-Flag_of_Russia.svg.png 1.5x" data-file-width="900" data-file-height="600" /></a></span>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<style data-mw-deduplicate="TemplateStyles:r4170826">.mw-parser-output .header1,.mw-parser-output .header2,.mw-parser-output .header3,.mw-parser-output .header4,.mw-parser-output .header5,.mw-parser-output .header6{text-align:center;text-indent:0;font-weight:bold;line-height:normal!important;padding-top:inherit}.mw-parser-output .header1{font-size:xx-large;margin:1.5em auto}.mw-parser-output .header2{border-bottom:0;font-family:inherit;font-size:x-large;margin:1.25em auto}.mw-parser-output .header3{font-size:large;margin:1em auto}.mw-parser-output .header4{font-size:medium;margin:0.75em auto}.mw-parser-output .header5{font-size:small;margin:0.5em auto}.mw-parser-output .header6{font-size:x-small;margin:0.25em auto}.mw-parser-output .subtitle{font-size:small;font-weight:normal;text-transform:none;margin-top:1em}</style><div role="heading" aria-level="2" class="header2" id="Африканскія&#95;новеллы.">Африканскія новеллы.</div>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="I._Желѣзный_голодъ."><span id="I._.D0.96.D0.B5.D0.BB.D1.A3.D0.B7.D0.BD.D1.8B.D0.B9_.D0.B3.D0.BE.D0.BB.D0.BE.D0.B4.D1.8A."></span>I. <br />Желѣзный голодъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=1" title="Редактировать раздел «I. Желѣзный голодъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Онъ смотрѣлъ на&#160;свои обтянутыя гамашами ноги. Желтыя кожаныя гамаши имѣли&#160;видъ уже не&#160;столь элегантный, какъ давеча утромъ, на&#160;пристани, когда онъ ихъ только что&#160;надѣлъ въ хижинѣ, гдѣ онъ провелъ ночь. Вчера только онъ высадился на&#160;этой пристани съ парохода, который привезъ его въ дѣвственный лѣсъ, и&#160;потомъ опять ушелъ внизъ по&#160;рѣкѣ, расплескивая воду большимъ колесомъ. Онъ долго стоялъ и&#160;смотрѣлъ вслѣдъ пароходу.
+</p><p>А&#160;теперь онъ смотрѣлъ на&#160;негровъ, сидѣвшихъ вокругъ него въ кружокъ, спинами прислонившись къ деревьямъ. Какое это было странное чувство! — послѣ трехмѣсячнаго путешествія впервые остаться одному среди этихъ туземцевъ, языкъ которыхъ былъ ему непонятенъ. Онъ перевелъ взглядъ на&#160;кусты и&#160;выше, на&#160;деревья съ мохнатыми стволами, увѣшанными ліанами и&#160;кривыми вѣтками, нависшими надъ густой порослью внизу; вѣтки эти были сплошь обвиты орхидеями.
+</p><p>Была половина двѣнадцатаго. За&#160;четыре часа быстрой ходьбы онъ разгорячился, пропотѣлъ насквозь, перепачкался грязью и&#160;чувствовалъ, какъ кровь стучитъ у&#160;него въ вискахъ.
+</p><p>Онъ вынулъ изъ кармана письмо, полученное имъ изъ Бокаты, отъ бѣлаго, къ которому онъ ѣхалъ помощникомъ, и&#160;еще разъ перечиталъ его. Товарищъ поздравлялъ его съ пріѣздомъ и&#160;давалъ кой-какія&#160;свои указанія, которыя въ дорогѣ могли пригодиться. Но&#160;въ числѣ ихъ было одно, котораго онъ не&#160;понялъ, когда впервые прочелъ письмо, и&#160;сегодня точно также не&#160;могъ понять:
+</p><p>«Въ пути берегите ваше желѣзо, какъ&#160;бы&#160;у васъ не&#160;украли его».
+</p><p>Что&#160;бы&#160;это могло значить? Вѣдь у&#160;него&#160;же нѣтъ съ собой никакого желѣза? Что&#160;за&#160;странный совѣтъ! Неужели ему правду разсказывали, будто пріятель его помѣшался?..
+</p><p>Бой<sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> накрывалъ для&#160;него столикъ на&#160;деревянномъ ящикѣ. Что&#160;ему хочется ѣсть — это-то&#160;онъ, по&#160;крайней мѣрѣ, сумѣлъ объяснить своимъ спутникамъ; онъ еще на&#160;пароходѣ заучилъ это слово. <i>«Куліа»</i> — что&#160;значитъ «ѣсть». Только что&#160;приходилъ къ нему поваръ и&#160;спрашивалъ: <i>«Кaвa?»</i> и&#160;онъ утвердительно кивнулъ головой, зная, что <i>«кава»</i> означаетъ — кофе.. И&#160;теперь поваръ сидѣлъ на&#160;корточкахъ на&#160;выжженной коричневой лѣсной землѣ, разводилъ огонь и&#160;ставилъ на&#160;него котелокъ съ водой.
+</p><p>Въ сущности онъ чувствовалъ себя очень недурно. Чѣмъ больше онъ остывалъ, тѣмъ больше бодрила его влажная свѣжесть прикосновенія&#160;платья къ его тѣлу. Ему только непріятно было, что&#160;эти чернокожіе глазѣютъ на&#160;него, а&#160;онъ не&#160;умѣетъ съ ними разговаривать на&#160;ихъ языкѣ.
+</p><p>Минуту тому назадъ, когда черный сержантъ уставился на&#160;него, между ними произошло что-то&#160;вродѣ сближеній; они&#160;какъ&#160;бы&#160;дали другъ другу понять, что&#160;оба они — люди: онъ сказалъ: «Уфъ!» и&#160;началъ обмахивать носовымъ платкомъ разгорѣвшееся лицо. А&#160;чернокожій сержантъ ухмыльнулся, оскаливъ бѣлые зубы и&#160;сказалъ: «Эге!»
+</p><p>Это было приблизительно такъ, какъ если&#160;бы&#160;онъ сказалъ: «Сегодня очень жарко».
+</p><p>А&#160;сержантъ отвѣтилъ&#160;бы: «Да, жарища страшная».
+</p><p>Такого рода разговоръ былъ, разумѣется, немного утомителенъ, но, по&#160;крайней мѣрѣ, у&#160;бѣлаго явилось смутное ощущеніе, что&#160;теперь онъ познакомился съ сержантомъ.
+</p><p>Сержантъ Мако пріѣхалъ за&#160;новымъ бѣлымъ изъ дальней станціи&#160;Бокаты, отстоявшей отъ пароходной пристани на&#160;десять дней пути, въ сопровожденіи&#160;дюжины солдатъ, тринадцати носильщиковъ, боя и&#160;повара, и&#160;встрѣтилъ его на&#160;пристани. Мако было уже не&#160;впервой встрѣчать здѣсь бѣлыхъ, пріѣзжающихъ изъ дальнихъ странъ; въ шляпѣ, имѣющей форму шлема, какіе носятъ подъ тропиками, въ новомъ съ иголочки платьѣ, всѣ они&#160;казались какими-то&#160;неуклюжими и&#160;безпомощными. Покрой платья у&#160;каждаго былъ особенный, и&#160;Мако всегда со вниманіемъ присматривался къ нему, но, тѣмъ не&#160;менѣе, онъ зналъ, что&#160;дѣло не&#160;въ платьѣ. По&#160;платью совершенно невозможно было угадать, заболѣетъ&#160;ли&#160;бѣлый и&#160;уѣдетъ обратно на&#160;родину, или&#160;же умретъ, или&#160;же онъ изъ тѣхъ, въ началѣ молчаливыхъ европейцевъ, которые, черезъ годъ послѣ прибытія&#160;въ эту чужую для&#160;нихъ страну, чувствуютъ себя въ ней какъ дома, какъ будто они&#160;всю жизнь провели среди чернокожихъ. Мако хорошо изучилъ мимику и&#160;жесты всѣхъ этихъ новичковъ. Ему было знакомо и&#160;вступительное обмахиваніе носовымъ платкомъ, этимъ страннымъ аттрибутомъ европейской культуры, и&#160;уже не&#160;разъ онъ точно также ухмылялся въ отвѣтъ, показывая этимъ, что&#160;понимаетъ, въ чемъ дѣло.
+</p><p>Но&#160;всего этого вновь прибывшій бѣлый не&#160;зналъ. Онъ еще не&#160;умѣлъ разбираться въ мысляхъ туземцевъ. Онъ только видѣлъ передъ собою дикія&#160;черныя лица, и, когда сержантъ ухмыльнулся ему, онъ подумалъ, что&#160;такъ скалить зубы можетъ только животное, а&#160;не человѣкъ, хоть и&#160;понялъ, что&#160;этотъ чернокожій относится къ нему дружественно. Впрочемъ, ему и&#160;вообще въ голову не&#160;приходило, что&#160;эти дикіе люди, съ угловато-гибкими обезьяньими ухватками и&#160;движеніями и&#160;съ такимъ страннымъ языкомъ, также способны были мыслить.
+</p><p>Ему очень хотѣлось&#160;бы&#160;знать, сколько имъ еще надо пройти въ этотъ день, и&#160;онъ искалъ въ своей памяти слова, которое&#160;бы&#160;на туземномъ языкѣ означало: «далеко». Ему помнилось, что&#160;онъ уже слыхалъ это слово, но&#160;припомнить его онъ не&#160;могъ. А&#160;спрашивать мимикой, руками и&#160;жестами ему не&#160;хотѣлось. Къ этому онъ еще не&#160;привыкъ.
+</p><p>Бой покрылъ чѣмъ-то&#160;вродѣ бѣлой скатерти ящикъ, который долженъ былъ служить бѣлому человѣку столомъ. При&#160;видѣ ослѣпительной бѣлизны этой ткани европеецъ невольно улыбнулся; а&#160;когда до&#160;обонянія&#160;его донесся такой родной запахъ горячаго кофе, онъ и&#160;совсѣмъ забылъ объ окружающемъ.
+</p><p>Утоливъ свой голодъ, онъ отъ нечего дѣлать, опять сталъ ловить отдѣльныя слова изъ разговора негровъ, и&#160;одно изъ этихъ словъ сразу вернуло его къ дѣйствительности:
+</p><p>— «Эфеко» — сказалъ одинъ.
+</p><p>И&#160;другой повторилъ: «Эфеко».
+</p><p>Это слово онъ уже слышалъ однажды. Нынче утромъ, когда они&#160;проходили черезъ одно селеніе, ему вышли навстрѣчу двое старыхъ негровъ и&#160;двое другихъ помоложе, которыхъ онъ счелъ за&#160;вождей племени, жившаго въ этой деревнѣ, и&#160;всѣ они&#160;что-то&#160;такое говорили ему, но&#160;онъ ничего не&#160;понялъ.
+</p><p>Потомъ онъ сидѣлъ между ними и&#160;силился уловить въ этой путаницѣ звуковъ хоть одно знакомое слово, которое могло&#160;бы&#160;служить ему точкой опоры, и&#160;при этомъ самъ казался себѣ необычайно глупымъ и&#160;смѣшнымъ.
+</p><p>Изъ всѣхъ этихъ звуковъ у&#160;него засѣло въ памяти одно только слово: «эфеко».
+</p><p>Каждый разъ, какъ кто-нибудь произносилъ это слово, остальные хоромъ повторяли его, даже голые негры, кучками стоявшіе поодаль, повторяли это слово.
+</p><p>Бѣлый собрался съ духомъ и, побѣдивъ въ себѣ чувство неловкости, связывавшее его языкъ, обратился къ неграмъ съ вопросомъ:
+</p><p>— <i>Эфеко нени!</i> — Что&#160;такое эфеко?
+</p><p>Одинъ изъ солдатъ указалъ на&#160;большой ножъ, заткнутый у&#160;него за&#160;поясомъ, рядомъ со штыкомъ. Сержантъ опять ухмыльнулся и&#160;указалъ на&#160;стволъ своего ружья. А&#160;одинъ изъ носильщиковъ, сидѣвшихъ по-близости, сунулъ ему подъ самый носъ пучекъ стрѣлъ, которыя онъ держалъ въ рукѣ, и&#160;указалъ на&#160;тоненькіе ихъ желѣзные наконечники, говоря:
+</p><p>— Вотъ это.
+</p><p>Бѣлый перевелъ себѣ это слово. Оно, очевидно, означало: «оружіе».
+</p><p>Но&#160;почему они&#160;такъ много говорятъ объ оружіи? Или&#160;они&#160;хотятъ отнять у&#160;него его оружіе? Хотятъ убить его? Можетъ быть, это — объявленіе воины? Или&#160;это просто означаетъ, что&#160;чернокожіе поняли, что&#160;у бѣлаго оружіе лучше, чѣмъ у&#160;нихъ? Или, можетъ быть, это они&#160;въ знакъ привѣтствія говорятъ объ его оружіи? Или&#160;же хотятъ дать понять, что&#160;они не&#160;станутъ пускать своего оружія&#160;въ ходъ противъ бѣлаго и&#160;противъ солдатъ?..
+</p><p>Сержантъ видѣлъ по&#160;лицу бѣлаго человѣка, что&#160;онъ не&#160;понялъ сказаннаго неграми и&#160;теперь раздумываетъ надъ смысломъ ихъ словъ. И, когда голубые глаза снова остановились на&#160;немъ, онъ протянулъ бѣлому цѣпочку отъ своего штыка, демонстративно тыча пальцемъ въ бѣлое желѣзо.
+</p><p>Бѣлый улыбнулся и&#160;кивнулъ головой, какъ&#160;бы&#160;говоря: «Да, да, я&#160;понялъ». И&#160;чтобъ убѣдить сержанта, вынулъ изъ кармана свой ножъ.
+</p><p>Мако залился хохотомъ, больше подходившимъ на&#160;лошадиное ржанье, свирѣпо поблескивая своими бѣлыми зубами, и&#160;опять сказалъ «Эге». Но&#160;все-таки онъ не&#160;былъ увѣренъ, что&#160;бѣлый понялъ его, какъ слѣдуетъ.
+</p><p>Изъ всѣхъ проблемъ, надъ разрѣшеніемъ которыхъ трудился бѣлый человѣкъ въ теченіе десяти дней пути, эта послѣдняя, связанная со словомъ «эфеко», наиболѣе интересовала его.
+</p><p>Ему представлялось возможнымъ, что&#160;это слово могло быть замаскированнымъ объявленіемъ войны. Страха онъ, разумѣется, не&#160;испытывалъ, но&#160;все&#160;же ему не&#160;улыбалась мысль быть измѣннически умерщвленнымъ вмѣстѣ со своими солдатами въ темной чащѣ дѣвственнаго лѣса.
+</p><p>Въ деревнѣ, гдѣ они&#160;остановились на&#160;ночь послѣ перваго дня пути, повторилось то&#160;же, что&#160;было утромъ. Старый сѣдовласый негръ обратился къ нему съ рѣчью. Весь согнувшись и&#160;протягивая къ нему руки, старикъ стоялъ передъ нимъ, какъ нищій, и «Пете Митано» — такъ назвали солдаты новаго бѣлаго… потому что&#160;онъ былъ поручикъ и&#160;на погонахъ у&#160;него было по&#160;пяти золотыхъ нашивокъ — почувствовалъ себя совсѣмъ сконфуженнымъ, прочитавъ въ глазахъ старика какую-то&#160;мольбу и&#160;тайное горе. Видя, что&#160;бѣлый не&#160;понимаетъ его, старикъ взялъ изъ рукъ стоявшаго за&#160;нимъ ножъ и&#160;показалъ его «Пете Митано». Ножъ былъ, дѣйствительно, замѣчательный въ своемъ родѣ. Ручка у&#160;него была большая, но&#160;лезвіе такое маленькое и&#160;стертое отъ времени и&#160;долгаго употребленія, что «Пете Митано» не&#160;могъ понять, куда и&#160;на что&#160;можетъ годиться такой ножъ.
+</p><p>Подошелъ сержантъ и&#160;началъ объяснять ему, въ чемъ дѣло, но&#160;безуспѣшно. «Пете Митано» не&#160;понималъ его.
+</p><p>Во&#160;всѣхъ прочихъ деревняхъ повторялось то&#160;же, тѣ же рѣчи и&#160;мольбы, и «Пете митано» въ концѣ концовъ пересталъ обращать вниманіе на&#160;молящіе взоры и&#160;жалобныя взыванія&#160;къ нему чернокожихъ, порѣшивъ, что&#160;не стоитъ ломать себѣ надъ этимъ голову — въ Бокатѣ вѣдь все объяснится.
+</p><p>Самъ онъ чувствовалъ себя превосходно, съ каждымъ днемъ все лучше, и&#160;уже желалъ, чтобы путь этотъ длился вѣчно. Утромъ онъ поднимался чуть свѣтъ, раньше, чѣмъ солнце успѣвало потревожить мирный сонъ обитателей деревни. Ходить онъ могъ безъ конца, не&#160;уставая, и, когда они&#160;подъ вечеръ останавливались на&#160;ночевку, онъ даже не&#160;чувствовалъ себя истощеннымъ. Всѣ эти переживанія&#160;были новы для&#160;него, полны новыхъ впечатлѣній. Ново было шагать по&#160;росистымъ лѣснымъ тропинкамъ и&#160;поднимать глаза вверхъ къ вершинамъ деревьевъ, стараясь разглядѣть между ними кусочекъ голубого неба или, найди его, впивать глазами смягченный, зеленоватый солнечный свѣтъ. Когда&#160;же, по&#160;выходѣ его изъ болота, нижняя поросль исчезала, и&#160;между голыми стволами деревьевъ открывались широкіе просвѣты, вся душа его преисполнялась безконечнаго ликованія: ему хотѣлось пѣть, дурачиться и&#160;кричать неграмъ всякія&#160;смѣшныя слова. И&#160;онъ не&#160;дѣлалъ этого только потому, что&#160;стыдился. Ново было также переправляться чуть не&#160;въ бродъ черезъ большія&#160;болота, гдѣ мѣстами пальмы и&#160;высокіе папоротники образовали настоящіе туннели, гдѣ отъ вершинъ спускались внизъ вертикально, какъ натянутыя веревки, длинные корни и&#160;уходили въ болото, а&#160;по вѣковымъ стволамъ карабкались вверхъ мхи и&#160;орхидеи.
+</p><p>Отъ времени до&#160;времени ему удавалось застрѣлить птицу или&#160;обезьяну. И&#160;свои охотничьи трофеи онъ поровну дѣлилъ между своими людьми, которые прозвали его «Бума н’деке» — истребитель птицъ.
+</p><p>Постепенно, въ пути, онъ знакомился съ языкомъ, узнавая все больше и&#160;больше новыхъ словъ. Каждый день ему раскрывалось практическое значеніе того или&#160;другого загадочнаго раньше слова. Понемногу онъ осваивался и&#160;съ чернокожими и&#160;привыкалъ къ нимъ, особенно, когда ему случалось доставить имъ маленькую радость и&#160;самому порадоваться при&#160;видѣ ихъ сіяющихъ удовольствіемъ лицъ.
+</p><p>Однажды имъ перебѣжалъ дорогу жирный дикій кабанъ, прорвавшись сквозь ряды идущихъ. И&#160;хотя бѣлый какъ разъ въ это время фантазировалъ, представляя себѣ дѣвственный лѣсъ огромнымъ заломъ съ золотыми колоннами, пронизанными солнечнымъ свѣтомъ, и&#160;свою собственную участь въ немъ рисуя себѣ въ самыхъ грандіозныхъ формахъ и&#160;ярчайшихъ краскахъ, тутъ онъ, не&#160;медля, выхватилъ двустволку изъ рукъ идущаго за&#160;нимъ чернокожаго и, прежде чѣмъ солдаты успѣли&#160;опомниться, «Бума н’деке» уже прыгнулъ въ кусты, въ догонку за&#160;дикимъ кабаномъ.
+</p><p>Когда, мигъ спустя, раздался выстрѣлъ, и&#160;кабанъ, обливаясь кровью, упалъ неподалеку отъ дороги, негры подняли неистовый восторженный крикъ; и «Бума н’деке», самъ дивившійся своей удачѣ, стоя передъ убитой свиньей и&#160;глядя на&#160;радостныя смѣющіяся лица вокругъ, началъ понимать, хоть и&#160;не владѣлъ еще ихъ языкомъ, что&#160;въ глазахъ своихъ солдатъ и&#160;носильщиковъ онъ становится героемъ.
+</p><p>Дикаго кабана разрѣзали на&#160;части; каждый получилъ свою долю, тщательно завернулъ ее въ листья, перевязалъ ліанами и&#160;подвѣсилъ себѣ на&#160;шею или&#160;же уложилъ въ корзину.
+</p><p>Это событіе неизгладимо врѣзалось въ память чернокожихъ, и «Бума н’деке» получилъ другое, еще болѣе почетное прозвище: «Бума н’сомбо» — истребитель дикихъ кабановъ. И&#160;это прозвище осталось за&#160;нимъ, хотя потомъ онъ въ жизнь свою не&#160;убилъ уже больше ни&#160;одного кабана.
+</p><p>Отрядъ двинулся дальше, но&#160;у негровъ только и&#160;было рѣчи, что&#160;о «Бума н`сомбо»; бѣлый видѣлъ это по&#160;лицамъ и&#160;жестамъ своихъ людей. И&#160;это не&#160;мало льстило ему.
+</p><p>Но&#160;и&#160;упиваясь счастьемъ, онъ не&#160;могъ не&#160;замѣтить, что&#160;мѣстность, по&#160;которой они&#160;теперь проходили, была очень бѣдная. Жители были и&#160;меньше ростомъ, и&#160;тощѣе тѣхъ, которыхъ онъ видалъ въ селеніяхъ прирѣчной области. И&#160;хижины здѣсь были убогія, мѣстами полуразвалившіяся. И&#160;чѣмъ больше онъ думалъ объ этомъ, тѣмъ больше укрѣплялся въ своемъ предположеніи, что&#160;такое положеніе вещей неестественно и&#160;ненормально.
+</p><p>Когда онъ однажды на&#160;привалѣ сидѣлъ въ одной такой деревушкѣ, возлѣ бамбуковаго шалаша, гдѣ ему строили постель, мимо него случайно прошелъ сержантъ Мако. Мако указалъ на&#160;поля и&#160;сострадательно покачалъ своей черной курчавой головой.
+</p><p>— Очень маленьки — немножко.
+</p><p>И&#160;при&#160;этихъ словахъ раскрылъ ротъ и&#160;сдѣлалъ видъ, будто бросаетъ туда что-то. И&#160;пояснилъ:
+</p><p>— Голодъ — ѣсть нѣтъ.
+</p><p>«Бума н’сомбо» вспомнилъ убогія&#160;лачуги и&#160;худобу жителей и&#160;понялъ, что&#160;земля не&#160;даетъ имъ достаточно пищи.
+</p><p>— Развѣ почва здѣсь такая неплодородная? — спрашивалъ онъ себя, — Неужели вся тутъ причина въ неурожаѣ? Развѣ у&#160;нихъ нѣтъ сѣмянъ?
+</p><p>— Почему? — спросилъ онъ.
+</p><p>— <i>Эфеко</i>, — былъ отвѣтъ.
+</p><p>При&#160;этомъ сержантъ опять указалъ рукой на&#160;цѣпочку своего штыка, и&#160;европейцу, постепенно научившемуся понимать измѣнчивое выраженіе черныхъ глазъ Мако, показалось, что&#160;глаза эти блеснули страхомъ.
+</p><p>И&#160;вдругъ ему стало ясно, что «эфеко» должно означать: «желѣзо».
+</p><p>Желѣзо!
+</p><p>— Развѣ у&#160;здѣшнихъ людей нѣтъ желѣза? — спросилъ онъ у&#160;Мако.
+</p><p>— Очень, очень мало, — отвѣтилъ сержантъ и&#160;умолкъ, какъ&#160;бы&#160;испугавшись, что&#160;онъ сказалъ слишкомъ много.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r4837660">.mw-parser-output .hr-custom{height:1px;width:40em;margin-left:auto;margin-right:auto;margin-top:5ex;margin-bottom:5ex}</style><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Въ послѣдующіе дни «Бума н’сомбо» много думалъ.
+</p><p>Въ чащѣ чуждаго ему дѣвственнаго лѣса онъ сдѣлалъ открытіе, и&#160;радость отъ сознанія&#160;этого щекочущей волной заливала его душу, уже захваченную массой новыхъ впечатлѣній. Ноги его мѣрно и&#160;быстро шагали по&#160;росистымъ лѣснымъ тропинкамъ, а&#160;изумленнымъ глазамъ представлялись все новыя и&#160;новыя видѣнія.
+</p><p>«Желѣзный голодъ».
+</p><p>Неужто вправду на&#160;свѣтѣ есть такой таинственный недугъ, который зовется желѣзнымъ голодомъ? Онъ старался уяснить себѣ, проникнуть въ эту тайну, прилагая къ этому всю свою вновь пробужденную энергію. И&#160;за&#160;завтракомъ, и&#160;на послѣполуденныхъ привалахъ въ деревняхъ, онъ думалъ все только объ этомъ. И, прежде всего, рѣшилъ изучить языкъ, чтобы все понять. Вмѣсто того, чтобы по&#160;вечерамъ отдыхать, набираясь новыхъ силъ, онъ садился, съ записною книжкой въ рукахъ, а&#160;сержантъ и&#160;другіе негры стояли вокругъ него и&#160;называли ему предметы, одинъ за&#160;другимъ. Даже въ пути онъ не&#160;переставалъ работать: заучивалъ наизусть записанныя слова или&#160;вписывалъ въ книжку новыя, которыя онъ запомнилъ изъ разговора солдатъ. А&#160;по&#160;ночамъ, вмѣсто того, чтобы спать, разговаривалъ самъ съ собой на&#160;языкѣ чернокожихъ.
+</p><p>Зато, уже дня черезъ два, онъ, къ великому изумленію негровъ, началъ лучше понимать ихъ и&#160;объясняться съ ними болѣе или&#160;менѣе понятно для&#160;нихъ.
+</p><p>Когда теперь, на&#160;привалахъ, при&#160;немъ произносилось слово «эфеко», оно не&#160;звучало для&#160;него чѣмъ-то&#160;мистическимъ, смутнымъ, животно-грубымъ, свойственнымъ только дикарямъ.
+</p><p>Это слово означало «желѣзо» и&#160;ничего другого.
+</p><p>И&#160;теперь оно звучало въ его ушахъ совсѣмъ по-другому, иной разъ такъ&#160;же заманчиво и&#160;соблазнительно, какъ «золото».
+</p><p>— Гдѣ же ваше желѣзо? — спросилъ онъ однажды. — Или&#160;у&#160;васъ его никогда не&#160;было?
+</p><p>— Очень, очень много было, — отвѣчали негры. — Но&#160;теперь нѣту.
+</p><p>И&#160;они&#160;принялись пространно разсказывать ему, какъ сосѣднее племя покинуло родину, ушло на&#160;западъ и&#160;поселилось въ чужой странѣ, съ жителями которой оно теперь ведетъ безпрерывныя войны. Эти люди и&#160;унесли съ собой желѣзо. Много лѣтъ подрядъ войнолюбивая молодежь выселялась изъ родныхъ деревень, похищала оружіе и&#160;орудія, сдѣланныя изъ желѣза, и&#160;убѣгала съ ними.
+</p><p>А&#160;теперь желѣзо въ этомъ краю изсякло, и&#160;у нихъ остались только старые, зазубренные и&#160;стершіеся ножи; да&#160;и то&#160;ихъ на&#160;ночь приходится прятать подъ постилку, иначе, того и&#160;гляди, кто-нибудь украдетъ ножъ и&#160;сбѣжитъ съ нимъ на&#160;Западъ.
+</p><p>— Откуда&#160;же вы въ прежнее время получали желѣзо? — спрашивалъ «Бума н’сомбо».
+</p><p>Негры таинственно указали на&#160;сѣверъ, и&#160;одинъ изъ стариковъ тихо сказалъ:
+</p><p>— Пути отрѣзаны.
+</p><p>Пріѣзжій допытывался:
+</p><p>— А&#160;у&#160;бѣлаго въ Бокатѣ развѣ нѣтъ желѣза?
+</p><p>Негры молчали и&#160;угрюмо смотрѣли&#160;въ землю или&#160;косились въ сторону. Только одинъ мальчуганъ, стоявшій поодаль, за&#160;пальмовымъ деревомъ, отвѣтилъ:
+</p><p>— Много!
+</p><p>Остальные съ ужасомъ воззрились на&#160;него. «Бума н’сомбо» вспомнилось письмо, полученное имъ на&#160;пароходной пристани, и&#160;онъ посмотрѣлъ въ глаза Мако. Но&#160;сержантъ смотрѣлъ въ другую сторону.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Когда вечеромъ «Бума н’сомбо» развалился на&#160;своемъ раскидномъ стулѣ, ему стало казаться, что&#160;онъ находится въ такомъ уголкѣ земного шара, гдѣ желѣзо имѣетъ совсѣмъ иное значеніе, чѣмъ во&#160;всѣхъ прочихъ мѣстахъ, что&#160;это — область въ нѣсколько сотенъ квадратныхъ миль, гдѣ нѣтъ ни&#160;кусочка желѣза, и&#160;отъ этого она такъ бѣдна, неплодотворна и&#160;убога.
+</p><p>Заходящее солнце окрасило все вокругъ алымъ фантастическимъ свѣтомъ. И&#160;чѣмъ больше раздумывалъ бѣлый, тѣмъ больше разросталась въ его головѣ эта мысль объ отсутствіи&#160;желѣза, до&#160;гигантскихъ размѣровъ. Онъ самъ не&#160;зналъ, откуда у&#160;него взялась такая мысль, но&#160;теперь ему было ясно, что&#160;жизненная сила населенія&#160;таетъ отъ этого страшнаго голода, котораго онъ до&#160;сихъ поръ не&#160;зналъ даже по&#160;имени: желѣзнаго голода.
+</p><p>Теперь онъ понялъ, на&#160;что ему жаловались старѣйшины въ деревняхъ. Они&#160;просто разсказывали ему, что&#160;деревни ихъ все больше бѣднѣютъ и&#160;вымираютъ отъ страшнаго, мучительнаго желѣзнаго голода.
+</p><p>Пытливая мысль «Бума н’сомбо» извивалась и&#160;скакала вокругъ, какъ испуганный звѣрекъ. Онъ, до&#160;тѣхъ поръ не&#160;сталкивавшійся съ первобытными народами, неожиданно увидалъ, какъ эти первобытные народы тѣснятся около желѣзныхъ рудъ, скрытыхъ въ нѣдрахъ земли.
+</p><p>И&#160;эта мысль захватила его съ страшной силой. Какъ&#160;же обстоитъ дѣло съ желѣзомъ тамъ, дома, въ старой Европѣ? — Тамъ, вѣдь, гоняются только за&#160;золотомъ.
+</p><p>У&#160;него потемнѣло въ глазахъ. Ему стало жутко.
+</p><p>Ему казалось, что&#160;онъ проваливается сквозь землю, вмѣстѣ со своимъ стуломъ. Въ то&#160;время, какъ пальмовый лѣсъ купалъ тонкіе стволы свои въ темномъ заревѣ уходящаго солнца, ему чудилось, что&#160;шаръ земной несется въ міровомъ пространствѣ мимо него, въ какомъ-то&#160;туманѣ, дрожащемъ отъ звона и&#160;лязга желѣза. Онъ видѣлъ, какъ народы хватаютъ и&#160;тащатъ къ себѣ желѣзо, чтобы обезпечить свое существованіе, — видѣлъ огромныя кучи, горы желѣза, такія&#160;тяжелыя, что&#160;земля разступалась, не&#160;имѣя&#160;силы сдержать ихъ. Онъ видѣлъ народы, подобно гигантскимъ магнитамъ, высасывавшіе желѣзо изъ горъ, принадлежавшихъ другимъ племенамъ. И&#160;ему мерещилось, что&#160;борьба народовъ сводится только къ одному — къ разбойничьему набѣгу на&#160;желѣзо, скрытое въ нѣдрахъ земли, какъ будто всѣ усилія, весь трудъ человѣчества были направлены лишь къ тому, чтобъ захватить и&#160;утащить къ себѣ побольше желѣза. И&#160;онъ видѣлъ, какъ отдѣльныя націи, на&#160;желѣзныхъ пьедесталахъ выростали изъ тьмы временъ все выше и&#160;выше.
+</p><p>Здѣсь, въ этомъ краю, наступилъ отливъ, такъ какъ желѣзо, притягиваемое далекими невидимыми колоссами, ушло своимъ невидимымъ путемъ, черезъ лѣсъ.
+</p><p>И&#160;онъ рѣшилъ, что&#160;ему предстоитъ великая задача.
+</p><p>Онъ дастъ этимъ людямъ столько желѣза, сколько необходимо имъ для&#160;поддержанія&#160;ихъ жизни.
+</p><p>Но&#160;сколько&#160;же имъ нужно? И&#160;откуда онъ возьметъ столько желѣза?..
+</p><p>Весь слѣдующій день онъ неустанно думалъ объ этомъ и&#160;рѣшилъ, тотчасъ&#160;же по&#160;прибытіи&#160;въ Бокату, поговорить объ этомъ съ бѣлымъ, котораго онъ долженъ замѣнить, и&#160;заинтересовать его этой задачей, наполнявшей его все большимъ и&#160;большимъ энтузіазмомъ.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Но&#160;вышло совсѣмъ иначе, чѣмъ предполагалъ «Бума н’сомбо». На&#160;станціи&#160;онъ нашелъ только письмо на&#160;свое имя отъ лейтенанта Морона, начальника станціи. Этотъ послѣдній сообщалъ ему, что&#160;принужденъ былъ, по&#160;дѣламъ администраціи, временно отлучиться, но&#160;скоро вернется. А&#160;пока проситъ товарища располагаться, какъ дома, и&#160;ждать его возвращенія.
+</p><p>«Бума н’сомбо» показалось страннымъ, что&#160;Моронъ вынужденъ былъ отлучиться какъ разъ наканунѣ его прибытія. Но&#160;негры, служащіе на&#160;станціи, до&#160;нѣкоторой степени объяснили ему это, разсказавъ, что&#160;Морана унесли на&#160;носилкахъ, что&#160;онъ сильно захворалъ, а&#160;когда ему случается захворать, онъ нерѣдко предпринимаетъ такія&#160;экскурсіи.
+</p><p>«Бума н’сомбо» оставалось одно — ждать, сдерживая свое нетерпѣніе. По&#160;утрамъ онъ производилъ ученье солдатамъ, а&#160;послѣ обѣда&#160;обходилъ мастерскія, или&#160;же гулялъ по&#160;плантаціямъ и&#160;по окрестностямъ.
+</p><p>Во&#160;время этихъ прогулокъ ему не&#160;разъ бросался въ глаза маленькій каменный домикъ безъ оконъ, стоявшій въ сторонѣ отъ всѣхъ прочихъ, близъ банановаго питомника, на&#160;самомъ краю крутого каменистаго склона, съ котораго, между деревьями, можно было разглядѣть большое болото. У&#160;подножія&#160;этого склона протекалъ небольшой свѣтлый ручеекъ, тотъ&#160;же самый, что&#160;и за&#160;караулкой. Однажды «Бума н’сомбо» пришло въ голову, что, хотя отъ караулки до&#160;этого домика разстоянія&#160;около трехсотъ метровъ, и&#160;откосъ весь поросъ деревьями, тѣмъ не&#160;менѣе, изъ одного домика можно было видѣть другой. Съ этой стороны станція, должно быть, почти неприступна. И&#160;однажды у «Бума н’сомбо», по&#160;натурѣ воинственнаго и&#160;прирожденнаго изслѣдователя, явилась мысль — внимательно осмотрѣть всю окрестность и&#160;опредѣлить наиболѣе уязвимыя мѣста, на&#160;случай нападенія. Онъ уже хотѣлъ было спуститься по&#160;крутому откосу и&#160;прямикомъ, черезъ ручей, пробраться къ уединенному домику, когда одинъ изъ караульныхъ нагналъ его и&#160;удержалъ. «Бума н’сомбо» спросилъ, въ чемъ дѣло; тогда солдатъ показалъ ему, что&#160;весь откосъ утыканъ острыми деревянными кольями, воткнутыми въ небольшія&#160;ямки и&#160;тщательно прикрытыми увядшими листьями.
+</p><p>Еще и&#160;другое обстоятельство дивило «Бума н’сомбо» и&#160;возбуждало его любопытство. На&#160;небольшой верандѣ, обѣгавшей вокругъ уединеннаго домика, неизмѣнно сидѣли&#160;двое старыхъ негровъ, съ виду обыкновенныхъ поселянъ, но&#160;съ ружьями въ рукахъ. Ему непонятно было, чего ради такъ старательно охранять этотъ домъ; но&#160;разспрашивать, онъ не&#160;хотѣлъ: — скоро, вѣдь, пріѣдетъ лейтенантъ Моронъ и&#160;самъ все объяснитъ ему.,
+</p><p>Однажды идя по&#160;банановому питомнику, по&#160;направленію къ каменному домику, онъ увидалъ передъ собой, на&#160;поворотѣ дороги, видимо, туда&#160;же идущаго негра, съ корзиною за&#160;спиной, въ которой лежала дюжина большихъ, только что&#160;выкованныхъ ножей. Старикъ шелъ прямо къ домику, и «Бума н’сомбо», сгорая отъ любопытства, пошелъ за&#160;нимъ..
+</p><p>— Кто ты такой? — спросилъ онъ, когда они&#160;поравнялись, съ негромъ у&#160;дверей дома.
+</p><p>Старикъ поставилъ на&#160;землю свою корзину, повернулся лицомъ къ бѣлому и&#160;отвѣтилъ, ударяя себя кулакомъ въ тощую грудь:
+</p><p>— Я — Кинема, предводитель всѣхъ кузнецовъ. Я&#160;принесъ новые ножи.
+</p><p>Тѣмъ временемъ одинъ изъ часовыхъ вынулъ связку ключей, отперъ три замка, висѣвшихъ на&#160;двери, и «Бума, н’сомбо» вошелъ.
+</p><p>Кругомъ, на&#160;широкихъ полкахъ, лежали сотни ножей, топоровъ и&#160;мотыкъ. «Бума н’сомбо» съ удивленіемъ созерцалъ эти неожиданныя богатства; и, выйдя снова на&#160;солнце изъ этого домика, пропитаннаго влажнымъ и&#160;холоднымъ запахомъ желѣза, онъ сказалъ себѣ:
+</p><p>— Теперь я&#160;знаю, что&#160;лейтенантъ Моронъ сумасшедшій.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Онъ съѣздилъ дня на&#160;два на&#160;охоту, и, когда вернулся, ему сказали, что&#160;лейтенантъ Моронъ уже дома, но&#160;что онъ страшно исхудалъ — сталъ, «тонкій, какъ палецъ», и&#160;лежитъ «при&#160;смерти», какъ увѣряли негры. «Бума н’сомбо» поспѣшилъ въ домъ Морона и&#160;велѣлъ вести себя прямо въ спальню.
+</p><p>Ему стало жутко, когда онъ увидалъ больного. Черепъ у&#160;Морона былъ совершенно голый, обтянутый морщинистымъ желтымъ пергаментомъ. Уже помутившіеся, широко раскрытые глаза ушли глубоко въ несоразмѣрно большія&#160;орбиты, грудь дышала тяжело и&#160;прерывисто.
+</p><p>Когда «Бума н’сомбо» появился въ дверяхъ, умирающій протянулъ ему свою костлявую руку и&#160;тихо выговорилъ:
+</p><p>— Я&#160;отлично знаю, что&#160;вы думаете. Но&#160;вы ошибаетесь.
+</p><p>Хотя «Бума н’сомбо» и&#160;видѣлъ, что&#160;передъ нимъ умирающій, все&#160;же такой пріемъ показался ему обиднымъ.
+</p><p>— Знаете&#160;ли&#160;вы, — съ видимымъ усиліемъ продолжалъ Моронъ, — сколько желѣза&#160;нужно негру для&#160;своего пропитанія? Я&#160;это знаю точно. Если вы ему дадите хоть на 50 граммовъ больше, онъ воспользуется этимъ, чтобъ начать убивать.
+</p><p>«Бума н’сомбо» стало еще болѣе жутко, когда онъ увидѣлъ, какъ блеснули при&#160;этихъ словахъ уже померкшіе глаза.
+</p><p>— Я&#160;покорилъ этотъ край. Это стоило крови. Они&#160;хотѣли&#160;убить меня. А&#160;они&#160;умѣютъ убивать. Это были воины. Но&#160;развѣ мнѣ когда-нибудь давали достаточно солдатъ, для&#160;охраны меня самого и&#160;интересовъ государства? Нѣтъ, я&#160;былъ предоставленъ самому себѣ. Вы, можетъ быть, думаете, что&#160;я былъ жестокъ? Нѣтъ; но, если кому-нибудь изъ насъ двоихъ необходимо умереть — тебѣ или&#160;мнѣ, — при&#160;этихъ словахъ онъ снова поднялъ руку, — такъ ужъ лучше умирай ты, а&#160;не я. Я&#160;не&#160;хочу умирать.
+</p><p>«Бума н’сомбо» попытался было успокоить его, но&#160;Моронъ, изнемогая отъ усилій, продолжалъ:
+</p><p>— Дайте мнѣ высказаться. Поймите&#160;же. Туземцы вначалѣ были слишкомъ сильны. Тогда я&#160;напалъ на&#160;мысль, которая была для&#160;меня спасеніемъ. Я&#160;началъ исподволь, когда они&#160;еще думали, что&#160;у нихъ желѣза&#160;достаточно, вымѣнивать оружіе и&#160;земледѣльческія&#160;орудія&#160;на бусы и&#160;бумажныя матеріи; а&#160;когда они&#160;уже стали отказываться отъ мѣны, и&#160;когда я&#160;почувствовалъ, какую важную задачу я&#160;взялъ на&#160;себя, тогда я&#160;пошелъ къ нимъ съ солдатами и&#160;самъ взялъ все, что&#160;нашелъ. Что? Вы думаете, можетъ быть, что&#160;я боялся этихъ трусовъ? Я?! Знаете, какъ они&#160;меня прозвали? — «Воръ, крадущій желѣзо». Вотъ тогда-то&#160;они и&#160;начали сами красть желѣзо и&#160;убѣгать съ нимъ на&#160;Западъ, потому что&#160;почувствовали, что&#160;я сильнѣе ихъ. Бѣжали всѣ, кто только успѣлъ запастись оружіемъ. Тѣ же, кто не&#160;успѣлъ удрать, тутъ и&#160;останутся, потому что&#160;они обезоружены. Я&#160;отобралъ у&#160;нихъ всѣхъ кузнецовъ: всѣ они&#160;работаютъ на&#160;одного только меня. Они&#160;перековываютъ отобранное оружіе на&#160;орудія&#160;и плуги. Вы понимаете?
+</p><p>Въ волненіи&#160;Моронъ приподнялся на&#160;локтѣ и&#160;теперь, въ изнеможеніи, снова упалъ на&#160;подушки, не&#160;сводя испытующаго взора съ лица «Бума н’сомбо». А&#160;тотъ послѣдній допытывался.
+</p><p>— Но&#160;почему&#160;же вы держите здѣсь взаперти всѣ эти орудія? А&#160;населеніе голодаетъ.
+</p><p>— Еслибъ я&#160;выдалъ имъ плуги, они&#160;перековали&#160;бы&#160;ихъ на&#160;мечи. Этихъ дьяволовъ можно укротить только голодомъ. Когда они&#160;поймутъ, что&#160;я здѣсь господинъ, тогда получатъ и&#160;плуги. Вы все еще думаете, что&#160;эти четыре года, что&#160;я прожилъ здѣсь, я&#160;все время дрожалъ передъ ними? Нѣтъ, наоборотъ — эти негры боятся меня. Оттого они&#160;и не&#160;рѣшаются произносить мое имя. Оттого и&#160;хотятъ убить меня.
+</p><p>Съ минуту онъ лежалъ молча; помутившійся взоръ блуждалъ; въ груди у&#160;него клокотало. Потомъ онъ еще разъ повернулся лицомъ къ «Бума н’сомбо» и&#160;выговорилъ:
+</p><p>— Старый кузнецъ говорилъ мнѣ, что&#160;вы видѣли&#160;мой арсеналъ. Тамъ ничего нельзя трогать. Все это моя собственность.
+</p><p>«Бума н’сомбо» не&#160;выдержалъ. Агонія&#160;Морона уже не&#160;внушала ему почтенія; онъ принудилъ себя взглянуть въ потускнѣвшіе глаза своего предшественника, таившіе въ себѣ адскія&#160;муки, въ которыхъ виноватъ былъ самъ&#160;же Моронъ, и&#160;выговорилъ голосомъ, который онъ хотѣлъ сдѣлать твердымъ, но&#160;который, однакожъ, дрожалъ:
+</p><p>— Мой долгъ сказать, вамъ, что&#160;вы ошибаетесь. Всѣ это принадлежитъ <i>мнѣ.</i>
+</p><p>Но&#160;Моронъ, должно быть, уже не&#160;слышалъ. Взоръ его погасъ, и&#160;въ груди у&#160;него уже не&#160;хрипѣло.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="II._Возвращеніе_Конго."><span id="II._.D0.92.D0.BE.D0.B7.D0.B2.D1.80.D0.B0.D1.89.D0.B5.D0.BD.D1.96.D0.B5_.D0.9A.D0.BE.D0.BD.D0.B3.D0.BE."></span>II. <br />Возвращеніе Конго.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=2" title="Редактировать раздел «II. Возвращеніе Конго.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Солнце заливало трепетнымъ изсѣра-желтымъ свѣтомъ маленькую негритянскую деревушку Мопото. Было такъ жарко, что&#160;на банановыхъ деревьяхъ, росшихъ безпорядочными группами позади низенькихъ хижинъ и&#160;между ними, большіе, травянисто-зеленые листья свертывались въ трубку и&#160;висѣли&#160;лохмотьями. Точно также увяла и&#160;высокая въ человѣческій ростъ маніока, тянувшаяся сплошь полемъ зелени отъ деревни до&#160;опушки лѣса. Даже немногія зонтичныя пальмы съ огромными листьями, пощаженныя топоромъ и&#160;считавшія&#160;своей обязанностью отбрасывать тѣнь на&#160;поля, среди которыхъ они&#160;росли, признали себя побѣжденными и&#160;свѣсили вертикально внизъ свои сѣро-зеленые листья-розетки и&#160;кончики бѣлыхъ вѣтокъ, похожихъ на&#160;канделябры.
+</p><p>Кровли убогихъ хижинъ, крытыхъ пальмовыми и&#160;сакрофриніевыми листьями, до&#160;того высохли, что&#160;кончики жесткихъ листьевъ высовывались наружу, и&#160;слышно было, какъ они&#160;шуршали и&#160;шелестѣли&#160;отъ малѣйшаго вѣтра.
+</p><p>Въ такую погоду мѣстный деревенскій юмористъ имѣлъ обыкновеніе указывать пальцемъ черезъ плечо и&#160;говорить: <i>«Гамбо не&#160;йе мой»</i> — что&#160;означало «Солнце — злодѣй».
+</p><p>Былъ полдень, и&#160;солнце стояло въ зенитѣ, прямо надъ Мопото. Оно точно объявило войну землѣ, грозя утопить въ гнетуще тяжкихъ потокахъ лучей все, что&#160;жило. Обыкновенно въ эту пору дня Мопото замирало въ безмятежномъ покоѣ, и&#160;тишина едва нарушалась легкимъ беззвучнымъ стукомъ глиняной и&#160;деревянной посуды въ рукахъ женщинъ, хозяйствовавшихъ въ хижинахъ.
+</p><p>Но&#160;сегодня иначе. Сегодня въ Мопото царило лихорадочное возбужденіе. Посреди желтой песчаной площади, подъ развѣсистымъ тѣнистымъ деревомъ, сидѣлъ вождь и&#160;старшина деревни, старый Йоло, сѣрое тѣло котораго все было покрыто морщинами. И&#160;вокругъ него всѣ именитые старцы Мопото. А&#160;эту группу сидящихъ небольшимъ кружкомъ обступили полуобнаженные негры — женщины, мужчины и&#160;дѣти, жадно вынюхивающіе всякія&#160;новости. Всѣ они&#160;вспотѣли&#160;отъ жары, и&#160;спины и&#160;плечи ихъ лоснились жирнымъ блескомъ. И&#160;не&#160;было на&#160;деревнѣ такой лачуги, обитатели которой не&#160;высовывали&#160;бы&#160;головъ изъ-подъ низкихъ крышъ и&#160;не перекликались&#160;бы&#160;съ сидѣвшими на&#160;площади. Къ такой группѣ примыкали все новые и&#160;новые любопытные, въ то&#160;время, какъ нѣкоторые изъ состава ея, найдя, что&#160;они достаточно жарились на&#160;солнцѣ, довольные и&#160;разгоряченные уходили домой.
+</p><p>Изъ Балала, сосѣдней съ Мопото деревни, лежащей на&#160;небольшой рѣчкѣ Лоло, пришла вѣсть, что&#160;Понго, сынъ стараго Якулы, возвращается домой.
+</p><p>Прошло уже добрыхъ три года съ тѣхъ поръ, какъ Понго покинулъ родительскій домъ. Въ одинъ прекрасный день ему въ конецъ опостылѣла монотонная и&#160;праздная жизнь въ маленькомъ лѣсномъ уголкѣ, и&#160;онъ ушелъ изъ Мопото, даже не&#160;простившись съ отцомъ, старымъ ворчливымъ Якулой — ушелъ въ Балала; а&#160;тамъ ночью укралъ маленькую одновесельную лодку, поплылъ въ ней внизъ по&#160;теченію и&#160;благополучно добрался до&#160;станціи&#160;Ямбайя.
+</p><p>Передъ своимъ уходомъ изъ Мопото, онъ разсказывалъ товарищамъ, что&#160;хочетъ пойти въ солдаты; и&#160;другіе солдаты, вернувшіеся изъ Балала домой за&#160;эти три года, разсказывали, что&#160;Понго служитъ солдатомъ, и&#160;что его видали на&#160;незнакомой рѣкѣ, очень большой, съ мистическимъ именемъ: «Баръ». Одинъ солдатъ изъ Балала, кичившійся тѣмъ, что&#160;заучилъ дюжину французскихъ словъ, увѣрялъ, будто рѣка эта зовется также «Ниломъ»; а&#160;по словамъ другого солдата, тоже человѣка бывалаго, отъ Мотопо до&#160;этой рѣки надо было ѣхать три мѣсяца.
+</p><p>Йоло съ утра отправилъ двухъ человѣкъ въ Балала, чтобъ они&#160;помогли Понге донести домой черезъ лѣсъ его сундуки. Деревушкѣ еще впервой доводилось принимать возвращавшагося со службы солдата, и&#160;жители ея не&#160;совсѣмъ ясно представляли себѣ, сколько именно сундуковъ, полныхъ матерій, бусъ и&#160;слитковъ желтой мѣди, могъ заработать солдатъ за&#160;три года службы. Нѣкоторые думали: пять. Но&#160;Кондо, молодой парень, не&#160;разъ бывшій въ Ямбапѣ, когда его посылали туда изъ Мотопо съ каучукомъ и&#160;пальмовымъ масломъ, побывавшій и&#160;въ солдатскихъ баракахъ и&#160;ослѣпленный роскошью всѣхъ ярко-цвѣтныхъ матерій и&#160;мѣдной утвари, которыя онъ тамъ видѣлъ, — Кондо утверждалъ: сто. Правда, Кондо былъ человѣкъ вообще ненадежный и&#160;притомъ обладавшій необузданною фантазіей; и, хотя онъ высказывалъ свое утвержденіе самымъ положительнымъ и&#160;правдоподобнымъ манеромъ, слушатели все-таки пожимали плечами — что&#160;ясно видно было по&#160;движеніямъ обнаженныхъ мускуловъ на&#160;ихъ спинахъ. Когда Кондо выговорилъ это священное и&#160;неприкосновенное число: — сто, всѣ, стоявшіе и&#160;сидѣвшіе, разомъ повернулись къ нему, причемъ каждый сдѣлалъ кислую мину, оттянувъ углы рта къ подбородку, и&#160;съ негодующимъ недовѣріемъ уставился въ уголъ. Большинство думали про&#160;себя, что&#160;дюжину-другую сундуковъ онъ все&#160;же, навѣрное, успѣлъ накопить.
+</p><p>Старый Йоло, тонкая лисица, моталъ себѣ на&#160;усъ все, что&#160;говорила молодежь. Наиболѣе образованные, принесшіе изъ Ямбайи новые обороты рѣчи, спорили о&#160;цифрахъ: 12 и 14. Йоло усѣлся поудобнѣе на&#160;свое бревно, прислонился къ дереву, поджалъ подъ себя свои старыя, сѣрыя, костлявыя ноги, оперся одной рукой на&#160;острое колѣно, а&#160;другой взялъ себя за&#160;покрытый рѣденькимъ бѣлымъ пушкомъ подбородокъ, и, среди всеобщаго безмолвія, выговорилъ.
+</p><p>— Штукъ тринадцать, навѣрное, будетъ.
+</p><p>Рѣшенія&#160;Йоло всегда пользовались большимъ вѣсомъ, такъ какъ въ юные годы онъ пріобрѣлъ репутацію мудраго истребленіемъ слабыхъ и&#160;безоружныхъ, и&#160;ему все еще вѣрили, хотя справедливость его приговоровъ и&#160;была нѣсколько подорвана бѣлымъ человѣкомъ въ Ямбайѣ.
+</p><p>Должно быть, и&#160;въ самомъ дѣлѣ, тринадцать.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Съ опушки лѣса, съ того мѣста, куда выходила лѣсная дорога изъ Балала, бѣжалъ человѣкъ. Онъ прибѣжалъ, чтобы предупредить, что&#160;Понго уже близко. Вѣсть эта быстро разнеслась по&#160;всѣмъ хижинамъ, и&#160;всѣ, кто еще сидѣлъ по&#160;домамъ, повыползли оттуда и&#160;побѣжали на&#160;залитую солнцемъ площадь, чтобы присоединиться къ толпѣ, собравшейся подъ большимъ деревомъ.
+</p><p>Старый Якула на&#160;радостяхъ напялилъ на&#160;себя все имущество: поясъ изъ кожи антилопы, грязный кусокъ матеріи, служившій ему передникомъ, украсилъ свой лобъ мѣднымъ щиткомъ величиною съ блюдечко и&#160;шею свою ожерельемъ изъ человѣчьихъ зубовъ. Якула самъ по&#160;себѣ былъ личностью совсѣмъ незначительной и&#160;въ деревнѣ не&#160;игралъ никакой роли. Онъ былъ бѣденъ и&#160;имѣлъ всего только одну жену — и&#160;ту старую, и&#160;негодную, такъ что&#160;ее нельзя было даже продать. Только эта одна и&#160;осталась у&#160;него отъ цѣлаго маленькаго стада здоровыхъ, лоснящихся отъ сытости бабенокъ, которыхъ онъ въ лучшіе дни звалъ своими женами. Трехъ изъ нихъ у&#160;него выторговалъ и&#160;обманомъ похитилъ Йоло, ничего не&#160;заплативъ за&#160;нихъ; а&#160;четвертая сбѣжала съ его вторымъ сыномъ въ чужую страну, гдѣ эту скверную бабу и&#160;съѣли, въ наказаніе за&#160;ея грѣхи.
+</p><p>Но&#160;сегодня никто не&#160;сказалъ&#160;бы, что&#160;Якула не&#160;принадлежитъ къ лучшему обществу въ этой деревнѣ. Онъ, обыкновенно скромно стоявшій во&#160;второмъ, или&#160;въ третьемъ ряду, когда жители деревни собирались на&#160;площади по&#160;случаю какого-нибудь торжества, теперь протѣснился впередъ и&#160;сталъ возлѣ Йоло, который уже много лѣтъ не&#160;удостоивалъ его и&#160;взглядомъ — съ тѣхъ самыхъ поръ, какъ онъ ухитрился, обманомъ, въ три пріема, отобрать у&#160;бѣдняка цѣлыхъ трехъ женъ. Маленькіе колючіе глазки стараго Якулы самодовольно поблескивали; онъ былъ такъ гордъ, что&#160;ни на&#160;кого и&#160;глядѣть не&#160;хотѣлъ, и&#160;тонкую нижнюю губу подтянулъ къ самому носу. Обыкновенно деревенская молодежь безнаказанно потѣшалась надъ нимъ, и&#160;онъ, хоть и&#160;злился, но&#160;принужденъ былъ терпѣть это. Сегодня&#160;же съ нимъ были шутки плохи; онъ уже дважды больно пнулъ своей тощей, длинной ногой одного изъ мальчишекъ, подошедшаго къ нему слишкомъ близко.
+</p><p>Съ опушки лѣса доносились громкіе крики. Йоло поднялся съ бревна и&#160;вышелъ изъ круга. Якула рѣшительно шагнулъ впередъ, стиснулъ беззубыя челюсти и&#160;пошелъ съ нимъ рядомъ. Остальные шли за&#160;ними.
+</p><p>Вотъ онъ, Понго.
+</p><p>Маленькаго роста, молодцоватый солдатъ въ синей холщевой формѣ и&#160;красной фуражкѣ, лихо надѣтой на&#160;бекрень, съ длинной палкой въ рукахъ, вышелъ изъ лѣсу и&#160;направлялся къ маленькой группѣ. За&#160;нимъ, медленно, гуськомъ, шли носильщики съ корзинами и&#160;сундуками, которые они&#160;несли на&#160;палкахъ, по&#160;двое.
+</p><p>Йоло еще издали замахалъ рукой новоприбывшему, въ знакъ привѣта, и&#160;радостно оскалилъ зубы. Якула поправилъ ожерелье на&#160;шеѣ и&#160;щитокъ на&#160;лбу, самымъ серьезнымъ образомъ готовясь пережить торжественнѣйшую минуту своей жизни.
+</p><p>Солдатъ подошелъ къ группѣ, круто остановился, щелкнулъ босыми подошвами, такъ, что&#160;свита его испуганно шарахнулась назадъ, приложилъ руку къ козырьку фуражки и&#160;молвилъ:
+</p><p>— Мое имя — Понго.
+</p><p>Йоло сгорбилъ спину, подалъ правую руку солдату, прикрылъ ее лѣвой и, сердечно пожимая его руку, отвѣтилъ:
+</p><p>— Это ты?
+</p><p>Якула&#160;же только стоялъ, весь дрожа, и&#160;бормоталъ:
+</p><p>— Понго, Понго, Понго, Понго!.. — И&#160;все время тянулъ сына за&#160;руку, въ то&#160;время, какъ Йоло тянулъ его за&#160;другую.
+</p><p>Остальные, разинувъ рты, глазѣли&#160;на Понго. Какой онъ черный и&#160;прямой! — настоящій солдатъ изъ Ямбайи. Татуировки на&#160;немъ никакой; на&#160;лицѣ и&#160;на шеѣ ни&#160;пятнышка; а&#160;глаза большіе, блестящіе, какъ у&#160;вождя. Но&#160;интересъ къ внѣшности Понго довольно скоро остылъ и&#160;сосредоточился на&#160;его багажѣ. Мальчики, научившіеся считать, украдкой считали на&#160;пальцахъ, сколько&#160;же съ нимъ вещей, подталкивая другъ друга локтями и&#160;шепотомъ перебраниваясь между собой изъ-за&#160;цифръ.
+</p><p>Старый Йоло, какъ истинный вождь, съ одного взгляда выяснилъ себѣ положеніе. Сундуковъ было всего три и&#160;пара корзинъ смѣшаннаго содержанія, да&#160;еще нѣсколько свернутыхъ цыновокъ съ разной утварью.
+</p><p>Всего <i>три</i> сундука! Понго на&#160;минуту упалъ въ глазахъ Йоло, но&#160;старикъ былъ человѣкъ неглупый и&#160;привыкшій соображать про&#160;себя. — Вѣдь и&#160;въ трехъ сундукахъ могло найтись не&#160;мало цѣнныхъ вещей.
+</p><p>Онъ пригласилъ Понго присѣсть на&#160;бревнѣ подъ деревомъ собраній и&#160;молвилъ:
+</p><p>— Ты можешь жить у&#160;меня. У&#160;меня есть пустая хижина.
+</p><p>Якула, въ свою очередь, выговорилъ, протяжно, негромко и&#160;отечески ласково:
+</p><p>— Ты можешь жить у&#160;меня, у&#160;твоего отца.
+</p><p>Мальчишки захихикали; женщины съ любопытствомъ вытянули шеи. Неужто этотъ молодецъ-солдатъ захочетъ жить въ лачугѣ бѣднаго, стараго Якулы?
+</p><p>Понго раздумывалъ, обводя взглядомъ своихъ прежнихъ односельчанъ. Всѣ они&#160;были голые, или&#160;полу-одѣтые; всѣ оборванные, грязные, уродливые и&#160;глупые. Какъ онъ мечталъ объ этомъ возвращеніи&#160;въ родную деревню, изъ которой онъ бѣжалъ тайкомъ, словно какой-нибудь бушменъ! Но&#160;не&#160;такъ онъ представлялъ себѣ свое возвращеніе. Правда, лица всѣ были знакомыя, но&#160;не хватало чего-то&#160;неуловимаго, о&#160;чемъ онъ тосковалъ всѣ эти три года. Слишкомъ просты были эти люди, и&#160;не радовало его свиданіе съ ними.
+</p><p>Слишкомъ они&#160;были грязны. Его собственный отецъ, несмотря на&#160;свой праздничный нарядъ, былъ весь сѣрый отъ пыли и&#160;грязи; и&#160;чѣмъ больше Понго смотрѣлъ на&#160;него, тѣмъ яснѣе ему становилось, что&#160;отецъ его — такой&#160;же бушменъ, какъ всѣ тѣ старые негры, которыхъ онъ видѣлъ немало во&#160;время своихъ дальнихъ странствій и&#160;на которыхъ привыкъ смотрѣть свысока.
+</p><p>Йоло, по&#160;крайней мѣрѣ, былъ вождемъ, старшиной.
+</p><p>— Да, тогда я&#160;возьму хижину у&#160;Йоло, — подумавъ, сказалъ Понго.
+</p><p>Йоло вздрогнулъ отъ радости, кивнулъ носильщикамъ и&#160;указалъ имъ на&#160;хижину, предназначенную для&#160;Понго. Якула опять стиснулъ свои беззубыя челюсти, злобно озираясь вокругъ, какъ старая обезьяна. Мальчишка, стоявшій около, началъ вышучивать его. Якула сморщилъ лицо, стянувъ всю кожу къ носу, и&#160;пригрозилъ мальчишкѣ своимъ костлявымъ кулакомъ.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Послѣ того, какъ Поиго пережилъ первые моменты разочарованія&#160;и неувѣренности, для&#160;него наступили счастливые дни. Для&#160;всей деревни онъ былъ почетнымъ гостемъ. Въ каждой хижинѣ, даже и&#160;самой бѣдной, всегда ждалъ его дымящійся на&#160;огнѣ горшечекъ съ <i>пондю</i> или <i>масакой</i>, и&#160;всюду страшно радовались его появленію. Постепенно онъ возобновилъ всѣ прежнія дружескія отношенія, и&#160;сознаніе, что&#160;онъ во&#160;всѣхъ отношеніяхъ — и&#160;въ экономическомъ, и&#160;въ соціальномъ, и&#160;въ культурномъ — выше своихъ товарищей, было ему пріятно, радовало его. Йоло, который во&#160;время дѣтства Понго знать не&#160;хотѣлъ никого изъ членовъ семьи Якулы, теперь оказывалъ Понго неизмѣнное благоволеніе. И&#160;передъ всѣмъ этимъ фиміамомъ лести Понго, разумѣется, не&#160;могъ устоять. Не говоря уже о&#160;томъ, что&#160;онъ щедро одарилъ Йоло, отца и&#160;всѣхъ своихъ ближайшихъ родичей, онъ ежедневно дарилъ всѣхъ, съ кѣмъ встрѣчался, богатыхъ и&#160;бѣдныхъ, просто изъ сердечной доброты, чтобы видѣть вокругъ себя радость и&#160;благодарность. Содержимое сундуковъ быстро убывало, но&#160;не изсякала щедрость сердца Понго.
+</p><p>Онъ накопилъ свое богатство, откладывая деньги изъ своего жалованья, выращивая цыплятъ и&#160;утокъ и&#160;ведя ими мѣновую торговлю съ товарищами и&#160;туземцами на&#160;чужбинѣ, гдѣ онъ прожилъ эти три года; но&#160;бѣдняга не&#160;зналъ, что&#160;прожить капиталъ много легче, чѣмъ наживать его. Онъ обошелъ всю деревню, не&#160;пропуская ни&#160;одной хижины, побывалъ и&#160;въ лѣсу, и&#160;на рѣкѣ, на&#160;старыхъ излюбленныхъ мѣстахъ охоты и&#160;рыбной ловли, заглянулъ и&#160;въ хуторки, стоявшіе за&#160;деревней между полями маніока. Всюду принимали его съ самымъ сердечнымъ радушіемъ, всюду видъ тѣхъ мѣстъ, гдѣ онъ провелъ свое дѣтство, будилъ въ немъ забытыя воспоминанія, и&#160;всюду онъ щедро и&#160;отъ души дарилъ своихъ старыхъ знакомыхъ.
+</p><p>Однажды онъ сидѣлъ вмѣстѣ съ Йоло, Якулой и&#160;нѣсколькими другими именитыми, односельчанами, подъ навѣсомъ на&#160;площади, у&#160;дерева собраній, гдѣ Йоло обыкновенно обѣдалъ. Они&#160;сидѣли&#160;другъ противъ друга на&#160;двухъ толстыхъ бревнахъ; на&#160;землѣ между ними стояли пустыя деревянныя блюда.
+</p><p>Они&#160;только что&#160;пообѣдали. Жирный супъ изъ масаки, полусгнившаго мяса антилопы и&#160;пальмовыхъ орѣховъ былъ очень вкусенъ, точно такъ&#160;же, какъ и&#160;сильно наперченная каша изъ пондю и&#160;копченая рыба., Въ кашѣ было столько перцу, что&#160;Понго, не&#160;привыкшій ѣсть со стариками, ободралъ себѣ все горло. Теперь, насытившись, они&#160;отдыхали, наполняя свои легкія&#160;дымомъ изъ большой деревянной трубки, переходившей изъ рукъ въ руки; набравъ полный ротъ дыму, каждый минуту задерживалъ его во&#160;рту и&#160;затѣмъ пускалъ густыя облака въ глаза сидѣвшихъ напротивъ, которые послѣ этого почти исчезала въ бѣломъ туманѣ.
+</p><p>Йоло только что&#160;выпустилъ изо рта такое облако и&#160;глубокомысленно уставился на&#160;покрытую пепломъ землю между ногами Понго. Остальные молчали, выжидательно глядя на&#160;своего вождя.
+</p><p>— Послушай-ка, Понго, — началъ Йоло, — слѣдовало&#160;бы&#160;тебѣ взять себѣ жену.
+</p><p>— Да, — подхватилъ старый Якула; маленькіе черные глазки горѣли&#160;отъ усердія — онъ теперь всегда старательно поддакивалъ Йоло, и&#160;онъ закивалъ своей дряхлой, сѣдой головой: — да, да, жену.
+</p><p>— Н-да, само собой, — отвѣтилъ Понго.
+</p><p>— Разумѣется, разумѣется! — поддержали Якула и&#160;прочіе.
+</p><p>У&#160;Йоло былъ уже готовъ чудесный планъ. Онъ былъ подальновиднѣе Понго и&#160;мысленно совершенно ясно представлялъ себѣ, какъ постепенно должна измѣниться вся конъюнктура въ Мопото. Почему&#160;бы&#160;ему не&#160;продать солдату свою маленькую толстушку Яю съ толстыми мѣдными кольцами на&#160;лодыжкахъ? За&#160;нее можно взять по&#160;крайней мѣрѣ шесть кусковъ той красивой синей матеріи, что&#160;лежитъ въ сундукѣ у&#160;Понго. А&#160;потомъ, когда у&#160;Понго ничего не&#160;останется, можно будетъ выкупить ее обратно за&#160;полцѣны.
+</p><p>Понго ничего не&#160;имѣлъ возразить противъ Яи. Ему даже лестно было завладѣть любимой женой старшины, которую тотъ собственно предназначалъ для&#160;своего старшаго сына.
+</p><p>— Десять штукъ матеріи, — сказалъ Йоло. — Тогда ты получишь ее, вмѣстѣ съ мѣдными кольцами, украшеніями изъ бусъ и&#160;всѣмъ прочимъ.
+</p><p>Понго хотѣлъ показать, что&#160;онъ также умѣетъ торго<sub>:</sub>ваться и&#160;сказалъ: восемь.
+</p><p>Въ концѣ концовъ они&#160;сторговались за&#160;девять, но&#160;Йоло настоялъ на&#160;томъ, чтобы кузнецъ снялъ съ Яи тяжелыя мѣдныя кольца, украшавшія&#160;ея ноги. Иначе, — увѣрялъ онъ, — мѣна&#160;ему будетъ невыгодна.
+</p><p>Кликнули Яю.
+</p><p>Она покраснѣла, насколько это возможно было для&#160;нея при&#160;ея черной кожѣ, и&#160;вся съежилась отъ стыда. А&#160;когда узнала, что&#160;съ нея снимутъ кольца, заплакала.
+</p><p>Въ Понго уже загоралась любовь къ ней, и&#160;ради этой любви и&#160;мира въ будущей семьѣ ему пришлось добавить еще полкуска за&#160;кольца.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Наступилъ день, когда Понго впалъ въ задумчивость. День былъ яркій, солнце свѣтило по&#160;праздничному, но&#160;Понго былъ угрюмъ и&#160;тревоженъ, такъ какъ дѣйствительность начинала заявлять о&#160;себѣ. Ему вспоминалось, какъ скупъ онъ былъ всѣ эти предыдущіе годы самъ для&#160;себя, какъ онъ экономилъ, какъ упорно наживалъ и&#160;копилъ, — и&#160;въ душѣ его просыпалась тревога, ему начинало казаться, что&#160;все это время онъ жилъ не&#160;по средствамъ. Виновницею этихъ мрачныхъ мыслей была старая французская газета, выстилавшая жестяное дно его самаго большого и&#160;любимаго сундука. Правда, Понго читать не&#160;умѣлъ, но&#160;все&#160;же ему казалось, что&#160;онъ кое-что&#160;прочелъ въ этой газетѣ, въ тотъ моментъ, когда неожиданно увидѣлъ ее на&#160;днѣ опустѣвшаго сундука.
+</p><p>Его отецъ, Якула, приходилъ къ нему ежедневно и&#160;каждый разъ выпрашивалъ у&#160;него какой-нибудь платокъ или&#160;пару мѣдныхъ пластинокъ — чтобы купить себѣ поѣсть, какъ онъ говорилъ.
+</p><p>— Сынъ мой, я, вѣдь, ужъ старъ, и&#160;мнѣ трудно добыть себѣ кусокъ хлѣба.
+</p><p>Это была наглая ложь. Дома онъ терроризировалъ свою старушку жену. Она справляла одна всю работу на&#160;ихъ маленькомъ маніоковомъ полѣ, полдня бродила по&#160;лѣсу, собирая для&#160;него плоды и&#160;коренья, или&#160;же часами стояла въ лѣсу у&#160;принадлежавшей имъ небольшой сажалкѣ, черпая воду дырявой корзиной и&#160;пропуская сквозь корзину воду и&#160;грязь, чтобы поймать пару рыбешекъ, которыхъ онъ съѣдалъ одинъ, не&#160;оставляя ей ни&#160;кусочка. Она дѣлала и&#160;мужскую работу: таскала домой бамбукъ и&#160;саркофриній, рубила деревья, росшія&#160;на полѣ Якулы и&#160;т. п. Нужды: Якулѣ терпѣть не&#160;доводилось, и&#160;все, что&#160;онъ выпрашивалъ у&#160;сына, онъ тщательно пряталъ въ самомъ темномъ углу своей хижины, служившемъ ему для&#160;спанья.
+</p><p>Въ этотъ уголъ старикъ никого не&#160;пускалъ, даже свою жену, которая принуждена была спать на&#160;землѣ подъ открытымъ небомъ, въ то&#160;время, какъ Якула лежалъ въ теплѣ, закутанный въ остатки стараго одѣяла, и&#160;отъ времени до&#160;времени ощупывалъ — цѣлы&#160;ли&#160;его сокровища.
+</p><p>Понго ежедневно навѣщали его старые друзья изъ Мопото и&#160;сосѣднихъ деревень. Все это были добрые старые знакомые, и&#160;каждый изъ нихъ могъ попросить хоть что-нибудь на&#160;память. Многіе изъ нихъ даже обижались, если подарки, полученные ими, оказывались менѣе цѣнными, чѣмъ тѣ, которые Понго раздавалъ вначалѣ людямъ, имѣвшимъ на&#160;это гораздо меньше правъ. И&#160;Понго по-неволѣ давалъ и&#160;давалъ, потому что&#160;ему не&#160;хотѣлось, чтобъ его друзья стали коситься на&#160;него.
+</p><p>Но&#160;въ концѣ концовъ, въ одинъ злосчастный день, по&#160;деревнѣ пошелъ слухъ, что&#160;Понго не&#160;открываетъ болѣе своихъ сундуковъ. Одни полагали, что&#160;онъ загордѣлъ и&#160;не желаетъ больше знать старыхъ друзей, но&#160;другіе объясняли дѣло проще, шепча, что&#160;въ сундукахъ ничего ужъ больше нѣтъ, или, по&#160;крайней мѣрѣ, осталось очень мало.
+</p><p>Послѣднее подтверждала и&#160;Яя, которой ужъ стало скучно жить у&#160;Понго, такъ какъ теперь въ его хижинѣ уже не&#160;было изобилія&#160;въ копченой рыбѣ, мясѣ антилопы, бананахъ, маисѣ, копченыхъ личинкахъ, жирномъ пальмовомъ маслѣ, соли и&#160;тому подобныхъ деликатесахъ. Случалось даже, что&#160;она убѣгала изъ дому на&#160;цѣлыхъ два-три дня и&#160;проводила ихъ у&#160;своего бывшаго супруга и&#160;господина; и&#160;потому Йоло былъ прекрасно освѣдомленъ объ имущественномъ положеніи&#160;Понго.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Мѣсяцъ спустя послѣ возвращенія&#160;Понго домой, Ноло уже пересталъ приглашать его время отъ времени дѣлить съ нимъ трапезу подъ навѣсомъ на&#160;площади; и&#160;теперь, когда Понго роздалъ все свое имущество, Йоло уже не&#160;держалъ себя съ нимъ, какъ съ равнымъ, но&#160;постоянно давалъ ему почувствовать свой авторитетъ старѣйшины.
+</p><p>Кончилось тѣмъ, что&#160;онъ и&#160;всѣ три блестящихъ сундука Понго купилъ у&#160;него за&#160;двѣ штуки матеріи&#160;и въ результатѣ этой выгодной сдѣлки значительная часть ореола, еще осѣнявшаго голову Понго въ глазахъ жителей Мокото, перешла на&#160;стараго ихъ вождя. Когда Понго при&#160;такихъ сдѣлкахъ снова перепадалъ кусокъ-другой матеріи, престижъ его на&#160;время снова поднимался, и&#160;наивныя души начинали даже опять вѣрить въ его богатство. Онъ покупалъ ѣду по&#160;дорогой цѣнѣ, дарилъ сосѣдей побѣднѣе, еще захаживавшихъ къ нему въ хижину, и&#160;дня черезъ два оказывался опять съ пустыми руками.
+</p><p>Однажды къ нему пришелъ Йоло съ предложеніемъ:
+</p><p>— Не продашь&#160;ли&#160;ты мнѣ Яю?
+</p><p>Понго продалъ ее за&#160;три штуки сукна и&#160;цѣлыхъ три дня послѣ этого жилъ бариномъ.
+</p><p>Но&#160;это былъ послѣдній его источникъ пріобрѣтенія.
+</p><p>Теперь онъ началъ снова обходить своихъ друзей, стараясь попасть къ обѣду. Вначалѣ дѣло шло превосходно, въ особенности въ тѣхъ домахъ, гдѣ еще уцѣлѣло что-нибудь отъ его подарковъ.
+</p><p>Но&#160;и&#160;гостепріимства сосѣдей хватило ненадолго. Даже самые глупые изъ жителей деревни вскорѣ поняли, что&#160;Понго свалился съ своего высокаго пьедестала. Ясный взоръ его ужъ не&#160;сверкалъ отвагою, какъ взоръ вождя; его лживые разсказы ужъ никого больше не&#160;убѣждали; красная фуражка, отъ частаго соприкосновенія&#160;съ закопченными сажей кровлями грязныхъ хижинъ, сама стала грязной и&#160;засаленной, а&#160;мундиръ обносился и&#160;утратилъ блескъ.
+</p><p>Теперь Понго уже открыто давали понять, что&#160;съ нимъ не&#160;желаютъ больше имѣть никакого дѣла, и&#160;утратили къ нему всякій интересъ. А&#160;Йоло мало того, что&#160;пересталъ кормить его, но&#160;и потребовалъ у&#160;него обратно хижину, говоря, что&#160;она нужна ему самому. И&#160;сконфуженный Понго вынужденъ былъ искать пріюта въ родительскомъ домѣ.
+</p><p>— Вѣдь ты&#160;же мнѣ отецъ, — сказалъ онъ Якулѣ, войдя туда и&#160;усѣвшись на&#160;глиняный горшокъ.
+</p><p>Якула былъ не&#160;особенно этимъ польщенъ. Онъ бранился съ утра до&#160;вечера, ибо сынъ скоро открылъ его кладовую въ темномъ углу, служившемъ старику для&#160;спанья, и&#160;въ трухлыхъ доскахъ продырявилъ отверстіе, черезъ которое то&#160;и дѣло вытаскивалъ то&#160;одно, то&#160;другое.
+</p><p>Теперь старики и&#160;богатѣй — тѣ, у&#160;которыхъ было по&#160;многу женъ — встрѣчаясь съ Понго на&#160;площади, отворачивались и&#160;смотрѣли&#160;въ другую сторону. Если&#160;же сталкивались съ нимъ въ болѣе узкомъ проходѣ, какъ, напримѣръ, на&#160;тропинкѣ въ маніоковомъ полѣ или&#160;въ лѣску, то&#160;въ отвѣтъ на&#160;солдатское привѣтствіе Понго, подносившаго руку къ козырьку, ограничивались тѣмъ, что&#160;прикладывали ко&#160;лбу одинъ-два искривленныхъ пальца и&#160;то съ большою надменностью.
+</p><p>Положеніе становилось для&#160;Понго совершенно невыносимымъ.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Подъ навѣсомъ на&#160;площади собраній держали совѣтъ. Дѣло шло о&#160;проведеніи&#160;черезъ лѣсъ границы между Мопото и&#160;сосѣдней деревней. Понго тоже усѣлся въ кругу стариковъ и&#160;именитыхъ людей и&#160;хотѣлъ принять участіе въ обсужденіи вопроса, — это была послѣдняя его попытка вернуть себѣ прежній престижъ.
+</p><p>Но&#160;когда онъ подалъ голосъ, Йоло отвернулся въ другую сторону и&#160;проворчалъ:
+</p><p>— Гмъ, гмъ, гмъ.
+</p><p>А&#160;Якула, который тоже пришелъ незванымъ и&#160;теперь искалъ случая показать, что&#160;онъ отнюдь не&#160;на сторонѣ сына, наставительно молвилъ:
+</p><p>— Молодые люди должны молчать, когда говорятъ старики.
+</p><p>Молодежь, стоявшая кругомъ поодаль, навострила уши. Въ воздухѣ пахло грозой. Понго разсвирѣпѣлъ. Онъ видѣлъ, что&#160;необходимо сдѣлать усиліе, чтобы спасти хотя&#160;бы&#160;честь.
+</p><p>Онъ поднялся съ крайняго конца бревна, на&#160;которомъ сидѣлъ, выступилъ изъ-подъ навѣса на&#160;площадь, залитую солнцемъ, и, упершись руками въ бока, выбранилъ отца рабомъ, который боится Йоло и&#160;подлизывается къ нему. А&#160;что&#160;такое Йоло? Даже смѣшно говорить — какой-то&#160;жалкій предводитель четырехъ десятковъ взрослыхъ людей; между тѣмъ, какъ онъ, Понго, на «Барѣ» былъ друженъ съ вождями, командовавшими многими тысячами воиновъ, имѣвшими тысячи женъ, тысячи коровъ, тысячи хижинъ и&#160;тысячи слоновьихъ клыковъ.
+</p><p>— Ты — старый людоѣдъ! — гнѣвно кричалъ онъ Йоло. — Ты на&#160;своемъ вѣку сожралъ сотни людей, и&#160;я отлично знаю, что&#160;не далѣе, какъ годъ тому назадъ, къ вамъ пришелъ изъ лѣсу человѣкъ съ корзиной копченаго человѣчьяго мяса. Ты купилъ у&#160;него всю человѣчину и&#160;слопалъ ее вмѣстѣ съ этими вотъ скотами, что&#160;сидятъ рядомъ съ тобою.
+</p><p>Присутствующіе разинули ротъ, какъ будто они&#160;давно и&#160;позабыли объ этомъ. Но&#160;Йоло, чувствовавшій, что&#160;отвѣтственность за&#160;этотъ фактъ лежитъ на&#160;немъ, косился въ сторону. Скверная выйдетъ исторія, если бѣлый изъ Ямбайи пріѣдетъ сюда чинить разслѣдованіе. Чего добраго, это можетъ стоить Йоло его титула вождя и&#160;старѣйшины. И&#160;Йоло готовъ былъ уже предложить Понго взять обратно Яю, чтобъ только умиротворить его.
+</p><p>Но&#160;Понго былъ внѣ себя. Онъ почуялъ, что&#160;старикъ испугался.
+</p><p>— Я&#160;донесу на&#160;васъ бѣлому чиновнику на&#160;Ямбайѣ. А&#160;теперь уйду назадъ на «Варъ». Но&#160;прежде скажу вамъ въ глаза, что&#160;вы — настоящіе бушмены, ну, да, sacré nom! — бушмены. А&#160;не&#160;казенные люди. А&#160;я — солдатъ, казенный человѣкъ и&#160;не желаю дольше жить среди измѣнниковъ и&#160;людоѣдовъ.
+</p><p>Съ этими словами онъ направился къ опушкѣ лѣса, къ тому самому мѣсту, на&#160;которомъ два мѣсяца назадъ онъ впервые появился, какъ откровеніе изъ далекаго, невѣдомаго міра.
+</p><p>Но, прежде чѣмъ исчезнуть окончательно, еще разъ обернулся, погрозилъ кулакомъ и&#160;крикнулъ:
+</p><p>— Эй вы, воришки, сволочь! Я&#160;никогда больше не&#160;вернусь къ вамъ или&#160;вернусь только за&#160;тѣмъ, чтобы продать всѣхъ васъ въ рабство. Грязныя свиньи! Вѣдь вы даже не&#160;моетесь никогда. Я&#160;все про&#160;васъ разскажу бѣлому человѣку. Вы все у&#160;меня украли: мои матеріи, бусы, мѣдь, мою жену и&#160;мои сундуки.
+</p><p>Старѣйшины чувствовали, что&#160;имъ не&#160;подъ силу бороться съ этой обрушившейся на&#160;нихъ юной грозой, и&#160;дрожали отъ страха.
+</p><p>Йоло и&#160;Якула — оба хотѣли&#160;бы, чтобъ Понго вернулся, и&#160;вопросительно косились другъ на&#160;друга.
+</p><p>— А&#160;мнѣ плевать! И&#160;пусть уходитъ, — сказалъ Йоло.
+</p><p>— Понятное дѣло, — поддержалъ Якула.
+</p><p>Но&#160;мальчики-подростки находили, что&#160;Понго былъ великъ и&#160;прекрасенъ въ своемъ гнѣвѣ. И&#160;его фигура съ поднятымъ кулакомъ, на&#160;опушкѣ лѣса — олицетвореніе бунта молодости — была для&#160;нихъ въ юные годы ихъ образцомъ и&#160;кумиромъ.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Понго не&#160;вернулся: онъ былъ убитъ на&#160;Нилѣ.
+</p><p>Но&#160;символъ соціальной революціи&#160;и прогресса въ Мопото — не&#160;бѣлый человѣкъ, могучій иноземный вождь въ Ямбайѣ, а&#160;маленькій вождь Понго съ поднятымъ кулакомъ и&#160;сверкающими гнѣвомъ глазами.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="II._Бѣлыя_святки_на_Конго."><span id="II._.D0.91.D1.A3.D0.BB.D1.8B.D1.8F_.D1.81.D0.B2.D1.8F.D1.82.D0.BA.D0.B8_.D0.BD.D0.B0_.D0.9A.D0.BE.D0.BD.D0.B3.D0.BE."></span>II. <br />Бѣлыя святки на&#160;Конго.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=3" title="Редактировать раздел «II. Бѣлыя святки на Конго.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Лодка поднималась вверхъ по&#160;теченію медлительно, тяжело, съ непріятными толчками. Каждый разъ, какъ тридцать веселъ одновременно погружались въ воду, которая начинала журчать и&#160;плескаться о&#160;шаршавые края лодки, эта послѣдняя неожиданнымъ толчкомъ опрокидывалась на&#160;лѣвый бокъ; какъ только весла вынимали изъ воды, и&#160;съ вертикально поставленныхъ лопастей начинала капать вода, она мягко поворачивалась снова на&#160;правый бокъ. Должно быть, у&#160;нея было косое дно или&#160;же одна сторона ея больше закруглена, чѣмъ другая; а&#160;можетъ быть и&#160;то, что&#160;выдолбленный стволъ дерева, изъ котораго была сдѣлана эта лодка, былъ неодинаково тяжелъ съ обѣихъ сторонъ.
+</p><p>Это былъ одинъ изъ тѣхъ вопросовъ, которые навсегда остаются невыясненными.
+</p><p>На&#160;рѣкѣ Конго, между Стэнливиллемъ и&#160;Касонго, встрѣчаются лодки, съ виду совсѣмъ кривыя, а&#160;между тѣмъ на&#160;водѣ лежащія&#160;прямо или, по&#160;крайней мѣрѣ, раскачивающіяся равномѣрно и&#160;симметрично, такъ что&#160;каждый взмахъ веселъ не&#160;повергаетъ въ ярость пассажира. И&#160;есть другія, красивыя и&#160;прямыя, напоминающія миноноски; если вы пріобрѣтете такую пирогу, вы вначалѣ гордитесь ею, но&#160;потомъ оказывается, что&#160;на ней страшно трудно грести, и&#160;отъ толчковъ гребцы такъ устаютъ, что&#160;имъ приходится ежедневно проводить на&#160;водѣ часа на&#160;два больше времени, чѣмъ они&#160;предполагали. У&#160;лодокъ свои причуды и&#160;капризы, которыхъ никому не&#160;понять.
+</p><p>Нашу пирогу рекомендовалъ намъ одинъ знакомый въ Стэнливиллѣ, который на&#160;другой день самъ собирался отправиться вверхъ по&#160;теченію. У&#160;берега стояли двѣ лодки, и&#160;начальникъ станціи позволилъ намъ выбрать одну изъ нихъ.
+</p><p>Теперь мы&#160;вспомнили, какъ онъ усмѣхнулся, увидавъ, которая выбрана нами. А&#160;тотъ знакомый, выѣхавшій въ другой лодкѣ, уже обогналъ насъ: на&#160;третій день пути мы&#160;его видѣли&#160;огибающимъ островъ у&#160;противоположнаго берега; теперь онъ опередилъ насъ навѣрное уже на&#160;три дня, если не&#160;больше.
+</p><p>Да&#160;и&#160;по гребцамъ, смѣнявшимся въ каждой деревнѣ, можно было замѣтить, что&#160;эта лодка хорошо имъ знакома и&#160;не пользуется ихъ симпатіями.
+</p><p>Мы&#160;же успѣли&#160;возненавидѣть ее. Она вихляла, какъ старая разбитая лошадь, и&#160;отъ толчковъ у&#160;насъ желчь разливалась по&#160;всему тѣлу. Эти внезапныя перекидыванія&#160;на. лѣво&#160;и вслѣдъ затѣмъ медлительные, какіе-то&#160;разслабленные повороты направо, раздражали насъ нестерпимо и&#160;еще прибавляли усталости и&#160;недомоганія.
+</p><p>И&#160;надо&#160;же было выбрать такую дурацкую лодку! Мы&#160;положительно ненавидѣли&#160;ее, какъ ненавидишь личнаго врага. И&#160;въ концѣ концовъ попытались избавиться отъ нея, промѣнявъ ее на&#160;другую.
+</p><p>Навстрѣчу намъ, внизъ по&#160;рѣкѣ, ѣхалъ бѣлый. Мы&#160;обратились къ нему съ невинными минами, какія&#160;строятъ люди, когда они&#160;могутъ прикрыться недостаточнымъ знаніемъ языка — въ данномъ случаѣ, французскаго:
+</p><p>— Въ этой лодкѣ очень трудно грести противъ теченія. Но&#160;по&#160;теченію внизъ она пойдетъ отлично.
+</p><p>Это послѣднее сопровождалось краснорѣчивымъ жестомъ на&#160;итальянскій манеръ и&#160;сказано было съ искренностью, — сквозившей даже въ корняхъ волосъ на&#160;нашей головѣ.
+</p><p>Свинцоваго цвѣта лицо съ другой лодки безмолвно вперило въ насъ недовѣрчивый взглядъ. За&#160;три года скитаній по&#160;этой странѣ можно развить въ себѣ такое недовѣріе. И&#160;онъ усмѣхнулся. Да, этотъ негодяй имѣлъ наглость улыбаться, — и&#160;еще какой-то&#160;больной, недовѣрчивой, хитрой улыбкой, отъ которой насъ кинуло въ дрожь. Онъ совершенно игнорировалъ наше недостаточное знаніе языка. Ужъ не&#160;подумалъ&#160;ли&#160;этотъ дуракъ, что&#160;мы лжемъ?..
+</p><p>Мы&#160;поѣхали дальше, и&#160;отъ каждаго движенія&#160;лодки все у&#160;насъ переворачивалось и&#160;въ желудкѣ, и&#160;въ мозгу. Насъ обоихъ знобило, лихорадило. Въ желудкѣ ощущалась какая-то&#160;вялость, во&#160;рту вкусъ мѣди, голова кружилась, и, когда мы&#160;выходили на&#160;берегъ, первое время насъ шатало изъ стороны въ сторону. Только ночью, когда мракъ спускался на&#160;землю, мы&#160;успокаивались, и&#160;намъ становилось лучше.
+</p><p>Эта прогулка въ лодкѣ, пожалуй, стоила&#160;бы&#160;одному изъ насъ жизни, если&#160;бы&#160;мы не&#160;сокращали наши перегоны и&#160;не устраивали и&#160;въ полдень долгихъ приваловъ на&#160;берегу.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Мы&#160;сидѣли&#160;другъ противъ друга на&#160;складныхъ стульяхъ, стараясь укрыться отъ солнечныхъ лучей, усиливавшихся проникнуть съ двухъ концовъ въ наше крохотное, довольно душное убѣжище, подъ раскаленный сверху шалашъ изъ пальмовыхъ вѣтвей, поставленный для&#160;насъ посерединѣ лодки.
+</p><p>Это было 24 декабря. Наканунѣ, обоихъ насъ раза по&#160;три рвало, а&#160;ночью обоихъ трясла лихорадка. А&#160;съ утра началъ мучить обоихъ голодъ, хотя, помимо утренняго кофе, выпитаго на&#160;сушѣ, мы&#160;уже сегодня два раза завтракали въ лодкѣ. Первый разъ — вареными цыплятами: это очень полезно для&#160;больного желудка, въ особенности, если ихъ ѣсть съ пикулями; во&#160;второй разъ — жареными цыплятами: это тоже хорошо для&#160;больного желудка. Приходилось такимъ образомъ по&#160;цыпленку на&#160;завтракъ на&#160;человѣка. Впрочемъ, это совсѣмъ не&#160;такъ много, ибо цыплята въ Конго крохотные, некормленные и&#160;тощіе.
+</p><p>А&#160;теперь мы&#160;отдыхали оба, мечтательно глядя передъ собой въ пространство. Намъ обоимъ было не&#160;по себѣ, во&#160;рту непріятный вкусъ, на&#160;спинѣ — холодный потъ, а&#160;сверху насъ палило солнце.
+</p><p>Одинъ изъ насъ напомнилъ, что&#160;сегодня сочельникъ. И&#160;обоимъ намъ стало странно, какъ это мы, европейцы, въ такой день сидимъ въ лодкѣ, видя передъ собой въ спину двадцать пять, а&#160;въ лицо пятерыхъ чернокожихъ гребцовъ съ лоснящимися отъ жира черными, татуированными тѣлами; и&#160;сверху, сквозь навѣсъ изъ вѣтвей, насъ печетъ солнце, словно какой-то&#160;демонъ, не&#160;давая ни&#160;на минуту забыть о&#160;своемъ присутствіи; а&#160;дома у&#160;насъ теперь собачій холодъ, и&#160;замерзшая земля звенитъ подъ ногами, и&#160;звуки далеко разносятся въ тихомъ воздухѣ надъ покрытыми снѣгомъ полями.
+</p><p>— Какъ ты думаешь, дома у&#160;насъ въ этомъ году бѣлыя святки? — спросилъ мой товарищъ.
+</p><p>Какъ наивенъ былъ этотъ вопросъ! Впрочемъ, въ такихъ случаяхъ, собственно, несправедливо говорить о&#160;наивности.
+</p><p>Внезапно во&#160;мнѣ шевельнулось подозрѣніе.
+</p><p>Не знаю, было&#160;ли&#160;это результатомъ приступа лихорадки, трепавшей меня ночью, лихорадки, которая все время тащилась за&#160;нами, лишая меня и&#160;бодрости, и&#160;хорошаго настроенія — или&#160;же мое подозрѣніе было справедливо. Развѣ такія&#160;вещи можно знать?.. Какъ&#160;бы&#160;то ни&#160;было, мнѣ померещилось что-то&#160;загадочное въ этомъ выраженіи: «бѣлыя святки» и&#160;въ улыбкѣ, которая сопровождала эти слова и&#160;которую онъ поспѣшилъ согнать съ лица, когда я&#160;взглянулъ на&#160;него. Мнѣ почудилось, будто онъ что-то&#160;прячетъ про&#160;себя и&#160;не хочетъ подѣлиться со мной. Я&#160;нахмурился и&#160;раздражительно выговорилъ:
+</p><p>— Ну, ужъ это только Господу Богу извѣстно.
+</p><p>Помню, какъ онъ при&#160;этихъ словахъ покосился на&#160;меня, и&#160;я понялъ, что&#160;онъ подумалъ:
+</p><p>— Какой сухарь! Ничего-то&#160;онъ не&#160;понимаетъ. Ему не&#160;слышенъ звонъ рождественскихъ колоколовъ, что&#160;несется тамъ, дома, надъ тихими снѣгами.
+</p><p>И&#160;я&#160;подумалъ, что&#160;онъ читаетъ въ моемъ лицѣ совсѣмъ не&#160;то, что&#160;у меня на&#160;душѣ. И, тѣмъ не&#160;менѣе, продолжалъ угрюмо смотрѣть на&#160;скользящую желтую воду. Потому что&#160;я былъ сердитъ. Сердитъ на&#160;его веселую улыбку, бѣлые зубы и&#160;эти дѣтскія&#160;ямочки по&#160;угламъ рта.
+</p><p>Потомъ онъ уснулъ, а&#160;я долго еще думалъ объ этой его улыбкѣ. До&#160;этой минуты все у&#160;насъ было общее, и&#160;праздникъ Рождества принадлежалъ, вѣдь, столько&#160;же мнѣ, какъ и&#160;ему.
+</p><p>Я&#160;напрягъ слухъ, силясь услышать звонъ колоколовъ, который въ этотъ день, подъ Рождество, несется по&#160;свѣту; но&#160;не слышалъ его. Искалъ въ своей памяти источника, изъ котораго&#160;бы&#160;хлынули старыя дѣтскія воспоминанія&#160;о Рождествѣ — и&#160;не находилъ его. Силился представить себѣ, что&#160;я дома, на&#160;безбрежныхъ снѣжныхъ поляхъ, — но&#160;все видѣлъ передъ собой только солнечный свѣтъ и&#160;мутную желтую воду. Искалъ словъ, чтобъ вылить свое праздничное рождественское настроеніе, но&#160;находилъ лишь пустыя слова, а&#160;настроенія&#160;не было. А&#160;вотъ къ нему оно пришло, и&#160;онъ не&#160;хочетъ подѣлиться со мной.
+</p><p>Но, можетъ быть, такими вещами и&#160;нельзя дѣлиться. Можетъ быть, онъ не&#160;можетъ удѣлить мнѣ и&#160;частицы того, чѣмъ онъ владѣетъ. Это, навѣрное, и&#160;означала его улыбка.
+</p><p>Съ тихимъ усталымъ вздохомъ, голова его, покрытая тропическимъ шлемомъ, въ защиту отъ солнца, опустилась на&#160;грудь. Я&#160;же чувствовалъ себя бездомнымъ бѣднякомъ, безъ родины и&#160;друзей, и&#160;все слѣдилъ за&#160;игрой солнечныхъ лучей на&#160;его поникшей головѣ.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>А&#160;между тѣмъ, все это время мы&#160;заботились другъ о&#160;другѣ. На&#160;этой рѣкѣ товарищи мерли, какъ мухи, одинъ за&#160;другимъ, и&#160;старые, которымъ мы&#160;больше всего довѣряли, и&#160;молодые, на&#160;которыхъ возлагали всего больше надеждъ.. Въ особенности круто приходилось намъ, датчанамъ. Мы&#160;уже думали, что&#160;всѣ наши земляки въ Конго обречены на&#160;погибель. И, однако-жъ, смерти мы&#160;не боялись, и&#160;это, пожалуй, было самое худшее. Вопросъ былъ не&#160;въ томъ: умереть&#160;ли, а&#160;въ томъ, какъ умереть. Мы&#160;стояли особнякомъ, внѣ естественной связи съ окружающимъ. Мы&#160;не&#160;владѣли языками, на&#160;которыхъ говорили другіе, которые сближали ихъ между собой и&#160;связывали съ землей. Мы&#160;какъ-то&#160;соскочили съ зарубки…
+</p><p>Но&#160;никогда еще не&#160;опускались мы&#160;до того, чтобъ унизиться другъ передъ другомъ и&#160;покинуть другого въ бѣдѣ; по&#160;крайней мѣрѣ, мы&#160;двое. Нѣтъ, мы&#160;дѣлили вмѣстѣ и&#160;горе, и&#160;радость, ѣли&#160;однѣ и&#160;тѣ же кушанья, насчитывали у&#160;себя одинаковое количество біеній пульса, страдали одинаковыми болѣзнями. Каждый изъ насъ заботился о&#160;себѣ, но&#160;еще больше того о&#160;другомъ; быть можетъ, потому, что&#160;каждому изъ насъ казалось, что&#160;ему становится легче, когда онъ даетъ другому добрые совѣты; быть можетъ, и&#160;потому также, что&#160;ни одинъ изъ насъ не&#160;могъ вынести мысли о&#160;возможности остаться одинокимъ.
+</p><p>Наши совмѣстныя усилія&#160;все&#160;же до&#160;извѣстной степени достигали цѣли&#160;и держали лихорадку на&#160;почтительной дистанціи; ибо мы&#160;не могли представить себѣ большаго позора, какъ умереть отъ лихорадки, въ приступѣ безумія, среди ребяческихъ видѣній.
+</p><p>Дня два тому назадъ намъ встрѣтился умирающій, плывшій внизъ по&#160;рѣкѣ. Въ насъ самихъ было немногимъ больше жизни, чѣмъ въ немъ. Мы&#160;чувствовали это и, должно быть, не&#160;съумѣли&#160;этого скрыть. Но&#160;ему, должно быть, показалось. это надменностью, насмѣшкою живыхъ надъ обреченнымъ. Можетъ быть, два дня спустя, онъ такъ и&#160;умеръ въ своей лодкѣ, не&#160;доѣхавъ до&#160;мѣста. Вѣдь умереть можно отъ такихъ пустяковъ… А&#160;для&#160;насъ встрѣча съ нимъ была какъ&#160;бы&#160;новымъ предостереженіемъ.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Несмотря на&#160;свою досаду, я&#160;все-таки слѣдилъ за&#160;тѣмъ, чтобы солнце не&#160;пекло прямо въ голову моему товарищу, такъ какъ съ нимъ уже и&#160;наканунѣ было что-то&#160;вродѣ приступа бреда: онъ говорилъ съ людьми, живущими Богъ вѣсть какъ далеко отсюда, и, главнымъ образомъ, съ одной женщиной, которую звали Анной и&#160;которая мнѣ была совершенно незнакома.
+</p><p>Въ концѣ-концовъ я&#160;прошепталъ тихо, какъ только и&#160;можетъ шептать человѣкъ, когда онъ съ побѣлѣвшими губами сидитъ подъ палящимъ солнцемъ и&#160;все таки чувствуетъ, что&#160;его знобитъ:
+</p><p>— Ты не&#160;смѣешь умереть и&#160;оставить меня одного!
+</p><p>И, когда мнѣ стало ясно, что&#160;я разсердился на&#160;него, я&#160;поспѣшилъ простить ему, что&#160;онъ не&#160;хотѣлъ подѣлиться со мной <i>тѣмъ</i>, недѣлимымъ.
+</p><p>Но&#160;мнѣ, все-таки, было жутко, что&#160;товарищъ мой, что&#160;называется, «не&#160;въ себѣ» и&#160;бредитъ, — потому что&#160;вѣдь ужасно досадно, когда единственный человѣкъ въ мірѣ, съ которымъ вы можете разговаривать, воображаетъ, будто онъ еще ходитъ въ школу въ Гельсингёрѣ, или&#160;же отбываетъ свой учебный сборъ на&#160;осеннихъ маневрахъ. Поэтому я&#160;разбудилъ его и&#160;сказалъ, хотя это была неправда:
+</p><p>— Солнце свѣтитъ прямо на&#160;тебя. — И, улыбаясь, прибавилъ: — Ну, что? Поспалъ?
+</p><p>— Кажется, — отвѣтилъ онъ, смѣясь и&#160;какъ будто извиняясь, хотя извиняться, разумѣется, было нечего, такъ какъ въ лодкѣ мы&#160;могли спать сколько-угодно.
+</p><p>Наступившая пауза была недолга, но&#160;почему-то&#160;въ этотъ моментъ мы&#160;оба не&#160;въ состоянія&#160;были выносить молчанія. И&#160;я&#160;первый ринулся впередъ, какъ бабочка на&#160;огонь.
+</p><p>— Сколько васъ бываетъ дома въ этотъ вечеръ? — спросилъ я.
+</p><p>— Въ этотъ вечеръ?
+</p><p>— Ну, да, — въ сочельникъ.
+</p><p>И&#160;онъ разсказалъ, что&#160;ихъ всѣхъ за&#160;столомъ сидитъ восемь: отецъ, мать, дядя, двѣ сестры, братъ, еще кто-то, кого онъ не&#160;назвалъ, и, наконецъ, онъ самъ; только его мѣсто сегодня пусто. Отецъ собственноручно рѣжетъ гуся и&#160;держитъ рѣчь.
+</p><p>Разсказывая, онъ улыбался… Я&#160;разспрашивалъ его самымъ подробнымъ образомъ обо всѣхъ возможныхъ и&#160;самыхъ невозможныхъ подробностяхъ и&#160;ждалъ, что&#160;и онъ, въ свою очередь, затѣмъ спроситъ меня, какъ проводятъ Рождество у&#160;меня дома; но&#160;онъ не&#160;спросилъ, и&#160;мнѣ пришлось самому разсказать. Но&#160;пока я&#160;разсказывалъ, онъ не&#160;слушалъ и&#160;не смотрѣлъ на&#160;меня. Онъ смотрѣлъ куда-то&#160;внутрь себя, на&#160;то, чѣмъ онъ не&#160;могъ подѣлиться со мной.
+</p><p>Посрединѣ моего разсказа онъ опять уснулъ, и&#160;это меня смутило. Но&#160;обижаться на&#160;него, конечно, я&#160;не обидѣлся. Я&#160;даже не&#160;разозлился на&#160;гребцовъ, сидѣвшихъ за&#160;его спиной, которые, разумѣется, перестала налегать на&#160;весла, какъ только замѣтили, что&#160;бѣлый человѣкъ, сидѣвшій къ нимъ лицомъ, закрылъ глаза. Я&#160;только крикнулъ имъ черезъ плечо:
+</p><p>— <i>Колука ванту!</i> (Гребите, братцы).
+</p><p>Это я&#160;могъ крикнуть довольно рѣшительнымъ и&#160;властнымъ тономъ, настолько у&#160;меня хватало знанія&#160;языка.
+</p><p>Негры запѣли&#160;и принялись въ тактъ стучать палкою о&#160;бортъ лодки такъ звонко, что&#160;звукъ доносился до&#160;деревьевъ, росшихъ на&#160;берегу.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Пока мы&#160;плыли дальше, мнѣ вдругъ пришла мысль одна изъ тѣхъ, какія&#160;приходятъ только передъ Рождествомъ, когда эгоисты внезапно испытываютъ потребность порадовать другихъ — всего вѣрнѣй, по&#160;той причинѣ, что&#160;ихъ собственная душа пуста, и&#160;хочется ей хоть отъ другихъ занять немного радости. Во&#160;время нашего пути я&#160;несъ обязанности повара, потому что&#160;повара-негра изъ Стэнливилля мы&#160;не захватили. На&#160;станціи&#160;не нашлось ни&#160;одного, готоваго продѣлать съ нами трехдневный путь въ обѣднѣвшую страну Касонго. Поэтому я&#160;во все время пути напрягалъ свою память, припоминая всѣ кушанья, какія&#160;я когда-либо ѣлъ; и&#160;мнѣ удавалось иной разъ изготовить блюдо, напоминавшее моему товарищу датскую кухню. Навѣрное, я&#160;сумѣю и&#160;утку зажарить такъ, что&#160;ее можно будетъ съѣсть. Вѣдь это совсѣмъ просто. Стоитъ только выкопать на&#160;берегу, на&#160;глинистомъ склонѣ ямку, прогрѣть ее хорошенько зажженнымъ хворостомъ, а&#160;потомъ положить туда утку — и&#160;она спечется. Я&#160;чувствовалъ, что&#160;меня осѣнило вдохновеніе.
+</p><p>Бѣлая бумажная матерія&#160;у насъ найдется въ ящикахъ. Если поставить четыре желѣзныхъ сундука, по&#160;два вмѣстѣ, положить на&#160;нихъ двѣ доски, покрыть ихъ этой бумажной матеріей, а&#160;на доски поставить два подсвѣчника со стеариновыми свѣчами, стаканы, эмалевые приборы, банку съ пикулями и&#160;бутылку съ краснымъ виномъ, то&#160;выйдетъ совсѣмъ праздничный рождественскій столъ.
+</p><p>Положимъ, я&#160;зналъ по&#160;опыту, что&#160;въ этотъ вечеръ самъ я&#160;не въ состояніи&#160;буду ѣсть, такъ какъ меня знобило, и&#160;мнѣ все было противно, но&#160;зато хоть ему доставлю радость — а, значитъ, и&#160;себѣ.
+</p><p>Но&#160;что&#160;же мнѣ подарить ему? Надо выискать что-нибудь хорошее, иначе нельзя будетъ создать надлежащаго настроенія. Я&#160;мысленно перебиралъ мои сундуки; бѣда&#160;въ томъ, что&#160;изъ Брюсселя мы&#160;захватили все одинаковое. Если подарить ему пару штановъ, которые будутъ ему слишкомъ длинны, или&#160;сапогъ, которые окажутся для&#160;него слишкомъ велики — вѣдь это&#160;же нелѣпо: что&#160;же это за&#160;подарокъ?
+</p><p>Мои мысли все чаще возвращались къ одному предмету, своей рѣдкостью привлекавшему вниманіе всѣхъ, кто видѣлъ его. Это была коробка съ шестью фланелевыми воротниками — <i>last style</i> — которые могли сослужить чудесную службу здѣсь, въ эту жару, когда тщеславіе таяло далеко не&#160;такъ быстро, какъ твердость крахмальныхъ воротничковъ.
+</p><p>Я&#160;увидалъ ихъ въ витринѣ на&#160;Сѣверномъ Бульварѣ и&#160;сейчасъ&#160;же мнѣ захотѣлось ихъ купить. Они&#160;были единственными въ своемъ родѣ, и&#160;такихъ воротничковъ у&#160;него не&#160;было. Онъ всегда поглядывалъ на&#160;нихъ, когда я&#160;разбирался въ своемъ сундукѣ. Я&#160;даже думаю, что, именно благодаря этимъ фланелевымъ воротничкамъ и&#160;только имъ, онъ считалъ меня гораздо интереснѣе, чѣмъ я&#160;былъ самъ по&#160;себѣ.
+</p><p>Если ужъ дарить, такъ дарить самое лучшее, что&#160;только имѣешь, хотя&#160;бы&#160;въ ущербъ себѣ.
+</p><p>Я&#160;мысленно оставилъ себѣ три лучшихъ воротничка и&#160;мысленно подарилъ ему три другихъ послѣ обѣда, когда мы, разлегшись на&#160;нашихъ складныхъ стульяхъ, будемъ сидѣть за&#160;чашкой чая, прислушиваясь къ далекому звону рождественскихъ колоколовъ.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Уже подъ вечеръ мы&#160;увидали деревню съ маленькими бѣлыми домиками и&#160;сѣрыми кровлями у&#160;изгиба рѣки, на&#160;опушкѣ лѣса. Солнце уже стояло низко надъ другимъ берегомъ, и&#160;отъ деревьевъ по&#160;рѣкѣ стлался бѣлый туманъ.
+</p><p>— И&#160;у&#160;насъ будутъ бѣлыя святки, — сказалъ я.
+</p><p>Предводитель племени, обитавшаго въ этой деревнѣ, съ знатнѣйшими изъ своихъ подданныхъ вышелъ навстрѣчу намъ и&#160;освѣдомился: — не&#160;желаютъ&#160;ли&#160;султаны чего-нибудь? Султаны объявили, что&#160;желали&#160;бы&#160;получить жирную утку.
+</p><p>— Это тебѣ пришла хорошая мысль, — сказалъ мой товарищъ.
+</p><p>Я&#160;загадочно усмѣхнулся, какъ будто рѣчь шла о&#160;чемъ-то&#160;такомъ, чего я&#160;не могъ сказать ему.
+</p><p>Къ восьми часамъ столъ былъ накрытъ. Двѣ зажженныхъ свѣчи придавали ему необычайно торжественный видъ. Онъ стоялъ по&#160;срединѣ большой площадки, выходившей на&#160;рѣку, по&#160;которой стлался бѣлый туманъ.
+</p><p>Жаркое было невкусно. И&#160;вино тоже. Когда у&#160;васъ во&#160;рту мѣдный вкусъ отъ лихорадки, вамъ можетъ быть пріятно только кислое и&#160;сладкое. Однако-жъ, оба мы&#160;единодушно хвалили изготовленныя мною кушанья.
+</p><p>— Теперь они&#160;дома тоже сидятъ за&#160;столомъ, — говорилъ онъ. — Всѣ кромѣ меня. Видишь, вонъ тамъ сидятъ старики, тутъ дядюшка, тамъ обѣ мои сестры и&#160;братъ, а&#160;здѣсь вотъ стоитъ пустой стулъ, <i>мой</i> пустой стулъ, который будетъ три года такъ стоять и&#160;дожидаться меня.
+</p><p>И&#160;опять на&#160;лицѣ его появилась та улыбка, которая казалась мнѣ такой нетоварищеской и&#160;прикрывала недѣлимое. А&#160;я&#160;еще хотѣлъ подарить ему три моихъ лучшихъ воротничка… Тѣмъ не&#160;менѣе, и&#160;я увидѣлъ, какъ изъ темноты позади него выдвигается столъ. За&#160;столомъ сидѣли&#160;старики, братъ и&#160;дядя; напротивъ нихъ — сестры, и&#160;тутъ&#160;же стоялъ его пустой стулъ, но&#160;между этимъ послѣднимъ и&#160;сестрами былъ еще одинъ пустой стулъ. Можетъ быть, онъ уже разучился считать? Можетъ быть. Не далѣе, какъ вчера онъ упрямо твердилъ, что&#160;наше путешествіе длится уже шестнадцать дней, хотя изъ моей записной книжки ясно было видно, что ѣдемъ мы&#160;только десять дней.
+</p><p>Но&#160;вѣдь у&#160;меня&#160;же были и&#160;мои собственныя воспоминанія&#160;о Рождествѣ. Ну, разумѣется. И&#160;до&#160;сихъ поръ я&#160;также не&#160;боялся вызывать ихъ. Правда, не&#160;боялся, когда сидѣлъ на&#160;солнцѣ, но&#160;тогда они&#160;и не&#160;являлись, а&#160;теперь вокругъ насъ была темень и&#160;холодъ, и&#160;при лунномъ свѣтѣ блестѣлъ на&#160;рѣкѣ бѣлый туманъ.
+</p><p>Что, если теперь встанутъ передо мной эти воспоминанія, навалятся ко&#160;мнѣ на&#160;грудь и&#160;начнутъ душить — теперь, когда я&#160;и безъ того задыхаюсь? У&#160;меня далеко не&#160;такія&#160;мирныя и&#160;радостныя воспоминанія&#160;о Рождествѣ, какъ у&#160;него…
+</p><p>Такъ каждый изъ насъ по&#160;своему переживалъ Рождество, хотя судьба забросила обоихъ насъ на&#160;край свѣта и&#160;свела за&#160;однимъ и&#160;тѣмъ&#160;же столомъ.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Мы&#160;молча поднялись съ ящиковъ, на&#160;которыхъ сидѣли, и&#160;пересѣли&#160;на стулья, лицомъ къ рѣкѣ. Бои принесли намъ чаю, и&#160;мы закурили отсырѣвшія невкусныя сигары, которыя я&#160;хранилъ на&#160;днѣ одного изъ своихъ сундуковъ, какъ дорогое воспоминаніе о&#160;растраченномъ богатствѣ.
+</p><p>Я&#160;только-что&#160;хотѣлъ пойти въ домъ и&#160;достать изъ сундука воротнички — до&#160;сихъ поръ у&#160;меня все какъ-то&#160;не было подходящаго настроенія — какъ изъ темноты выскочили босоногіе негры и&#160;хриплыми голосами стали звать насъ въ деревню, гдѣ теперь идетъ рѣзня между нашими гребцами и&#160;здѣшними жителями.
+</p><p>— Рѣзня! Въ сочельникъ, въ рождественскій вечеръ! Вотъ такъ чудесно! Это не&#160;сразу дошло до&#160;сознанія&#160;нашего: мысль работала въ усталомъ мозгу какъ-то&#160;медлительно. Но&#160;все&#160;же мы&#160;схватили револьверы и&#160;побѣжали въ деревню. Еще издали мы&#160;увидали при&#160;лунномъ свѣтѣ какую-то&#160;суету и&#160;бѣготню. До&#160;насъ доносились удары, топотъ ногъ, вздохи и&#160;хриплое рычанье.
+</p><p>Мы&#160;ринулись прямо на&#160;эту толпу и&#160;выстрѣлили въ воздухъ. Вздохи и&#160;крики мгновенно умолкли, и&#160;большинство дикарей разбѣжалось. Но&#160;одинъ, который очень ужъ разошелся, бросился на&#160;насъ съ поднятымъ ножемъ. Другіе, болѣе разсудительные, схватили его, силясь удержать, но&#160;онъ закололъ ножемъ одного изъ нихъ, вырвался и&#160;побѣжалъ опять къ намъ. Выстрѣлъ, угодившій ему прямо въ лицо, угомонилъ его, наконецъ.
+</p><p>Потомъ мы&#160;притащили свои склянки съ лекарствами, зашили ему прострѣленную нижнюю губу и&#160;перевязали четверыхъ другихъ, которые лежали на&#160;землѣ и&#160;стонали.
+</p><p>Покончивъ съ этимъ, мы&#160;поплелись обратно къ дому, еще полные впечатлѣній этой рѣзни и&#160;окруженные рѣзкимъ запахомъ іодоформа.
+</p><p>Мы&#160;и&#160;забыли совсѣмъ, что&#160;сегодня рождественскій вечеръ. Но&#160;вспомнили объ этомъ сейчасъ&#160;же, какъ только подошли къ дому и&#160;увидали холодный огонь двухъ свѣчей, одиноко горѣвшихъ на&#160;бѣломъ столѣ.
+</p><p>Это изгладило изъ памяти нашей непріятное зрѣлище, видѣнное въ деревнѣ; мы&#160;молча стояли и&#160;смотрѣли&#160;на скатерть и&#160;на свѣчи.
+</p><p>Я&#160;пошелъ въ домъ, принесъ коробку съ воротничками и&#160;отдалъ ихъ всѣ шесть своему спутнику, говоря:
+</p><p>— Вотъ тебѣ рождественскій подарокъ.
+</p><p>Онъ не&#160;хотѣлъ брать ихъ. Ему казалось неловкимъ принять подарокъ, когда нечѣмъ отдарить. Я&#160;притворился обиженнымъ, тогда онъ взялъ и&#160;сразу притихъ отъ радости. Онъ, вѣдь, былъ моложе меня и&#160;страшно заботился о&#160;своей внѣшности.
+</p><p>Мы&#160;съ удовольствіемъ напились горячаго чая, такъ какъ оба дрожали отъ холода. Я&#160;говорилъ себѣ мысленно, что&#160;теперь хоть у&#160;него по&#160;крайней мѣрѣ настоящій праздникъ. Но&#160;внезапно на&#160;лицѣ его опять появилась та загадочная улыбка, прикрывавшая недѣлимое — сіяющая и&#160;праздничная.
+</p><p>— А&#160;на&#160;стулѣ между моей сестрою и&#160;мной… — началъ онъ, и&#160;голосъ его дрогнулъ.
+</p><p>— Ну, ну? — подхватилъ я.
+</p><p>Тутъ-то&#160;и сидѣло <i>недѣлимое.</i>
+</p><p>Боже мой, какъ&#160;же я&#160;былъ глупъ и&#160;низокъ! Да, теперь мнѣ было понятно, что&#160;этого онъ не&#160;могъ и&#160;не хотѣлъ дѣлить со мной. Я&#160;теперь сразу понялъ, въ чемъ заключалось то&#160;необъяснимое, что&#160;цѣлый день сегодня висѣло надъ нами.
+</p><p>Ее звали Анной и&#160;еще какъ-то&#160;дальше, но&#160;это неважно, и&#160;она обѣщала еще три сочельника ждать возвращенія&#160;птицы, улетѣвшей изъ родного гнѣзда въ далекій міръ.
+</p><p>Боже мой, какъ я&#160;былъ смущеньи сконфуженъ, и, все-таки, какъ я&#160;былъ доволенъ!
+</p><p>…До&#160;поздней ночи онъ никакъ не&#160;могъ угомониться, все разсказывалъ и&#160;разсказывалъ, хотя его трясъ жестокій ознобъ. И&#160;меня также. Оживленно и&#160;громко мы&#160;безъ конца болтали о&#160;Рождествѣ и&#160;о нашихъ далекихъ бѣлыхъ друзьяхъ.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Было, должно быть, часовъ одиннадцать, когда онъ вдругъ прервалъ свой разсказъ, обернулся, посмотрѣлъ на&#160;рѣку и&#160;воскликнулъ:
+</p><p>— Послушай, да&#160;вѣдь это снѣгъ выпалъ!
+</p><p>Я&#160;тоже обернулся.
+</p><p>— Ну да, конечно, снѣгъ.
+</p><p>Дрожа отъ холода, мы&#160;вышли на&#160;воздухъ. Луна свѣтила; воздухъ былъ тихій и&#160;пронизанный звѣзднымъ сіяніемъ. На&#160;всѣхъ крышахъ, на&#160;землѣ, на&#160;рѣкѣ лежалъ бѣлый снѣжный покровъ.
+</p><p>Вонъ проѣхали сани съ заливчатыми бубенцами и&#160;скрылись за&#160;бѣлымъ холмомъ. Вдоль рѣки, на&#160;бѣломъ снѣгу, межъ высокихъ домовъ, тянулись въ два ряда фонари. Мы&#160;видѣли&#160;людей, спѣшившихъ домой, и&#160;шаги ихъ на&#160;свѣжемъ мягкомъ снѣгу были безшумны, но&#160;мы отчетливо видѣли&#160;ихъ при&#160;свѣтѣ фонарей; они&#160;исчезали въ темныхъ переулкахъ, снова выходили на&#160;свѣтъ и&#160;опять изчезали.
+</p><p>Мы&#160;закрывали глаза и&#160;открывали ихъ снова. Снѣгъ лежалъ на&#160;землѣ — мы&#160;видѣли&#160;его оба — и&#160;фонари горѣли&#160;попрежнему, а&#160;тамъ на&#160;замерзшей рѣкѣ, на&#160;снѣгу все еще весело звенѣли бубенцы саней.
+</p><p>Я&#160;теперь уже нисколько не&#160;боялся лихорадки.
+</p><p>— Вотъ видишь, и&#160;у насъ бѣлыя святки, — сказалъ я.
+</p><p>— Да, — отвѣтилъ онъ съ удивленіемъ. Но&#160;и&#160;онъ, какъ я, былъ вполнѣ увѣренъ, что&#160;видитъ и&#160;снѣгъ, и&#160;фонари.
+</p><p>Ибо, когда два человѣка долго жили вмѣстѣ, питались одною и&#160;тою&#160;же пищей, хворали однѣми и&#160;тѣми&#160;же болѣзнями и, раскрывая ротъ, чтобы заговорить, говорили одни и&#160;тѣ же слова, когда оба они&#160;долго ничего не&#160;видали, кромѣ убѣгающей вдоль рѣки, когда ихъ обоихъ подстерегала лихорадка, и&#160;языкъ окружающаго міра все время оставался непонятнымъ для&#160;нихъ, когда нить судебъ обвила ихъ однимъ и&#160;тѣмъ&#160;же кокономъ изъ невидимаго шелка — тогда у&#160;нихъ и&#160;видѣнія бываютъ одинаковыми. И&#160;счастье, что&#160;такъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="IV._Сангалимене_изъ_Упото."><span id="IV._.D0.A1.D0.B0.D0.BD.D0.B3.D0.B0.D0.BB.D0.B8.D0.BC.D0.B5.D0.BD.D0.B5_.D0.B8.D0.B7.D1.8A_.D0.A3.D0.BF.D0.BE.D1.82.D0.BE."></span>IV. <br />Сангалимене изъ Упото.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=4" title="Редактировать раздел «IV. Сангалимене изъ Упото.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Сангалимене былъ однимъ изъ лучшихъ помощниковъ дѣвственнаго лѣса въ его борьбѣ съ будущимъ. Свою неизсякаемую энергію онъ черпалъ въ бездонномъ прошломъ невѣдомой культуры. Взглядъ у&#160;него былъ горячій, проницательный, сохранившій яркій блескъ былыхъ временъ. Въ его высокой, широкоплечей фигурѣ съ сильнымъ и&#160;гибкимъ станомъ, казалось, воплотилась творческая мечта генія&#160;древности.
+</p><p>Въ свой пріѣздъ въ Ванаканду онъ повелъ себя съ молодымъ французскимъ начальникомъ станціи, поручикомъ Дюбуа, котораго черные звали «Кванго», очень нахально и&#160;грубо. Онъ напрямикъ заявилъ ему:
+</p><p>— Страна принадлежитъ мнѣ. Если капитанъ Салонга потребуетъ, чтобы я&#160;платилъ подать казнѣ, — пусть самъ придетъ за&#160;нею.
+</p><p>Кванго дрожалъ отъ злости, разсказывая объ этомъ капитану, только что&#160;возвратившемуся изъ четырехмѣсячной развѣдочной экспедиціи.
+</p><p>— И&#160;что&#160;же? Все это время онъ, значитъ, ничего не&#160;платилъ? — освѣдомился капитанъ.
+</p><p>— Нѣтъ. Онъ явился съ пустыми руками, въ сопровожденіи десятка вооруженныхъ людей, и&#160;держалъ себя необычайно глупо.
+</p><p>— Позовите ко&#160;мнѣ сержанта Ибоко.
+</p><p>Вызвали изъ солдатскаго лагеря Ибоко. Онъ прибѣжалъ и&#160;вытянулся внизу, у&#160;веранды, приложивъ руку къ красной фуражкѣ.
+</p><p>— Ты все время послѣ моего отъѣзда жилъ на&#160;станціи. Разсказывай, — сказалъ ему капитанъ, на&#160;языкѣ <i>суагели.</i>
+</p><p>Ибоко поднялся на&#160;три ступеньки, отдѣлявшія веранду отъ земли, и&#160;нерѣшительно приблизился къ бѣлому, который сидѣлъ въ покойномъ откидномъ креслѣ, крутя въ пальцахъ папироску. Ибоко посмотрѣлъ на&#160;свои босыя черныя ноги, блестѣвшія&#160;отъ масла, которымъ онѣ были натерты, потомъ на&#160;свою синюю холщевую форменную куртку, выпрямился и&#160;указалъ рукой на&#160;свои золотые галуны.
+</p><p>— Салонга! Эти нашивки далъ мнѣ губернаторъ. Значитъ, я&#160;не лгу. Сангалимене былъ здѣсь и&#160;велъ себя очень нехорошо. Я&#160;служу правительству уже двѣнадцать лѣтъ, и&#160;потому говорю правду. Вѣрь мнѣ: Сангалимене тамъ, у&#160;себя дома, замышляетъ недоброе. Онъ собралъ около себя въ Упото все населеніе нашего края.
+</p><p>— Его гонитъ туда голодъ и&#160;оспа, — возразилъ капитанъ Салонга и&#160;посмотрѣлъ на&#160;поручика, видимо, не&#160;понявшаго ни&#160;слова изъ этого разговора.
+</p><p>Ибоко, въ свою очередь, возразилъ:
+</p><p>— Салонга! Прежде Сангалимене былъ твоимъ другомъ, потому что&#160;онъ боялся тебя. Тогда онъ былъ маленькій, а&#160;ты сильный. Теперь онъ ужъ больше не&#160;боится тебя. Онъ могучій знахарь. Это онъ наслалъ голодъ и&#160;оспу. Онъ замышляетъ недоброе.
+</p><p>При&#160;этихъ словахъ темные глаза Ибоко засверкали, такъ онъ былъ убѣжденъ въ правдивости своихъ словъ.
+</p><p>— Вы понимаете, что&#160;онъ говоритъ? — спросилъ капитанъ поручика Дюбуа.
+</p><p>— Нѣтъ. <i>Суагели</i> я&#160;еще не&#160;понимаю. Я&#160;говорю только на&#160;языкѣ <i>бангала.</i>
+</p><p>— Голодъ въ здѣшнемъ краю все растетъ. Эта исторія&#160;съ Сангалимене не&#160;имѣетъ значенія; но&#160;за его грубость по&#160;отношенію къ вамъ я&#160;дамъ ему здоровую нахлобучку — въ этомъ вы можете быть увѣрены. Теперь ступайте въ комнаты и&#160;напишите донесеніе.
+</p><p>Кванго прошелъ на&#160;другой конецъ веранды и&#160;вошелъ въ домъ черезъ дверь, ведущую въ канцелярію. Капитанъ Салонга, въ своемъ бѣломъ мундирѣ, остался сидѣть, только повернулъ голову, чтобъ посмотрѣть ему вслѣдъ. Нѣкоторое время онъ сквозь легкій дымъ папироски любовался воздушной пляской мотыльковъ, цѣлыми роями летавшихъ передъ домомъ, между цвѣтами и&#160;кофейными деревьями.
+</p><p>Его тѣло еще не&#160;отдохнуло послѣ долгихъ переходовъ. Такъ пріятно было&#160;бы&#160;просто сидѣть покойно въ креслѣ и&#160;думать о&#160;чемъ-нибудь безразличномъ, или, всего лучше, совсѣмъ не&#160;думать. Мысли его скользили подъ черными тѣнями кофейныхъ деревьяхъ, силясь поймать Мерцающій огонекъ тамъ, въ иныхъ, — далекихъ широтахъ.
+</p><p>Вдругъ, онъ повернулъ голову, и&#160;его зоркій, пытливый взглядъ встрѣтился съ открытымъ, увѣреннымъ взглядомъ Ибоко.
+</p><p>И&#160;на&#160;мигъ потонулъ въ немъ, чтобы прочесть въ этомъ взглядѣ все, что&#160;хотѣлось&#160;бы&#160;узнать усталому воину отъ мудраго сына природы, который уже много лѣтъ былъ его неизмѣннымъ спутникомъ во&#160;всѣхъ превратностяхъ жизни въ первобытной странѣ.
+</p><p>— <i>Локута тэ!</i> — завѣрилъ его Ибоко. — Я&#160;не&#160;лгу.
+</p><p>Саленга зналъ Сангалимене съ тѣхъ поръ, какъ самъ онъ прибылъ въ эту страну — ужъ восемь лѣтъ. Я&#160;слѣдилъ за&#160;жизнью Сангалимене съ большимъ интересомъ, чѣмъ за&#160;участью другихъ вождей. Ибо онъ съумѣлъ разглядѣть, что&#160;именно этотъ человѣкъ будетъ имѣть огромное значеніе для&#160;организаціи воинственнаго населенія&#160;этой страны.
+</p><p>Въ этомъ онъ не&#160;ошибся. Сангалимене сталъ могущественнѣйшимъ изъ всѣхъ вождей мѣстныхъ племенъ. Но&#160;чтобы этотъ вождь осмѣлился не&#160;признавать и&#160;его власти, — этому онъ не&#160;хотѣлъ и&#160;не могъ повѣрить. Это было невозможно.
+</p><p>Ему вспомнилось, какъ, пять лѣтъ тому назадъ, Сангалимене, съ тысячей испытанныхъ воиновъ, пришелъ ему на&#160;помощь противъ измѣнника Бенъ-Саби, послѣ того, какъ этотъ послѣдній вырѣзалъ цѣлый караванъ бѣлыхъ и&#160;черныхъ, которымъ поручено было лѣсными дорогами доставить на&#160;берегъ моря, въ разобранномъ видѣ, пароходъ.
+</p><p>Капитанъ Салонга усмѣхнулся, мысленно вызвавъ передъ своими глазами образъ Сангалимене: великана, съ лоснящейся кожей, стройнаго и&#160;гибкаго, какъ статуя, опирающагося на&#160;длинное, блестящее копье, — и&#160;вспомнивъ, какъ этотъ черный великанъ швырнулъ на&#160;землю передъ его палаткой отрубленную голову Бенъ-Саби.
+</p><p>Въ этотъ день Салонга и&#160;Сангалимене стали друзьями, и&#160;Салонга воскликнулъ:
+</p><p>— Ты — могучій властелинъ, непобѣдимый воинъ, первый изъ вождей правительства и&#160;мой другъ навѣки!
+</p><p>Радуясь удачному концу труднаго и&#160;утомительнаго похода, онъ, говоря на&#160;языкѣ бангала, употреблялъ всѣ хвалебные эпитеты въ превосходной степени, пока Сангалимене отъ радости не&#160;разразился громкимъ смѣхомъ. Такъ польстили ему эти хвалебныя рѣчи.
+</p><p>И&#160;теперь Салонга самъ разсмѣялся, вспомнивъ, какъ они&#160;вмѣстѣ одолѣли&#160;Бенъ-Саби, всталъ, потрепалъ по&#160;плечу Ибоко и&#160;молвилъ:
+</p><p>— <i>Локута!</i> — неправда это. Видно, Ибоко, гроза первобытнаго лѣса, начинаетъ старѣться. Или, можетъ быть, у&#160;него бываютъ дурные сны, какъ у&#160;женщинъ?
+</p><p>Но&#160;на&#160;послушномъ лицѣ Ибоко не&#160;нашла отраженія&#160;улыбка капитана. Пристально глядя вдаль, онъ повторилъ:
+</p><p>— <i>Локута тэ.</i>
+</p><p>Капитанъ съ минуту глядѣлъ на&#160;него, потомъ сказалъ:
+</p><p>— Дня черезъ два мы&#160;выступаемъ: я&#160;хочу навѣстить моего стараго друга Сангалимене въ Упото. Ступай, и&#160;не разсказывай никому о&#160;своихъ дурныхъ предчувствіяхъ.
+</p><p>Ибоко медленно, въ раздумьи отошелъ, какъ старый солдатъ, который не&#160;привыкъ думать и&#160;соображаетъ туго. Такъ, по&#160;крайней мѣрѣ, подумалъ Салонга, замѣтивъ, какъ Ибоко отставляетъ назадъ правую ногу. Но, когда Ибоко повернулся на&#160;каблукахъ и&#160;приложилъ руку къ козырьку, передъ тѣмъ какъ сойти съ террассы, въ груди Салонги вдругъ шевельнулось темное тревожное чувство… — А&#160;вдругъ Ибоко окажется правъ?..
+</p><p>Но, идя въ канцелярію, онъ уже опять говорилъ себѣ: «Не можетъ быть! Кто угодно, — только не&#160;онъ».
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Дождь лилъ ручьями. Съ непрерывнымъ гудѣньемъ изъ разверзшихся хлябей небесныхъ изливались потоки воды на&#160;лѣсъ. По&#160;лѣсу шелъ такой трескъ и&#160;гулъ, что, еслибъ даже Кванго крикнулъ, Ибоко, шедшій вплотную впереди него, не&#160;услыхалъ&#160;бы. Поэтому, не&#160;удивительно, что&#160;Кванго чувствовалъ себя одинокимъ въ центрѣ этой длинной, быстро марширующей колонны. Въ ушахъ его отдавался гудѣньемъ только шумъ дождя, и&#160;ему казалось, что&#160;онъ отрѣзанъ отъ своихъ людей. И&#160;въ его распаленномъ лихорадкой мозгу звенѣли&#160;какіе-то&#160;небывалые звуки, вспыхивали какія-то&#160;странныя галлюцинаціи.
+</p><p>Ему трудно было собрать мысли. Его знобило. Дождь пробивалъ насквозь его легкую, холщевую одежду и&#160;стекалъ ручьями по&#160;его груди и&#160;спинѣ.
+</p><p>Трясясь отъ лихорадки, онъ шелъ дальше, ежеминутно боясь, что&#160;вотъ-вотъ онъ упадетъ отъ голода и&#160;переутомленія. Вотъ ужъ десять дней отрядъ его маршировалъ по&#160;мѣстности, какъ будто вымершей отъ голода и&#160;оспы, или&#160;по крайней мѣрѣ покинутой населеніемъ. Они&#160;проходили черезъ деревни, въ которыхъ видѣли&#160;только мертвыхъ и&#160;умирающихъ. И&#160;нигдѣ нельзя было добыть никакой ѣды, ни&#160;для поручика, ни&#160;для солдатъ. Небольшой запасъ провизіи, захваченный съ собой изъ Ванаканды, былъ съѣденъ въ первые&#160;же пять дней. Съ тѣхъ поръ Кванго питался листьями маніока и&#160;пальмовыми орѣшками, а&#160;у людей его не&#160;всегда бывало и&#160;это.
+</p><p>Онъ былъ такъ удрученъ, такъ усталъ и&#160;окоченѣлъ отъ холода, какъ еще никогда въ жизни.
+</p><p>Капитанъ съ своимъ отрядомъ въ восемьдесятъ человѣкъ долженъ быть теперь уже въ Упото. Успѣлъ&#160;ли&#160;онъ дойти? На&#160;другой&#160;же день по&#160;выходѣ со станціи&#160;онъ раздѣлилъ отрядъ на&#160;двѣ части, между собой и&#160;Кванго, и&#160;сказалъ:
+</p><p>— 15-го, ровно въ десять утра, я&#160;буду въ Упото. Если вы послѣдніе два дня будете идти скорымъ шагомъ, вы можете прійти туда два часа спустя послѣ меня.
+</p><p>И&#160;Кванго въ лихорадочныхъ видѣніяхъ представлялся капитанъ Соланга, какъ онъ утромъ, въ тотъ день, когда они&#160;разстались, стоялъ передъ нимъ и&#160;смотрѣлъ на&#160;него какъ-то&#160;загадочно; и&#160;слышался его голосъ, говорившій:
+</p><p>— И&#160;ничто не&#160;помѣшаетъ мнѣ въ назначенный срокъ быть въ назначенномъ мѣстѣ.
+</p><p>Сегодня было 15-е и&#160;ровно два часа.
+</p><p>Кванго сѣменилъ мелкими шажками дальше, идя по&#160;слѣдамъ Ибоко, и&#160;прислушиваясь къ шуму дождя. Ему показалось, что&#160;этотъ шумъ ослабѣваетъ, и&#160;стало легче на&#160;душѣ. Перейдя въ бродъ небольшой лѣсной ручей, онъ остановился, чтобы собрать свой отрядъ, разсыпавшійся отъ быстрой ходьбы. Обезсиленный, почти безъ сознанія, онъ присѣлъ на&#160;маленькій походный стулъ, разложенный для&#160;него <i>боемъ.</i> И&#160;пока онъ отдыхалъ на&#160;немъ, съ блестящими глазами и&#160;пылающими отъ лихорадки щеками, дождь постепенно пересталъ, и&#160;нервы поручика немного успокоились.
+</p><p>Вокругъ него, на&#160;корняхъ деревьевъ и&#160;комьяхъ земли, сидѣли&#160;солдаты. Лица у&#160;нихъ были совсѣмъ сѣрыя отъ голода, холода и&#160;усталости. Нѣкоторые изъ нихъ, какъ сѣли, такъ тотчасъ&#160;же и&#160;уснули; другіе, держась за&#160;свои ружья, воткнутыя въ землю, сидѣли&#160;неподвижно, глядя внизъ или&#160;прямо передъ собой, въ кусты. И, должно быть, мечтали о&#160;голубоватомъ дымкѣ, лѣниво стелющемся надъ низкими соломенными крышами, и&#160;о тихомъ шипѣньи глиняныхъ горшковъ съ горячимъ супомъ — <i>пондю</i> — варившемся на&#160;дымномъ огнѣ.
+</p><p>Кванго приглядывался къ своимъ людямъ.
+</p><p>Широкое скуластое лицо Ибоко исхудало и&#160;заострилось, какъ у&#160;тяжело-больного, но&#160;вся фигура его дышала непобѣдимой силой, даже и&#160;теперь, когда онъ стоялъ, опираясь на&#160;свое ружье и&#160;повернувшись лицомъ къ отставшимъ солдатамъ и&#160;носильщикамъ, еще по&#160;ту сторону ручья поспѣшавшимъ имъ вдогонку, увязая въ болотѣ и&#160;перелѣзая черезъ корни.
+</p><p>Кванго отдыхалъ душой, глядя на&#160;Ибоко. Потомъ и&#160;онъ повернулся лицомъ къ марширующимъ солдатамъ.
+</p><p>И, когда онъ увидѣлъ, какъ они, оборванные, грязные и&#160;промокшіе насквозь, кашляя и&#160;тяжело дыша, топтались въ болотѣ, ему вдругъ показалось страннымъ, что, кромѣ этого топота и&#160;хлюпанья воды подъ ногами, онъ не&#160;слышитъ ни&#160;единаго звука. Его окружало унылое, гнетущее безмолвіе.
+</p><p>Въ это время изъ лѣсу, навстрѣчу имъ, вышелъ человѣкъ.
+</p><p>— Что&#160;Салонга — въ Упото? — спросилъ Ибоко, упираясь подбородкомъ въ дуло ружья.
+</p><p>— Нѣтъ, — отвѣтилъ встрѣчный. — Салонга еще не&#160;пришелъ. И&#160;мы&#160;ничего о&#160;немъ не&#160;слыхали.
+</p><p>И&#160;пошелъ дальше своей дорогой.
+</p><p>И&#160;опять Кванго представился капитанъ, какъ онъ стоялъ въ тотъ день и&#160;отдавалъ приказанія. И&#160;какая-то&#160;смутная тревога закралась въ его душу — страхъ, вызванный, очевидно, какимъ-нибудь воспоминаніемъ, но&#160;какимъ именно — онъ не&#160;зналъ. И&#160;онъ съ тревогой смотрѣлъ на&#160;голую спину незнакомаго человѣка, принесшаго такую нежеланную вѣсть и&#160;теперь скрывшагося изъ вида, по&#160;ту сторону ручья.
+</p><p>Опять на&#160;него напалъ жестокій ознобъ. Хотѣлось одного, лечь на&#160;дорогѣ, свернуться клубкомъ и&#160;уснуть.
+</p><p>И&#160;онъ опять посмотрѣлъ на&#160;сержанта, котораго мрачный и&#160;пытливый взоръ какъ будто угадывалъ тревогу, закравшуюся въ ослабленную лихорадкой душу бѣлаго.
+</p><p>Если Салонга уже въ Упото, почему онъ не&#160;даетъ знать, не&#160;шлетъ гонца? Кванго съ трудомъ поднялся на&#160;ноги и&#160;выпрямилъ окоченѣвшую спину.
+</p><p>Длинный хвостъ отряда, состоявшій изъ солдатъ, боевъ и&#160;носильщиковъ, извивался вдоль края большой открытой площади; вдали, изъ-за&#160;поля еще не&#160;созрѣвшей маніоки, выглядывали крыши деревни, пріютившейся въ тѣни&#160;банановой рощи.
+</p><p>Повсюду взору открывались поля маніоки, маиса и&#160;риса; на&#160;опушкѣ привѣтливо кивали раскидистыя деревья, съ большими листьями, похожими на&#160;пальцы.
+</p><p>Хмурое небо немного прояснѣло; сквозь тучи начинали пробиваться лучи заката. Стало совсѣмъ тихо: не&#160;шелохнетъ вѣтерокъ. Видно было, какъ между хижинами въ деревнѣ ходили люди, но&#160;ни единаго звука не&#160;доносилось и&#160;оттуда. Тамъ царила та&#160;же мертвая тишина, какъ и&#160;въ отрядѣ.
+</p><p>— Вы ничего не&#160;слыхали о&#160;капитанѣ Салонга? — спрашивалъ Кванго жителей деревни, когда отрядъ его, замедливъ шагъ, маршировалъ между хижинами и&#160;бананами.
+</p><p>— Ничего, — отвѣтилъ старый негръ, — очевидно, важная особа въ этой деревнѣ, — вышедшій имъ навстрѣчу въ сопровожденіи&#160;толпы молодежи.
+</p><p>— Гдѣ домъ Сангалимене? — продолжалъ спрашивать Кванго.
+</p><p>— Эта деревня принадлежитъ мнѣ. Я — Кимпоко. Мы&#160;здѣсь живемъ всего полгода. Сангалимене ушелъ отсюда. Тебѣ надо миновать еще поля и&#160;перейти черезъ два потока, прежде чѣмъ ты дойдешь до&#160;его деревни.
+</p><p>Ибоко недовѣрчиво вглядывался въ морщинистое старое лицо. Ему странно было, что&#160;Сангалимене покинулъ мѣсто, гдѣ онъ жилъ раньше, и&#160;что никто ничего не&#160;слыхалъ о&#160;капитанѣ, который, однакожъ, несомнѣнно, долженъ былъ проходить этими мѣстами.
+</p><p>Сколько разъ Ибоко сопровождалъ Салонгу въ походахъ, и&#160;ни разу еще не&#160;бывало случая, чтобы капитанъ опоздалъ.
+</p><p>— Не найдется&#160;ли&#160;у васъ какой-нибудь пищи для&#160;моихъ людей? — спрашивалъ Кванго. — Мы&#160;уже нѣсколько дней голодаемъ.
+</p><p>Старикъ отвѣтилъ:
+</p><p>— Мы&#160;очень бѣдны. Хлѣбъ на&#160;поляхъ нашихъ еще не&#160;созрѣлъ. Тамъ, у&#160;Сангалимене вы найдете сколько угодно риса, маиса, маніоки и&#160;банановъ.
+</p><p>Ибоко ограничился тѣмъ, что&#160;тихонько пробормоталъ себѣ подъ носъ:
+</p><p>— <i>Локутся</i> (Вретъ).
+</p><p>Отрядъ снова, извиваясь, какъ змѣй, двинулся дальше. Кванго смертельно усталъ, но&#160;ему хотѣлось сегодня&#160;же соединиться съ капитаномъ. Обязательно надо разспросить Сангалимене… Хижины гурьбой столпились у&#160;самой дороги; идя мимо, можно было заглядывать въ маленькіе домики и&#160;низенькія&#160;кухни, гдѣ женщины размалывали бананы въ муку или&#160;варили похлебку — <i>пондю.</i> Передъ хижинами сидѣли&#160;мужчины, лѣниво и&#160;какъ-то&#160;испуганно поглядывая на&#160;солдатъ. Усталые, истощенные, они&#160;медленно проходили мимо; иные завистливо поглядывали на&#160;дымящіеся горшки съ похлебкой и&#160;невольно сжимали кулаки, сердясь на&#160;то, что&#160;здѣшніе жители такіе негостепріимные.
+</p><p>Уже далеко за&#160;полдень, миновавъ три длинныхъ поля съ созрѣвшими хлѣбами, они&#160;дошли до&#160;деревни Сангалимене. Кванго съ удовольствіемъ прислушивался къ веселому говору, который пошелъ по&#160;рядамъ солдатъ, когда красныя шапки замелькали надъ высокими стеблями маніоки. Его самого бодрило это зрѣлище пышныхъ хлѣбовъ.
+</p><p>Огибая уголъ банановой рощи, до&#160;сихъ поръ скрывавшей отъ взоровъ селеніе, онъ увидѣлъ налѣво&#160;на опушкѣ рощи маисовое поле, какъ будто недавно только вытоптанное и&#160;опустошенное. Высокіе стебли лежали на&#160;землѣ раздавленные или&#160;примятые въ разныя стороны. И&#160;странно было, что&#160;съ этихъ растоптанныхъ стеблей не&#160;сорваны тяжелые колосья.
+</p><p>Это зрѣлище врѣзалось въ его возбужденный лихорадкою мозгъ и&#160;вызвало въ немъ тутъ&#160;же трепетъ испуга, какъ давеча въ лѣсу, когда его внезапно изумило молчаніе солдатъ.
+</p><p>Но&#160;этотъ страхъ такъ&#160;же быстро исчезъ, ибо съ большой площади, которую обступили выбѣленныя известью мазанки, вдругъ донесся оглушительный шумъ, словно тысячи человѣческихъ глотокъ заорали разомъ. Тамъ кричали, пѣли, плясали, били въ барабаны. Молодежь — мужчины и&#160;женщины — съ хохотомъ и&#160;радостными выкриками кружились въ хороводѣ. Кванго скоро понялъ, что&#160;это они&#160;затѣяли пѣсни и&#160;пляски на&#160;радостяхъ по&#160;случаю прибытія&#160;его отряда.
+</p><p>Толпа молодыхъ женщинъ, приплясывая, выбѣжала навстрѣчу солдатамъ. Онѣ хлопали въ ладоши, топали ногами и&#160;кричали, какъ бѣсноватыя. Изъ одной хижины, побольше другихъ, вышелъ, весело смѣясь, Сангалимене, своею собственной персоной, въ сопровожденіи&#160;цѣлаго штаба молодыхъ и&#160;старыхъ мужчинъ, безоружныхъ, но&#160;увѣшенныхъ украшеніями изъ бусъ и&#160;мѣдныхъ пластинокъ.
+</p><p>Еще издали Сангалимене кричалъ поручику.
+</p><p>— Добро пожаловать въ мою деревню, бѣлый человѣкъ, великій вождь, господинъ сотни ружей! И&#160;ты, Ибоко, Гроза дѣвственнаго лѣса, добро пожаловать!
+</p><p>Женщины, продолжая плясать, протискивались между солдатами, и&#160;эти послѣдніе вздыхали съ облегченіемъ и&#160;смѣялись, радуясь неожиданно радушному пріему и&#160;близкой перспективѣ наполненія голодныхъ желудковъ.
+</p><p>Кванго, усталый и&#160;ослабшій, былъ совершенно озадаченъ такимъ пріемомъ. Стоя передъ этимъ чернымъ богатыремъ, не&#160;перестававшимъ болтать и&#160;смѣяться, онъ уже совершенно не&#160;испытывалъ той злобы, которая душила его столько дней послѣ послѣдняго пріѣзда Сангалимене въ Ванаканду. Въ этомъ варварѣ, несомнѣнно, было какое-то&#160;прирожденное величіе и&#160;благородство, производившее впечатлѣніе на&#160;поручика. Каждый разъ, какъ онъ встрѣчалъ глубокій темный взглядъ этого человѣка, въ которомъ была такая странная смѣсь высокомѣрія&#160;и силы, ему начинало казаться, что&#160;собственно слѣдовало&#160;бы&#160;извиниться передъ этимъ голымъ дикаремъ съ мѣднымъ щитомъ на&#160;лбу за&#160;тѣ бранныя слова, которыя онъ тогда, въ Ванакандѣ, кричалъ ему вслѣдъ:
+</p><p>«Звѣрь лѣсной, лжецъ, людоѣдъ».
+</p><p>— У&#160;васъ нѣтъ никакихъ вѣстей о&#160;Салонгѣ? — спрашивалъ онъ Сангалимене.
+</p><p>— Какъ нѣтъ? — есть. Онъ скоро будетъ здѣсь. Недавно прибѣгалъ гонецъ изъ сосѣдней деревни — извѣстить, что&#160;Салонга идетъ сюда.
+</p><p>При&#160;этихъ словахъ у&#160;Кванго полегчало на&#160;душѣ. Онъ былъ убѣжденъ, что&#160;теперь насталь конецъ мученіямъ его солдатъ и&#160;его самого, и&#160;весело смѣялся глядя, какъ молодежь — парни и&#160;дѣвушки — плясали между рядами солдатъ.
+</p><p>— Ну, теперь намъ больше не&#160;придется голодать! — крикнулъ онъ переднимъ рядамъ, и&#160;голодные солдаты смѣялись въ отвѣтъ, осторожно отстраняя отъ себя танцующихъ.
+</p><p>— Ты хочешь сейчасъ&#160;же накормить твоихъ людей? — спросилъ Сангалимене.
+</p><p>Всѣ солдаты закричали въ отвѣтъ «да».
+</p><p>Только Ибоко стоялъ въ сторонкѣ, усталый и&#160;мрачный, не&#160;раздѣляя радости прочихъ. Казалось, вотъ-вотъ онъ снова выкрикнетъ всему свѣту въ лицо свое: «Локута!». Но&#160;онъ только закусилъ губы, нахмурился и&#160;молчалъ, весь сгорбившись, словно подъ бременемъ невѣдомаго и&#160;тяжелаго рока.
+</p><p>А&#160;Сангалимене кричалъ:
+</p><p>— Слушай, Кванго! мы&#160;радуемся, что&#160;вы пришли. Все, что&#160;вы здѣсь видите, принадлежитъ вамъ. Салонга скоро придетъ. Вы будете жить вонъ тамъ. — Сангалимене указалъ рукой вдаль, гдѣ за&#160;полями тянулись длинные ряды хижинъ.
+</p><p>— Ты подожди здѣсь Салонги. А&#160;люди твои пусть составятъ вмѣстѣ ружья, а&#160;затѣмъ могутъ отправиться грабить — ну вотъ хоть это поле.
+</p><p>При&#160;этихъ словахъ Сангалимене указалъ на&#160;большое маисовое поле, лежавшее на&#160;опушкѣ лѣса въ сторонѣ противоположной входу въ деревню.
+</p><p>На&#160;минуту Кванго вспомнилъ вытоптанное поле, давеча бросившееся ему въ глаза. Но&#160;вокругъ него былъ такой шумъ и&#160;суета, и&#160;самъ онъ такъ усталъ, что&#160;совершенно не&#160;могъ связать въ одно цѣлое возникавшихъ въ немъ смутныхъ тревогъ и&#160;опасеній. И&#160;могъ только покориться. Онъ созвалъ своихъ людей и, пока дикари продолжали пѣть и&#160;плясать, они&#160;составили въ одну пирамидку всѣ свои ружья, а&#160;потомъ изголодавшіеся солдаты и&#160;носильщики съ криками и&#160;ликованія устремились черезъ лѣсъ къ маисовому полю, бѣгомъ, перескакивая черезъ корни и&#160;пни.
+</p><p>Одинъ только Ибоко остался и&#160;попрежнему, съ ружьемъ въ рукѣ, стоялъ возлѣ Кванго. Но&#160;и&#160;его оттѣснила свита вождя Сангалимене.
+</p><p>Кванго видѣлъ, какъ Сангалимене сдѣлалъ знакъ кому-то, стоящему позади, и&#160;вдругъ понялъ и&#160;созналъ, что&#160;онъ стоитъ здѣсь совсѣмъ одинъ передъ тысячью черныхъ лицъ, разгоряченныхъ дикой, уродливой пляской. Каждое движеніе этихъ людей заставляло его еще глубже чувствовать, какая пропасть лежитъ между нимъ и&#160;ими.
+</p><p>Сангалимене и&#160;самъ пустился въ плясъ. Сперва онъ только раскачивался, на&#160;бедрахъ, притопывая ногой передъ Кванго, потомъ ринулся въ кругъ танцующихъ.
+</p><p>Кванго слѣдилъ за&#160;нимъ взглядомъ. Все это могучее, лоснящееся черное тѣло крючилось и&#160;изгибалось въ какихъ-то&#160;неестественныхъ варварскихъ вывертахъ, на&#160;которые было чудно и&#160;противно смотрѣть.
+</p><p>И&#160;вдругъ, сквозь весь этотъ шумъ прорвался крикъ. Потомъ другой, третій… Крики доносились оттуда, съ маисоваго поля…
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Минуту спустя весь воздухъ звенѣлъ отъ тревожныхъ криковъ и&#160;зововъ на&#160;помощь. На&#160;черныхъ, ликующихъ лицахъ вокругъ Кванго читалъ уже нескрываемую, дикую ненависть. Внезапно передъ нимъ очутился Сангалимене. Толстая верхняя губа его вся вздернулась кверху, какъ у&#160;хищнаго звѣря, обнаживъ ослѣпительно бѣлые зубы. Онъ крикнулъ Кванго:
+</p><p>— Вотъ тебѣ Салонга!
+</p><p>Кванго задрожалъ всѣмъ тѣломъ и&#160;почувствовалъ, что&#160;силы покидаютъ его.
+</p><p>Ибо на&#160;вытянутой ладони Сангалимене лежала голова Салонги съ выколотыми, пустыми глазами.
+</p><p>Кванго схватился за&#160;револьверъ, но&#160;въ то&#160;же мгновеніе раздался выстрѣлъ. Сангалимене раскинулъ руки, которыя звонко шлепнулись о&#160;голыя бедра, зашатался, еще сильнѣе оскалилъ бѣлые зубы и&#160;упалъ мертвымъ.
+</p><p>Кванго отвернулся, и&#160;все передъ его глазами заволоклось туманомъ.
+</p><p>Онъ смутно видѣлъ, какъ толпа накинулась на&#160;Ибоко, который стоялъ, сверкая глазами и&#160;сжимая въ рукѣ дымящійся стволъ ружья.
+</p><p>Пѣсни и&#160;пляски прекратились; на&#160;площади царила теперь мертвая тишина. А&#160;тамъ, на&#160;маисовомъ полѣ, гдѣ уже нѣсколько часовъ, какъ залегли въ засадѣ воины Сангалимене, съ звѣринымъ нетерпѣніемъ поджидая врага, лилась кровь изъ зіяющихъ ранъ и&#160;перерѣзанныхъ глотокъ.
+</p><p>Когда Кванго, мигъ спустя, увидалъ блестѣвшую на&#160;солнцѣ занесенную надъ нимъ саблю, которая должна была отдѣлить его голову отъ туловища, точно кровавая молнія&#160;озарила его мозгъ, и&#160;онъ вдругъ понялъ.
+</p><p>Понялъ, что&#160;капитанъ Салонга пришелъ сегодня утромъ въ десять часовъ, какъ онъ назначилъ, съ такими&#160;же изголодавшимися, одурѣлыми отъ голода и&#160;усталости людьми, что&#160;и самъ онъ такъ&#160;же плохо соображалъ отъ усталости и&#160;голода и&#160;оттого погибъ.
+</p><p>И&#160;вдругъ услыхалъ какое-то&#160;странное хрюканье, поднимавшееся къ нему, словно изъ невѣдомой, бездонной глуби временъ.
+</p><p>Это старый дѣвственный лѣсъ смѣялся надъ жалкимъ человѣкомъ, котораго мучилъ такой&#160;же страхъ смерти, какимъ терзалась и&#160;его собственная умирающая душа.
+</p><p><br />
+</p><p><br />
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:8em;margin-left:0ex; margin-right:auto; margin-top: 2ex; margin-bottom: 2ex;" /><div class="references-small" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Мальчикъ-слуга.</span>
+</li>
+</ol>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐65fd76f4cc‐shggz
+Cached time: 20260217083847
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.140 seconds
+Real time usage: 0.225 seconds
+Preprocessor visited node count: 1294/1000000
+Revision size: 183390/2097152 bytes
+Post‐expand include size: 23932/2097152 bytes
+Template argument size: 3315/2097152 bytes
+Highest expansion depth: 21/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5660/5000000 bytes
+Lua time usage: 0.054/10.000 seconds
+Lua memory usage: 2605020/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  178.227      1 -total
+ 77.25%  137.681      1 Шаблон:Отексте
+ 12.48%   22.243      1 Шаблон:H2
+ 11.50%   20.497      1 Шаблон:H
+  8.20%   14.615      4 Шаблон:Replace
+  7.55%   13.456     20 Шаблон:---
+  3.03%    5.397      2 Шаблон:Trim
+  1.72%    3.073      1 Шаблон:Примечания
+  0.95%    1.695      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1101498:|#|:idhash:canonical and timestamp 20260217083847 and revision id 5503688. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Африканские_новеллы_(Юргенсен;_Журавская)/ДО&amp;oldid=5503688">https://ru.wikisource.org/w/index.php?title=Африканские_новеллы_(Юргенсен;_Журавская)/ДО&amp;oldid=5503688</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B_%D1%81_%D0%B4%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0" title="Категория:Переводы с датского языка">Переводы с датского языка</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AE%D1%80%D0%B3%D0%B5%D0%BD_%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD" title="Категория:Юрген Юргенсен">Юрген Юргенсен</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B,_%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%97%D0%B8%D0%BD%D0%B0%D0%B8%D0%B4%D0%BE%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BD%D0%BE%D0%B9_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B9" title="Категория:Переводы, выполненные Зинаидой Николаевной Журавской">Переводы, выполненные Зинаидой Николаевной Журавской</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1912_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1912 года">Литература 1912 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Категория:Африка">Африка</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-RusEmpire" title="Категория:PD-RusEmpire">PD-RusEmpire</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%BE%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Категория:Дореформенная орфография">Дореформенная орфография</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 16 апреля 2025 года в 08:29.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D1%8B_(%D0%AE%D1%80%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BD;_%D0%96%D1%83%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Африканские новеллы (Юргенсен; Журавская)/ДО</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-shggz","wgBackendResponseTime":558,"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.225","ppvisitednodes":{"value":1294,"limit":1000000},"revisionsize":{"value":183390,"limit":2097152},"postexpandincludesize":{"value":23932,"limit":2097152},"templateargumentsize":{"value":3315,"limit":2097152},"expansiondepth":{"value":21,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5660,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  178.227      1 -total"," 77.25%  137.681      1 Шаблон:Отексте"," 12.48%   22.243      1 Шаблон:H2"," 11.50%   20.497      1 Шаблон:H","  8.20%   14.615      4 Шаблон:Replace","  7.55%   13.456     20 Шаблон:---","  3.03%    5.397      2 Шаблон:Trim","  1.72%    3.073      1 Шаблон:Примечания","  0.95%    1.695      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.054","limit":"10.000"},"limitreport-memusage":{"value":2605020,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"~Юрген Юргенсен\",\n    [\"license\"] = \"PD-RusEmpire\",\n    [\"origLang\"] = \"da\",\n    [\"origPublished\"] = \"1912\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"журнал «Русское Богатство», № 5, 1912. [http://az.lib.ru/j/jurgensen_j/text_1912_africanskie_novelly-oldorfo.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Африканские новеллы\",\n    [\"translator\"] = \"[[Зинаида Николаевна Журавская|З. Журавская]]\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-65fd76f4cc-shggz","timestamp":"20260217083847","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

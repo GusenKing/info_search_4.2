@@ -1,0 +1,1304 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Дневник фокса Микки (Черный) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"fa0e53b2-97f8-4d4c-866b-595d7ac2c402","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Дневник_фокса_Микки_(Черный)","wgTitle":"Дневник фокса Микки (Черный)","wgCurRevisionId":5585799,"wgRevisionId":5585799,"wgArticleId":1036765,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru","Импорт/az.lib.ru/Саша Черный","Детская литература","Сборники рассказов","Саша Чёрный","Литература 1927 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Дневник_фокса_Микки_(Черный)","wgRelevantArticleId":1036765,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5585799,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Дневник фокса Микки (Черный) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Дневник_фокса_Микки_Черный rootpage-Дневник_фокса_Микки_Черный skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA+%D1%84%D0%BE%D0%BA%D1%81%D0%B0+%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8+%28%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA+%D1%84%D0%BE%D0%BA%D1%81%D0%B0+%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8+%28%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA+%D1%84%D0%BE%D0%BA%D1%81%D0%B0+%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8+%28%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA+%D1%84%D0%BE%D0%BA%D1%81%D0%B0+%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8+%28%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Дневник_Фокса_Микки"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Дневник_Фокса_Микки">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Дневник Фокса Микки</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Дневник_Фокса_Микки-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-О_ЗИНЕ,_О_ЕДЕ,_О_КОРОВЕ_И_Т.П."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#О_ЗИНЕ,_О_ЕДЕ,_О_КОРОВЕ_И_Т.П.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>О ЗИНЕ, О ЕДЕ, О КОРОВЕ И Т.П.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-О_ЗИНЕ,_О_ЕДЕ,_О_КОРОВЕ_И_Т.П.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-СТИХИ,_КОТЯТА_И_БЛОХИ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#СТИХИ,_КОТЯТА_И_БЛОХИ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>СТИХИ, КОТЯТА И БЛОХИ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-СТИХИ,_КОТЯТА_И_БЛОХИ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-РАЗНЫЕ_ВОПРОСЫ,_МОЙ_СОН_И_МОИ_СОБАЧЬИ_МЫСЛИ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#РАЗНЫЕ_ВОПРОСЫ,_МОЙ_СОН_И_МОИ_СОБАЧЬИ_МЫСЛИ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>РАЗНЫЕ ВОПРОСЫ, МОЙ СОН И МОИ СОБАЧЬИ МЫСЛИ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-РАЗНЫЕ_ВОПРОСЫ,_МОЙ_СОН_И_МОИ_СОБАЧЬИ_МЫСЛИ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ОСЕННИЙ_КАВАРДАК"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ОСЕННИЙ_КАВАРДАК">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>ОСЕННИЙ КАВАРДАК</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ОСЕННИЙ_КАВАРДАК-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Я_ОДИН"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Я_ОДИН">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Я ОДИН</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Я_ОДИН-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ПЕРЕЕЗД_В_ПАРИЖ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ПЕРЕЕЗД_В_ПАРИЖ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>ПЕРЕЕЗД В ПАРИЖ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ПЕРЕЕЗД_В_ПАРИЖ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-НА_ПЛЯЖЕ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#НА_ПЛЯЖЕ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>НА ПЛЯЖЕ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-НА_ПЛЯЖЕ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-В_ЗООЛОГИЧЕСКОМ_САДУ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#В_ЗООЛОГИЧЕСКОМ_САДУ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>В ЗООЛОГИЧЕСКОМ САДУ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-В_ЗООЛОГИЧЕСКОМ_САДУ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-КАК_Я_ЗАБЛУДИЛСЯ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#КАК_Я_ЗАБЛУДИЛСЯ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>КАК Я ЗАБЛУДИЛСЯ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-КАК_Я_ЗАБЛУДИЛСЯ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-В_ЦИРКЕ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#В_ЦИРКЕ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">11</span>
+				<span>В ЦИРКЕ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-В_ЦИРКЕ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ПРОКЛЯТЫЙ_ПАРОХОД"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ПРОКЛЯТЫЙ_ПАРОХОД">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">12</span>
+				<span>ПРОКЛЯТЫЙ ПАРОХОД</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ПРОКЛЯТЫЙ_ПАРОХОД-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ВОЗВРАЩАЮСЬ_В_ПАРИЖ_И_СТАВЛЮ_БОЛЬШУЮ_ТОЧКУ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ВОЗВРАЩАЮСЬ_В_ПАРИЖ_И_СТАВЛЮ_БОЛЬШУЮ_ТОЧКУ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">13</span>
+				<span>ВОЗВРАЩАЮСЬ В ПАРИЖ И СТАВЛЮ БОЛЬШУЮ ТОЧКУ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ВОЗВРАЩАЮСЬ_В_ПАРИЖ_И_СТАВЛЮ_БОЛЬШУЮ_ТОЧКУ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Дневник фокса Микки (Черный)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA+%D1%84%D0%BE%D0%BA%D1%81%D0%B0+%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8+%28%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;oldid=5585799" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_%28%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%29&amp;id=5585799&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2594%25D0%25BD%25D0%25B5%25D0%25B2%25D0%25BD%25D0%25B8%25D0%25BA_%25D1%2584%25D0%25BE%25D0%25BA%25D1%2581%25D0%25B0_%25D0%259C%25D0%25B8%25D0%25BA%25D0%25BA%25D0%25B8_%28%25D0%25A7%25D0%25B5%25D1%2580%25D0%25BD%25D1%258B%25D0%25B9%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2594%25D0%25BD%25D0%25B5%25D0%25B2%25D0%25BD%25D0%25B8%25D0%25BA_%25D1%2584%25D0%25BE%25D0%25BA%25D1%2581%25D0%25B0_%25D0%259C%25D0%25B8%25D0%25BA%25D0%25BA%25D0%25B8_%28%25D0%25A7%25D0%25B5%25D1%2580%25D0%25BD%25D1%258B%25D0%25B9%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_%28%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_%28%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_%28%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_%28%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_%28%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_%28%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Дневник фокса Микки</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%A1%D0%B0%D1%88%D0%B0_%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9" class="mw-redirect" title="Автор:Саша Черный">Саша Черный</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1927</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/c/chernyj_s/text_0200.shtml">az.lib.ru</a></span> </td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%A1%D0%B0%D1%88%D0%B0_%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9" class="mw-redirect" title="Автор:Саша Черный">Саша Черный</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="Дневник_Фокса_Микки"><span id=".D0.94.D0.BD.D0.B5.D0.B2.D0.BD.D0.B8.D0.BA_.D0.A4.D0.BE.D0.BA.D1.81.D0.B0_.D0.9C.D0.B8.D0.BA.D0.BA.D0.B8"></span>Дневник Фокса Микки</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;section=1" title="Редактировать раздел «Дневник Фокса Микки»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="О_ЗИНЕ,_О_ЕДЕ,_О_КОРОВЕ_И_Т.П."><span id=".D0.9E_.D0.97.D0.98.D0.9D.D0.95.2C_.D0.9E_.D0.95.D0.94.D0.95.2C_.D0.9E_.D0.9A.D0.9E.D0.A0.D0.9E.D0.92.D0.95_.D0.98_.D0.A2..D0.9F."></span>О&#160;ЗИНЕ, О&#160;ЕДЕ, О&#160;КОРОВЕ И&#160;Т.П.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;section=2" title="Редактировать раздел «О ЗИНЕ, О ЕДЕ, О КОРОВЕ И Т.П.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>МОЯ хозяйка Зина больше похожа на&#160;фокса, чем на&#160;девочку: визжит, прыгает, ловит руками мяч (ртом она не&#160;умеет) и&#160;грызет сахар, совсем как&#160;собачонка. Все думаю — нет&#160;ли&#160;у нее хвостика? Ходит она всегда в&#160;своих девочкиных попонках; а&#160;в ванную комнату меня не&#160;пускает — уж я&#160;бы подсмотрел.
+</p><p>Вчера она расхвасталась: видишь, Микки, сколько у&#160;меня тетрадок. Арифметика — диктовка — сочинения… А&#160;вот ты, цуцик несчастный, ни&#160;говорить, ни&#160;читать, ни&#160;писать не&#160;умеешь.
+</p><p>Гав! Я&#160;умею думать — и&#160;это самое главное. Что&#160;лучше: думающий фокс или&#160;говорящий попугай? Ага!
+</p><p>Читать я&#160;немножко умею — детские книжки с&#160;самыми крупными буквами.
+</p><p>Писать… Смейтесь, смейтесь (терпеть не&#160;могу, когда люди смеются)! — писать я&#160;тоже научился. Правда, пальцы на&#160;лапах у&#160;меня не&#160;загибаются, я&#160;ведь не&#160;человек и&#160;не обезьяна. Но&#160;я&#160;беру карандаш в&#160;рот, наступаю лапой на&#160;тетрадку, чтобы она не&#160;ерзала, — и&#160;пишу.
+</p><p>Сначала буквы были похожи на&#160;раздавленных дождевых червяков. Но&#160;фоксы гораздо прилежнее девочек. Теперь я&#160;пишу не&#160;хуже Зины. Вот только не&#160;умею точить карандашей. Когда мой иступится, я&#160;бегу тихонько в&#160;кабинет и&#160;тащу со стола отточенные людьми огрызочки.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Ставлю три звездочки. Я&#160;видал в&#160;детских книжках: когда человек делает прыжок к&#160;новой мысли, он&#160;ставит три звездочки…
+</p><p>Что&#160;важнее всего в&#160;жизни? Еда. Нечего притворяться! У&#160;нас полон дом людей. Они&#160;разговаривают, читают, плачут, смеются — а&#160;потом садятся есть. Едят утром, едят в&#160;полдень, едят вечером. А&#160;Зина ест даже ночью — прячет под&#160;подушку бисквиты и&#160;шоколадки и&#160;потихоньку чавкает.
+</p><p>Как&#160;много они&#160;едят! Как&#160;долго они&#160;едят! Как&#160;часто они&#160;едят. И&#160;говорят еще, что&#160;я обжора…
+</p><p>Сунут косточку от&#160;телячьей котлетки (котлетку сами съедят!), нальют полблюдца молока — и&#160;все.
+</p><p>Разве я&#160;пристаю, разве я&#160;прошу еще, как&#160;Зина и&#160;другие дети? Разве я&#160;ем сладкое: клейстер, который называется киселем, или&#160;жидкую гадость из&#160;чернослива и&#160;изюма, или&#160;холодный ужас, который они&#160;называют мороженым? Я&#160;деликатнее всех собак, потому что&#160;я породистый фокс. Погрызу косточку, съем, осторожно взяв из&#160;рук Зины, бисквит, и&#160;все.
+</p><p>Но&#160;они… Зачем эти супы? Разве не&#160;вкуснее чистая вода?
+</p><p>Зачем эти горошки, морковки, сельдерейки и&#160;прочие гадости, которыми они&#160;портят жаркое?
+</p><p>Зачем вообще варить и&#160;жарить?
+</p><p>Я&#160;недавно попробовал кусочек сырого мяса (упал на&#160;кухне на&#160;пол — я&#160;имел полное право его съесть!)… Уверяю вас, оно было гораздо вкусней всех этих шипящих на&#160;сковородке котлет…
+</p><p>И&#160;как&#160;было&#160;бы&#160;хорошо, если&#160;бы&#160;не варили и&#160;не жарили! Не было&#160;бы&#160;кухарок: они&#160;совсем не&#160;умеют обращаться с&#160;порядочными собаками. Ели&#160;бы&#160;все на&#160;полу, без&#160;посуды, — мне было&#160;бы&#160;веселей. А&#160;то&#160;всегда сидишь под&#160;столом, среди чужих ног. Толкаются, наступают на&#160;лапы. Подумаешь, как&#160;весело!..
+</p><p>Или&#160;еще лучше — ели&#160;бы&#160;на траве перед&#160;домом. Каждому по&#160;сырой котлетке. А&#160;после обеда все&#160;бы&#160;барахтались и&#160;визжали, как&#160;Зина со мной… Гав-гав!
+</p><p>Меня называют обжорой (выпил глоток молока из&#160;кошкиного блюдца, подумаешь)…
+</p><p>А&#160;сами… После супа, после жаркого, после компота, после сыра — они&#160;еще пьют разноцветные штуки: красную — вино, желтую — пиво, черную — кофе… Зачем? Я&#160;зеваю под&#160;столом до&#160;слез, привык около людей околачиваться, а&#160;они все сидят, сидят, сидят… Гав! И&#160;все говорят, говорят, говорят, точно у&#160;каждого граммофон в&#160;животе завели.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Три звездочки.
+</p><p>Новая мысль. Наша корова — дура. Почему она дает столько молока? У&#160;нее один сын — теленок, а&#160;она кормит весь дом. И&#160;чтоб давать столько молока, она весь день ест, ест свою траву, даже смотреть жалко. Я&#160;бы&#160;не выдержал. Почему лошадь не&#160;дает столько молока? Почему кошка кормит своих котят и&#160;больше ни&#160;о ком не&#160;заботится?
+</p><p>Разве говорящему попугаю придет в&#160;голову такая мысль?
+</p><p>И&#160;еще. Почему куры несут столько яиц? Это ужасно. Никогда они&#160;не веселятся, ходят, как&#160;сонные мухи, летать совсем разучились, не&#160;поют, как&#160;другие птицы… Это все из-за&#160;этих несчастных яиц.
+</p><p>Я&#160;яиц не&#160;терплю. Зина — тоже. Если&#160;бы&#160;я мог объясниться с&#160;курами, я&#160;бы им отсоветовал нести столько яиц.
+</p><p>Хорошо все-таки быть фоксом: не&#160;ем супа, не&#160;играю на&#160;этой проклятой музыке, по&#160;которой Зина бегает пальцами, не&#160;даю молока и «тому подобное», как&#160;говорит Зинин папа.
+</p><p>Трах! Карандаш надломился. Надо писать осторожнее — кабинет на&#160;замке, а&#160;там все карандаши.
+</p><p>В&#160;следующий раз сочиню собачьи стихи — очень это меня интересует.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r5158936">.mw-parser-output .align-right{text-align:right}.mw-parser-output div.align-right{margin-top:0;margin-right:0;margin-bottom:0;margin-left:auto}.mw-parser-output span.align-right{display:inline-block;width:100%}</style><div class="align-right"><i>Фокс Микки</i>,<br />
+<i>первая собака, умеющая писать</i></div>
+<div class="mw-heading mw-heading3"><h3 id="СТИХИ,_КОТЯТА_И_БЛОХИ"><span id=".D0.A1.D0.A2.D0.98.D0.A5.D0.98.2C_.D0.9A.D0.9E.D0.A2.D0.AF.D0.A2.D0.90_.D0.98_.D0.91.D0.9B.D0.9E.D0.A5.D0.98"></span>СТИХИ, КОТЯТА И&#160;БЛОХИ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;section=3" title="Редактировать раздел «СТИХИ, КОТЯТА И БЛОХИ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>ВЗРОСЛЫЕ всегда читают про&#160;себя. Скучные люди — эти взрослые, вроде старых собак. А&#160;Зина — читает вслух, нараспев и&#160;все время вертится, хлопает себя по&#160;коленке и&#160;показывает мне язык. Конечно, так веселей. Я&#160;лежу на&#160;коврике, слушаю и&#160;ловлю блох. Очень это во&#160;время чтения приятно.
+</p><p>И&#160;вот я&#160;заметил, что&#160;есть такие штучки, которые Зина совсем по-особому читает — точно котлетки рубит. Сделает передышку, языком прищелкнет и&#160;опять затарахтит. А&#160;на&#160;конце каждой строчки — ухо у&#160;меня тонкое — похожие друг на&#160;друга кусочки звучат: «дети — отца, сети — мертвеца»… Вот это и&#160;есть стихи.
+</p><p>Вчера весь день пролежал под&#160;диваном, даже похудел. Все хотел одну такую штучку сочинить. Придумал — и&#160;ужасно горжусь.
+</p><p>По&#160;веранде ветер дикий
+</p><p>Гонит листья все быстрей.
+</p><p>Я&#160;веселый фоксик Микки,
+</p><p>Самый умный из&#160;зверей!
+</p><p>Замечательно! Сочинил и&#160;так волновался, что&#160;Даже не&#160;мог обедать. Подумайте! Это первые в&#160;мире собачьи стихи, а&#160;ведь я&#160;не учился ни&#160;в гимназии, ни&#160;в «цехе поэтов»… Разве наша кухарка сочинит такие стихи? А&#160;ведь ей сорок три года, а&#160;мне только два. Гав! Эта кубышка Зина и&#160;не подозревает, кто у&#160;нее живет в&#160;доме… Запеленала меня в&#160;салфетку, уткнула в&#160;колени и&#160;делает мне замшевой притиралкой маникюр. Молчу и&#160;вздыхаю. Разве девочка что-нибудь путное придумает?
+</p><p>И&#160;вот, лежа пробовал прочесть про&#160;себя свои стихи наоборот. Тяв! Может быть, так еще звончей будет?..
+</p><p>Дикий ветер веранде по
+</p><p>Быстрей все листья гонит…
+</p><p>Микки фоксик веселый я,
+</p><p>Зверей из&#160;умный самый…
+</p><p>Ай-яй-яй! Что&#160;же это такое?
+</p><p>Котята! Скажите пожалуйста!.. Их мать, хитрая тварь, исчезает в&#160;парке на&#160;весь день: шмыг — и&#160;нету, как&#160;комар в&#160;елке. А&#160;я&#160;должен играть с&#160;ее детьми… Один лижет меня в&#160;нос. Я&#160;тоже его лизнул, хотя зубы у&#160;меня почему-то&#160;вдруг щелкнули… Другой сосет мое ухо. Мамка я&#160;ему, что&#160;ли? Третий лезет ко&#160;мне на&#160;спину и&#160;так царапается, словно меня теркой скребут. Р-р-р-р! Тише, Микки, тише… Зина хохочет и&#160;захлебывается: ты, говорит, их двоюродный папа.
+</p><p>Я&#160;не&#160;сержусь: надо&#160;же им кого-нибудь лизать, сосать и&#160;царапать… Но&#160;зачем&#160;же эта девчонка смеется?
+</p><p>Ах, как&#160;странно, как&#160;странно! Сегодня бессовестная кошка вернулась наконец к&#160;своим детям. И&#160;знаете, когда они&#160;бросили меня и&#160;полезли все под&#160;свою маму — я&#160;посмотрел из-под&#160;скатерти, задрожал всей шкурой от&#160;зависти и&#160;нервно всхлипнул. Непременно напишу об&#160;этом стишок.
+</p><p>Ушел в&#160;аллею. Не хочу больше играть с&#160;котятами! Они&#160;не&#160;оценили моего сердца. Не хочу больше играть с&#160;Зиной! Она вымазала мне нос губной помадой…
+</p><p>Сделаюсь диким фоксом, буду жить на&#160;каштане и&#160;ловить голубей. У-у-у!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Видел на&#160;граммофонной пластинке нацарапанную картинку: фокс сидит перед&#160;трубой, склонил голову набок, свесил ухо и&#160;слушает. Че-пу-ха! Ни&#160;один порядочный фокс не&#160;будет слушать эту хрипящую, сумасшедшую машину. Если&#160;бы&#160;я был Зинин папа, уж я&#160;бы лучше держал в&#160;гостиной корову. Она ведь тоже мычит и&#160;ревет, да&#160;и доить ее удобней дома, чем бегать к&#160;ней в&#160;сарай. Странные люди…
+</p><p>С&#160;Зиной помирился: она катала по&#160;паркету игрушечный кегельный шар, а&#160;я его со всех ног ловил. Ах, как&#160;я люблю все круглое, все, что&#160;катится, все, что&#160;можно ловить!..
+</p><p>Но&#160;девочка… всегда останется девочкой. Села на&#160;пол и&#160;зевает: «Как&#160;тебе, Микки, не&#160;надоест сто раз делать одно и&#160;то&#160;же?»
+</p><p>Да? У&#160;нее есть кукла, и&#160;книжки, и&#160;подруги, папа ее курит, играет в&#160;какие-то&#160;дурацкие карты и&#160;читает газеты, мама ее все время одевается и&#160;раздевается… А&#160;у&#160;меня только мой шар — и&#160;меня еще попрекают!
+</p><p>Ненавижу блох. Не-на-ви-жу. Могли&#160;бы, кажется, кусать кухарку (Зину мне жалко), так нет — целый день грызут меня, точно я&#160;сахарный… Даже с&#160;котят все на&#160;меня перескочили. Ладно! Пойду в&#160;переднюю, лягу на&#160;шершавый коврик спиной книзу и&#160;так их разотру, что&#160;они в&#160;обморок попадают. Гав-гав-гав!
+</p><p>Затопили камин. Смотрю на&#160;огонь. А&#160;что&#160;такое огонь — никому не&#160;известно.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>Фокс Микки</i>,<br />
+<p><i>Собака-поэт</i>,<br />
+</p>
+<i>Умнее которой в мире нет…</i></div>
+<div class="mw-heading mw-heading3"><h3 id="РАЗНЫЕ_ВОПРОСЫ,_МОЙ_СОН_И_МОИ_СОБАЧЬИ_МЫСЛИ"><span id=".D0.A0.D0.90.D0.97.D0.9D.D0.AB.D0.95_.D0.92.D0.9E.D0.9F.D0.A0.D0.9E.D0.A1.D0.AB.2C_.D0.9C.D0.9E.D0.99_.D0.A1.D0.9E.D0.9D_.D0.98_.D0.9C.D0.9E.D0.98_.D0.A1.D0.9E.D0.91.D0.90.D0.A7.D0.AC.D0.98_.D0.9C.D0.AB.D0.A1.D0.9B.D0.98"></span>РАЗНЫЕ ВОПРОСЫ, МОЙ СОН И&#160;МОИ СОБАЧЬИ МЫСЛИ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;section=4" title="Редактировать раздел «РАЗНЫЕ ВОПРОСЫ, МОЙ СОН И МОИ СОБАЧЬИ МЫСЛИ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>ВОПРОСОМ называется такая строчка, в&#160;конце которой стоит рыболовный крючок — вопросительный знак.
+</p><p>Меня мучают пять вопросов. Почему Зинин папа сказал, что&#160;у него «глаза на&#160;лоб полезли»? Никуда они&#160;не полезли, я&#160;сам видел. Зачем&#160;же он&#160;говорит глупости? Я&#160;прокрался к&#160;шкафу, сел перед&#160;зеркалом и&#160;изо всех сил закатил кверху глаза. Чушь! Лоб вверху и&#160;глаза на&#160;своем месте.
+</p><p>Живут&#160;ли&#160;на Луне фоксы, что&#160;они едят и&#160;воют&#160;ли&#160;на Землю, как&#160;я иногда на&#160;Луну? И&#160;куда они&#160;деваются, когда лунная тарелка вдруг исчезает на&#160;много дней неизвестно куда?.. Микки, Микки, ты когда-нибудь сойдешь с&#160;ума!
+</p><p>Зачем рыбы лезут в&#160;пустую сетку, которая называется вершей? Раз не&#160;умеешь жить над&#160;водой, так и&#160;сиди себе тихо в&#160;пруду. Очень мне их жалко! Утром плавали и&#160;пускали пузыри, а&#160;вечером перевариваются в&#160;темном и&#160;тесном человеческом желудке. Да&#160;еще гнусная кошка все кишочки по&#160;саду растаскала…
+</p><p>Почему Зинина бонна все была брюнеткой, а&#160;сегодня у&#160;нее волосы как&#160;соломенный сноп? Зина хихикнула, а&#160;я испугался и&#160;подумал: хорошо, Микки, что&#160;ты собака… Женили&#160;бы&#160;тебя на&#160;такой попугайке: во&#160;вторник она черная, в&#160;среду — оранжевая, а&#160;в четверг — голубая с&#160;зелеными полосками… Фу! Даже температура поднялась.
+</p><p>Почему, когда я&#160;себя веду дурно, на&#160;меня надевают намордник, а&#160;садовник два раза в&#160;неделю напивается, буянит, как&#160;бешеный бык, — и&#160;хоть&#160;бы&#160;что?! Зинин дядя говорит, что&#160;садовник был контужен и&#160;поэтому надо к&#160;нему относиться снисходительно. Непременно узнаю, что&#160;такое «контужен», и&#160;тоже контужусь. Пусть ко&#160;мне относятся снисходительно. Пойду догрызу косточку (я&#160;спрятал ее… где?.. а&#160;вот не&#160;скажу!). Потом опять попишу.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Ах, что&#160;я видел во&#160;сне! Будто я&#160;директор собачьей гимназии. Собаки сидят по&#160;классам и&#160;учат «историю знаменитых собак», «правила хорошего собачьего поведения», «как&#160;надо есть мозговую кость» и&#160;прочие подходящие для&#160;них штуки.
+</p><p>Я&#160;вошел в&#160;младший класс и&#160;сказал: «Здравствуйте, цуцики!» — Тяв, тяв, тяв, господин диктор! — «Довольны вы ими, мистер Мопс?» Мистер Мопс, учитель мелодекламации, сделал реверанс и&#160;буркнул: пожаловаться не&#160;могу. Стараются. «Ну, ладно. Приказываю моим именем распустить их на&#160;полчаса».
+</p><p>Боже мой, что&#160;тут поднялось! Малыши бросились на&#160;меня всей ватагой. Повалили на&#160;пол… Один вылил на&#160;меня чернильницу, другой уколол меня пером в&#160;кончик хвоста — ай! Третий стал тянуть мое ухо вбок, точно я&#160;резиновый… Я&#160;завизжал, как&#160;паровоз, — и&#160;проснулся. Луна. На&#160;полу сидит таракан и&#160;подъедает брошенный Зиной бисквит. За&#160;окном хлопает ставня. Уй-юй-юй!..
+</p><p>Зинина комната на&#160;запоре. Я&#160;прокрался в&#160;закоулок за&#160;кухней и&#160;свернулся на&#160;коврике у&#160;кухаркиной кровати. Конечно, я&#160;ее не&#160;люблю, конечно, она храпит так, что&#160;банки дребезжат на&#160;полке, конечно, она высунула из-под&#160;одеяла свою толстую ногу и&#160;шевелит во&#160;сне пальцами… Но&#160;что&#160;же делать?
+</p><p>Окно побелело, а&#160;я все лежал и&#160;думал: что&#160;означает мой сон? У&#160;кухарки есть затрепанная книга — «сонник». Она часто перелистывает ее пухлыми пальцами и&#160;все вычитывает по&#160;складам про&#160;какого-то&#160;жениха. Подумаешь, кто на&#160;такой сковородке женится?..
+</p><p>Но&#160;что&#160;мне «сонник»? Собачьих снов в&#160;нем все равно нету… А&#160;может быть, сон был мне в&#160;руку? То&#160;есть в&#160;лапу.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Мысли.
+</p><p>Вода замерзает зимой, а&#160;я каждое утро. Самое гнусное человеческое изобретение — ошейники, обтянутые собачьей кожей. Зачем наш сосед пашет землю и&#160;сеет хлеб, когда рядом с&#160;его усадьбой есть булочная? Когда щенок устроит совсем-совсем маленькую лужицу на&#160;полу — его тычут в&#160;нее носом; когда&#160;же то&#160;же самое сделает Зинин младший братишка, пеленку вешают на&#160;веревочку, а&#160;его целуют в&#160;пятку… Тыкать — так всех! Дрался с&#160;ежом, но&#160;он нечестный: спрятал голову и&#160;со всех сторон у&#160;него колючий зад. Р-р-р! Это что&#160;ж за&#160;драка?.. Ел колбасу и&#160;проглотил нечаянно колбасную веревочку. Неужели у&#160;меня будет аппендицит?!
+</p><p>Зина пахнет миндальным молоком, мама ее — теплой булкой, папа — старым портфелем, а&#160;кухарка… многоточие…
+</p><p>Больше мыслей нету. Взы! Почему никто не&#160;догадается дать мне кусочек сахару?
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>Фокс Микки</i>,<br />
+<p><i>которому по-настоящему</i><br />
+</p>
+<i>следовало бы быть профессором</i></div>
+<div class="mw-heading mw-heading3"><h3 id="ОСЕННИЙ_КАВАРДАК"><span id=".D0.9E.D0.A1.D0.95.D0.9D.D0.9D.D0.98.D0.99_.D0.9A.D0.90.D0.92.D0.90.D0.A0.D0.94.D0.90.D0.9A"></span>ОСЕННИЙ КАВАРДАК</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;section=5" title="Редактировать раздел «ОСЕННИЙ КАВАРДАК»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>ОСЕНЬ. Хлюпает дождик. Как&#160;ему не&#160;надоест целый день хлюпать? Желтые листья все падают, и&#160;скоро деревья будут совсем лысые. А&#160;потом пойдут туманы — большая собака заберется в&#160;будку и&#160;будет храпеть с&#160;утра до&#160;вечера. Я&#160;иногда хожу к&#160;ней в&#160;гости. Но&#160;она глупая и&#160;необразованная: когда я&#160;с ней играю и&#160;осторожно цапаю ее за&#160;хвост, она бьет меня лапой по&#160;голове и&#160;хватает зубами поперек живота. Деревенщина!
+</p><p>Туманы — туманы — туманы. Грязь — грязь — грязь. И&#160;вдруг потянет теплом. Налетят со всех сторон сумасшедшие птицы. Небо станет, как&#160;вымытая Зинина голубая юбка, и&#160;на черных палках покажутся зеленые комочки. Потом они&#160;лопнут, развернутся, зацветут… Ох, хорошо! Это называется — весна.
+</p><p>Деревья, вот даже старые, молодеют каждую весну. А&#160;люди и&#160;взрослые собаки — никогда. Отчего? Вот Зинин дядя совсем лысый, вся шерсть с&#160;головы облезла, точь-в-точь — бильярдный шар. А&#160;вдруг&#160;бы&#160;у него весной на&#160;черепе зеленая травка выросла? И&#160;цветочки?
+</p><p>Или&#160;чтоб у&#160;каждой собаки в&#160;апреле на&#160;кончике хвоста бутон распускался?..
+</p><p>Все&#160;бы&#160;я на&#160;свете переделал. Но&#160;что&#160;же может маленький фокс?
+</p><p>А&#160;в&#160;доме — кавардак. Снимают ковры, пересыпают каким-то&#160;на-фта-ли-ном. Ух, как&#160;от него чихаешь! Я&#160;уж в&#160;комнаты и&#160;не хожу. Лежу на&#160;веранде и&#160;лапой тру нос. Ведь я&#160;же всегда хожу босиком, к&#160;лапам и&#160;пристает. Прямо несчастье!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Зина собирает свои книжки и&#160;мяучит. Братец ее лежит в&#160;своей колясочке перед&#160;клумбой и&#160;визжит, как&#160;щенок. И&#160;только я, фокс Микки, кашляю, как&#160;человек, скромно и&#160;вежливо: у&#160;меня бронхит. Пусть, пусть собирается. Ни&#160;за&#160;что я&#160;в Париж не&#160;поеду. Спрячусь у&#160;коровы в&#160;соломе — не&#160;разыщут. Ну что&#160;там в&#160;Париже, подумайте? Был один раз, возили к&#160;собачьему доктору. Улиц — миллион, а&#160;миллион — это больше, чем десять. Куда ни&#160;посмотришь — ноги, ноги и&#160;ноги. Автомобили, как&#160;пьяные носороги, летят, хрипят — и&#160;все на&#160;меня!.. Я&#160;уж Зининой юбки из&#160;зубов не&#160;выпускал. Цепочка тянет, намордник жмет. Как&#160;они&#160;могут жить в&#160;таком карусельном городе!..
+</p><p>Ни&#160;за&#160;что! Чтоб я&#160;сидел у&#160;окна и&#160;смотрел на&#160;вывеску с&#160;дамской ногой? Чтоб меня консьержка называла «поросеночком»? Чтоб меня гоняли с&#160;кресел и&#160;с дивана?! Чтоб меня попрекали, что&#160;я развожу в&#160;доме блох?! Я&#160;ж их не&#160;фабрикую — они&#160;сами разводятся…
+</p><p>О&#160;какие там гнусные собаки! Бульдоги с&#160;растопыренными лапами, вывороченной мордой и&#160;закушенными языками; полосатые доги, похожие на&#160;мясников; мопсы вроде жаб, зашитых в&#160;собачью шкуру; болоночки — волосатые насекомые с&#160;висячими ушами и&#160;мокрыми глазами… Фу! Гав-гав! фу! Отчего это собаки такие разные, а&#160;кошки все на&#160;один фасон? И&#160;знаете — это, впрочем, Зина сказала, — они&#160;все похожи друг на&#160;друга: хозяева на&#160;своих собак и&#160;собаки на&#160;своих хозяев. А&#160;Микки и&#160;Зина? Что&#160;ж, и&#160;мы похожи, только бантики у&#160;нас разные: у&#160;нее зеленый, а&#160;у меня желтый.
+</p><p>Ах, как&#160;из дверей дует! Пальто на&#160;диване, а&#160;укрыться не&#160;умею. Нет, что&#160;ни говори — руки иногда вещь полезная.
+</p><p>Грузовик забрал вещи. В&#160;столовой — бумаги и&#160;сор. Зачем это люди переезжают с&#160;места на&#160;место? Дела, уроки, квартира… «Собачья жизнь!» — говорит Зинин папа. Нет&#160;уж, собачья лучше, это позвольте мне знать.
+</p><p>Меня оставляют. Подружусь с&#160;дворовой собакой, ничего не&#160;поделаешь. Зина говорит, чтоб я&#160;не плакал, обещает раз в&#160;неделю приезжать, если я&#160;буду себя хорошо вести. Буду! Очень я&#160;ее люблю: я&#160;ее сегодня лизнул в&#160;глаз, а&#160;она меня в&#160;нос. Чудесная девочка!
+</p><p>Садовнику приказали меня кормить. Пусть попробует не&#160;кормить — я&#160;у него все бутылки перебью! Да&#160;и&#160;мясник меня любит: каждый раз, когда приезжает, что-нибудь даст. Котята выросли, быстро это у&#160;них делается… Совсем меня забыли и&#160;носятся по&#160;парку как&#160;оглашенные (что&#160;это такое «оглашенные»?). Придется и&#160;с ними подружиться…
+</p><p>Но&#160;самое обидное — кончается мой последний карандашный огрызок. А&#160;с&#160;письменного стола все убрали. Ах, зачем я&#160;не догадался взять про&#160;запас! Прощай, мой дневник… Я&#160;уж Зину так умолял, так умолял — за&#160;платье дергал, перед&#160;письменным столом служил, но&#160;она не&#160;понимает и&#160;все мне шоколадки в&#160;рот сует. Вот горе! Без&#160;рук тяжело, а&#160;без языка — из&#160;лап вон плохо!..
+</p><p>Моя золотая-серебряная-бриллиантовая тетрадка. Суну тебя под&#160;шкаф, лежи там до&#160;будущей весны… Ай-яй! Гав! Зина заметила, что&#160;я пишу… Идет ко&#160;мне! Отнима…
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Я_ОДИН"><span id=".D0.AF_.D0.9E.D0.94.D0.98.D0.9D"></span>Я&#160;ОДИН</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;section=6" title="Редактировать раздел «Я ОДИН»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В&#160;доме никого нет. Во&#160;все щели дует собачий ветер (почему собачий?). Вообще, ветер дурак: дует в&#160;голом парке, а&#160;там и&#160;сорвать нечего. На&#160;дворе еще кое-как&#160;с ним справляюсь: стану спиной к&#160;ветру, голову вниз, ноги расставлю — и «наплевать», как&#160;говорит садовник. А&#160;в&#160;комнате никуда от&#160;этого бандита не&#160;спрячешься. Врывается из-под&#160;двери, сквозь оконные щелочки, сквозь каминную дыру, и&#160;так пищит, и&#160;так скулит, и&#160;так подвывает, точно его мама была собакой. Ни&#160;морды, ни&#160;глотки, ни&#160;живота, ни&#160;зада у&#160;него нет. Чем он&#160;дует — понять не&#160;могу…
+</p><p>Забираюсь под&#160;диванную подушку, закрываю глаза и&#160;стараюсь не&#160;слушать.
+</p><p>Отдал&#160;бы&#160;полную чашку с&#160;овсянкой (ужасная гадость!), если&#160;бы&#160;мне кто-нибудь объяснил, зачем осень, зачем зима? В&#160;аллее такая непроходимая грязь, какую я&#160;видал только под&#160;носорогом в&#160;зоологическом саду. Мокро. Голые ветки хлопают друг о&#160;друга и&#160;чихают. Ворона, облезшее чучело, дразнится: кра! — почему тебя не&#160;взяли в&#160;город?
+</p><p>Потому что&#160;сам не&#160;захотел! А&#160;теперь жалко, но&#160;держусь молодцом. Вчера только поплакал у&#160;камина, очень уж гадко в&#160;темноте и&#160;сырости. Свечку нашел, а&#160;зажечь не&#160;умею. У-у-у!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Скребутся мыши. Хотя фоксам это не&#160;полагается, но&#160;я очень люблю мышей. Чем они&#160;виноваты, что&#160;они такие маленькие и&#160;всегда хотят есть?
+</p><p>Вчера один мышонок вылез и&#160;стал катать по&#160;полу прошлогодний орех. Я&#160;ведь тоже люблю катать все круглое. Очень хотел поиграть с&#160;ним, но&#160;удержался: лежи, дурак, смирно! Ты ведь большой, как&#160;слон, — напугаешь малыша, и&#160;он больше не&#160;придет. Разве я&#160;не умница?
+</p><p>Сегодня другой до&#160;того осмелел, что&#160;взобрался на&#160;диван и&#160;понюхал мою лапу. Я&#160;прикусил язык и&#160;вздрогнул. Тяф! Как&#160;я&#160;его люблю!
+</p><p>Вот только как&#160;их отличать одного от&#160;другого?..
+</p><p>Если кошка посмеет их тронуть, я&#160;ее загоню на&#160;самую высокую елку и&#160;целый день сторожить буду… Гав! Дрянь! Ненавижу!..
+</p><p>Почему елки всю зиму зеленые? Думаю, потому, что&#160;у них иголочки. Ветру листья оборвать не&#160;штука, а&#160;иголочки — попробуй! Они&#160;тоненькие — ветер сквозь них и&#160;проходит, как&#160;сквозь решето…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>К&#160;садовнику не&#160;хожу. Он&#160;сердится: почему у&#160;меня лапы всегда в&#160;грязи? В&#160;сабо мне ходить, что&#160;ли?
+</p><p>Ах, ах… Одна только радость — разыскал в&#160;шкафу позабытую сигарную коробку с&#160;карандашами, стянул в&#160;буфетной приходо-расходную книжку, и&#160;вот опять веду свой дневник.
+</p><p>Если&#160;бы&#160;я был человеком, непременно издавал&#160;бы&#160;журнал для&#160;собак!
+</p><p>До&#160;чего я&#160;исхудал, если&#160;бы&#160;вы знали. Зинина тетя была&#160;бы&#160;очень довольна, если&#160;бы&#160;была теперь похожа на&#160;меня. Она ведь все похудеть хочет. А&#160;сама целый день все лопает и&#160;затягивается.
+</p><p>Проклятый садовник и&#160;консьерж сговорились — съедают всю провизию сами, а&#160;мне готовят только эту ужасную овсянку. Дворовому псу дают большие кости и&#160;суп с&#160;черствым хлебом. Он&#160;со мной делится, но&#160;где ж мне разгрызть такую кость, когда она тверже утюга? А&#160;суп… Таким супом в&#160;бистро тарелки моют!
+</p><p>Даже молока жалеют, жадины! Молоко ведь дает корова, а&#160;не они. Уж я&#160;бы ее сам подоил: мы&#160;с ней дружны, и&#160;она мне всегда в&#160;глаза дышит когда я&#160;прибегаю в&#160;сарай. Но&#160;как&#160;я ее буду доить моими несчастными лапами?..
+</p><p>Придумал штуку. Стыдно очень, но&#160;что ж делать — есть надо. Когда дождь утихнет, бегаю иногда в&#160;соседнее местечко к&#160;знакомому бистровщику. У&#160;него по&#160;вечерам под&#160;граммофон танцы. Пляшут фокстрот. Должно быть, собачий танец.
+</p><p>Я&#160;на&#160;задние лапки встану, живот подтяну, верчусь и&#160;головой киваю.
+</p><p>Все пары и&#160;танцевать бросят… В&#160;кружок соберутся и&#160;хохочут так, что&#160;граммофона не&#160;слышно.
+</p><p>И&#160;уж такую порцию мяса мне закажут, что&#160;я еле домой добираюсь. Да&#160;еще телячью косточку в&#160;зубах принесу на&#160;завтрак…
+</p><p>Вот до&#160;чего ради голода унижаться приходится!
+</p><p>Жаль только, что&#160;нет другой маленькой собачки. Мы&#160;бы&#160;с ней танцевали вдвоем и&#160;всегда были сыты.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Надо записать все свои огорчения, а&#160;то потом забуду.
+</p><p>Петух ни&#160;с того ни&#160;с сего клюнул меня в&#160;нос. Я&#160;только подошел поздороваться… Зачем&#160;же драться, нахал горластый?! Плакал, плакал, сунул нос в&#160;корытце с&#160;дождевой водой и&#160;до вечера не&#160;мог успокоиться…
+</p><p>Зина меня забыла!
+</p><p>В&#160;мою чашку с&#160;овсянкой забрался черный таракан, задохся и&#160;утонул. Какая мерзость! Птицы, кроме петухов, туда-сюда; кошки — гадость, но&#160;все-таки звери. Но&#160;кому нужны черные тараканы?!
+</p><p>На&#160;шоссе чуть не&#160;попал под&#160;автомобиль. Почему он&#160;не гудел на&#160;повороте?! Почему обрызгал меня грязью?! Кто меня отмоет? Ненавижу автомобили! И&#160;не&#160;по-ни-ма-ю…
+</p><p>Зина меня забыла!
+</p><p>Спугнул в&#160;огороде дикого кролика и&#160;налетел на&#160;колючую проволоку. Уй-ю-юй, как&#160;больно! Зина говорила, что, если порежешься ржавым железом, надо сейчас&#160;же смазаться йодом. Где я&#160;возьму йод? И&#160;йод ведь щиплет — я&#160;знаю…
+</p><p>Мыши проели в&#160;моем дневнике дырку. Никогда больше не&#160;буду любить мышей!
+</p><p>Зина меня забыла…
+</p><p>Сегодня нашел в&#160;бильярдной кусочек старого шоколада и&#160;съел. Это, правда, не&#160;огорчение, а&#160;радость. Но&#160;радостей так мало, что&#160;не могу&#160;же я&#160;для них отдельную страницу отводить.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>Одинокий, несчастный, холодный</i><br />
+<i>и голодный фокс Микки</i></div>
+<div class="mw-heading mw-heading3"><h3 id="ПЕРЕЕЗД_В_ПАРИЖ"><span id=".D0.9F.D0.95.D0.A0.D0.95.D0.95.D0.97.D0.94_.D0.92_.D0.9F.D0.90.D0.A0.D0.98.D0.96"></span>ПЕРЕЕЗД В&#160;ПАРИЖ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;section=7" title="Редактировать раздел «ПЕРЕЕЗД В ПАРИЖ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>ВЫ любите чердаки? Я — очень. Люди складывают на&#160;чердаках самые интересные вещи, а&#160;по комнатам расставляют скучные столы и&#160;дурацкие комоды.
+</p><p>«Когда сердце мое разрывается от&#160;тоски», как&#160;говорит Зинина тетя, я&#160;прибегаю из&#160;голого парка, вытираю о&#160;диван лапы и&#160;бегу на&#160;чердак.
+</p><p>Над&#160;стеклом в&#160;потолке пролетают воробьи — они&#160;вроде мышей, только с&#160;крылышками. «Чикчивик!» — «Доброе утро, силь ву пле!»
+</p><p>Потом здороваюсь со старой Зининой куклой. У&#160;нее чахотка, и&#160;она лежит в&#160;пыльной дырявой ванне, задрав кверху пятки. Я&#160;ее перевернул, чтобы все было прилично… Поговорил с&#160;ней о&#160;Зине. Да, конечно, сердце девочки — одуванчик. Забыла куклу, забыла Микки. А&#160;потом у&#160;нее появится дочка, и&#160;все начнется сначала… новая дочка, новая кукла, новая собачка. Апчхи! Как&#160;здесь пыльно!
+</p><p>Обнюхал разбитую люстру, лизнул резиновую собачку — у&#160;нее, бедной, в&#160;животе дыра… разорвал в&#160;клочки собачью плетку…
+</p><p>«И&#160;скучно, и&#160;грустно, и&#160;некому лапу пожать!»…
+</p><p>Если&#160;бы&#160;я был сильнее, я&#160;бы отодвинул старую ванну и&#160;устроил себе на&#160;чердаке комнату. Под&#160;раненый диван подставил&#160;бы&#160;попугайскую клетку — это моя спальня. На&#160;китайском бильярде устроил&#160;бы&#160;себе письменный стол. Он&#160;покатый — очень удобно писать!
+</p><p>Уборную устрою на&#160;крыше. Это и «гигиенично» и&#160;приятно. Буду лазить, как&#160;матрос, по&#160;лестничке в&#160;слуховое окошко.
+</p><p>А&#160;намордник свой заброшу в&#160;дымовую трубу!! Апчхи!.. Чихнул — значит, так и&#160;будет.
+</p><p>Ай! На&#160;шоссе экипаж… Чей? Чей? Чей? И-и-и! Зина приеха…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Третью неделю живу в&#160;Париже, — рю д’Ассомпсион (Успенская улица), дом 16. Третий этаж направо.
+</p><p>Вы&#160;бы&#160;меня и&#160;не узнали: лежу у&#160;камина на&#160;подушечке, как&#160;фарфоровая кошка. Пахнет от&#160;меня сиреневым мылом, сбоку зеленый галстук. На&#160;ошейнике — серебряная визитная карточка с&#160;адресом… Если&#160;бы&#160;я умел говорить, украл&#160;бы&#160;франк и&#160;купил себе манжетки.
+</p><p>Зина в&#160;школе… На&#160;соседнем балконе сидит преотвратительная собачонка. В&#160;ушах пакля, в&#160;глазах пакля, на&#160;губах пакля. Вообще, какая-то&#160;слезливая муфта, мусорная тряпка, собачья слепая кишка, пискливая дрянь! И&#160;знаете, как&#160;ее зовут? Джио-ко-нда… Морда ты, морда тухлая!
+</p><p>Когда никого нет на&#160;балконе, я&#160;ее дразню. Ух, как&#160;приятно! Становлюсь к&#160;ней задом и&#160;начинаю Дергать задней ногой; пять минут дергаю.
+</p><p>Ах, какую она истерику закатывает! Как&#160;кот под&#160;автомобилем…
+</p><p>— Яй-яй-яй-и! Уй-уй-у-й-о! Ай-ай-ай-э!..
+</p><p>Катышком прибегает ее хозяйка, такая&#160;же коротенькая, лохматенькая, пузатенькая, живот на&#160;ходу застегивает, и, Боже мой, чего она не&#160;наговорит:
+</p><p>— Деточка моя, пупупусичка! Кто тебя оби-би-би-дел? Бедные мои глазочки! Чудные мои лапочки! Золотой, дорогой хвостичек!..
+</p><p>А&#160;я&#160;в комнату со своего балкона спрячусь, точно меня и&#160;на свете нет, по&#160;ковру катаюсь и&#160;лапами себя по&#160;носу бью. Это я&#160;так смеюсь.
+</p><p>Внизу, вверху, справа и&#160;слева играют на&#160;пианино. Я&#160;бы&#160;им всем на&#160;лапы намордники надел! Зина в&#160;школе. И&#160;зачем девочке так много учиться? Все равно вырастет, острижет волосы и&#160;будет на&#160;кушетке по&#160;целым дням валяться. Уж я&#160;эту породу знаю.
+</p><p>Вчера из&#160;усадьбы приезжал садовник. Привез яблоки и&#160;яйца. Лучшие отобрал для&#160;кухарки (знаем, знаем!), а&#160;худшие — для&#160;Зининых родителей. Поймите людей: носят очки, носят пенсне, а&#160;ничего у&#160;себя под&#160;носом не&#160;видят…
+</p><p>Прокрался в&#160;переднюю, встал на&#160;стул и&#160;положил ему в&#160;карман пальто рыбьих кишок… Пусть знает!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Был с&#160;Зиной в&#160;синема. Очень взволнован. Как&#160;это, как&#160;это может быть, чтобы люди, автомобили, дети и&#160;полицейские бегали по&#160;полотну?! И&#160;почему все серые, черные и&#160;белые? Куда&#160;же девались краски? И&#160;почему все шевелят губами, а&#160;слов не&#160;слышно?.. Я&#160;видел на&#160;чердаке в&#160;коробочке засушенных бабочек, но, во-первых, они&#160;не двигались, а&#160;во-вторых, они&#160;были разноцветные…
+</p><p>Вот, Микки, ты и&#160;дурак, а&#160;еще думал, что&#160;ты все понимаешь!
+</p><p>Представление было очень глупое: он&#160;влюбился в&#160;нее и&#160;поехал на&#160;автомобиле в&#160;банк. Она тоже влюбилась в&#160;него, но&#160;вышла замуж за&#160;его друга. И&#160;поехала на&#160;автомобиле к&#160;морю с&#160;третьим. Потом был пожар и&#160;землетрясение в&#160;ванной комнате. И&#160;качка на&#160;пароходе. И&#160;негр пробрался к&#160;ним в&#160;каюту. А&#160;потом все помирились…
+</p><p>Нет, собачья любовь умнее и&#160;выше!
+</p><p>Непременно надо изобрести синема для&#160;собак. Это&#160;же бессовестно — все для&#160;людей: и&#160;газеты, и&#160;скачки, и&#160;карты. И&#160;ничего для&#160;собак.
+</p><p>Пусть водят нас хоть раз в&#160;неделю, а&#160;мы, сложив лапки, будем культурно наслаждаться.
+</p><p>«Чужая кость»… «Похороны одинокого мопса»… «Пудель Боб надул мясника» (для&#160;щенков обоего пола)… «Сны старого дога»… «Сенбернар спасает замерзшую девочку» (для&#160;пожилых болонок)… «Полицейская собака Фукс посрамляет Пинкертона» (для&#160;детей и&#160;для собак).
+</p><p>Ах, сколько тем, Микки!.. Ты&#160;бы&#160;писал собачьи сценарии и&#160;ни в&#160;ком не&#160;нуждался…
+</p><p>Новый стишок:
+</p><p>На&#160;каштанах надулись почки, —
+</p><p>Значит, скоро весна.
+</p><p>У&#160;Зининой мамы болят почки,
+</p><p>Поэтому она грустна…
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>Главный собачий фильм-директор</i><br />
+<i>фокс Микки</i></div>
+<div class="mw-heading mw-heading3"><h3 id="НА_ПЛЯЖЕ"><span id=".D0.9D.D0.90_.D0.9F.D0.9B.D0.AF.D0.96.D0.95"></span>НА ПЛЯЖЕ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;section=8" title="Редактировать раздел «НА ПЛЯЖЕ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>АX, как&#160;переменилась моя жизнь! Зина влетела в&#160;комнату, хлоп и — сделала колесом реверанс, ручки — птичками, глазки — вниз, и&#160;ляпнула:
+</p><p>— Микки! Мой обожаемый принц… мы&#160;едем к&#160;морю.
+</p><p>Я&#160;сейчас&#160;же полетел вниз, к&#160;консьержкиной болонке. Она родилась у&#160;моря и&#160;очень симпатично ко&#160;мне относится.
+</p><p>— Кики, муфточка… меня везут к&#160;морю. Что&#160;это такое?
+</p><p>— О! Это много-много воды. В&#160;десять раз больше, чем в&#160;люксембургском фонтане. И&#160;везде сквозняк. Моей хозяйке было хорошо, она могла затыкать уши ватой… Море то&#160;рычит, то&#160;шипит, то&#160;молчит. Никакого порядка! За&#160;столом очень много рыбы. Дети копаются в&#160;песке и&#160;наступают собакам на&#160;лапы. Но&#160;ты фокс: тебе будут бросать в&#160;воду палки, и&#160;ты их будешь вытаскивать…
+</p><p>— Чудесно!
+</p><p>— А&#160;когда ты устанешь, всегда возле моря на&#160;горке есть лес. Будешь разрывать кротовые норки и&#160;кататься по&#160;вереску.
+</p><p>— Это что&#160;за штука?
+</p><p>— Травка такая курчавенькая. Вроде бороды. Лиловенькие цветочки, и&#160;пахнет скипидарчиком.
+</p><p>— Ну, спасибо! Дай лапку. Что&#160;тебе привезти с&#160;моря?
+</p><p>— Утащи у&#160;какой-нибудь девчонки тепленький шарфик. Мой уже износился.
+</p><p>— Кики, я&#160;честный! Я&#160;не&#160;могу. Но&#160;сегодня у&#160;нас гости, я&#160;стащу для&#160;тебя шоколадного зайца.
+</p><p>— Мерси. Прощай, Миккочка… Она ушла в&#160;угол и&#160;вытерла глаза о&#160;портьеру Кажется, она в&#160;меня влюблена.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>«В&#160;десять раз больше люксембургского фонтана…» У&#160;этих болонок нет никакого глазомера. В&#160;двадцать раз больше! До&#160;самого неба вода и&#160;больше ничего. И&#160;соленая, как&#160;селедка… Почему соленая? Дождик ведь пресный и&#160;ручеек в&#160;лесу, который все время подливает в&#160;море воду, тоже пресный. А?
+</p><p>Люди ходят голые, в&#160;полосатых и&#160;черных попонках. В&#160;дырки снизу вставляют ноги. Пуговицы на&#160;плече. Вообще — глупо. Я, слава Богу, купаюсь без&#160;костюма. Ах, что&#160;мы с&#160;Зиной выделываем в&#160;воде! Я&#160;лаю на&#160;прибой, а&#160;она бросает в&#160;меня мячик… Но&#160;он&#160;большой и&#160;скользкий, а&#160;рот у&#160;меня маленький. И&#160;никак его, черта, не&#160;прокусишь! Гав!
+</p><p>Подружился со всеми детьми. Есть такие маленькие, что&#160;даже не&#160;могут сказать «Микки» и&#160;зовут меня: «Ми»! Сидят голенькие па песке и&#160;пускают пузыри. А&#160;один все старается себе ногу в&#160;рот засунуть. Зачем?..
+</p><p>Я&#160;бегаю, вытаскиваю из&#160;воды детские кораблики, прыгаю через&#160;их песочные постройки, гоняюсь вперегонки с&#160;пуделем Джеком, и&#160;весь берег меня знает. Какой чудный фокс! Чей это фокс? Зинин? Замечательный фокс!..
+</p><p>Вчера подсмотрел. У&#160;детей никаких хвостиков нет. Напрасно я&#160;сомневался…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Теперь про&#160;взрослых. Мужчины ходят в&#160;белых костюмчиках. Полдня курят. Полдня читают газеты. Полдня купаются. Полдня снимаются. Плавают хорошо, но&#160;очень далеко заплывают. Я&#160;слежу с&#160;купальной лестницы и&#160;все волнуюсь: а&#160;вдруг утонет… Что&#160;я&#160;тогда должен делать?
+</p><p>Очень хорошо прыгают в&#160;воду с&#160;мостика. Руки по&#160;швам, голову вперед — и&#160;бум! Перевернется в&#160;воздухе рыбкой, руки вниз — и&#160;прямо в&#160;воду… Пена… Никого нет… И&#160;выплывет совсем в&#160;другом месте.
+</p><p>Я&#160;тоже взобрался на&#160;мостик и&#160;страшно-страшно хотел прыгнуть. Но&#160;так высоко! И&#160;так глубоко! Задрожал и&#160;тихонько спустился вниз. Вот тебе и&#160;Микки…
+</p><p>Дамы все переодеваются и&#160;переодеваются. Потом раздеваются, потом опять переодеваются. Купаться не&#160;очень любят. Попробует большим пальцем правой ноги воду, присядет, побрызгает на&#160;себя водой и&#160;лежит на&#160;берегу, как&#160;индюшка в&#160;гастрономической витрине.
+</p><p>Конечно, есть и&#160;такие, которые плавают. Но&#160;они&#160;больше похожи на&#160;мальчиков. Вообще, я&#160;ничего не&#160;понимаю.
+</p><p>Сниматься они&#160;тоже любят. Я&#160;сам видал. Одни лежали на&#160;песке. Над&#160;ними стояли на&#160;коленках другие. А&#160;еще над&#160;ними третьи стояли в&#160;лодке. Называется: группа… Внизу фотограф воткнул в&#160;песок табличку с&#160;названием нашего курорта. И&#160;вот нижняя дама, которую табличка немножко заслонила, передвинула ее тихонько к&#160;другой даме, чтобы ее заслонить, а&#160;себя открыть… А&#160;та передвинула назад. А&#160;первая — опять к&#160;ней. Ух, какие у&#160;них были злющие глаза!
+</p><p>Стишок:
+</p><p>Когда дамы снимаются
+</p><p>И&#160;заслоняются,
+</p><p>Они&#160;готовы одна другой
+</p><p>Дать в&#160;глаз ногой!..
+</p><p>Да! Что&#160;я&#160;узнал!.. Море иногда сходит с&#160;ума и&#160;уходит. Курорт ему надоедает или&#160;что, я&#160;не знаю, И&#160;на&#160;песке всякие ракушки и&#160;креветки и&#160;слизняки… Зина говорит, что&#160;это все морские глисты. А&#160;потом море соскучится и&#160;приходит назад. Называется «прилив — отлив».
+</p><p>Здешнее море люди почему-то&#160;называют океаном.
+</p><p>Я&#160;было как-то&#160;погнался за&#160;морем, когда оно уходило, но&#160;Зина привязала меня чулком к&#160;скамейке. Нелюбознательная девочка!
+</p><p>Вчера познакомился в&#160;соседнем русском пансионе с&#160;кухаркой Дарьей Галактионовной. Руки у&#160;нее толстые, как&#160;итальянская колбаса, но, в&#160;общем, она миленькая. Называет меня Микитой и&#160;все ворчит, что&#160;я с&#160;пляжа в&#160;кухню ей песок на&#160;лапах таскаю.
+</p><p>Песок вымести можно! Экая важность…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Еда так себе. Хотя я&#160;не интересуюсь: дети меня кормят шоколадом, котлетками и&#160;чем только хотите. Зина все просит, чтобы я&#160;так много не&#160;ел, а&#160;то у&#160;меня сделается ожирение сердца и&#160;меня придется везти в&#160;Мариенбад. А&#160;что, если&#160;бы&#160;был курорт для&#160;фоксов? Фоксенбад! Вот&#160;бы&#160;там открыть собачий кинематограф… Собачьи скачки, собачью рулетку, собачью санаторию для&#160;подагрических бульдогов… Умираю от&#160;злости! Почему, почему, почему для&#160;нас ничего не&#160;делают?
+</p><p>Кошек здесь нет. Ни&#160;одной кошки. Ни&#160;полкошки. Ни&#160;четвертькошки… Неужели они&#160;все пошли на&#160;котлетки? Брр! Нет, нет, я&#160;бегал на&#160;кухню, смотрел: куры, телячье мясо, баранина… А&#160;то&#160;бы я&#160;из курорта куда глаза глядят убежал!
+</p><p>Зина вчера мне устроила лунное затмение. Луна была такая круглая, огромная, бледная… Совсем как&#160;живот у&#160;нашего хозяина пансиона. Я&#160;задумался, загрустил и&#160;чуть-чуть-чуть подвыл. Только две-три нотки… А&#160;Зина взяла и&#160;надела мне на&#160;голову купальные штаны.
+</p><p>— Ты, — говорит, — не&#160;имеешь права после десяти часов выть!..
+</p><p>Но, во-первых, у&#160;меня нет часов, и&#160;даже кармана для&#160;них нет… А&#160;во-вторых… настроение от&#160;часов не&#160;зависит.
+</p><p>Хотел послать Кики открытку с&#160;приветом… Но&#160;консьержка ревнивая — не&#160;передаст.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>Чудный и замечательный</i><br />
+<i>фокс Микки</i></div>
+<div class="mw-heading mw-heading3"><h3 id="В_ЗООЛОГИЧЕСКОМ_САДУ"><span id=".D0.92_.D0.97.D0.9E.D0.9E.D0.9B.D0.9E.D0.93.D0.98.D0.A7.D0.95.D0.A1.D0.9A.D0.9E.D0.9C_.D0.A1.D0.90.D0.94.D0.A3"></span>В&#160;ЗООЛОГИЧЕСКОМ САДУ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;section=9" title="Редактировать раздел «В ЗООЛОГИЧЕСКОМ САДУ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>У&#160;Зининого папы всегда «дела». У&#160;людей так уж заведено — за&#160;все нужно платить. За&#160;виллу, за&#160;зонтик, за&#160;мясо, за&#160;булки, за&#160;ошейник… и&#160;даже, говорят, скоро на&#160;фоксов двойной налог будет.
+</p><p>А&#160;чтоб платить — нужны деньги. Деньги бывают круглые, металлические, с&#160;дырочками — это «су». Круглые без&#160;дырочек — это франки. И&#160;потом разные бумажные. Бумажные почему-то&#160;дороже и&#160;начинаются с&#160;пяти франков. Деньги эти как-то «падают», «поднимаются» — совершенно глупая история, но&#160;я не&#160;человек, и&#160;меня это не&#160;касается.
+</p><p>Так вот, чтоб иметь деньги, надо делать «дела». Поняли? И&#160;Зинин папа поехал на&#160;неделю в&#160;Париж, взял с&#160;собою Зину, а&#160;Зина — меня.
+</p><p>И&#160;пока ее папа «бегал» по&#160;делам (он&#160;почему-то&#160;по делам всегда бегает, никогда не&#160;ходит), Зина взяла меня на&#160;цепочку, села в&#160;такси (почему оно так скверно пахнет?) и&#160;поехала в&#160;Зоологический сад.
+</p><p>Сад! Совсем не&#160;сад, а&#160;просто тюрьма для&#160;несчастных животных. Подождите минуточку: у&#160;меня на&#160;спине сидит блоха… поймаю и&#160;расскажу все по&#160;порядку.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Когда я&#160;был совсем куцым щенком, Зина мне про&#160;этот сад рассказывала: «Какой там носорог! И&#160;какая под&#160;ним грязь! А&#160;ты, Микки, не&#160;хочешь, умываться… Стыдно!» И&#160;все неправда.
+</p><p>Носорога нет. Или&#160;подох со скуки, или&#160;убежал в&#160;город и&#160;скрывается в&#160;метро, пока его не&#160;раздавят…
+</p><p>Но&#160;зато видел верблюда. Он&#160;похож на&#160;нашу консьержку, только губа больше и&#160;со всех сторон шерсть. Мало ему горба на&#160;спине, так у&#160;него даже колени горбатые! Питается колючками и, кажется, уксусом. Я&#160;бы&#160;ему граммофонных иголок дал! Он, негодяй, когда Зина дала ему булочку, фыркнул, булку слопал и&#160;плюнул ей на&#160;бант! Был&#160;бы&#160;ты на&#160;свободе, я&#160;бы тебе показал…
+</p><p>Белая медведица очень миленькая. Сидит в&#160;ре-де-шоссе в&#160;каменной ванне и&#160;вздыхает. Свиньи какие! Хотя&#160;бы&#160;ее на&#160;лед посадили или&#160;на мороженое, ведь ей жарко!
+</p><p>Маленький мальчик бросил ей бисквит. Она вылезла, отряхнулась, вежливо приложила лапку ко&#160;лбу и&#160;съела. Будет она сыта, как&#160;же! И&#160;мальчик второй бисквит ей на&#160;мелкие кусочки накрошил: боялся, видно, чтобы она не&#160;подавилась. Воробьи все и&#160;склевали. Ну за&#160;что — за&#160;что ее держат в&#160;тюрьме? У&#160;Зины есть старый плюшевый Мишкa. Непременно завтра притащу и&#160;брошу медведице: пусть будет ей вместо сына…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Обезьян совсем, совсем не&#160;жалко! Они&#160;страшные морды, и&#160;я их вовсе не&#160;трогал. Подошел и&#160;только немножко отвернулся вбок: ужасно скверно они&#160;пахнут… Кислой резинкой, тухлой килькой и&#160;еще каким-то&#160;маринованным поросячьим навозом.
+</p><p>Одна посмотрела на&#160;меня и&#160;говорит другой: «Смотри, какой собачий урод…»
+</p><p>Я? Гав, идиотка! Я… урод?! А&#160;ты-то&#160;что&#160;же?..
+</p><p>Побегу в&#160;Зинин шкафчик, понюхаю валерьяновую пробку. Как&#160;у&#160;меня колотится сердце!..
+</p><p>Тигр — противный. Большая кошка и&#160;больше ничего. Воображаю, если его пустить в&#160;молочную. Целую ванну сливок выпьет, не&#160;меньше. А&#160;потом съест молочницу и&#160;пойдет в&#160;Булонский лес отдыхать.
+</p><p>Лев — славненький… Один совсем старичок. Под&#160;кожей складки, лысый и&#160;даже хвостом не&#160;дрыгает. Зина читала как-то, что&#160;лев очень любит, если к&#160;нему в&#160;клетку посадить собачку. Пять разорвет, а&#160;с шестой подружится. Я&#160;думаю, что&#160;лучше быть… седьмой — и&#160;гулять на&#160;свободе.
+</p><p>Есть еще какие-то&#160;зубры. Мохнатый, рогатый, голова копной. Зачем такие водятся? Ни&#160;играть с&#160;ним, ни&#160;носить его на&#160;руках нельзя… Вообще на&#160;свете много лишнего.
+</p><p>Дикобраз, например. Ну куда он&#160;годится? Камин им чистить, что&#160;ли? Или&#160;кенгуру… На&#160;животе у&#160;нее портмоне, а&#160;в портмоне кенгуренок. А&#160;шкура у&#160;нее, кажется, застегивается на&#160;спине, как&#160;Зинин лифчик. Ерунда!
+</p><p>Слава Богу, что&#160;я фокс! Собак в&#160;клетки не&#160;сажают. Хотя&#160;бы&#160;некоторых следовало: бульдогов и&#160;разных других догов. Очень несимпатичные собаки! И&#160;почти дикие. У&#160;нас напротив живет бульдог Цезарь, так он&#160;непременно норовит перед&#160;нашей дверью сделать пакость. Надо будет ему отомстить. Как?.. Очень просто. У&#160;них ведь тоже есть дверь…
+</p><p>Людей в&#160;клетках не&#160;видал. А&#160;уж нашего садовника не&#160;мешало&#160;бы&#160;посадить! С&#160;кухаркой — вместе. Написать: «Собачьи враги». И&#160;давать им в&#160;день по&#160;кочану капусты и&#160;по две морковки — больше ни-ни. Почему они&#160;меня не&#160;кормили? Почему сами крали и&#160;яйца, и&#160;сливки, и&#160;коньяк, а&#160;меня за&#160;каждую несчастную косточку ногой шпыняли?
+</p><p>Видел змей. Одна, большая и&#160;длинная, как&#160;пожарная кишка, посмотрела на&#160;меня и&#160;прошипела: «Этого, пожалуй, не&#160;проглотишь!» Скотина… Так тебе и&#160;позволили живых фоксов глотать!
+</p><p>У&#160;слона два хвоста — спереди и&#160;сзади, и&#160;рога во&#160;рту… И&#160;пусть меня сто раз уверяют, что&#160;это «хобот» и «клыки», я&#160;говорю: хвост и&#160;рога. Зина решила, что&#160;если посмотреть на&#160;мышь в&#160;телескоп, то&#160;получится слон. А&#160;что&#160;такое телескоп, пес его знает!
+</p><p>Да… Птицы, оказывается, бывают ростом с&#160;буфет. Страусы!.. И&#160;на&#160;хвосте у&#160;них такие&#160;же перья, как&#160;в альбоме у&#160;Зининой бабушки на&#160;шляпе. Перьев этих теперь больше не&#160;носят, молока страусы не&#160;дают, значит, надо их просто зажарить, начинить каштанами и&#160;съесть! Ты&#160;бы, Микки, хотел страусовую лапку погрызть? Что&#160;ж, я&#160;любопытный…
+</p><p>Поздно. Надо идти спать. А&#160;в&#160;голове карусель: обезьяньи зады, верблюжьи горбы, слоновые перья и&#160;страусовые хоботы…
+</p><p>Пойду еще понюхаю валерьяновую пробочку. Сердце так и&#160;стучит… Как&#160;мотоциклет…
+</p><p>Тошнит! Ик… Где кухаркина умывательная чашка?!
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>Мокс-Фикки</i></div>
+<div class="mw-heading mw-heading3"><h3 id="КАК_Я_ЗАБЛУДИЛСЯ"><span id=".D0.9A.D0.90.D0.9A_.D0.AF_.D0.97.D0.90.D0.91.D0.9B.D0.A3.D0.94.D0.98.D0.9B.D0.A1.D0.AF"></span>КАК Я&#160;ЗАБЛУДИЛСЯ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;section=10" title="Редактировать раздел «КАК Я ЗАБЛУДИЛСЯ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>КАРАНДАШ дрожит в&#160;моих зубах… Ах, что&#160;случилось! В&#160;кинематографе это называется «трагедия», а&#160;по-моему, еще хуже. Мы&#160;вернулись из&#160;Парижа на&#160;пляж, и&#160;я немножко одурел. Носился мимо всех кабинок, прыгал через&#160;отдыхающих дам, обнюхивал знакомых детей — душечки! — и&#160;радостно лаял. К&#160;черту Зоологический сад, да&#160;здравствует собачья свобода!
+</p><p>И&#160;вот… допрыгался. Повернул к&#160;парку, нырнул в&#160;какой-то&#160;зеленый переулок, попал в&#160;чужой огород — растерзал старую туфлю, — оттуда в&#160;поле, оттуда на&#160;шоссе — и&#160;все погибло! Я&#160;заблудился… Сел на&#160;камень, задрожал и&#160;потерял «присутствие духа». До&#160;сих пор я&#160;не знал, что&#160;такое это «присутствие»…
+</p><p>Обнюхал шоссе: чужие подметки, пыль, резина и&#160;автомобильное масло… где моя вилла? Домики вдруг стали все одинаковые, дети у&#160;калиток, словно мыши, сделались похожи друг на&#160;друга. Вылетел к&#160;морю — другое море! И&#160;небо не&#160;то, и&#160;берег пустой и&#160;шершавый… Старички и&#160;дети обдирали со скалы устриц, никто на&#160;меня и&#160;не взглянул. Ну конечно, идиотские устрицы интереснее бездомного фокса! Песок летит в&#160;глаза. Тростник лопочет какой-то&#160;вздор. Ему, дураку, хорошо — прирос к&#160;месту, не&#160;заблудится… Слезы горохом покатились по&#160;морде. И&#160;ужаснее всего: я&#160;голый! Ошейник остался дома, а&#160;на ошейнике мой адрес. Любая девчонка (уж я&#160;бы устроил!) прочла&#160;бы&#160;его и&#160;отвела меня домой. Ух! Если&#160;бы&#160;не отлив, я&#160;бы, пожалуй, утопился… Примечание: и&#160;был&#160;бы&#160;большой дурак, потому что&#160;я все-таки отыскался.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Перед&#160;желтым забором у&#160;палисадничка прислонился к&#160;телеграфному столбу и&#160;опустил голову. Я&#160;видел на&#160;картинке в&#160;такой позе заблудившуюся собачку, и&#160;поза эта мне очень понравилась.
+</p><p>Что&#160;ж, я&#160;не ошибся. В&#160;калитке показалось розовое пятно. Вышла девочка (они&#160;всегда добрее мальчиков) и&#160;присела передо мной на&#160;дорожке.
+</p><p>— Что&#160;с&#160;тобой, собачка?
+</p><p>Я&#160;всхлипнул и&#160;поднял правую лапку. Понятно и&#160;без слов.
+</p><p>— Заблудилась? Хочешь ко&#160;мне? Может быть, тебя еще и&#160;найдут… Мама у&#160;меня добрая, а&#160;с папой справимся.
+</p><p>Что&#160;делать? Ночевать в&#160;лесу… Разве я&#160;дикий верблюд? В&#160;животе пусто. Я&#160;пошел за&#160;девочкой и&#160;благодарно лизнул ее в&#160;коленку. Если она когда-нибудь заблудится, непременно отведу ее домой…
+</p><p>— Мама! — запищала она. — Мамочка! Я&#160;привела Фифи, она заблудилась. Можно ее пока оставить у&#160;нас?
+</p><p>О! Почему «Фифи»?! Я&#160;Микки, Микки! Но&#160;я&#160;у которого такие прекрасные мысли, не&#160;могу ведь и&#160;полслова сказать на&#160;их человеческом языке.. Пусть. Кто сам себе яму копает, тот в&#160;нее и&#160;попадает…
+</p><p>Мама надела пенсне (будто и&#160;без пенсне не&#160;видно, что&#160;я заблудился!) и&#160;улыбнулась:
+</p><p>— Какая хорошенькая! Дай ей, дружок, молока с&#160;булкой. У&#160;нее очень порядочный вид… А&#160;там посмотрим.
+</p><p>«У&#160;нее»… У&#160;него, а&#160;не у&#160;нее! Я&#160;же ведь мальчик. Но&#160;ужасно хотелось есть, надо было покориться.
+</p><p>Ел я&#160;не торопясь, будто одолжение им делал. Вы угощаете? Спасибо, я&#160;съем. Но, пожалуйста, не&#160;подумайте, что&#160;я какой-нибудь голодный бродячий пес.
+</p><p>Потом пришел папа. Почему эти папы всюду суют свой нос, не&#160;знаю…
+</p><p>— Что&#160;это за&#160;собака? Что&#160;у&#160;тебя, Лили, за&#160;манера тащить всех зверей к&#160;нам на&#160;виллу? Может быть, она чахоточная… Пойди, пойди прочь отсюда! Ну!
+</p><p>Я? Чахоточная?
+</p><p>Девочка расхныкалась. Я&#160;с&#160;достоинством сделал шаг к&#160;калитке. Но&#160;мама строго посмотрела на&#160;папу. Он&#160;был дрессированный: фукнул, пожал плечами и&#160;пошел на&#160;веранду читать свою газету. Съел?
+</p><p>А&#160;я&#160;встал перед&#160;мамой на&#160;задние лапки, сделал три па и&#160;перепрыгнул через&#160;скамеечку. Гоп! Вперед, тур вокруг комнаты и&#160;назад…
+</p><p>— Мамочка, какой он&#160;умница!
+</p><p>Еще&#160;бы. Если&#160;бы&#160;я был человеком, давно&#160;бы&#160;уже профессором был.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Новый папа делает вид, что&#160;меня не&#160;замечает. Я&#160;его — тоже… Во&#160;сне видел Зину и&#160;залаял от&#160;радости: она кормила меня с&#160;ложечки гоголь-моголем и&#160;говорила: «Ты мое сокровище… если ты еще раз заблудишься, я&#160;никогда не&#160;выйду замуж».
+</p><p>Лили проснулась — в&#160;окне белел рассвет — и&#160;свесила голову с&#160;кроватки:
+</p><p>— Фифи! Ты чего?
+</p><p>Ничего. Страдаю. Кошке все равно: сегодня Зина, завтра Лили. А&#160;я&#160;честная, привязчивая собака…
+</p><p>Второй день без&#160;Зины. К&#160;новой девочке пришел в&#160;гости толстый мальчик-кузен. У&#160;собак, слава Богу, кузенов нет… Садился на&#160;меня верхом, чуть не&#160;раздавил. Потом запряг меня в&#160;автомобиль — а&#160;я уперся! Собаку? В&#160;автомобиль?! Тыкал моими лапами в&#160;пианино. Я&#160;все снес и&#160;из вежливости даже не&#160;укусил его…
+</p><p>Лилина мама меня оценила, и&#160;когда девочка опрокинула тарелку с&#160;супом, показала на&#160;меня:
+</p><p>— Бери пример с&#160;Фифи! Видишь, как&#160;она осторожно ест…
+</p><p>Опять Фифи! Когда что-нибудь не&#160;нравится, говорят: «фи!» Фи-фи, значит, когда совсем не&#160;нравится? Придумают&#160;же такое цыплячье имя… Я&#160;нашел под&#160;шкапом кубики с&#160;буквами и&#160;сложил: «Микки». Потянул девочку за&#160;юбку: читай! Кажется, ясно. А&#160;она ничего не&#160;поняла и&#160;кричит:
+</p><p>— Мама! Фифи умеет показывать фокусы!
+</p><p>— Хорошо. Дай ему шоколаду.
+</p><p>Ах, когда&#160;же, когда&#160;же меня найдут? Побежал даже в&#160;мэрию. Быть может, Зина заявила туда что&#160;я потерялся. Ничего подобного. На&#160;пороге лежала лохматая дворняжка и&#160;зарычала:
+</p><p>— Р-рав! Ты куда, бродяга, суешься?
+</p><p>Я?! Бродяга?! Мужик ты несчастный!..
+</p><p>Счастье твое, что&#160;я так воспитан, что&#160;с дворнягами в&#160;драку не&#160;лезу…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>«Гора с&#160;плеч свалилась»… Куда она свалилась, не&#160;знаю, но, словом… я&#160;нашелся!
+</p><p>Лили вышла со мной на&#160;пляж. И&#160;вдруг вдали — лиловое с&#160;белым платьице, полосатый мяч и&#160;светлые кудряшки. Зина!!
+</p><p>Как&#160;мы&#160;целовались, как&#160;мы визжали, как&#160;мы плакали!
+</p><p>Лили тихонько подошла и&#160;спросила:
+</p><p>— Это ваша Фифи?
+</p><p>— Да! Только это не&#160;Фифи, а&#160;Микки…
+</p><p>— Ах, Микки! Извините, я&#160;не знала. Позвольте вам ее передать. Она заблудилась, и&#160;я ее приютила.
+</p><p>А&#160;у&#160;самой в&#160;глазах «трагедия».
+</p><p>Но&#160;Зина ее утешила. Поблагодарила «очень-очень-очень» и&#160;обещала приходить со мной в&#160;гости. Они&#160;подружатся, уж я&#160;это по&#160;глазам заметил.
+</p><p>Я, разумеется, послужил перед&#160;Лили и&#160;передние лапки накрест сложил: Мерси! Очень-очень-очень…
+</p><p>И&#160;пошел, сконфуженный, за&#160;Зиной, ни&#160;на шаг не&#160;отходя от&#160;ее милых смуглых ножек.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>Микки</i></div>
+<div class="mw-heading mw-heading3"><h3 id="В_ЦИРКЕ"><span id=".D0.92_.D0.A6.D0.98.D0.A0.D0.9A.D0.95"></span>В&#160;ЦИРКЕ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;section=11" title="Редактировать раздел «В ЦИРКЕ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>У&#160;нашего вокзала появились длинные дома на&#160;колесах. Не то&#160;фургоны, не&#160;то вагоны. Красные, с&#160;зелеными ставенками, над&#160;крышей труба, из&#160;трубы дым. На&#160;откидной ступеньке одного дома сидел карлик с&#160;огромной головой и&#160;красными глазами и&#160;мрачно курил трубку. А&#160;в&#160;глубине двора тоже вагоны-дома, но&#160;с решетками, и&#160;пахло от&#160;них густо-прегусто зоологическим садом.
+</p><p>На&#160;афишах чудеса… Три льва прыгают через&#160;укротительницу, а&#160;потом играют с&#160;ней в&#160;жмурки. Морж жонглирует горящей лампой и&#160;бильярдными шарами. Морж — такой неповоротливый дурак… кто&#160;бы&#160;подумал! Знаменитый пудель Флакс решает задачи на&#160;сложение и&#160;вычитание… Важность какая… Я&#160;и&#160;делить и&#160;умножать умею… Однако в&#160;знаменитости не&#160;лезу. Мисс Каравелла исполнит на&#160;неоседланном жеребце джигу — матросский танец. Негр Буль-Пуль… Стоп! Не надо забегать вперед, Микки, а&#160;то совсем спутаешься — что&#160;это за&#160;собачья привычка такая!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Зинин папа взял нам ложу: мне и&#160;Зине. Ложа — это такая будка, вроде собачьей, но&#160;без крыши. Обита красным вонючим коленкором. Стулья складные и&#160;жесткие, потому что&#160;цирк походный.
+</p><p>Оркестр ужасный! Я&#160;вообще музыки не&#160;выношу, особенно граммофона. Но&#160;когда один скелет плюет в&#160;флейту, а&#160;другой, толстяк, стоймя поставил огромную скрипку и&#160;ерзает по&#160;ней какой-то&#160;линейкой, а&#160;третий лупит палками по&#160;барабану, локтями о&#160;медные линейки и&#160;ногами в&#160;большой пузатый бубен, а&#160;четвертая, лиловая курица, разъезжает взад и&#160;вперед по&#160;пианино и&#160;подпрыгивает… О! «Слуга покорный» — как&#160;говорит Зинин холостяк дядя, когда ему предлагают жениться.
+</p><p>Клоуны — просто раскрашенные идиоты. Я&#160;думаю, что&#160;они напрасно притворяются, будто они&#160;нарочно идиоты, наверно, такие и&#160;есть. Разве станет умный человек подставлять морду под&#160;пощечину, кататься по&#160;грязным опилкам и&#160;мешать служителям убирать ковер? Совсем не&#160;смешно. Одно мне понравилось: у&#160;того клоуна, у&#160;которого сзади было нарисовано на&#160;широких штанах солнце, чуб на&#160;голове вставал и&#160;опускался… Еще ухо, я&#160;понимаю, но&#160;чуб! Очень интересный номер!
+</p><p>Жеребец-толстяк, а&#160;что он&#160;не оседлан, совсем не&#160;важно. У&#160;него такая широкая спина, даже с&#160;выемкой, что&#160;пляши на&#160;ней, как&#160;на хозяйской постели, сколько хочешь. Прыгал он&#160;лениво. Словно вальсирующая корова… А&#160;мисс Каравелла все косилась трусливо на&#160;барьер и&#160;делала вид, что&#160;она первая наездница в&#160;мире. Костюм славненький — вверху ничего, а&#160;посредине зеленый и&#160;желтый бисер. И&#160;зачем она так долго ездила? Жеребец под&#160;конец так вспотел, что&#160;я расчихался. Неинтересно.
+</p><p>Потом поставили круглую решетку, подкатили к&#160;дверям клетку, и&#160;вышли львы. Вышли… и&#160;зевают. Хорошие дикие звери! Зина немножко испугалась (девчонка!), но&#160;ведь я&#160;сидел рядом. Чего&#160;же бояться? Львы долго не&#160;хотели через&#160;укротительницу прыгать: уж она их упрашивала, и&#160;под шейкой щекотала и&#160;на ухо что-то&#160;шептала, и&#160;бичом под&#160;брюхо толкала. Согласились — и&#160;перепрыгнули. А&#160;потом завязала им глаза белыми лентами, взяла в&#160;руки колокольчик и&#160;стала играть с&#160;ними в&#160;жмурки. Один лев сделал три шага и&#160;лег. Другой понюхал и&#160;пошел за&#160;ней… Обман! Я&#160;сам видел: у&#160;нее в&#160;руке был маленький Кусочек мяса… Неинтересно!
+</p><p>Выходило еще голландское семейство эквилибристов. Папа катался на&#160;переднем колесе велосипеда (отдельно!), мама на&#160;другом колесе (тоже отдельно!), сын скакал верхом на&#160;большом мяче, а&#160;дочка каталась на&#160;широком обруче задом наперед… Вот это здорово!
+</p><p>Потом летали тарелки, ножи, лампы, зонтики, мальчики и&#160;девочки. Ух! Я&#160;даже залаял от&#160;радости. А&#160;под&#160;конец все семейство устроило пирамиду. Внизу папа и&#160;мама, на&#160;плечах две дочки, у&#160;них на&#160;плечах мальчик, у&#160;него на&#160;плечах собачка, у&#160;собачки на&#160;плечах… котенок, а&#160;у котенка на&#160;плечах… воробей! Трах — и&#160;все рассыпалось, закувыркалось по&#160;ковру и&#160;убежало за&#160;занавеску… Браво! Бис! Гав-гав-гав!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>В&#160;антракте было еще веселей. Антракт — это когда одно кончилось, а&#160;другое еще не&#160;началось. И&#160;вот взрослые с&#160;детьми постарше пошли за&#160;занавеску смотреть лошадей и&#160;прочих млекопитающих, а&#160;самые крошечные дети вылезли из&#160;всех лож и&#160;углов на&#160;арену и&#160;устроили свой собственный цирк.
+</p><p>Девочка с&#160;зеленым бантом изображала дрессированную лошадь и&#160;на четвереньках гарцевала по&#160;барьеру: голова набок, а&#160;сама все правой ножкой брыкала. Мальчишки, конечно, были львами и, пожалуй, свирепее настоящих — рычали, плевались, кусались и&#160;бросали друг в&#160;дружку опилками. Двое даже подрались: один другого шлепнул — шлепают&#160;же клоунов, — а&#160;тот ему сдачи… И&#160;оба заревели, совсем уж не&#160;по-клоунски… А&#160;я&#160;носился по&#160;всей арене и&#160;хватал их всех (шутя, конечно!) за&#160;коленки.
+</p><p>Вышел карлик в&#160;сиреневом сюртучке с&#160;медными пуговицами и&#160;зазвонил в&#160;колокольчик. Дзинь-дзинь! Долой с&#160;арены — представление продолжается! Один из «львов», совсем еще маленький мальчик, ни&#160;за что&#160;не хотел уходить. И&#160;пришла его мама из&#160;ложи, взяла льва на&#160;руки, шлепнула и&#160;унесла на&#160;место. Вот тебе и&#160;лев!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Морж — молодец. Вернусь на&#160;нашу виллу и&#160;непременно попробую жонглировать горящей лампой. У&#160;меня, правда, не&#160;такой широкий нос… Ну что&#160;ж, возьму маленькую лампочку…
+</p><p>Я&#160;побежал за&#160;занавеску: оказывается, у&#160;моржа в&#160;загородке есть цинковая ванна, а&#160;после представления ему дают живую рыбу, бутерброд с&#160;рыбьим жиром и&#160;рюмку водки. Здорово!
+</p><p>Да, что&#160;я еще заметил! Под&#160;края циркового шатра подлезают бесплатные мальчишки и&#160;смотрят на&#160;представление… А&#160;карлик бегает кругом и&#160;хлопает их прутом по&#160;пяткам.
+</p><p>Негр Буль-Пуль вроде сумасшедшего. Играл на&#160;метле «марш пьяных крокодилов», аккомпанировал себе на&#160;собственном животе, а&#160;ногами выделывал такие штуки, точно у&#160;него было четыре пары лап… И&#160;пахло от&#160;него корицей и&#160;жженой пробкой. Фи!
+</p><p>Потом вышел «факир». Факир — это человек который сам себя режет, а&#160;ему даже приятно, и&#160;кровь не&#160;идет. Он&#160;себя, должно быть, замораживает перед&#160;представлением. Проткнул себе губы вязальной спицей, под&#160;мышку вбил гвоздь… Я&#160;даже отвернулся. Нервы не&#160;выдержали… А&#160;самое ужасное: он&#160;взял у&#160;толстого солдата из&#160;публики никелевые часы, проглотил их, только кончик цепочки изо рта болтался, — и&#160;попросил публику послушать, как&#160;у него в&#160;груди часы тикают. Ужас! Кожа по&#160;морозу подирается!
+</p><p>Кажется, все. На&#160;закуску вылетела на&#160;арену крохотная мохнатая лошадка с&#160;красной метелкой над&#160;головой и&#160;с колокольчиками. Я&#160;и&#160;не знал, что&#160;есть такая порода лошадиных болонок! Она так чудесно прыгала сквозь обруч, становилась на&#160;задние лапки и&#160;брыкалась, что&#160;Зина пришла в&#160;восторг. Я&#160;тоже.
+</p><p>Удивляюсь, почему Зинин папа не&#160;купит ей такую лошадку… Запрягли б мы&#160;ее в&#160;шарабанчик и&#160;катались по&#160;пляжу. Это тебе не&#160;на осле черепашьим шагом топтаться!.. И&#160;все&#160;бы&#160;очень удивлялись, и&#160;я&#160;бы&#160;получал много сахару…
+</p><p>«Кто едет?» — «Микки с&#160;Зиной!»
+</p><p>«Чья лошадка?» — «Миккина с&#160;Зиной!» Чудесно!
+</p><p>Устал. Больше не&#160;могу… Вот сейчас только подпишусь и&#160;побегу на&#160;пляж играть в&#160;цирк. Бум-бум!
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>Знаменитый укротитель догов и бульдогов</i>,<br />
+<p><i>эквилибрист и наездник</i><br />
+</p>
+<i>фокс Микки</i></div>
+<div class="mw-heading mw-heading3"><h3 id="ПРОКЛЯТЫЙ_ПАРОХОД"><span id=".D0.9F.D0.A0.D0.9E.D0.9A.D0.9B.D0.AF.D0.A2.D0.AB.D0.99_.D0.9F.D0.90.D0.A0.D0.9E.D0.A5.D0.9E.D0.94"></span>ПРОКЛЯТЫЙ ПАРОХОД</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;section=12" title="Редактировать раздел «ПРОКЛЯТЫЙ ПАРОХОД»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>У&#160;курортной пристани качался белый дом-пароход. Труба, балкончик для&#160;капитана, внизу — круглые окошечки, чтобы рыбы могли заглядывать в&#160;каюты. Спереди нос острый, сзади — тупой… Вода подшлепывает снизу, веревка скрипит, из&#160;пароходной печки — дым.
+</p><p>«Гу-гу!» Фу, как&#160;труба противно лает. Все затыкают уши, а&#160;я не&#160;могу… Зина берет меня на&#160;ручки — я&#160;дрожу, доски под&#160;нами тоже дрожат — и&#160;несет меня на&#160;эту противную штуку. Сзади — папа.
+</p><p>Прогулка! Мало им места на&#160;земле… Я&#160;хоть плавать умею, а&#160;они что&#160;будут делать в&#160;своих ботинках и&#160;чулках, если дом перевернется?
+</p><p>Люди шли — шли — шли. Чистые костюмчики, из&#160;карманов — платочки (зубных щеток в&#160;петличках, слава Богу, еще не&#160;носят!), и&#160;все толкаются, и&#160;все извиняются. Пардон! А&#160;ты не&#160;толкайся, и&#160;пардона твоего не&#160;нужно, а&#160;то все лапы отдавили…
+</p><p>Сели на&#160;скамейки по&#160;бокам, и&#160;вверху, и&#160;внизу, как&#160;воробьи на&#160;телеграфных проволоках… Небо качается, улица качается, и&#160;наш пол качается. И&#160;я&#160;совсем потерял центр тяжести, присел на&#160;пол и&#160;Распластался, как&#160;лягушка на&#160;льду.
+</p><p>Так мучить сухопутного фокса! За&#160;что?!
+</p><p>«Гу-гу-гу!» — поехали. Все машут лапами, посылают безвоздушные поцелуи. Подумаешь… На&#160;три часа уезжаем, и&#160;такое лицемерие. Подкрался к&#160;загородке посреди парохода и&#160;посмотрел вниз: железные лапы ходят, чмокают и&#160;переворачиваются, а&#160;главная нога, вся в&#160;масле, вокруг себя пляшет… Машина. «Чики-фуки, фуки-чики, пики-Микки, Микки-пики…» Да&#160;остановись ты хоть на&#160;минутку!!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Пока шли проливчиком — ничего. А&#160;потом заливчик, а&#160;потом… ух! Там море, тут море, небо с&#160;водой кругом сошлось, горизонты какие-то&#160;со всех сторон появились… Разве так можно? А&#160;земля где? За&#160;пароходом — белый кипяток, чайки вперегонку за&#160;нами летят и&#160;кричат, как&#160;голодные котята… Столько рыбы в&#160;море, целый день обедать можно, чего им еще надо?
+</p><p>Ну что&#160;ж, раз прогулка, нечего под&#160;скамейкой пресмыкаться. Пошел по&#160;ногам, ноги вежливо раздвигаются. Пардон, силь ву пле. (Извините, пожалуйста!) У&#160;матросов деревянные башмаки — корабликами, у&#160;пассажиров обыкновенные, белые и&#160;желтые туфли. Практично и&#160;симпатично. А&#160;у&#160;дам что&#160;ни ноги, то&#160;другой фасон: с&#160;бантиками, с&#160;пряжечками, с&#160;красной решеткой, с&#160;зелеными каблучками… Кто им эти фасоны выдумывает?..
+</p><p>Был у&#160;капитана на&#160;балкончике. Старенький, толстенький, борода, как&#160;у рождественского деда, глазки голубенькие. Расставил ноги и&#160;забавляется: повернет колесо с&#160;палками в&#160;одну сторону, потом в&#160;другую, потом в&#160;третью, а&#160;сам в&#160;трубку рычит: «Доброе утро! — полдоброго утра! четверть доброго утра!» — а&#160;может быть, я&#160;и напутал.
+</p><p>Нашел кухню. Пол себе качайся, а&#160;она свое дело делает. Варит. Повар сунул мне в&#160;нос омара… но&#160;я на&#160;него так посмотрел, что&#160;ему стыдно стало, и&#160;он высморкался (повар).
+</p><p>А&#160;пол все подымается, волны, как&#160;бульдоги, со всех сторон морды в&#160;пене, и&#160;все на&#160;меня кивают. Ай! Подымается, опускается. Смейся! Посади-ка краба на&#160;сушу, небось ему тоже будет несладко. Ветер свистит и&#160;выворачивает уши наизнанку. Ай!..
+</p><p>У&#160;нашего соседа слетела в&#160;воду шляпа. «Свежеет!» — успокоил его Зинин папа. Дуреет, а&#160;не свежеет… Ба-бах! Ба-ба-бах!
+</p><p>Я&#160;прижался к&#160;ногам незнакомой старухи, закрыл глаза и&#160;тихонько-тихонько визжал: море! Золотое мое море… Ну, перестань, ну, успокойся! Я&#160;никогда больше не&#160;поеду. Я&#160;маленький фокс, ничтожная собачка, за&#160;что ты на&#160;меня сердишься? Я&#160;никогда тебя не&#160;трогал, никогда на&#160;тебя не&#160;лаял (ух, как&#160;я врал!)…
+</p><p>Да, так оно тебе и&#160;перестанет. И&#160;вот я&#160;вышел из&#160;себя. Вспрыгнул на&#160;скамейку, повернулся к&#160;морю спиной и&#160;наступил лапой на&#160;спасательный круг. На&#160;всякий случай, если&#160;бы&#160;пришлось спасать Зину, ее папу и&#160;капитана. Повар пусть тонет… Злой фокс. Зачем я&#160;пишу такие гадости? Спас&#160;бы&#160;и повара, пес с&#160;ним…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Все? Нет, не&#160;все! Жадные сухопутные люди не&#160;знают уже, что&#160;и придумать. Мало им берега, леса, поля, шоссе. Летать им надо! Сели на&#160;бензинную этажерку… и&#160;полетели. Даже смотреть страшно. Но&#160;ведь летают отдельные сумасшедшие, у&#160;них, верно, нет родителей, и&#160;некому их остановить. А&#160;по&#160;морю катаются все: дети, мамы, папы, дедушки и&#160;даже грудные младенцы. Вот судьба («судьба» — это вроде большой, злой летучей мыши) их и&#160;наказывает…
+</p><p>Качались — и&#160;докачались. Собаки, говорят, себя нехорошо ведут. Ага! Собаки… Посмотрели&#160;бы&#160;вы, как&#160;ведут себя на&#160;пароходе люди в&#160;новых костюмчиках, с&#160;новыми платочками в&#160;карманах, когда начинается качка!
+</p><p>Я&#160;закрывал глаза, старался не&#160;дышать, нюхал лимонную корочку… Бррр!
+</p><p>Но&#160;Зина — молодец. И&#160;ее папа — молодец. И&#160;капитан — молодец… А&#160;я… лучше не&#160;спрашивайте.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Когда показалась земля, миленькая зеленая земля, твердая земля с&#160;домиками, собачками, мясными лавками и&#160;купальными будками, я&#160;завизжал так пронзительно, что&#160;перекричал даже пароходный гудок.
+</p><p>Клянусь и&#160;даю честное собачье слово, что&#160;лапа моя никогда на&#160;пароходе больше не&#160;будет! Почему меня всюду за&#160;собой таскают?.. Завтра Зинин папа затеет прогулку на&#160;облаках, так я&#160;с ними летать должен?! Пардон! Силь ву пле!
+</p><p>Ага! Так и&#160;знал. Этот невозможный папа подцепил рыбака и&#160;заказывает ему на&#160;завтрашнюю ночь барку с&#160;луной и&#160;рыбной ловлей…
+</p><p>На&#160;луну я&#160;и с&#160;берега посмотрю, а&#160;рыбу — кушайте сами…
+</p><p>Море сегодня, правда, тихое, — знаем мы&#160;эту тишину. Но&#160;в&#160;комнате еще тише. Пол не&#160;качается, потолок не&#160;опрокидывается, пена не&#160;лезет в&#160;окошко, и&#160;люди вокруг не&#160;зеленеют и&#160;не желтеют. Брр!..
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>Старый морской волк - фокс Микки</i></div>
+<div class="mw-heading mw-heading3"><h3 id="ВОЗВРАЩАЮСЬ_В_ПАРИЖ_И_СТАВЛЮ_БОЛЬШУЮ_ТОЧКУ"><span id=".D0.92.D0.9E.D0.97.D0.92.D0.A0.D0.90.D0.A9.D0.90.D0.AE.D0.A1.D0.AC_.D0.92_.D0.9F.D0.90.D0.A0.D0.98.D0.96_.D0.98_.D0.A1.D0.A2.D0.90.D0.92.D0.9B.D0.AE_.D0.91.D0.9E.D0.9B.D0.AC.D0.A8.D0.A3.D0.AE_.D0.A2.D0.9E.D0.A7.D0.9A.D0.A3"></span>ВОЗВРАЩАЮСЬ В&#160;ПАРИЖ И&#160;СТАВЛЮ БОЛЬШУЮ ТОЧКУ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;action=edit&amp;section=13" title="Редактировать раздел «ВОЗВРАЩАЮСЬ В ПАРИЖ И СТАВЛЮ БОЛЬШУЮ ТОЧКУ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>А&#160;веранде стояли чемоданы: свиной кожи, крокодиловой кожи и&#160;один маленький… брр!.. кажется собачьей. В&#160;палисаднике желтые листья плясали фокс-трот.
+</p><p>Я&#160;побежал к&#160;океану: прощай!.. «Бумс!» Фи, какой невежливый. С&#160;ним прощаются, а&#160;он водой в&#160;морду…
+</p><p>От&#160;полотняных купальных будок одни ребра остались. Небо — цвета грязной собаки. Астры висят головами вниз: скучают. Прощайте, до&#160;свидания! Хоть вы и&#160;без запаха, но&#160;я вас никогда, никогда не&#160;забуду…
+</p><p>Простился с&#160;лесом. Он, верно, ничего не&#160;понял: зашумел, залопотал… Что&#160;ему маленький, живой Микки?
+</p><p>Простился с&#160;лавочницей. Она тоже скучная. Сезон кончился, а&#160;тухлые кильки так и&#160;не распроданы.
+</p><p>Чемоданы всю дорогу толкались и&#160;мешали мне думать. Зина серьезная, как&#160;наказанный попугай. Выросла, загорела. В&#160;голове уроки, подруги и&#160;переводные картинки — на&#160;меня ни&#160;разу не&#160;взглянула…
+</p><p>И&#160;не&#160;надо! Что&#160;это за&#160;любовь такая по&#160;сезонам? Подружусь вот в&#160;Париже с&#160;каким-нибудь порядочным фоксом — и «никаких испанцев» (очень я&#160;люблю глупые человеческие слова повторять!)…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Приехали. Риехали. Иехали. Ехали. Хали. Дли. Ли. И… Это я&#160;так нарочно пишу, а&#160;то лапа совсем затекла.
+</p><p>Консьержкина собачонка посмотрела на&#160;меня с&#160;порога и&#160;отвернулась. Герцогиня какая! Ладно… Я&#160;тоже умею важничать. Вот повезут меня на&#160;собачью выставку, получу первую золотую медаль, а&#160;ты лопайся от&#160;зависти в&#160;консьержкиной берлоге.
+</p><p>Совсем отвык от&#160;мебели. Тут буфет, там полубуфет, кровати — шире парохода, хоть&#160;бы&#160;лестнички к&#160;ним приставили… Гадость какая! А&#160;они&#160;еще хотят внизу у&#160;мебельщика старую шифоньерку купить! Красного дерева. Пусть хоть лилового — грош ей цена.
+</p><p>Ах, как&#160;тесно в&#160;квартире! Горизонт перед&#160;носом, лес в&#160;трех вазонах, перескочить можно. И&#160;попрыгать не&#160;с кем. Зина в&#160;школе, тропики какие-то&#160;изучает. Кухарка сердитая и&#160;все губы мажет. Вот возьму и&#160;съем твою помаду, будешь с&#160;белыми губами ходить!
+</p><p>На&#160;балконе коричневые листики корчатся и&#160;шуршат. Воробей один к&#160;нам повадился прилетать. Я&#160;ему булочку накрошил, а&#160;он вокруг моего носа прыгает и&#160;клюет. Вчера от&#160;скуки мы&#160;с ним поболтали.
+</p><p>— Ты где живешь, птичка?
+</p><p>— А&#160;везде.
+</p><p>— Ну, как&#160;везде?.. Мама и&#160;папа у&#160;тебя есть?
+</p><p>— Мама в&#160;другом районе, а&#160;папа в&#160;Сен-Клу Улетел…
+</p><p>— Что&#160;же ты одна делаешь?
+</p><p>— Прыгаю. Над&#160;сквериком полетаю, на&#160;веточке посижу. Вот ты у&#160;меня завелся, крошками кормишь. Хорошо!
+</p><p>— Не холодно тебе? Ведь осень…
+</p><p>— Чудак, да&#160;я ж вся на&#160;пуху. Чивик! Воробьи на&#160;углу дерутся… Эй-эй, подождите! Я&#160;тоже подраться хочу…
+</p><p>Фурх — и&#160;улетел. Боже мой, Боже мой, почему у&#160;меня нет крыльев?..
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Дрожу, дрожу, а&#160;толку мало. Центральное отопление вчера зашипело, я&#160;только спинку погрел, а&#160;оно остановилось. Проба была. Через&#160;две недели только его заведут на&#160;всю зиму. А&#160;я&#160;что ж, две недели дрожать должен?!
+</p><p>Спать хочется ужасно. Днем сплю, вечером сплю, ночью… тоже сплю.
+</p><p>Зина говорит, что&#160;у меня сонная болезнь. Мама говорит, что&#160;у меня собачья старость. Музыкальная учительница говорит, что&#160;у меня чума… Гав! На&#160;одну собаку столько болезней?!
+</p><p>А&#160;у&#160;меня просто тоска. Очень мне нужна ваша осень и&#160;зима в&#160;квартире с&#160;шифоньерками!
+</p><p>И&#160;тетрадка моя кончается. И&#160;писать больше не&#160;о чем… У-у! Был&#160;бы&#160;я медведь, пошел&#160;бы&#160;в лес, лег в&#160;берлогу, вымазал лапу медом и&#160;сосал&#160;бы&#160;ее до&#160;самой весны…
+</p><p>Сегодня на&#160;балкон попал кусочек солнца: я&#160;на него улегся, а&#160;оно из-под&#160;меня ушло… Ах, Боже мой!
+</p><p>Пока не&#160;забыл, надо записать вчерашний сон: будто все мы, я&#160;и остальное семейство, едем на&#160;юг, в&#160;Канн. Бог с&#160;ним, с&#160;зимним Парижем! И&#160;будто Зина с&#160;мамой ушли в&#160;закусочный вагон завтракать… Папа заснул (он&#160;всегда в&#160;поезде спит), и&#160;так горько мне стало!.. Почему меня не&#160;взяли с&#160;собой? А&#160;из&#160;саквояжа будто кто-то&#160;противным кошачьим голосом мяукнул:
+</p><p>«Потому что&#160;собак в&#160;вагон-ресторан не&#160;пускают. Кошек всюду пускают, а&#160;собак, ах, оставьте!»
+</p><p>И&#160;я&#160;рассвирепел, в&#160;саквояж зубами вцепился и… проснулся.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Перелистывал свои странички. А&#160;вдруг&#160;бы&#160;их кто-нибудь напечатал?! С&#160;моим портретом и&#160;ав-то-гра-фом?!..
+</p><p>Попала&#160;бы&#160;моя книжка в&#160;лапки какой-нибудь девочке в&#160;зеленом платьице… Села&#160;бы&#160;она у&#160;камина с&#160;моим сочинением, читала&#160;бы, перелистывала&#160;бы&#160;и улыбалась. И&#160;в&#160;каждом доме, где только есть маленькие ножки с&#160;бантиками и&#160;без бантиков, знали&#160;бы&#160;мое имя: Микки!
+</p><p>Зина спит, часы тикают. Консьержка храпит — о! — я&#160;и через&#160;пол слышу…
+</p><p>До&#160;свидания, тетрадка, до&#160;свидания, лето, до&#160;свидания, дети — мальчики и&#160;девочки, папы и&#160;мамы дедушки и&#160;бабушки… Хотел заплакать, а&#160;вместо того чихнул.
+</p><p>Ставлю большую, большую точку. Гав! Опять меня блоха укусила!.. В&#160;такую трогательную минуту…
+</p><p>Кровопийца собачья!..
+</p>
+<center><i>Всеобщий детский друг</i>,</center>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>скромный и сонный фокс Микки</i></div>
+<p><i>1924 — 1927</i>
+</p>
+<hr /></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5c9fc7f974‐gzmn2
+Cached time: 20260215101955
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.112 seconds
+Real time usage: 0.183 seconds
+Preprocessor visited node count: 476/1000000
+Revision size: 111065/2097152 bytes
+Post‐expand include size: 11434/2097152 bytes
+Template argument size: 2058/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3443/5000000 bytes
+Lua time usage: 0.052/10.000 seconds
+Lua memory usage: 1781696/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  145.001      1 -total
+ 92.27%  133.787      1 Шаблон:Отексте
+  5.07%    7.350     11 Шаблон:Right
+  1.44%    2.091     28 Шаблон:***
+  1.35%    1.958      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1036765:|#|:idhash:canonical and timestamp 20260215101955 and revision id 5585799. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Дневник_фокса_Микки_(Черный)&amp;oldid=5585799">https://ru.wikisource.org/w/index.php?title=Дневник_фокса_Микки_(Черный)&amp;oldid=5585799</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Категория:Детская литература">Детская литература</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B0%D1%88%D0%B0_%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9" title="Категория:Саша Чёрный">Саша Чёрный</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1927_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1927 года">Литература 1927 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%A1%D0%B0%D1%88%D0%B0_%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9" title="Категория:Импорт/az.lib.ru/Саша Черный">Импорт/az.lib.ru/Саша Черный</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 30 июля 2025 года в 20:31.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA_%D1%84%D0%BE%D0%BA%D1%81%D0%B0_%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_(%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Дневник фокса Микки (Черный)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-jdbrn","wgBackendResponseTime":117,"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.183","ppvisitednodes":{"value":476,"limit":1000000},"revisionsize":{"value":111065,"limit":2097152},"postexpandincludesize":{"value":11434,"limit":2097152},"templateargumentsize":{"value":2058,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3443,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  145.001      1 -total"," 92.27%  133.787      1 Шаблон:Отексте","  5.07%    7.350     11 Шаблон:Right","  1.44%    2.091     28 Шаблон:***","  1.35%    1.958      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.052","limit":"10.000"},"limitreport-memusage":{"value":1781696,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Саша Черный\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"published\"] = \"1927\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/c/chernyj_s/text_0200.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Дневник фокса Микки\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-5c9fc7f974-gzmn2","timestamp":"20260215101955","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

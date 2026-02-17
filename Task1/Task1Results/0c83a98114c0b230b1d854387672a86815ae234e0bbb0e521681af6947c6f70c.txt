@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Незавершенное (Тургенев) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"77955d4f-9532-42c6-8955-0c062fefc925","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Незавершенное_(Тургенев)","wgTitle":"Незавершенное (Тургенев)","wgCurRevisionId":5595173,"wgRevisionId":5595173,"wgArticleId":1039975,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru","Импорт/az.lib.ru/Иван Сергеевич Тургенев","Проза","Сборники рассказов","Иван Сергеевич Тургенев","Литература 1847 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Незавершенное_(Тургенев)","wgRelevantArticleId":1039975,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5595173,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Незавершенное (Тургенев) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Незавершенное_Тургенев rootpage-Незавершенное_Тургенев skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-ПРИМЕЧАНИЯ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ПРИМЕЧАНИЯ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>ПРИМЕЧАНИЯ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ПРИМЕЧАНИЯ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Незавершенное (Тургенев)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5+%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)&amp;oldid=5595173" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29&amp;id=5595173&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259D%25D0%25B5%25D0%25B7%25D0%25B0%25D0%25B2%25D0%25B5%25D1%2580%25D1%2588%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25BE%25D0%25B5_%28%25D0%25A2%25D1%2583%25D1%2580%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25B5%25D0%25B2%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259D%25D0%25B5%25D0%25B7%25D0%25B0%25D0%25B2%25D0%25B5%25D1%2580%25D1%2588%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25BE%25D0%25B5_%28%25D0%25A2%25D1%2583%25D1%2580%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25B5%25D0%25B2%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Незавершенное</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2" title="Автор:Иван Сергеевич Тургенев">Иван Сергеевич Тургенев</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1847</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/t/turgenew_i_s/text_0081.shtml">az.lib.ru</a></span>  • Реформатор и&#160;русский немец<br />
+Русский немец</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2" title="Автор:Иван Сергеевич Тургенев">Иван Сергеевич Тургенев</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<center>Незавершенное</center>
+<p>И. С. Тургенев. Полное собрание сочинений и&#160;писем в&#160;тридцати томах
+</p><p>Сочинения в&#160;двенадцати томах
+</p><p><i>Издание второе, исправленное и&#160;дополненное</i>
+</p><p>М., «Наука», 1979
+</p><p>Сочинения. <i>Том третий.</i> Записки охотника 1847—1874
+</p>
+<center>Содержание</center>
+<p>Реформатор и&#160;русский немец
+</p><p>Русский немец
+</p>
+<center>РЕФОРМАТОР И&#160;РУССКИЙ НЕМЕЦ</center>
+<p>Я&#160;сидел в&#160;так называемой чистой комнате постоялого двора на&#160;большой Курской дороге и&#160;расспрашивал хозяина, толстого человека с&#160;волнистыми седыми волосами, глазами навыкате и&#160;отвислым животом, о&#160;числе охотников, посетивших в&#160;последнее время Телегинское болото, — как&#160;вдруг дверь растворилась и&#160;вошел в&#160;комнату проезжий, стройный и&#160;высокий господин в&#160;щегольском дорожном платье. Он&#160;снял шапку… «Евгений Александрыч! — вскричал я. — Какими судьбами?..» — «А ***!» — воскликнул он&#160;в свою очередь. Мы&#160;пожали друг другу руки… «Как&#160;я&#160;рад, как&#160;я рад», — пролепетали мы&#160;оба, не&#160;без напряженья…
+</p><p>— Куда вас бог несет? — спросил я&#160;наконец.
+</p><p>— В&#160;Курск… Я&#160;наследство получил.
+</p><p>— Тетушка ваша скончалась? — проговорил я&#160;с кротким участьем.
+</p><p>— Скончалась… — отвечал он&#160;с легким вздохом. — Хозяин! — прибавил он&#160;громким голосом. — Самовар — да&#160;поскорей! Да, — продолжал он, снова обращаясь ко&#160;мне. — Скончалась. Вот теперь еду наследство получать.
+</p><p>Вошел слуга Евгения Александрыча, рыжеватый молодой человек, одетый егерем.
+</p><p>— Hans! — промолвил мой знакомый. — Geben Sie mir eine Pfeife<sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Hans вышел.
+</p><p>— У&#160;вас камердинер из&#160;немцев? — спросил я.
+</p><p>— Нет… из&#160;чухонцев… — отвечал Евгений Александрыч с&#160;расстановкой. — Но&#160;по-немецки понимает.
+</p><p>— А&#160;по-русски говорит?
+</p><p>Евгений Александрыч помолчал немного.
+</p><p>— Да, говорит!
+</p><p>Hans вернулся, почтительно поднес чубук прямо к&#160;губам барина, положил на&#160;трубку четырехугольный клочок белой бумаги и&#160;приставил к&#160;бумажке свечку. Барин начал курить, принимаясь боком и&#160;кривя губами за&#160;янтарь, словно собака за&#160;ежа. Хозяин внес шипящий и&#160;кипящий самовар. Я&#160;сел подле Евгения Александровича и&#160;вступил с&#160;ним в&#160;разговор.
+</p><p>Я&#160;знавал Евгения Александровича Ладыгина в&#160;Петербурге. Он&#160;был высокого роста, видный мужчина с&#160;светлыми большими глазами, орлиным носом, решительным выраженьем лица. Все его знакомые и&#160;многие незнакомые отзывались о&#160;нем как&#160;о человеке «практическом». Он&#160;изъяснялся не&#160;красноречиво, но&#160;сильно; выслушивая чужие речи, от&#160;нетерпенья стискивал челюсти и&#160;пускал игру по&#160;щеке, выступал с&#160;уверенностью, ходил по&#160;улицам стремительно, не&#160;шевеля ни&#160;руками, ни&#160;головой и&#160;быстро поводя кругом глазами. Глядя на&#160;него, вероятно, не&#160;один прохожий невольно воскликнул: «Фу ты, боже мой! Куда идет этот человек?» А&#160;Евгений Александрыч просто шел обедать. Вставая из-за&#160;стола, он, бывало, застегивал свой сюртук доверху с&#160;такой холодной и&#160;сосредоточенной решимостью… как&#160;будто сейчас отправлялся на&#160;поединок и&#160;уже завещанье подписал. И&#160;между тем — хвастовства в&#160;нем и&#160;признака не&#160;замечалось; человек он&#160;был упрямый, настойчивый и&#160;односторонний, но&#160;не глупый и&#160;не злой, всем прямо глядел в&#160;глаза, любил справедливость — правда, поколотить притеснителя ему было&#160;бы&#160;гораздо приятнее, чём избавить притесненного, — но&#160;о вкусах спорить нельзя. Служил он&#160;в полку года четыре, а&#160;остальное время своей жизни страшно был занят — чем? — спросите вы… да&#160;ничем, разными пустяками, за&#160;которые принимался всегда с&#160;лихорадочною деятельностью и&#160;систематическим упорством. Это был тип русского педанта, заметьте, русского, не&#160;малоросского… Между тем и&#160;другим разница страшная, на&#160;которую тем более следует обратить внимание, что&#160;со времени Гоголя часто смешивают эти две родные, но&#160;противуположные народности.
+</p><p>— И&#160;надолго едете вы в&#160;деревню? — спросил я&#160;Ладыгина.
+</p><p>— Не знаю — может быть, надолго, — отвечал он&#160;мне с&#160;сосредоточенной энергией, равнодушно глянув в&#160;сторону, как&#160;человек сильного характера, который принял непреклонное решенье, но, впрочем, готов в&#160;нем дать отчет.
+</p><p>— У&#160;вас наверное множество планов в&#160;голове? — заметил я.
+</p><p>— Планов? Смотря по&#160;тому, что&#160;вы называете планами. Вы не&#160;думаете&#160;ли, — прибавил он&#160;с усмешкой, — что&#160;я принадлежу к&#160;числу молодых помещиков, которые, с&#160;трудом различая овес от&#160;гречихи, бредят английскими веялками, молотильными машинами, плодопеременным хозяйством, свеклосахарными заводами и&#160;кирпичными избами с&#160;садиками на&#160;улицу? Могу вас уверить: с&#160;этими господами у&#160;меня нет ничего общего. Я&#160;человек практический. Но&#160;у&#160;меня точно множество мыслей в&#160;голове… Не знаю, удастся&#160;ли&#160;мне исполнить все мои намеренья, — прибавил он&#160;с гордой скромностью, — во&#160;всяком случае попытаюсь.
+</p><p>— Вот видите&#160;ли, — продолжал он, с&#160;достоинством передавая чубук из&#160;правой руки в&#160;левую и&#160;благородно пустив дым сквозь усы, — пора нам, помещикам, за&#160;ум взяться. Пора вникнуть в&#160;быт наших крестьян и, поняв однажды их потребности, с&#160;твердостью повести их по&#160;новой дороге к&#160;избранной цели… — Он&#160;почтительно помолчал перед&#160;собственной фразой. — Вот вам моя основная мысль, — заговорил он&#160;снова. — Должна&#160;же быть у&#160;России вообще, а&#160;следовательно, и&#160;у русского крестьянского быта своя, самобытная, своеобразная, так сказать, будущность. Не правда&#160;ли? Должна? — В&#160;таком случае старайтесь угадать ее и&#160;так уж и&#160;действуйте в&#160;ее духе. Задача трудная, но&#160;даром нам ничего не&#160;дается. Я&#160;с&#160;охотой возьмусь за&#160;это дело… я&#160;свободен и&#160;сознаю в&#160;себе некоторую твердость характера. У&#160;меня нет никакой наперед принятой системы: я&#160;не славянофил и&#160;не поклонник Запада… Я, опять-таки скажу, я&#160;человек практический — и&#160;умею… умею заставлять!
+</p><p>— Всё это очень хорошо, — возразил я, — вы, если смею так выразиться, — вы хотите быть маленьким Петром Великим вашей деревни.
+</p><p>— Вы смеетесь надо мной, — с&#160;живостью подхватил Евгений Александрыч. — Впрочем, — прибавил он, помолчав немного, — в&#160;том, что&#160;вы сказали, есть доля истины.
+</p><p>— Желаю вам всевозможных успехов, — заметил я.
+</p><p>— Спасибо за&#160;желанье…
+</p><p>Слуга Евгения Александровича вошел в&#160;комнату.
+</p><p>— Sind die Pferde angespannt, Hans?<sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> — спросил мой знакомый.
+</p><p>— Ja… Sie sind…<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> готовы-с, — отвечал Hans.
+</p><p>Евгений Александрович поспешно допил чай, встал и&#160;надел шинель.
+</p><p>— Я&#160;не&#160;смею вас звать к&#160;себе, — промолвил он, — до&#160;моей деревни более ста верст… однако ж, если вздумается…
+</p><p>Я&#160;поблагодарил его… Мы&#160;простились. Он&#160;уехал. — В&#160;теченье целого года я&#160;ничего не&#160;слыхал об&#160;моем петербургском приятеле. Раз только, помнится, на&#160;обеде у&#160;предводителя один красноречивый помещик, отставной бранд-майор Шептунович, между двумя глотками мадеры упомянул при&#160;мне об&#160;Евгенье Александровиче как&#160;о дворянине мечтательном и&#160;увлеченных свойств. Большая часть гостей немедленно согласилась с&#160;бранд-майором, а&#160;один из&#160;них, толстый человек с&#160;лиловым лицом и&#160;необыкновенно широкими зубами, смутно напоминавший какую-то&#160;здоровую корнеплодную овощь, прибавил тут&#160;же от&#160;себя, что&#160;у него, Ладыгина, тут (указав на&#160;лоб) что-то&#160;не совсем того — и&#160;с сожаленьем покачал своей замечательной головой. Кроме этого случая, никто даже не&#160;произнес при&#160;мне имени Евгенья Александрыча. Но&#160;как-то&#160;раз, осенью, случилось мне, переезжая с&#160;болота на&#160;болото, далеко отбиться от&#160;дому… Страшная гроза застала меня на&#160;дороге. К&#160;счастью, невдалеке виднелось село. С&#160;трудом добрались мы&#160;до околицы. Кучер повернул к&#160;воротам крайней избы, кликнул хозяина… Хозяин, рослый мужик лет сорока, впустил нас. Изба его не&#160;отличалась опрятностью, но&#160;в ней было тепло и&#160;не дымно. В&#160;сенях баба с&#160;остервененьем крошила капусту.
+</p><p>Я&#160;уселся на&#160;лавке, спросил горшок молока, хлеба. Баба отправилась за&#160;молоком.
+</p><p>— Чьи вы? — спросил я&#160;мужика.
+</p><p>— Ладыгина, Евгения Александрыча.
+</p><p>— Ладыгина? Да&#160;разве здесь уже Курская пошла губернья?
+</p><p>— Курская, как&#160;же. От&#160;самого Худышкина Курская пошла.
+</p><p>Баба вошла с&#160;горшком, достала деревянную ложку, новую, с&#160;сильным запахом деревянного масла, проговорила: «Кушай, батюшка ты мой, на&#160;здоровье», — и&#160;вышла, стуча лаптями. Мужик хотел было отправиться вслед за&#160;ней, но&#160;я его остановил. Мы&#160;понемногу разговорились. Мужики большей частью не&#160;слишком охотно беседуют с&#160;господами, особенно, когда у&#160;них неладно; но&#160;я заметил, что&#160;иные крестьяне, когда им больно плохо приходится, необыкновенно спокойно и&#160;холодно высказывают всякому проезжему «барину» всё, что&#160;у них на&#160;сердце, словно речь идет о&#160;другом, — только плечом изредка поводят или&#160;потупятся вдруг… Я&#160;со второго слова моего хозяина догадался, что&#160;мужичкам Евгенья Александровича житье плохое…
+</p><p>— Так недовольны вы вашим барином? — спросил я.
+</p><p>— Недовольны, — решительно отвечал мужик.
+</p><p>— Что&#160;ж — он&#160;притесняет вас, что&#160;ли?
+</p><p>— Замотал вовсе, заездил как&#160;есть.
+</p><p>— Как&#160;же так?
+</p><p>— Да&#160;вот как. Господь его знает, что&#160;за барин такой! Такого барина и&#160;старики не&#160;запомнят. И&#160;ведь не&#160;то, чтобы разорял крестьян; с&#160;оброчных даже оброку сбавил. А&#160;плохо приходится вот как, не&#160;приведи бог. Приехал он&#160;к нам прошлой осенью, под&#160;самый Спас, ночью приехал. На&#160;другое утро — где, солнышко еще только что&#160;выглянуло, а&#160;уж он&#160;вскочил, оделся духом да&#160;и побежал по&#160;дворам. Ведь он&#160;такой у&#160;нас проворный; прыток больно; словно лихорадка его колотит. Вот и&#160;пошел он&#160;по дворам. «Хозяина, — говорит, — сюда со всей семьей!» А&#160;сам по&#160;самой середине избы стоит, не&#160;шевельнется и&#160;книжечку в&#160;руках держит, так и&#160;озирается, словно ястреб. Глаза-то&#160;у него такие славные, светлые. Вот и&#160;спрашивает у&#160;хозяина: «Как&#160;тебя зовут? Сколько тебе лет?» Ну, мужик, разумеется, отвечает, а&#160;он записывает. «А&#160;жену зовут как? Детей? Сколько лошадей? овец? свиней? поросят? кур, гусей? Телег? А&#160;плугов, борон? овса собрано? ржи? муки? — Квасу мне подай отведать! Хомуты мне покажи! А&#160;сапоги есть? Горшков сколько? мисок? ложек? Тулупов сколько, рубашек?» Ей-богу, и&#160;про рубашки спрашивал! И&#160;всё записывает, словно на&#160;допросе. — Чем, говорит, ты промышляешь? В&#160;город ездишь? Часто? А&#160;именно, сколько раз в&#160;месяц? А&#160;вино любишь пить? Шену бьешь? Детей бьешь тоже? К&#160;чему тебе сердце лежит?.. Да, ей-богу&#160;же, спрашивал, — прибавил мужику ответ на&#160;мою невольную улыбку… — И&#160;все дворы обошел как&#160;есть. Тита старосту совсем истомил, даже в&#160;ноги ему Тит повалился — говорит: «Батюшка, пощади, — уж коли чем перед&#160;тобою виноват, лучше высечь прикажи». На&#160;другой день опять до&#160;зари поднялся и&#160;всех как&#160;есть крестьян на&#160;сходку собрать приказал. Вот мы&#160;и пришли. К&#160;нему на&#160;двор. Он&#160;вышел к&#160;нам на&#160;крыльцо, поздоровался и&#160;начал говорить. Уж говорил он, говорил, говорил. Что&#160;за&#160;диво — не&#160;возьмем мы&#160;его в&#160;толк, а&#160;кажется, по-русски говорит. Всё, говорит, у&#160;вас не&#160;так, неладно, я, мол, говорит, вас иначе поведу, впрочем, я&#160;не хочу вас принуждать: — а&#160;вы, говорит, у&#160;меня… А&#160;тяглости все сполнять должны; как&#160;будете сполнять, хорошо; а&#160;не будете сполнять — я&#160;ни на&#160;что не&#160;погляжу. А&#160;что&#160;сполнять — бог его знает.
+</p><p>Ну, говорит, вы теперь поняли меня. Ступайте по&#160;дворам. А&#160;дело у&#160;меня с&#160;завтрашнего дня начнется. Вот мы&#160;и пошли. Пошли мы… Дошли до&#160;села. Поглядели друг на&#160;друга, поглядели друг на&#160;друга — да&#160;побрели по&#160;дворам.
+</p>
+<center>РУССКИЙ НЕМЕЦ<sup>1</sup></center>
+<center><sup>1</sup> Начало другой (ранней) редакции.</center>
+<p>Однажды я&#160;вслед за&#160;моей собакой вышел в&#160;гречишный клин, нисколько мне не&#160;принадлежащий. В&#160;любезном нашем отечестве всякий волен стрелять где хочет, на&#160;своей земле и&#160;на соседской. Кроме немногих старых и&#160;сварливых баб да&#160;усовершенствованных помещиков на&#160;английский лад, никто и&#160;не думает запрещать чужим охотиться в&#160;своих владеньях. Не успел я&#160;ступить несколько шагов, как&#160;услышал позади себя громкие крики. Мне никак в&#160;голову не&#160;могло прийти, что&#160;кричат-то&#160;собственно на&#160;меня, и&#160;я преспокойно продолжал со всею тщательностью добросовестного охотника прохаживаться взад и&#160;вперед по&#160;полю, пока наконец явственно не&#160;расслышал слов: «Да&#160;что&#160;же это вы, барин, гречиху-то&#160;топчете?.. Нельзя, не&#160;приказано». Я&#160;обернулся и&#160;увидал мужика в&#160;армяке, с&#160;необыкновенно живописной и&#160;волнистой бородой. Он&#160;шел прямо на&#160;меня и&#160;сильно размахивал руками. Я&#160;остановился. «Не след вам ходить по&#160;гречихе. А&#160;вот я, постойте, вас к&#160;бурмистру сведу, за&#160;это штраф положен и&#160;приказ на&#160;то есть», — говорил на&#160;ходу мужик, потряхивая головой. Наконец он&#160;подошел ко&#160;мне. Я&#160;извинился. Он&#160;поворчал. Но&#160;запрещение ход&lt;ить&gt; по&#160;греч&lt;ихе&gt; показалось мне до&#160;того странн&lt;ым&gt; у&#160;нас в&#160;благодатной России, да&#160;еще в&#160;степной губернии, что&#160;я не&#160;мог не&#160;спросить мужика: кто ему дал такой приказ? «Кто? — возразил с&#160;неудовольствием мужик. — Кто? Сам барин». — «А&#160;кто ваш барин?» Мужик помолчал и&#160;осунул кушак… «Макарат Иваныч Швохтель». — «Как?» — Мужик повторил имя своего барина. «А&#160;что, — прибавил он, — табачком не&#160;маракуете?» — «Нет, не&#160;маракую, а&#160;вот возьми на&#160;табак». Мужик поблагодарил, снял шапку и&#160;повеселел. «Так запрещено?» — спросил я&#160;его. — «Запрещено», — возразил он, улыбаясь, как&#160;человек, который хотя и&#160;исполняет приказ своего начальника, но&#160;сам, однако, чувствует, что&#160;приказ-то&#160;в сущности пустой. «Оно, конечно, — продолжал он, — гречиха не&#160;горох; что&#160;к ней приставлять сторожа-то — сырую-то&#160;ее кто&#160;же станет есть… Да&#160;у&#160;нас уж барин такой… На&#160;наперстке, прости господи, рожь молотит…»
+</p><p>На&#160;этой&#160;же неделе довелось мне познакомиться именно с&#160;этим барином. Г-н&#160;Леберехт Фохтлендер родился, по&#160;слухам, в&#160;славном немецком городке Гуцбахе, на 25&#160;году поступил на&#160;российскую службу, состоял в&#160;разных должностях 32&#160;года с&#160;половиной и&#160;вышел в&#160;отставку с&#160;чином надворного советника и&#160;орденом святой Анны. На&#160;сороковом году женился. Роста он&#160;был небольшого, худощав; носил коричневый фрак старого покроя, серые узенькие брюки, серебряные часы на&#160;голубом бисерном шнурке, высокий белый галстух и&#160;брыжжи до&#160;ушей. Он&#160;держался очень прямо, ходил чопорно, изредка поворачивая небольшую головку. Лицо у&#160;него было маленькое и&#160;гладенькое, глаза голубые, носик острый, бакенбарды полукруглые, лоб, покрытый тонкими морщинами, губки сжатые, — <i>&lt;Не закончено.</i>&gt;
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ПРИМЕЧАНИЯ"><span id=".D0.9F.D0.A0.D0.98.D0.9C.D0.95.D0.A7.D0.90.D0.9D.D0.98.D0.AF"></span>ПРИМЕЧАНИЯ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)&amp;action=edit&amp;section=1" title="Редактировать раздел «ПРИМЕЧАНИЯ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<center>РЕФОРМАТОР И&#160;РУССКИЙ НЕМЕЦ</center>
+<p>Источники текста
+</p><p><i>ЧА<sub>1</sub></i> — «Русский немец». Черновой автограф на&#160;листе почтовой бумаги с&#160;датой начатого письма: «Берлин, 13-го 1-го апреля 1847&#160;г.» Хранится в&#160;отделе рукописей <i>Bibl Nat</i>, Slave 86: описание см.: <i>Mazon</i>, p. 54; фотокопия — <i>ИРЛИ</i>, P. I. оп. 29, № 230.
+</p><p><i>ЧA<sub>2</sub></i> — «17. Реформатор и&#160;р&lt;усский&gt; н&lt;емец&gt;». Черновой автограф, на&#160;двух сторонах листа большого формата (368x234). Хранится в&#160;отделе рукописей <i>Bibl Nat</i>, Slave 86; описание см.: <i>Mazon</i>, p. 54; фотокопия — <i>ИРЛИ</i>, P. I, on. 29, № 230.
+</p><p><i>БА</i> — «XVII. Реформатор и&#160;русский немец». Беловой автограф от&#160;начала рассказа до&#160;слов: «Приехал он&#160;к нам ~ Спас» — на&#160;трех листках (пяти страницах) почтовой бумаги. Хранится в&#160;отделе рукописей <i>Bibl Nat</i>, Slave, 86; фотокопия — <i>ИРЛИ</i>, Р. 1. он. 29, № 230.
+</p><p>Впервые опубликовано А. Мазоном: <i>Лит Нас.:</i>, т.&#160;73, кн. I. с.&#160;26—33, с&#160;репродукциями на&#160;с.&#160;31 и 37.
+</p><p>В&#160;собрание сочинений впервые включено в&#160;издании: <i>Т, ПС С&#160;и&#160;Л, Сочинения</i>, т. XIII, с.&#160;307—314.
+</p><p>Печатается: «Реформатор и&#160;русский немец» — по <i>БА</i> (до&#160;слов: «Приехал он&#160;к нам», с.&#160;367)&#160;и&#160;по <i>ЧА<sub>2</sub></i> (далее до&#160;конца); «Русский немец» — по <i>ЧА<sub>1</sub>.</i>
+</p><p>Оба очерка представляют собой две редакции одного, не&#160;законченного Тургеневым рассказа, предназначавшегося для «Записок охотника». Замысел его возник из&#160;двух очерков — «Русский немец» (первоначальное заглавие — «Помещик из&#160;немцев») и «Реформатор». Название первого очерка впервые встречается в <i>Программе I</i> (наст, том, с.&#160;374), датируемой апрелем — началом мая 1847&#160;г.&#160;К&#160;атому&#160;же времени относится и&#160;сохранившийся черновой набросок очерка, о&#160;чем свидетельствует дата начатого на&#160;том&#160;же листке письма: «13-го/1-го апреля 1847&#160;г.» Работа над&#160;очерком продолжалась, по-видимому, до&#160;ноября-декабря 1847&#160;г., что&#160;подтверждается датировкой рассказа «Смерть» (см. наст, том, с.&#160;485): при&#160;работе над&#160;ним Тургенев использовал лист с&#160;незаконченным и&#160;отброшенным «Русским немцем». Здесь&#160;же, непосредственно за&#160;последней фразой, следуют рисунки, перечень журналов, не&#160;относящаяся к&#160;тексту немецкая фраза. Все эта свидетельствует о&#160;прекращении работы над&#160;очерком.
+</p><p>Второй замысел — «Реформатор» — возник одновременно с «Русским немцем». В <i>Программе I</i> он&#160;фигурирует, возможно, под&#160;заглавием «Помещик Иван Бессонный». Однако, кроме дальнейшего упоминания г. <i>Программах V, VI, VIII</i> (наст, том, с.&#160;377—381). никаких реальных свидетельств о&#160;том, что&#160;Тургенев вообще работал над&#160;очерком «Реформатор», нет. С&#160;конца 1847 до&#160;начала 1848&#160;г. он, по-видимому, не&#160;возвращался к&#160;замыслам, хотя оба они&#160;были названы в&#160;объявлении о&#160;подписке на «Современник» на 1848&#160;год (см.: <i>Моcк&#160;Вед</i>, 1847, № 154, 25 декабря). Только в&#160;мае-июне 1848&#160;г.&#160;Тургенев приступил к&#160;работе над&#160;рассказом «Русский немец и&#160;реформатор», объединившим в&#160;себе оба замысла <i>(Программа IX</i> — наст, том, с.&#160;381). В <i>ЧА<sub>2</sub></i> и&#160;в <i>БА</i> рассказ был назван «Реформатор и&#160;русский немец» и&#160;обещан читателям «Современника» на 1849&#160;год (см.: <i>Соер</i>, 1848, № 9-10, с.&#160;1 — 10 особой пагинации). Однако рассказ к&#160;сроку закончен не&#160;был, а&#160;ко времени отъезда Тургенева из&#160;Парижа в&#160;Россию в&#160;июне 1850&#160;г. работа над&#160;ним окончательно прекратилась.
+</p><p>Позднее, объясняя П. В. Анненкову причину прекращения работы, Тургенев писал в&#160;письме к&#160;нему от 25 октября (6 ноября) 1872&#160;г.: «Отрывков из ..Записок охотника» напечатано 22; всех их было приготовлено 26. Из&#160;ненапечатанных 4-х два были начаты: «Русский немец и&#160;реформатор» и «Землеед» &lt;…&gt;. Первые два оставлены, потому что&#160;я знал, что&#160;никакая тогдашняя ценсура их&#160;бы&#160;не пропустила". К&#160;оставленному замыслу Тургенев вернулся незадолго до&#160;этого письма, намереваясь закончить его «до&#160;зимы», как&#160;писал он 13 (25) августа 1872&#160;г. издателю газеты «Неделя» Е. И. Рагозину, которому и&#160;был обещан рассказ (объявление о&#160;предстоящей публикации «повести» Тургенева см.: Неделя, 1872. Л" 31—32, 15 ноября). Но&#160;это обещание осталось невыполненным: набело было переписано лишь начало рассказа, существовавшее почти в&#160;таком&#160;же виде уже в 1848&#160;году.
+</p><p>По&#160;сохранившимся фрагментам трудно судить о&#160;том, что&#160;представлял собою очерк «Реформатор» н какова могла быть форма использования очерка «Русский немец» в&#160;предполагавшемся контаминированном произведении. О&#160;проблематике «Реформатора» и&#160;причинах, побудивших Тургенева объединить его с&#160;рассказом «Русский немец», дает некоторое представление запись Н. А. Островской одной из&#160;ее бесед с&#160;писателем. «Зашел как-то&#160;разговор об&#160;одном господине, давно умершем (Зиновьеве), — пишет мемуаристка и&#160;далее передает рассказ Тургенева. — Он&#160;был человек не&#160;злой и&#160;порядочный,… только невыносимый: у&#160;него, бывало, всё — государственное дело, вечно он&#160;был озабочен. Я&#160;его об&#160;одном просил: „Сделайте милость, З., не&#160;застегивайте при&#160;мне сюртука!“ Так он&#160;важно пуговицы застегивал, что&#160;на нервы действовало. Я&#160;пробовал его изобразить в&#160;повести, которая должна была войти в&#160;состав „Записок охотника“. Представлено было два помещика. Один З., в&#160;своей деревне всё распоряжался, всё порядок водворял — мужиков обстроил по&#160;своему плану, заставлял их пить, есть, делать по&#160;своей программе; ночью вставал, обходил избы, будил народ, всё наблюдал. Другой был немец рассудительный, аккуратный, но — у&#160;обоих мужикам было плохо. Только З. вышел у&#160;меня до&#160;того поразительно похож на&#160;Николая Павловича, что&#160;нечего было и&#160;думать печатать, цензура ни&#160;за что&#160;бы не&#160;пропустила» <i>(Т сб (Пиксанов)</i>, с.&#160;83—84). Вероятно, именно так повесть и&#160;была задумана. И&#160;хотя между фрагментом рассказа «Русский немец и&#160;реформатор» и&#160;наброском «Русский немец» не&#160;обнаруживается никаких связей, тем не&#160;менее можно с&#160;достаточно" определенностью судить о&#160;составных частях объединенного замысла: оба помещика, нигде не&#160;фигурирующие во&#160;взаимном сопоставлении, достаточно ярко обрисованы каждый в&#160;отдельности и, несомненно, именно они&#160;должны были быть представлены в «повести». Рассудительный и&#160;аккуратный немец — это Леберехт Фохтлендер, горой очерка «Русский немец», а&#160;помещик, который «в&#160;своей деревне всё распоряжался, всё порядок водворял», узнается в&#160;Е. А. Ладыгине, герое фрагмента «Реформатор и&#160;русский немец»<sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>. В&#160;этом фрагменте Ладыгину уделено основное внимание. Образ Ладыгина входит в&#160;галерею тех помещиков, мнимых знатоков и&#160;реформаторов народной жизни, которых Тургенев изобразил в&#160;других рассказах цикла (таковы, например, Александр Владимирович Королев л Василий Николаевич Любозвонов из&#160;рассказа «Однодворец Овсяников», петербургский чиновник из&#160;рассказа «Два помещика»).
+</p><p><br />
+</p>
+<style data-mw-deduplicate="TemplateStyles:r4837660">.mw-parser-output .hr-custom{height:1px;width:40em;margin-left:auto;margin-right:auto;margin-top:5ex;margin-bottom:5ex}</style><hr class="hr-custom" style="width:8em;margin-left:0ex; margin-right:auto; margin-top: 2ex; margin-bottom: 2ex;" /><div class="references-small" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Ганс! Дайте мне трубку <i>(нем.).</i></span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Запряжены&#160;ли&#160;лошади, Ганс? <i>(нем.).</i></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Да… они… <i>(нем.).</i></span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Подробнее о&#160;творческой истории и&#160;проблематике рассказа см.: Оксман Ю. Г. «Русский немец и&#160;реформатор» (недописанный рассказ из&#160;цикла «Записки охотника»). — <i>Лит Насл</i>, т.&#160;73, кн. 1, с.&#160;34—38; Орнатская Т.&#160;И. «Реформатор и&#160;русский немец». Неосуществленный замысел. — <i>Т сб.</i> вып. 4. с.&#160;97 — 103.</span>
+</li>
+</ol>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐59dc65cb49‐ntlgz
+Cached time: 20260216122826
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.081 seconds
+Real time usage: 0.150 seconds
+Preprocessor visited node count: 260/1000000
+Revision size: 39587/2097152 bytes
+Post‐expand include size: 8884/2097152 bytes
+Template argument size: 1172/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2115/5000000 bytes
+Lua time usage: 0.041/10.000 seconds
+Lua memory usage: 1575537/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  130.793      1 -total
+ 90.20%  117.977      1 Шаблон:Отексте
+  7.85%   10.268      1 Шаблон:Примечания
+  4.96%    6.490      1 Шаблон:---
+  1.37%    1.790      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1039975:|#|:idhash:canonical and timestamp 20260216122826 and revision id 5595173. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Незавершенное_(Тургенев)&amp;oldid=5595173">https://ru.wikisource.org/w/index.php?title=Незавершенное_(Тургенев)&amp;oldid=5595173</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2" title="Категория:Иван Сергеевич Тургенев">Иван Сергеевич Тургенев</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1847_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1847 года">Литература 1847 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BD%D0%B5_%D0%B2%D0%B8%D0%BA%D0%B8-%D1%81%D0%BD%D0%BE%D1%81%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%BB%D0%B8_%D1%81_%D1%82%D0%B5%D0%B3%D0%BE%D0%BC_sup" title="Категория:Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup">Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2" title="Категория:Импорт/az.lib.ru/Иван Сергеевич Тургенев">Импорт/az.lib.ru/Иван Сергеевич Тургенев</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 31 июля 2025 года в 06:18.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Незавершенное (Тургенев)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-r49pn","wgBackendResponseTime":122,"wgPageParseReport":{"limitreport":{"cputime":"0.081","walltime":"0.150","ppvisitednodes":{"value":260,"limit":1000000},"revisionsize":{"value":39587,"limit":2097152},"postexpandincludesize":{"value":8884,"limit":2097152},"templateargumentsize":{"value":1172,"limit":2097152},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2115,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  130.793      1 -total"," 90.20%  117.977      1 Шаблон:Отексте","  7.85%   10.268      1 Шаблон:Примечания","  4.96%    6.490      1 Шаблон:---","  1.37%    1.790      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.041","limit":"10.000"},"limitreport-memusage":{"value":1575537,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Иван Сергеевич Тургенев\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"Реформатор и русский немец\u003Cbr\u003E\\\nРусский немец\",\n    [\"published\"] = \"1847\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/t/turgenew_i_s/text_0081.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Незавершенное\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-59dc65cb49-ntlgz","timestamp":"20260216122826","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

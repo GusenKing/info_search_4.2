@@ -1,0 +1,1067 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Мелочи (Успенский) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"08ec5c3a-6454-45a0-a6cc-94f7b42afa07","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Мелочи_(Успенский)","wgTitle":"Мелочи (Успенский)","wgCurRevisionId":5595839,"wgRevisionId":5595839,"wgArticleId":1042392,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Страницы с не вики-заголовками","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru","Импорт/az.lib.ru/Глеб Иванович Успенский","Проза","Сборники рассказов","Глеб Иванович Успенский","Литература 1868 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Мелочи_(Успенский)","wgRelevantArticleId":1042392,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5595839,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Мелочи (Успенский) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Мелочи_Успенский rootpage-Мелочи_Успенский skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8+%28%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8+%28%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8+%28%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8+%28%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-I"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#I">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>I</span>
+			</div>
+		</a>
+		
+		<ul id="toc-I-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-II"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#II">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>II</span>
+			</div>
+		</a>
+		
+		<ul id="toc-II-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-III"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#III">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>III</span>
+			</div>
+		</a>
+		
+		<ul id="toc-III-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ПРИМЕЧАНИЯ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ПРИМЕЧАНИЯ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>ПРИМЕЧАНИЯ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ПРИМЕЧАНИЯ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Мелочи (Успенский)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8+%28%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)&amp;oldid=5595839" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_%28%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29&amp;id=5595839&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259C%25D0%25B5%25D0%25BB%25D0%25BE%25D1%2587%25D0%25B8_%28%25D0%25A3%25D1%2581%25D0%25BF%25D0%25B5%25D0%25BD%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259C%25D0%25B5%25D0%25BB%25D0%25BE%25D1%2587%25D0%25B8_%28%25D0%25A3%25D1%2581%25D0%25BF%25D0%25B5%25D0%25BD%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_%28%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_%28%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_%28%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_%28%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_%28%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_%28%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Мелочи</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%93%D0%BB%D0%B5%D0%B1_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9" title="Автор:Глеб Иванович Успенский">Глеб Иванович Успенский</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1868</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/u/uspenskij_g_i/text_0330.shtml">az.lib.ru</a></span>  • 1. Дворник<br />
+2. По&#160;черной лестнице<br />3. Обстановочка</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%93%D0%BB%D0%B5%D0%B1_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9" title="Автор:Глеб Иванович Успенский">Глеб Иванович Успенский</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<center>Мелочи</center>
+<p>Г.&#160;И. Успенский. Собрание сочинений в&#160;девяти томах. Том 1.
+</p><p>М., ГИХЛ, 1955
+</p><p>Издание осуществляется под&#160;общей редакцией В. П. Друзина
+</p><p><i>Подготовка текста и&#160;примечания</i> Н. В. Алексеевой
+</p>
+<center>СОДЕРЖАНИЕ</center>
+<p>1. Дворник
+</p><p>2. По&#160;черной лестнице
+</p><p>3. Обстановочка
+</p>
+<center>1. ДВОРНИК</center>
+<p>В&#160;бесконечном ряду темного, незаметного люда, с&#160;утра до&#160;ночи трудящегося на&#160;пользу процветания и&#160;удобств столичной жизни, по&#160;всей справедливости занимает первое место дворник, этот человек в&#160;полосатой шерстяной фуфайке, которого всякий видал миллионы раз; не&#160;думайте, чтобы этот предмет был слишком маловажен, — напротив, в&#160;настоящее, совершенно пустынное от&#160;всяких героических личностей, время дворник может занять довольно видное место. В&#160;самом деле, чего хотите вы от&#160;истинного героя? Мужества, несокрушимой твердости духа, самоотвержения? Все это, даже в&#160;большей степени, вы найдете в&#160;столичном дворнике; прибавлю даже, что&#160;как истинным героем, так и&#160;порядочным дворником нельзя быть, не&#160;обладая этими качествами и&#160;преимущественно доведенным до&#160;высших границ самоотвержением, заставляющим из-за&#160;вашего покоя и&#160;тепла пожертвовать своим теплом и&#160;покоем. Всем, решительно всем вы обязаны этой пестрой, неугомонно работающей куртке; вы в&#160;этом тотчас&#160;же убедитесь, если только будете иметь терпение проследить хоть один день ее трудовой жизни; одно уже то, что&#160;вы будете <i>только наблюдать</i> эту жизнь, измучает вас прежде всего физически, потому что&#160;если вы действительно решаетесь познакомиться с&#160;программою занятий дворника, то&#160;вам нужно подняться чем свет, и&#160;тут вы будете изумлены тем, что&#160;дворник уже опередил вас: на&#160;дворе давным-давно стучит его топор, раскалывающий дрова, фуфайка дворника давно пропотела от&#160;швыряния в&#160;сарай поленьев и&#160;дымится на&#160;утреннем морозе; работа идет все шибче и&#160;шибче — и&#160;скоро вам не&#160;угнаться за&#160;этой фуфайкой! Вот вы встречаете ее на&#160;лестнице с&#160;целой горой дров на&#160;спине, уставившуюся в&#160;землю лбом, осторожно поворачивающую свое тело на&#160;изгибе лестницы; спустя немного — дворник попадается вам на&#160;той&#160;же лестнице с&#160;огромными широкодонными ведрами; затем вы видите его на&#160;окне магазина, с&#160;тряпкой в&#160;руке, шлифующего зеркальное трехаршинное стекло, вы видите его со скребком на&#160;тротуаре зимою, с&#160;ломом — во&#160;время гололедицы, с&#160;метлой — летом. Эта&#160;же пестрая куртка иногда мелькает вам за&#160;кулисами театра, с&#160;натугой выкатывающая на&#160;сцену величественное облако или&#160;грандиозную морскую раковину, на&#160;которой с&#160;невыразимой грацией поместилась балетная героиня… Все, решительно все для&#160;вас — и&#160;ничего для&#160;себя! И&#160;это потому, во-первых, что&#160;конура, над&#160;входом в&#160;которую видна дощечка: «Дворник», изобилует самыми худшими чертами всех времен года — летней духотой, с&#160;быстрыми переходами к&#160;лютому холоду, осенней сыростью и&#160;гнилью подвального воздуха; словом, изобилует всеми неудобствами, о&#160;которых вы давным-давно успели позабыть, если хоть когда-нибудь слыхали о&#160;них. Потому еще «не&#160;для себя» живет он, что&#160;где-то&#160;в Осташкове существует сын Иван и&#160;жена Авдотья; и&#160;отписала эта жена Авдотья «письмо», где значится, что «в&#160;чистую избу никак им перейти невозможно, потому что&#160;подрядчик Иван Семенов не&#160;пущает до&#160;тех пор, говорит, пока двадцать целковых за&#160;стройку не&#160;отдадите». Да&#160;еще пишет Авдотья эта, что «нельзя&#160;ли&#160;картузик сынку, да&#160;ей платок, да&#160;два целковых за&#160;башмаки еще не&#160;отдавали, но&#160;что Федор кум и&#160;сестрица кланяются и&#160;что Гаврило Прокофич недавно погорел. Затем прощайте…»
+</p><p>Все это огромной массой забот лежит на&#160;плечах столичного дворника; об&#160;этом Осташкове, об&#160;этой Авдотье и&#160;о чистой избе думает он&#160;с болью в&#160;сердце, потому что&#160;за хлопотами приходится думать только украдкой, только в&#160;промежутки дум о&#160;вашем покое, о&#160;чистоте улицы, за&#160;укладкой дров, за&#160;тасканьем воды. И&#160;эти осташковские дела заставляют хватать подходящую минуту, стараться и&#160;бегать для&#160;кого&#160;бы&#160;то ни&#160;было, лишь&#160;бы&#160;потом за&#160;услугу перехватить «что-нибудь».
+</p><p>Только что&#160;поставил дворник метлу, после продолжительной прогулки с&#160;нею по&#160;панели углового дома, и, войдя в&#160;свою совершенно темную от&#160;темноты зимнего вечера дворницкую, отломил огромную краюху хлеба, которой так давно жаждал проголодавшийся желудок, как&#160;над самым окном его раздался отчаянный звонок.
+</p><p>— О, шут тебя возьми!.. — произносит дворник, вылезая из&#160;своей норы.
+</p><p>— Дворник! — кричит какой-то&#160;франт, стоя в&#160;воротах и&#160;заложив руки в&#160;карманы.
+</p><p>— Что, что&#160;там? Кого надо?
+</p><p>— Ты дворник?
+</p><p>— Я! Что&#160;угодно?
+</p><p>— Послушай, поди сюда!
+</p><p>Франт идет в&#160;темный угол под&#160;воротами.
+</p><p>— Что&#160;угодно?
+</p><p>— Вот тебе… возьми…
+</p><p>— Благодарим покорно!
+</p><p>Получив в&#160;руку, дворник считает нужным снять шапку и&#160;вполне отдается воле благодетеля, который говорит:
+</p><p>— Послушай, братец, — не&#160;знаешь, кто это такая побежала сейчас?
+</p><p>— Куда это-с?
+</p><p>— Прямо из&#160;ворот и&#160;потом, кажется, вон в&#160;угол?
+</p><p>— В&#160;угол-с? Это которая&#160;же… в&#160;платочке?
+</p><p>— Да-да-да…
+</p><p>— Это, надо думать, Марфуша… швейка.
+</p><p>— Швейка? Гм! Так, братец, того, поди-ко&#160;сюда…
+</p><p>Идут в&#160;угол более мрачный, где посетитель шепчет дворнику на&#160;ухо и&#160;потом произносит:
+</p><p>— Понимаешь?
+</p><p>— Будьте покойны!
+</p><p>На&#160;дворе стоит лютый зимний вечер. Посреди улицы мчатся промерзлые рысаки, широко раздувая ноздри и&#160;оставляя клочки пара, который тотчас&#160;же расхватывает на&#160;части мороз. В&#160;небе красные полосы. Посреди улицы итальянец-шарманщик, в&#160;легком пальтишке, с&#160;грязным шарфом на&#160;шее, подпевает под&#160;мотив из «Эрнани», но&#160;мороз хватает его за&#160;горло, и&#160;поэтому вылетают по&#160;временам какие-то&#160;отрывистые басовые звуки. Да&#160;и&#160;шарманка тоже по&#160;временам сипит: мороз победил жаркий итальянский напев. Франт подпрыгивает на&#160;тротуаре, круто поворачивая от&#160;угла назад, заглядывает в&#160;ворота и&#160;марширует опять.
+</p><p>А&#160;дворник между тем не&#160;спеша поднялся по&#160;черной лестнице и&#160;остановился около квартиры портнихи Оборкиной; подумав с&#160;минуту, он&#160;осторожно отворил дверь и&#160;очутился в&#160;мастерской. Около стола, на&#160;котором лежали кучи кисеи и&#160;разных материй, сидели и&#160;стояли девушки. Одна из&#160;них только что&#160;вернулась с&#160;улицы, о&#160;чем говорили ее румяные щечки.
+</p><p>— Ну, девушки, — говорила она: — какой за&#160;мной франтик гнался! От&#160;самого Аничкина моста… Я&#160;бегу — он&#160;за мной, я&#160;бегу — он&#160;за мной…
+</p><p>— Что&#160;Марьи, полковницыной куфарки, тут нету?.. — спрашивает дворник.
+</p><p>— Затворяй дверь-то, ишь барин какой! Холоду напустил! Какая тебе тут Марья?
+</p><p>— А&#160;я&#160;думал, здесь; барыня спрашивает — а&#160;ее нету… Я&#160;так мекал — здеся.
+</p><p>— Ступай, ступай!
+</p><p>Дворник мнется.
+</p><p>— А&#160;я&#160;так думал… — тянет он, и&#160;во время этого ненужного разговора Марфуша, только что&#160;рассказавшая погоню за&#160;ней, успела заметить, что&#160;дворник то&#160;мигал ей глазом, кивая при&#160;этом в&#160;сторону головой, то&#160;пальцем манил… Все это, надо сказать прямо, уже было знакомо Марфуше, потому что&#160;этими&#160;же самыми жестами дворник вызывал ее к&#160;купеческому сыну Алеше. Она окончательно убедилась в&#160;том, что&#160;есть какое-то&#160;экстренное дело, когда дворник, медленно затворявший дверь, успел еще раз поманить ее своим большим пальцем. Все эти символы были ясно поняты; Марфуша толкнула свою подругу Соню и&#160;воскликнула:
+</p><p>— Ах, батюшки! Где ж это рюш-то?.. Никак я&#160;его… Ах, батюшки мои…
+</p><p>Марфуша нагибалась под&#160;стол, искала по&#160;карманам, но&#160;рюша не&#160;было нигде.
+</p><p>— Так и&#160;есть! Ведь я&#160;его никак потеряла!
+</p><p>— Где-нибудь на&#160;улице…
+</p><p>— Да&#160;на&#160;улице и&#160;есть! Ах, батюшки мои!
+</p><p>— Оденься-ко&#160;да побеги…
+</p><p>— И&#160;то, пожалуй, побежать… Мы, тетенька, побежим с&#160;Соней. Я&#160;не&#160;увижу, она увидит!
+</p><p>Девушки поспешно накидывают кой-какие пальтишки, на&#160;головы набрасывают маленькие платочки, напоминающие самое жаркое лето, — и&#160;вон!
+</p><p>— Идите скорей… Кольки времени ждут! — сердито ворчит дворник на&#160;темной лестнице. — Право, толкутся, словно&#160;бы&#160;барышни какие!
+</p><p>— Ну, молчи!
+</p><p>— Да&#160;право!
+</p><p>Девушки выскочили за&#160;ворота, побежали было в&#160;одну сторону, потом тотчас&#160;же поворотили в&#160;другую сторону, и&#160;тотчас&#160;же за&#160;их спиной раздался осторожный кашель и&#160;учащенные шаги… Девушки хихикали, останавливались на&#160;минутку у&#160;окон часового магазина, потом бежали куда-то, опять поворачивали назад, зачем-то&#160;перебежали дорогу, повернули за&#160;угол, а&#160;в сущности кружились на&#160;одном месте. Шаги все стучали сзади их. После таких маневров, продолжавшихся, благодаря морозу, только пять минут, франт шел уже рядом с&#160;девушками, зацепляя ногою дырявые ситцевые подолы их жиденьких, легоньких платьев. Еще минута, и&#160;дворник, интересовавшийся концом этой истории, слышал, как&#160;за углом шел такой разговор:
+</p><p>— Все мужчины обманщики… Уж это вы не&#160;говорите!
+</p><p>— Кто это вам сказал? Извозчик!
+</p><p>— Ну да, как&#160;же… сначала любит, а&#160;потом…
+</p><p>— Да&#160;откуда вы это берете? Извозчик! Совершенно не&#160;то! Извозчик! Напрасно вы так… Подавай!..
+</p><p>— А&#160;потом обманет…
+</p><p>— Что&#160;вы! Кто это вам внушил?.. Подавай! Стой! Стой! Сонечка, — сюда! Марфуша со мной! Пошел!..
+</p><p>— Эй, вы! — встряхнув вожжами, вскрикивает извозчик. Сани раскатываются на&#160;углу, швырнув в&#160;сторону и&#160;снегом и&#160;искрами…
+</p><p>— Ах!
+</p><p>— Поехали! — заключил дворник.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r4837660">.mw-parser-output .hr-custom{height:1px;width:40em;margin-left:auto;margin-right:auto;margin-top:5ex;margin-bottom:5ex}</style><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Глубокая ночь. На&#160;углу стоит обмерзлый газовый фонарь, в&#160;который рвется ветер, стараясь задуть огонь; словно птица, мечется огонь в&#160;стороны, и&#160;по панели прыгает тень клетки от&#160;фонаря; у&#160;запертого винного погреба ветер качает большую виноградную кисть; городовой в&#160;башлыке, с&#160;мерзлыми усами, прислонился спиной к&#160;стене, всунув рукав в&#160;рукав, туго пожимает плечами и&#160;дремлет. Пустынно, хоть и&#160;слышится еще тихий, словно усталый полутреск и&#160;полушум от&#160;полозьев и&#160;колес карет; извозчики дремлют на&#160;своих санях, закрываясь дерюгой, побелевшей от&#160;снегу, которым так упорно играет метель и&#160;мороз… Дворник в&#160;огромном полушубке, волочащемся по&#160;земле и&#160;вздымающемся выше головы, с&#160;толстой дубиной в&#160;руках, не&#160;спит… Ходит он&#160;по панели, садится на&#160;скамейке у&#160;ворот, отворяет парадную дверь какому-то&#160;запоздавшему господину, не&#160;совсем твердо ступавшему ногами; шуршание тулупа во&#160;время ходьбы дворника, громыханье ключа и&#160;грохот выпуклой железной вывески, привешенной на&#160;внутренней стороне двери, — все это нарушало на&#160;минуту холодную и&#160;горькую столичную пустынность. Дворник снова ходит, снова дремлет, но&#160;не спит. В&#160;темном переулке, сбоку, где судьба и&#160;полиция нашли удобным поместить только два фонаря, — посреди улицы раздаются пьяные голоса: толпа молодых людей, один за&#160;другим, вываливаются из&#160;четырехугольной калитки в&#160;воротах какого-то&#160;мрачного и&#160;сверху донизу беснующегося содома; нетвердым языком разговаривают они, но&#160;кричат сильно, и&#160;притом все вдруг: один уронил с&#160;плеч шинель на&#160;снег, нагнулся, поднял ее и&#160;упал. Друзья-приятели не&#160;замечают этого и&#160;с тем&#160;же говором и&#160;шумом влезают в&#160;калитку соседнего дома. Оставшийся долго что-то&#160;бормочет над&#160;своей шинелью, философствует, — наконец начинает дремать, но&#160;свежий воздух берет свое…
+</p><p>И&#160;пустыннее становится кругом, ближе и&#160;ближе подступает та минута совершенно беззвучной тишины, которая хоть на&#160;одно мгновение, но&#160;непременно бывает и&#160;в бессонном организме столицы. Дремлет дворник. Из-за&#160;угла в&#160;это время выезжает извозчик: лошаденка маленькая, мухортая, обвешанная сосульками, дуга облупленная, связанная посредине бечевками, одна оглобля белая, другая черная, извозчик — ветхий старичок; это — ночной извозчик, так называемый <i>желтоглазый</i>, карикатура в&#160;глазах денных ездоков и&#160;предмет посмеяний, как&#160;такое бесталанное существо, которое поставлено в&#160;необходимость брать <i>«пятиалтынный за&#160;Дунай».</i> А&#160;на&#160;полуразвалившихся санях этого желтоглазого, санях, которые словно ходенем ходят под&#160;седоком, которые все изранены — и&#160;внизу и&#160;в задке налетавшими смаху дышлами, — на&#160;этих убогих санях едут наши знакомки: Соня и&#160;Марфуша. Марфуша то&#160;и дело принимается песни петь, ногой притопывает: «А-ах, лешеньки» и&#160;кричит: «Ах, извозчик, пошел!..» Соня, которая в&#160;первый раз испытывает на&#160;своей, рано или&#160;поздно предназначенной к&#160;погибели, голове ощущение хмеля, пугается этого ощущения, останавливает Марфушу, покачивающуюся из&#160;стороны в&#160;сторону, и&#160;дрожит ее сердце при&#160;виде знакомого пятиэтажного дома, где живет портниха Оборкина.
+</p><p>— Эко девки-то&#160;напились как! — соболезнуя, говорит дворник и&#160;поднимается со скамейки. — Где вас шут носил?
+</p><p>— Голубчик дворник! Ваня! — любовно говорит Марфуша, нетвердо стоя на&#160;панели. — Ванюша!.. Гуляли…
+</p><p>— Вижу!.. Зачем вино-то&#160;жрешь?.. Как&#160;теперь покажешься к&#160;мадаме-то?..
+</p><p>— Да&#160;я&#160;не покажусь…
+</p><p>— Не покажусь! До&#160;естольких пор волочаются… Мне&#160;же достанется…
+</p><p>— Кто мне может запретить? — воодушевляясь, произнесла Марфуша, размахнув руками, и&#160;во все горло затягивает песню…
+</p><p>— Иван Иваныч! Голубчик! — робко произносит Соня: — мы&#160;боимся!..
+</p><p>— Прижала хвост-то… — снисходительно произносит дворник, медленно идя под&#160;ворота. — Пошли спать сюда! — продолжает он, толкнув ногой дверь в&#160;дворницкую. — Чем свет взбужу — как-нибудь потихоньку проберетесь… Пошли!.. Клади-ко&#160;ее… Эко Марфа-то&#160;в самом деле как&#160;ослабла!
+</p><p>Улеглись девушки в&#160;конуре дворника — Марфуша вялым языком что-то&#160;рассказывала, быстро приподымаясь с&#160;полу и&#160;почти так&#160;же быстро падая опять… Принималась песни петь… Соня глаз не&#160;могла сомкнуть от&#160;страха, который все больше и&#160;больше охватывал ее.
+</p><p>— Господи! — шептала она во&#160;тьме…
+</p><p>Вьюга шумела на&#160;дворе, и&#160;попрежнему, ежась от&#160;холода, дремал на&#160;скамейке дворник…
+</p><p>…День. Марфуша сидит за&#160;работой с&#160;больной головой и&#160;побледневшей, как&#160;полотно, физиономией. Неразговорчива она — «да» и «нет» — и&#160;больше слова не&#160;добьешься, и&#160;грустно ей, и&#160;вся разбита, нездорова она.
+</p><p>А&#160;дворник, как&#160;и вчера, еще до&#160;рассвета принялся за&#160;свою обычную работу и, усевшись потом за&#160;еду в&#160;своей дворницкой, вовсе не&#160;обращает внимания на&#160;то, что&#160;какая-то&#160;женщина давным-давно взывает к&#160;нему, стоя посреди двора.
+</p>
+<center>2. ПО ЧЕРНОЙ ЛЕСТНИЦЕ</center>
+<p>…Женщина эта, одетая почти по-деревенски, по&#160;своей робости и&#160;глупости никак не&#160;решалась позвонить в&#160;дворницкую, потому что&#160;ей казалось, что&#160;звонок существует для&#160;господ, а&#160;простой народ обязан обходиться собственными голосовыми средствами. Вместе с&#160;добродушным простоватым видом женщины звонкие возгласы ее, обращенные к&#160;пятиэтажным стенам петербургского дома, заставили дворника считать эту женщину просто за «глупую бабу», с&#160;которой можно и&#160;не церемониться. Вследствие этого дворник не&#160;тронулся с&#160;места до&#160;тех пор, покуда к&#160;воротам дома не&#160;подкатил какой-то&#160;офицер.
+</p><p>Отчаянный звонок, обличивший появление у&#160;ворот барина, заставил дворника выйти наружу, и&#160;тут Марфа могла, наконец, узнать, что 29 No, где живет г-жа&#160;Иванова и&#160;где требуется кухарка, будет по&#160;черной лестнице, в&#160;таком-то&#160;этаже.
+</p><p>Марфа давно знала, что&#160;ей всю жизнь придется скоротать на&#160;черной лестнице, по&#160;заднему ходу; поэтому-то&#160;ее нисколько не&#160;удивила ни&#160;атмосфера черной лестницы, ни&#160;мерзлые рубцы льду и&#160;сору, ни&#160;ушаты с&#160;мерзлым сором и&#160;воткнутой в&#160;них метлой, ни&#160;лари, из&#160;которых несет разлагающейся провизией, — все это в&#160;ее понятиях иначе и&#160;быть не&#160;могло. Дверь из&#160;двадцать девятого нумера была отворена настежь, и&#160;из нее белыми клубами валил удушливый кофейный дым. Перед&#160;плитой, из&#160;дыр которой вырывались огненные языки пламени, с&#160;раскаленной кочергой в&#160;руках стояла кухарка — худая, общипанная… Это был тип истой петербургской кухарки, знающей «бонжур» и «мерси» и&#160;резонерствующей в&#160;лавочке о&#160;господах. Марфа должна была занять ее место в 29 No. Вращая огненной кочергой и&#160;отдернув в&#160;сторону голову, кухарка утопала в&#160;облаках дыма и&#160;пара, потому что&#160;в эту самую минуту, когда Марфа решилась вступить в&#160;кухню, кухарка в&#160;азарте перевернула вверх дном горшок с&#160;какою-то&#160;жидкостью.
+</p><p>Марфа переждала, пока на&#160;плите происходило шипение пролитого кушанья и&#160;грохотание чугунных конфорок, и&#160;потом произнесла:
+</p><p>— Бог на&#160;помощь! Что, милая! барыня, госпожа Иванова, здесь живут? — сказала она.
+</p><p>— Вы от&#160;кого? — спросила та.
+</p><p>— Сами от&#160;себя… Тут куфарка требуется?
+</p><p>— Ах! это вас рекомендовали? от&#160;прачки?
+</p><p>— Федосья-с — она…
+</p><p>— Так, так — Федосья! Иванова здесь… Вы, душенька, отдохните, ее дома нету, ведь она у&#160;нас верченая… — затрещала кухарка. — Ведь она у&#160;нас очумелая!.. Тепериче вот Семен Михалыч принес десять целковых — чем&#160;бы&#160;что путное сделать, а&#160;она хвостом вильнула, да&#160;по магазинам… безо всякого, можно сказать, рассудку… Иной раз… кофию-то, что&#160;же я? Господи помилуй!..
+</p><p>— Благодарствуйте на&#160;кофее…
+</p><p>— Как&#160;можно! Что&#160;вы!
+</p><p>Медный кофейник тотчас&#160;же заклокотал на&#160;плите, а&#160;вместе с&#160;ним неудержимым потоком хлынула разговорная трескотня кухарки.
+</p><p>— Ведь она, барыня-то&#160;наша, не&#160;совсем-то&#160;барской породы, — трещала кухарка: — это ведь только мужчины-дураки наглядеться на&#160;нее не&#160;могут, безумные! И&#160;скажите на&#160;милость, что&#160;в ей? Ну ежели&#160;бы&#160;что-нибудь, а&#160;то ведь просто стыд сказать!.. Худая, злая, да&#160;и… Кажется, ежели&#160;бы&#160;на моем месте, да&#160;я&#160;бы&#160;не только что&#160;уважение ей какое оказала, а&#160;просто и&#160;внимания&#160;бы&#160;не дала… Ну скажите на&#160;милость, каково вам покажется после этого, что, например, Семен Михалыч, так тот до&#160;чего: бьет его, ругает, и&#160;он&#160;же у&#160;нее прощения просит! а? Думаю, и&#160;не могу понять, из-за&#160;чего такое безумие? Да&#160;мне, я&#160;вам не&#160;хвастаясь скажу, один генерал — тоже к&#160;ней ездит — так он&#160;мне, может быть, несколько раз говорил: «вы, говорит, Натали, много&#160;бы&#160;против барыни себя превозвысили… если б, конечно, вы были в&#160;настоящем вашем виде!» И&#160;ей-богу: одень-ко&#160;меня — я&#160;б… уж&#160;бы&#160;высказала&#160;бы!.. Другой тоже, конный офицер Кузмичев, говорит мне: «Вы, говорит, лучше всякой барыни!..» А&#160;мне что&#160;такое? Я&#160;не&#160;хвастаюсь, а&#160;одно, что&#160;люблю я&#160;правду… Мне этих пошлостев не&#160;нужно; имею я&#160;своего знакомого военного — и&#160;довольна от&#160;бога! Чего мне еще желать? Надо понимать во&#160;всем свою правду…
+</p><p>— Это точно! — подтвердила Марфа.
+</p><p>— А&#160;то&#160;как&#160;же? Через&#160;то, что&#160;видеть я&#160;не могу, какую она дозволяет себе команду над&#160;благородными людьми, я&#160;и от&#160;места отхожу. Что&#160;мне? Мне мой военный говорит: «Вы, говорит, Наташенька, не&#160;опасайтеся! Вы, говорит, довольно красивы в&#160;своем лице, и&#160;во всяком благородном доме могут вас принять. Вам опасаться нечего!» И&#160;вправду: вон теперь к&#160;синатору поступаю… И&#160;слава тебе господи! Кого мне опасаться? Я&#160;как&#160;есть перед&#160;богом! Ее-то, что&#160;ль? Так это уж сделайте ваше одолжение!..
+</p><p>Тут кухарка остановилась перевести дух; она торопливо подоткнула юбку, взявшись за&#160;нее опереди обеими руками, и&#160;надвинула на&#160;темя съехавшую назад сетку, внутри которой изгибался хвостик косы, весьма похожий на&#160;высохшую селедку.
+</p><p>Марфа с&#160;некоторым изумлением слушала трескотню своей предшественницы.
+</p><p>— Ежели&#160;бы&#160;на мою волю, — начала та опять наставительным тоном, — так я&#160;бы и&#160;господ-то&#160;этих, да&#160;и ее-то…
+</p><p>— Это что&#160;такое? Это целый день дверь будет распертая стоять? — сердито произнес новый женский голос, захлопывая дверь.
+</p><p>Кухарка бросилась снимать салоп и&#160;на ходу шепнула Марфе:
+</p><p>— Барыня!
+</p><p>— Целый двор хочешь, что&#160;ли, натопить? — продолжала сердитая барыня. —
+</p><p>Храбрая кухарка не&#160;выказывала ни&#160;малейшего протеста, но&#160;нашла-таки возможность шепнуть Марфе два словечка:
+</p><p>— Проюхляла деньги-то&#160;по магазинам, вот и&#160;щетинится!
+</p><p>Барыня между тем заметила Марфу и&#160;сочла нужным вступить с&#160;нею в&#160;переговоры; для&#160;этого она потребовала ее к&#160;себе в&#160;горницу и&#160;задала известные вопросы по&#160;поводу паспорта, поведения и&#160;проч. Марфа при&#160;этом не&#160;упустила случая упомянуть о&#160;своем служении в&#160;доме генерала Папухина, который по&#160;обыкновению остался очень доволен ее услугой. Разговаривая таким образом, барыня и&#160;кухарка неожиданно оказались землячками — они&#160;вместе были крепостными господ Адоньевых, Рязанской губернии. Госпожа Иванова вспомнилась Марфе двенадцатилетней девочкой, вертевшейся в&#160;услужении у&#160;барышни в&#160;то время, когда Марфа уже успела проводить мужа-солдата на&#160;войну, где он&#160;и доказал уже свою доблесть, получив чью-то&#160;пулю куда-то&#160;навылет. Это обстоятельство оживило сухой разговор землячек.
+</p><p>— Ну, здравствуйте, — сказала Марфа, — ишь господь где свидеться привел!
+</p><p>Барыня попробовала было ей поддакивать и&#160;тоже радовалась встрече, но&#160;скоро свернула на&#160;разговоры более барские, низвела месячную плату Марфы с&#160;пяти рублей до&#160;четырех с&#160;полтиной, упомянула насчет строгости нравов и&#160;назначила срок переезда. Марфа поняла свое место и&#160;говорила: «слушаю-с!»
+</p><p>Старые знакомки расстались на&#160;этот раз, как&#160;расстается барыня с&#160;кухаркой, а&#160;через два дня Марфа уже переезжала к&#160;госпоже Ивановой. Сидя на&#160;куче узлов, поглотивших извозчичьи сани, она одной рукой придерживала образ Троеручицы, украшенный потемневшими цветами и&#160;фольгой, а&#160;другою обнимала извозчика за&#160;шею. Въезд ее был до&#160;того трогателен или, вернее сказать, потрясающ, что&#160;управляющий дома, увидав фигуру задохнувшегося в&#160;объятиях Марфы извозчика, испуганно позвал дворника. Дело, однако&#160;же, обошлось без&#160;особенных несчастий, и&#160;Марфа поселилась в&#160;кухне госпожи Ивановой, вытеснив свою предшественницу, которая в&#160;то&#160;же время переехала куда-то&#160;на квартиру. Несмотря на&#160;зимнее время, предшественница Марфы были одета в&#160;легчайший бурнус, голова была повязана крошечной косыночкой, и&#160;на коленях ее помещался маленький зеленый сундучок без&#160;замка. При&#160;каждом ухабе крышка сундука отворялась, открывая взорам наблюдателя его пустую внутренность, где прядала какая-то&#160;помадная банка и&#160;рыжая роговая гребенка. Все это, однако, не&#160;мешало ей иметь гордый, независимый вид и&#160;не препятствовало критиковать госпожу Иванову во&#160;всеуслышание всех бывших на&#160;дворе в&#160;момент отъезда.
+</p><p>Таким образом Марфа стала на&#160;новом месте.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Как&#160;сказано выше, Марфа была не&#160;что иное, как <i>баба глупая;</i> кроме доказательств, уже приведенных нами, положение это подтверждается еще крайне ограниченными размерами имущества Марфы: оно состояло из&#160;старого сундука, где под&#160;крышкой, выклеенной изнутри конфектными картинками с&#160;расплывшейся и&#160;размазанной краской, находилось два-три ситцевых платья, весьма ограниченное количество белья, несколько платков и&#160;коробка из-под&#160;монпансье, где лежали иголки, пуговицы, наперстки и, по&#160;временам, медные деньги. Все эти вещи она предоставляла на&#160;жертву жильцам тех хозяев, у&#160;которых ей приходилось жить: иголки и&#160;нитки занимали у&#160;ней все жильцы — бесплатно и&#160;безвозвратно, и&#160;несмотря на&#160;то, Марфа никогда не&#160;отказывала в&#160;просьбах, обращенных к&#160;ней; такие проступки добродушия Марфы никак не&#160;могли происходить от&#160;ее необузданной щедрости, составляющей достояние только вельмож, потому что&#160;Марфа считала непростительным грехом отнестись с&#160;пренебрежением даже к&#160;булавке, попавшейся ей в&#160;сору, стеариновому огарку величиною в&#160;одну десятую долю вершка. Всему виною было именно то, что&#160;Марфа была «баба глупая». Термин этот может быть объяснен несколько подробнее. Дело в&#160;том, что&#160;судьба с&#160;ранних лет обрекла Марфу на&#160;труд и&#160;нужду, а&#160;сама Марфа почему-то&#160;вздумала прибавить ко&#160;всему еще и&#160;правду, борьба которой с&#160;трудом и&#160;нуждою была одним из&#160;самых тяжких страдальческих крестов, лежавших на&#160;Марфе. В&#160;вознаграждение за&#160;все эти лишения и&#160;скорби судьбою предлагалась ей одна только отрада — возможность прокормиться, каковую отраду Марфа привыкла считать единственною целью своей жизни. С&#160;самого детства, с&#160;первых дней, она едва&#160;ли&#160;имела возможность представить себе, что&#160;есть на&#160;свете и&#160;другие, более торные дороги. Под&#160;влиянием таких велений судьбы Марфа должна была жить так, как&#160;велит ей «правда нищеты и&#160;бедности», выработанная всем «черным народом». Придерживаясь этой философии, Марфа представляла себе столицу почти тем&#160;же, чем простонародному воображению представляется грозная литва, упавшая с&#160;неба туретчина или&#160;неметчина, с&#160;тою разницею, что&#160;во взгляде ее на&#160;столицу не&#160;было ни&#160;вершка места для&#160;иронии и&#160;самодовольства, с&#160;которым можно и&#160;даже должно относиться к&#160;таким плюгавым государствам, как&#160;неметчина и&#160;проч.; напротив, в&#160;столице она чувствовала себя в&#160;плену и&#160;была убеждена, что&#160;с ней могут поступать так, как&#160;кому захочется. Правда нищеты, выработанная именно сознанием этого плена, учила ее покоряться всему безропотно; заставила не&#160;удивляться ни&#160;единому ужасу столичной жизни, ни&#160;единому уродливому требованию тех, от&#160;кого зависит ее возможность прокормиться. Жила она поэтому где придется, не&#160;брезгала ни&#160;жидами, ни&#160;немцами, ни&#160;татарами; вся жизнь ее уходила на&#160;изучение «нрава» ее господ; все заботы и&#160;думы ее устремлялись к&#160;улучшению чужого благосостояния, чужого покоя. Иногда, покоряясь той&#160;же правде черного народа, она делала нечистое дело — например, когда посылали с&#160;ней извозчику деньги, она выторговывала у&#160;последнего пятачок и&#160;оставляла его у&#160;себя; или&#160;передавала от&#160;барышни записку офицеру, несмотря на&#160;запрещение маменьки и&#160;единственно ради двугривенного, данного барышней, и&#160;проч. Но&#160;весь черный цвет этих пятен уничтожается в&#160;той массе всякой житейской, темной и&#160;грязной действительности, которой должна была она покоряться. Она воевала за&#160;свое существование, билась как&#160;только могла, и&#160;немудрено, что&#160;война эта изувечила и&#160;изранила ее душу и&#160;голову. Раны ныли и&#160;болели, и&#160;как только Марфа хоть на&#160;минуту заключала перемирие с&#160;действительностью, как&#160;только она получала возможность, пользуясь отсутствием господ на&#160;дачу, просидеть целый день одна-одинешенька и&#160;подумать самой о&#160;себе, она никогда не&#160;обходилась без&#160;слез; в&#160;это время представлялась ей и&#160;сестра, которая бьется с&#160;малыми ребятами в&#160;деревне Босоноговой и&#160;которую бьет муж, и&#160;свои сироты, разбросанные по&#160;воспитательным домам и&#160;топким кладбищам, и&#160;сама она, Марфа, сирота, — и&#160;тогда она плакала-заливалась; только в&#160;слезах и&#160;рыданиях была она свободна, только в&#160;них высказывалась вся ее неподкупная, неизмеримая нравственная чистота.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>По&#160;переезде на&#160;новое место Марфа прежде всего вешала в&#160;углу кухни образ Троеручицы, задвигала под&#160;кровать сундук и, покончив таким образом с&#160;собственным имуществом и&#160;устройством жилища, принималась изучать свойства квартиры, имевшие непосредственные отношения к&#160;печке и&#160;плите: чуланчики для&#160;провизии, помещения для&#160;дров, прачешные и&#160;чердаки и&#160;проч. На&#160;обозрение всего этого она, впрочем, тратила довольно мало времени, так как&#160;ее умственной работе предстояла еще другая, более серьезная пища: ей необходимо было, как&#160;уже сказано, изучить нравы новых хозяев, узнать, что&#160;им нравится и&#160;что нет, и&#160;наизусть выучить симпатии и&#160;антипатии их. В&#160;таких видах иногда ей приходилось радикально преобразовывать свою походку — так как&#160;господа не&#160;любят, чтобы шлепали ногами по&#160;полу, — телодвижения, голос, выговор и&#160;проч., ибо господам не&#160;нравится, когда хлопают дверью или&#160;не затворены двери, или&#160;задевают локтем за&#160;стул, или&#160;громко говорят, что&#160;может испугать господ, и&#160;т. д. и&#160;т. д. Все это Марфа должна была переработать в&#160;собственной голове, проникнуться всем этим до&#160;мозга костей, до&#160;действительного, непритворного и&#160;неподдельного ужаса, если как-нибудь неожиданно приходилось нарушить хозяйскую привычку. Убиваясь над&#160;такой кропотливой и&#160;отупляющей работой, Марфа находила возможным благодарить судьбу за&#160;то, что&#160;судьба эта не&#160;оставляет ее без&#160;места больше недели, тогда как&#160;сама Марфа не&#160;прибегает в&#160;этом случае ни&#160;к конторам, ни&#160;к агентам, а&#160;руководствуется единственно случаем, нечаянным знакомством в&#160;прачешной, в&#160;булочной, лавочке. Только молитвы «родителев», думала она, не&#160;допускают ее погибнуть, как&#160;песчинку, и&#160;не оставляют без&#160;места, перегоняя из&#160;одной геенны огненной хозяйских прихотей в&#160;другую. Рассуждая таким образом, Марфа и&#160;не подозревала, что&#160;за пять целковых месячного жалованья господа хозяева охотно готовы получить целого человека в&#160;бесконтрольное распоряжение, всю Марфу целиком, с&#160;ее мыслями, устремленными к&#160;заботе о&#160;хозяйском добре, с&#160;ее руками, растопляющими печи, стирающими белье, обжигающимися на&#160;плите, подающими, принимающими. Пусть читатель сам припомнит все причастия действительных и&#160;страдательных глаголов, которые к&#160;тому&#160;же имеют странное или, вернее, петербургское свойство быть поминутно возвратными, — и&#160;обязанности Марфы определятся ему в&#160;некоторой степени. Ноги свои Марфа считала ни&#160;во что&#160;и, летая по&#160;двенадцатиствольным петербургским лестницам, заботилась не&#160;о том, как&#160;бы не&#160;задохнуться, а&#160;о том, чтобы не&#160;опоздать с&#160;папиросами, за&#160;которыми ее посылали.
+</p><p>Эту теорию исследования господских прихотей и&#160;привычек Марфа на&#160;новом месте должна была приложить к&#160;госпоже Ивановой. То&#160;обстоятельство, что&#160;госпожа сия происходила из&#160;одной деревни с&#160;Марфой, мешало последней беспристрастно рассмотреть ее сущность, так как&#160;среди исследований в&#160;сердце Марфы неожиданно залетала зависть к&#160;своей землячке, и&#160;в голове являлись такие мысли: «Вот, — думала Марфа, — тоже ведь нашей, мужицкой породы, а&#160;поди-кось какие генералы да&#160;сенаторы наезжают! Нет, уж видно, кому бог пошлет…» и&#160;т. д. Тут Марфа принималась сравнивать свою участь с&#160;участью барыни и&#160;находила ее большою счастливицею. В&#160;сущности&#160;же зависть Марфы не&#160;имела никаких оснований. И&#160;барыню и&#160;кухарку равняло уже одно то, что&#160;они были землячки, обе имели одну житейскую цель — возможность прокормиться, и&#160;разница была в&#160;том, что&#160;Марфа пошла к&#160;этой цели напролом, принялась биться из-за&#160;своего существования, а&#160;землячка, барыня Иванова, вознамерилась достигнуть той&#160;же цели путями окольными.
+</p><p>Первые сведения об&#160;этих окольных путях получила она в&#160;господском доме, находясь в&#160;услужении у&#160;барышни. Здесь увидела она, что&#160;могут люди жить, ничего не&#160;делая и&#160;не пачкая своих белых ручек; в&#160;качестве смазливенькой девочки она узнала, что&#160;на рынке барских прихотей ее молодости и&#160;свежести стоит хорошая цена и&#160;что есть на&#160;свете удовольствия почище медовых пряников и&#160;каленых орешков, которые рекомендуются прекрасному полу деревенскими волокитами. Попав потом в&#160;Петербург в&#160;белошвейки, будущая госпожа Иванова, а&#160;попросту Нютка, узнала не&#160;только цену своей молодости и&#160;достоинствам, но&#160;даже стоимость до&#160;копеек и&#160;полукопеек. В&#160;короткое время планы ее были приведены в&#160;исполнение при&#160;услужливой помощи некоторых сведущих в&#160;столичной жизни людей. И&#160;вот действительно она уже не&#160;швея, а&#160;госпожа «полу-барыня», как&#160;называют ее дворники, у&#160;нее своя квартира, мебель, посуда, везде чистота, и&#160;опрятность, и&#160;уважение: именитые, можно сказать, особы заезжают к&#160;ней. Завидуй, Марфа, этому почету, мебели и&#160;теплу, но&#160;не завидуй сердцу госпожи Ивановой: оно одиноко и&#160;холодно больше, нежели твое, в&#160;сотни раз! Воспитываясь в&#160;школе господских прихотей, г-жа&#160;Иванова выкинула из&#160;своего сердца все радости, которыми Марфа имела еще возможность пользоваться, радости деревенские, рожденные курной избой и&#160;унылыми полями… выкинула все деревенские впечатления, словом — все то, что&#160;должна была она иметь в&#160;качестве обитательницы курной избы. Взамен этого она должна была наполнить свое сердце теми интересами, радостями и&#160;печалями, которые возможны только в&#160;кругу прихотей и&#160;затей. Полюбила она поэтому наряды, длинные шлейфы, шиньоны; поняла прелесть Невского в&#160;два часа дня, прелесть прогулки на&#160;дорогом извозчике. Кодексом ее жизни ради тех&#160;же прихотей сделалась жизнь того класса людей, который, благодаря толстому карману, весь мир божий представляет себе каким-то&#160;рестораном или&#160;кафешантаном… Но&#160;у&#160;Нютки, или&#160;уже у&#160;Нетти, не&#160;было толстого кармана, она должна была рассчитывать на&#160;карман своих развратителей и, порабощенная их наукой, каждую минуту дрожала от&#160;мысли, что&#160;когда-нибудь да&#160;отнимут&#160;же у&#160;нее этот толстый карман. Среди всей этой чистоты, мебели и&#160;драпировок жило, таким образом, измученное, до&#160;рабства трусливое сердце, умевшее только злиться и&#160;оскаливать зубы на&#160;судьбу, но&#160;не умевшее уже плакать.
+</p><p>И&#160;Марфа напрасно завидовала г-же&#160;Ивановой. В&#160;тот момент, когда Марфа поступила к&#160;ней в&#160;услужение, госпожа Иванова имела от&#160;роду уже двадцать семь лет и&#160;успела много потерять в&#160;своей свежести и&#160;красоте. Лицо ее было утомлено, бледно, грудь сухая, узенькая; она принадлежала вообще к&#160;числу субъектов, которых купцы определяют термином «хлипкая». Тощенькая и&#160;маленькая коса ее, когда-то&#160;доходившая до&#160;колен, теперь значительно уже поредела, да&#160;и все сокровища красоты и&#160;свежести были промотаны настолько, что&#160;Семен Михайлыч Михайлов мог спокойно распоряжаться ими, не&#160;опасаясь быть отставленным. В&#160;самом деле, при&#160;взгляде на&#160;фигуру господина Михайлова трудно было объяснить себе, как&#160;г-жа&#160;Иванова решается сносить близкое присутствие его особы в&#160;течение нескольких уже лет; с&#160;другой стороны, тоже казалось не&#160;совсем удобопонятным, отчего господин Михайлов не&#160;плюнет и&#160;не уйдет от&#160;госпожи Ивановой куда-нибудь на&#160;край света, так как&#160;сия госпожа не&#160;дает ему ни&#160;минуты покоя, отравляет ему каждый глоток чаю и&#160;вообще выказывает явное презрение к&#160;нему, иногда даже награждает очень веской пощечиной.
+</p><p>Страх голодной смерти и&#160;невозможность отцветшею красотою полонить более сносное существо, чем господин Михайлов, объясняют, почему г-жа&#160;Иванова, выгнав вон своего приятеля, тотчас&#160;же посылала кухарку воротить его обратно; но&#160;то, что&#160;господин Михайлов, не&#160;успев простыть от&#160;полученной пощечины, тотчас&#160;же снова возвращался в&#160;лоно самых невероятных жизненных отрав, объясняется полным, безграничным и&#160;беззащитным одиночеством сего человека и&#160;его жизненным объюродением.
+</p><p>Господин Михайлов служит в&#160;какой-то&#160;петербургской конторе, целые дни выводит цифры, пассивы, активы и&#160;проч. Изредка отрывая голову от&#160;бумаги, он&#160;изредка может созерцать только белые высокие и&#160;безмолвные стены конторы и&#160;молчаливых товарищей. В&#160;пять часов, по&#160;окончании работ, он&#160;отправлялся в&#160;кухмистерскую, где помещался среди молчаливых и&#160;незнакомых соседей и&#160;ел свои пять блюд, подносимые ему тоже безмолвными служанками, головы которых имеют право работать только над&#160;вопросом: «суп или&#160;щи?» Промолчав час или&#160;полтора в&#160;столовой зале, г.&#160;Михайлов отправлялся в&#160;биллиардную, чтобы сыграть две-три партии с&#160;маркером, и, наконец, выходил на&#160;улицу. Дорогою он&#160;поглядывал в&#160;окна магазинов, прочитывал знакомые вывески и&#160;после такой поучительной прогулки возвращался домой в&#160;свою крошечную комнату на&#160;Гороховой, где его ожидали четыре безмолвные стены, запах табаку, кровать, на&#160;которой можно было растянуться, потолок, на&#160;который не&#160;возбранялось смотреть целые годы. Все развлечения или, вернее, все личные интересы сводились на&#160;трактиры, танцклассы, и&#160;только. Чем тут поживиться бедному, заброшенному сердцу, которое ни&#160;минуты не&#160;перестает молить о&#160;жизни? Человеку нужен известный сердечный приют, тепло; нужен очаг, который смог&#160;бы&#160;отогреть охолодевшую от&#160;одиночества душу… Михайлов, старый холостяк, давно уже зачерствел среди молчаливых, однообразных стен конторы, кухмистерской, своей каюты на&#160;Гороховой улице, и&#160;все-таки жаждал уюта, тепла, сочувствия. Одиночество исказило его наружность, сделало его странным, неуклюжим и&#160;застенчивым до&#160;испуга, среди обыкновенных петербургских людей, живущих всем известными интересами журфиксов, и&#160;поэтому он&#160;мог добраться до&#160;необходимого ему уюта только как-нибудь окольным путем.
+</p><p>Госпожа Иванова взялась за&#160;это дело, обязавшись настолько приголубить одинокого холостяка, насколько ей позволяло ее истерзанное, остывшее совершенно сердце — с&#160;одной стороны, и&#160;сознание своей необеспеченности — с&#160;другой. Михайлов обязывался платить за&#160;квартиру и&#160;обеспечивать все нужды бедной и&#160;тоже вполне одинокой женщины. И&#160;он&#160;отдавал все, что&#160;у него было, несмотря на&#160;то, что&#160;в сущности сердцу его не&#160;было от&#160;этого никакой отрады. Приходил он&#160;в квартиру г-жи&#160;Ивановой преимущественно вечером к&#160;чаю и&#160;успевал уже к&#160;этому времени проглотить несколько рюмок водки и&#160;стаканов пива. Это обстоятельство заставляло его робеть перед&#160;порядком и&#160;чистотою жилища его подруги, которая тоже всегда держала себя, особенно в&#160;последнее время, в&#160;строжайшем порядке и&#160;опрятности. Робея, он&#160;подходил к&#160;ней, целовал ее руку, стараясь затаить дыхание, чтобы не&#160;дохнуть винными парами, и&#160;чуть-чуть прикасаться губами, чтобы тоже не&#160;побеспокоить свою властительницу мокрыми губами. Совершив все это с&#160;величайшей осторожностью, Михайлов садился подле рабочего столика и&#160;молчал. Молчала и&#160;властительница, отлично знавшая, что&#160;он уже выпил и&#160;водки и&#160;пива и&#160;чувствует себя виновным.
+</p><p>Долго длилось обыкновенно такое тягостное молчание.
+</p><p>— Вы долго будете сюда шататься, как&#160;в кабак? — наконец спрашивала госпожа Иванова.
+</p><p>Михайлов взглядывал на&#160;нее и&#160;тянулся к&#160;ручке.
+</p><p>— Сидите! — вскрикивала повелительно Иванова, отдергивая руку.
+</p><p>На&#160;крик ее из&#160;разных углов звонко откликались комнатные собаки, которых госпожа Иванова любила до&#160;безумия. Начинался лай, который заставлял Иванову топать на&#160;собак и&#160;кричать еще больше. Все это потрясало Михайлова, и&#160;он поминутно отирал платком лоб… Опять наставало молчание… долгое, напряженное…
+</p><p>— Положите, я&#160;вам говорю, ножницы. Положите на&#160;место!
+</p><p>Ножницы летели из&#160;рук Михайлова на&#160;пол, отчего снова поднимался лай, крик, топанье и&#160;еще более тягостное молчание…
+</p><p>— Хотел было… ко&#160;всеночной!.. — начинал, наконец, Михайлов довольно нерешительно.
+</p><p>На&#160;это ответа не&#160;было.
+</p><p>После продолжительного молчания он&#160;начинал манить к&#160;себе собаку, и&#160;когда та подходила и&#160;начинала обнюхивать его ногу, он&#160;принимался гладить ее по&#160;голове с&#160;величайшей осторожностью и&#160;неподдельною нежностью, чтобы заслужить благосклонность владычицы своей. Все идет благополучно: собака виляет хвостом, госпожа Иванова не&#160;сердится. Господин Михайлов просиял; но, желая еще более угодить своей владычице, он&#160;намеревается посадить собаку на&#160;колени и&#160;берет ее за&#160;лапу; вслед за&#160;тем раздается визг, поднимается лай, на&#160;руку господина Михайлова обрушивается полновесный удар, в&#160;голову его летит мокрая шапка, и&#160;среди лая раздается:
+</p><p>— Вон! вон! К&#160;чорту!
+</p><p>Господин Михайлов прячется за&#160;дверь. Стоя здесь, он&#160;слышит, как&#160;колотят собак, дергая их за&#160;уши, топают ногами, роняют стулья и&#160;проч. и&#160;проч. Проходит полчаса. Все утихает. Михайлов начинает по&#160;вершку приотворять дверь, понемногу влезает в&#160;комнату и, делая вершковые шаги, приближается к&#160;первому своему месту, на&#160;которое усаживается с&#160;утроенною против прежней осторожностью.
+</p><p>Тишина и&#160;молчание бесконечно длинные.
+</p><p>— Пойдем ко&#160;всеночной? — произносит, наконец, Михайлов.
+</p><p>— Подите к&#160;чорту, сделайте милость! — отвечают ему. — Положите&#160;же ножницы! Убирайтесь вон! Марфа! Позови дворника!
+</p><p>Такие возгласы в&#160;неизменном порядке следовали в&#160;течение целого вечера, вечернего чая и&#160;ужина и&#160;оканчивались, когда весь Петербург, а&#160;следовательно, и&#160;герои наши спали мертвым сном. И&#160;несмотря на&#160;это, Михайлов с&#160;удовольствием отдавал все, так как&#160;жилище госпожи Ивановой было единственный уголок, где об&#160;нем так или&#160;иначе думали. Никакие драки и&#160;потасовки, которыми награждала его подчас властительница, не&#160;могли оторвать его от&#160;ее квартиры.
+</p><p>Раздраженное состояние, в&#160;котором всегда являлась госпожа Иванова перед&#160;глазами Михайлова, не&#160;покидало ее и&#160;тогда, как&#160;ей приходилось быть совершенно одной. Ее бесил лай собак, которых она не&#160;могла все-таки выгнать вон, стук двери, падение ложки и&#160;т. д., все это производило моментальное буйство, мгновенно затихавшее, чтобы вспыхнуть с&#160;новою силою опять ради какой-нибудь ничтожной причины. Помимо лая собак, топанья ног и&#160;криков, раздававшихся как-то&#160;вдруг, в&#160;одну минуту, никаких звуков по&#160;целым дням не&#160;было слышно в&#160;квартире Ивановой; только в&#160;первых числах всякого месяца, когда Семен Михайлович приносил во&#160;власть своей повелительницы свое жалованье, в&#160;ней пробуждались полузабытые привычки, и&#160;она принималась разъезжать по&#160;лавкам, по&#160;Гостиному двору, покупала всяких безделиц и, оставшись к&#160;вечеру без&#160;гроша, делала всем жителям дома своего отъявленную сцену: собакам отрывались уши, Марфе летели в&#160;голову картофелины и&#160;котлеты, а&#160;Семен Михалыч принимал на&#160;главу свою сумму всех поруганий и&#160;обид. Промотавшись в&#160;Гостином дворе, госпожа Иванова с&#160;следующего дня принималась спускать только что&#160;купленные наряды и&#160;безделушки жидовкам, которые имеют все резоны видеть в&#160;особах подобного рода большую поживу. На&#160;вырученные таким образом крошки начиналось довольно горестное существование, преисполненное постоянного озлобления на&#160;все и&#160;на всех. Бывали моменты, когда средства госпожи Ивановой и&#160;ее покорного раба оскудевали окончательно, и&#160;тогда квартира ее представляла в&#160;высшей степени поучительное зрелище. В&#160;кухне на&#160;кровати лежала Марфа и&#160;молча оплакивала свою жизнь. На&#160;полках блестели чистые кастрюли, на&#160;чистом и&#160;пустом столе молча сидела кошка, недоумевая над&#160;нерадением господ хозяев о&#160;ее желудке, и&#160;угрюмо глядела холодная плита. А&#160;госпожа Иванова, безмолвно стиснув зубы, покоилась на&#160;кровати лицом к&#160;стене, и&#160;ей казалось, что&#160;самые стены ее квартиры зло подсмеиваются над&#160;нею, дразнят ее голодными днями, которые рано или&#160;поздно застигнут ее.
+</p><p>Одинокое существование Ивановой иногда разнообразилось посещением знакомых. Это были — или&#160;ее старинные друзья «мужчины», которые иногда по&#160;старой памяти привозили ей билет в&#160;театр или&#160;в маскарад, или&#160;такие&#160;же, как&#160;и она, особы женского пола. Как&#160;и&#160;она, все эти особы были швейками, потом какими-то&#160;судьбами вышли за&#160;восьмидесятилетних старцев, умерших через&#160;два дня брачной жизни и&#160;оставивших своим молодым женам пенсион в&#160;пятьдесят рублей в&#160;месяц и&#160;довольно звучный, в&#160;пределах Коломны, титул. Этот титул решительно сбивает с&#160;толку несчастных женщин; он&#160;не дает им возможности заняться работою, а&#160;объем пенсиона не&#160;дает возможности шнырять по&#160;лавкам, так что&#160;титулованным швеям остается одно: спать, пить целые дни кофе, вздыхать, опять спать и&#160;ходить первого числа в&#160;казначейство за&#160;получением пенсии. Зайдя в&#160;гости к&#160;госпоже Ивановой, такая особа заваливалась на&#160;кровать, расшнуровывала платье и&#160;вяло перебрасывалась с&#160;старой подругой разговорами об&#160;Александрийском театре, о&#160;Гостином дворе и&#160;о приятном мужчине военного звания, виденном ею у&#160;Покрова, и&#160;о прочем. В&#160;промежутках разговоров рекой льется кофе и&#160;идет еда. И&#160;во&#160;всем проглядывает одна гнетущая пустота бездействия…
+</p><p>Но&#160;бывали минуты, когда госпожа Иванова сильно задумывалась над&#160;своею участью, и&#160;тогда ее охватывала непроглядная тоска: ни&#160;в прошлом, ни&#160;в будущем нечего ей было вспоминать добром — все собиралось и&#160;собирается погубить ее, и&#160;нет ниоткуда помощи, ни&#160;участия. Ужас оковывал ее злое и&#160;испуганное собственною жизнию сердце; не&#160;зная, куда деться от&#160;него, она как-то&#160;отчаянно выбегала в&#160;кухню и&#160;говорила Марфе:
+</p><p>— Сбегай, принеси полштоф очищенной!
+</p><p>И&#160;горе было Семену Михайловичу, если он&#160;в эту минуту осмеливался высунуть свою голову в&#160;ее комнату. Опьянев, властительница его входила в&#160;настоящее исступление, и&#160;Марфа с&#160;минуты на&#160;минуту ждала всякого буйства, что&#160;было вполне возможно.
+</p><p>А&#160;между тем находились люди, да&#160;и немало их было, которые завидовали житью г-жи&#160;Ивановой, да&#160;и Марфа ей завидовала… Но&#160;читатель поймет, кому из&#160;них больше можно завидовать!
+</p>
+<center>3. ОБСТАНОВОЧКА</center>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading4"><h4 id="I">I</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)&amp;action=edit&amp;section=1" title="Редактировать раздел «I»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>…Долго ходил я&#160;по пыльным и&#160;горячим тротуарам Петербурга, отыскивая себе комнату; прочитал множество билетиков, лепящихся около звонков к&#160;дворникам, но&#160;ни «шамбр-гарни», изящно выведенные косыми буквами, ни&#160;бледнорыжие приглашения занять «маленки комнат» у&#160;чухонца-сапожника не&#160;влекли меня пройтись в&#160;четвертый этаж, в&#160;такой-то&#160;и такой-то&#160;нумер, так как&#160;мне уже в&#160;достаточной степени были знакомы как&#160;французские привычки содержательницы шамбр-гарни, желающей всякую муху, которая влетит жильцу в&#160;нумер, превратить в&#160;порцию и&#160;получить за&#160;нее деньги, так и&#160;идиллические нравы чухонского сапожника с&#160;чухонской кухаркой, полагающей, что&#160;если ее пошлют за&#160;папиросами, то&#160;их надобно принести непременно в&#160;рассоле от&#160;селедки.
+</p><p>Наконец на&#160;дворе у&#160;одного подъезда увидал я&#160;ярлычок, на&#160;котором то&#160;же приглашение «в 4-й этаж» было изображено с&#160;соблюдением всех знаков препинания и&#160;орфографии. Почерк ярлычка ясно показывал мне, что&#160;комнату отдает чиновник: какие-то&#160;ненужные и&#160;особенно прихотливые крюки букв ясно говорили, что&#160;за ними скрывается существо, которому уже давно надоели буквы в&#160;обыкновенном своем виде, которому среди однообразного писанья необходимо выдумывать все эти крюки и&#160;завитушки, чтобы как-нибудь переносить свою обязанность, и&#160;это существо не&#160;может быть ни&#160;француженкой, ни&#160;чухонкой, а&#160;непременно должно быть губернским или&#160;коллежским секретарем…
+</p><p>Поднявшись в&#160;четвертый этаж, я&#160;позвонил
+</p><p>Меня встретил тщедушный человек в&#160;жиденьком рваном халате, с&#160;кривым глазом, скрывавшимся за&#160;круглым стеклом синих очков; несмотря на&#160;темносиний цвет очков, я&#160;мог видеть как&#160;кривой глаз, так и&#160;здоровый, заметил, что&#160;при появлении моем глаз этот вытаращился до&#160;значительных размеров и&#160;несколько времени довольно часто моргал, выражая чрезмерное изумление, которое, кроме того, подтверждалось всеобщим подергиванием лица с&#160;угла на&#160;угол.
+</p><p>— Позвольте посмотреть комнату?
+</p><p>— С-с-с&#160;удовольствием!.. — вдруг проговорил чиновник и&#160;сунулся между какими-то&#160;занавесками.
+</p><p>За&#160;ним сунулся и&#160;я. Мы&#160;очутились в&#160;довольно приличной комнате. Я&#160;стал осматривать комнату кругом, и&#160;чиновник делал то&#160;же, как&#160;будто&#160;бы&#160;он ее в&#160;первый раз видел…
+</p><p>— Как&#160;вы находите комнату? — спросил он&#160;наконец, дернув щекой и&#160;головой в&#160;сторону.
+</p><p>— Мне очень нравится.
+</p><p>— Нравится?.. Гм?..
+</p><p>— Нравится.
+</p><p>— Очень рад!.. Я&#160;люблю обстановку… Положим, что&#160;я немного стеснился, но&#160;я… но&#160;жена… но&#160;обстановка… все-таки&#160;же… обстановочка? не&#160;так&#160;ли?
+</p><p>— Это так! — сказал я.
+</p><p>— Не так&#160;ли? Я&#160;откровенно скажу, мы&#160;с женой стараемся сделать обстановку… стульчик… кроватку — все, чтобы было хорошо.... мы&#160;с женой горды… у&#160;меня жена институтка, но&#160;мы горды! Моя ступка по&#160;всему дому ходит…
+</p><p>— Ступка? — спросил я&#160;в недоумении.
+</p><p>— Ступка! — сказал чиновник и&#160;опять вытаращил глаз.
+</p><p>Очевидно, что&#160;в запутанной голове чиновника ворочались какие-то&#160;мысли, которые он&#160;желал предъявить мне, чтобы зарекомендовать себя с&#160;хорошей стороны, но&#160;мысли эти, перебиваемые неловкостью минуты «первого знакомства» и&#160;дерганьем щеки в&#160;сторону, совершенно путались в&#160;его голове, и&#160;когда из&#160;уст чиновника, вследствие тайной связи мыслей, по&#160;всей вероятности существовавшей в&#160;его уме, одновременно вылетели такие разнородные слова, как «гордость» и «ступка», взаимное родство между которыми было решительно невозможно, по&#160;крайней мере для&#160;постороннего человека, и&#160;когда он&#160;в тоне моего голоса заметил недоумение, то&#160;мне делается совершенно понятным, почему после моего вопроса «ступка?» чиновник начал не&#160;только дергать глазом и&#160;щекой, но&#160;принялся чмокать широким выпятившимся ртом и&#160;как-то&#160;фыркать носом. Оправившись немного, чиновник начал снова:
+</p><p>— Моя жена институтка! — нерешительно пробормотал он. — Она скорее согласится умереть, нежели попросить у&#160;соседей чайную чашку. Она горда…
+</p><p>Я&#160;начинал понимать, в&#160;чем дело…
+</p><p>— Тогда как, — продолжал чиновник, — моя ступка ходит по&#160;всему дому… Изломали, испортили — я&#160;очень рад! Во&#160;всяком случае, что&#160;такое ступка? Пустяки! Но, между тем, я&#160;настолько горд, мы&#160;с женой настолько горды… что&#160;я думаю — чорт вас возьми со ступкой! Не так&#160;ли? Жена говорит — бог с&#160;ними! Мы&#160;с&#160;женой говорим — бог с&#160;вами! Настолько-то&#160;хватит гордости… — ступка! что&#160;такое? Двугривенный… Не так&#160;ли?
+</p><p>Я&#160;слушал, чувствуя некоторое головокружение от&#160;этой умственной пыли, которая клубами летела в&#160;меня из&#160;уст чиновника, — пыли, в&#160;которой мои глаза слепли и&#160;уши глохли от&#160;беспрерывно путавшихся ступок с&#160;институтками, гордости с&#160;обстановкой и&#160;со ступкой и&#160;т. д., — я&#160;поторопился встать, простился и&#160;обещал переехать на&#160;днях.
+</p>
+<div class="mw-heading mw-heading4"><h4 id="II">II</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)&amp;action=edit&amp;section=2" title="Редактировать раздел «II»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Фамилия моих хозяев была Гвоздевы. — Муж, чином губернский секретарь, назывался Гаврил Иваныч; жена — Клавдия Петровна. Спустя несколько дней после моего переезда хозяин, вполне довольный тем, что&#160;мне нравится обстановка его комнаты, объявил, что&#160;намерен относиться ко&#160;мне не&#160;как хозяин к&#160;жильцу, «но&#160;как человек к&#160;человеку»… Если читатель помнит запутанность мыслей в&#160;голове чиновника, о&#160;которой упомянуто в&#160;предшествовавшей главе, то&#160;ему будет понятно, почему отношение человека к&#160;человеку было не&#160;более, как&#160;ежеминутное шатание в&#160;мою комнату без&#160;всякого разбора того, занят я&#160;или нет…
+</p><p>— Нe как&#160;хозяин, но&#160;как человек, — говорил он&#160;обыкновенно, входя ко&#160;мне и&#160;отрывая от&#160;работы. — Это вы Беранже читаете?
+</p><p>— Я&#160;пишу… не&#160;читаю…
+</p><p>— Гм!..
+</p><p>Хозяин усаживался, и&#160;начиналось молчаливое моргание кривым глазом и&#160;подергивание щекою и&#160;головой в&#160;сторону.
+</p><p>Почему казалось ему, что&#160;я непременно должен читать Беранже, когда я&#160;пишу; почему вообще в&#160;голове у&#160;него шла какая-то&#160;околесица — мне в&#160;первое время было совершенно неизвестно. Но&#160;так как&#160;отношения человека к&#160;человеку не&#160;прекращались и&#160;я невольно должен был присутствовать при&#160;рассказах хозяина о&#160;разных случаях из&#160;его жизни, то&#160;умственная околесица его с&#160;течением времени несколько разъяснилась для&#160;меня. Таким образом мне стало известным, что&#160;Гаврил Иваныч имел от&#160;роду лет тридцать семь, супруга его — не&#160;более двадцати трех. Муж учился в&#160;молодости в&#160;гимназии, но&#160;из второго класса вышел, несколько времени жил на&#160;родительских хлебах, потом получил место, стал шататься по&#160;увеселительным заведениям, «пожил!», как&#160;он говорит, обзавелся разным худосочием и&#160;женился. Относительно умственного фонда можно сказать, что&#160;он знал имя барона Брамбеуса и «крамбамбули», которое не&#160;раз слышал на&#160;Крестовском. Жена училась в&#160;каком-то&#160;институте, где по&#160;обыкновению «не&#160;столько медикаменты, сколько рвение», то&#160;есть не&#160;столько наука, сколько «тонкое обращение» («ах, как&#160;нас строго держали!» — говорила жена Гаврила Иваныча); лепетала по-французски, была очень нежна, горда, как&#160;выражался муж, и&#160;притом недурна.
+</p><p>Достоинства, которыми обладали супруги, показались им достаточными для&#160;того, чтобы вступить в&#160;брак, и&#160;они вступили. От&#160;этого благополучного брака произошли, разумеется, дети. Так как&#160;папаша их обучался на&#160;Крестовском и&#160;в Екатерингофе, то&#160;дети родились с&#160;кривыми ногами, с&#160;золотухами, английскими болезнями. Так как&#160;мамаша более говорит по-французски, нежели понимает окружающие ее предметы, то&#160;относительно излечения детских недугов она совершенно одинакового мнения с&#160;кухаркой. Так как&#160;супруг и&#160;супруга одинаково не&#160;понимают существо так называемых общественных потребностей и&#160;главным образом считают себя не&#160;людьми просто, а «благородными», то&#160;мамаша учит детей по-французски и&#160;готовит их неизвестно для&#160;какой профессии. Папаша согласен и&#160;с этим и, слушая, как&#160;головастый сынок с&#160;распухшим от&#160;золотухи носом гнусит — <i>табль, шез</i>, — чувствует себя весьма довольным…
+</p><p>Головастые уродцы росли, неизвестно для&#160;удовлетворения какой общественной потребности.
+</p><p>— Скажите, пожалуйста, — спросил я&#160;у жены хозяина: — зачем вы учите вашего сына французскому языку?
+</p><p>— Как&#160;зачем? Это ему годится в&#160;обществе, — ответила она, сконфузившись и&#160;мигнув по-институтски глазами.
+</p><p>— А&#160;жить он&#160;чем будет?..
+</p><p>Оказалось, что&#160;дети еще малы и «мы&#160;не думали с&#160;Ганей».
+</p><p>Я&#160;советовал учить ребенка какому-нибудь ремеслу, говоря, что&#160;класс людей, сидящих на&#160;общественной шее, и&#160;без того велик. Барыня слушала, поддакивала, улыбаясь, но, видимо, не&#160;понимала, что&#160;такое общество, общественная шея…
+</p><p>— Он&#160;будет получать жалованье! — вдруг произнесла она…
+</p><p>Достойный потомок достойных родителей смотрел на&#160;меня во&#160;время этого разговора сердитыми оловянными глазами и&#160;вдруг разразился ревом.
+</p><p>— Ха-ацу в&#160;ваен-ные! — захлебнувшись слезами, порешил он, и&#160;я поспешил удалиться…
+</p><p>Спустя несколько времени я&#160;заговорил о&#160;том&#160;же предмете с&#160;самим родителем, но&#160;и он, оказалось, вне обстановки понимает только то, что&#160;существует 20-е число и&#160;казначей, у&#160;которого можно брать вперед, «перехватить»…
+</p><p>Углубляясь в&#160;существо этого брака, или, вернее, роясь в&#160;этой куче бессмыслиц, находим наконец, что&#160;единственная причина, которая побуждает такого рода людей устраивать такие прочные союзы, есть то, что&#160;Гаврил Иваныч называл «обстановка» и&#160;иногда «обстановочка» — свои комнаты, гости…
+</p><p>— Не в&#160;том штука, — сказал мне однажды Гаврил Иваныч, — чтобы подать селедку! Что&#160;такое селедка? — а&#160;как подать ее! Вот в&#160;чем дело! Везде нужна обстановка, обстановочка… Нужно ее распластать, посыпать лучком, чтобы было прилично… И&#160;вы посмотрите, как&#160;моя жена приготовляет селедку… Теперь я&#160;немножко стеснен… Мы&#160;с&#160;женой стеснены… Но&#160;во&#160;всяком случае мы&#160;настолько горды… Селедку найдете у&#160;меня всегда… Мы… мочим ее в&#160;молоке…
+</p><p>Вся эта обстановка с&#160;французским языком и&#160;глупостью начинала мне надоедать.
+</p>
+<div class="mw-heading mw-heading4"><h4 id="III">III</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)&amp;action=edit&amp;section=3" title="Редактировать раздел «III»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Хозяин несколько раз говорил мне, что&#160;он с&#160;женою теперь стеснен в&#160;обстоятельствах. Соображаясь с&#160;его взглядами на&#160;вещи, слова эти надо было понимать так, что&#160;ему нет возможности хорошенько распластать селедку, словом, развернуться и&#160;свободно вздохнуть, приобретя что-либо, соответствующее развитию и&#160;усовершенствованию обстановки.
+</p><p>Однажды я&#160;был разбужен утром какими-то&#160;довольно громкими звуками, доносившимися из&#160;передней.
+</p><p>— Почивают еще, вчера поздно пришли от&#160;знакомых, — говорила горничная кому-то.
+</p><p>— Нет&#160;уж, сделайте милость, разбудите Гаврила Ивановича, — умоляющим тоном произнес какой-то&#160;надорванный голос. — Мне никак нельзя… Как&#160;же, сами приказывали поскорее, я&#160;старался, заказной сюртук заложил на&#160;материал под&#160;жилет… Нет&#160;уж, сделайте милость!
+</p><p>— Да&#160;право… В&#160;первом часу&#160;бы.
+</p><p>— То&#160;есть никак нельзя… Я&#160;бы&#160;рад всей душой… Ну никак невозможно… Сделайте одолжение! Ребенок нездоров… Велики им три рубли?
+</p><p>Горничная молчала, слушая убедительнейшие просьбы портного, и, наконец, пошла к&#160;хозяевам. Через&#160;несколько времени она возвратилась и&#160;сказала:
+</p><p>— Право&#160;бы, в&#160;первом часу…
+</p><p>— Нет, уж я&#160;больше не&#160;могу!
+</p><p>В&#160;голосе портного звучало раздражение.
+</p><p>Вследствие особенного устройства петербургских квартир я&#160;невольно слышал все, что&#160;ни говорилось у&#160;хозяев; крик и&#160;разговоры детей порядочно-таки надоедали мне.
+</p><p>Горничная во&#160;второй раз возвратилась к&#160;хозяевам, и&#160;на этот раз я&#160;слышал какой-то&#160;шопот. Полагая, что&#160;у них нет денег, и&#160;зная, что&#160;через день-два мне придется платить за&#160;квартиру, я&#160;позвал горничную и&#160;отдал ей деньги для&#160;передачи хозяевам. Голос портного был до&#160;того действительно трогателен и&#160;пропитан крайнею нуждою, что&#160;я с&#160;охотою решился внести деньги прежде срока, хотя они&#160;были мне очень нужны самому.
+</p><p>Горничная отнесла деньги господам.
+</p><p>— Очень вам благодарен! — произнес хозяин громко, и&#160;между супругами начался полугромкий разговор. Среди его к&#160;уху моему, ожидавшему услышать что-нибудь благоприятное для&#160;портного, стали доноситься слова совершенно другого рода.
+</p><p>— Простенький, а? — слышалось мне. — Из&#160;крепированных волос?
+</p><p>— Да. Это хорошо! — сказал самодовольно хозяин.
+</p><p>— Помилуй, ведь надо&#160;же наконец! — лепетала супруга.
+</p><p>— Как&#160;же ему-то?
+</p><p>— Переговори!.. Что&#160;такое — не&#160;может подождать трех целковых; ему&#160;же дают хлеб, работу, и&#160;он не&#160;может погодить. Поди сам!
+</p><p>Портной кашлял, стоя в&#160;передней и&#160;ожидая, как&#160;сказала горничная, что&#160;барин сами выйдут. Послышалось шлепанье туфлей и&#160;покашливание.
+</p><p>— Здравствуй, любезный! — сказал барин.
+</p><p>— Доброго здоровья, Гаврил Иваныч… Уж вы сделайте милость…
+</p><p>— Я&#160;даю себе честное слово, что&#160;заказываю тебе в&#160;последний раз.
+</p><p>— Воля ваша!
+</p><p>— Я&#160;даю тебе хлеб, тебе&#160;же хочу сделать пользу, а&#160;ты…
+</p><p>— Я&#160;бы&#160;всей душой!
+</p><p>Голос хозяина возвышался; в&#160;передней поднялся крик, но&#160;портной был выпровожен без&#160;денег.
+</p><p>— Право, свинья! — входя ко&#160;мне, в&#160;волнении проговорил хозяин.
+</p><p>— Он&#160;очень нуждается, — сказал я.
+</p><p>— Помилуйте, нуждается! Что&#160;такое? Подай, подай! У&#160;меня у&#160;самого крайность… Вот собираюсь детей везти к&#160;доктору, нужно лечить… Кроме того, жена давно скучает без&#160;шиньона: надо&#160;же и&#160;ей… Положим, что&#160;мы стеснены теперь в&#160;средствах, но&#160;мы горды… Надо&#160;же наконец!
+</p><p>Я&#160;не&#160;отвечал, и&#160;хозяин скоро удалился.
+</p><p>— Из&#160;крепированных волос… знаешь… легонький… — слышалось за&#160;стеной…
+</p><p>— Что&#160;же!.. У&#160;Афанасьевой из&#160;крепированных?
+</p><p>— Нет — у&#160;нее тяжел…
+</p><p>— Живот!.. о-о! — запищал ребенок.
+</p><p>— А&#160;ты не&#160;вертись! — сказала мать. — А? Право? Из&#160;крепированных… Это очень пушисто… Что&#160;ты вертишься, как&#160;на игле? Разбить хочешь чашку?.. И&#160;так уж перебили посуды… от&#160;этого и&#160;живот у&#160;тебя болит… Право… Из&#160;крепированных, а, Гаша?
+</p><p>— Что&#160;ж… Люба просит жалованье… — глухим голосом прибавил муж.
+</p><p>Жена несколько времени помолчала.
+</p><p>— Она умеет только просить жалованье да&#160;бить посуду!
+</p><p>— Вы мне позвольте хоть за&#160;два месяца… Мне мужу нужно; ему в&#160;деревню посылать… — сказала необыкновенно робко горничная: — Я&#160;за&#160;три месяца не&#160;получила…
+</p><p>— Ты, матушка, — довольно храбро наступила на&#160;нее барыня, — прежде, чем считать, сколько тебе должны, подумай, кто будет отвечать за&#160;шинель, которую украли прошлого года!
+</p><p>— Чем&#160;же я-то, господи, виновата? Кажется, вместе с&#160;вами из&#160;бани шли; барин сами отворили двери, я&#160;прошла, а&#160;за мной еще барин оставались…
+</p><p>— Кто&#160;же у&#160;нас обязан смотреть за&#160;дверью — барин или&#160;горничная? скажите, пожалуйста!..
+</p><p>— Распотевши была… Распахнуться боялась — холодом обнесет.
+</p><p>— Распотевши! Вот это мило! Тебе придет в&#160;голову запотеть — а&#160;тут хоть все вытащи, тебе и&#160;горя мало! Хоть стены одни оставь… Распотевши!
+</p><p>Горничная молчала.
+</p><p>— Нет, матушка, — сказала барыня: — я&#160;год целый спускала тебе эту шинель… Мы&#160;не&#160;миллионеры… Шинель стоит шестьдесят рублей!.. Я&#160;могу тебе отдать за&#160;три месяца — изволь; только ты завтра&#160;же через&#160;мирового отдашь мне шестьдесят, она с&#160;бобровым воротником… Теперь, матушка, в&#160;одну минуту взыскивают.
+</p><p>— Чем я&#160;виновата? — попробовала было возвысить голос горничная.
+</p><p>— Ну так я&#160;сегодня подам к&#160;мировому… Мы&#160;узнаем, кто виноват.
+</p><p>Горничная заплакала.
+</p><p>— Клаша, ты это — напрасно… Ну вычитать&#160;бы…
+</p><p>— Молчи, пожалуйста! Какое тебе дело?
+</p><p>— Ну-ну, матушка, — сказал он&#160;горничной. — Ты это оставь глупости… Тут тебя не&#160;грабят ведь. Я&#160;ведь смотрю-смотрю, да&#160;ведь и&#160;двину… Сделай одолжение!
+</p><p>— Живот… — простонал ребенок.
+</p><p>— Что&#160;такое у&#160;него? — спросил муж.
+</p><p>— Просто извертелся, избаловался. Ему минуты покойно не&#160;посидится. Нужно положить его спать.
+</p><p>— Рано! Ведь только встали.
+</p><p>— Что&#160;за&#160;рано? Люба! Поди-ко&#160;вот, чем хныкать-то, уложи Колю спать.
+</p><p>— Не хочу спа-ать! — начиная реветь, протянул ребенок.
+</p><p>— Ну как&#160;же! Все умничают!.. Положи его! — заключила барыня.
+</p><p>Начался плач… Среди его по&#160;временам слышались слова: «право, из&#160;крепированных, а?» Слышался легкий треск плетеной люльки, куда рассерженная кухарка пихала ребенка. Во&#160;время этого плача мимо моих дверей прошумел подол платья, проскрипели сапоги Гаврила Иваныча, и&#160;супруги исчезли.
+</p><p>В&#160;квартире царствовало какое-то&#160;ревущее безобразие.
+</p><p>Бессмысленное убеждение относительно приобретения шиньона, основанное единственно на&#160;том, что&#160;нельзя&#160;же без&#160;шиньона, когда и&#160;Авдотья Андреевна уже приобрела его, было столь сильно в&#160;обоих супругах, что&#160;они как&#160;будто не&#160;понимали, что&#160;наравне с&#160;необходимостью приобретать шиньоны на&#160;их обязанности лежит более настоятельная необходимость содержать здоровыми желудки собственных детей. Сила бессмысленных желаний, выходящая из&#160;общего источника вышеупомянутых бессмыслиц, на&#160;которых зиждилось и&#160;воспитание супругов и&#160;их законное соединение для&#160;совместного делания бессмыслиц усиленных, — сила эта была так велика, что&#160;покорила даже сострадание к&#160;горничной, к&#160;портному, которые в&#160;глазах супругов в&#160;настоящие минуты были действительно забывшими бога людьми. Стеснительные обстоятельства были забыты при&#160;первой возможности удовлетворить «обстановке».
+</p><p>Часов в&#160;двенадцать дня, когда я&#160;сидел за&#160;работой, громкий звонок возвестил всему ревевшему семейству чиновника о&#160;прибытии хозяина и&#160;хозяйки.
+</p><p>— Ради бога! извините, пожалуйста! мне на&#160;минуточку взглянуть в&#160;зеркало. У&#160;вас самое большое наше зеркало, — в&#160;каком-то&#160;самозабвении заговорила хозяйка, влетая в&#160;мою комнату и&#160;торопливо снимая с&#160;головы шляпку.
+</p><p>— Извините, пожалуйста! — проговорил муж с&#160;мокрым лицом, с&#160;коробкой в&#160;руках и&#160;с трубкой материи подмышкой. — Разорился! — продолжал он. — Что&#160;делать! Думали купить шиньон, ан тут подвернулся остаток материи. Нонешняя, бисмарк. Не хотелось… Уж заодно!
+</p><p>— Недурно, Гаврила Иваныч? — бормотала супруга, вертясь перед&#160;зеркалом. — Не правда&#160;ли, мило?
+</p><p>— Очень мило! Из&#160;крепированных волос, — обратился он&#160;ко мне. — Легонький!
+</p><p>Трескотня эта продолжалась минут пятнадцать, наконец супруги ушли.
+</p><p>— Спит Коля? — послышалось за&#160;перегородкой.
+</p><p>— У&#160;них животик тугой.
+</p><p>— Пусть его спит… а? Не правда&#160;ли… мило?
+</p><p>— Очень, очень прилично!.. Что&#160;же ты — надо дать на&#160;обед.
+</p><p>Последовал шопот.
+</p><p>— До&#160;десятого надо протянуть, — говорит муж. — Погодить&#160;бы&#160;покупать-то.
+</p><p>— До&#160;которых пор это годить?.. Позвольте узнать?
+</p><p>— На&#160;стол-то&#160;мало.
+</p><p>— Пожалуйста, будь спокоен… На — вот тридцать копеек… купи картофелю… Детям вредно мясо… тяжело ложится на&#160;желудок… гороху.
+</p><p>Горничная ушла; между супругами происходил разговор насчет того, что&#160;как это все к&#160;лицу и&#160;дешево, и&#160;насчет того, что&#160;как&#160;бы&#160;с тремя рублями протянуть до&#160;десятого. Во&#160;время этого разговора супруг опять вошел ко&#160;мне и&#160;объявил:
+</p><p>— Долго&#160;ли&#160;я ходил? Каких-нибудь два часа, а&#160;пятнадцати целковых как&#160;не бывало… Вот оно, батюшка, семейная жизнь! А&#160;нельзя! Надо поддерживать обстановку!.. Такие уж уродились мы&#160;с женой — горды мы&#160;очень!.. Гордости тьма-тьмущая!
+</p><p>После целого дня всевозможных бессмыслиц, которых мне пришлось быть свидетелем, я&#160;полагал уже, что&#160;гордая глупость моих хозяев разыгралась до&#160;конца и&#160;продолжения ее не&#160;будет; но&#160;ночью, когда все живущие в&#160;квартире были уже в&#160;постели, с&#160;двуспальной кровати моих хозяев, вопреки моему желанию, до&#160;меня неожиданно донеслись слова:
+</p><p>— К&#160;другим ходим, к&#160;себе никого… Много&#160;ли&#160;тут… водки, селедки… — говорила жена.
+</p><p>— Н-да… Селедочку с&#160;лучком… помочить ее.
+</p><p>Очевидно, что&#160;супругам недостаточно было того, что&#160;шиньон лежал в&#160;коробке на&#160;шкафу; им нужно было видеть его в&#160;действии. Вследствие этого вечером следующего дня ко&#160;мне еще раз явился хозяин.
+</p><p>— Позвольте вас просить, — сказал он, — завтра провести с&#160;нами вечерок.
+</p><p>— Я&#160;должен быть в&#160;другом месте. Извините!
+</p><p>— Очень жаль! А&#160;то&#160;бы в&#160;карточки? партийку?
+</p><p>— Не играю в&#160;карты.
+</p><p>— Очень жаль. Особенного ничего не&#160;будет. Но, надеюсь, все будет прилично. Мы&#160;с&#160;женой…
+</p><p>— Не могу! — сказал я&#160;решительно.
+</p><p>— В&#160;таком случае позвольте просить у&#160;вас комнату на&#160;несколько часов?
+</p><p>Я&#160;изъявил согласие.
+</p><p>Целое утро следующего дня хозяин бегал по&#160;городу, отыскивая денег. Часам к&#160;двум он&#160;воротился с&#160;кульком, потным лицом, вытаращенным глазом и&#160;дергающейся щекой.
+</p><p>— Что&#160;будешь делать! — говорил он&#160;мне. — Не успел повернуться — десяти целковых нет в&#160;кармане! Живи, как&#160;знаешь…
+</p><p>Я&#160;снова изъявил сочувствие.
+</p><p>Часу в&#160;шестом начали появляться гости, мужчины и&#160;дамы, и&#160;тотчас&#160;же принялись за&#160;стуколку. Так как&#160;комнаты хозяев были заняты чайным столом, то&#160;детей с&#160;больными желудками оттеснили в&#160;кухню, стараясь поплотнее притворять дверь, чтобы гости не&#160;слышали крика и&#160;плача… Я&#160;тотчас&#160;же ушел из&#160;дому и&#160;воротился в&#160;третьем часу ночи, будучи уверен, что&#160;все уже кончилось; но, к&#160;удивлению моему, окна моей комнаты были освещены. Я&#160;поднялся по&#160;черной лестнице и&#160;вошел в&#160;кухню.
+</p><p>Здесь моим глазам представилось ужасающее зрелище, устроенное взаимными усилиями просвещенных супругов. Атмосфера маленькой кухни была раскалена до&#160;последней степени. Волны чада закрывали все, кроме огненного зева плиты, — и&#160;в глубине этого ада слышался плач и&#160;стоны детей, которые не&#160;могли заснуть от&#160;боли в&#160;желудках, от&#160;жары и&#160;угоревших голов. Кухарка, которую подняли с&#160;пяти часов утра, которая была измучена работой — так как&#160;она должна была принимать одежду гостей, подавать чай, таскать детей из&#160;комнаты в&#160;кухню и, кроме всего этого, мучиться муками мужа, которому нечего послать в&#160;деревню, — была разозлена и&#160;на просьбы плачущих детей отвечала чуть&#160;ли&#160;не дракой, после которой у&#160;нее самой выступали слезы.
+</p><p>— А? Не правда&#160;ли, — лепетала Клавдия Петровна в&#160;гостиной, поворачивая к&#160;гостье затылок с&#160;шиньоном из&#160;крепированных волос… — Недурно?
+</p><p>— Оч-чень, очень мило!
+</p><p>— Легонький! — прибавлял супруг, рассоловевший от&#160;водки.
+</p><p>Мне некуда было деться, так как&#160;хотя хозяин и&#160;относился ко&#160;мне как&#160;человек к&#160;человеку, но&#160;забравшись с&#160;гостями в&#160;мою комнату, кажется, и&#160;не думал уходить оттуда.
+</p><p>Злодейства эти продолжались до&#160;девяти часов утра.
+</p><p>Злодейства «обстановки», — результатами которых был горох, плач детей, французский язык и&#160;неизменная атмосфера глупости, — продолжаются до&#160;сего дня.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ПРИМЕЧАНИЯ"><span id=".D0.9F.D0.A0.D0.98.D0.9C.D0.95.D0.A7.D0.90.D0.9D.D0.98.D0.AF"></span>ПРИМЕЧАНИЯ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)&amp;action=edit&amp;section=4" title="Редактировать раздел «ПРИМЕЧАНИЯ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Группа рассказов под&#160;заглавием «Мелочи» впервые образована в&#160;четвертом томе (1884&#160;г.) первого издания «Сочинений», в&#160;конце «Приложений» тома.
+</p><p>Название отдела «Мелочи» для&#160;очерков и&#160;рассказов, идущих после большого произведения, писатель применял не&#160;раз и&#160;ранее: например, под&#160;этим&#160;же названием в&#160;сборнике 1871&#160;года после «Разоренья» Успенский напечатал три других рассказа («Старьевщик», «Идиллия», «Зарок не&#160;пить»). В&#160;настоящем издании заглавие «Мелочи» сохраняется, так как&#160;сам Успенский оставил его в&#160;последующих изданиях своих «Сочинений». В&#160;первый том «Мелочи» переносятся потому, что&#160;тематика входящих в&#160;них рассказов 1865—1868&#160;годов тесно переплетается с&#160;тематикой цикла рассказов «Столичная беднота».
+</p>
+<center>1. Дворник</center>
+<p>Рассказ впервые напечатан в&#160;серии «Петербургские очерки. 1. Дворник (Вместо предисловия). 2. № 24 и&#160;его обитатели. Шалопай. 3. Арабеска не&#160;более» («Будильник», 1865, М. № 80, 84, 85, 88, 90), под&#160;псевдонимом М.&#160;Б — н. Из&#160;этих очерков только «Дворник», с&#160;небольшими исправлениями, перепечатывался автором "в&#160;сборнике «Глушь», СПБ., 1875&#160;года, в&#160;отделе «Из&#160;столичной жизни», и&#160;во всех изданиях «Сочинений».
+</p><p>Успенский недаром обращает внимание читателя на «незаметную» фигуру дворника, называя его героем настоящего времени, — новые персонажи, новые типы из&#160;трудового народа усиленно выдвигала демократическая литература 60-х годов.
+</p><p>Стр.&#160;327 <i>…под&#160;мотив</i> из <i>«Эрнани»</i> — опера Джузеппе Верди (1813—1901) «Эрнани» (1844), написанная на&#160;сюжет одноименной драмы в&#160;стихах Виктора Гюго.
+</p>
+<center>2. По&#160;черной лестнице</center>
+<p>Рассказ впервые напечатан в&#160;журнале «Женский вестник», 1867, VII, с&#160;подзаголовком «Столичные нравы». С&#160;сокращениями он&#160;был перепечатан в&#160;сборнике «Глушь» 1875&#160;года, в&#160;отделе «Из&#160;столичной жизни»; из&#160;этих сокращений надо отметить вычеркнутое Успенским н начале рассказа описание «лютой петербургской зимы» и&#160;ее тяжелых последствий для&#160;бедноты. Рассказ подвергся стилистической правке при&#160;включении его автором в «Сочинения».
+</p><p>Стр.&#160;343. <i>Журфиксы</i> — вечера для&#160;приема гостей в&#160;заранее определенный день недели.
+</p>
+<center>3. Обстановочка</center>
+<p>Рассказ впервые напечатан в&#160;газете «Неделя», 1868, № 38, под&#160;заглавием «Шиньон (Из&#160;петербургских заметок)»; перепечатан в&#160;сборнике «Глушь», СПБ., 1875&#160;года, в&#160;отделе «Из&#160;столичной жизни», с&#160;заглавием «Обстановка»; с&#160;небольшой авторской правкой вошел во&#160;все «Сочинения».
+</p><p>В&#160;первопечатном тексте очерк посвящен «С. С.&#160;Ш — ву» — С.&#160;С. Шамкову (1841—1882), в&#160;то время — политическому ссыльному, автору статей по&#160;женскому вопросу «Детоубийство», «Исторические судьбы женщины» и&#160;др.
+</p><p>Стр.&#160;347. <i>«Шамбр-гарни»</i> (франц. chambros garnies) — меблированные комнаты.
+</p><p>— <i>Губернский или&#160;коллежский секретарь</i> — должности чиновников. Из 14-ти классов табели о&#160;рангах, изданной еще Петром I в 1722&#160;году, это — низшие по&#160;классам должности (12-й и 10-й классы).
+</p><p>Стр.&#160;350. <i>Беранже</i> Пьер-Жан (1780—1857) — французский поэт-демократ, прославившийся своими сатирами, песнями и&#160;памфлетами; пользовался особенно большой популярностью в&#160;среде демократической интеллигенции 60-х годов.
+</p><p>— <i>Барон Брамбеус</i> — псевдоним О.&#160;И. Сенковского (1800—1858), реакционного журналиста и&#160;критика. Во&#160;второй половине 50-х годов Сенковский был фельетонистом «Сына отечества» и «Весельчака».
+</p><p>— <i>«Крамбамбули»</i> — застольная песня; крамбамбули — вишневая настойка со специями.
+</p><p>Стр.&#160;351. <i>Табль, шез</i> (франц. table, chaise) — стол, стул.
+</p><p>Стр.&#160;354. <i>Шиньон</i> (франц. chignon) — женская прическа с&#160;накладными локонами.
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5c9fc7f974‐8r4hz
+Cached time: 20260215130824
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.107 seconds
+Real time usage: 0.187 seconds
+Preprocessor visited node count: 284/1000000
+Revision size: 124828/2097152 bytes
+Post‐expand include size: 9089/2097152 bytes
+Template argument size: 1182/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 666/5000000 bytes
+Lua time usage: 0.053/10.000 seconds
+Lua memory usage: 1822865/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  151.699      1 -total
+ 94.19%  142.882      1 Шаблон:Отексте
+  5.62%    8.519      3 Шаблон:---
+  1.36%    2.068      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1042392:|#|:idhash:canonical and timestamp 20260215130824 and revision id 5595839. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Мелочи_(Успенский)&amp;oldid=5595839">https://ru.wikisource.org/w/index.php?title=Мелочи_(Успенский)&amp;oldid=5595839</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%BB%D0%B5%D0%B1_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9" title="Категория:Глеб Иванович Успенский">Глеб Иванович Успенский</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1868_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1868 года">Литература 1868 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BD%D0%B5_%D0%B2%D0%B8%D0%BA%D0%B8-%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Импорт/lib.ru/Страницы с не вики-заголовками">Импорт/lib.ru/Страницы с не вики-заголовками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%93%D0%BB%D0%B5%D0%B1_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9" title="Категория:Импорт/az.lib.ru/Глеб Иванович Успенский">Импорт/az.lib.ru/Глеб Иванович Успенский</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 31 июля 2025 года в 06:29.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9C%D0%B5%D0%BB%D0%BE%D1%87%D0%B8_(%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Мелочи (Успенский)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-f79556446-bq94z","wgBackendResponseTime":129,"wgPageParseReport":{"limitreport":{"cputime":"0.107","walltime":"0.187","ppvisitednodes":{"value":284,"limit":1000000},"revisionsize":{"value":124828,"limit":2097152},"postexpandincludesize":{"value":9089,"limit":2097152},"templateargumentsize":{"value":1182,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":666,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  151.699      1 -total"," 94.19%  142.882      1 Шаблон:Отексте","  5.62%    8.519      3 Шаблон:---","  1.36%    2.068      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.053","limit":"10.000"},"limitreport-memusage":{"value":1822865,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Глеб Иванович Успенский\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"1. Дворник\u003Cbr\u003E\\\n2. По черной лестнице\u003Cbr\u003E3. Обстановочка\",\n    [\"published\"] = \"1868\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/u/uspenskij_g_i/text_0330.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Мелочи\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-5c9fc7f974-8r4hz","timestamp":"20260215130824","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

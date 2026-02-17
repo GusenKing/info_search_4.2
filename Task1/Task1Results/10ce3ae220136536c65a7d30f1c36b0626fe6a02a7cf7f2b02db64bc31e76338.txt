@@ -1,0 +1,1287 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Посещение Праги (Лабуле) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"4a031eea-d500-4d14-8360-ab598b78e703","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Посещение_Праги_(Лабуле)","wgTitle":"Посещение Праги (Лабуле)","wgCurRevisionId":5613294,"wgRevisionId":5613294,"wgArticleId":1037596,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Указан переводчик в параметре ДРУГОЕ","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru","Импорт/az.lib.ru/Эдуар-Рене Лабуле","Переводы, выполненные неизвестными переводчиками","Переводы с французского языка","Детская литература","Сборники рассказов","Сказки","Эдуар-Рене Лабуле","Литература 1864 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Посещение_Праги_(Лабуле)","wgRelevantArticleId":1037596,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5613294,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Посещение Праги (Лабуле) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Посещение_Праги_Лабуле rootpage-Посещение_Праги_Лабуле skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5+%D0%9F%D1%80%D0%B0%D0%B3%D0%B8+%28%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5+%D0%9F%D1%80%D0%B0%D0%B3%D0%B8+%28%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5+%D0%9F%D1%80%D0%B0%D0%B3%D0%B8+%28%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5+%D0%9F%D1%80%D0%B0%D0%B3%D0%B8+%28%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Посещение_Праги"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Посещение_Праги">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Посещение Праги</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Посещение_Праги-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-I._Доволен_ли_ты?_или_История_носов"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#I._Доволен_ли_ты?_или_История_носов">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>I. Доволен ли ты? или История носов</span>
+			</div>
+		</a>
+		
+		<ul id="toc-I._Доволен_ли_ты?_или_История_носов-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-II._Хлеб_из_золота"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#II._Хлеб_из_золота">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>II. Хлеб из золота</span>
+			</div>
+		</a>
+		
+		<ul id="toc-II._Хлеб_из_золота-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ХЛЕБ_ИЗ_ЗОЛОТА"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ХЛЕБ_ИЗ_ЗОЛОТА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>ХЛЕБ ИЗ ЗОЛОТА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ХЛЕБ_ИЗ_ЗОЛОТА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-III._Песнь_гусара"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#III._Песнь_гусара">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>III. Песнь гусара</span>
+			</div>
+		</a>
+		
+		<ul id="toc-III._Песнь_гусара-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ПЕСНЬ_ГУСАРА"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ПЕСНЬ_ГУСАРА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>ПЕСНЬ ГУСАРА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ПЕСНЬ_ГУСАРА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-IV._История_Чванды_(Ssvanda)_—_вoлыночникa"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#IV._История_Чванды_(Ssvanda)_—_вoлыночникa">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>IV. История Чванды (Ssvanda) — вoлыночникa</span>
+			</div>
+		</a>
+		
+		<ul id="toc-IV._История_Чванды_(Ssvanda)_—_вoлыночникa-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ЧВАНДА-ВОЛЫНОЧНИК"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ЧВАНДА-ВОЛЫНОЧНИК">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>ЧВАНДА-ВОЛЫНОЧНИК</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ЧВАНДА-ВОЛЫНОЧНИК-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-V._Гуси_доброго_Бога"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#V._Гуси_доброго_Бога">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>V. Гуси доброго Бога</span>
+			</div>
+		</a>
+		
+		<ul id="toc-V._Гуси_доброго_Бога-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ГУСИ_ДОБРОГО_БОГА"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ГУСИ_ДОБРОГО_БОГА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>ГУСИ ДОБРОГО БОГА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ГУСИ_ДОБРОГО_БОГА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-VI._Двенадцать_месяцев"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#VI._Двенадцать_месяцев">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">11</span>
+				<span>VI. Двенадцать месяцев</span>
+			</div>
+		</a>
+		
+		<ul id="toc-VI._Двенадцать_месяцев-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ДВЕНАДЦАТЬ_МЕСЯЦЕВ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ДВЕНАДЦАТЬ_МЕСЯЦЕВ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">12</span>
+				<span>ДВЕНАДЦАТЬ МЕСЯЦЕВ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ДВЕНАДЦАТЬ_МЕСЯЦЕВ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-VII._История_царя_Самарийского"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#VII._История_царя_Самарийского">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">13</span>
+				<span>VII. История царя Самарийского</span>
+			</div>
+		</a>
+		
+		<ul id="toc-VII._История_царя_Самарийского-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ИСТОРИЯ_ЦАРЯ_САМАРИЙСКОГО"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ИСТОРИЯ_ЦАРЯ_САМАРИЙСКОГО">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">14</span>
+				<span>ИСТОРИЯ ЦАРЯ САМАРИЙСКОГО</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ИСТОРИЯ_ЦАРЯ_САМАРИЙСКОГО-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Посещение Праги (Лабуле)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5+%D0%9F%D1%80%D0%B0%D0%B3%D0%B8+%28%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;oldid=5613294" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_%28%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5%29&amp;id=5613294&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259F%25D0%25BE%25D1%2581%25D0%25B5%25D1%2589%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5_%25D0%259F%25D1%2580%25D0%25B0%25D0%25B3%25D0%25B8_%28%25D0%259B%25D0%25B0%25D0%25B1%25D1%2583%25D0%25BB%25D0%25B5%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259F%25D0%25BE%25D1%2581%25D0%25B5%25D1%2589%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5_%25D0%259F%25D1%2580%25D0%25B0%25D0%25B3%25D0%25B8_%28%25D0%259B%25D0%25B0%25D0%25B1%25D1%2583%25D0%25BB%25D0%25B5%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_%28%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_%28%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_%28%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_%28%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_%28%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_%28%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Посещение Праги</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%AD%D0%B4%D1%83%D0%B0%D1%80-%D0%A0%D0%B5%D0%BD%D0%B5_%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5" title="Автор:Эдуар-Рене Лабуле">Эдуар-Рене Лабуле</a></span>, переводчик неизвестен</span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Оригинал:  <span id="ws-original&#95;lang" data-langcode="fr">фр.</span> <i><span id="ws-original&#95;title">Contes Bohemes</span></i>, опубл.: <span id="ws-original&#95;published">1864</span>.&#160;— Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/l/labule_e/text_1864_contes_bohemes.shtml">az.lib.ru</a></span>  • (Чешские сказки).<br /><i>Русский перевод 1869&#160;г. (без&#160;указания переводчика).</i></td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%AD%D0%B4%D1%83%D0%B0%D1%80-%D0%A0%D0%B5%D0%BD%D0%B5_%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5" title="Автор:Эдуар-Рене Лабуле">Эдуар-Рене Лабуле</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="Посещение_Праги"><span id=".D0.9F.D0.BE.D1.81.D0.B5.D1.89.D0.B5.D0.BD.D0.B8.D0.B5_.D0.9F.D1.80.D0.B0.D0.B3.D0.B8"></span>Посещение Праги</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=1" title="Редактировать раздел «Посещение Праги»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-1.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/3/37/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-1.jpg" decoding="async" width="684" height="383" class="mw-file-element" data-file-width="657" data-file-height="368" /></a><figcaption></figcaption></figure>
+<p>— Сударь, — сказал слуга [<i>Kellner</i>], величественно входя в&#160;мою комнату, как&#160;какой-нибудь нотариус в&#160;комедии, имея за&#160;ухом перо, в&#160;руке чернильницу и&#160;под мышкою реестр, — не&#160;будете&#160;ли&#160;вы так добры записаться в&#160;отельную книгу? Вот здесь, — прибавил он, раскрывая реестр и&#160;указывая мне на&#160;страницу, всю изборождённую чёрными линиями. — Потрудитесь, сударь, только написать вашу фамилию, ваше имя, сколько вам лет, где ваше постоянное местопребывание, срок вашего паспорта, вашей последдней визы, чем занимаетесь, холосты или&#160;женаты, какого вероисповедания…
+</p><p>— Клянусь Богом! — прервал я, — у&#160;вас здееь, в&#160;Праге, страшно любопытны; я&#160;много путешествовал, но&#160;у меня ещё никогда не&#160;треболи сообщать таких подробностей.
+</p><p>— Сударь в&#160;Австрии, — заметил <i>кельнер</i> , прищуривая один глаз, — а&#160;это страна, в&#160;которой очень любят статистику.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-2.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/5/5b/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-2.jpg" decoding="async" width="313" height="590" class="mw-file-element" data-file-width="301" data-file-height="567" /></a><figcaption></figcaption></figure>
+<p>Я&#160;неохотно взялся за&#160;перо. Я&#160;уже исписал шесть первых столбцов, как&#160;вдруг заметил, что&#160;путешественник, записанный наверху страницы, объявил себя рантье, женатым и&#160;католиком, и&#160;что под&#160;этими тремя таинственными словами все вновь прибывшие писали гуськом: dito, dito, dito. Это, без&#160;сомнения, было в&#160;Австрии в&#160;порядке, и&#160;потому я&#160;счёл за&#160;лучшее последовать примеру моих предшественников.
+</p><p>Когда я&#160;кончил, кельнер наклонился к&#160;реестру и&#160;прочёл моё имя с&#160;таким вниманием, что&#160;меня задело за&#160;живое. Проведя пальцем по&#160;каждому столбцу, подумавши, почесавши у&#160;себя за&#160;ухом, и, наконец, вторично прищуривая свой глаз, что&#160;ему придавало ложный вид Мефистофеля, он&#160;обратился ко&#160;мне с&#160;вопросом:
+</p><p>— Господин профессор сохраняет инкогнито?
+</p><p>— Неужели для&#160;того, чтобы сохранить инкогнито, надо ещё быть известным, — ответил я, довольно-таки изумлённый этим титулом профессора, которым меня приветствовали в&#160;Богемии. — Вы меня принимаете за&#160;другого.
+</p><p>— Как! — воскликнул кельнер. — Разве я&#160;имею честь говорить не&#160;с господином профессором Л...... из&#160;Парижа, которого мы&#160;вот уже три дня как&#160;ожидаем.
+</p><p>— Час от&#160;часу не&#160;легче. Вы дьявол, мой милый, если только не&#160;глава австрийской статистики.
+</p><p>— Ни&#160;то&#160;ни другое, сударь, — ответил он&#160;с притворным смирением человека, смущённого тем, что&#160;его приняли за&#160;другого. — Уже три дня у&#160;привратника лежит письмо, адресованное на&#160;имя профессора, Я&#160;сию&#160;же минуту принесу его.
+</p><p>Сказав это, он&#160;раскланялся со мною, в&#160;третий раз прищурил свой глаз. Это была его манера быть остроумным.
+</p><p>Письмо! В&#160;Париже оно не&#160;произвело&#160;бы&#160;меня никакого особенного впечатления, но&#160;на чужбине для&#160;меня это было настоящее счастье. Вдали от&#160;своей родины только и&#160;имеешь в&#160;помыслах, что&#160;тех, кого любишь. Одиночество заставляет окружать себя этими дорогими воспоминаниями, так как&#160;приятно всё-таки сознаваться, что&#160;и ты не&#160;забыт.
+</p><p>Письмо было, однако&#160;же, не&#160;из Франции, из&#160;Германии, от&#160;моего доброго и&#160;старого друга, доктора Вольфганга Готтлоба, профессора филологии в&#160;Гейдельбергском университете, который написал мне с&#160;целью утешить себя этим за&#160;то, что&#160;его не&#160;было в&#160;Гейдельберге, в&#160;мою бытность там. Содержание этого письма, написанного по&#160;латыни, сильно отзывающегося Цицероном, было следующее:
+</p><p>LAUSDEO Prof. S.D.BETULEIO Prof.
+</p><p>«S, V. В. Е. Е. Q, У. Те In Bohemiam salvum venisse, et quietum tandem Praga ad signum Coerulei Sideris (viilgo zum blaueti Sterne) consedisse, vehementer exopto. Me absentem fuisse Heidelberga, meo tempore pernecessario, sumboleste fero; hoc me tamen consolor; te brevi ad hane germanicam musarum arcem rediturum sodales nostri ima voce renuntiant. Accipe interea hanc hospitalem tesseram, quam non minus tibi quam discipulo et amico nostro Stephano Stryo, jueundam fore spero, Tuas etiam Pragenses expecto litteras, ut? sicut ait Tullius noster, habeam rationem non modo negotii, verum etiam otii tui. Nee enim te fugit aureum Socratis dictum: Panta philon koina. Cura ut valeas, et ut sciam quando cogites Heidelbergam. Etiam atque etiam vale.»
+</p><p>Я&#160;позволю себе перевести это послание для&#160;тех из&#160;моих любезных читательниц, которые могли лишиться своего знания латинского языка, исправляя ложные понятия гг. своих мужей.
+</p><p>Профессор Готтлоб профессору Л..... приветствие.
+</p><p>«Мне приятно было&#160;бы&#160;слышать, что&#160;вы здоровы; что&#160;касается меня, то&#160;я здоров. Желаю, чтобы вы прибыли в&#160;Богемию в&#160;добром здравии и&#160;наконец в&#160;покое отдохнули&#160;бы&#160;в Праге, в&#160;отеле Голубой Звезды. Я&#160;очень сожалею, что&#160;мне не&#160;удалось быть в&#160;Гейдельберге, когда моё присутствие там было так необходимо; во&#160;всяком случае я&#160;утешаю себя тем, что&#160;вы, как&#160;сообщают мне все мои собраты, скоро возвратитесь в&#160;это местопребывание германских муз. Между тем примите эту <i>tessera hospitalis</i> , которая доставит, я&#160;надеюсь, удовольствие как&#160;вам, так и&#160;моему другу и&#160;ученику Степану Стржбрскому. Жду ваших писем из&#160;Праги, чтобы иметь, как&#160;говорит Цицерон, отчёт как&#160;в ваших удовольствиях, так и&#160;в вашших занятиях. Вы не&#160;забыли, конечно, превосходные слова Сократа: <i>между друзьями всё общее</i> . Берегите вашег здоровье и&#160;напишите мне, когда вы намерены приехать в&#160;Гейдельберг. Прощайте, и&#160;ещё раз прощайте.»
+</p><p><i>Tessera hospitalis</i> , которую я&#160;спрятал свой бумажник, была не&#160;что иное, как&#160;визитная карточка, которой почтенный Вольфганг Готтлоб дал эпиграфический оборот:
+</p><p>Своему возлюбленному другу доктору
+</p><p>СТЕПАНУ СТРЖБРСКОМУ
+</p><p>Коловратская улица, 719
+</p><p>Д-р ВОЛЬФГАНГ ГОТТЛОБ.
+</p><p>Т.&#160;С.&#160;П. О.&#160;П. [<i>Тайный советник, публичный ординарный профессор</i>]
+</p><p>Великолепный Ректор рекомендует как&#160;друга и&#160;брата доктора и&#160;профессора Л. из&#160;Парижа.
+</p><p>Reddes incolumem, precor,
+</p><p>Et serves animae di midi urn meae.
+</p><p>О, дорогое немецкое гостеприимство, святое собратство по&#160;науке, которые столько раз доставляли мне приют в&#160;чужих краях, я&#160;не знаю, как&#160;благословлять вас! Если я&#160;и не&#160;сделался, несмотря на&#160;мои путешествия, умнее и&#160;добродетельнее, как&#160;благоразумный Улисс, нашедший со времён осады Трои искусство всегда возвращаться на&#160;воду: Adversis rerum immersabilis imdis, то&#160;по крайней мере у&#160;меня, благодаря им, расширялся горизонт моей мысли, сделалось шире моё сердце, и&#160;я узнал, что&#160;Бог щедрою рукою рассеял по&#160;всей земле чудеса, которым можно удивляться, и&#160;людей, которых можно любить.
+</p><p>Весьма обрадованный этим приятным письмом, я&#160;отправился изучать Прагу, с&#160;горячностью путешественников-новичков, принимающих усталость за&#160;удовольствие. Имея в&#160;руках Муррея (единый непогрешимый авторитет, по&#160;мнению англичан), я&#160;отправился к&#160;старому Молдавскому мосту (через&#160;Молдаву), желая посмотреть то&#160;место, с&#160;которого был сброшен в&#160;воду Иоанн Непомук, великий святой, решившийся скорее умереть, чем выдать мужу, королю и&#160;ревнивцу, высказанное ему на&#160;исповеди королевою, его царственною исповедницею. Затем я&#160;поднялся в&#160;Градчин, столь богатый воспоминаниями, посетил его церковь и&#160;посмотрел её гробницы, мощи и&#160;сокровища. Оттуда я&#160;снова сошёл в&#160;город, где ничто не&#160;ускользнуло от&#160;моего любопытства. <i>Clementinum, Carolinum, Museum</i>, старое еврейское кладбище, всё было мною осмотрено. Наконец, в&#160;два часа, следуя обыкновению, я&#160;пообедал, но&#160;не в&#160;отеле, а&#160;на острове Софии, на&#160;чистом воздухе, окружённый водою и&#160;цветами и&#160;при звуках превосходной музыки. Чтобы ничего не&#160;доставало удовольствиям этого бестолкового дня, я&#160;спустился по&#160;висячему мосту на <i>Shutzeninsel</i> , считая невозможным быть на&#160;родине Фрейшица и&#160;не дотронуться до&#160;карабина. Здесь я&#160;узнал на&#160;опыте, что&#160;я мог&#160;бы&#160;отправиться на&#160;войну, без&#160;всякого опасения нарушить пятую команду. В&#160;девяти шагах я&#160;не попал&#160;бы&#160;в целый батальон, разве сделал&#160;бы&#160;так, как&#160;сделал бедный Макс, и&#160;продал&#160;бы&#160;свою душу дьяволу. Это, впрочем, немножко дороговато для&#160;старого философа, и&#160;потому я&#160;предоставлял делать это влюблённым и&#160;Цезарям.
+</p><p>Уже солнце садилось на&#160;горизонте, окрашивая своими последними лучами в&#160;кроваво-огненный цвет тихие воды Молдавы, когда я, утомлённый тем, что&#160;с самого утра видел только одни камни, церковные окна да&#160;картины, вспомнил наконец, что&#160;приятно было&#160;бы&#160;увидеть теперь какое-нибудь дружеское лицо. Коловратская улица была недалеко, я&#160;направил туда свои шаги и&#160;скоро нашёл 719 нумер. Это был дом скромной наружности, с&#160;низкою дверью, над&#160;которой была приделана вылепленная из&#160;гипса львиная голова; я&#160;постучался, но&#160;не получил ответа; я&#160;постучался во&#160;второй раз и&#160;услышал внутри мужской голос.
+</p><p>— Нанинка! — звал этот голос. — Нанинка, nekdo klepa na dwere.
+</p><p>— Милостивый Боже! — воскликнул я. — Неужели я, никогда не&#160;учась, уже знаю чешский язык? <i>Klepa</i> , это немецкое <i>klopfen</i> — стучаться; <i>dwere</i> , это <i>thur</i> — дверь. О, могущество лингвистики!
+</p><p>— Dobre gitro, pane! [<i>Добрый день, сударь!</i>] — проговорила скороговоркой, открывая дверь, высокая девушка в&#160;зелёной юбке и&#160;красной кофте. Это и&#160;была Нанинка, одним словом уничтожившая мою науку и&#160;мою мечту. <i>Dobre ditro</i> , для&#160;меня, было с&#160;еврейского.
+</p><p>Я&#160;спросил у&#160;неё по-немецки, дома&#160;ли&#160;её господин; но&#160;не успел я&#160;окончить мой вопрос, как&#160;она принялась хохотать. Я&#160;вынул из&#160;бумажника tessera hospitalis и&#160;попробовал прочесть имя моего хозяина; напрасный труд; Нанинка ещё пуще заходотала. В&#160;отчаянии я&#160;подал ей карточку, крича:
+</p><p>— Степан! Степан!
+</p><p>Но&#160;Нанинка не&#160;переставала хохотать, и&#160;потом с&#160;таким усердием, что&#160;от гнева я&#160;свою очередь тоже принялся смеяться. К&#160;счастью, голос внутри подоспел ко&#160;мне на&#160;помощь, зовя Нанинку.
+</p><p>Высокая девушка сделала мне знак рукой пойти и, взяв карточку, стала подниматься небольшой лестнице, повторяя:
+</p><p>— Niemec, pane, niemec! [<i>Немец, сударь, немец!</i>] — два слова, не&#160;преминувшие ввести меня в&#160;замешательство.
+</p><p>Минуту спустя Степан уже пожимал мне руку. С&#160;зачёсанными назад белокурыми волосами, голубыми светлыми глазами, с&#160;прямым носом и&#160;большими усами, это было одно (из&#160;тех открытых и&#160;честных лиц, которых с&#160;первого-же взгляда нельзя не&#160;полюбить.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-3.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/f/f7/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-3.jpg" decoding="async" width="339" height="421" class="mw-file-element" data-file-width="326" data-file-height="405" /></a><figcaption></figcaption></figure>
+<p>— Как&#160;я&#160;счастлив, что&#160;могу принять вас в&#160;своём доме, — сказал он, — но&#160;как жаль, что&#160;я не&#160;умею говорить по-французски! Впрочем, нужды нет, вы ведь говорите по-немецки, и, следовательно, мы&#160;можем вдоволь проклинать этих гнусных Тудесков на&#160;их&#160;же собственном языке. Как&#160;был добр мой старый учитель, что&#160;вспомнил обо мне! Войдите, я&#160;хочу представить вам всё моё семейство, мою бабушку и&#160;мою сестру.
+</p><p>В&#160;глубине мрачной гостиной, едва освещённой последними лучами заходящего солнца, куда мы&#160;вошли, сидела бабушка, вертя свою самопрялку, самопрялку Маргариты; впереди её молодая девушка играла на&#160;фортепиано и&#160;пела народную песню, замолкнув, однако&#160;же, при&#160;шуме наших шагов.
+</p><p>— Дорогая матушка, — сказал Степан, — представляю вам француза, друга профессора Готтлоба. Доктор, вот моя сестра Катенька.
+</p><p>Не успели мы&#160;и познакомиться, как — уже все четверо сидели и&#160;спокойно разговаривали, как&#160;какие-нибудь старинные друзья.
+</p><p>Говоря спокойно, я&#160;умалчиваю о&#160;том, как&#160;входила и&#160;уходила высокая Нанинка, причём она что-то&#160;бормотала на&#160;ухо своей молодой хозяйке, а&#160;также о&#160;тех таинственных знаках, которые она делала в&#160;воздухе, меня при&#160;этом находившимися в&#160;её руке ключами. На&#160;языке гостеприимства, на&#160;языка котором говорил уже старый Авраам, это значило: «Вот гость, он&#160;послан нам Богом. Сохраним честь нашего дома.»
+</p><p>В&#160;то&#160;время, как&#160;происходили эти невинные переговоры, разговор шел своим чередом; но&#160;несмотря на&#160;все мои старания свернуть его на&#160;тысячу различнных предметов, Степан, по&#160;какому-то&#160;неодолимому пленению, постоянно возвращался к&#160;похвалам Чехии (Богемии) и&#160;к тирадам против немцев. Он&#160;принадлежал к&#160;тому разряду умов, который Хазлит так удачно назвал игроками на&#160;органе (joiieurs d’orgiie); впрочем, это весьма любезные люди, один недостаток которых только тот, что&#160;они постоянно носятся с&#160;одною и&#160;той&#160;же идеей и&#160;всегда поют одну лишь песнь.
+</p><p>— Дайте мне вашу руку, — сказал он, — ведь славяне и&#160;французы братья. Не забрось судьба между нами этих холодных германцев, то&#160;давно Европа была&#160;бы&#160;одним отечеством. Мы&#160;другие, чехи; если мы&#160;и заняли место прежних кельтов в&#160;Богемии, то&#160;мы сохранили их ум, доблесть и&#160;любовь к&#160;свободе. Вы, конечно, видели на&#160;Градчине сеймовую залу, Landtagstube, и&#160;окно, из&#160;которого наши отцы выбросили с&#160;высоты 80-ти футов советников императорской тирании? Это то, что&#160;называли чешским обычаем; что&#160;бы ни&#160;говорили, а&#160;есть в&#160;этом способе заявлять своё мнение и&#160;своя хорошая сторона. Окно цело до&#160;сих пор, и&#160;вы можете видеть из&#160;него не&#160;менее замечательные окна в&#160;ратуше. Все наши политические враги прошли по&#160;этому пути. Нас, других чехов, хотя&#160;бы&#160;даже убивали, мы&#160;всё-таки не&#160;уступим. В&#160;наших жилах до&#160;сих пор ещё течёт кровь Непомука, Гусса и&#160;Жижки.
+</p><p>В&#160;чужих краях я, вообще говоря, не&#160;люблю толковать о&#160;политике, из&#160;опасения изменить той осторожности, которую налагает на&#160;нас гостеприимство, и&#160;потому я&#160;попытался натолкнуть Степана заговорить о&#160;Франции. Ничего хуже этого я&#160;не мог придумать.
+</p><p>— Некогда, — сказал он, — наши отцы вместе сражались. В&#160;битве при&#160;Креси этот старый слепой король, заставивший привязать себя между двумя своими оруженосцами, бросившийся на&#160;неприятеля и&#160;павший героем, был чех: это наш король Иоанн Люксембургский. Я&#160;уверен, что&#160;во Франции, этой стране храбрецов, его не&#160;забыли. Кто знает, не&#160;суждено&#160;ли&#160;этому союзу возобновиться когда-нибудь, только уже не&#160;против англичан?
+</p><p>Наступила удобная минута свернуть разговор в&#160;другую сторону, и&#160;я начал говорить ему о&#160;богемском или&#160;чешском языке я&#160;о родстве всех индоевропейских языков; арийская грамматика казалась мне нейтральною почвою, где мы&#160;были&#160;бы&#160;в безопасности от&#160;разногласий. Не будучи ни&#160;тот ни&#160;другой филологами, мы&#160;не имели никакой причины ссориться. Но&#160;я&#160;ошибся. Едва коснулись мы&#160;этого предмета, как&#160;Степан принялся хохотать.
+</p><p>— Слушайте, — сказал он&#160;мне, — это напоминает мне интересный анекдот про&#160;императора Сигизмунда, который, при&#160;всех своих пороках и&#160;недостатках, сохранял, однако&#160;же, национальный характер ума. На&#160;Констанцском соборе ему пришлось сказать прекрасную речь на&#160;императорской латыни: «Videte patres, — так начал он&#160;ою речь, обращаясь к&#160;отцам собора, — Ut eradicetis schismam Hussitarum.» На&#160;это один монах из&#160;Богемии, смелый и&#160;прямой, как&#160;чех, встал и&#160;заметил ему: «Serenlssime rex schisma est generis neutri.» — «A ты откуда знаешь?» — спросил его Сигизмунд, уже на&#160;своём отечественном языке… — «Так учит Александр Галл», — ответил монах. — «А&#160;кто это такой Александр Галл?» — «Он&#160;был монах», — сказал наш обрезанный педант.
+</p><p>— Вот забавный простофиля, — воскликнул Сигизмунд. — Я&#160;римский император, надеюсь, моё слово больше значит, чем слово какого-нибудь монаха.
+</p><p>Весь собор разразился смехом, в&#160;ожидании того, когда он&#160;сожжёт нашего мученика. Не это&#160;ли&#160;свойства французского ума?
+</p><p>— Совершенно; но&#160;расскажите мне что-нибудь о&#160;вашей литературе; правда&#160;ли, я&#160;слышал, будто Шаффарик и&#160;Палацкий пробудили в&#160;вас любовь к&#160;своей старине и&#160;заставили проявиться народному самосознанию?
+</p><p>— Не одни они, — возразил Степан. — Я&#160;надеюсь, — продолжал он, — что&#160;мы скоро возвратим опять силу знаменитому закону Матвея, по&#160;которому всякий, кто не&#160;говорил по-чешски, изгонялся из&#160;страны, как&#160;изменник, причём у&#160;него отбиралось всё его имущество.
+</p><p>— Но&#160;это уже значит заходить слишком далеко со своею любовью к&#160;филологии, — заметил я.
+</p><p>— Примите во&#160;внимание однако&#160;же, — возразил он, — что&#160;мы обладаем превосходным языком и&#160;литературой. Сыны Востока, мы&#160;принесли с&#160;собою его сокровища. Легенды, сказки, поэтические произведения, как&#160;и музыка, наше достояние. Немцы только грабят нас.
+</p><p>— У&#160;вас есть сказки?
+</p><p>— Спросите-ка у&#160;бабушки, так она вам будет говорить о&#160;них до&#160;завтра. И&#160;они&#160;у нас собраны: Кульда, Мали, Дакснер, госпожа Ниймен издали их, а&#160;Венциг перевёл их на&#160;немецкий язык [<i>Westslawischer Marchenschatz. Deutsch bearbeitet von i. Wenzig. Это прелестный сборник</i>]; вы можете, когда вам будет угодно, взять почитать у&#160;меня эту книгу.
+</p><p>— Я&#160;скорее хотел&#160;бы&#160;послушать вас. Сказка в&#160;книге — это то&#160;же, что&#160;высушенный цветок, тогда как&#160;в рассказе она точно не&#160;сорванный ещё цветок, со всею свежестью и&#160;прелестью.
+</p><p>— Хорошо, мой гость! Я&#160;постараюсь угодить вам; бабушка и&#160;Катенька со своей стороны сделают то&#160;же, и&#160;когда вы возвратитесь во&#160;Францию, то&#160;вы расскажете французам сказки их друзей, чехов.
+</p><p>Я&#160;начинаю сказкою одного студента, имеющей такое название: <i>Доволен&#160;ли&#160;ты? или&#160;История носов</i>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="I._Доволен_ли_ты?_или_История_носов"><span id="I._.D0.94.D0.BE.D0.B2.D0.BE.D0.BB.D0.B5.D0.BD_.D0.BB.D0.B8_.D1.82.D1.8B.3F_.D0.B8.D0.BB.D0.B8_.D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D0.BD.D0.BE.D1.81.D0.BE.D0.B2"></span>I. Доволен&#160;ли&#160;ты? или&#160;История носов</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=2" title="Редактировать раздел «I. Доволен ли ты? или История носов»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Жил-был некогда в&#160;Девитце, в&#160;окрестностях Праги, один богатый и&#160;причудливый фермер, имевший хорошенькую дочь, уже невесту. Пражские студенты (их было в&#160;то время до&#160;двадцати пяти тысяч) часто посещали Девитц, и&#160;не один из&#160;них согласился&#160;бы&#160;пойти за&#160;сохой, лишь&#160;бы&#160;только сделаться зятем фермера. Но&#160;как&#160;это было устроить? Первое условие, которое требовал хитрый крестьянин от&#160;всякого вновь нанимавшегося работника, было следующее: «Я&#160;нанимаю тебя на&#160;год, т. е. до&#160;тех пор, пока кукушка не&#160;возвестит своим пением о&#160;возвращении весны; если в&#160;течение этого времени ты хоть раз скажешь мне, что&#160;ты недоволен, то&#160;я отрезаю тебе кончик твоего носа. Впрочем, — прибавил он, смеясь, — я&#160;даю тебе такое&#160;же право надо мною.» И&#160;он&#160;не упускал случая привести свои слова в&#160;исполнение. Прага была полна студентов с&#160;приклеенными кончиками носов, что&#160;не мешало, однако&#160;же, оставаться рубцу и&#160;не спасало их от&#160;злых насмешек. Перспектива возвращения из&#160;Девитца обезображенным и&#160;смешным могла хоть в&#160;ком поохладить страсть.
+</p><p>Некий Коранда, довольно-таки неуклюжий парень, но&#160;хладнокровный, хитрый и&#160;продувной, все качества, представляющие недурное ручательство за&#160;успех, решился в&#160;свою очередь попытать счастья. Фермер принял его со своим обыкновенным радушием и, заключив условия, послал его в&#160;поле работать. Когда наступило время завтракать, то&#160;позвали всех других работников, но&#160;постарались забыть при&#160;этом нашего парня; сделали то&#160;же самое в&#160;обед. Коранду это нисколько не&#160;рассердило; вернувшись домой, он, в&#160;то время как&#160;фермерша ходила кормить куриц зерном, снял в&#160;кухне с&#160;крюка огромный окорок ветчины, с&#160;квашни огромный хлеб и&#160;снова отправился в&#160;поле, намереваясь там пообедать немного и&#160;соснуть…
+</p><p>Когда он&#160;вечером возвращался домой, фермер, завидя его, закричал ему:
+</p><p>— Доволен&#160;ли&#160;ты?
+</p><p>— Очень доволен, — отвечал Коранда, — я&#160;пообедал получше вашего.
+</p><p>Но&#160;вот бежит фермерша, крича о&#160;пропаже, а&#160;наш парень принялся хохотать. Фермер побледнел.
+</p><p>— Вы недовольны? — спросил его Коранда.
+</p><p>— Окорок не&#160;что иное, как&#160;окорок, — возразил хозяин. — Я&#160;не&#160;беспокоюсь о&#160;такой малости.
+</p><p>Но&#160;с&#160;этих пор уже старались не&#160;оставлять не&#160;евши нашего студента.
+</p><p>Наступило воскресенье. Фермер и&#160;его жена сели в&#160;повозку, чтобы ехать в&#160;церковь, и&#160;сказали мнимому работнику:
+</p><p>— Ты позаботишься об&#160;обеде; ты положишь в&#160;чугунник вот этот кусок говядины и&#160;прибавишь туда луковиц, моркови, цибулей и&#160;петрушки.
+</p><p>— Хорошо, — сказал Коранда.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-4.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/1/10/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-4.jpg" decoding="async" width="328" height="272" class="mw-file-element" data-file-width="315" data-file-height="261" /></a><figcaption></figcaption></figure>
+<p>На&#160;ферме была маленькая собака, любимица хозяев, которая называлась Петрушкой. Коранда убил её, снял с&#160;неё шкурку; и&#160;мастерски сварил её в&#160;бураке. Возвратившись, фермерша кликнула свою любимицу, но&#160;увы! она нашла только окровавленную шкуру, повешенную на&#160;окне.
+</p><p>— Что&#160;ты сделал? — сказала она Коранде.
+</p><p>— Я&#160;сделал то, что&#160;вы мне приказали, хозяюшка: я&#160;положил в&#160;чугунник говядину, лук, морковь, цибулей и&#160;Петрушку.
+</p><p>— Негодный дурак! — закричал фермер. — И&#160;у&#160;тебя хватило духу убить это невинное создание, которое составляло радость всего дома!
+</p><p>— Вы недовольны? — спросил Коранда, нынимая свой нож.
+</p><p>— Я&#160;не&#160;говорил этого, — возразил простак. — Мёртвая собака не&#160;что иное, как&#160;мёртвая собака.
+</p><p>И&#160;он&#160;вздохнул.
+</p><p>Несколько дней спустя фермеру и&#160;егто жене пришлось отправиться на&#160;базар. Так как&#160;они уже не&#160;доверяли своему ужасному работнику, то&#160;они сказали ему:
+</p><p>— Ты останешься дома и&#160;смотри, делай только то, что&#160;будут делать другие.
+</p><p>— Хорошо, — ответил Коранда.
+</p><p>Во&#160;дворе фермы была небольшая пристройка, крыша которой уже давно угрожала падением. В&#160;этот день пришли каменщики поправить её и, как&#160;всегда, начали прежде всего с&#160;того, что&#160;разобрали её. Мой Коранда, следуя примеру хозяина, берёт лестницу, лом и&#160;входит на&#160;совершенно новую крышу дома, И&#160;вот драницы, доски, гвозди, железные своды — всё полетело вниз. Возвратившись, фермер нашёл крышу совершенно прозрачною, как&#160;решето.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-5.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/5/52/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-5.jpg" decoding="async" width="343" height="698" class="mw-file-element" data-file-width="330" data-file-height="672" /></a><figcaption></figcaption></figure>
+<p>— Негодяй! — воскликнул он. — Какую ещё новую штуку ты сыграл со мною?
+</p><p>— Я&#160;послушался вашего приказания, хозяин, — возразил Коранда, — вы сами сказали мне, чтобы я&#160;делал только то, что&#160;будут делать другие. Разве вы недовольны?
+</p><p>И&#160;он&#160;вынул свой нож.
+</p><p>— Доволен, доволен, — сказал фермер, — отчего&#160;бы&#160;мне быть недовольным? Несколько досок больше или&#160;меньше не&#160;разорят меня.
+</p><p>И&#160;он&#160;вздохнул.
+</p><p>Вечером фермер и&#160;его жена начали говорить друг другу, — что&#160;пора&#160;бы&#160;им отделаться от&#160;этого олицетворённого дьявола. Будучи, однако&#160;же, рассудительными людьми, они&#160;никогда ничего не&#160;делали, не&#160;посоветовавшись предварительно со своею дочерью, следуя тому общепринятому в&#160;Богемии мнению, что&#160;у детей всегда больше ума, чем у&#160;их родителей.
+</p><p>— Батюшка, — сказала Елена, — я&#160;пойду рано поутру, спрячусь на&#160;большое грушевое дерево и&#160;стану громко куковать; ты&#160;же скажешь Коранде, что&#160;год истёк, так как&#160;уже поёт кукушка, расплатишься с&#160;ним и&#160;отпустишь его.
+</p><p>Сказано — сделано. С&#160;утра уже услышали в&#160;деревне жалобный крик весенней птицы: ку-ку, ку-ку.
+</p><p>Фермер, конечно, казался изумлённым.
+</p><p>— Ну, мой милый, — сказал он&#160;Коранде, — вот уже наступила новая пора года; ты слышишь, там на&#160;грушевом дереве поёт кукушка; пойдём, я&#160;расплачусь с&#160;тобою, и&#160;мы расстанемся друзьями.
+</p><p>— Кукушка, — сказал Коранда, — я&#160;ещё никогда не&#160;видел этой прекрасной птицы.
+</p><p>И&#160;он&#160;побежал к&#160;дереву и&#160;со всей силы начал его трясти. Раздался крик, и&#160;с дерева упала молодая девушка, благодаря Бога, отделавшаяся одним испугом.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-6.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/e/e8/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-6.jpg" decoding="async" width="321" height="773" class="mw-file-element" data-file-width="309" data-file-height="744" /></a><figcaption></figcaption></figure>
+<p>— Злодей — закричал фермер.
+</p><p>Вы недовольны? — спросил Коранда.
+</p><p>— Несчастный! Ты чуть не&#160;убил мою дочь и&#160;ещё хочешь, чтобы я&#160;был доволен; я&#160;вне себя от&#160;гнева; убирайся скорое, если ты не&#160;хочешь погибнуть от&#160;моей руки.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-7.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/e/e4/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-7.jpg" decoding="async" width="572" height="339" class="mw-file-element" data-file-width="550" data-file-height="326" /></a><figcaption></figcaption></figure>
+<p>— Я&#160;уйду, но&#160;не прежде, как&#160;отрезавши вам нос, — сказал Коранда. — Я&#160;сдержал своё слово, сдержите&#160;же вы своё.
+</p><p>— Гей! — сказал фермер, закрывая лицо руками, — согласен&#160;ли&#160;ты получить хороший выкуп за&#160;мой нос?
+</p><p>— Идёт, — отвечал Коранда.
+</p><p>— Хочешь, десять баранов?
+</p><p>— Нет.
+</p><p>— Два быка?
+</p><p>— Нет.
+</p><p>— Десять коров?
+</p><p>— Нет, уж я&#160;лучше отрежу вам нос. — И&#160;он&#160;стал точить на&#160;пороге свой нож.
+</p><p>— Батюшка, — сказала Елена, — ошибка сделана мною, мне&#160;же её следует и&#160;поправить. Коранда, согласны вы получить мою руку вместо носа моего отца?
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-8.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/3/3b/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-8.jpg" decoding="async" width="263" height="645" class="mw-file-element" data-file-width="253" data-file-height="620" /></a><figcaption></figcaption></figure>
+<p>— Согласен, — ответил Коранда.
+</p><p>— Я&#160;делаю при&#160;этом одно условие, — сказала девушка, — все последствия договора я&#160;беру на&#160;себя. Первому из&#160;нас, кто не&#160;будет доволен своим супружеством, отрежут нос.
+</p><p>— Хорошо, — сказал Коранда, — впрочем, я&#160;желал&#160;бы&#160;скорее, чтобы это был язык, но&#160;после носа мы&#160;дойдем и&#160;до этого.
+</p><p>Великолепнее их свадьбы до&#160;сих пор не&#160;видели в&#160;Девитце, и&#160;никогда ещё не&#160;было более счастливого супружества. Коранда и&#160;прекрасная Елена были примерными супругами. Никогда не&#160;было слышно, чтобы кто-нибудь из&#160;них жаловался; они&#160;любили друг друга, держа постоянно ухо востро и, благодаря своему остроумному договору, сохранили в&#160;течение своей жизни свою любовь и&#160;свои носы.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="II._Хлеб_из_золота"><span id="II._.D0.A5.D0.BB.D0.B5.D0.B1_.D0.B8.D0.B7_.D0.B7.D0.BE.D0.BB.D0.BE.D1.82.D0.B0"></span>II. Хлеб из&#160;золота</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=3" title="Редактировать раздел «II. Хлеб из золота»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Твоя история нечеловечна, мой сын, — сказала бабушка, — это рассказ студента, а&#160;не настоящая сказка. Нет, те сказки, которые я&#160;слышала, будучи ребёнком, были гораздо лучше, поэтичнее и&#160;истиннее.
+</p><p>— Так рассказывайте&#160;же, бабушка, а&#160;мы вас послушаем.
+</p><p>Бабушка остановила свою прялку, поставила прямо пряслицу и, подняв дрожащую руку, произнесла:
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ХЛЕБ_ИЗ_ЗОЛОТА"><span id=".D0.A5.D0.9B.D0.95.D0.91_.D0.98.D0.97_.D0.97.D0.9E.D0.9B.D0.9E.D0.A2.D0.90"></span>ХЛЕБ ИЗ ЗОЛОТА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=4" title="Редактировать раздел «ХЛЕБ ИЗ ЗОЛОТА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Некогда жила-была одна вдова, у&#160;которой была очень красивая дочь. Мать славилась своим скромным и&#160;тихим характером, тогда как&#160;дочь, Мариенка, была сама олицетворённая гордость. Отовсюду шлялись искатели её руки, но&#160;ни один не&#160;удостоился чести получить её, и&#160;чем более старались ей нравиться, тем более она становилась недоступнее. Однажды ночью бедная мать, не&#160;будучи в&#160;состоянии заснуть, сняла со стены свои чётки и&#160;начала молиться за&#160;спасение той, которая причиняла ей столько забот. Мариенка спала на&#160;той&#160;же самой кровати, и&#160;мать, молясь, в&#160;то&#160;же время любовалась красотою своего дитяти, как&#160;вдруг Мариенка начала во&#160;сне смеяться.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-9.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/c/c7/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-9.jpg" decoding="async" width="639" height="453" class="mw-file-element" data-file-width="614" data-file-height="435" /></a><figcaption></figcaption></figure>
+<p>— Что&#160;хорошего видит она во&#160;сне, отчего она так смеётся? — сказала про&#160;себя мать.
+</p><p>Затем она окончила свою молитву, повесила снова на&#160;стену чётки и, положив свою голову возле головы своей дочери, заснула.
+</p><p>Поутру она спросила у&#160;Мариенки:
+</p><p>— Дорогое дитя, что&#160;хорошего ты видела сегодня ночью во&#160;сне, отчего ты так смеялась?
+</p><p>— Что&#160;я&#160;видела во&#160;сне, матушка? Видишь&#160;ли, мне приснилось, будто&#160;бы&#160;сюда приехал за&#160;мною какой-то&#160;господин в&#160;карете, сделанной из&#160;меди, и&#160;он надел мне на&#160;палец кольцо, камень которого блистал подобно звёздам. А&#160;когда я&#160;вошла в&#160;церковь, то&#160;народ только и&#160;смотрел, что&#160;на Божью матерь, да&#160;на меня.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-10.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/c/c7/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-10.jpg" decoding="async" width="396" height="526" class="mw-file-element" data-file-width="381" data-file-height="506" /></a><figcaption></figcaption></figure>
+<p>— Моя дочь, моя дочь, какой горделивый сон! — заметила бедная мать, покачивая головой.
+</p><p>Но&#160;Мариенка, напевая, поспешила уйти.
+</p><p>В&#160;тот&#160;же самый день въехала на&#160;двор повозка, из&#160;которой вышел молодой фермер, приятной наружности и, по-видимому, весьма зажиточный, приехавший предложить Мариенке разделить с&#160;ним крестьянский хлеб. Жених понравился матери, но&#160;гордая Мариенка отказала ему, сказав при&#160;этом: Если&#160;бы&#160;ты приехал даже в&#160;медной карете и&#160;надел&#160;бы&#160;мне на&#160;палец кольцо, в&#160;котором камень блистал&#160;бы&#160;подобно звёздам, то&#160;и тогда я&#160;не согласилась&#160;бы&#160;быть твоей женою.
+</p><p>Фермер уехал, проклиная гордость Мариенки.
+</p><p>На&#160;следующую ноль мать опять проснулась, сняла с&#160;гвоздя свои чётки и&#160;ещё принялась молиться о&#160;счастье своей дочери. И&#160;вот она снова видит, что&#160;Мариенка громко смеется во&#160;сне.
+</p><p>— Какой сон видит она? — спрашивает мать, продолжая молиться и&#160;будучи не&#160;в состоянии заснуть.
+</p><p>Поутру она опять обратилась к&#160;Мариенке с&#160;вопросом.
+</p><p>— Дорогое дитя, — сказала она, — какой&#160;же сон видела ты сегодня ночью? Ты во&#160;сне очень громко смеялась.
+</p><p>— Ах, что&#160;я видела во&#160;сне, матушка! Я&#160;видела, что&#160;за мною приехал сюда в&#160;серебряной карете какой-то&#160;господин и&#160;предложил мне золотую диадему. И&#160;когда я&#160;вошла в&#160;церковь, то&#160;народ более обращал внимание на&#160;меня, чем на&#160;Божью матерь.
+</p><p>— Молчи, моё дитя. Ты богохульствуешь! Молись, моя дочь, молись, чтобы не&#160;войти искушение.
+</p><p>Но&#160;Мариенка, не&#160;желая слушать начатую матерью проповедь, уже успела убежать в&#160;другую комнату.
+</p><p>В&#160;тот&#160;же день въехала на&#160;двор карета. Какой-то&#160;молодой господин приехал просить Мариенку разделить с&#160;ним дворянский хлеб. Это была великая честь, говорила мать, но&#160;тщеславие слепо.
+</p><p>— Если&#160;бы&#160;вы даже приехали в&#160;серебряной карете, — сказала Мариенка новому жениху, — и&#160;если&#160;бы&#160;вы предложили мне золотую диадему, то&#160;и тогда я&#160;не согласилась&#160;бы&#160;быть вашей женою.
+</p><p>— Берегись, моя дочь, — сказала бедная мать, — чтобы твоя гордость не&#160;довела&#160;бы&#160;тебя до&#160;преисподней.
+</p><p>«Матери сами не&#160;знают, что&#160;они говорят», — подумала про&#160;себя Мариенка и, пожимая плечами, ушла из&#160;комнаты.
+</p><p>На&#160;третью ночь мать опять не&#160;могла спать — в&#160;таком она была беспокойстве; она снова принялась перебирать пальцами чётки и&#160;молиться о&#160;спасении своей дочери. Вдруг спящая Мариенка разразилась громким хохотом.
+</p><p>— Милостивый Боже! — сказала мать, — что&#160;ещё видит во&#160;сне моё несчастное дитя?
+</p><p>И&#160;она продолжала молиться до&#160;самого рассвета.
+</p><p>Поутру она сказала, обращаясь к&#160;Мариенке:
+</p><p>— Дорогое дитя, скажи мне, что&#160;ты опять видела во&#160;сне сегодня ночью?
+</p><p>— Да&#160;вы ещё рассердитесь.
+</p><p>— Говори, не&#160;стесняйся, — возразила мать.
+</p><p>— Мне приснилось, — начала рассказывать Мариенка, — что&#160;какой-то&#160;благородный господин, в&#160;сопровождении многочисленной свиты, приехал просить меня и&#160;замужество. Он&#160;был в&#160;золотой карете и&#160;привез мне платье из&#160;золотых кружев, когда я&#160;вошла в&#160;церковь, то&#160;народ только на&#160;одну меня и&#160;смотрел.
+</p><p>Мать скрестила руки; но&#160;дочь, полуодетая, спрыгнула с&#160;постели и&#160;убежала в&#160;другую комнату, не&#160;желая, слушать уже надоевшие ей нравоучения.
+</p><p>В&#160;тот&#160;же день въехали к&#160;ним на&#160;двор и&#160;кареты: медная, серебряная и&#160;золотая; в&#160;первую из&#160;них были впряжены две лошади, во&#160;вторую — четыре, и&#160;в третью — семь, все покрытые попонами из&#160;золота жемчуга. Из&#160;медной и&#160;серебряной карет вышли пажи в&#160;красных штанах и&#160;в зеленых жилетах и&#160;доломанах; из&#160;золотой вышел красивый кавалер, весь одетый в&#160;золото.
+</p><p>Он&#160;вошёл в&#160;дом и, опустившись на&#160;одно колено, стал просить у&#160;матери руку её дочери. «Какая честь!» — думала в&#160;это время бедная женщина.
+</p><p>— Вот мой сон, — сказала Мариенка, — видите, матушка, что&#160;я, как&#160;всегда, права была я, а&#160;не вы.
+</p><p>А&#160;тотчас&#160;же она побежала в&#160;свою комнату, приготовила букет женихов и, вся улыбающаяся, поднесла его прекрасному господину, как&#160;залог своей верности. Со своей стороны прекрасный господин надел ей на&#160;палец кольцо, камень которого блистал подобно звёздам, и&#160;предложил ей золотую диадему и&#160;платье из&#160;золотых кружев.
+</p><p>Спесивица пошла одеваться к&#160;церемонии… Мать&#160;же, всё ещё не&#160;будучи в&#160;состоянии успокоиться, обратилась к&#160;жениху с&#160;вопросом:
+</p><p>— Милостивый государь, а&#160;какой хлеб вы предлагаете моей дочери?
+</p><p>— У&#160;нас, — отвечал он, — есть хлеб из&#160;меди, из&#160;серебра и&#160;из золота; какой она захочет, такой и&#160;может выбирать.
+</p><p>«Что&#160;это означает?» — подумала мать.
+</p><p>Мариенка&#160;же ни&#160;о чём не&#160;заботилась; она вернулась прекрасная как&#160;солнце, приняла поданную ей женихом руку и&#160;отправилась в&#160;церковь, не&#160;спрося даже у&#160;своей матери благословения. Бедную женщину оставили молиться на&#160;пороге церкви; по&#160;окончании свадьбы Мариенка села в&#160;карету и&#160;поехала, причём не&#160;только забыла проститься со своею матерью, но&#160;даже ни&#160;разу и&#160;не обернулась к&#160;ней.
+</p><p>Восьмёрка лошадей галопом везла карету, пока они&#160;не прибыли к&#160;огромной скале, в&#160;которой было отверстие, величиною с&#160;городские ворота. Лошади направились в&#160;это отверстие, где было темно как&#160;ночью; земля задрожала, скала затрещала и&#160;вслед затем обрушилась. Невеста в&#160;испуге схватила своего супруга за&#160;руку.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-11.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/7/70/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-11.jpg" decoding="async" width="626" height="485" class="mw-file-element" data-file-width="601" data-file-height="466" /></a><figcaption></figcaption></figure>
+<p>— Не бойся, моя красавица, — сказал он, — сейчас будет светло.
+</p><p>И&#160;действительно, в&#160;воздухе вдруг заколебались тысячи огоньков; это были горные карлы, которые, с&#160;факелами в&#160;руках, приветствовали своего государя, горного короля. Мариенка узнала теперь, кто был её муж. Добрый или&#160;злой дух, он&#160;был, однако&#160;же, так богат, что&#160;невеста была вполне довольна своею участью.
+</p><p>Выехав из&#160;темноты, они&#160;поехали беловатыми лесами и&#160;мимо гор, воздымавших к&#160;небу свои угрюмые и&#160;бледные вершины. Ели, буки, берёзы, дубы, скалы — всё было из&#160;свинца. Лес оканчивался длинною поляной, трава которой была из&#160;серебра, в&#160;глубине&#160;же поляны находился золотой замок, весь усыпанный алмазами и&#160;рубинами. Там-то&#160;и остановился экипаж; горный король подал руку своей невесте, чтобы помочь ей выйти из&#160;экипажа, и&#160;сказал ей:
+</p><p>— Моя красавица, всё это принадлежит тебе!
+</p><p>Мариенка была в&#160;восхищении; но&#160;проехавши столько времени, нельзя не&#160;проголодаться, и&#160;потому она с&#160;удовольствием смотрела, как&#160;горные карлы накрывали стол, где всё блистало золотом, хрусталём и&#160;драгоценными камнями. Наконец подали удивительные кушанья; первые из&#160;изумрудов и&#160;затем золотые жаркие на&#160;серебряных блюдах. Каждый спокойно ел, откусывая их, за&#160;исключением одной только невесты, которая попросила у&#160;своего супруга приказать подать ей немного хлеба.
+</p><p>— Подайте хлеба из&#160;меди, — сказал горный король, но&#160;Мариенка не&#160;могла его есть.
+</p><p>— Подайте хлеба из&#160;серебра, — опять сказал он, но&#160;Мариенка не&#160;могла и&#160;его есть.
+</p><p>— Так подайте хлеба из&#160;золота, — сказал он&#160;наконец, но&#160;Мариенка и&#160;его не&#160;могла есть.
+</p><p>— Моя красавица, — сказал горный король, — мне очень жаль, но&#160;что&#160;же другое я&#160;тебе предложу? У&#160;нас нет другого хлеба.
+</p><p>Невеста залилась слезами; муж&#160;же принялся громко хохотать, потому что&#160;его сердце, как&#160;и его владения, было из&#160;металла.
+</p><p>— Плачь, если это тебе нравится! — воскликнул он. — Но&#160;это не&#160;принесёт тебе никакой пользы. Ты имеешь всё, что&#160;ты желала, ешь&#160;же тот хлеб, который ты сама избрала.
+</p><p>Таким-то&#160;образом Мариенке пришлось жить в&#160;замке, умирая с&#160;голоду и&#160;тщетно отыскивая хоть какой-нибудь корень, для&#160;утоления терзавшей её боли. Бог услышал её, чтобы наказать её.
+</p><p>Три дня в&#160;году, непосредственно предшествующие празднику Вознесения, когда земля, благодаря обильному посылаемому ей Господом дождю, открывается, Мариенка возвращается на&#160;землю. Одетая в&#160;лохмотья, бледная, иссохшая, ходит от&#160;одной двери к&#160;другой, прося милостыню, весьма счастливая, если ей бросят какие-нибудь остатки и&#160;если она получит в&#160;виде милостыни от&#160;какого-нибудь бедняка то, чего ей недостаёт в&#160;её золотом дворце, а&#160;именно немного хлеба и&#160;сострадания.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-12.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/0/01/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-12.jpg" decoding="async" width="330" height="593" class="mw-file-element" data-file-width="317" data-file-height="570" /></a><figcaption></figcaption></figure>
+<p>В&#160;то&#160;время, как&#160;бабушка рассказывала нам эту сказку, отличавшуюся чисто чешским духом, большая Нанинка время от&#160;времени в&#160;беспокойстве просовывала в&#160;полуотворённую дверь свою голову, нетерпеливо ожидая, когда это покончат с&#160;этим грубым жаргоном, от&#160;которого у&#160;ней появлялась на&#160;губах презрительная улыбка. При&#160;последнем слове она распахнула обе половинки двери и&#160;сделала торжественное вступление, идя задом и&#160;держа обеими руками один конец стола, убранного цветами, с&#160;горящими свечами, и&#160;сервированного получше стола горного короля и&#160;которого другой конец нёс молодой человек с&#160;благородною наружностью. Он&#160;был в&#160;бархатном, с&#160;отложным воротником, полукафтане и&#160;в тирольской шляпе с&#160;перьями фазана; смотря на&#160;него, можно было подумать, что&#160;видишь перед&#160;собою короля Оттокара, только что&#160;сошедшего с&#160;какой-нибудь старой картины.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-13.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/a/a5/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-13.jpg" decoding="async" width="281" height="622" class="mw-file-element" data-file-width="270" data-file-height="598" /></a><figcaption></figcaption></figure>
+<p>— Венцель! — воскликнул Степан.
+</p><p>— Венцель! — повторила, сладостно улыбаясь, бабушка.
+</p><p>— Венцель! — сказала — молодая девушка.
+</p><p>Я&#160;сам был готов закричать «Венцель», когда я&#160;увидел новопришедшего, протягивавшего руку Катеньке. Я&#160;до&#160;сих пор не&#160;обращал внимания на&#160;сестру моего друга; она оставалась в&#160;глубине комнаты, сидя возле своей бабушки, и&#160;занималась, не&#160;подымая глаз, вязанием, неподвижная и&#160;безмолвная, как&#160;спящая птица. Вдруг, как&#160;будто&#160;бы&#160;пробуждённая каким-то&#160;магическим словом, она встала, совершенно преобразованная. До&#160;сих пор она выглядела школьницею, теперь&#160;же это была женщина. Она взглянула на&#160;новопришедшего и&#160;подала ему руку с&#160;таким доверием и&#160;такою радостью, что&#160;у меня, несмотря на&#160;мои пожилые года, затрепетало сердце: я&#160;понял теперь, кто такой был Венцель и&#160;почему он&#160;пользовался таким расположением Нанинки.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="III._Песнь_гусара"><span id="III._.D0.9F.D0.B5.D1.81.D0.BD.D1.8C_.D0.B3.D1.83.D1.81.D0.B0.D1.80.D0.B0"></span>III. Песнь гусара</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=5" title="Редактировать раздел «III. Песнь гусара»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Я&#160;сделал в&#160;физике удивительное открытие, которое затмит собою открытие Ньепса и&#160;Дагера. Благодаря изученным и&#160;распределённым мною по&#160;классам явлениям, все эти ветоши, называемые моралью, политикой и&#160;литературою, составят отныне отрасль естественных наук; физика будет верховным законом для&#160;всего человечества. Мемуар, предназначаемый мною для&#160;академии, ещё не&#160;кончен; эта большая работа до&#160;сих пор ещё составляет тайну, но&#160;я полагаюсь на&#160;скромность читателя; я&#160;уверен, что&#160;он не&#160;выдаст моё открытие.
+</p><p>Многочисленные наблюдения, которые я&#160;производил в&#160;течение более тридцати лет, показали мне, что&#160;весь род человеческий, как&#160;мужская, так и&#160;женская половина его, распадается на&#160;два большие семейства, которые хотя и&#160;живут совокупно, но&#160;менее походят друг на&#160;друга, чем день походит на&#160;ночь. К&#160;первой категории, которую я&#160;на время назову светоносною, принадлежит порода людей, напитывающихся, так сказать, солнцем, что&#160;и служит объяснением того, почему они&#160;наэлектризовывают всё, к&#160;чему ни&#160;приближаются, и&#160;распространяют повсюду вокруг себя теплоту, сияние и&#160;жизнь. Это поэты, артисты, изобретатели, апостолы, патриоты, влюблённые и&#160;подобные им безумцы. Вторая&#160;же категория, для&#160;которой едва&#160;ли&#160;на каком-нибудь языке найдётся имя, но&#160;которую можно, было&#160;бы&#160;назвать <i>отщепенской</i> (отщепенцами — refractuires), заключает в&#160;себе неделимых, сделанных, по&#160;моему мнению, из&#160;смеси земли с&#160;тающим снегом, так как&#160;они повсюду распространяют влагу, холод, туман и&#160;скуку. Сюда относятся немощные, завистники, критики, у&#160;которых хватает силы только на&#160;то, чтобы кусаться, непонятые женщины, скептики, гордецы, молодые люди, уже успевшие пресытиться, высокомерные люди, серьёзные, торжественные личности… Но&#160;не&#160;будем говорить о&#160;политике.
+</p><p>У&#160;Венцеля душа была из&#160;солнечного луча. С&#160;его приходом мрачная гостиная, в&#160;которой мы&#160;разговаривали, просияла. Всё стало глядеть веселее, даже стол, на&#160;котором цветы, свечи и&#160;стаканы сверкали радостным блеском.
+</p><p>— Но&#160;дождёмте ужинать, — сказала, молодая девушка, — споёмте-ка что-нибудь!
+</p><p>— Да, да, — заметил Степан, никогда не&#160;расстававшийся со своим <i>да, да</i> . — споемте, только какую-нибудь чешскую песню. Смысл ее я&#160;объясню нашему другу. Нужно, чтобы наш: гость узнал всю прелесть этого звучного языка, самый простые слова которого так мелодично звучат в&#160;пении.
+</p><p>— Спойте-ка нам песнь гусара, — прибавила со своей стороны бабушка. — Мне очень нравятся этот разговор, в&#160;котором голос Катеньки так хорошо сливается с&#160;голосом Венцеля, Ну, начинайте&#160;же, мои дети!
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-14.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/0/06/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-14.jpg" decoding="async" width="367" height="548" class="mw-file-element" data-file-width="353" data-file-height="527" /></a><figcaption></figcaption></figure>
+<p>Катенька была уже за&#160;фортепиано, играя нечто вроде мазурки, то&#160;весёлой, то&#160;жалобной. Вот перевод слов этой оригинальной песни, сделанной нами с&#160;немецкого перевода:
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ПЕСНЬ_ГУСАРА"><span id=".D0.9F.D0.95.D0.A1.D0.9D.D0.AC_.D0.93.D0.A3.D0.A1.D0.90.D0.A0.D0.90"></span>ПЕСНЬ ГУСАРА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=6" title="Редактировать раздел «ПЕСНЬ ГУСАРА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«В&#160;поле бьёт барабан, нас зовёт император, Я&#160;солдат; надо отправляться. Прощай, моя красавица! Семь лет тебя не&#160;видеть, чтобы при&#160;возвращении потерять!» — «Генрих, возьми это кольцо, положись на&#160;мою любовь.» Семь лет прошло. Маргарита в&#160;беспокойстве, томится, с&#160;сердцем, терзаемым скрытою болью. На&#160;неё указывают пальцем, смеются над&#160;её печалью; она убегает в&#160;поле, чтобы там скрыть свои слёзы. Кто этот красивый гусар, с&#160;чёрными усами, прогуливающийся как&#160;победитель, с&#160;своею саблею, с&#160;своим счастьем? «Ты одна, моё белокурое дитя? Если тебе нужен муж, то&#160;вот моя рука.» — «Великий Боже! Что&#160;делает Генрих?» — «Гусар, мой милый ангел, редко бывает верен; Генрих женился; его жена богата и&#160;прекрасна. Зачем трепетать? К&#160;чему плакать? Посмотри на&#160;меня. Прокляни неблагодарного! Прокляни изменника и&#160;отомсти за&#160;себя!» — «Пусть у&#160;него будет более счастливых дней, чем на&#160;небе бывает звёзд, когда рука Господа освобождает его от&#160;его завесы; пусть собравшиеся дети, более многочисленные, чем цветы на&#160;нивах, толпятся у&#160;его колен. Пусть их внимательная и&#160;очарованная мать в&#160;мире вкушает возле него счастье знать, что&#160;любима. И&#160;избави её, Господи, от&#160;этой боли, от&#160;которой бледнеют, боли, от&#160;которой умирают и&#160;от которой не&#160;желают лечиться!»
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-15.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/9/9b/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-15.jpg" decoding="async" width="395" height="561" class="mw-file-element" data-file-width="380" data-file-height="540" /></a><figcaption></figcaption></figure>
+<p>«Я&#160;вижу, моё милое дитя, что&#160;ты признаешь меня только тогда, когда я&#160;дам клятву перед&#160;священником; не&#160;думаешь&#160;ли&#160;ты, что&#160;ты одна должна уважать твою верность, не&#160;видела&#160;ли&#160;ты когда-нибудь этого перстня на&#160;моём пальце?» — «0 счастье свидеться, когда страдаешь, с&#160;тем, кого любить!» Церковные двери раскрылись, и&#160;они в&#160;тот лее день обвенчаны. И&#160;ангелы на&#160;небесах, благословляя их обоих, улыбаясь, поют: «Дети, будьте счастливы!»
+</p><p>Несмотря на&#160;то, что&#160;песнь была уже окончена, мне всё ещё казалось, что&#160;я слышу трогательную жалобу Маргариты и&#160;весёлый голос гусара. Я&#160;посмотрел на&#160;весёлых молодых людей, положивших в&#160;эту прелестную мелодию всю свою душу. И&#160;мечты, и&#160;воспоминания, одни за&#160;другими, стали проходить перед&#160;моими очарованными глазами.
+</p><p>— Гей! мой гость, — сказал мне Степан, смеясь, — если&#160;бы&#160;вы не&#160;были степенным профессором, то&#160;я предположил&#160;бы, что&#160;вы плачете. Неправда&#160;ли, какая славная музыка, и&#160;как слова подходят к&#160;ней! Да, вы из&#160;наших; мы&#160;сделаем из&#160;вас настоящего прямодушного чеха. Теперь сядемте за&#160;стол. Вы, конечно, отведаете для&#160;меня этих дымящихся сосисок, единственную славу Праги, понимаемую немцами. А&#160;когда мы&#160;дойдём до&#160;десерта, то&#160;мы дадим слово Венцелю. Теперь за&#160;ним очередь рассказывать.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="IV._История_Чванды_(Ssvanda)_—_вoлыночникa"><span id="IV._.D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D0.A7.D0.B2.D0.B0.D0.BD.D0.B4.D1.8B_.28Ssvanda.29_.E2.80.94_.D0.B2o.D0.BB.D1.8B.D0.BD.D0.BE.D1.87.D0.BD.D0.B8.D0.BAa"></span>IV. История Чванды (Ssvanda) — вoлыночникa</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=7" title="Редактировать раздел «IV. История Чванды (Ssvanda) — вoлыночникa»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>У&#160;Степана было превосходное токайское вино, золотистое и&#160;прозрачное, как&#160;топаз; мы&#160;уже почокались им раза четыре, если не&#160;пять, в&#160;память Жижки и&#160;за будущее славян, когда я&#160;напомнил Венцелю о&#160;сделанном нам от&#160;его имени обещании.
+</p><p>— Что&#160;же рассказать вам, — спросил Венцель, — что-нибудь смешное?
+</p><p>— Нет, нет, — сказала Катенька, — что-нибудь страшное, что&#160;напугало&#160;бы&#160;нас. Забавно пугаться, когда ничего не&#160;боишься и&#160;когда имеешь возле себя всех своих друзей.
+</p><p>— Хорошо! — сказал Венцель. — В&#160;таком случае слушайте, я&#160;расскажу вам историю Чванды.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ЧВАНДА-ВОЛЫНОЧНИК"><span id=".D0.A7.D0.92.D0.90.D0.9D.D0.94.D0.90-.D0.92.D0.9E.D0.9B.D0.AB.D0.9D.D0.9E.D0.A7.D0.9D.D0.98.D0.9A"></span>ЧВАНДА-ВОЛЫНОЧНИК</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=8" title="Редактировать раздел «ЧВАНДА-ВОЛЫНОЧНИК»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Чванда-волыночник был весёлый сотоварищ. Родившись, как&#160;истый музыкант, со страстной любовью к&#160;вину, он&#160;был вдобавок к&#160;этому ещё записным картёжным игроком; зачастую рисковал он&#160;своею душою в&#160;стражах. Едва успевая добыть своим дутьём — свой дневной заработок, он&#160;с большим, удовольствием посвящал остальное время дня беседе с&#160;бутылкой и&#160;игре в&#160;карты с&#160;первым встречным до&#160;тех пор, пока у&#160;него в&#160;кармане ничего не&#160;оставалось, и&#160;ему приходилось возвращаться домой с&#160;тем&#160;же, с&#160;чем он&#160;вышел, Впрочем, он&#160;был большой шутник, хохотун, и&#160;постоянно весел, так что&#160;ни один пьяница не&#160;выходил из-за&#160;стола, покуда за&#160;ним оставался волыночник. Его имя ещё до&#160;сих пор живёт в&#160;Чехии, и&#160;там, где немцы говорят: «Это шут», мы&#160;говорим: «Это Чванда».
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-16.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/2/23/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-16.jpg" decoding="async" width="642" height="942" class="mw-file-element" data-file-width="617" data-file-height="905" /></a><figcaption></figcaption></figure>
+<p>Однажды, когда в&#160;Мокране был праздник, а&#160;не один хороший праздник не&#160;обходился без&#160;волыночника, Чванда, играя на&#160;своём инструменте до&#160;самой полуночи и&#160;получив немало цванцигеров [<i>цванцигер — монета в 20 крейцеров</i>], захотел наконец и&#160;сам позабавиться. Ни&#160;просьбы, ни&#160;обещания не&#160;могли заставить его продолжать играть свои песни; он&#160;решился досыта напиться и&#160;в своё удовольствие поиграть в&#160;карты. Впервые ещё он&#160;не нашёл никого, кто согласился&#160;бы&#160;поиграть с&#160;ним.
+</p><p>Чванда не&#160;был такой человек, который ушёл&#160;бы&#160;из трактира, пока у&#160;него оставался в&#160;кармане хотя один крейцер, а&#160;в этот день у&#160;него было их таки изрядное количество. В&#160;то&#160;время как&#160;он разговаривал, смеялся и&#160;пил, с&#160;ним случилось то, что&#160;нередко случается с&#160;людьми, часто смотрящими на&#160;дно своего стакана; а&#160;именно ему во&#160;что&#160;бы&#160;то ни&#160;стало захотелось играть в&#160;карты, и&#160;он поочерёдно приглашал всех своих соседей.
+</p><p>Разгневанный тем, что&#160;не мог найти себе партнёра, Чванда встал, заплатил за&#160;то, что&#160;выпил, и&#160;не совсем твёрдым шагом вышел из&#160;трактира.
+</p><p>— В&#160;Драцике, — сказал он&#160;себе, — есть место богомолья: школьный учитель и&#160;уездный судья — честные люди и&#160;не боятся пиковой дамы. Там я&#160;найду людей, ура!
+</p><p>От&#160;радости он&#160;прищёлкнул пальцами и&#160;припрыгнул с&#160;такою силою, что&#160;ему надо было сделать по&#160;крайней мере шагов десять, чтобы снова привести своё туловище в&#160;равновесие.
+</p><p>Ночь была светлая; лупа сняла, как&#160;рыбий глаз. Дойдя до&#160;перекрёстка, Чванда невзначай поднял глаза и&#160;остановился как&#160;вкопанный, не&#160;будучи в&#160;состоянии произнести ни&#160;слова. Над&#160;его головою носилась каркая стая ворон; перед&#160;ним&#160;же находились четыре бревна, поставленные в&#160;виде столбов и&#160;соединённые наверху перекладинами, из&#160;которых на&#160;каждой висело по&#160;трупу, наполовину изглоданному. Это были виселицы: зрелище не&#160;совсем-то&#160;увеселительного свойства для&#160;менее стоической души, чем какая была у&#160;Чванды.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-17.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/9/9f/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-17.jpg" decoding="async" width="307" height="825" class="mw-file-element" data-file-width="295" data-file-height="793" /></a><figcaption></figcaption></figure>
+<p>Не успел он&#160;ещё оправиться от&#160;своего замешательства, как&#160;вдруг перед&#160;ним предстал человек, весь одетый в&#160;чёрном, с&#160;бледными щеками и&#160;глазами, блестевшими, как&#160;карбункулы.
+</p><p>— Куда ты идёшь так поздно, друг-волыночник? — спросил он&#160;Чванду заискивающим голосом.
+</p><p>— В&#160;Драцик, господин в&#160;чёрном платье, — ответил, неустрашимый Чванда.
+</p><p>— Не хочешь&#160;ли&#160;ты что-нибудь заработать своей музыкой?
+</p><p>— Мне порядком таки надоело сегодня заниматься дутьём, — ответил Чванда. — Я&#160;уже заработал несколько цвандигеров и&#160;хочу теперь повеселиться.
+</p><p>— Кто тебе говорит о&#160;цванцигеpax? Мы&#160;платим золотом.
+</p><p>Говоря это, незнакомец подставил ему под&#160;нос пригоршню дукатов, блестевших как&#160;в огне. Волыночник был сын хорошей матери, он&#160;не мог не&#160;уступить сделанной таким образом просьбе и&#160;он последовал за&#160;чёрным человеком и&#160;его дукатами.
+</p><p>Он&#160;никогда не&#160;мог припомнить впоследствии, сколько времени он&#160;шёл. Правда, у&#160;него тогда голова была немного тяжела. Он&#160;помнил только то, что&#160;чёрный человек предупредил его принимать всё, что&#160;ему ни&#160;предложат, золото или&#160;вино, но&#160;не благодарить иначе, как&#160;говоря: «Желаю счастья, мой брат!»
+</p><p>Не зная хорошенько, как&#160;он вошёл, Чванда очутился в&#160;тёмной комнате, где трое людей, одетые в&#160;чёрном, как&#160;и его проводник, играли в <i>стражах''</i><b>.</b><i> В&#160;комнате не&#160;было другого освещения, кроме их, сверкавших как&#160;огонь, глаз. На&#160;столе лежали груды золота и&#160;стояла кружка вина, из&#160;которой все поочерёдно пили круговую.</i>
+</p><p>— Братья, — сказал чёрный человек, — я&#160;привёл вам друга Чванду, которого вы уже давно хорошо знаете. Сегодня праздник, и&#160;я думал сделать вам удовольствие, доставивши вам возможность послушать музыку.
+</p><p>— Славная мысль, — заметил один из&#160;игроков; и, взяв в&#160;руки кружку, он&#160;прибавил, обращаясь к&#160;Чванде: — Вот, волыночник, бери, пей и&#160;садись играть.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-18.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/3/35/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-18.jpg" decoding="async" width="584" height="413" class="mw-file-element" data-file-width="561" data-file-height="397" /></a><figcaption></figcaption></figure>
+<p>Чванда некоторое время колебался; но, как&#160;известно, волков бояться и&#160;в лес не&#160;ходить. Вино, хотя и&#160;немного тёплое, было, однако&#160;же, недурно. Он&#160;поставил кружку снова на&#160;стол и, сняв свою шляпу, сказал:
+</p><p>— Желаю счастия, мой брат! — как&#160;ему это советовали.
+</p><p>Затем, надувши свою волынку, он&#160;заиграл; никогда ещё игра его не&#160;возбуждала подобной радости. При&#160;каждом звуке игроки подпрыгивали. Их глаза метали пламя; они&#160;тряслись на&#160;своих стульях, сгребали пригоршнями золото, кричали и&#160;хохотали; причём ни&#160;один мускул не&#160;содрогался на&#160;их бледных лицах. Между тем кружка переходила из&#160;рук в&#160;руки, оставаясь постоянно полною, без&#160;того, чтобы кто-нибудь доливал её.
+</p><p>Всякий раз, как&#160;Чванда оканчивал играть одну песнь, ему подавали кружку, и&#160;в то&#160;время как&#160;он не&#160;упускал случая запустить туда свой нос, ему бросали в&#160;шляпу пригоршни золота.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-19.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/4/4b/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-19.jpg" decoding="async" width="566" height="403" class="mw-file-element" data-file-width="544" data-file-height="387" /></a><figcaption></figcaption></figure>
+<p>— Желаю счастия, мой брат! — повторял он, не&#160;помня самого себя от&#160;радости. — Желаю счастия!
+</p><p>Долго продолжался пир, пока волыночник не&#160;принялся играть наконец польку, и&#160;чёрные люди, вышедши из-за&#160;стола, принялись усердно танцевать и&#160;вальсировать с&#160;каким-то&#160;неистовством, плохо шедшим к&#160;их бесчувственным как&#160;лёд лицам. Один из&#160;танцоров подошёл к&#160;столу и, взяв всё загромождённое на&#160;зелёном сукне золото, наполнил им шляпу Чванды.
+</p><p>— Вот, смотри! — сказал он&#160;этому последнему, — это тебе за&#160;доставляемое тобою нам удовольствие.
+</p><p>— Да&#160;благословит гас Господь Бог, мои добрые господа, — воскликнул ослеплённый золотом музыкант.
+</p><p>Не успел он&#160;кончить, как&#160;зало, карты, чёрные люди — всё исчезло.
+</p><p>К&#160;утру один крестьянин, вёзший на&#160;поля навоз, приближаясь к&#160;перекрёстку, услышал звуки волынки. «Это, должно быть, Чванда», — сказал он&#160;и стал осматриваться, ища глазами самого гудочника. Наконец он&#160;увидел его, сидящего на&#160;краю виселицы и&#160;дующего изо всей силы в&#160;свою волынку, между тем как&#160;утренний ветер раскачивал трупы четырёх повешенных.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-20.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/9/9c/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-20.jpg" decoding="async" width="255" height="785" class="mw-file-element" data-file-width="245" data-file-height="754" /></a><figcaption></figcaption></figure>
+<p>— Гей, товарищ, — закричал крестьянин, — с&#160;которых это пор ты там наверху кукуешь?
+</p><p>Едва проговорил он&#160;эти слова, как&#160;Чванда задрожал, выронил из&#160;рук свою волынку и, без&#160;памяти, слетел стремглав вдоль по&#160;столбу на&#160;землю, Первое, однако&#160;же, о&#160;чём он&#160;подумал, были его дукаты; он&#160;начал рыться в&#160;своих карманах, выворачивать свою шляпу, но&#160;не нашёл в&#160;них ни&#160;одного крейцера!
+</p><p>— Дружище, — сказал ему крестьянин, крестясь, — это Бог наказал тебя за&#160;то, что&#160;ты слишком любишь карты; он&#160;дал тебе в&#160;кумовья дьявола.
+</p><p>— Ты прав, — ответил Чванда, весь дрожа, — я&#160;даю слово, что&#160;никогда во&#160;всю мою жизнь более не&#160;прикоснусь к&#160;ним.
+</p><p>Он&#160;сдержал своё слово, и, чтобы отблагодарить Бога за&#160;избавление от&#160;такой страшной опасности, он&#160;взял злополучную волынку, под&#160;звуки которой плясал дьявол, и&#160;повесил её в&#160;церкви, на&#160;своей родине, в&#160;Страконицах. Её ещё теперь можно там увидеть, и&#160;нередко слышать поговорки, в&#160;которых упоминается страконицкая волынка. Говорят даже, что&#160;она ежегодно издаёт звуки именно в&#160;тот день и&#160;час, в&#160;который Чванда играл на&#160;ней для&#160;сатаны и&#160;его друзей.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-21.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/8/8c/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-21.jpg" decoding="async" width="225" height="307" class="mw-file-element" data-file-width="216" data-file-height="295" /></a><figcaption></figcaption></figure>
+<div class="mw-heading mw-heading3"><h3 id="V._Гуси_доброго_Бога"><span id="V._.D0.93.D1.83.D1.81.D0.B8_.D0.B4.D0.BE.D0.B1.D1.80.D0.BE.D0.B3.D0.BE_.D0.91.D0.BE.D0.B3.D0.B0"></span>V. Гуси доброго Бога</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=9" title="Редактировать раздел «V. Гуси доброго Бога»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В&#160;то&#160;время, как&#160;Венцель рассказывал нам приключения Чванды, я&#160;забавлялся, смотря на&#160;Нанинку. Она стояла передо мною со сложенными на&#160;груди руками, усрмив глаза на&#160;рассказчика, и&#160;казалось, старалась не&#160;проронить ни&#160;одного слова из&#160;этого рассказа на&#160;незнакомом для&#160;неё языке. История Чванды не&#160;была новостью для&#160;высокой девушки; каждый раз, как&#160;упоминалось имя героя, она делала страшные гримасы, как&#160;бы желая этим показать мне, что&#160;она была здесь своя, что&#160;она также принимала участие в&#160;наших удовольствиях.
+</p><p>— За&#160;здоровье Венцеля! — сказал Степан, и&#160;затем: — Кого очередь теперь рассказывать?
+</p><p>— Нанинка, — сказал я, подымая свой стакан, — она, наверно, знает какую-нибудь хорошую сказку, а&#160;вы, Степан, мне её будете переводить.
+</p><p>— Браво! — сказал Степан.
+</p><p>И&#160;он&#160;сделался моим переводчиком подле изумлённой служанки.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-22.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/1/11/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-22.jpg" decoding="async" width="226" height="379" class="mw-file-element" data-file-width="217" data-file-height="364" /></a><figcaption></figcaption></figure>
+<p>Нанинка покраснела до&#160;ушей, заболтала своими длинными руками, и&#160;затем, спрятав их в&#160;карманы своего передника, она прямо вытянулась, как&#160;какая-нибудь кариатида, Этим она хотела, как&#160;я думаю, выразить: «Надо мною смеются». Но, ободренная своею молодою хозяйкою, она глубоко вздохнула, посмотрела на&#160;меня, усмехнувшись при&#160;этом, и&#160;начала нам рассказывать то, что&#160;следует, с&#160;такими переливами в&#160;голосе и&#160;с такими телодвижениями, которые были&#160;бы&#160;в состоянии развеселить любого сенатора, если только таковые существуют в&#160;Богемии…
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ГУСИ_ДОБРОГО_БОГА"><span id=".D0.93.D0.A3.D0.A1.D0.98_.D0.94.D0.9E.D0.91.D0.A0.D0.9E.D0.93.D0.9E_.D0.91.D0.9E.D0.93.D0.90"></span>ГУСИ ДОБРОГО БОГА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=10" title="Редактировать раздел «ГУСИ ДОБРОГО БОГА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>У&#160;господина той деревни, в&#160;которой я&#160;родилась и&#160;жила, был сын, такой ленивый, дурной и&#160;своевольный ребёнок, что&#160;от него имели одни лишь неприятности. Наконец решились отдать его пастору, надеясь, что&#160;этому последнему удастся исправить его.
+</p><p>' — Я&#160;не&#160;хочу ничего делать, — говорил ребёнок, — я&#160;родился дворянином, а&#160;дворяне ничего не&#160;делают. Посмотрите на&#160;моего отца!
+</p><p>Пастор объяснил ему, что&#160;его отец был уланским полковником, и, так как&#160;он не&#160;родился принцем, то&#160;прежде чем сделаться полковником, ему пришлось быть майором, капитаном, поручиком, кадетом; и&#160;для того, чтобы сделаться кадетом, надо уметь читать по&#160;любой книге, писать своё имя, фехтовать и&#160;знать ещё множество других прекрасных вещей.
+</p><p>— Хорошо, — сказал ребёнок, — в&#160;таком случае я&#160;хочу быть императором; император ничего не&#160;делает.
+</p><p>Пастор опять начал доказывать ему, что&#160;император более занят, чем иной крестьянин, что&#160;для того только, чтобы отказывать просящим у&#160;него места, без&#160;всякого права на&#160;них, ему понадобились&#160;бы&#160;сутки в&#160;сорок восемь часов.
+</p><p>— Хорошо, — сказал и&#160;на это ребёнок, — ну так я&#160;хочу быть добрым Богом; добрый Бог ничего не&#160;делает.
+</p><p>Пастор только всплеснул руками.
+</p><p>— Подумай, однако&#160;же, хоть только о&#160;том, моё дитя, что&#160;Бог управляет всем миром. Тою&#160;же самою рукою, которою Он&#160;ведёт по&#160;небу солнце, он&#160;ведёт и&#160;муравья но&#160;его дорожке. Одним взглядом видит Он&#160;зараз как&#160;всю вселенную, так и&#160;малейшее помышление, зарождающееся в&#160;человеческой голове. Бог никогда не&#160;бывает без&#160;дела, так как&#160;Он&#160;вечно любит.
+</p><p>Но&#160;ребёнок был упрям; ему непременно отелось быть добрым Богом, так что&#160;вечером он&#160;отказался лечь спать, если его не&#160;сделают властелином всего мира. Ни&#160;угрозы, ни&#160;мольбы, ничто не&#160;помогало, пока наконец, уставши уговаривать, жена пастора, отведя негодного мальчика в&#160;угол, не&#160;пообещала ему, что&#160;завтра поутру он&#160;будет добрым Богом. Только после этого он&#160;позволил уложить себя в&#160;постель.
+</p><p>За&#160;ночь мысли маленького дворянина нисколько не&#160;переменились; первый вопрос, сделанный им, когда он&#160;проснулся, был: действительно&#160;ли&#160;он уже добрый Бог?
+</p><p>— Да, — сказала жена пастора, но&#160;сегодня воскресенье; сейчас должна начаться обедня, а&#160;добрый Бог не&#160;может пропустить её.
+</p><p>Отправились в&#160;церковь. По&#160;дороге им пришлось переходить через&#160;принадлежавший господину луг, на&#160;котором девушка с&#160;птичьего двора пасла гусей из&#160;замка. Завидевши поселян, шедших к&#160;обедне, эта девушка побежала, чтобы присоединиться к&#160;ним и&#160;вместе продолжать путь.
+</p><p>— Варвара, — закричал ребёнок, — ты хочешь оставить этих гусей совершенно без&#160;всякого присмотра?
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-23.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/e/ed/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-23.jpg" decoding="async" width="518" height="367" class="mw-file-element" data-file-width="498" data-file-height="353" /></a><figcaption></figcaption></figure>
+<p>— Да&#160;разве в&#160;воскресенье стерегут гусей? — ответила Варвара. — Ведь сегодня праздник.
+</p><p>— Кто&#160;же будет смотреть за&#160;ними? — спросил ребёнок.
+</p><p>— В&#160;воскресенье их стережёт добрый Бог, милый господин; ведь это гуси доброго Бога.
+</p><p>И&#160;она отправилась.
+</p><p>— Моё дитя, — сказала жена пастора, — ты ведь слышал слова Варвары. Я&#160;охотно свела&#160;бы&#160;тебя в&#160;церковь, чтобы послушать там игру на&#160;органе, но&#160;с гусями может случиться какое-нибудь несчастье; а&#160;так как&#160;ты добрый Бог, то&#160;ты и&#160;должен стеречь их.
+</p><p>Мой маленький дворянин ничего не&#160;мог возразить против этого! Какие гримасы он&#160;ни корчил, а&#160;ему пришлось целый день бегать за&#160;гусями, но&#160;вечером он&#160;поклялся, что&#160;он более никогда не&#160;позволит сделать себя добрым Богом.
+</p><p>Рассказ был кончен среди взрывов хохота. Нанинка снова спрятала свои руки в&#160;карманы и&#160;со скромностью начинающего автора, при&#160;его первом успехе, выслушала сделанные ей поздравления.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="VI._Двенадцать_месяцев"><span id="VI._.D0.94.D0.B2.D0.B5.D0.BD.D0.B0.D0.B4.D1.86.D0.B0.D1.82.D1.8C_.D0.BC.D0.B5.D1.81.D1.8F.D1.86.D0.B5.D0.B2"></span>VI. Двенадцать месяцев</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=11" title="Редактировать раздел «VI. Двенадцать месяцев»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Теперь ваша очередь, сударыня, — сказал я&#160;Катеньке.
+</p><p>— А&#160;затем будет ваша, — ответила она мне, — в&#160;Париже, должно полагать, сочиняют такие прекрасные сказки. Между тем вот мой рассказ:
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ДВЕНАДЦАТЬ_МЕСЯЦЕВ"><span id=".D0.94.D0.92.D0.95.D0.9D.D0.90.D0.94.D0.A6.D0.90.D0.A2.D0.AC_.D0.9C.D0.95.D0.A1.D0.AF.D0.A6.D0.95.D0.92"></span>ДВЕНАДЦАТЬ МЕСЯЦЕВ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=12" title="Редактировать раздел «ДВЕНАДЦАТЬ МЕСЯЦЕВ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Жила-была некогда одна крестьянка, вдова с&#160;двумя дочерьми. Имя старшей, которая была только падчерицею, было Добрунка; вторая, такая&#160;же злая, как&#160;и её мать, называлась Злобогой. Крестьянка обожала свою дочь, но&#160;питала какое-то&#160;отвращение к&#160;Добрунке, просто потому, что&#160;последняя была так&#160;же прекрасна, как&#160;её родная дочь была безобразна. Добрая Добрунка не&#160;сознавала даже того, что&#160;она была красива, и&#160;поэтому она не&#160;могла объяснить себе, отчего её мачеха всякий раз при&#160;одном взгляде на&#160;неё приходила в&#160;ярость. Бедное дитя обязано было делать всё в&#160;доме; Добрунка должна была мести, стряпать, мыть, шить, прясть ткать, резать траву и&#160;ходить за&#160;коровою. Злобога&#160;же жила настоящею царицею, другими словами, ничего не&#160;делала.
+</p><p>Добрунка усердно работала и&#160;с кротостью ягнёнка принимала все попрёки и&#160;колотушки. Но&#160;ничто не&#160;могло обезоружить злую мачеху; притом ещё вдобавок старшая дочь с&#160;каждым днём всё более и&#160;более хорошела тогда как&#160;младшая становилась неб безобразнее
+</p><p>— Вот они&#160;уже большие, — думала крестьянка, — скоро станут являться женихи; но&#160;эта проклятая Добрунка, делающаяся точно назло мне с&#160;каждым днём всё красивее и&#160;красивее, отобьёт их всех у&#160;моей дочери, Я&#160;должна во&#160;что&#160;бы&#160;то ни&#160;стало от&#160;неё отделаться.
+</p><p>Однажды, это было в&#160;середине января, Злобоге захотелось фиалок.
+</p><p>— Послушай, Добрунка, пойди и&#160;набери мне в&#160;лесу букет из&#160;фиалок, а&#160;я заткну его за&#160;пояс и&#160;буду наслаждаться их запахом.
+</p><p>— О, Боже, что&#160;за мысль пришла вам в&#160;голову, сестрица! Разве под&#160;снегом бывают фиалки.
+</p><p>— Молчи, негодная дура, — возразила младшая сестра, — делай то, что&#160;я тебе говорю. Если&#160;же ты не&#160;пойдёшь сейчас в&#160;лес и&#160;не принесёшь мне букет из 13 фиалок, то&#160;я так изобью тебя, что&#160;ты сама не&#160;рада будешь.
+</p><p>Мать взяла Добрунку за&#160;руку, вытолкнула её за&#160;дверь и&#160;заперла эту последнюю на&#160;обе задвижки.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-24.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/7/72/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-24.jpg" decoding="async" width="608" height="489" class="mw-file-element" data-file-width="584" data-file-height="470" /></a><figcaption></figcaption></figure>
+<p>Бедная девушка, вся в&#160;слезах, направилась в&#160;лес. Всё в&#160;нём, даже тропинки, было покрыто снегом. Добрунка заблудилась; она начала дрожать от&#160;холода, и&#160;ей страшно захотелось есть. В&#160;отчаянии она начала молить Бога взять её из&#160;этого полного бедствий мира.
+</p><p>Вдруг она заметила вдали огонёк. Она направила туда свои шаги и&#160;вскоре поднялась на&#160;каменную гору, на&#160;вершине которой был разложен костёр. Вокруг этого костра были расположены в&#160;одну линию двенадцать камней, и&#160;на каждом из&#160;них неподвижно сидело по&#160;человеку, закутанному в&#160;большой плащ, с&#160;капюшоном на&#160;голове, закрывавшим её до&#160;самых глаз.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-25.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/c/c7/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-25.jpg" decoding="async" width="661" height="970" class="mw-file-element" data-file-width="635" data-file-height="932" /></a><figcaption></figcaption></figure>
+<p>У&#160;трёх из&#160;этих людей плащи были белые, как&#160;снег, у&#160;других трёх зелёные, как&#160;луговая трава, у&#160;третьих жёлтые, как&#160;созревшие колосья, и&#160;наконец, у&#160;последних трёх фиолетовые, как&#160;кисти винограда. Эти двенадцать фигур, молчаливо смотревшие на&#160;огонь, были двенадцать годовых месяцев.
+</p><p>Добрунка узнала Январь по&#160;его длинной бороде, и&#160;у него одного в&#160;руке была трость. Бедная девушка сильно трусила, но&#160;всё-таки она подошла к&#160;ним и&#160;боязливым голосом сказала:
+</p><p>— Добрые господа, позвольте мне погреться у&#160;вашего костра; я&#160;мёрзну от&#160;холода.
+</p><p>Январь утвердительно кивнул головою.
+</p><p>— Зачем пришла ты сюда, моя дочь, — спросил он, — что&#160;ты ищешь?
+</p><p>— Я&#160;ищу фиалок, — ответила Добрунка.
+</p><p>— Теперь им не&#160;время, в&#160;снежное время не&#160;бывает фиалок, — сказал Январь своим грубым голосом.
+</p><p>— Я&#160;знаю это, — печально заметила Добрунка, — но&#160;моя мать и&#160;моя сестра страшно изобьют меня, если я&#160;им не&#160;принесу их. — Добрые господа, скажите мне, где я&#160;их могу найти.
+</p><p>Старик Январь встал и, обратившись к&#160;молодому человеку с&#160;зелёным капюшоном, вручил ему свою трость.
+</p><p>— Братец Март, — сказал он, — это твоё дело.
+</p><p>Март в&#160;свою очередь встал и&#160;начал мешать тростью огонь. Высоко поднялось пламя; снег растаял, ветви сделались красными от&#160;почек, под&#160;кустами зеленела трава, из-под&#160;муравы пробились цветы и&#160;между ними распустились фиалки. Одним словом, сделалась весна.
+</p><p>— Скорее, моё дитя, собирай твои фиалки, — сказал Март.
+</p><p>Добрунка набрала из&#160;них большой букет, поблагодарила двенадцать месяцев и, не&#160;помня себя от&#160;радости, побежала домой. Мачеха и&#160;Злобога, увидев её, крайне изумились; запах фиалок наполнил благоуханием весь дом.
+</p><p>— Где ты нашла эти прекрасные фиалки? — спросила Злобога презрительным тоном.
+</p><p>— Там, на&#160;горе, — ответила сестра. — Под&#160;кустами точно большой синий ковёр из&#160;них.
+</p><p>Злобога заткнула букет за&#160;свой пояс и&#160;даже не&#160;поблагодарила бедное дитя.
+</p><p>На&#160;другой день злая сестра сидела и&#160;мечтала возле печки; вдруг ей захотелось поесть земляники.
+</p><p>— Пойди и&#160;набери мне в&#160;лесу земляники, — сказала она Добрунке.
+</p><p>— О, Боже, сестрица, что&#160;за мысль пришла вам в&#160;голову! Да&#160;разве под&#160;снегом бывает земляника?
+</p><p>— Молчи, негодная дура, делай то, что&#160;я тебе говорю, Если ты не&#160;пойдёшь в&#160;лес и&#160;не принесёшь мне корзинку земляники, то&#160;я так изобью тебя, что&#160;ты сама не&#160;рада будешь.
+</p><p>Мать взяла Добрунку за&#160;руку, вытолкнула её за&#160;дверь и&#160;заперла эту последнюю на&#160;обе задвижки.
+</p><p>Бедная девушка снова отправилась в&#160;лес, стараясь отыскать глазами виденный ею вчера огонёк. Она была, впрочем, настолько счастлива, что&#160;опять увидела его и, вся дрожащая и&#160;леденеющая от&#160;холода, приблизилась к&#160;костру.
+</p><p>Двенадцать месяцев неподвижно и&#160;молчаливо сидели на&#160;своих местах.
+</p><p>— Добрые господа, позвольте мне погреться у&#160;вашего костра; я&#160;мёрзну от&#160;холода.
+</p><p>— Зачем ты вернулась, — спросил Январь, — что&#160;ты ищешь?
+</p><p>— Я&#160;ищу земляники.
+</p><p>— Теперь ей не&#160;время, — заметил Январь своим грубым голосом, — под&#160;снегом не&#160;бывает земляники.
+</p><p>— Я&#160;это знаю, — печально заметила Добрунка, — но&#160;моя мать и&#160;моя сестра изобьют меня, если я&#160;не принесу её им. Мои добрые господа, скажите, где я&#160;могу найти её?
+</p><p>Старик Январь встал и, обратившись к&#160;человеку с&#160;жёлтым капюшоном, дал ему в&#160;руки трость.
+</p><p>— Братец Июнь, — сказал он, — это твоё дело.
+</p><p>Июнь в&#160;свою очередь встал и&#160;помешал тростью огонь. Высоко поднялось пламя; снег растаял, земля покрылась зеленью, деревья покрылись листьями, запели птицы и&#160;распустились цветы, дёрн запестрел тысячами маленьких звёздочек, затем эти звёздочки изменились в&#160;ягоды земляники и&#160;заблистали в&#160;своих зелёных венчиках, как&#160;рубины среди изумрудов.
+</p><p>— Скорее, моё дитя, собирай твою землянику, — сказал Июнь.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-26.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/8/8e/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-26.jpg" decoding="async" width="653" height="915" class="mw-file-element" data-file-width="627" data-file-height="879" /></a><figcaption></figcaption></figure>
+<p>Добрунка наполнила земляникою весь свой передник, поблагодарила двенадцать месяцев и&#160;весёлая побежала домой. Увидев землянику, мачеха и&#160;Злобога крайне изумились; запах от&#160;неё наполнил благоуханием весь дом.
+</p><p>— Где ты нашла эту прелестную землянику? — спросила Злобога презрительным тоном.
+</p><p>— Там, на&#160;горе, — ответила старшая сестра, — её там столько, что&#160;можно было&#160;бы&#160;подумать, что&#160;это пролитая кровь.
+</p><p>Злобога и&#160;её мать поели одни земляники и&#160;даже не&#160;поблагодарили бедное дитя.
+</p><p>На&#160;третий день злой сестре захотелось яблок. Опять повторились те&#160;же угрозы, те&#160;же оскорбления и&#160;те&#160;же насилия. Добрунка опять побежала к&#160;горе и&#160;была настолько счастлива, что&#160;снова нашла двенадцать месяцев, неподвижно и&#160;молчаливо гревшихся у&#160;костра.
+</p><p>— Опять ты здесь, моё дитя? — сказал старик Январь, давая ей место у&#160;костра.
+</p><p>Добрунка, плача, рассказала ему, что&#160;её мать и&#160;сестра обещались забить её до&#160;смерти, если она не&#160;принесёт им румяных яблок.
+</p><p>Добрый Январь опять повторил то, что&#160;он делал накануне.
+</p><p>— Друг Сентябрь, — сказал он&#160;серой бороде с&#160;фиолетовым капюшоном, — это твоё дело.
+</p><p>Сентябрь в&#160;свою очередь встал и&#160;помешал тростью огонь. Высоко поднялось пламя, снег растаял, на&#160;деревьях распустилось несколько пожелтевших листьев, которые от&#160;дуновения ветра и&#160;начали падать один за&#160;другим. Одним словом, наступила осень. Из&#160;цветов видны были только несколько запоздалых гвоздик, несколько маргариток и&#160;сухоцветов. Добрунка ничего не&#160;видела, кроме яблони с&#160;её румяными плодами.
+</p><p>— Скорее, моё дитя, тряси дерево, — сказал Сентябрь.
+</p><p>Она начала трясти, упало одно яблоко, затем второе.
+</p><p>— Скорее, Добрунка, скорее ступай домой! — закричал Сентябрь повелительным тоном.
+</p><p>Добрая девушка поблагодарила двенадцать месяцев и&#160;вне себя от&#160;радости побежала домой. Злобога и&#160;мачеха пришли в&#160;изумление.
+</p><p>— В&#160;январе свежие яблоки! Где ты взяла эти два яблока? — спросила Злобога.
+</p><p>— Там, на&#160;горе, есть дерево, красное от&#160;них, как&#160;бывает вишнёвое дерево от&#160;вишен в&#160;июле месяце.
+</p><p>— Отчего ты принесла только два яблока? Ты другие, должно полагать, съела дорогою.
+</p><p>— Я, сестрица, я&#160;до них даже не&#160;дотронулась; мне позволили потрясти дерево только два раза, и&#160;за оба раза с&#160;него упали только эти два яблока.
+</p><p>— Да&#160;поразит тебя гром! — воскликнула Злобога.
+</p><p>И&#160;она начала бить свою сестру, которая с&#160;плачем вырвалась и&#160;убежала.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-27.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/7/70/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-27.jpg" decoding="async" width="471" height="369" class="mw-file-element" data-file-width="453" data-file-height="355" /></a><figcaption></figcaption></figure>
+<p>Злая девушка съела одно из&#160;двух яблок; никогда ещё она не&#160;ела ничего подобного по&#160;вкусу. Мать была того&#160;же мнения, и&#160;обе они&#160;очень жалели, что&#160;у них не&#160;было их более.
+</p><p>— Матушка, — сказала Злобога, — дай мне мою шубу, я&#160;пойду в&#160;лес, отыщу дерево, и, позволят&#160;ли&#160;мне или&#160;нет, а&#160;буду трясти его до&#160;тех пор, пока ввсе яблоки не&#160;будут наши.
+</p><p>Мать хотела сделать ей несколько замечаний, но&#160;избалованное дитя обыкновенно не&#160;слушает никого; Злобога закуталась в&#160;свою шубу, накинула на&#160;голову капюшон и&#160;побежала в&#160;лес.
+</p><p>Всё, даже тропинки, было занесено снегом, Злобога заблудилась, но&#160;алчное желание добыть яблок и&#160;гордость побуждали её идти вперёд. Вдруг она заметила вдали огонёк; она побежала к&#160;нему, поднялась на&#160;гору и&#160;нашла на&#160;вершине её двенадцать месяцев, неподвижно и&#160;безмолвно сидящих каждый на&#160;своём камне. Не спросивши у&#160;них позволения, она подошла к&#160;костру.
+</p><p>— Что&#160;ты хочешь здесь делать? Что&#160;тебе надо? Куда ты идёшь? — сухо спросил её старик Январь.
+</p><p>— А&#160;тебе что&#160;за дело, старый безумец? — ответила Злобога. — Тебе ровно нет никакого дела знать, откуда и&#160;куда я&#160;иду.
+</p><p>И&#160;она направила свои шаги в&#160;глубину леса.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-28.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/7/7d/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-28.jpg" decoding="async" width="440" height="557" class="mw-file-element" data-file-width="423" data-file-height="535" /></a><figcaption></figcaption></figure>
+<p>Январь нахмурил брови и&#160;поднял свою трость выше своей головы. В&#160;одно мгновение ока небо потемнело, огонь померк, пошёл снег и&#160;задул ветер. Злобога ничего не&#160;видела перед&#160;собою, она заблудилась и&#160;тщетно старалась вернуться на&#160;свои следы. Снег шёл всё сильнее и&#160;сильнее, ветер дул своим чередом. Она начала звать свою мать и&#160;проклинать свою сестру, даже самого Бога. А&#160;снег всё падал, и&#160;ветер не&#160;переставал дуть. Злобога замёрзла, члены её окоченели, и&#160;она как&#160;сноп повалилась на&#160;снег. А&#160;снег всё продолжал падать, а&#160;ветер дуть.
+</p><p>Мать беспрестанно ходила от&#160;окна к&#160;двери и&#160;обратно, от&#160;двери к&#160;окну, но&#160;часы проходили, а&#160;Злобога не&#160;возвращалась.
+</p><p>— Я&#160;должна пойти и&#160;отыскать мою дочь, — сказала она. — Дитя с&#160;этими проклятыми яблоками забудет, что&#160;ему пора возвращаться домой.
+</p><p>Мать надела свою шубу, капюшон и&#160;побежала к&#160;горе; все тропинки были занесены снегом. Она углубилась в&#160;лес и&#160;начала звать свою дочь. Ветер продолжал дуть и&#160;снег падать. С&#160;лихорадочным беспокойством продолжала она идти в&#160;глубину леса, постоянно крича вдаль. А&#160;ветер всё дул и&#160;снег падал.
+</p><p>Весь вечер и&#160;всю ночь прождала их Добрунка, но&#160;никто не&#160;возвращался. Поутру она села за&#160;свою прялку, иссучила целую кудель, а&#160;они не&#160;являлись.
+</p><p>— Милостивый Боже! Что&#160;случилось с&#160;ними? — сказала добрая девушка со слезами на&#160;глазах.
+</p><p>Солнце сияло сквозь холодный туман, и&#160;вся земля была покрыта снегом, Добрунка перекрестилась и&#160;прочла «Отче наш» за&#160;свою мать и&#160;свою сестру. Эти последние уже более не&#160;возвращались домой; только весною пастух, идя по&#160;лесу, наткнулся на&#160;два женских трупа.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-29.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/9/97/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-29.jpg" decoding="async" width="535" height="1110" class="mw-file-element" data-file-width="514" data-file-height="1066" /></a><figcaption></figcaption></figure>
+<p>Добрунка осталась одна хозяйкою дома, коровы и&#160;сада, не&#160;говоря уже о&#160;находившейся перед&#160;домом небольшой лужайке, Но&#160;когда какая-нибудь добрая и&#160;красивая девушка имеет перед&#160;своим окном лужок, первое, что&#160;появляется на&#160;этом лужке, это молодой фермер, вежливо предлагающий ей всё своё имущество, своё сердце и&#160;свою руку. Добрунка вскоре вышла замуж; двенадцать месяцев не&#160;покинули своё дитя. Не раз, когда слишком сильно дул северный ветер, так что&#160;стёкла дрожали в&#160;своих свинцовых рамах, старичок Январь затыкал снегом все щели дома, чтобы холод не&#160;проник в&#160;это мирное убежище.
+</p><p>Так-то&#160;поживала Добрунка, вечно добрая, постоянно счастливая, имея, как&#160;говорит пословица, у&#160;дверей зиму, в&#160;житнице лето, в&#160;погребе осень и&#160;у себя в&#160;сердце весну.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="VII._История_царя_Самарийского"><span id="VII._.D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D1.86.D0.B0.D1.80.D1.8F_.D0.A1.D0.B0.D0.BC.D0.B0.D1.80.D0.B8.D0.B9.D1.81.D0.BA.D0.BE.D0.B3.D0.BE"></span>VII. История царя Самарийского</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=13" title="Редактировать раздел «VII. История царя Самарийского»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Теперь вам, милостивый государь, — сказала мне Катенька, окончив свой прелестный рассказ.
+</p><p>Отказаться было невозможно, и&#160;потому я&#160;начал.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ИСТОРИЯ_ЦАРЯ_САМАРИЙСКОГО"><span id=".D0.98.D0.A1.D0.A2.D0.9E.D0.A0.D0.98.D0.AF_.D0.A6.D0.90.D0.A0.D0.AF_.D0.A1.D0.90.D0.9C.D0.90.D0.A0.D0.98.D0.99.D0.A1.D0.9A.D0.9E.D0.93.D0.9E"></span>ИСТОРИЯ ЦАРЯ САМАРИЙСКОГО</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;action=edit&amp;section=14" title="Редактировать раздел «ИСТОРИЯ ЦАРЯ САМАРИЙСКОГО»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Жил-был некогда в&#160;Самарии старый царь, с&#160;каждым годом сокращавший всё более и&#160;более налоги.
+</p><p>— Это настоящая волшебная сказка? — сказал Степан. — Браво!
+</p><p>У&#160;этого царя было три сына, и&#160;так как&#160;он думал только о&#160;счастии своего народа…
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-30.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/6/6a/Labule_e_text_1864_contes_bohemes_text_1864_contes_bohemes-30.jpg" decoding="async" width="661" height="454" class="mw-file-element" data-file-width="635" data-file-height="436" /></a><figcaption></figcaption></figure>
+<p>В&#160;эту минуту кто-то&#160;прикоснулся к&#160;моему плечу, и&#160;когда я&#160;оглянулся, то&#160;увидел Нанинку, которая указала мне пальцем сначала на&#160;стенные часы, стрелка которых стояла уже на&#160;десяти, и&#160;затем на&#160;бабушку, сладко заснувшую в&#160;своём большом кресле. Хотя я&#160;не знал по-чешски, я&#160;понял, однако&#160;же, этот язык. Мы&#160;с&#160;Венцелем без&#160;шума встали и&#160;начали прощаться, говоря: до&#160;завтра! Катенька на&#160;прощание грациозно улыбнулась нам, Степан пожал нам руки. Нанинка, запирая за&#160;нами дверь, тростилась с&#160;нами словами: «Miegte se dobre, pane» [<i>Будьте здоровы, сударь!</i>], обогатившими мой чешский словарь новою фразою.
+</p><p>Венцель пошёл проводить меня до&#160;самой гостиницы. Не успели мы&#160;ещё сделать девяти шагов, как&#160;он в&#160;свою очередь и&#160;начал расхваливать Богемию.
+</p><p>Вот ещё один игрок на&#160;органе, думал я, сам Непомук готов всплыть на&#160;воду.
+</p><p>Я&#160;ошибался только вполовину. Венцель оставил в&#160;покое славянских героев прошлых фемён, и&#160;с необыкновенным жаром объявил мне, что&#160;самых прекрасных женщин в&#160;свете можно найти только в&#160;Богемии, что&#160;самые прекрасные женщины в&#160;Богемии находятся в&#160;Праге и&#160;что самая прекрасная из&#160;всех пражских женщин живёт на&#160;Коловратской улице, в&#160;доме под № 719. Он&#160;дошёл даже до&#160;того, что&#160;сообщил мне, что&#160;он жених Катеньки и&#160;счастливейший из&#160;смертных. Сказать правду, я&#160;в этом сомневался.
+</p><p>Если&#160;бы&#160;я позволил ему, то&#160;он продержал&#160;бы&#160;меня на&#160;улицах Праги до&#160;полуночи, рассказывая мне, при&#160;блеске звёзд, эту вечную историю, надоедающую только тем, кому приходится её выслушивать; но&#160;я едва стоял на&#160;ногах от&#160;усталости и&#160;желания спать, и&#160;потому я&#160;поспешил, предварительно извинившись, распроститься с&#160;моим новым другом.
+</p><p>У&#160;дверей Голубой Звезды я&#160;встретил моего любезного кельнера, с&#160;его вечной улыбкой на&#160;устах. Он&#160;проводил меня до&#160;моей комнаты и&#160;пожелал мне доброго вечера, грозно прищурив при&#160;этом один глаз, точно это слово: «добрый вечер» имели какой-то&#160;таинственный смысл…
+</p><p><i>Текст издания (в&#160;современной орфографии): Эдуард Лабулэ. Чешские и&#160;немецкие сказки, т.&#160;2. — С.-Петербург, 1869&#160;г.&#160;Издание Н. И. Ламанского.</i>
+</p><p><i>Иллюстрации: Edouard Laboulaye Contes Blens. — Paris, 1864&#160;г.&#160;Художник — Жан Даржан</i>.
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐f79556446‐2ddw5
+Cached time: 20260217085933
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.191 seconds
+Real time usage: 0.291 seconds
+Preprocessor visited node count: 204/1000000
+Revision size: 125664/2097152 bytes
+Post‐expand include size: 8483/2097152 bytes
+Template argument size: 1137/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 2339308/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  157.339      1 Шаблон:Отексте
+100.00%  157.339      1 -total
+  1.83%    2.875      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1037596:|#|:idhash:canonical and timestamp 20260217085933 and revision id 5613294. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Посещение_Праги_(Лабуле)&amp;oldid=5613294">https://ru.wikisource.org/w/index.php?title=Посещение_Праги_(Лабуле)&amp;oldid=5613294</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B,_%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%BC%D0%B8_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Переводы, выполненные неизвестными переводчиками">Переводы, выполненные неизвестными переводчиками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B_%D1%81_%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0" title="Категория:Переводы с французского языка">Переводы с французского языка</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Категория:Детская литература">Детская литература</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8" title="Категория:Сказки">Сказки</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AD%D0%B4%D1%83%D0%B0%D1%80-%D0%A0%D0%B5%D0%BD%D0%B5_%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5" title="Категория:Эдуар-Рене Лабуле">Эдуар-Рене Лабуле</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1864_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1864 года">Литература 1864 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Указан переводчик в параметре ДРУГОЕ">Импорт/lib.ru/Указан переводчик в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%AD%D0%B4%D1%83%D0%B0%D1%80-%D0%A0%D0%B5%D0%BD%D0%B5_%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5" title="Категория:Импорт/az.lib.ru/Эдуар-Рене Лабуле">Импорт/az.lib.ru/Эдуар-Рене Лабуле</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 29 августа 2025 года в 08:47.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B0%D0%B3%D0%B8_(%D0%9B%D0%B0%D0%B1%D1%83%D0%BB%D0%B5)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Посещение Праги (Лабуле)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-f79556446-2ddw5","wgBackendResponseTime":655,"wgPageParseReport":{"limitreport":{"cputime":"0.191","walltime":"0.291","ppvisitednodes":{"value":204,"limit":1000000},"revisionsize":{"value":125664,"limit":2097152},"postexpandincludesize":{"value":8483,"limit":2097152},"templateargumentsize":{"value":1137,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  157.339      1 Шаблон:Отексте","100.00%  157.339      1 -total","  1.83%    2.875      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.069","limit":"10.000"},"limitreport-memusage":{"value":2339308,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Эдуар-Рене Лабуле\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"fr\",\n    [\"origPublished\"] = \"1864\",\n    [\"origTitle\"] = \"Contes Bohemes\",\n    [\"other\"] = \"(Чешские сказки).\u003Cbr\u003E''Русский перевод 1869 г. (без указания переводчика).''\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/l/labule_e/text_1864_contes_bohemes.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Посещение Праги\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-f79556446-2ddw5","timestamp":"20260217085933","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

@@ -1,3 +1,4 @@
+import hashlib
 import os
 import zipfile
 
@@ -11,3 +12,7 @@ def zip_folder(folder_path, output_zip):
                 rel_path = os.path.relpath(full_path, folder_path)
 
                 zipf.write(full_path, rel_path)
+
+
+def url_to_filename(url):
+    return hashlib.sha256(url.encode("utf-8")).hexdigest() + ".txt"

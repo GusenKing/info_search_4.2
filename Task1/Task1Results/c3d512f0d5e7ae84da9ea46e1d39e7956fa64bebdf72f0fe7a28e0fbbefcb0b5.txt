@@ -1,0 +1,1020 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Два рассказа, сказание и очерк (Опочинин) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"7fdaf671-87d1-4e58-9bbb-83bdb69b1e6b","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Два_рассказа,_сказание_и_очерк_(Опочинин)","wgTitle":"Два рассказа, сказание и очерк (Опочинин)","wgCurRevisionId":5255476,"wgRevisionId":5255476,"wgArticleId":1024940,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Страницы с внутренними ссылками по анкорам","Импорт/lib.ru/Страницы с внешними ссылками","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100","Импорт/lib.ru","Импорт/az.lib.ru/Евгений Николаевич Опочинин","Проза","Сборники рассказов","Евгений Николаевич Опочинин","Литература 1909 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Два_рассказа,_сказание_и_очерк_(Опочинин)","wgRelevantArticleId":1024940,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5255476,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Два рассказа, сказание и очерк (Опочинин) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Два_рассказа_сказание_и_очерк_Опочинин rootpage-Два_рассказа_сказание_и_очерк_Опочинин skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%94%D0%B2%D0%B0+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%2C+%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B8+%D0%BE%D1%87%D0%B5%D1%80%D0%BA+%28%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%94%D0%B2%D0%B0+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%2C+%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B8+%D0%BE%D1%87%D0%B5%D1%80%D0%BA+%28%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%94%D0%B2%D0%B0+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%2C+%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B8+%D0%BE%D1%87%D0%B5%D1%80%D0%BA+%28%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%94%D0%B2%D0%B0+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%2C+%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B8+%D0%BE%D1%87%D0%B5%D1%80%D0%BA+%28%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Опочинин_Евгений"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Опочинин_Евгений">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Опочинин Евгений</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Опочинин_Евгений-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Отобразить/Скрыть подраздел Опочинин Евгений</span>
+			</button>
+		
+		<ul id="toc-Опочинин_Евгений-sublist" class="vector-toc-list">
+			<li id="toc-Бесовский_летатель_(Сказание)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Бесовский_летатель_(Сказание)">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.1</span>
+					<span>Бесовский летатель <i>(Сказание)</i></span>
+				</div>
+			</a>
+			
+			<ul id="toc-Бесовский_летатель_(Сказание)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Беднячёк_(Разсказ)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Беднячёк_(Разсказ)">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.2</span>
+					<span>Беднячёк <i>(Разсказ)</i></span>
+				</div>
+			</a>
+			
+			<ul id="toc-Беднячёк_(Разсказ)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Петров_день_(Очерк)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Петров_день_(Очерк)">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.3</span>
+					<span>Петров день (Очерк)</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Петров_день_(Очерк)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Маркиза_(Разсказ)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Маркиза_(Разсказ)">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.4</span>
+					<span>Маркиза (Разсказ)</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Маркиза_(Разсказ)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-ПРИМЕЧАНИЯ"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#ПРИМЕЧАНИЯ">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.5</span>
+					<span>ПРИМЕЧАНИЯ</span>
+				</div>
+			</a>
+			
+			<ul id="toc-ПРИМЕЧАНИЯ-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Два рассказа, сказание и очерк (Опочинин)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%94%D0%B2%D0%B0+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%2C+%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5+%D0%B8+%D0%BE%D1%87%D0%B5%D1%80%D0%BA+%28%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;oldid=5255476" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%2C_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_%28%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD%29&amp;id=5255476&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2594%25D0%25B2%25D0%25B0_%25D1%2580%25D0%25B0%25D1%2581%25D1%2581%25D0%25BA%25D0%25B0%25D0%25B7%25D0%25B0%2C_%25D1%2581%25D0%25BA%25D0%25B0%25D0%25B7%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5_%25D0%25B8_%25D0%25BE%25D1%2587%25D0%25B5%25D1%2580%25D0%25BA_%28%25D0%259E%25D0%25BF%25D0%25BE%25D1%2587%25D0%25B8%25D0%25BD%25D0%25B8%25D0%25BD%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2594%25D0%25B2%25D0%25B0_%25D1%2580%25D0%25B0%25D1%2581%25D1%2581%25D0%25BA%25D0%25B0%25D0%25B7%25D0%25B0%2C_%25D1%2581%25D0%25BA%25D0%25B0%25D0%25B7%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5_%25D0%25B8_%25D0%25BE%25D1%2587%25D0%25B5%25D1%2580%25D0%25BA_%28%25D0%259E%25D0%25BF%25D0%25BE%25D1%2587%25D0%25B8%25D0%25BD%25D0%25B8%25D0%25BD%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%2C_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_%28%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%2C_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_%28%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%2C_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_%28%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%2C_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_%28%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%2C_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_%28%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%2C_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_%28%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Два рассказа, сказание и очерк</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD" title="Автор:Евгений Николаевич Опочинин">Евгений Николаевич Опочинин</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1909</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/o/opochinin_e_n/text_0020.shtml">az.lib.ru</a></span>  • Бесовский летатель (Сказание); <br />
+Беднячёк (Разсказ); <br />Петров день (Очерк); <br />Маркиза (Разсказ).</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD" title="Автор:Евгений Николаевич Опочинин">Евгений Николаевич Опочинин</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading1"><h1 id="Опочинин_Евгений"><span id=".D0.9E.D0.BF.D0.BE.D1.87.D0.B8.D0.BD.D0.B8.D0.BD_.D0.95.D0.B2.D0.B3.D0.B5.D0.BD.D0.B8.D0.B9"></span>Опочинин Евгений</h1><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=1" title="Редактировать раздел «Опочинин Евгений»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<center>= Рассказы =</center>
+<p><b>Оглавление:</b>
+</p><p><a href="#01">Бесовский летатель</a><i> (Сказание)</i>;
+</p><p><a href="#02">Беднячёк</a><i> (Разсказ)</i>;
+</p><p><a href="#03">Петров день</a> (Очерк);
+</p><p><a href="#04">Маркиза</a> (Разсказ);
+</p><p><a href="#05">Примечания</a>
+</p><p>Текст издания: Е. Н. Опочинин. Рассказы — Рыбинск: Рыбинское подворье, 1998 — 32 с., с&#160;илл. Сост. и&#160;авт. предисловия С.&#160;Н. Овсянников<br />
+</p>
+<style data-mw-deduplicate="TemplateStyles:r5158936">.mw-parser-output .align-right{text-align:right}.mw-parser-output div.align-right{margin-top:0;margin-right:0;margin-bottom:0;margin-left:auto}.mw-parser-output span.align-right{display:inline-block;width:100%}</style><div class="align-right">Взято из Либрусека, <a rel="nofollow" class="external text" href="http://lib.rus.ec">lib.rus.ec</a></div>
+<p>Внимание&#160;!!! Сохранена орфография оригинального издания, за&#160;исключением: буква «ЯТЬ» — заменена на «Е» и&#160;буква «ЕР» (твердый знак) в&#160;конце существительных мужеского рода — удалена.
+</p>
+<hr />
+<p><span id="01"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Бесовский_летатель_(Сказание)"><span id=".D0.91.D0.B5.D1.81.D0.BE.D0.B2.D1.81.D0.BA.D0.B8.D0.B9_.D0.BB.D0.B5.D1.82.D0.B0.D1.82.D0.B5.D0.BB.D1.8C_.28.D0.A1.D0.BA.D0.B0.D0.B7.D0.B0.D0.BD.D0.B8.D0.B5.29"></span>Бесовский летатель <br /><i>(Сказание)</i></h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=2" title="Редактировать раздел «Бесовский летатель (Сказание)»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Радостно и&#160;ясно всходило солнышко, когда смерд Никитка сбежал с&#160;Москвы от&#160;своего осударя, боярского сына Лупатова, и&#160;навострил свои холопский лыжи к&#160;Александровской слободе. Не с&#160;тайным изветом на&#160;господина, как&#160;то часто бывало тогда, не&#160;с челобитьем в&#160;обиде али неправде, — за&#160;великим делом шел в&#160;страшную слободу холоп: стать перед&#160;очи самого царя и&#160;сказать ему слово о&#160;нестаточном доселе и&#160;неслыханном, чего человеку и&#160;вместити не&#160;мочно…
+</p><p>И&#160;темной, непроглядной ночью стояло перед&#160;Никиткой будущее: имет веру Грозный его словам — будет ему великое жалованье, избудет он&#160;неволи-холопства, будет жить в&#160;чести и&#160;богатстве, не&#160;имет — застенок и&#160;плаха… А&#160;жалко помирать в&#160;молодых летах! Хорошо на&#160;белом свете, на&#160;земле, особливо весной…
+</p><p>Шел Никитка, осматривался и&#160;дивился. Словно он&#160;не мало годов живет на&#160;свете, — будет десятка два с&#160;лишним, — а&#160;никогда до&#160;того не&#160;видывал такой красоты. Всякая былинка у&#160;места, всякая веточка на&#160;деревах под-стать одна другой… Ручейки, светлые и&#160;студеные, бегут по&#160;овражкам, прямо по&#160;мурове, блестят на&#160;солнышке, отливают местами зеленью, будто кто горстями насыпал в&#160;них дорогих измарагдов. И&#160;все радуется и&#160;светит кругом. Дерева не&#160;клонятся к&#160;земле, а&#160;подняли вверх сучья, и&#160;стоят довольныя, радостныя, что&#160;настало тепло. На&#160;ветках уже набухают почки… Всякая тварь копошится и&#160;суетится на&#160;только-что&#160;оттаявшей земле: тащутся с&#160;ношами мураши, жуки какие-то&#160;ползут через&#160;тропку, торопливо шмыгают ящерицы в&#160;сухой летошней некоси-траве. Не сидят без&#160;дела и&#160;люди: вон, на&#160;взгорье неогляднаго поля, виднеются оратаи. Согнувшись, тяжело идут они&#160;за своими сохами, а&#160;за ними, словно вытягивающийся черный змей, ползет глубокая борозда. А&#160;вверху, словно несметное серебро разсыпают на&#160;звонкое железо, заливаются переливчатой песнью жаворонки, и&#160;светится голубая бездонная глубь неба. Так и&#160;мерещится, что&#160;вот-вот замелькают в&#160;нем белыя крылья ангелов, и&#160;раздастся их клир во&#160;славу Господа…
+</p><p>Шел смерд Никитка, смотрел в&#160;голубое небо и&#160;думал: «Хорошо на&#160;земле, благолепно, а&#160;наверху еще лучше: ни&#160;тебе там людей, ни&#160;бояр, ни&#160;холопей всякому вольно, словно птице, лихо-бы&#160;досягнуть».
+</p><p>Стайка журавлей с&#160;курлыканьем протянула в&#160;вышине. Холоп смотрел им вслед и&#160;говорил себе, что&#160;будет время, и&#160;человек поднимется вот так&#160;же в&#160;небо и&#160;полетит, куда захочет, вольною птицей, а&#160;он, Никитка, — прежде всех. Может, не&#160;минет и&#160;месяца, лишь&#160;бы&#160;царь его пожаловал, послушал… Станется такое дело не&#160;страшен ему будет и&#160;господин его, боярский сын Лупатов: улетит он&#160;от его батогов туда, где его не&#160;достать не&#160;только-что&#160;боярскому сыну, а&#160;и самому Малюте.
+</p><p>Так весь день, наедине с&#160;своими думами, шел Никитка, подвигаясь к&#160;слободе. Переночевал он&#160;у мужика в&#160;попутной деревеньке, покормился Христа-ради и&#160;опять ударился в&#160;ход. Только на&#160;другой день к&#160;вечеру миновала дорога, и&#160;из-за&#160;лесу засверкали кресты слободских церквей. Прошел еще — и&#160;вся слобода выступила словно на&#160;ладони. Запестрили верхи теремов, засветили на&#160;солнышке слюдяныя окна, поднялись темныя вышки, стены и&#160;кованыя ворота. Сжалось сердце у&#160;смерда от&#160;смутнаго страха, похолодели руки и&#160;ноги.
+</p><p>Темен сегодня Грозный, ничего его не&#160;тешит. Звал-было шутов-потешников, скоморохов, да&#160;сам&#160;же указал проводить их плетьми, и&#160;те выскочили от&#160;него негорюхой. Сказочникам указал прийти, да&#160;не стал их слушать… Чего! В&#160;застенок не&#160;пошел на&#160;пытки, — даром заплечные мастера прождали во&#160;всем наряде… Один-одинешенек ходил он&#160;из палаты в&#160;палату, метался, будто зверь по&#160;клетке. Сунулся было к&#160;нему Малюта, и&#160;на него царь замахнулся палкой, и&#160;тот еле унес ноги.
+</p><p>Весть о&#160;том, что&#160;Грозный незауряд гневен, мигом облетела слободу, и&#160;все затихло, будто вымерло разом. Ни&#160;песни, ни&#160;говора нигде не&#160;стало слышно, малые ребята -и&#160;те не&#160;смели плакать. На&#160;что&#160;безстрашная опричня, и&#160;она разобралась по&#160;избам.
+</p><p>Еще пуще замерли все в&#160;страхе, когда с&#160;колокольни прокатился удар колокола, зовущаго к&#160;молитве, и&#160;царь, в&#160;смирной одежде, появился на&#160;высоком теремном крыльце. Кругом его, словно крылья нетопырей, взвивались от&#160;набегов предзакатнаго ветра черныя мантии опричных иноков, и&#160;последние лучи солнца ложились на&#160;них багряными пятнами крови…
+</p><p>И&#160;вдруг в&#160;тишине, когда замолк призывный звон с&#160;колокольни, от&#160;ворот по&#160;улице раздался и&#160;поплыл в&#160;вечернем воздухе громкий говор и&#160;шум. Царь, уже сходивший по&#160;ступеням крыльца, остановился и&#160;загоревшимся взором обвел ряды своих людей.
+</p><p>— Тако&#160;ли&#160;блюдете мя? — с&#160;грозящей скорбью выронил он&#160;укоризненный вопрос.
+</p><p>И&#160;вмиг Иоанн остался один на&#160;ступенях крыльца. Мнимые иноки, звеня ножами и&#160;саблями под&#160;полами ряс и&#160;мантий, бросились с&#160;крыльца и&#160;толпой черной нежити замелькали по&#160;улице слободы. Теперь не&#160;было скорби на&#160;лице царя, — глаза его светились огнем, и&#160;в них было нетерпеливое ожиданье.
+</p><p>Шум вдали затих. Замер и&#160;топот ног пронесшейся опрични. Царь, опершись на&#160;посох, стоял и&#160;ждал… Затаив дыхание, замершие недвижно на&#160;своих местах, словно истуканы, стояли по&#160;сторонам крыльца сторожевые пищальники.
+</p><p>Но&#160;вот снова послышался вдали шум и&#160;человечий говор. Приливной волной прокатился он&#160;по улице, ближе и&#160;ближе, и&#160;вдруг как-то&#160;разом вырос в&#160;медленно двигавшуюся толпу. В&#160;ней мельтешили черныя мантии лжеиноков и&#160;сермяги слободской челяди, а&#160;в самой середине бился, вырываясь из&#160;рук опричников, какой-то&#160;человек в&#160;простом холопьем кафтане и&#160;овчинной шапке. Человек этот, не&#160;покрывая рта, блажил на&#160;всю слободу одни и&#160;те&#160;же слова:
+</p><p>— Царь-осударь! Смилуйся, пожалуй, вели видеть твои светлыя очи! Перед&#160;крыльцом толпа остановилась и&#160;разом, как&#160;один человек, упала на&#160;колени. И&#160;мигом все затихло. Даже человек в&#160;холопьем кафтане сунулся лбом в&#160;землю и&#160;перестал выкрикивать свое челобитье.
+</p><p>— В&#160;чем изловили? — кинул царь тихим голосом в&#160;толпу.
+</p><p>В&#160;ответ загалдели-было сразу, перебивая один другого, многие голоса, но&#160;Иоанн гневно махнул посохом, — и&#160;все опять стихло. Тогда Василий Грязной, бывший ближе других к&#160;крыльцу, не&#160;поднимаясь с&#160;колен, сказал:
+</p><p>— Вора и&#160;умышленника на&#160;твое, великий осударь, здоровье, сторожа твои в&#160;воротах изловили… Шел-де до&#160;тебя, великий осударь… Сказывал-к&#160;тебе слово, а&#160;как спрашивали, молвил несбыточное: хочу-де сделать крылья деревяны и&#160;летать по&#160;воздуху, что&#160;птица, для&#160;государевой потехи… А&#160;станется, не&#160;с тем безумством шел он, вор и&#160;изменник и&#160;на твое здоровье вымышленник! Знать, земщина не&#160;дремлет, — не&#160;инако — от&#160;нея послан… От&#160;этих слов, будто угли от&#160;ветра, разгорелись царския очи. Иоанн выслушал и, не&#160;в силах сказать слово, задыхаясь, подал какой-то&#160;знак дрожащей десницей. Но&#160;его поняли люди и, мигом сорвав кафтан с&#160;пришлаго холопа, за&#160;плечи, волоком потащили к&#160;крыльцу.
+</p><p>— Чей ты? Кто твои подсыльщики, человече? — через&#160;силу спросил царь.
+</p><p>Холоп, стоя на&#160;коленях и&#160;все еще удерживаемый за&#160;руки, безстрашно поднял голову и&#160;сказал:
+</p><p>— Из&#160;холопей я&#160;Лупатова, боярскаго сына, великий царь-осударь! Без&#160;подсыльщиков, своей волей, пришел я&#160;к тебе с&#160;великим делом. Смилуйся, пожалуй, — вели мне сделать крылья деревяны! Хочу аки птица, возлететь для&#160;твоей потехи… А&#160;станется, не&#160;сделаю, что&#160;обещаюсь, — укажи казнить меня смертью…
+</p><p>Безбоязненно, словно своей ровне, говорил смерд Никитка, стоя на&#160;коленях перед&#160;царем в&#160;одной домотканной набойчатой рубахе, и&#160;смотрел ему прямо в&#160;очи. Царь слушал, и&#160;гнев, горевший в&#160;его глазах, потухал, и&#160;рука, державшая посох, перестала дрожать.
+</p><p>— Благо ти, человече! — наконец, тихо выронил Иоанн. — Несбыточно дело, о&#160;нем&#160;же сказываешь… Но&#160;да&#160;будет! Узрим, како возлетиши ты, аки птичище крылато, узри… И&#160;жалован будеши, аще сотворишь по&#160;слову своему…
+</p><p>И&#160;с&#160;этими словами царь махнул рукой. Разступились люди, державшие Никитку, и&#160;он встал с&#160;колен.
+</p><p>— Узриши, великий осударь! — смело сказал он&#160;царю.
+</p><p>Но&#160;Иоанн уже не&#160;слушал. Тихо смеясь, он&#160;поднимался по&#160;ступеням крыльца. Следом за&#160;ним, распахнув мантии и&#160;рясы, повалила назад в&#160;палаты вся опричня. Тщетно звал колокол: не&#160;будет нынче покаянной молитвы, — великий пир уготован на&#160;ея место…
+</p><p>Прямо от&#160;крыльца Никитку отвели теремные прислужники в «черную» поварню и&#160;там накормили. На&#160;Другой день к&#160;нему пришел какой-то&#160;человек и&#160;сказал ему указ царя, чтобы спрашивал он, смерд Никитка, все, что&#160;для дела его надобь, а&#160;работал чтобы в&#160;собинной избе, других&#160;бы&#160;изб не&#160;поганил.
+</p><p>И&#160;по&#160;тому указу, беглый холоп Лупатова перебрался в&#160;большую избу, очищенную про&#160;него на&#160;конце слободы. По&#160;первому его слову, ему принесли «древ всяких, и&#160;досок, и&#160;холстов, и&#160;гвоздя железнаго, и&#160;всякой иной снасти, и&#160;резаков, и&#160;ножей, и&#160;скоблей, и&#160;всего, еже для&#160;того дела надобь», и&#160;Никитка принялся за&#160;работу. Времени терять было нельзя: от&#160;царя ему указано было: «делать не&#160;более яко&#160;бы&#160;ден с&#160;десять, а&#160;на одиннадцатый ту птицу деревяну сделать и&#160;на ней летать». И&#160;работал смерд свою дивную птицу денно и&#160;нощно, снимая подобие с «малаго птичища» хитраго дела, которое сделал еще на&#160;Москве и&#160;которое принес с&#160;собою. «А&#160;то&#160;птичище, егда пущено, летало само, яко-бы&#160;суще живо»… Тесал и&#160;строгал смерд, выгибал брусья, натягивал на&#160;рамы холсты, расписывал их «розными краски», одно к&#160;другому пригонял хитрыя колеса, а&#160;сам думал: как&#160;пожалует его царь за&#160;его великое дело, когда возлетит он&#160;пред ним превыше облак? Даст&#160;ли&#160;ему в&#160;жалованье пригоршни серебра, камки, сукна алаго цвета, али пожалует в&#160;честь-боярство? И&#160;того ему, смерду, не&#160;надо: лихо&#160;бы&#160;дал ему осударь на&#160;избу, да&#160;велел избыть кабалы у&#160;Лупатова и&#160;отпустил на&#160;свою сторону на&#160;Шохну… Там не&#160;чета Москве: никто тебя не&#160;изобидит. Тиунов царских по&#160;иной год и&#160;не увидишь, — всякому там человеку вольно. Там есть чем и&#160;прокормиться, — в&#160;лесах зверья, а&#160;в Шохне рыбы и&#160;не оберешься!
+</p><p>На&#160;десятый день доделал смерд свою диковинную птицу, а&#160;перед тем в&#160;ночи пускал в&#160;ход колеса и&#160;махал на&#160;месте крылами. И&#160;такой был от&#160;того шум, что&#160;сторожа, приставленные к&#160;Никиткиной избе, со страху разбежались.
+</p><p>В&#160;одиннадцатый день ясное и&#160;погожее встало утро. Радостно играющее солнышко слепило глаза. Вся слобода, от&#160;мала до&#160;велика, высыпала на&#160;улицы и&#160;слушала бирючей, что&#160;скликали людишек идти о-полдень на&#160;край слободы к&#160;полю и&#160;смотреть, как&#160;выдумщик некий будет летать на&#160;деревянной птице. И&#160;спозаранку бежал народ туда, на&#160;взгорье, откуда начиналось неоглядное слободское поле. Провезли о&#160;дву-конь, на&#160;полозьях, хоть уж и&#160;давно не&#160;было снегу, и&#160;диковинную птицу, покрытую «от&#160;призора» холстами. Про&#160;царя на&#160;холму поставили на&#160;ковер столец с&#160;высокой спинкой, крытый сукном алым, а&#160;рядом раскинули шатер: на&#160;случай, не&#160;было&#160;бы&#160;дождя. Тут стал у&#160;своей птицы и&#160;сам «летатель» Никитка, а&#160;кругом все холмы и&#160;великое поле, пока окинет глаз, залились народом. И&#160;пестрели при&#160;ярком солнышке многоцветным узором кафтаны слобожан и&#160;охотных смотрильщиков из&#160;ближних починков и&#160;деревень, и&#160;сверкали золототканныя ферязи женок, искрились цветными огнями высокие кораблики на&#160;их головах.
+</p><p>Говор переливался в&#160;народе, слышался смех… Многие указывали на&#160;летателя Никитку, а&#160;он стоял недвижно на&#160;своем месте и, не&#160;отрываясь, смотрел горящими глазами назад, в&#160;сторону слободы. Лицо его было белее холста, покрывавшаго его невиданную птицу…
+</p><p>Вдруг говор и&#160;смех разом стихли. В&#160;наступившей мертвой тишине стало слышно, как&#160;жужжат, пролетая, проснувшияся от&#160;тепла мухи, как&#160;где-то&#160;вдали бормочет неугомонный ручей… Царский поезд показался из&#160;ворот слободы. В&#160;золотной шубе, в&#160;шапке с&#160;окопом из&#160;самоцветных камней, ехал на&#160;коне Грозный среди своих опричных слуг. А&#160;они&#160;красовались на&#160;статных конях, и&#160;горели золотом дорогие чепраки. Бок-о-бок с&#160;царем ехал Скуратов-Бельский, по&#160;прозванию Малюта. Ласковый, игривый ветерок, набегая, трепал рыжие клочья его бороды.
+</p><p>Подъехав, Иван Васильевич легко спрыгнул с&#160;коня прямо на&#160;руки кого-то&#160;из опрични. Народ всполошился и&#160;закричал:
+</p><p>— Здравствуй, царь-осударь! Здрав буди, Иване!
+</p><p>Грозный сел на&#160;уготованное место и&#160;махнул рукой. И&#160;опять все стало тихо. Тут вышел из&#160;стоявших кругом царя человек, ударил челом трижды и&#160;стал перед&#160;ним недвижно. Царь подал знак. Тогда человек подошел к&#160;Никитке и&#160;сказал:
+</p><p>— Указал тебе великий царь лететь, как&#160;ты обещался…
+</p><p>Смерд поклонился, и&#160;тут&#160;же из-за&#160;шатра выскочили двое каких-то&#160;людишек, в&#160;зипунах, мигом стащили с&#160;птицы покрывало, и&#160;ахнул несчетный народ, увидав невиданное диво… Широкия холщевыя крылья показались из-под&#160;покрывала, хвост как&#160;у павлина, впереди — долгая шея и&#160;голова птичья с&#160;ястребиным носом, а&#160;внизу, где туловище, — всякия колеса…
+</p><p>Двое людей подсадили Никитку. Влез он&#160;на свою чудную птицу, ухватился за&#160;веревки, задвигал ногами, и&#160;вдруг, не&#160;успели все еще ахнуть, как&#160;зашумели, забились крылья, и&#160;она начала подниматься. Вот чудная птица сравнялась с&#160;молодой березкой, а&#160;вот уж и&#160;высоко над&#160;нею и&#160;пошла выше и&#160;дале, шумя своими крыльями…
+</p><p>Не отрывая глаз, смотрел народ, волнами переливался с&#160;места на&#160;место и&#160;дивился без&#160;конца. Смотрел и&#160;царь, поднимая вверх голову, и&#160;на устах его была неразгадываемая усмешка. А&#160;смерд Никитка на&#160;дивной птице пропал из&#160;вида, скрывшись за&#160;слободой. Долго его ждали, а&#160;пока-что, к&#160;царю подошел чернопоп некий и&#160;стал сказывать, что&#160;тот смерд Никитка и&#160;дело его — «от&#160;нечистой силы: человек-бо не&#160;птица, крыльев не&#160;имать… Аще&#160;ли&#160;же приставить себе аки крыле деревяны, противу естества творить»…
+</p><p>Царь слушал, и&#160;усмешка не&#160;сходила с&#160;его уст. Но&#160;вот опять, теперь с&#160;другой стороны, показался летатель. Он&#160;летел, подобен страшной, невиданной птице, на&#160;своей «выдумке», и&#160;люди шарахались в&#160;страхе, когда она шумела у&#160;них над&#160;головами. А&#160;вот он&#160;стал и&#160;опускаться. Реже машут крылья, тише и&#160;ниже полет. Вот летатель скользнул к&#160;земле с&#160;своей птицей, взрыла она колесами мягкую талую землю и&#160;остановилась…
+</p><p>Никитка подошел к&#160;царскому месту и&#160;упал на&#160;колени в&#160;ожидании жалованья за&#160;свое великое дело.
+</p><p>И&#160;поднялся Грозный и&#160;сказал:
+</p><p>— Благо ти, человече! Истинно несбыточное соделал, и&#160;несть тебе жалованья на&#160;земли… Гей, Малюта! — крикнул вдруг царь и&#160;захрипел, и&#160;затряс бородою…
+</p><p>— И&#160;охнул весь несчетный народ единым вздохом… А&#160;Малюта уж тут как&#160;тут. По-волчьи схватил он «бесовского выдумщика» за&#160;горло…
+</p><p>И&#160;отрубили голову на&#160;плахе смерду Никитке за&#160;то, что «творил противу естества, от&#160;нечистой силы». Лежа под&#160;топором, он&#160;все порывался оборотиться лицом к&#160;небу. А&#160;там, в&#160;голубой бездонной вышине, летели журавли и&#160;курлыкали свою вольную песню…
+</p><p>«Бесовскую выдумку» тут&#160;же, на&#160;поле, спалили огнем. <span id="02"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Беднячёк_(Разсказ)"><span id=".D0.91.D0.B5.D0.B4.D0.BD.D1.8F.D1.87.D1.91.D0.BA_.28.D0.A0.D0.B0.D0.B7.D1.81.D0.BA.D0.B0.D0.B7.29"></span>Беднячёк <br /><i>(Разсказ)</i></h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=3" title="Редактировать раздел «Беднячёк (Разсказ)»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Сидор Охапкин с&#160;трудом вывез на&#160;улицу доверху нагруженныя салазки и&#160;затворил за&#160;собой калитку. Яркое, хотя еще и&#160;не греющее, зимнее солнышко глянуло ему в&#160;лицо. Сидор снял шапку и&#160;истово перекрестился. Затем он&#160;перекинул через&#160;плечо веревку от&#160;салазок и, немного нагнувшись вперед, поплелся по&#160;направлению к «базару».
+</p><p>На&#160;улице, по&#160;протоптанным у&#160;самых домов тропкам, виднелось несколько баб и&#160;мужиков из&#160;подгородчины, торопившихся на&#160;рынок. Трое ребятишек копошились в&#160;сугробе, тщетно пытаясь устроить горку со скатом на&#160;занесенную панель, единственными признаками которой служили верхушки деревянных столбиков, чуть выставлявшияся из&#160;снега.
+</p><p>Когда Охапкин поравнялся с&#160;ребятишками, они&#160;бросили свою работу и, утирая на&#160;ходу носы, устремились за&#160;ним, крича на&#160;всю улицу:
+</p><p>— Беднячёк! Беднячёк! Сидорушка-богомаз!
+</p><p>Один карапуз как-то&#160;примостился на&#160;салазках и&#160;ехал, победоносно посматривая по&#160;сторонам. Сидор покорно принял на&#160;себя лишнюю тяжесть и&#160;только улыбался, оборачиваясь на&#160;ребят:
+</p><p>— Ах, вы, птахи ранния! Ишь, поднялись, — говорил он&#160;себе под&#160;нос, крепко натягивая веревку салазок. — Беднячки!
+</p><p>У&#160;него слово «беднячек» было любимым обращением, вследствие чего Сидор Охапкин в&#160;городе, а&#160;в особенности на «Заструйке», самой отдаленной улице, населенной беднотой", был известен под&#160;этим прозвищем. Гораздо реже звали его по&#160;профессии иконописца — «Сидорушка-богомаз». Называть&#160;же его полным именем никому и&#160;в голову не&#160;приходило, — это как-то&#160;не шло к&#160;его небольшой смиренной фигуре, и&#160;зимой, и&#160;летом неизменно облеченной в&#160;засаленную долгополую чуйку, к&#160;его как-будто вечно испуганному лицу, освещенному добрыми, печальными глазами, с&#160;тем особенным выражением приниженности, которое в&#160;народе характеризуется метким эпитетом «пониклых».
+</p><p>Иконописец был Охапкин очень хороший, в&#160;заказах он&#160;не нуждался, и&#160;товар его на&#160;базаре шел хорошо, но, по&#160;его собственному выражению, «из&#160;беды он&#160;не выходил», т. е. жил в&#160;крайней бедности и&#160;постоянно нуждался в&#160;деньгах даже на&#160;материал — краски, кисти и&#160;доски для&#160;икон. Виною этого была, прежде всего, его необыкновенная доброта, не&#160;позволявшая ему отказывать кому-либо в&#160;просьбе, если ея исполнение было ему по&#160;силам. Часто, возвращаясь с&#160;базара, Сидорушка по&#160;дороге раздавал большую часть своей выручки, так что&#160;едва-едва оставалось на «материал». На&#160;мастерство свое он&#160;смотрел не&#160;как на&#160;промысел, а&#160;называл его «Божьим делом» и&#160;относился к&#160;нему благоговейно, хотя без&#160;всякаго ханжества и&#160;елейности, которыя пускали в&#160;дело, в&#160;присутствии заказчиков и&#160;особенно заказчиц, некоторые из&#160;его сотоварищей по&#160;ремеслу, называя, например, одну из&#160;самых употребительных у&#160;иконописцев красок — охру — «светло-божественной иерусалимской охрицей»… Сидорушка был чужд такой елейности, но&#160;зато чужд был и&#160;всякой корысти: когда, случалось, заказчик или&#160;покупатель на&#160;базаре спрашивал у&#160;него цену той или&#160;другой иконы, он&#160;огорошивал его несуразной цифрой:
+</p><p>— Тысяча рублей! — и&#160;затем, насладившись изумлением покупателя, наставительно говорил: — Ах, ты, беднячек! Разве можно ценить «Божье благословение»? Дай, сколько не&#160;жалко… За&#160;все спасибо!
+</p><p>Разумеется, многие пользовались этим и&#160;покупали прекрасныя, «истово» написанныя иконы Сидорушки за&#160;гроши, что, конечно, ничуть не&#160;влияло на&#160;улучшение его благосостояния; иконы&#160;же он&#160;писал, строго придерживаясь подлинника, на&#160;сухих и&#160;хорошо подготовленных досках.
+</p><p>— На&#160;Божьем деле не&#160;выгадаешь, — неизменно повторял он&#160;всем, кому случалось указывать ему на&#160;чрезмерную тщательность работы. Единственно, на&#160;чем он&#160;зарабатывал значительно больше, были иконы или, вернее, картины «Страшного Суда», распространенныя в&#160;городе и&#160;округе среди богатого купечества. Величина изображения, множество фигур и&#160;сложность рисунка не&#160;позволяли назначать за&#160;такую картину обычную для&#160;Охапкина ничтожную плату, и&#160;в случае подобных заказов ему добровольно уплачивалось иногда по&#160;нескольку десятков рублей. Любопытно, что&#160;дьявола, изображение котораго в «геене» является принадлежностью «Страшного Суда», он&#160;называл им самим изобретенным словом «кульмас», а&#160;маленькия изображения злых духов ласкательно -«кульмасиками». Когда Сидорушку спрашивали, где он&#160;отыскал такое название, — он&#160;не без&#160;раздражения говорил:
+</p><p>— А&#160;по-вашему так и&#160;надо звать его, как&#160;он сам себя зовет? Небось, он&#160;слышит, тут и&#160;есть, только позови! Да&#160;христианину и&#160;не след сквернить уста свои именем врага рода человеческаго. То-то&#160;вот, беднячки! — заключал он&#160;свою речь любимым словцом.
+</p><p>Это словцо однажды едва не&#160;наделало Сидорушке серьезной беды. Как-то&#160;его убогую конурку на «Заструйке» посетил богач-миллионер, владелец паровой мельницы-крупчатки, недавно переселившийся с «низу». Он&#160;приехал заказать «семейную» икону с&#160;изображениями святых, тезоименных ему и&#160;членам его семьи.
+</p><p>— Ну, так как&#160;же? — закончил купец, передав подробности заказа.
+</p><p>Сколько&#160;же ты возьмешь? Не бойся, сказывай! — поощрил он&#160;иконописца, видя, что&#160;тот изумленно на&#160;него смотрит.
+</p><p>— Да&#160;ты что&#160;мне заказываешь-то? — спросил его, в&#160;свою очередь, Сидорушка. — Сибирку али сапоги? Беднячек ты, беднячек! Нешто в&#160;Божьем деле можно торговаться?..
+</p><p>— Какой&#160;же это я&#160;беднячек! — заорал, обидевшись, купец. — Скажи на&#160;милость, какой богач нашелся! Не ты&#160;ли&#160;меня богаче? Не даром в&#160;таких палатах живешь, — презрительно оглянулся он&#160;кругом.
+</p><p>Сидорушка пристально посмотрел на&#160;сердитаго заказчика своими «пониклыми» глазами, покачал головой и&#160;сказал спокойно:
+</p><p>— Э, да&#160;ты и&#160;вправду меня беднее! И&#160;не&#160;будет тебе иконы, не&#160;напишу… Долго еще неистовствовал купец, но&#160;иконописец его не&#160;слушал; он&#160;ушел в&#160;малую каморку рядом с&#160;мастерской и&#160;прилег на&#160;своем жестком ложе.
+</p><p>— Ну, погоди! — завершил, наконец, свои угрозы заказчик. — Не я&#160;буду, ежели у&#160;тебя вывеску не&#160;сымут. До&#160;губернатора дойду!
+</p><p>При&#160;этом последнем обещании, Сидорушка не&#160;вытерпел; он&#160;выглянул из&#160;каморки и&#160;с улыбкой проговорил:
+</p><p>— Ну, как&#160;же ты не&#160;беднячек? Ведь, я&#160;правду говорю… Вишь, губернатор теперь понадобился, а&#160;то полицместер, городской голова… Всех, стало, просить надо? А&#160;мне вот некого просить! Не богаче&#160;ли&#160;я тебя? Разсуди!..
+</p><p>Купец плюнул и&#160;выкатился вон. Однако, он&#160;не забыл своей угрозы, и&#160;следующую ночь иконописец провел «под&#160;шарами»^. Наутро его выпустили после серьезнаго внушения, которое, тем не&#160;менее, не&#160;оказало на&#160;него никакого действия: он&#160;попрежнему на&#160;каждом шагу пускал в&#160;ход свое любимое словцо.
+</p><p>Помимо периодических раздач заработка и&#160;описанных приемов оценки товара, на&#160;благосостояние Сидорушки пагубно влияло то, что&#160;и он, увы, подобно большинству мастеровых, время от&#160;времени «загуливал». Но&#160;едва&#160;ли&#160;на ком эти загулы сказывались так тяжко, как&#160;на нем: во-первых, он&#160;был необыкновенно «слаб» и&#160;едва не&#160;терял сознания с&#160;первых двух-трех рюмок, при&#160;чем всякий, кому только не&#160;лень, мог опивать и&#160;обирать его до&#160;последняго гроша; затем, на&#160;другой день после загула, он&#160;тяжко страдал и&#160;лежал пластом в&#160;своей каморке, стыдясь показаться людям. Отлежавшись, он&#160;шел в&#160;церковь, по&#160;его собственному выражению, — «источать покаянную слезу». Таков был порядок Сидорушкиного загула, и&#160;только проделав все это, он&#160;снова принимался за&#160;работу.
+</p><p>На&#160;этот раз на&#160;базаре Охапкин как-то&#160;необыкновенно скоро «променял» свои иконы. Он&#160;уже укладывал на&#160;салазки холщевый навес своего ларька, когда к&#160;нему подошел незнакомый и, очевидно, не «тутошний» купец в&#160;богатой лисьей шубе:
+</p><p>— Вы будете изограф? — спросил он&#160;иконописца.
+</p><p>Сидорушка ответил утвердительно, но&#160;сказал, что&#160;икон у&#160;него больше теперь нет.
+</p><p>— Все выменял православным, — пояснил он&#160;с улыбкой.
+</p><p>— Да&#160;мне не&#160;то надо-то, — сказал купец. — Мне-бы&#160;из древних, отеческих. Вот, ежели имеете, подошло&#160;бы…
+</p><p>Подумав с&#160;минуту, Сидорушка вспомнил, что&#160;летом вдобавок к&#160;плате за&#160;работу в&#160;одной из&#160;церквей в&#160;уезде ему дали несколько старинных икон.
+</p><p>— Есть и&#160;такия, — ответил он. — Только не&#160;знаю, подойдут&#160;ли, — не&#160;разумею я&#160;в древнем-то&#160;письме…
+</p><p>Поговорили и&#160;решили, что&#160;купец зайдет к «изографу» на&#160;квартиру, а&#160;через час приезжий покупатель в&#160;Сидорушкиной мастерской уже разсматривал одну за&#160;другой старинныя почерневшия иконы. Он&#160;быстро окидывал их взглядом и&#160;откладывал на&#160;столе, не&#160;удостоивая дальнейшаго внимания. Но&#160;вот он&#160;выложил перед&#160;собой большой образ и&#160;стал смотреть, не&#160;отрываясь: на&#160;светлом фоне, чудесно сохраненном временем, можно было различить множество мелких изображений. По&#160;краям, на&#160;месте оклада, еще просвечивали кое-где остатки стершейся серебряной басмы.
+</p><p>— Сколько? — отрывисто и&#160;как-будто с&#160;тревогой в&#160;тоне спросил купец, не&#160;отрывая глаз от&#160;иконы.
+</p><p>— Тысячу рублев! — выпалил свою обычную шутку Сидорушка, ожидая удивления покупателя, чтобы перейти к&#160;своему обычному наставлению.
+</p><p>Но&#160;покупатель не&#160;выразил никакого удивления, — он&#160;только поднял взгляд на&#160;иконописца и&#160;сказал совершенно спокойно:
+</p><p>— Тысячу будет многовато, а&#160;вот семь сотенных получай! — и&#160;полез в&#160;карман, доставая объемистый бумажник.
+</p><p>Впервые в&#160;жизни лукавый дух корысти заградил уста «беднячка». Как&#160;во&#160;сне, он&#160;взял из&#160;рук купца толстую пачку бумажек, как&#160;во сне, следил широко открытыми глазами за&#160;тем, как&#160;тот завертывал икону в&#160;пестрый ситцевый платок, как, наконец, проговорив: «Счастливо оставаться!», пошел к&#160;выходу и&#160;громко хлопнул дверью.
+</p><p>Первыя минуты по&#160;уходе покупателя Сидорушка оставался в&#160;каком-то&#160;столбняке, но&#160;затем опомнился и&#160;заметался по&#160;своей каморке.
+</p><p>— Батюшки! Что&#160;же мне делать-то? Куда теперь деваться? — повторял он, сжимая в&#160;руке деньги.
+</p><p>Он&#160;выбежал с&#160;ними на&#160;улицу, чтобы воротить купца, но&#160;того уже и&#160;след простыл; на&#160;крик Сидорушки никто не&#160;отозвался; к&#160;тому&#160;же было уже темно, и&#160;впереди нельзя было различить прохожих.
+</p><p>Вернувшись к&#160;себе, иконописец спрятал деньги в&#160;печурку, запер дверь и&#160;стал тяжело и&#160;скорбно думать… Только-что&#160;происшедший случай совершенно выбил его из&#160;колеи, и&#160;он не&#160;знал, что&#160;предпринять. Более&#160;же всего его мучила мысль, что&#160;он обобрал, почти ограбил человека, и&#160;на чем&#160;же? На&#160;святой иконе! Спал «беднячек» тревожно, всю ночь преследуемый одним страшным видением: огромный коричневый «кульмас» тихо, тихо подбирался к&#160;печурке и&#160;протягивал за&#160;деньгами длинную когтистую лапу… На&#160;этом моменте Сидорушка вскрикивал и&#160;просыпался.
+</p><p>Утром, взяв с&#160;собой деньги, он&#160;отправился по&#160;городу разыскивать купца; он&#160;побывал во&#160;всех лавках, на&#160;постоялых дворах, в&#160;трактирах, но&#160;нигде не&#160;нашел своего щедраго покупателя. Никто не&#160;мог даже сказать, кто он&#160;и откуда… Вечером «беднячка» видели поочередно во&#160;всех притонах голытьбы, — он&#160;был сильно навеселе и&#160;раздавал деньги направо и&#160;налево, выкрикивая заплетающимся языком:
+</p><p>— Гуляй, беднячки! Изводи их, проклятых! Деньги — первая пагуба человеку!.. <span id="03"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Петров_день_(Очерк)"><span id=".D0.9F.D0.B5.D1.82.D1.80.D0.BE.D0.B2_.D0.B4.D0.B5.D0.BD.D1.8C_.28.D0.9E.D1.87.D0.B5.D1.80.D0.BA.29"></span>Петров день <br />(Очерк)</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=4" title="Редактировать раздел «Петров день (Очерк)»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«У&#160;мужика то&#160;и праздник, что&#160;Петров день», гласит старая народная поговорка.
+</p><p>Но&#160;это не&#160;совсем верно: если Петров день и&#160;является праздником крестьян-земледельцев, после котораго начинается страда летних работ — покос и&#160;жатва, то&#160;еще более это праздник наемных рабочих, гуляющих в&#160;этот день вовсю, и, наконец, охотников, для&#160;которых с&#160;этого срока законом разрешается охота на&#160;водоплавающую и&#160;болотную дичь. В&#160;этот день даже самый захудалый из&#160;русских «немвродов»^, владелец невообразимой «пищали» времен Очаковских", и&#160;пса, более похожаго на&#160;апокалипсическаго зверя, чем на&#160;охотничью собаку, и&#160;тот считает как&#160;бы своей обязанностью «открыть охоту». В&#160;самом деле, где&#160;же усидеть охотнику в&#160;этот день, когда он&#160;знает, что&#160;по озеркам заливных лугов «напрела» масса «утвы», что&#160;на «потныя» низины выбрались с&#160;выводками дупеля, что&#160;по болотинам гомозятся между кочек быстрокрылые бекасы, и&#160;что вся эта благодать отныне не&#160;запретный плод?!
+</p><p>Однако, чтобы не&#160;удариться в&#160;панегирик «благородной страсти», в&#160;которой, между прочим, благородства едва&#160;ли&#160;больше, чем во&#160;всякой другой, — разскажу, как&#160;проводится день свв. Петра и&#160;Павла охотниками и&#160;не-охотниками в&#160;нашей стороне, центром которой служит г. Рыбинск — один из&#160;оживленнейших пунктов всего Поволжья, в&#160;стороне, где река Шексна крутыми извилинами несет свою мутную воду между низменных берегов в&#160;Волгу.
+</p><p>Еще накануне, т.-е. 28 июня, начинается двоякое движение — по&#160;дороге и&#160;по р. Шексне: в&#160;городе и&#160;из города. Туда, т.-е. в&#160;город, идут по&#160;большим дорогам или&#160;так-называемым «трактам» из&#160;близких и&#160;самых отдаленных местностей уезда наемные работники и&#160;работницы, пастухи и&#160;пастушата, все народ чужедальний мологские, веские (т.-е. из&#160;Весьегонскаго уезда), бежецкие, череповецкие и&#160;даже вологжане. Идут они&#160;небольшими группами и&#160;целыми артелями, весело, с&#160;песнями, а&#160;иногда и&#160;с удалою пляской. Да&#160;и&#160;как им не&#160;радоваться! Хоть один-два дня полной свободы, отдыха от&#160;тяжкой, страдной работы… А&#160;там, в&#160;городе, в&#160;этой заманчивой «Рыбне», их ждут балаганы. Петровская ярмарка со всеми ея соблазнами и, что&#160;дороже всего, свидание с&#160;родными, выходящими на&#160;Петров день в&#160;Рыбинск нередко за 100—150 верст только для&#160;того, чтобы повидаться со своими.
+</p><p>Зато «Рыбна» буквально кишит в&#160;этот день рабочим людом. Его и&#160;всегда-то&#160;летом не&#160;мало в&#160;городе, — одних судорабочих и&#160;крючников не&#160;один десяток тысяч, а&#160;тут еще подвалит наемный народ со всего уезда, а&#160;то и&#160;из Пошехонской стороны, — и&#160;в конце-концов все улицы, набережная Волги, знаменитая биржа босяков «Горка» и, конечно, ярмарка за&#160;Черемухой — бывают залиты сплошными массами сераго люда.
+</p><p>В&#160;городе, что&#160;называется, стон стоит: разноголосый говор, песни, брань и&#160;все покрывающие звуки бесчисленных гармоник, свистки пароходов на&#160;реке, «отжаривающие» изо всех сил балаганные граммофоны и&#160;шарманки сливаются в&#160;общий неистовый рев.
+</p><p>Движение из&#160;города и&#160;из подгородних местностей накануне Петрова дня происходит, конечно, далеко не&#160;в таких размахах, как&#160;движение рабочих в&#160;городе, и&#160;носит совершенно другой характер. Тут очень смешанная, разнообразная публика: купеческие сынки, приезжие приказчики, конторщики, бывшие помещики, железнодорожные служащие, слесаря, телеграфисты, наконец личности без&#160;определеннаго положения и&#160;занятий. Эта компания, с&#160;ружьями и&#160;собаками, собирается на&#160;пристанях шекснинских пароходов, на&#160;вокзале, наконец, трясется на&#160;наемных подводах или&#160;скромно шествует по&#160;обвалу на&#160;ведущих от&#160;города больших дорогах. Все стремятся в&#160;луга и&#160;леса, на&#160;реки и&#160;речушки, болота и&#160;болотца, отпраздновать первую разрешенную охоту в&#160;знаменательный Петров день.
+</p><p>Среди охотников-спортсменов — большое разнообразие типов. Тут и&#160;охотники-староверы, не&#160;признающие ружей центрального боя и&#160;предпочитающие стари.нныя пистонки". Они&#160;с&#160;невозможными, допотопными «мултуками» и&#160;увешаны всевозможными пороховницами, пистонницами, дробовницами. Другие, с&#160;хорошими, новейших систем, ружьями, изображают опытных «луговых и&#160;лесных волков». Их костюм: донельзя обтрепанный и&#160;засаленный, с&#160;дырами, пиджак, какая-нибудь невозможная фуражка. Все это старое и&#160;будто&#160;бы «заслуженное», видавшее виды. Но&#160;не&#160;верьте им: все это только показное, — из&#160;них многие только «шлепалы» и"ляпалы", т.-е. стреляющие по&#160;чем и&#160;как попало, да&#160;еще «ахалы», при&#160;каждом неудачном выстреле (а&#160;они все неудачны) издающие восклицание «ах».
+</p><p>Вот как-раз несколько таких спортсменов собралось на&#160;идущем в&#160;Шексну пароходе. Псы всяких пород: желтопегие и&#160;кофейно-пегие пойнтера, коричневые долгошерстные ирландцы, черные, с&#160;желтыми подпалинами, гордоны и, наконец, несколько, ублюдков и&#160;совершенно безлородных «кабыздохов» вертятся под&#160;ногймй и&#160;нестерпимо мешают неповинным пассажирам.
+</p><p>Пароход дал уже два свистка и&#160;скоро лойдет. Около рубки примостились с&#160;собаками несколько охотников, изображающих опытных «лесных волков». У&#160;одного на&#160;голове невообразимая ярко-зеленая шляпа. За&#160;плечами ружье, а&#160;спереди он&#160;весь увешан разнообразной охотничьей сбруей: тут огромный ягдташ с&#160;сеткой чуть не&#160;до пят, два патронташа, для&#160;чего-то&#160;кинжал, свистки, экстрактор, какие-то&#160;писчики, ножички, приколочки. Одним словом, совершенный Тартарэн из&#160;Тараскона. На&#160;цепочке он&#160;держит клокатого пса, сильно напоминающего пуделя. Пес добродушно приветствует всякаго прохожаго своим пушистым хвостом и&#160;ласково улыбается, приподнимая губы и&#160;обнажая ряд белых зубов.
+</p><p>— В&#160;прошлом году, я&#160;с ним, — говорит Тартарэн, кладя руку на&#160;голову пуделя, — взял 68 штук. Не знаю, что&#160;будет нынче…
+</p><p>Пудель укоризненно поднимает глаза на&#160;хозяина, словно хочет сказать: «И&#160;не&#160;стыдно тебе так врать!»
+</p><p>Но&#160;своя компания, видимо, верит и&#160;причмокивает от&#160;удовольствия…
+</p><p>Разговор неожиданно прерывает проходящий мимо рубки подвыпивший мужик. Он&#160;останавливается против охотников и, неопределенно указывая рукой не&#160;то на «Тартарэна», не&#160;то на&#160;его пуделя, произносит:
+</p><p>— Неужто этакая-то&#160;нехорошая рожа и&#160;за охотой пойдет?
+</p><p>Охотник грозно сдвигает белесоватый, почти незаметныя брови, но&#160;на мужика это не&#160;производит никакого впечатления. Он&#160;стоит еще несколько секунд, покачиваясь на&#160;ногах, потом безнадежно машет рукой и&#160;идет дальше.
+</p><p>Но&#160;вот третий свисток, и&#160;пароход отходит от&#160;пристани. Пассажиры сбиваются у&#160;бортов на&#160;зонтик, машут шапками, платками. Иные крестятся на&#160;сверкающие главы собора. Охотники приосаниваются и&#160;гордо посматривают на&#160;публику, остающуюся на&#160;пристани.
+</p><p>Встречные пароходы ревут и «отмахивают» белыми флагами: мелькают мимо баржи, тихвинки, полулодки, белая церковка села Васильевскаго^, -это уже Шексна. После темнаго плеса Волги ея вода кажется мутно-желтой. Версты четыре ходу, и&#160;на берегу вырастает фабричный поселок Абакумове. Высоко поднимаются трубы канатной фабрики. Словно пропасть чернеет выходное отверстие безконечнаго сарая верфи. Здесь строятся и&#160;ремонтируются пароходы.
+</p><p>Чем дальше от&#160;города, тем реже пристани. Берега становятся пустыннее, только кое-где попадется деревня. А&#160;на&#160;горизонте, там, далеко, синеют леса. За&#160;песчаным урезом разстилается зеленая луговая гладь берега. Кое-где проблескивает озерко или&#160;речушка. Высокая осока переливает от&#160;ветра у&#160;их берегов. А&#160;кругом полевые цветы и&#160;аромат полей, и&#160;тишина, которая так и&#160;манит к&#160;себе и&#160;охотника, и&#160;всякаго усталого от&#160;городской сутолоки человека, словно говоря: «приди, отдохни! Подыши этим чудным, ароматным воздухом, покупайся в&#160;свежей зелени лугов».
+</p><p>Вот из-за&#160;некрутой излучины, которую делает река верстах в 30 от&#160;Рыбинска, показывается колокольня. Это — село Вольское или&#160;Вольский погост, первое преддверие нашего севера, куда ведет этот путь и&#160;где великое множество всяких погостов. Вольское — цель стремлений большинства охотников, едущих по&#160;Шексне на&#160;Петров день. Только немногие следуют пароходом дальше, в&#160;села Всесвятское, Красное, Борачек. Большая часть выгружаются здесь, идут берегом до&#160;Чернаго мыса, или, как&#160;здесь называют, до&#160;Кривого, на&#160;плотике переезжают устье р. Ухры и&#160;сразу вступают в&#160;неоглядные поемные луга.
+</p><p>Вот крутые овражки речки Шакши, и&#160;пошли канавки до&#160;озерка, а&#160;между ними низменныя долинки, покрытыя высокой травой. Одуряющий аромат стоит в&#160;воздухе от&#160;множества диких цветов. Вечереет… Чуть заметной сеткой, словно раскинутый тонкий тюль, вдали поднимается в&#160;разных местах туман, — это над&#160;линиями озер, идущих далеко непрерывной цепью. Охотники доходят до&#160;них и&#160;пускают собак. Иные идут дальше, на&#160;низины, к&#160;д. Вороне, на&#160;Петрушинския Гривы. Вот взлет, свист крыльев, выстрел… Вот другой, третий… То&#160;тут, то&#160;там показывается белый клубочек дыма и&#160;расползается по&#160;росистой траве. И&#160;выстрелы непрерывно хлопают и&#160;хлопают, словно салютуя охотничьему празднику, словно говоря:
+</p><p>«Здравствуй, славный и&#160;веселый Петров день!» <span id="04"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Маркиза_(Разсказ)"><span id=".D0.9C.D0.B0.D1.80.D0.BA.D0.B8.D0.B7.D0.B0_.28.D0.A0.D0.B0.D0.B7.D1.81.D0.BA.D0.B0.D0.B7.29"></span>Маркиза <br />(Разсказ)</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=5" title="Редактировать раздел «Маркиза (Разсказ)»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Каждое утро, будь то&#160;летом, хмурой осенью или&#160;морозной зимой, «Маркиза» покидала свой белый замок над&#160;рекой и&#160;спускалась по&#160;дорожке к&#160;берегу, где над&#160;самой водой шла нижняя аллея парка. Здесь она гуляла несколько минут и&#160;непременно встречала мужика Ивана Лихого из&#160;соседней деревни… Но, позвольте, как-же это — замок, «Маркиза» и&#160;вдруг мужик Иван Лихой? — Конечно, в&#160;действительности ничего подобнаго не&#160;было, и&#160;на берегу реки высился не&#160;замок, а&#160;просто большой старинный помещичий дом с&#160;колоннами, а&#160;под именем «Маркизы» была известна одинокая старуха-помещица Ольга Платоновна Раскольцева.
+</p><p>По&#160;величине, архитектуре и&#160;в особенности сохранившемуся на&#160;всей физиономии дома отпечатку прежней, старобарской жизни, он&#160;был единственным во&#160;всей стороне. Единственной в&#160;своем роде была и&#160;Ольга Платоновна. — Высокая и&#160;все еще прямая, несмотря на&#160;глубокую старость, с&#160;надменно закинутой назад головой, с&#160;утра тщательно одетая в&#160;старомодное платье, с&#160;своей странной, давно забытой прической, она живо напоминала те старинные акварельные портреты в&#160;самодельных рамках из&#160;голубой бумаги с&#160;золотым бордюром, какие еще и&#160;теперь изредка попадаются в&#160;помещичьих углах.
+</p><p>Она жила в&#160;гордом одиночестве в&#160;своем большом доме с&#160;древней, как&#160;сама, компаньонкой Варенькой и&#160;небольшим штатом прислуги; никуда не&#160;ездила и&#160;к себе никого не&#160;принимала. Вот за&#160;это-то&#160;один из&#160;соседей, князь Услонский, давным-давно неудачно пытавшийся завязать знакомство с&#160;Раскольцевой, и&#160;прозвал ее «Маркизой», а&#160;дом в&#160;Дмитриевском — замком. «Marquise en chateau» — стали звать Ольгу Платоновну уездные дамы, созидая о&#160;ней всевозможные сплетни, и&#160;нужно сказать, это прозвище подходило к&#160;ней как&#160;нельзя больше. Чем-то&#160;далеким, давним веяло от&#160;ея высокой фигуры, облеченной всегда в&#160;тяжелый шелк с&#160;крупными рисунками, даже от&#160;ея духов, напоминавших запах разноцветных листочков с&#160;амурами и&#160;цветами в&#160;надушенных Бог знает когда старинных альбомах…
+</p><p>Проходили годы, дожди и&#160;солнце, увы, давно уже покрывали тонким зеленым мошком тесовую крышу «замка», а&#160;Ольга Платоновна оставалась прежней гордой «Маркизой». Попрежнему быстро двигалась она по&#160;просторным комнатам своего дома, по&#160;двусветной, с&#160;хорами, зале, по&#160;всем этим диванным, портретным, гостиным и&#160;приемным. Попрежнему сидела она с&#160;безконечным вязаньем в&#160;руках в&#160;обществе своей древней компаньонки в&#160;голубом кабинете с&#160;расписанным потолком у&#160;круглаго столика, украшеннаго золочеными львиными мордами. Как&#160;всегда, утром, одна выходила гулять в&#160;нижнюю аллею и&#160;неизменно встречалась с&#160;Иваном Лихим…
+</p><p>Казалось&#160;бы, что&#160;могло быть общаго между Иваном Лихим и «Маркизой», брезговавшей даже обществом своих соседей-помещиков, не&#160;говоря уже о&#160;мужиках? А&#160;между тем, это общее было и&#160;выражалось оно острой ненавистью с&#160;одной стороны и&#160;мелочным упорством — с&#160;другой. Ольга Платоновна ненавидела Лихого, а&#160;тот разжигал эту ненависть, настойчиво нарушая то, что&#160;помещица называла своим правом…
+</p><p>В&#160;сущности, все началось из-за&#160;пустого повода. С&#160;незапамятных времен, парк, спускавшийся к&#160;самой реке и&#160;отделенный решеткой от&#160;сада, не&#160;был огражден ни&#160;с боков, ни&#160;внизу, у&#160;берега, и&#160;его нижняя аллея всегда служила пешеходной дорогой для&#160;населения соседних деревень. Мужики и&#160;бабы ходили по&#160;ней и&#160;в сыроварню, находившуюся за&#160;усадьбой, и&#160;в церковь, а&#160;ребятишки каждое утро гурьбой тянулись по&#160;ней в&#160;школу.
+</p><p>Вот эту-то&#160;аллею-дорогу Ольга Платоновна и&#160;решила закрыть. Как-то&#160;весной она наняла плотников и&#160;заставила их обнести парк с&#160;двух сторон высокой решеткой, доходившей до&#160;самой реки. В&#160;обоих концах аллеи «на&#160;случай» были сделаны калитки, но&#160;их заперли замками, и&#160;ключи «Маркиза» взяла к&#160;себе.
+</p><p>Вот этот-то&#160;случай и&#160;столкнул впервые Ольгу Платоновну с&#160;Лихим. До&#160;того она и&#160;не подозревала, что&#160;он живет на&#160;свете. Гуляя в&#160;парке, она видела на&#160;берегу, рядом с&#160;своей усадьбой, темныя нависшия крыши деревни Конева, но&#160;никогда не&#160;думала, что&#160;там обитает ея враг. «Маркиза» вообще совсем не&#160;интересовалась своими соседями-мужиками, никого из&#160;них не&#160;знала, даже никогда ни&#160;с кем из&#160;них не&#160;разговаривала. В&#160;случае надобности, все переговоры от&#160;имени владелицы вел Памфил, не&#160;то управляющий, не&#160;то староста «Маркизы», достойный отпрыск целаго поколения крепостных бурмистров".
+</p><p>Велико было удивление Ольги Платоновны, когда ей доложили, что&#160;к ней пришли коневские мужики.
+</p><p>— Что&#160;им нужно? — с&#160;удивлением спросила «Маркиза». — Пускай идут к&#160;Памфилу…
+</p><p>— Посылались-с, да&#160;не идут… Говорят: «нам барыню надо», — настаивала горничная.
+</p><p>Ольга Платоновна презрительно повела плечами, еще выше подняла голову и&#160;пошла в&#160;переднюю.
+</p><p>Там сразу ее поразил необычайный запах — смесь сырой одежды, смолы и&#160;дыма. "Маркиза поднесла к&#160;носу кружевной платок, надушенный «Senteur du soir», и&#160;приблизилась к&#160;мужикам, прижавшимся у&#160;входных дверей. Их было всего трое. Два старика стояли, вытянувшись и&#160;не шевелясь, словно на&#160;смотру. Третий, еще не&#160;старый, с&#160;небольшой темной бородкой и&#160;смелыми глазами, выдвинулся вперед, приняв небрежно скучающую позу человека, которому приходится долго дожидаться.
+</p><p>При&#160;входе барыни они&#160;чинно и&#160;истово отвесили по&#160;поклону, — но&#160;молчали. Ольга Платоновна ждала.
+</p><p>— Что&#160;вам нужно? — не&#160;выдержав этой странной паузы, спросила она сквозь платок.
+</p><p>— К&#160;вашей милости! — встряхивая волосами, торопливо заявил передний мужик, словно он&#160;только и&#160;ждал этого вопроса.
+</p><p>— К&#160;вашей милости! — с&#160;поклоном поддержали старики.
+</p><p>— Вижу, — едва выронила «Маркиза».
+</p><p>— Потому как&#160;дорогу загородили… Ходить стало негде… Вот мы&#160;и пришли, чтобы, значит, дозволили опять… Потому дорога спокон-веку, еще при&#160;господах, а&#160;теперь загородили…
+</p><p>Мужик страшно торопился и&#160;путался, жестикулируя коричневыми руками. Ольга Платоновна слушала и&#160;ждала, что&#160;скажет дальше «депутат», как&#160;она про&#160;себя презрительно окрестила мужика. Тот, однако, замолк, но, видимо, сильно волновался.
+</p><p>— Ну, и&#160;что&#160;же? — снова холодно и&#160;ровно выронила «Маркиза».
+</p><p>— Знамо, открыть надо, — решительно заговорил «депутат». — Потому что&#160;это? Глупость одна! А&#160;нам ходить негде, — неожиданно закончил он&#160;и остановился с&#160;открытым ртом.
+</p><p>Ольга Платоновна дрогнула при&#160;слове «глупость», но&#160;больше ничем не&#160;выдала себя.
+</p><p>— Ступайте! — закончила она аудиенцию и&#160;поплыла из&#160;передней, но, не&#160;дойдя до&#160;дверей, обернулась и&#160;спросила «депутата»:
+</p><p>— А&#160;ты кто, любезный? Как&#160;тебя зовут?
+</p><p>— Я&#160;то? — переспросил мужик. — Из&#160;Конева я, Лихой, Иван Прокофьев.
+</p><p>— Это и&#160;видно, что&#160;ты Лихой! — заметила «Маркиза» и&#160;вышла из&#160;передней.
+</p><p>Мужики переглянулись, пошептались, покачали головами и, повернув к&#160;выходу, застучали своими грузными сапогами.
+</p><p>На&#160;другой день утором калитки в&#160;парке оказались аккуратно снятыми с&#160;петель, замки сломаны, и&#160;по аллее-дороге постарому тянулись мужики и&#160;бабы. Когда Памфил доложил об&#160;этом Ольге Платоновне, она пожелала лично удостовериться в&#160;мужицкой дерзости и&#160;пошла в&#160;парк. Навстречу ей в&#160;аллее попался Лихой. Он, как&#160;ни в&#160;чем не&#160;бывало, в&#160;виде приветствия помял на&#160;голове свою клокатую шапку и&#160;прошел мимо, сохраняя на&#160;лице серьезно-деловое выражение.
+</p><p>— Это ты, любезный, снял калитки? — вдогонку спросила его «Маркиза». Лихой обернулся, почесал зачем-то&#160;в затылке и, не&#160;торопясь, ответил:
+</p><p>— Калитку-то? Я&#160;это… Кому больше-то? — Народ у&#160;нас несуразный, боятся…
+</p><p>Выходило так, как-будто&#160;бы&#160;Лихой не&#160;сознавал, что&#160;совершил что-нибудь противозаконное, недозволенное, а&#160;сделал лишь необходимое дело только потому, что&#160;кроме него его некому было сделать.
+</p><p>Ольга Платоновна загорелась ненавистью и&#160;в первый раз в&#160;жизни обратилась в&#160;суд, передав «дело» адвокату. Лихого посадили за&#160;самоуправство на&#160;месяц. Он&#160;высидел и&#160;вернулся домой из-под&#160;ареста пополневшим и&#160;даже будто поотчистившимся. И&#160;в&#160;тот&#160;же день, как&#160;он вернулся, калитки снова были сняты. «Маркиза» велела их повесить, но&#160;это им не&#160;помогло: кто-то&#160;невидимый ночью опять убрал их с&#160;места, бережно прислонив к&#160;решетке. И&#160;словно нарочно, по&#160;аллее-дороге теперь безостановочно шел народ и&#160;асе смотрели на&#160;окна «замка». «Маркизе» казалось, что&#160;это вызов, и&#160;она выходила из&#160;себя. Она послала остановить движение по&#160;запрещенной дороге, но&#160;ея посланный Памфил и&#160;рабочие ничего не&#160;могли или&#160;не хотели сделать и&#160;возвратились ни&#160;с чем. — В&#160;суд Ольга Платоновна больше не&#160;подавала: она решила выждать, пока попадется на&#160;месте преступления невидимый самоуправец, и&#160;ограничилась тем, что&#160;каждый день, утром, выходила в&#160;парк и&#160;гуляла по&#160;спорной адлее, надеясь своим гордым присутствием устыдить «наглых» мужиков. Но&#160;они, эти «наглые» мужики, видимо, не&#160;хотели понимать намерения «Маркизы»: они&#160;совершенно спокойно встречались с&#160;ней, кланялись и&#160;шли своей дорогой.
+</p><p>Как&#160;на&#160;грех, случайно или&#160;умышленно, постоянно встречался с&#160;ней и&#160;Лихой… Но&#160;Ольга Платоновна с&#160;ним больше не&#160;говорила, а&#160;он мял свою клокатую шапку и&#160;с деловитым видом проходил мимо.
+</p><p>Однако, всему бывает конец, — кончилось в&#160;один вовсе не&#160;прекрасный день и&#160;дело о&#160;калитках…
+</p><p>Стояла унылая снежная и&#160;мокрая зима, когда однажды вечером ночные сторожа «Маркизы» привели к&#160;ней преступника, ломавшего замки у&#160;калиток парка. — Это был Иван Лихой: его застали на&#160;месте преступления, когда он&#160;сбивал замки.
+</p><p>Мужик имел сконфуженный вид, но&#160;и не&#160;думал отрицать своей вины. О&#160;пощаде он&#160;не просил и&#160;покорно отправился к&#160;уряднику, куда с&#160;Памфилом отослала его помещица.
+</p><p>Через&#160;некоторое время пришла весть, что&#160;был суд и&#160;Лихого посадили опять. Но&#160;странное дело! «Маркизу» эта кара нарушителя ея воли и&#160;прав нисколько не&#160;успокоила. Наоборот, она стала чувствовать какую-то&#160;мутную тревогу при&#160;взгляде на&#160;опустевший парк и&#160;занесенную снегом аллею. Теперь калитки были навешены, заперты, и&#160;некому было сбивать замков: упрямый Лихой был обезврежен и&#160;сидел под&#160;замком…
+</p><p>А&#160;дни бежали один за&#160;другим. Толстым слоем, чуть не&#160;сугробами лежал снег на&#160;тесовой крыше «замка» и&#160;в ясные дни, весь белый, с&#160;своими колоннами и&#160;сверкающей белой кровлей, среди чахлых и&#160;серых деревень, он&#160;казался дворцом из&#160;красивой фантастической сказки.
+</p><p>Зима подходила к&#160;концу. Яркий солнечный день обливал горячими потоками цветной паркет и&#160;белыя стены залы, играл зайчиками на&#160;синих изразцах ея монументальных печей, прорезывая полосами света легкий налет синяго дыма, когда Ольга Платоновна вышла из&#160;своего кабинета и&#160;позвонила в&#160;старинный ручной колокольчик. Вошла горничная.
+</p><p>— Позовите Памфила! — коротко приказала «Маркиза». — Вы не&#160;слышите, что&#160;пахнет дымом? — спросила она, когда прислуга была уже в&#160;дверях.
+</p><p>Горничная повела носом и&#160;сказала с&#160;удивлением:
+</p><p>— Сегодня с&#160;утра-с… И&#160;понять невозможно, откуда? Разве из&#160;печей выкидывает?
+</p><p>— Да, конечно, из&#160;печей, — подтвердила догадку Ольга Платоновна. — не&#160;чистят труб… Ну, ступайте.
+</p><p>Явившемуся на&#160;зов Памфилу «Маркиза» приказала, чтобы он&#160;немедля, на&#160;другой&#160;же день, позвал печника и&#160;вычистил трубы во&#160;всех печах дома, а&#160;когда он&#160;попробовал возразить, что&#160;это не&#160;поможет и&#160;что печи и&#160;особенно трубы на&#160;чердаке надо перекладывать, старуха разсердилась и&#160;попросила его не&#160;умничать.
+</p><p>— Дома и&#160;печи сложены не&#160;так, как&#160;нынче это делают. Они&#160;еще сто лет проживут, — закончила она. — А&#160;что&#160;иногда выбивает из&#160;печей дым — это ничего. Это бывает в&#160;ветер и&#160;перед сырой погодой.
+</p><p>Между прочим, одной из&#160;слабостей Ольги Платоновны была уверенность в&#160;вековечной прочности своего «замка» и&#160;всего, что&#160;в нем было.
+</p><p>— Можете итти, — отпустила «Маркиза» управляющего. Но&#160;тот не&#160;уходил и&#160;мялся, не&#160;решаясь что-то&#160;сказать.
+</p><p>— Что&#160;вам? — помогла ему, заметив эту нерешительность, Ольга Платоновна…
+</p><p>— Прикажете сегодня на&#160;ночь сторожей ставить в&#160;парк? — спросил Памфил.
+</p><p>— А&#160;что? Разве…
+</p><p>— Сегодня срок, и&#160;вечером он&#160;будет дома.
+</p><p>— А! Вот как. Тогда, конечно, поставьте, — распорядилась «Маркиза», поняв из&#160;лаконическаго сообщения управляющего, что&#160;вечером возвращается из-под&#160;ареста Лихой.
+</p><p>Она как-будто испугалась немного и&#160;в то&#160;же время обрадовалась. И&#160;представилось «Маркизе», что&#160;она идет по&#160;нижней дорожке парка и&#160;навстречу ей попадается Лихой. Он, по&#160;обыкновению, не&#160;снимая шапки, мнет ее у&#160;себя на&#160;голове, а&#160;она проходит мимо, пристально глядя на&#160;него и&#160;давая понять этим взглядом, что&#160;она прекрасно знает, кто снова снял калитки… И&#160;вдруг без&#160;всякой последовательности у&#160;нея мелькнула мысль приказать убрать навсегда эти злополучныя преграды и&#160;открыть опять старую дорогу.
+</p><p>«Очень далеко им ходить в&#160;обход усадьбы» — невольно мотивировала себе Ольга Платоновна смысл этого распоряжения, но&#160;тут&#160;же решила, что&#160;возвращаться назад, к&#160;прежним порядкам, поздно, что&#160;это значило&#160;бы&#160;показать трусость перед&#160;каким-то&#160;Лихим. «А&#160;что, если он&#160;меня убьет?» — с&#160;ужасом подумала «Маркиза», и&#160;вся похолодела. А&#160;мысль уже работала в&#160;этом направлении дальше и&#160;дальше и&#160;рисовала страшныя картины. Вот он&#160;влезает по&#160;дереву до&#160;окна спальни, вырезывает чем-то&#160;стекло и&#160;вскакивает в&#160;комнату… В&#160;руке у&#160;него топор… Или&#160;он&#160;забирается ночью в&#160;дом, притаившись заранее, вечером или&#160;днем, где-нибудь под&#160;лестницей подъезда, и&#160;идет, крадется в&#160;темноте. Мягко шуршат валенки, потрескивает едва слышно старый паркет… Понемногу эта томящая, страшная мысль перешла в&#160;уверенность, и&#160;весь день «Маркиза» провела в&#160;тревоге. Ночью она просидела дольше, чем обыкновенно, слушая чтение своей компаньонки, и&#160;когда отпустила ее, то&#160;не пошла спать, а&#160;осталась сидеть в&#160;своем голубом кабинете, на&#160;своем любимом месте у&#160;столика с&#160;львиными мордами. — И&#160;все казалось ей, а&#160;может быть и&#160;не только казалось, что&#160;в комнате, в&#160;углах и&#160;под потолком плавает синий дым… «Маркиза» не&#160;придавала этому никакого значения, думая, что&#160;это ей только кажется, что&#160;этоостаток от&#160;впечатлений дня.
+</p><p>И&#160;сидела Ольга Платоновна в&#160;своем глубоком кресле, и&#160;думала, думала без&#160;конца. Далекия милыя тени вставали перед&#160;ея глазами, звали, манили к&#160;себе… А&#160;тишина, мягкий свет свечей в&#160;высоком канделябре и&#160;мирный стук маятника больших часов баюкали уставшую «Маркизу», и&#160;она задремала… Вдруг в&#160;кабинете как-то&#160;сразу стало светло, словно зажгли большую люстру с&#160;амурами, которая висела над&#160;возвышением между голубых колонн. Красно-багровая полоса пронеслась мимо темных окон и&#160;на мгновение стали видны через&#160;стекла разубранные снегом ветви высоких тополей… Откуда-то&#160;ударил свет и&#160;в залу, а&#160;в открытыя двери портретной стали видны самодовольные лица в&#160;напудренных париках и&#160;цветных кафтанах… Они&#160;словно радовались чему-то&#160;и улыбались, и&#160;пламя весело играло на&#160;тусклом золоте рам… Гул и&#160;треск слышался все ближе и&#160;ближе, словно неведомо откуда надвигалась буря.
+</p><p>А «Маркиза» спала, спокойно положив голову на&#160;спинку стариннаго кресла. И&#160;снился ей бал в&#160;родном «замке». Комнаты залиты ослепительно ярким светом; кругом оживление, шум и&#160;смутный гул голосов. И&#160;вдруг кто-то&#160;тихо говорит ей: «барыня! А&#160;барыня!» Кто&#160;же это? Голос как-будто знакомый… Но&#160;кто может так ее называть? И&#160;вдруг она узнает этот голос и&#160;все становится ясным: это Лихой, который пришел, чтобы ее убить…
+</p><p>Ольга Платоновна открыла глаза и&#160;в действительности увидала перед&#160;собой Лихого. Он&#160;стоял в&#160;ярком свете пламени и&#160;повторял свой однообразный призыв, а&#160;кругом все застилал дым, и&#160;соседняя зала казалась огромной топившейся печью… «Маркиза» вскрикнула и&#160;протянула вперед руки, но&#160;вдруг откинулась в&#160;своем кресле и&#160;замерла…
+</p><p>Лихой почесал затылок, оправил для&#160;чего-то&#160;на голове свою клокатую шапку, потом нагнулся и, схватив безчувственную «Маркизу» на&#160;руки, бросился с&#160;ней через&#160;залу…
+</p><p>После пожара Ольга Платоновна поселилась в&#160;маленьком старом флигеле. Она как-то&#160;сразу «опустилась» и&#160;стала относиться мягче и&#160;проще к&#160;мужикам. Дорогу в&#160;парк она приказала открыть для&#160;всех, так-что&#160;Лихому больше не&#160;зачем было сбивать замки и&#160;попадать под&#160;арест… Но&#160;жизнь она продолжала вести в&#160;своем флигеле ту&#160;же, что&#160;и в&#160;доме. Только уездныя дамы, говоря о&#160;ней, называли ее не «Маркизой в&#160;замке», а «Маркизой без&#160;замка». — Что&#160;же? Это, пожалуй, была и&#160;правда. <span id="05"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ПРИМЕЧАНИЯ"><span id=".D0.9F.D0.A0.D0.98.D0.9C.D0.95.D0.A7.D0.90.D0.9D.D0.98.D0.AF"></span>ПРИМЕЧАНИЯ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;action=edit&amp;section=6" title="Редактировать раздел «ПРИМЕЧАНИЯ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>смерд- крестьянин
+</p><p>холоп — несвободный человек в&#160;Древней Руси
+</p><p>Александрова слобода (ныне г. Александров Владимирской&#160;обл.) -резиденция царя Ивана Грозного после появления в 1565&#160;г. опричнины (от&#160;слова "опричь"особо) особого, принадлежавшего лично царю огромного удела, имевшего свое правительство и&#160;войско
+</p><p>извет — донос
+</p><p>челобитье — просьба
+</p><p>нестаточный — небывалый
+</p><p>вместити не&#160;мочно — вместить нельзя; в&#160;значении: нельзя понять
+</p><p>имет веру — поверит
+</p><p>жалованье — награда
+</p><p>избудет — избавится
+</p><p>измарагд — изумруд
+</p><p>летошней — прошлогодней
+</p><p>оратаи — пахари
+</p><p>клир — здесь: церковный хор
+</p><p>батоги — хлысты или&#160;палки для&#160;наказания
+</p><p>Малюта — Григорий Лукьянович Скуратов-Бельский (? −1573) — один из&#160;руководителей опричнины, «прославившийся» особой жестокостью
+</p><p>слюдяные — в&#160;старину, до&#160;распространения оконного стекла, окна затягивались тонкими, пропускавшими свет пластинками слюды
+</p><p>негорюхой — поневоле
+</p><p>заплечные мастера — палачи
+</p><p>незауряд — особенно
+</p><p>опричня- имеются в&#160;виду опричники, особая «личная гвардия» Ивана Грозного, отличавшаяся преданностью царю и&#160;крайней жестокостью
+</p><p>смирная одежда — простая темная, похожая на&#160;монашескую одежда, одеваясь в&#160;которую, Иван Грозный и&#160;его приближенные демонстрировали свое «смирение»
+</p><p>опричные иноки, лжеиноки -имеются в&#160;виду опричники, одевавшиеся в&#160;одежды, подобные монашеским
+</p><p>Тако&#160;ли&#160;блюдете мя? — Так&#160;ли&#160;охраняете меня?
+</p><p>нежить — духи (домовые, лешие, кикиморы и&#160;т. п.)
+</p><p>пищальники- воины, вооруженными пищалями (древнерусское название огнестрельного оружия)
+</p><p>блажил — кричал благим матом, т. е. изо всех сил
+</p><p>Грязной Василий — один из&#160;видных опричников
+</p><p>земщина — имеются в&#160;виду руководители части страны, не&#160;включенной Грозным в&#160;опричнину, и&#160;подозревавшиеся им во&#160;всяческих «изменах»
+</p><p>собинная — особенная.употреблено в&#160;значении «отдельная»
+</p><p>камка — дорогая шелковая ткань с&#160;мелким узором
+</p><p>Шохна — старинный вариант названия реки Шексны
+</p><p>тиуны — должностные лица в&#160;Древней Руси
+</p><p>бирючи — глашатаи
+</p><p>от&#160;призора — от&#160;взгляда
+</p><p>столец — сиденье
+</p><p>ферязь — верхняя женская одежда
+</p><p>чернопоп — монах-священник; иеромонах
+</p><p>Заструйка — название ручья, существовавшего на&#160;окраине Рыбинска (в&#160;районе современной ул. Свободы) и&#160;района вокруг него
+</p><p>«низ» — одна из&#160;низовых губерний, т. е. расположенных в&#160;нижнем течении Волги
+</p><p>то&#160;есть не&#160;лишат права работать; говоря современным языком, не&#160;отберут лицензию
+</p><p>То&#160;есть в&#160;полиции, располагавшейся обычно в&#160;одном здании с&#160;пожарными («шары» вывешивались на&#160;каланче в&#160;случае пожара, обозначая, в&#160;каком районе горит)
+</p><p>Изограф — мастер-иконописец
+</p><p>Праздник, более точно называемый днем апостолов Петра и&#160;Павла, отмечается 12 июля нового стиля
+</p><p>Немврод, Нимруд -согласно Ветхому завету первый охотник на&#160;Земле
+</p><p>времен Очаковских — т. е. очень давно; турецкая крепость Очаков была взята в 1788&#160;г.
+</p><p>пистонки — капсюльные ружья, заряжавшиеся с&#160;дула; их заряд воспламенялся капсюлем, надевавшимся на&#160;особый затравочный стержень
+</p><p>Тартарен из&#160;Тараскона — герой одноименного романа А.Доде; «великий» охотник
+</p><p>церковка села Васильевского — стояла при&#160;впадении Шексны в&#160;Волгу; разрушена
+</p><p>Абакумова — большой поселок, располагавшийся в&#160;районе современной Рыбинской ГЭС при&#160;канатном и&#160;судостроительных заводах промышленников Журавлевых. Разрушен при&#160;создании Рыбинского водохранилища
+</p><p>Вольский погост-как&#160;и упомянутые ниже населенные пункты затоплен Рыбинским водохранилищем
+</p><p>бурмистр — крепостной управляющий
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐74cbb9fbd5‐8xbw5
+Cached time: 20260216023242
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.114 seconds
+Real time usage: 0.182 seconds
+Preprocessor visited node count: 177/1000000
+Revision size: 100502/2097152 bytes
+Post‐expand include size: 8131/2097152 bytes
+Template argument size: 1203/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 313/5000000 bytes
+Lua time usage: 0.062/10.000 seconds
+Lua memory usage: 1793118/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  147.355      1 -total
+ 92.88%  136.866      1 Шаблон:Отексте
+  6.99%   10.306      1 Шаблон:Right
+  1.04%    1.535      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1024940:|#|:idhash:canonical and timestamp 20260216023242 and revision id 5255476. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Два_рассказа,_сказание_и_очерк_(Опочинин)&amp;oldid=5255476">https://ru.wikisource.org/w/index.php?title=Два_рассказа,_сказание_и_очерк_(Опочинин)&amp;oldid=5255476</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD" title="Категория:Евгений Николаевич Опочинин">Евгений Николаевич Опочинин</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1909_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1909 года">Литература 1909 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BD%D0%BA%D0%BE%D1%80%D0%B0%D0%BC" title="Категория:Импорт/lib.ru/Страницы с внутренними ссылками по анкорам">Импорт/lib.ru/Страницы с внутренними ссылками по анкорам</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Импорт/lib.ru/Страницы с внешними ссылками">Импорт/lib.ru/Страницы с внешними ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_100" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD" title="Категория:Импорт/az.lib.ru/Евгений Николаевич Опочинин">Импорт/az.lib.ru/Евгений Николаевич Опочинин</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 21 февраля 2025 года в 15:59.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%94%D0%B2%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%B0,_%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BE%D1%87%D0%B5%D1%80%D0%BA_(%D0%9E%D0%BF%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%BD)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Два рассказа, сказание и очерк (Опочинин)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-c7wxw","wgBackendResponseTime":137,"wgPageParseReport":{"limitreport":{"cputime":"0.114","walltime":"0.182","ppvisitednodes":{"value":177,"limit":1000000},"revisionsize":{"value":100502,"limit":2097152},"postexpandincludesize":{"value":8131,"limit":2097152},"templateargumentsize":{"value":1203,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":313,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  147.355      1 -total"," 92.88%  136.866      1 Шаблон:Отексте","  6.99%   10.306      1 Шаблон:Right","  1.04%    1.535      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.062","limit":"10.000"},"limitreport-memusage":{"value":1793118,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Евгений Николаевич Опочинин\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"Бесовский летатель (Сказание); \u003Cbr\u003E\\\nБеднячёк (Разсказ); \u003Cbr\u003EПетров день (Очерк); \u003Cbr\u003EМаркиза (Разсказ).\",\n    [\"published\"] = \"1909\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/o/opochinin_e_n/text_0020.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Два рассказа, сказание и очерк\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.codfw.main-74cbb9fbd5-8xbw5","timestamp":"20260216023242","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

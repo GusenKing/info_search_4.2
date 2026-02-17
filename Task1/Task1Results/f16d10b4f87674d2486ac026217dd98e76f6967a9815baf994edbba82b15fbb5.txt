@@ -1,0 +1,1135 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Легенды о русских писателях (Баранов) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"9aa50868-389e-40ac-b35e-0f03d57c0be4","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Легенды_о_русских_писателях_(Баранов)","wgTitle":"Легенды о русских писателях (Баранов)","wgCurRevisionId":5583338,"wgRevisionId":5583338,"wgArticleId":1044898,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup","Импорт/lib.ru/Страницы с внешними ссылками","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100","Импорт/lib.ru","Импорт/az.lib.ru/Евгений Захарович Баранов","Публицистика 1924 года","Проза","Сборники рассказов","Евгений Захарович Баранов"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Легенды_о_русских_писателях_(Баранов)","wgRelevantArticleId":1044898,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5583338,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Легенды о русских писателях (Баранов) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Легенды_о_русских_писателях_Баранов rootpage-Легенды_о_русских_писателях_Баранов skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B+%D0%BE+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85+%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B+%D0%BE+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85+%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B+%D0%BE+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85+%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B+%D0%BE+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85+%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Легенды_о_русских_писателях"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Легенды_о_русских_писателях">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Легенды о русских писателях</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Легенды_о_русских_писателях-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Брюс,_Сухарев_и_Пушкин"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Брюс,_Сухарев_и_Пушкин">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Брюс, Сухарев и Пушкин</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Брюс,_Сухарев_и_Пушкин-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Пушкин_и_Гоголь"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Пушкин_и_Гоголь">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Пушкин и Гоголь</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Пушкин_и_Гоголь-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Как_Пушкин_учился_в_школе"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Как_Пушкин_учился_в_школе">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Как Пушкин учился в школе</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Как_Пушкин_учился_в_школе-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Пушкин_и_царь"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Пушкин_и_царь">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Пушкин и царь</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Пушкин_и_царь-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Как_Пушкина_жена_погубила"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Как_Пушкина_жена_погубила">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Как Пушкина жена погубила</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Как_Пушкина_жена_погубила-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Лев_Толстой_и_американцы"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Лев_Толстой_и_американцы">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>Лев Толстой и американцы</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Лев_Толстой_и_американцы-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Легенды о русских писателях (Баранов)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B+%D0%BE+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85+%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;oldid=5583338" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29&amp;id=5583338&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259B%25D0%25B5%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25B4%25D1%258B_%25D0%25BE_%25D1%2580%25D1%2583%25D1%2581%25D1%2581%25D0%25BA%25D0%25B8%25D1%2585_%25D0%25BF%25D0%25B8%25D1%2581%25D0%25B0%25D1%2582%25D0%25B5%25D0%25BB%25D1%258F%25D1%2585_%28%25D0%2591%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BD%25D0%25BE%25D0%25B2%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259B%25D0%25B5%25D0%25B3%25D0%25B5%25D0%25BD%25D0%25B4%25D1%258B_%25D0%25BE_%25D1%2580%25D1%2583%25D1%2581%25D1%2581%25D0%25BA%25D0%25B8%25D1%2585_%25D0%25BF%25D0%25B8%25D1%2581%25D0%25B0%25D1%2582%25D0%25B5%25D0%25BB%25D1%258F%25D1%2585_%28%25D0%2591%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BD%25D0%25BE%25D0%25B2%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_%28%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Легенды о русских писателях</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Автор:Евгений Захарович Баранов">Евгений Захарович Баранов</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1924</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/b/baranow_e_z/text_1924_o_russkih_pisatelyah.shtml">az.lib.ru</a></span>  • Брюс, Сухарев и&#160;Пушкин. <br />
+Пушкин и&#160;Гоголь. <br />Как&#160;Пушкин учился в&#160;школе. <br />Пушкин и&#160;царь. <br />Как&#160;Пушкина жена погубила. <br />Лев Толстой и&#160;американцы.</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Автор:Евгений Захарович Баранов">Евгений Захарович Баранов</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="Легенды_о_русских_писателях"><span id=".D0.9B.D0.B5.D0.B3.D0.B5.D0.BD.D0.B4.D1.8B_.D0.BE_.D1.80.D1.83.D1.81.D1.81.D0.BA.D0.B8.D1.85_.D0.BF.D0.B8.D1.81.D0.B0.D1.82.D0.B5.D0.BB.D1.8F.D1.85"></span>Легенды о&#160;русских писателях</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=1" title="Редактировать раздел «Легенды о русских писателях»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>Источник текста: Московские легенды, записанные Евгением Барановым. Составление, вступительная статья и&#160;примечания Веры Боковой. М., «Литература и&#160;политика», 1993.</i>
+</p><p><i>Оригинал здесь: <a rel="nofollow" class="external free" href="http://imwerden.de/">http://imwerden.de/</a></i>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Брюс,_Сухарев_и_Пушкин"><span id=".D0.91.D1.80.D1.8E.D1.81.2C_.D0.A1.D1.83.D1.85.D0.B0.D1.80.D0.B5.D0.B2_.D0.B8_.D0.9F.D1.83.D1.88.D0.BA.D0.B8.D0.BD"></span>Брюс, Сухарев и&#160;Пушкин</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=2" title="Редактировать раздел «Брюс, Сухарев и Пушкин»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>В&#160;течение четырех лет (1919—1923&#160;гг.) мне пришлось торговать книгами на&#160;многих улицах Москвы, а&#160;с весны 1921&#160;г. по&#160;декабрь 1923&#160;г. я&#160;торговал ими на&#160;Арбате, около дома № 26 (бывшего Берга). Тут я&#160;познакомился с&#160;дворником этого дома Филиппом Яковлевичем Болякиным. Тогда ему было 68&#160;лет, значит, теперь, когда пишутся эти строки (в 1925&#160;г.) ему 72&#160;года. Он&#160;высокого роста и, судя по&#160;его фигуре, когда-то&#160;был крепкого телосложения, теперь одряхлел, стал сутулиться. Родом он&#160;из крестьян Тульской губернии, Новосельского уезда, деревни Даниловки.</i>
+</p><p><i>По&#160;отбытии солдатчины он&#160;женился, занимался дома крестьянским хозяйством, временами живал в&#160;Москве, потом, когда дети подросли, передал им хозяйство и&#160;окончательно переселился в&#160;нее, нанялся дворником в&#160;тот самый дом, в&#160;котором я&#160;застал его, когда познакомился с&#160;ним. В&#160;этом доме он&#160;работал более двадцати пяти лет и&#160;все время, до&#160;зимы 1924&#160;г., жил вдвоем со своей женой, которой, когда я&#160;узнал ее, было 80&#160;лет. Третьим членом семьи Филиппа Яковлевича был его любимец, большой серый кот Барсик.</i>
+</p><p><i>За 25&#160;лет работы Филипп Яковлевич нажил немало разной одежды, но&#160;его обворовали дочиста в&#160;то время, когда он&#160;убирал мостовую, а&#160;старуха отлучилась из&#160;дому.</i>
+</p><p><i>В&#160;первое время моего знакомства с&#160;ним наши разговоры вращались большей частью вокруг уборки мостовой. Обыкновенно, покончив с&#160;работой, он&#160;с метлой или&#160;киркой в&#160;руке подходил ко&#160;мне, тяжело волоча ноги.</i>
+</p><p>— <i>Давай, — устало произносил он.</i>
+</p><p><i>Это означало, что&#160;он хочет покурить. Я&#160;доставал из&#160;кармана кисет с&#160;махоркой, мы&#160;скручивали цигарки, закуривали. После двух-трех молчаливых затяжек замешался разговор, и&#160;почти всегда начинал его Филипп Яковлевич.</i>
+</p><p><i>Если дело было зимой, он, посасывая цигарку, принимался не&#160;торопясь, медлительно объяснять, как&#160;надо закаливать кирку для&#160;скалывания толстого, слежавшегося слоя снега, а&#160;летом осуждал теперешнюю метлу, которой и&#160;на неделю работы не&#160;хватает: в&#160;три дня так измызгается, что&#160;хоть бросай ее и&#160;бери новую.</i>
+</p><p><i>Иногда, глядя на&#160;убранную мостовую и&#160;любуясь своей работой, он&#160;говорил мне:</i>
+</p><p>— <i>Глянь-ка, походил по&#160;ней метлой, она и&#160;поумнела, а&#160;то была, как&#160;пьяная баба вся растрепанная.</i>
+</p><p><i>Иных разговоров у&#160;нас почти не&#160;было, и&#160;я думал, что&#160;Филиппу Яковлевичу не&#160;о чем больше говорить. Но, оказалось, было о&#160;чем.</i>
+</p><p><i>Раз как-то&#160;увидел он&#160;у меня выставленную на&#160;продажу книжку с&#160;портретом Наполеона на&#160;обложке, взял ее, медленно пошевелил губами: он&#160;немного знает читать (на&#160;военной службе выучился) и&#160;положил на&#160;место.</i>
+</p><p>— <i>Вот, — заговорил он, кивая головой на&#160;книжку, — первеющий человек в&#160;свете был, а&#160;пропал через&#160;свою гордость.</i>
+</p><p><i>И&#160;потом, все так&#160;же медлительно, все так&#160;же посасывая цигарку, стал он&#160;рассказывать, как&#160;Наполеон, обуянный гордостью, пошел войной на&#160;Россию, завладел Москвою и&#160;бежал из&#160;нее, как&#160;он попал в&#160;плен и&#160;был сослан на&#160;остров и&#160;как, отправляясь в&#160;изгнание, предрек императору Александру Первому гибель дому Романовых, что&#160;потом, хотя и&#160;через много лет, в&#160;точности сбылось.</i>
+</p><p><i>В&#160;другой раз я&#160;уже сам завел с&#160;ним разговор об&#160;очень популярном в&#160;народе человеке, сподвижнике Петра Великого, графе Якове Вилимовиче Брюсе, этом, по&#160;легендам, удивительном на&#160;всем свете ученом и&#160;волшебнике. Затеял я&#160;такой разговор в&#160;надежде услышать от&#160;Филиппа Яковлевича что-нибудь новое о&#160;Брюсе и&#160;тем пополнить свое собрание легенд о&#160;нем. И&#160;надежда не&#160;обманула меня: я&#160;услышал от&#160;него не&#160;только о&#160;Брюсе, но&#160;и о&#160;другом современнике Петра Великого — Сухареве, и, чего я&#160;совсем не&#160;ожидал, об&#160;А. С.&#160;Пушкине. Оказывается, по&#160;словам рассказчика, все они&#160;трое жили в&#160;одно время. Легенда так и&#160;начинается: «Их было трое: Брюс, Сухарев и&#160;Пушкин…»</i>
+</p><p><i>Рассказывал мне эту легенду Филипп Яковлевич в&#160;ноябре 1923&#160;г., а&#160;в следующем месяце я&#160;принужден был прекратить книжную торговлю и&#160;за весь 1924&#160;г. лишь мельком видел Филиппа Яковлевича раза два, а&#160;летом 1925&#160;г. пришел к&#160;нему расспросить о&#160;Пушкине.</i>
+</p><p><i>За&#160;эти полтора года, в&#160;которые мы&#160;не виделись, умерла его жена, и&#160;он, чтобы иметь в&#160;доме хозяйку, «расписался» с&#160;одной тридцатилетней женщиной, т. е. зарегистрировал у&#160;нотариуса свой гражданский брак с&#160;ней.</i>
+</p><p><i>Он&#160;еще более одряхлел и&#160;память стала изменять ему: меня он&#160;называл «Миронычем» вместо «Захарыча», как&#160;раньше называл, а&#160;на мои расспросы о&#160;Пушкине только отмахнулся:</i>
+</p><p>— <i>Что&#160;о&#160;нем говорить, — возразил он, — Пушкин и&#160;есть Пушкин.</i>
+</p><p><i>А&#160;когда я&#160;напомнил ему его рассказ о&#160;Наполеоне, он&#160;удивился:</i>
+</p><p>— <i>Да&#160;нешто я&#160;рассказал? — возразил он&#160;и долго думал, очевидно, припоминая. — Не помню, — промолвил он&#160;потом. — Может и&#160;говорил, да&#160;позабыл.</i>
+</p><p><i>Разговор у&#160;нас не&#160;клеился, мы&#160;покурили и&#160;разошлись. Месяц спустя мы&#160;опять встретились, разговорились о&#160;прежнем времени, прежней Москве, вспомнили, между прочим, обезьянщиков, т. е. айсаров, болгар и&#160;персов, водивших напоказ пляшущих обезьян, и&#160;Филипп Яковлевич рассказал любопытную, на&#160;мой взгляд, легенду о&#160;том, почему было запрещено водить обезьян и&#160;медведей. Пользуясь его хорошим настроением, я&#160;направил было разговор о&#160;Пушкине, но&#160;из этого ничего не&#160;вышло.</i>
+</p><p>— <i>Что&#160;ж Пушкин, — промолвил он. — Был он&#160;хороший человек, за&#160;что честь и&#160;слава ему. — И&#160;больше о&#160;Пушкине ни&#160;слова.</i>
+</p><p><i>Но&#160;все&#160;же я&#160;узнал, что&#160;Филипп Яковлевич ни&#160;одного из&#160;произведений Пушкина не&#160;читал и&#160;не слышал, и&#160;вообще никаких книг не&#160;читал, кроме одной — «Ухарь-купец» [*], которую он&#160;очень хвалил.</i>
+</p><p>[*] — <i>Под&#160;таким заголовком известно было лубочное издание (Т-ва Сытина) собрания песен и&#160;романсов, среди которых было помещено стихотворение Никитина «Ехал из&#160;ярмарки ухарь-купец». Положенное на&#160;ноты, оно распевалось с&#160;эстрад увеселительных садов, ресторанов так называемыми исполнительницами народных песен и, между прочим, одной из&#160;них, более талантливой, Плевицкой, удачное исполнение которой много способствовало распространению его в&#160;городских низах, где оно было в&#160;моде с 1908 по 1914&#160;г., хотя и&#160;теперь еще не&#160;совсем забыта.</i>
+</p><p>Иx было трое: Брюс, Сухарев и&#160;Пушкин.
+</p><p>Брюс на&#160;небо летал смотреть, есть&#160;ли&#160;Бог. Ну, вернулся.
+</p><p>— Есть, — говорит, а&#160;сам поскорее к&#160;батюшке побежал… — На, говорит, тебе рупь, отслужи молебен.
+</p><p>Ну, а&#160;батюшка что&#160;ж?.. Рупь — деньги, на&#160;тротуаре не&#160;подымешь; взял да&#160;и отслужил…
+</p><p>И&#160;был этот Брюс самый умный: весь свет исходи — умней не&#160;найдешь. И&#160;знал он&#160;волшебство, и&#160;дошел до&#160;всяких наук. Календари делал… и&#160;порошки у&#160;него там, составы разные… И&#160;мог он&#160;обернуться птицей. А&#160;жил в&#160;Сухаревой башне. Там у&#160;него и&#160;книги, бумаги, пузырьков наставлено было тьма-тьмущая… и&#160;чего-чего только там не&#160;было. Понятно, не&#160;зря, а&#160;все для&#160;науки.
+</p><p>А&#160;башню эту Сухарев построил… Вот поэтому самому и&#160;называется она «Сухарева башня».
+</p><p>А&#160;Сухарев этот был купец богатый, мукой торговал. Ну, еще и&#160;другие лавки-магазины были… бакалея там, да&#160;мало&#160;ли&#160;каких не&#160;было. Одно слово — богач… и&#160;тоже парень неглупый был, тоже по&#160;науке проходил. Ну, до&#160;Брюса-то&#160;ему далеко было, и&#160;десятой части брюсовской науки не&#160;знал. Он, может, и&#160;узнал&#160;бы, да&#160;торговля мешала.
+</p><p>— Ну, хорошо, говорит, положим, ударюсь я&#160;в науку, а&#160;кто&#160;же, говорит, за&#160;делом смотреть станет? А&#160;на&#160;приказчиков, говорит, положиться нельзя: все растащут, разворуют.
+</p><p>Да&#160;и&#160;правда. Ведь что&#160;у нас за&#160;народ, я&#160;тебе скажу, — анафема, а&#160;не народ! Поверь ему — он&#160;живо выставит тебя за&#160;дверь да&#160;еще тебя&#160;же и&#160;виноватым сделает… Нет, доверяться нашему народу никак нельзя: обманет, а&#160;то, еще того хуже, в&#160;одной рубашке оставит…
+</p><p>Ну, это одно, а&#160;тут еще баба-жена да&#160;ребятишки. А&#160;при&#160;бабе какая наука может быть? Ты, примерно, книгу раскрыл и&#160;хочешь узнать чего-либо по&#160;науке, а&#160;тут жена и&#160;застрекочет сорокой: то-се, пятое-десятое… Уж она завсегда найдет, что&#160;сказать. Ты нарочито думай — не&#160;придумаешь, а&#160;она, и&#160;не думавши, как&#160;примется стрекотать… Уж она трещит-трещит… А&#160;ведь все зря, все попусту, лишь&#160;бы&#160;языку дать работу. Конечно, есть и&#160;понимающая, разумная женщина, завсегда уважит мужа. Но&#160;ведь мало таких, всего больше — как&#160;раскудахчутся, так и&#160;жизни не&#160;рад станешь…
+</p><p>Ну, тоже и&#160;нашего брата похвалить не&#160;за что: есть такие соловьи залетные, он&#160;тебе напоет такое, что&#160;ты уши развесишь, и&#160;облупит он&#160;тебя, как&#160;яичко печеное. Есть такие ловкачи…
+</p><p>Ну, вот и&#160;Сухарева такое дело: думал, думал, как&#160;быть? И&#160;по&#160;науке человеку лестно пойти, да&#160;и нищим не&#160;хочется остаться… Видит — не&#160;с руки ему наука, взял, да&#160;и построил башню.
+</p><p>— Ты, говорит, Брюс, живи в&#160;этой башне, доходи до&#160;всего… А&#160;чего, говорит, понадобится, скажи, дам.
+</p><p>А&#160;чего Брюсу понадобится? Чего нет — сам сделает. Я&#160;тебе говорю: на&#160;все руки мастер был. Он&#160;и&#160;золото, и&#160;серебро делал. Ну, конечно, не&#160;зря, а&#160;по малости. А&#160;то, пожалуй, наделай много — тут такая&#160;бы&#160;пошла поножовщина, такое смертоубийство… Смотри, и&#160;башню давно&#160;бы&#160;спалили. Вот он&#160;и остерегался. А&#160;больше всего испытания делал, над&#160;составами работал.
+</p><p>А&#160;царь сердится:
+</p><p>— И&#160;чего ты, говорит, все мудришь? Что&#160;выдумываешь? Забился, говорит, в&#160;свою башню и&#160;сидит, как&#160;филин. Вот, говорит, прикажу подложить под&#160;башню двадцать бочонков пороху и&#160;взорву тебя. И&#160;полетишь, говорит, ты к&#160;чертям.
+</p><p>А&#160;Брюс говорит:
+</p><p>— Если, говорит, я&#160;филин, то&#160;пусть буду взаправдашний филин.
+</p><p>И&#160;тут обернулся филином. Обернулся, да&#160;как закричит: «Пу-гу-у!». Царь испугался и — бежать…
+</p><p>— Тут, говорит, и&#160;до греха недалеко.
+</p><p>И&#160;не&#160;любил царь Брюса.
+</p><p>— И&#160;когда, говорит, черти заберут его от&#160;меня?
+</p><p>А&#160;тронуть Брюса боялся. А&#160;не&#160;любил вот почему: он&#160;хоть и&#160;царь был, а&#160;по науке ничего не&#160;знал. Ну, а&#160;народ все больше Брюса одобрял за&#160;его волшебство. Ну, царя и&#160;брала зависть.
+</p><p>А&#160;тут Брюс такой состав сделал: старого человека на&#160;молодого переделывать. Вот и&#160;говорит слуге своему:
+</p><p>— Брат, изруби ты меня топором на&#160;мелкие кусочки. Полей, говорит, сперва из&#160;этого пузырька, а&#160;потом вот из&#160;этого. Хочу, говорит, снова молодым стать, а&#160;то мне, говорит, уже девяносто лет…
+</p><p>Ну, слуга изрубил его топором. Полил из&#160;одного пузырька — тело срослось. А&#160;из&#160;другого не&#160;стал поливать, взял да&#160;и разбил об&#160;пол. А&#160;сам побежал к&#160;царю.
+</p><p>— Брюс, говорит, помер. А&#160;царь говорит:
+</p><p>— Помер, и&#160;чорт с&#160;ним — собаке собачья честь.
+</p><p>А&#160;нешто он&#160;собака был? Самый ученый человек был, самый умный. Тут царская злоба, зависть… Живому ничего не&#160;мог сделать, боялся, так вот дай хоть мертвого облаю… Злоба, конечно.
+</p><p>Ну вот… Ну, похоронили Брюса… И&#160;очень народ жалел его. Да&#160;что&#160;поделаешь? Умер, значит, конец.
+</p><p>А&#160;этот подлец, слуга Брюсов, как&#160;ни таился, а&#160;все&#160;же люди узнали про&#160;то, как&#160;он Брюса погубил. Ну, понятно, не&#160;поблагодарили за&#160;такое дело: ругали всячески и&#160;ребра пересчитали. Да&#160;толку-то&#160;от этого чуть. А&#160;его&#160;бы&#160;из поганого ружья пристрелить, вот это в&#160;самый раз было&#160;бы: чего заслужил, того и&#160;получай.
+</p><p>Ну, а&#160;Пушкин… Пушкин в&#160;Москве жил и&#160;планы разводил: ведь это он&#160;застроил Москву, ведь это он&#160;завел порядок.
+</p><p>А&#160;ежели&#160;бы&#160;не Пушкин, была&#160;бы&#160;не Москва, а&#160;чорт знает что… Ведь у&#160;нас как? Ты дом построил, ты сад развел. И&#160;я&#160;дом построил, только у&#160;меня он&#160;неказист, да&#160;и сад не&#160;тово, подгулял. Вот меня бес и&#160;начинает мутить, зависть разбирает… Вот я&#160;возьму, ночью перелезу через&#160;забор и&#160;спилю твои деревья в&#160;саду. И&#160;после того пойдет промежду нас грызня: я&#160;тебя «подлецом», ты меня — матерными словами… И&#160;дойдет дело до&#160;драки: один другому рожи исковыряем. А&#160;Пушкин это воспрещал… Вот и&#160;завел порядок.
+</p><p>Умнейший был господин. И&#160;книги тоже писал, все описывал. И&#160;чтоб люди жили без&#160;свары, без&#160;обмана, по-хорошему…
+</p><p>— Вы, говорит, живите для&#160;радости.
+</p><p>Да&#160;ведь наш народ какой? Окаянный народ. Я&#160;мостовую мету, своим делом занимаюсь, а&#160;он, шут его знает, кто такой, по&#160;тротуару идет и&#160;ровно&#160;бы&#160;ветром его качает… самогону через&#160;край хватил. Ну, качался, качался, остановился и&#160;давай меня ругать. Уж он&#160;конопатил, конопатил… А&#160;за&#160;что? Я&#160;ему не&#160;должен, ничего не&#160;украл у&#160;него, да&#160;и вижу-то&#160;его впервые…
+</p><p>Ну что&#160;ты поделаешь с&#160;ним? Драться с&#160;дураком не&#160;приходится — сам дурак станешь, да&#160;и не&#160;одолеешь, ведь он&#160;какой оглоед — быка за&#160;хвост удержит… Поругал-поругал, пошел, закачался… Пьяный, конечно… ну, пьян-пьян, а&#160;башкой об&#160;стену не&#160;стал колотиться. Хам.
+</p><p>Вот Пушкин и&#160;правду написал: «На&#160;подлеца хоть аполеты надень, а&#160;он как&#160;был свинья, так и&#160;останется свиньей». Что&#160;ж, и&#160;верно: ты его как&#160;ни полируй, а&#160;он все такой&#160;же хамло будет… Вот Пушкин и&#160;хотел, чтобы у&#160;нас дружелюбие было, чтобы мы&#160;не хватали один другого за&#160;горло, чтобы свиной жизни не&#160;было. Только у&#160;нас дело на&#160;свой лад идет, не&#160;на пушкинский. Нам&#160;бы&#160;вот сивухи-матушки через&#160;край хлебнуть, да&#160;человека матом разутюжить — это так… вот это и&#160;есть радость наша. А&#160;дружелюбие это… Обманул человека, обработал как&#160;нельзя лучше, в&#160;одной рубахе оставил — вот и&#160;дружелюбие твое.
+</p><p>Пушкин-то&#160;хорошо знал обхожденьице наше — какой мы&#160;народ… Человек умнейший был, а&#160;иначе нешто поставили&#160;бы&#160;ему памятник?
+</p><p>Им, видишь, всем троим хотели поставить памятники: Брюсу, Сухареву и&#160;Пушкину… Это уж после было, при&#160;другом царе… Три памятника хотели поставить, да&#160;царь воспротивился:
+</p><p>— Брюсу, говорит, не&#160;за что: он&#160;волшебством занимался и&#160;чорту душу продал.
+</p><p>Вот, видишь как&#160;человека опорочили.. А&#160;ведь напрасно, совсем зря. Чего ему было душу продавать чорту, ежели он&#160;наукой дошел? Умный человек и&#160;без нечистой силы дойдет. И&#160;волшебство он&#160;наукой взял.
+</p><p>Да&#160;ведь у&#160;нас как? Озлился на&#160;человека и&#160;давай его чернить. Вот и&#160;тут так: один царь невзлюбил Брюса, ну, и&#160;другие цари той&#160;же дорожкой пошли. От&#160;дедов-прадедов пошла эта царская злоба… Вот от&#160;этого и&#160;не приказано было ставить Брюсу памятник.
+</p><p>И&#160;Сухареву тоже не&#160;приказал царь.
+</p><p>— Какой, говорит, ему памятник надо? Есть Сухарева башня, и&#160;довольно с&#160;него.
+</p><p>Да&#160;и&#160;не за&#160;что, говорит, ставить ему: он, говорит, мукой торговал, барыши в&#160;карман клал.
+</p><p>Ну и&#160;клал… А&#160;как&#160;же иначе? На&#160;то&#160;ведь и&#160;торговля, чтобы барыш был. А&#160;станешь торговать без&#160;барыша — проторгуешься, в&#160;трубу вылетишь. Без&#160;барыша нельзя. Ну, а&#160;Пушкина все&#160;же одобрил.
+</p><p>— Он, говорит, умнейший человек был.
+</p><p>Вот и&#160;поставили памятник Пушкину, и&#160;стоит… Да&#160;ведь наш народ какой? Проклятый народ, с&#160;ним не&#160;сговоришь. Иной-то&#160;тысячу раз прошел мимо памятника, а&#160;спроси его: какой был человек Пушкин?
+</p><p>— Не знаю, — говорит.
+</p><p>«Не знаю». Да&#160;ведь и&#160;я тоже не&#160;знал, а&#160;как расспросил знающих, и&#160;узнал… И&#160;вот ты расспроси, послухай, что&#160;скажут. И&#160;никто тебя за&#160;это не&#160;оштрафует, и&#160;никто не&#160;заругает…
+</p><p>— Нам, говорит, это не&#160;требуется.
+</p><p>А&#160;вам что&#160;же требуется? Чужие карманы обчищать да&#160;замки сворачивать, а? Поверишь&#160;ли? Четырнадцати вершков голенища — сапоги были… елецкие вытяжки, [3] к&#160;Пасхе справил… И&#160;что&#160;ты скажешь? Пришли, свернули замок, все забрали, все унесли. Бекеша на&#160;вате была… я&#160;бы за&#160;нее и&#160;пяти червонцев не&#160;взял&#160;бы… уперли и&#160;бекешу. Да&#160;мало&#160;ли&#160;чего не&#160;взяли… Валенки старые — и&#160;с ними не&#160;расстались! Ну, что&#160;за народ такой? Им вот про&#160;Пушкина знать не&#160;требуется, а&#160;воровать по&#160;квартирам да&#160;в карман залезать — это самое любезное дело… Эх, народец!..
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Пушкин_и_Гоголь"><span id=".D0.9F.D1.83.D1.88.D0.BA.D0.B8.D0.BD_.D0.B8_.D0.93.D0.BE.D0.B3.D0.BE.D0.BB.D1.8C"></span>Пушкин и&#160;Гоголь</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=3" title="Редактировать раздел «Пушкин и Гоголь»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>Андрей Егорович Колтыхин — крестьянин, вернее был приписан к&#160;крестьянскому обществу. Он&#160;родился от&#160;неизвестных родителей, был вскормлен сначала в&#160;Московском Воспитательном доме, потом в&#160;семье крестьянина одной из&#160;подгородных деревень, бравшего «шпитонцев» (питомцев) этого дома на&#160;воспитание. Когда ему было восемь лет, он&#160;жил в&#160;селе Хотеичево Рязанской губернии (где, по&#160;его словам, раньше делали гребешки), потом попал поводырем к&#160;слепому старику-нищему, «дедушке Якову Петровичу». С&#160;ним он&#160;ходил по&#160;селам и&#160;деревням «по&#160;кусочки», то&#160;есть собирал милостыню; с&#160;ним&#160;же он&#160;пробрался в&#160;Москву. Тут вскорости дедушка помер, а&#160;Андрей Егорович остался на&#160;улице; тогда ему было десять лет. На&#160;улице он&#160;провел два года и&#160;однажды зимой чуть было не&#160;замерз, ночуя в&#160;мусорном ящике.</i>
+</p><p><i>На&#160;тринадцатом году его взял в&#160;учение к&#160;себе сапожник, но&#160;Андрей Егорович пробыл у&#160;него недолго и&#160;сбежал, не&#160;выдержав жестоких побоев, и&#160;очутился «кухонным мужиком» у&#160;немки Луизы Ивановны, содержавшей на&#160;Малой Бронной меблированные комнаты со столом. У&#160;нее он&#160;прожил четыре года и&#160;потом вспоминал ее с&#160;теплым чувством, как&#160;добрую женщину.</i>
+</p><p><i>В&#160;числе жильцов Луизы Ивановны были и&#160;студенты. Один из&#160;них по&#160;окончании курса учения в&#160;университете взял Андрея Егоровича к&#160;себе на&#160;родину, в&#160;Новороссийск, в&#160;качестве работника.</i>
+</p><p><i>Андрей Егорович прожил у&#160;него только неделю, возненавидев мать студента, почтенную даму в&#160;пенсне, за&#160;то, что&#160;та звала его «Андрэ» и&#160;скликала своих любимых кошек, лязгая столовыми ножами один о&#160;другой.</i>
+</p><p>— <i>Как&#160;скажет она мне это «Андрэ», так вся душа во&#160;мне перевернется, а&#160;тут еще эти треклятые ножи. Кажется, схватил&#160;бы&#160;ее за&#160;горло, да&#160;и удавил&#160;бы, — рассказывал он.</i>
+</p><p><i>Потом ушел на&#160;Кубань, батрачил в&#160;экономиях «тавричан», выходцев из&#160;Таврической губернии, занимавшихся овцеводством, потом скитался по&#160;югу России, пил, босячил, работал в&#160;Крыму на&#160;виноградниках, вернулся в&#160;Москву и&#160;за продажу поддельных золотых колец попал на&#160;три месяца в&#160;тюрьму.</i>
+</p><p><i>Отбывая солдатчину, он&#160;принимал участие в&#160;Русско-японской войне 1903—1905&#160;гг., был ранен. В&#160;мировую войну 1914—1917&#160;гг. был мобилизован и&#160;опять ранен в&#160;одном из&#160;боев на&#160;германском фронте. По&#160;выздоровлении все время, вплоть до&#160;окончания войны, находился в&#160;тылу армии.</i>
+</p><p><i>Зимой 1924&#160;г., когда я&#160;познакомился c ним в&#160;одной из&#160;московских харчевен, он&#160;нанимался колоть дрова. Работа случалась не&#160;каждый день, и&#160;ему приходилось жить впроголодь. В&#160;зимние вечера мы&#160;подолгу сиживали в&#160;харчевне за&#160;чаем и&#160;беседой.</i>
+</p><p><i>Поговорить он&#160;любил. Рассказывал он&#160;больше всего о&#160;своих скитаниях, о&#160;войне. Как-то&#160;раз зашла речь о&#160;Пушкине, и&#160;он рассказал легенды о&#160;нем и&#160;о Гоголе. Сам он&#160;не читал ни&#160;Пушкина, ни&#160;Гоголя, хотя и&#160;говорил, что&#160;когда-то «читал, да&#160;все перезабыл».</i>
+</p><p><i>Говорю: «не&#160;читал», потому что&#160;он не&#160;был знаком ни&#160;с «Капитанской дочкой», ни&#160;с «Тарасом Бульбой», двумя произведениями, по&#160;которым, по&#160;моим наблюдениям, читатель из&#160;низов начинает знакомиться с&#160;Пушкиным и&#160;Гоголем. Скажу больше: ему даже названия этих произведений не&#160;были известны. Мне думается, что&#160;он и&#160;читать-то&#160;не знал: жизнь его с&#160;детства была обставлена такими условиями, при&#160;которых ему негде и&#160;не у&#160;кого было учиться.</i>
+</p><p><i>Находясь на&#160;военной службе, он&#160;мог&#160;бы&#160;немного поучиться грамоте в&#160;ротной школе, но&#160;я уверен в&#160;том, что&#160;не научился: ничто в&#160;нем не&#160;говорило за&#160;то, что&#160;он был грамотен.</i>
+</p><p>Пушкин только по&#160;фамилии русский, а&#160;русской крови в&#160;нем и&#160;капли одной не&#160;было: немецкая да&#160;арапская кровь была. Его отец из&#160;немцев был, а&#160;мать — арапка. Отец во&#160;дворце находился, при&#160;царе служил… Ну, служит и&#160;служит, а&#160;толку нет: кому чин повысят, кому жалованья прибавят, а&#160;его все обходят, он&#160;все в&#160;стороне.
+</p><p>— Что&#160;же это такое? — думает. Вот посмотрел, посмотрел: — А&#160;ну, говорит, дай-ка я&#160;выкрещусь в&#160;русскую веру. Взял да&#160;и выкрестился. А&#160;царю приятно стало:
+</p><p>— Это, говорит, хорошо, что&#160;ты нашу, русскую веру принял. Надо, говорит, чтобы и&#160;фамилия твоя была русская. Вот и&#160;дал ему фамилию Пушкин, а&#160;раньше у&#160;него немецкая фамилия была. Вот с&#160;той поры он&#160;и стал называться Пушкиным.
+</p><p>И&#160;тут ему повезло: и&#160;деньгами царь его наградил, и&#160;чином повысил. А&#160;прочих, которые тоже при&#160;царе служили, взяла досада, стала их зависть брать… Вот они&#160;и давай следить за&#160;ним: думают — человек в&#160;чем-нибудь ошибется, промашку какую сделает. И&#160;принялись подслеживать. А&#160;он&#160;и взаправду сплоховал…
+</p><p>И&#160;дело это произошло через&#160;арапку одну. А&#160;эта арапка при&#160;дворце находилась. Не для&#160;дела держали: какое уж от&#160;нее дело. А&#160;так — при&#160;милости, на&#160;кухне жар раздувать… Мало&#160;ли&#160;раньше этих чертей арапов, карликов держали при&#160;дворцах. И&#160;все только для&#160;одного форсу: вот, мол, какой народец у&#160;нас имеется.
+</p><p>Ну, эта арапка самая тоже на&#160;таком положении находилась. А&#160;этот выкрест-немчура был холостой. И&#160;зашло ему в&#160;голову насчет арапки, интерес его взял: что, мол, за&#160;народ такой — арапки. Вот он&#160;и давай крутиться вокруг арапки, давай увиваться… Принялся напевать — лишь&#160;бы&#160;голову задурить.
+</p><p>Ну, крутился-крутился и&#160;обставил ее…
+</p><p>Он&#160;думал — никто не&#160;узнает, все шито-крыто будет. А&#160;тут десять, а&#160;то и&#160;больше шпионов за&#160;ним следят. Ну, и&#160;накрыли раба Божия. Как&#160;накрыли — побежали к&#160;царю.
+</p><p>— Так и&#160;так: Пушкина с&#160;арапкой застали.
+</p><p>А&#160;царю досада…
+</p><p>— Это, говорит, что&#160;за самовольство такое? — и&#160;сейчас этого выкреста за&#160;бока…
+</p><p>Ругал, ругал… — Ишь, говорит, что&#160;выдумал! Нешто, говорит, я&#160;для того арапок завел, чтобы ты с&#160;ними разврат производил? Ежели, говорит, сошелся, обвенчайся, а&#160;не хочешь — к&#160;чортовой матери вон из&#160;дворца!
+</p><p>Ну, царя не&#160;ослушаешься: хочешь-не&#160;хочешь, а&#160;венчайся. Вот и&#160;обвенчался и&#160;стал жить с&#160;ней по-настоящему.
+</p><p>Понятно, какое уж там было житье. И&#160;в&#160;люди показаться с&#160;черной сатаной — одна срамота. И&#160;грызлись они&#160;каждый день, как&#160;собаки, и&#160;бил он&#160;ее здорово. Ну, она-то&#160;не сдавалась: живущие они, эти арапки треклятые, и&#160;злые, как&#160;черти. И&#160;она тоже огрызалась хорошо: как&#160;схватит каталку, так ему впору бежать.
+</p><p>Ну, однако, как&#160;плохо ни&#160;жили, а&#160;все через&#160;девять месяцев она родила. Все так и&#160;думали: обязательно она родит арапченка или&#160;девочку-арапку, а&#160;родила она белого мальчика. И&#160;все очень удивлялись.
+</p><p>— Значит, говорят, мужская кровь над&#160;женской кровью перевес имеет.
+</p><p>И&#160;царь очень доволен остался.
+</p><p>— Это, говорит, похвально, что&#160;мужская кровь победила. Определить, говорит, мальчика на&#160;казенный счет. Самых лучших учителей к&#160;нему приставить — профессоров.
+</p><p>Ну уж, конечно, и&#160;папашу не&#160;забыл: и&#160;чином наградил, и&#160;жалованья прибавил. Вот после этого выкрест этот, немчура и&#160;заблистал, а&#160;то ведь совсем заплевали человека. Вот тебе и&#160;сатана черная. Она, эта сатана, после такой срамоты ему возвышение придала.
+</p><p>Ну, отцу хорошо, а&#160;сыну нешто плохо? И&#160;сыну тоже хорошо было. Как&#160;он&#160;подрос, стали его учить, а&#160;царь только одно и&#160;твердит учителям:
+</p><p>— Учите мальчика хорошенько…
+</p><p>А&#160;этот мальчик вот какой был: ему только десятый год пошел, а&#160;он уж зашагал: всю профессорскую науку одолел, да&#160;еще сам стал задавать учителям задачи. Такую задачу задаст, что&#160;профессора только рот разинут. Смотрят на&#160;него, и&#160;только глазами хлоп-хлоп. И&#160;так, и&#160;сяк — ничего у&#160;них не&#160;выходит… В&#160;своих книгах ищут, ищут — ничего нет подходящего. Что&#160;тут делать? Бегут к&#160;царю жаловаться на&#160;Пушкина… Ну, не&#160;жаловаться — какая тут может быть жалоба? А&#160;так — пошли доложить насчет учения Пушкина. Вот приходят и&#160;говорят:
+</p><p>— Пушкина, говорят, больше нечему учить, он&#160;всю нашу науку превзошел.
+</p><p>Царь и&#160;удивляется.
+</p><p>— Как&#160;же это, говорит, так? Ведь он&#160;еще мальчик.
+</p><p>А&#160;профессора говорят:
+</p><p>— Это действительно верно, что&#160;он мальчик, а&#160;только по&#160;уму он&#160;и большого превышает. У&#160;него, говорят, такой талан. Он, говорят, от&#160;природы такой умный.
+</p><p>— А-а, — говорит царь, — это дело другого рода, это особая статья, Ну, говорит, ежели он&#160;от природы такой, так и&#160;отступитесь от&#160;него. Пусть, говорит, он&#160;один до&#160;всего доходит. А&#160;то, говорит, вы еще испортите его, разобьете его мысли.
+</p><p>Профессора и&#160;отступились: раз приказ царский, тут уже не&#160;станешь растабарывать. Вот они&#160;и отступились от&#160;Пушкина, отошли.
+</p><p>— Ну-ка, думают, как&#160;он без&#160;нас станет учиться?
+</p><p>А&#160;он&#160;как пошел, как&#160;пошел! Все предметы постиг. Кроме русского, семь языков знал! А&#160;как&#160;подрос, пошло у&#160;него занятие — до&#160;всего докапывался, все узнавал… А&#160;учителя, эти профессора, только удивляются «Ах-ах!» И&#160;опять по&#160;книгам шарят: может, что&#160;осталось, чего Пушкин не&#160;знает… Шарили-шарили — нет ничего, хоть&#160;бы&#160;какая малость осталась! И&#160;все только: «Ах-ах!» А&#160;себе в&#160;голову того не&#160;возьмут, что&#160;они от&#160;книги берут свою науку, а&#160;Пушкин все больше от&#160;природы брал. А&#160;как&#160;он там брал — это его дело. Значит, умел, ежели брал… Ну, конечно, и&#160;он по&#160;книгам учился, и&#160;он в&#160;книги вникал — без&#160;книг никак нельзя. И&#160;сам он&#160;чрез книги прославился — мало&#160;ли&#160;написал сочинений. Через&#160;книги и&#160;пошла его слава. А&#160;иначе кто&#160;бы&#160;знал про&#160;него? Ну, кто и&#160;знал&#160;бы, а&#160;прочие не&#160;слыхали&#160;бы&#160;ничего — какой-такой есть Пушкин. А&#160;то&#160;по всей России пошла слава.
+</p><p>Ну, однако, какая слава его ни&#160;была, а&#160;пропал он&#160;зря, так — за&#160;ничто: через&#160;свою жену-потаскушку пропал. Ну, понятно, не&#160;бульварная она была, а&#160;с жиру бесилась: Пушкин нехорош, дай заведу любовника… Вот и&#160;завела: нашелся такой ухарь — полковник Павловского полка. А&#160;Пушкин и&#160;дознался… Как&#160;дознался, сейчас на&#160;этого полковника налетел и&#160;сорвал с&#160;него аполеты. А&#160;это дело такое нешуточное. Сейчас докладывают об&#160;этом царю. А&#160;царь говорит:
+</p><p>— Пушкин — человек вольный [<i>т. е. не&#160;военный</i>.], какой с&#160;него спрос? А&#160;тут, говорит, надо спросить полковника: какое его поведение, ежели у&#160;него аполеты обрывают. Ежели, говорит, не&#160;оправдается, — вон со службы!
+</p><p>А&#160;тут вот какое оправдание: раньше у&#160;военных не&#160;было того, чтобы по&#160;судам таскаться, самих себя срамотить, а&#160;так было заведено: я&#160;убил тебя из&#160;пистолета или&#160;там из&#160;револьвера — значит, на&#160;моей стороне правда, значит я&#160;оправлен, а&#160;ты виноват. Вот и&#160;Пушкин тоже вышел против полковника. Он&#160;думал срезать полковника, а&#160;только сам свалился: полковник получше его стрелок был. Ну, убил, значит, оправдался, совсем оправился. И&#160;не&#160;стал царь выгонять его со службы.
+</p><p>Конечно, такое правило тогда было, а&#160;если по-настоящему, по&#160;совести рассудить, какое тут может быть оправдание? С&#160;женой Пушкина жил и&#160;Пушкина&#160;же убил. Где&#160;же тут правда? Понятно, это тогда не&#160;разбирали, такое тогда правило было, и&#160;все тут. Ну, тоже и&#160;Пушкина в&#160;этом деле не&#160;за что&#160;похвалить: он&#160;вот у&#160;полковника погоны сорвал, а&#160;того не&#160;разобрал, кто тут виноватее всех. Он&#160;думал — полковник тут виноват, а&#160;того не&#160;взял в&#160;разум, что&#160;полковник не&#160;самовольно пришел к&#160;ней — она его позвала. А&#160;ежели не&#160;позвала&#160;бы, как&#160;он мог нахалом прийти? Ведь человек не&#160;без ума был… а&#160;тут от&#160;нее магнит был. Она виновата, ее и&#160;спрашивай. А&#160;то&#160;он взялся за&#160;полковника. Это не&#160;дело… По-настоящему-то&#160;дал&#160;бы&#160;ей хорошую выволочку, так она забыла&#160;бы, какие полковники бывают, да&#160;и сам&#160;бы&#160;остался жив… А&#160;то&#160;пропал зря.
+</p><p>Гоголь тоже башка был, умница. Товарищи с&#160;Пушкиным были. Пушкин и&#160;часы свои золотые ему на&#160;память подарил. Это когда Пушкин умирал, когда полковник поранил его. А&#160;Гоголь пришел проведать его. Пушкин говорит:
+</p><p>— Возьми часы, носи да&#160;меня вспоминай почаще.
+</p><p>А&#160;как&#160;умер Пушкин, тут&#160;же Гоголь все вызвездил его жене.
+</p><p>— Это, говорит, ты, ведьма, Пушкина уходила. Это, говорит, твоя работа.
+</p><p>А&#160;ей крыть нечем, потому что — правда.
+</p><p>Ну, похоронили Пушкина. А&#160;Гоголь после того за&#160;свое дело принялся. Тоже сочинения писал. Как&#160;напишет книгу, начальство и&#160;тащит его в&#160;тюрьму. А&#160;это за&#160;то, что&#160;он за&#160;простой народ стоял, начальство здорово протаскивал. Вот начальство и&#160;тащило его…
+</p><p>— Ты, говорят, очень горяч — садись, остынь мало-маленько.
+</p><p>Ну, что&#160;тут поделаешь? Вот идет Гоголь в&#160;тюрьму на&#160;казенные хлеба… Посидит месяца с&#160;три, его и&#160;выпустят, А&#160;он&#160;опять за&#160;свое возьмется. Как&#160;напишет книгу — похлеще первой.
+</p><p>— Вы, говорит, сажайте меня, сколько вам угодно, а&#160;я от&#160;своего не&#160;отстану: как&#160;писал, так и&#160;буду писать.
+</p><p>А&#160;они&#160;ему:
+</p><p>— И&#160;мы, говорят, от&#160;своего не&#160;отстанем: как&#160;сажали тебя, так и&#160;будем сажать.
+</p><p>Возьмут и&#160;посадят…
+</p><p>А&#160;как&#160;отбудет срок — опять писать… А&#160;начальство уж знает, какое его занятие.
+</p><p>— Пиши, пиши, говорят, место для&#160;тебя найдется — тюрьма еще не&#160;сгорела, не
+</p><p>развалилась…
+</p><p>И&#160;как&#160;напишет — его тащут в&#160;тюрьму. А&#160;караульные солдаты смеются:
+</p><p>— Опять, говорят, Гоголь к&#160;нам в&#160;гости пожаловал…
+</p><p>А&#160;Гоголю что? Ну, пожаловал и&#160;пожаловал, что&#160;тут особенного? Ежели&#160;бы&#160;за воровство, или&#160;убил кого, а&#160;то ведь за&#160;книгу, за&#160;правду… Тут греха никакого. Ну, а&#160;господам правителям это ни&#160;к чему: они&#160;этого не&#160;разбирали. У&#160;них правило такое было, постановление такое. Да&#160;и&#160;сам в&#160;толк возьми; Гоголь их ругает, а&#160;они ему награду давай? Дескать, «благодарим тебя, Гоголь, что&#160;ты нас подлецами обозвал — на&#160;тебе за&#160;это золотую медаль»?.. Так не&#160;бывает… Ведь не&#160;безумные были эти правители. Обругал, ну садись, отсиживай срок. Да&#160;и&#160;сам Гоголь хорошо понимал это дело: на&#160;то и&#160;шел человек — знал, какая награда от&#160;них полагается… Ну, жил, писал книги, сидел в&#160;тюрьме и&#160;умер… Своею смертию помер — никто его не&#160;убивал.
+</p><p><i>В&#160;московских низах мало кто знаком с&#160;жизнью невымышленного Гоголя, по&#160;крайней мере, из&#160;числа довольно многих своих низовых знакомых я&#160;встретил лишь одного человека, который знал подлинную биографию его. Другой рассказчик рассказывал:</i>
+</p><p>— Гоголь тоже, как&#160;Максим Горький, был босяком, выпивал здорово, потом остепенился, стал писать сочинения, и&#160;тут ему повезла фортуна и&#160;пошел он&#160;в гору, прославился.
+</p><p><i>Рассказчик ни&#160;одного из&#160;сочинений Гоголя не&#160;читал, хотя и&#160;знает грамоту: «некогда» (сам он&#160;по профессии водопроводчик, человек еще не&#160;старый). Но&#160;в&#160;низах Гоголь все&#160;же распространен, конечно, настолько, насколько распространена там книга; вернее сказать, распространен не&#160;весь Гоголь, а&#160;одно из&#160;его произведений — «Тарас Бульба», это одно из&#160;любимых чтений низов.</i>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Как_Пушкин_учился_в_школе"><span id=".D0.9A.D0.B0.D0.BA_.D0.9F.D1.83.D1.88.D0.BA.D0.B8.D0.BD_.D1.83.D1.87.D0.B8.D0.BB.D1.81.D1.8F_.D0.B2_.D1.88.D0.BA.D0.BE.D0.BB.D0.B5"></span>Как&#160;Пушкин учился в&#160;школе</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=4" title="Редактировать раздел «Как Пушкин учился в школе»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>Познакомился я&#160;с ним в&#160;харчевне, за&#160;чайным столом, потом мы&#160;не раз встречались там&#160;же, разговаривали. Он&#160;человек лет пятидесяти, рабочий-каменотесец из&#160;крестьян Костромской губернии; работает в&#160;Москве давно. Товарищи по&#160;работе называли его Василием Прокофьевичем, так и&#160;я стал называть его, а&#160;фамилию мне как-то&#160;не пришлось спросить у&#160;нега. Как-то&#160;по моему почину разговор у&#160;нас зашел о&#160;книгах.</i>
+</p><p><i>Василий Прокофьевич назвал себя «большим любителем интересного чтения», но&#160;из прочитанных им книг мог указать только роман «Камо грядеши?», автором которого ошибочно назвал Достоевского (в&#160;произношении этой фамилии он&#160;делал ударение на&#160;первом «о»), затем назвал еще повесть Пушкина «Капитанская дочка», но&#160;сам он&#160;ее не&#160;читал, а&#160;слушал, как&#160;другие читали.</i>
+</p><p>— <i>Я&#160;тогда еще холостой был, — рассказывал он, — работал в&#160;артели в&#160;Москве. И&#160;вот один наш паренек раздобыл эту «Капитанскую дочку» про&#160;Емельку Пугачева и&#160;стал читать. Он&#160;читает, а&#160;вся артель слушает. Бывало, придем с&#160;работы, надо&#160;бы&#160;спать ложиться, а&#160;мы не&#160;спим, слушаем, чем там дело кончится. Да&#160;ночей, может, семь слушали. Ну, это, действительно, занимательное чтение было. И&#160;ведь вся правда, все с&#160;правды списано.</i>
+</p><p><i>Тоже вот еще «Камо грядеши?» — очень хорошее чтение. Это я&#160;уж сам читал. Только не&#160;Пушкина сочинение, а&#160;Достоевского.</i>
+</p><p>— <i>Сенкевича, — поправил я&#160;его.</i>
+</p><p>— <i>Да, это правда, Сенкевича, — сказал он. — А&#160;Достоевского я&#160;видел у&#160;знакомого переплетчика — «Преступление и&#160;наказание». Тоже, говорят, хороший роман. Просил почитать — не&#160;дал, чужая, говорит.</i>
+</p><p><i>Пользуясь подходящим случаем, я&#160;с целью узнать от&#160;него еще что-нибудь о&#160;Пушкине, стал рассказывать о&#160;том, какой тот был умный человек и&#160;великий поэт. Василий Прокофьевич выслушал меня с&#160;вниманием, затем в&#160;свою очередь рассказал, что&#160;ему пришлось слышать о&#160;Пушкине, о&#160;том, как&#160;Пушкин учился в&#160;школе и&#160;по своему уму и&#160;таланту стоял выше остальных учеников. От&#160;кого слышал он&#160;этот рассказ, он&#160;не помнит, дело было много лет тому назад.</i>
+</p><p>Когда Пушкин учился в&#160;школе, учитель взял и&#160;посадил его на&#160;заднюю скамейку.
+</p><p>— Ты, говорит, и&#160;без учения много знаешь, — садись на&#160;заднюю скамейку, а&#160;которые остолопы — пускай на&#160;передней сидят, чтобы у&#160;меня перед&#160;глазами были и&#160;слушали мой урок.
+</p><p>Пушкин и&#160;говорит:
+</p><p>— Так и&#160;так, мне все едино.
+</p><p>А&#160;после того учитель, этот профессор самый, и&#160;задает такой урок:
+</p><p>— Я, говорит, скажу вам свои слова, а&#160;вы на&#160;них скажете свои, только чтобы они&#160;в тахту [Т<i>. е. в&#160;такт, в&#160;рифму</i>.] приходились. Ну вот, говорит, слушайте: «взошло солнце и&#160;освещает землю».
+</p><p>Теперь, говорит, скажите свои слова.
+</p><p>Вот ученики бились-бились, ничего у&#160;них не&#160;выходит. А&#160;было их триста человек. Профессор и&#160;говорит:
+</p><p>— Видно, без&#160;Пушкина дело не&#160;обойдется. Ну-ка, говорит, Пушкин, научи этих болванов в&#160;тахту сочинять.
+</p><p>А&#160;Пушкин говорит:
+</p><p>— У&#160;меня такие слова припасены, что&#160;всему классу не&#160;по нутру будут.
+</p><p>А&#160;профессор говорит:
+</p><p>— Ничего, не&#160;бойся, я&#160;за все в&#160;ответе.
+</p><p>Пушкин взял и&#160;сказал:
+</p><p>«Взошло солнце и&#160;освещает землю,
+</p><p>А&#160;вы, безумные народы, не&#160;знаете, что&#160;сказать».
+</p><p>Вот какую тахту сказал!
+</p><p>А&#160;ученикам не&#160;понравилось.
+</p><p>— Что&#160;же это, говорят, он&#160;один умный, а&#160;мы дураки? — И&#160;стали задирать его.
+</p><p>Профессору подсунули сотнягу, чтобы он&#160;их руку держал. Вот профессор и&#160;говорит раз:
+</p><p>— Что&#160;ж это ты, Пушкин, возвышаешься? Я, говорит, на&#160;что профессор, сколько унвирстетов прошел, сколько академий, а&#160;не называю безумными. Только, говорит, ты мало смыслишь и&#160;до настоящих пунктов не&#160;дошел.
+</p><p>Вот, видишь, какая стерва, так-растак! Раньше Пушкин был хорош, а&#160;как взятку получил, Пушкина сажей вымазал! Пушкин слушал-слушал и&#160;рассердился:
+</p><p>— А, да&#160;ну вас к&#160;растакой матери вместе с&#160;вашей школой и&#160;профессорами! Я, говорит, дома один буду учиться. Я, говорит, теперь над&#160;вами поднялся, а&#160;придет время, буду первый в&#160;России человек и&#160;не забудут меня вовек.
+</p><p>И&#160;ушел из&#160;школы сам по&#160;себе. И&#160;ведь правду сказал, что&#160;будет первым человеком: памятник поставили ему и&#160;все знают его.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Пушкин_и_царь"><span id=".D0.9F.D1.83.D1.88.D0.BA.D0.B8.D0.BD_.D0.B8_.D1.86.D0.B0.D1.80.D1.8C"></span>Пушкин и&#160;царь</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=5" title="Редактировать раздел «Пушкин и царь»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>Встречался я&#160;с ним в&#160;харчевне раз пять-шесть, а&#160;может быть, и&#160;больше, пил с&#160;ним чай, беседовал.</i>
+</p><p><i>Был он&#160;уже старый человек, лет шестидесяти, плохо, почти оборванцем, одетый, по&#160;профессии — печник. Звать его было Яковом Иванычем, а&#160;фамилию я&#160;так и&#160;не спросил у&#160;него: не&#160;пришло в&#160;голову спросить — в&#160;харчевне все называли его только Яковом Иванычем, а&#160;по фамилии никто не&#160;называл и, пожалуй, ее никто не&#160;знал. Называли&#160;же его по&#160;имени и&#160;отчеству вовсе не&#160;из почтения к&#160;его старости, а&#160;просто потому, что&#160;это издавна привилось к&#160;нему.</i>
+</p><p><i>С&#160;почтением к&#160;нему в&#160;харчевне никто не&#160;относился, а&#160;харчевник порой бывал даже груб с&#160;ним — раз я&#160;видел, как&#160;он выпроваживал его, впрочем, очень пьяного, в&#160;толчки за&#160;дверь. Совсем&#160;же трезвым он&#160;никогда не&#160;являлся в&#160;харчевню — всегда был навеселе.</i>
+</p><p><i>От&#160;других мастеровых я&#160;узнал, что&#160;он «мастер хороший, а&#160;пьяница еще лучше», потому-то&#160;он и&#160;ходит вечно «отрепаем» и&#160;постоянного угла не&#160;имел и&#160;не имеет.</i>
+</p><p><i>Родом он&#160;был из&#160;Владимирской губернии, в&#160;Москву попал подростком и&#160;поступил в&#160;ученье к&#160;печнику: с&#160;тех пор он&#160;никуда из&#160;Москвы не&#160;выезжал и&#160;не уходил. Грамоты он&#160;не знал: «некогда было учиться, да&#160;и не&#160;у кого».</i>
+</p><p><i>Беседовали мы&#160;с ним о&#160;чем придется: о&#160;войне, колдунах, разбойниках, старой — 1880—1890-х годов — Москве, и&#160;раз по&#160;моему почину заговорили о&#160;Пушкине, хотя я&#160;и не&#160;ожидал услышать от&#160;Якова Иваныча что-нибудь новое о&#160;нем, так как&#160;уже от&#160;многих в&#160;харчевне, за&#160;исключением четырех-пяти рассказчиков слышал одно и&#160;то&#160;же: «Пушкин был очень умный человек, писал хорошие стихи, за&#160;что ему и&#160;поставили памятник»; некоторые к&#160;этому прибавляли, что&#160;Пушкин погиб на&#160;дуэли «через&#160;свою развратную жену».</i>
+</p><p><i>Но, оказалось, Яков Иваныч знал о&#160;Пушкине больше: он&#160;рассказал мне о&#160;нем легенду. Правда, в&#160;ней нет и&#160;намека на&#160;действительную, не&#160;вымышленную жизнь поэта, но&#160;это в&#160;данном случае, по-моему, и&#160;не важно, а&#160;важно то, что&#160;в сознании творца легенды, очевидно, совсем не&#160;знакомого с&#160;Пушкиным, образ поэта отразился, как&#160;прекрасный образ гордого человека, не&#160;унизившегося ради спасения своей жизни перед&#160;всесильным царем.</i>
+</p><p><i>Яков Иваныч, по&#160;его словам, слышал эту легенду еще молодым, когда только что&#160;вышел из&#160;учеников, от&#160;кого он&#160;слышал ее — не&#160;помнит.</i>
+</p><p><i>Рассказывал Яков Иваныч не&#160;всегда одинаково: если он&#160;выпивал «в&#160;самый раз», то&#160;есть в&#160;меру, столько, чтобы быть только навеселе, речь его текла плавно и&#160;порой даже красиво, а&#160;если «перебачивал» — выпивал лишнее и&#160;становился пьяным, — его неинтересно было слушать: он&#160;тянул слова, спотыкался на&#160;них, повторял уже сказанное и&#160;частенько прибегал к&#160;матерной ругани, которую, будучи навеселе, почти не&#160;употреблял.</i>
+</p><p>Пушкин человек особенный был. Это такой человек: он&#160;и самому царю советы давал.
+</p><p>Вот и&#160;царь, над&#160;народом государь, а&#160;как случится трудное дело, он&#160;и не&#160;знает, с&#160;какого конца начать, не&#160;может направить по-настоящему. И&#160;никто не&#160;может. Мало&#160;ли&#160;вокруг царя людей было: и&#160;министры, и&#160;генералы там… А&#160;вот возьмутся за&#160;такое дело занозистое, и&#160;так, и&#160;этак повернут… А&#160;толку нет, не&#160;везет… Ну, что&#160;тут будешь делать!
+</p><p>Вот тут царь и&#160;посылает за&#160;Пушкиным.
+</p><p>Вот приходит Пушкин, глянет на&#160;эти ихние дела-бумаги, на&#160;эти ихние документы разные…
+</p><p>— Тут, говорит, и&#160;премудрости особой не&#160;требуется. Вот, говорит, дело это так повернуть надобно, а&#160;это — вот так.
+</p><p>Ну, они&#160;сейчас делают, как&#160;он говорит. Смотрят — и&#160;верно, все благоразумно выходит. И&#160;все тут удивляются. И&#160;царь тоже приходит в&#160;удивление.
+</p><p>— Ну, говорит, и&#160;Пушкин! Золотая у&#160;тебя голова, всем головам — голова.
+</p><p>Ну, однако, голова-то&#160;голова, а&#160;под конец все&#160;же окрысился на&#160;Пушкина… Положим, по&#160;правде сказать, от&#160;самого Пушкина начин был: укол на&#160;царя сделал, такую шпильку вогнал, что&#160;ай-люли!
+</p><p>И&#160;возгорелось ему это дело через&#160;крестьян… Это тоже вот раз призывает царь Пушкина, тоже не&#160;мог сам с&#160;делом справиться. А&#160;дело и&#160;взаправду очень трудное было. Ну, для&#160;кого трудное, а&#160;как пришел Пушкин, так сразу дал ему ума. Вот направил он&#160;дело, стал уходить, да&#160;на прощанье возьми и&#160;скажи царю:
+</p><p>— А&#160;не&#160;пора&#160;ли, говорит, крестьян на&#160;волю отпустить? А&#160;то, говорит, помещики совсем заездили их.
+</p><p>А&#160;тогда крестьяне помещичьи были. Пушкин и&#160;думает: «Дай я&#160;за крестьян свое слово замолвлю царю?» Ну, и&#160;сказал. А&#160;сказал с&#160;подковыркою, с&#160;усмешечкой. Ну, конечно, эти Пушкина слова царю не&#160;сладки были. Эти слова спичка ему в&#160;нос: дескать, вот ты царь, а&#160;защиты народу от&#160;тебя нет… За&#160;живое крючком зацепили его эти пушкинские слова. Вот он&#160;и закричал:
+</p><p>— Молчать! Это не&#160;твоего ума дело!
+</p><p>А&#160;Пушкин… Он&#160;ничуть не&#160;испугался.
+</p><p>— Ежели, говорит, не&#160;моего ума дело, так зачем&#160;же посылаешь за&#160;мной дела твои разбирать? У&#160;тебя, говорит, больше ума, вот ты и&#160;рассматривай их, а&#160;за Пушкиным нечего присылать.
+</p><p>Вот он&#160;какой Пушкин был! Другой&#160;бы&#160;согнулся перед&#160;царем и&#160;не пикнул&#160;бы, а&#160;Пушкин напрямик отрезал ему. Тут царь и&#160;взбеленился:
+</p><p>— Чтобы твоего духу здесь не&#160;было! — кричит.
+</p><p>Ну, Пушкин и&#160;пошел. И&#160;как&#160;ушел, взял и&#160;описал эту самую историю, как&#160;царь посылал за&#160;ним дела разбирать, как&#160;он сказал царю свои слова насчет крестьян, и&#160;как царь прогнал его. Все подробно описал.
+</p><p>А&#160;министры узнали про&#160;это писание. Сами-то&#160;дознались, или&#160;эти легавые, шпионишки подлые донесли — неизвестно. А&#160;только они&#160;сейчас к&#160;царю побежали. Чего им бегать, когда есть кареты, коляски? А&#160;это только так говорится, что&#160;побежали. Ну, хорошо… Вот приехали к&#160;царю…
+</p><p>— А&#160;наш, говорят, Пушкин вот какими делами занимается, — и&#160;рассказали про&#160;это самое пушкинское описание.
+</p><p>Как&#160;услышал царь, нахмурился… не&#160;по сердцу ему это описание было. «Что&#160;же это такое? — думает. — Ведь он&#160;на свежую воду меня выведет». И&#160;говорит он&#160;министрам:
+</p><p>— Пусть пишет, до&#160;чего-нибудь допишется. — И&#160;тут отдал приказ:
+</p><p>— Посадить Пушкина в&#160;крепость. А&#160;то, говорит, он&#160;такой важный интерес описывает, а&#160;ему помеха от&#160;людей: шум, да&#160;гам, да&#160;крик. А&#160;в&#160;крепости, говорит, никто не&#160;помешает, там тихо…
+</p><p>Ну, понятно, насмешку делает. Тоже думает: «Дай-ка подковырну Пушкина…» Вот и&#160;подковырнул. Злоба, конечно…
+</p><p>И&#160;вот схватили Пушкина, засадили в&#160;крепость, на&#160;замки заперли, часовых поставили. Все как&#160;следует. Боялись, как&#160;бы не&#160;убежал, а&#160;только напрасно. Пушкин и&#160;не думал убегать. Он&#160;и&#160;то в&#160;насмешку говорит министрам:
+</p><p>— А&#160;вы еще десяток орудий тут поставили&#160;бы…
+</p><p>А&#160;им нечего на&#160;это сказать, они&#160;и говорят:
+</p><p>— Ладно, ты вот сиди-посиживай, — вот теперь какое твое занятие.
+</p><p>Конечно, ихняя сила, что&#160;тут поделаешь.
+</p><p>Ну, засадить-то&#160;царь засадил его, а&#160;без него-то&#160;дела не&#160;так-то&#160;шибко идут… Иное-то&#160;дело сварганят абы как, лишь с&#160;рук долой…
+</p><p>Видит царь — без&#160;Пушкина ему плохо, а&#160;выпустить его так не&#160;хочет, а&#160;ему надо, чтобы Пушкин прощения у&#160;него попросил. Вот он&#160;и закинул удочку, министров спрашивает:
+</p><p>— Ну, как, говорит, Пушкин там сидит? Не просит прощения?
+</p><p>А&#160;министры говорят:
+</p><p>— Сидит спокойно, а&#160;насчет прощения, говорят, ничего не&#160;слышно.
+</p><p>Царь и&#160;говорит:
+</p><p>— Ну и&#160;пусть сидит, а&#160;то он&#160;уж очень прыткий, до&#160;всего ему дело есть… Вот, говорит, пусть посидит и&#160;подумает.
+</p><p>Вот министры и&#160;поняли, чего требуется царю. Вот прибежали к&#160;Пушкину, строгость такую на&#160;себя напустили, испугать думали Пушкина.
+</p><p>— Ты это что&#160;же делаешь? — кричат на&#160;него. — Почему прощения у&#160;царя не&#160;просишь?
+</p><p>А&#160;Пушкин нисколько не&#160;испугался, сам кричит на&#160;них:
+</p><p>— Ах вы, аферисты, говорит, кричите, а&#160;попусту: мне&#160;ли, говорит, вас бояться, такую злыдню! А&#160;прощения просить мне, говорит, не&#160;за что: я&#160;не вор и&#160;не разбойник, а&#160;ежели, говорит, про&#160;царя написал, так написал правду. К&#160;тому&#160;же, говорит, у&#160;меня есть гордость и&#160;по этой причине не&#160;хочу я&#160;просить прощения.
+</p><p>Вот министры видят — неудача им, а&#160;все&#160;же докладывают царю:
+</p><p>— Уж очень, говорят, Пушкин возгордился и&#160;через эту свою гордость не&#160;хочет прощения просить.
+</p><p>Тут царь еще больше озлился на&#160;Пушкина.
+</p><p>— Ах, он!!! — говорит. — Как&#160;не&#160;хочет? Чтобы я&#160;на колени перед&#160;ним стал? Чтобы я&#160;у него прощения просил? Так это, говорит, мне не&#160;пристало. Я — царь, а&#160;он кто? Пушкин, только и&#160;всего. Не покоряется, говорит, — пусть сидит.
+</p><p>Конечно, раздосадовался царь, обида ему большая от&#160;Пушкина… А&#160;Пушкин тоже досадовал на&#160;царя. Думает: «Вовек ему покорности моей не&#160;будет».
+</p><p>Вот и&#160;сидит… И&#160;проходит год, а&#160;Пушкин как&#160;сидел, так и&#160;сидит — не&#160;просит прощения у&#160;царя. Вот министры опять собрались, опять идут к&#160;Пушкину. Идут и&#160;уговариваются между собой:
+</p><p>— Его, говорят, строгостью не&#160;возьмешь, а&#160;надо с&#160;ним поласковее обходиться.
+</p><p>Вот пришли и&#160;говорят:
+</p><p>— Здравствуй, господин Пушкин.
+</p><p>А&#160;Пушкин насквозь ихнюю подлость видит.
+</p><p>— Ну, говорит, здравствуйте, коли не&#160;шутите.
+</p><p>— Какие, говорят, шутки, мы&#160;не для&#160;шуток пришли, а&#160;по серьезному делу.
+</p><p>— А&#160;какое это дело? — Пушкин спрашивает.
+</p><p>Ну, они&#160;опять запели насчет того, чтобы он&#160;покорился.
+</p><p>— Ты, говорят, через&#160;свою гордость хвартуну свою не&#160;видишь.
+</p><p>А&#160;он&#160;опять вопрос им задает:
+</p><p>— А&#160;какая, говорит, эта хвартуна?
+</p><p>— А&#160;вот какая, говорят, свободу от&#160;царя получишь и&#160;награда тебе будет.
+</p><p>Ну, Пушкина не&#160;обманешь: он&#160;ихний подвох сразу уразумел.
+</p><p>— И&#160;кого вы, говорит, хотите обморочить? Я&#160;ведь знаю, на&#160;что вы бьете, и&#160;царскую, говорит, награду тоже знаю, какая она бывает: вот законопатил царь меня в&#160;крепость, это, говорит, и&#160;есть его награда. А&#160;какая, говорит, моя вина? Правду ему в&#160;глаза сказал, только и&#160;всего.
+</p><p>А&#160;министры опять за&#160;свое:
+</p><p>— Да&#160;ведь не&#160;отвалится у&#160;тебя язык прощенье попросить.
+</p><p>Взяла тут Пушкина досада.
+</p><p>— Ну что, говорит, пристали? Ступайте, откуда пришли. Я, говорит, десять лет просижу, а&#160;не заплачу.
+</p><p>Ну и&#160;утерлись господа министры, ни&#160;с чем пошли к&#160;царю. Царь спрашивает:
+</p><p>— Ну, как, говорит, там Пушкин, не&#160;запищал еще?
+</p><p>А&#160;министры озлились на&#160;Пушкина.
+</p><p>— Он, говорят, какой человек? Уперся и&#160;ни с&#160;места. «Я, говорит, десять лет просижу, а&#160;не заплачу». Очень, говорят, большая в&#160;нем гордость.
+</p><p>А&#160;царь аж весь потемнел.
+</p><p>— Ну, говорит, не&#160;хочет покориться, и&#160;не надо. Он, говорит, до&#160;самые облака вознесся… Только смотри, не&#160;загремит&#160;ли&#160;оттуда? Он&#160;думает: у&#160;него одного гордость, а&#160;другие, говорит, без&#160;гордости живут. У&#160;него, говорит, гордость, а&#160;у меня еще больше.
+</p><p>Посмотрим, говорит, чья перетянет…
+</p><p>Он&#160;и&#160;казнить Пушкина мог, кто ему запретил&#160;бы? К&#160;стенке поставил&#160;бы&#160;или повесил, — и&#160;весь тут разговор. А&#160;ему этого не&#160;требовалось: ему надо, чтобы Пушкин покорился… Вот на&#160;что он&#160;упирал.
+</p><p>А&#160;Пушкин тоже своего придерживался:
+</p><p>— Я, говорит, два года не&#160;покорюсь, а&#160;ежели на&#160;третий покорюсь, то&#160;всяк меня дураком назовет.
+</p><p>Вот какое дело затеялось: чья возьмет, чья победит…
+</p><p>Вот и&#160;третий год идет. А&#160;Пушкину не&#160;сладко было сидеть в&#160;тюрьме. Какая&#160;же приятность день и&#160;ночь под&#160;замком… И&#160;поговорить не&#160;с кем, и&#160;погулять не&#160;выпускают. Все один, да&#160;голые стены… И&#160;заболел Пушкин, зачах. Разнемогся совсем, лежит на&#160;тюремной постели… Видят часовые — призатих ихний арестант. Вот докладывают надзирателю:
+</p><p>— Как&#160;бы&#160;не помер наш Пушкин…
+</p><p>А&#160;надзиратель сейчас начальству доложил обо всем. Вот министры посылают к&#160;Пушкину доктора, сами тоже идут…
+</p><p>— Надо, говорят, хоть напоследок уговорить Пушкина.
+</p><p>А&#160;старались для&#160;себя: надеялись царскую награду получить. А&#160;доктор осмотрел Пушкина и&#160;говорит:
+</p><p>— Это вот какая болезнь, тут такие и&#160;такие-то&#160;порошки помогают.
+</p><p>Тут и&#160;министры приступили к&#160;Пушкину: Эх, Пушкин, Пушкин, говорят, до&#160;чего довела тебя твоя гордость: ведь умираешь!
+</p><p>— И&#160;умираю, — Пушкин говорит. — Я, говорит, на&#160;небо сквозь железную решетку смотрел, а&#160;солнышка совсем не&#160;видел, вот, говорит, отчего моя болезнь, вот отчего я&#160;умираю…
+</p><p>Ну, им-то&#160;что? Хоть сию минуту умри, а&#160;только сперва покорись.
+</p><p>— Ты&#160;бы, говорят, все&#160;же покорился&#160;бы… Только, говорят, одно слово скажи: «покоряюсь».
+</p><p>А&#160;Пушкин знает ихнюю заботу.
+</p><p>— Ну, езуиты&#160;же вы, — говорит. — Вы чего добиваетесь? Медаль от&#160;царя получить хотите? Ну, только от&#160;меня вам, подлецам, не&#160;будет помощи в&#160;этом деле.
+</p><p>Видят они — не&#160;выгорает их мошенническое дело, побежали докладывать царю.
+</p><p>— От&#160;Пушкина, говорят, нет покорности, а&#160;здоровьем он&#160;совсем плох, того гляди умрет. А&#160;на&#160;наш, говорят, разум надо&#160;бы&#160;его без&#160;всякой покорности выпустить… А&#160;то&#160;еще умрет, станут говорить: «уморили Пушкина».
+</p><p>— Ну что&#160;ж, — говорит царь, — так и&#160;так, пусть будет по-вашему.
+</p><p>Они&#160;и&#160;помчались. Прибежали, кричат:
+</p><p>— Пушкин, выходи на&#160;волю без&#160;всякой покорности!
+</p><p>А&#160;Пушкин уже вытянулся, помер… И&#160;не&#160;надо ему ни&#160;воли, ни&#160;царя, ни&#160;гордости этой. Лежит себе, и&#160;ничего ему не&#160;надо. Ну, умер, что&#160;тут поделаешь? Не воскресишь.
+</p><p>Говорят министры царю:
+</p><p>— Пушкин умер. Мы, говорят, прибежали, кричим: «Пушкин, выходи на&#160;волю без&#160;всякой покорности!» — глядим, а&#160;он уже мертвый…
+</p><p>Тут царь и&#160;говорит:
+</p><p>— Я&#160;в&#160;том деле не&#160;при чем. Действительно, говорит, посадил я&#160;его в&#160;крепость, так без&#160;этого нельзя — он&#160;меня в&#160;грош не&#160;ставил. Всем я&#160;царь, а&#160;только Пушкину ни&#160;то, ни&#160;се был.
+</p><p>Ну, конечно, станет царь себя виноватить! Кругом виноват будет, а&#160;не скажет: «я&#160;виноват». Так и&#160;тут: уморил Пушкина и&#160;говорит: «я&#160;ни при&#160;чем». На&#160;Пушкина всю вину свалил. Ну, все&#160;же и&#160;правда вышла наружу. Это уж потом, когда царь умер, по&#160;бумагам докопалилсь… Видят: на&#160;Пушкина стороне — правда.
+</p><p>— Он, говорят, справедливый человек был, он&#160;за крестьян стоял.
+</p><p>Вот поставили ему памятник.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Как_Пушкина_жена_погубила"><span id=".D0.9A.D0.B0.D0.BA_.D0.9F.D1.83.D1.88.D0.BA.D0.B8.D0.BD.D0.B0_.D0.B6.D0.B5.D0.BD.D0.B0_.D0.BF.D0.BE.D0.B3.D1.83.D0.B1.D0.B8.D0.BB.D0.B0"></span>Как&#160;Пушкина жена погубила</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=6" title="Редактировать раздел «Как Пушкина жена погубила»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Алексей Кузнецов, парень двадцати пяти лет, крестьянин Тверской губернии, торгует на&#160;улице фруктами, цветами; выпивает, но&#160;немного; грамотный, но&#160;кроме книг лубочного издания о&#160;сыщиках и&#160;разбойниках ничего не&#160;читал. Знает много легенд о&#160;ведьмах, оборотнях, колдунах, в&#160;которых верит, потому что «сам своими собственными глазами насмотрелся на&#160;их подлые дела».
+</p><p>С&#160;ним и&#160;его односельцем, тоже уличным торговцем Ильей Васютиным сидел я&#160;в харчевне за&#160;чаем и&#160;заговорил о&#160;Толстом.
+</p><p>— Этого Толстого, — отозвался Кузнецов, — и&#160;не поймешь, что&#160;он за&#160;человек был: пророк не&#160;пророк, а&#160;знал все, что&#160;случится. Вот революция… ведь он&#160;за десять лет вперед предсказал ее, и&#160;какое время обозначил, в&#160;такое она и&#160;пришла. Тогда много в&#160;газетах писали об&#160;этом. Ну, понятно, не&#160;ворожей и&#160;не гадатель был он, чтобы там по&#160;картам или&#160;еще каким другим средствием предсказывать, а&#160;дано было ему откровение от&#160;природы знать будущее. Вот и&#160;приходили к&#160;нему люди спрашивать про&#160;свою жизнь — чего, мол, нам ждать: худа или&#160;добра. И&#160;отец мой ездил к&#160;нему, только не&#160;пришлось посоветоваться с&#160;ним: он&#160;больной лежал в&#160;постеле и&#160;никого к&#160;нему не&#160;допускали. И&#160;очень жалел отец, что&#160;не повидался с&#160;Толстым.
+</p><p>— О&#160;чем&#160;же хотел посоветоваться отец с&#160;Толстым? — спросил я.
+</p><p>— Не знаю, — ответил Кузнецов, — отец никому про&#160;это не&#160;говорил. Рассказывал только, как&#160;в Ясную Поляну приехал и&#160;как дали ему пообедать. «Приняли, говорит, хорошо, не&#160;расспрашивали, какие, собственно, у&#160;меня дела к&#160;Толстому, а&#160;только сказали: больной, лежит в&#160;постеле, доктора запретили тревожить». Отец пообедал и&#160;поехал домой.
+</p><p>— А&#160;вот Пушкин, — сказал я, — как&#160;думаешь о&#160;нем? Ведь он&#160;не ниже Толстого будет?
+</p><p>— Пушкин сюда не&#160;подходит, — заметил Васютин. — Пушкина дело другое было.
+</p><p>— Это верно, — подтвердил Кузнецов. — Пушкина дело особенное было. Пушкин стихи писал, а&#160;Толстой народ учил, вроде как&#160;проповедник. Ну, и&#160;он писал, только не&#160;стихи.
+</p><p>Пушкин тоже очень разумный был, а&#160;кто из&#160;них выше поднялся — Толстой или&#160;Пушкин, — определить не&#160;могу. Не нам об&#160;этом судить: на&#160;это нашего ума не&#160;хватит. А&#160;вот историю про&#160;Пушкина слышал, как&#160;жена уложила его в&#160;земляную постелю на&#160;веки вечные, так это, действительно, подлее подлого она поступила.
+</p><p>Тут видишь, красота ейная Пушкина погубила. Собственно, через&#160;красоту он&#160;и женился на&#160;ней. Ну, красота красотой, только в&#160;голове у&#160;нее ветер погуливал: любила она по&#160;балам и&#160;маскарадам шататься. А&#160;это дело известное, добра от&#160;него не&#160;жди. Человек от&#160;рук отобьется, и&#160;только одна глупость у&#160;него будет на&#160;уме. Тоже вот и&#160;она так-то. Стала ездить на&#160;эти балы, и&#160;сейчас целый хвост ухажеров начал волочиться за&#160;ней. Только настоящих не&#160;было, а&#160;все сволочь, шаромыжники.
+</p><p>А&#160;тут появился один полковник — не&#160;чета им: собой красавец и&#160;в карманах у&#160;него густо. И&#160;живо отшиб от&#160;нее эту мелюзгу, всю эту поганую шантрапу. Денег не&#160;жалел. Эти брильянты, серьги, кольца…
+</p><p>— Позвольте спросить: какая марка?
+</p><p>— Тыща рублей!
+</p><p>Он&#160;сейчас портмонет из&#160;кармана вытащит:
+</p><p>— Получай! — и&#160;ей в&#160;подарок.
+</p><p>А&#160;той приятно и&#160;лестно. А&#160;полковник свое дело знает. Сперва эти брильянты, после того говорит:
+</p><p>— Едем в&#160;ресторан первого разряда в&#160;отдельном кабинете ужинать.
+</p><p>Она было помялась, потом согласилась.
+</p><p>Он&#160;и&#160;закатил ужин в&#160;двести рублей. Шинпанское тут, наливка, коньяк. Он&#160;ей бокальчик шинпанского преподнес. Она выпила. Он&#160;ей другой и&#160;третий. Она и&#160;опьянела. А&#160;пьяная баба какой человек? Ну, с&#160;этой поры она и&#160;стала его любовница.
+</p><p>А&#160;Пушкин ничего не&#160;знает. Он&#160;думал, как&#160;она была взята из&#160;хорошего дома, так и&#160;поведение ее будет хорошее. А&#160;на&#160;деле оказалось поведение ее развратное. И&#160;вот идет раз Пушкин на&#160;бал и&#160;встретился там с&#160;тем полковником. Ну, попервоначалу умный разговор повели, только под&#160;конец заспорили о&#160;каких-то&#160;предметах. Ну уж, конечно, где там полковнику с&#160;Пушкиным спорить?!.. Пушкин совсем заклевал его. А&#160;тот и&#160;не знает, что&#160;ему сказать. И&#160;взяла тут полковника досада. Вот он&#160;и говорит:
+</p><p>— И&#160;чего ты ставишь себя так высоко? Ведь твоя жена вот в&#160;таких-то&#160;смыслах.
+</p><p>Ну, одним словом, обозвал ее развратного поведения женщиной. Пушкин тут и
+</p><p>залети ему в&#160;ухо. А&#160;полковник говорит:
+</p><p>— Кулаками не&#160;поможешь, давай стреляться.
+</p><p>А&#160;Пушкину только это и&#160;надо.
+</p><p>— Понятно, говорит, станем стреляться: тут дело кровавое.
+</p><p>Вот и&#160;вышли один против другого. Полковник и&#160;убил Пушкина. А&#160;жена что? Убил и&#160;убил. Ей лишь&#160;бы&#160;брильянты. Ну, нашелся такой, который содержал ее. Может, тот&#160;же полковник.
+</p><p>— И&#160;я&#160;слышал эту историю, — сказал Васютин, — только по-иному она рассказывается. Бриллианты не&#160;при чем были, а&#160;сама она на&#160;шею полковнику повесилась.
+</p><p>— Ну, ладно, — возразил Кузнецов, собираясь уходить. — Как&#160;бы&#160;там ни&#160;было, а&#160;все&#160;же полковник убил Пушкина.
+</p><p>Когда он&#160;ушел, я&#160;спросил Васютина:
+</p><p>— Правда&#160;ли, что&#160;отец Алексея ездил к&#160;Толстому?
+</p><p>— Правда, — ответил тот. — Сам он&#160;рассказывал. А&#160;ты знаешь, кто был Алешкин отец?
+</p><p>— Откуда я&#160;могу знать? Я&#160;ни&#160;разу не&#160;видел его.
+</p><p>— «Деловой» он&#160;был. По «сухому» и&#160;по «мокрому» делу работал.
+</p><p>«Деловой» на&#160;острожном жаргоне — вор, грабитель, разбойник, смотря по&#160;делу, т. е. по&#160;преступлению: «сухое дело» — кража, «мокрое дело» — убийство ради грабежа.
+</p><p>— Его все боялись в&#160;селе, — продолжал Васютин. — Отчаюга был, а&#160;посмотрел&#160;бы&#160;на него и&#160;не сказал&#160;бы, что&#160;он бандит: собой красивый, одевался хорошо, а&#160;начнет говорить — все так резонно выходит. Как&#160;началась германская война, его потребовали на&#160;фронт. «Ну, говорит, прощайте, братцы, чует мое сердце — не&#160;вернуться мне до&#160;мой. Не поминайте лихом!» — И&#160;верно, не&#160;вернулся, убили. И&#160;никто не&#160;пожалел, а&#160;все говорили: «Одним вором меньше стало на&#160;свете». А&#160;к&#160;Толстому он, правда, ездил. Он&#160;и&#160;с Толстым сумел&#160;бы&#160;поговорить.
+</p><p><i>Апрель 1922&#160;г.</i>
+</p><p>Нет&#160;ничего удивительного в&#160;том, что&#160;отец рассказчика, Кузнецова, будучи вором, а&#160;может быть, и&#160;убийцей, ездил к&#160;Толстому «посоветоваться», вероятно, «на&#160;счет своей жизни», потому что&#160;хождение к&#160;Толстому, особенно после его отлучения от&#160;церкви, приняло чуть не&#160;эпидемический характер как&#160;для людей образованных, так и&#160;для людей из&#160;народной темной массы. Не все, конечно, шли к&#160;нему с&#160;одинаковой целью. Одним, действительно, надо было разрешить то&#160;или иное религиозное или&#160;вообще какое-нибудь жизненное сомнение, но&#160;больше всего направлялись в&#160;Ясную Поляну ради простого любопытства — «посмотреть на&#160;Толстого», поговорить с&#160;ним только для&#160;того, чтобы потом рассказать об&#160;этом в&#160;кругу своих знакомых или «поделиться своими впечатлениями» на&#160;страницах газет, журналов и, по&#160;обыкновению, приписать Толстому то, что&#160;он не&#160;говорил и&#160;не делал. Шли к&#160;нему люди и&#160;со специальной целью «урвать» хоть малую толику из&#160;его богатства, выпросить «деньжат на&#160;свою нужду» и, в&#160;случае неудачи, оболгать, обесславить его. И&#160;вся эта многочисленная рать «паломников», возвращаясь домой, сеяла на&#160;пути своего шествия множество всевозможных рассказов о&#160;Толстом, которые потом послужили материалом для&#160;легенд о&#160;нем.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Лев_Толстой_и_американцы"><span id=".D0.9B.D0.B5.D0.B2_.D0.A2.D0.BE.D0.BB.D1.81.D1.82.D0.BE.D0.B9_.D0.B8_.D0.B0.D0.BC.D0.B5.D1.80.D0.B8.D0.BA.D0.B0.D0.BD.D1.86.D1.8B"></span>Лев Толстой и&#160;американцы</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=7" title="Редактировать раздел «Лев Толстой и американцы»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Николай Воеводин, парень двадцати пяти лет, с&#160;огненно-рыжими волосами и&#160;веснуща-тым лицом, довольно часто встречался мне в&#160;харчевне, но&#160;познакомиться нам как-то&#160;не удавалось вплоть до&#160;того момента, когда он&#160;и Гаврилыч, здоровенный мужчина лет пятидесяти с&#160;черной кудлатой бородой и&#160;большим орлиным носом, прозванный Змеем Горыны-чем, не&#160;обратился ко&#160;мне, как&#160;к «бывшему учителю», за&#160;разрешением вопроса о&#160;том, как&#160;надо правильно писать: «ездию» или «езжу».
+</p><p>Воеводин утверждал, что «самое верное будет „ездию“, потому что&#160;все так говорят», а&#160;Гаврилыч доказывал, что «правильнее правильного» будет «езжу», по&#160;той причине, что&#160;так говорят образованные люди, так и&#160;в книгах печатают.
+</p><p>Когда спор был разрешен мною в&#160;пользу Гаврилыча, Воеводин, приглаживая пятерней огнистые волосы, проговорил:
+</p><p>— Значит, мне еще надо мозгами поработать, чтобы правильно произносить слова.
+</p><p>— А&#160;как&#160;же иначе, голова садовая! — важно возразил Гаврилыч. — Мозги — первое дело.
+</p><p>На&#160;то&#160;они и&#160;дадены, чтобы работать ими. Поработай — получишь мозговое развитие и&#160;не будешь наподобие истукана или&#160;скота бессловесного, но&#160;станешь вникать в&#160;каждый корень и&#160;докапываться, что&#160;и откуда взялось, но&#160;не вроде адиета разинуть рот и&#160;ничего не&#160;понимать. Мозги — вещь важная, без&#160;них и&#160;комар не&#160;живет, а&#160;уж на&#160;что, кажется, ничтожное насекомое. Конечно, какой его мозг? С&#160;булавочную головку и&#160;того меньше, а&#160;ведь тоже дает понятие комару, что&#160;для своего пропитания надо из&#160;человека кровь высасывать. Только уж и&#160;подлецы эти комары! Раз чуть было не&#160;заели меня на&#160;рыбной ловле. Кругом вода, камыш, а&#160;им это самое и&#160;требуется. Паскудная тварь, конечно, но&#160;ежели дадена им жизнь, то&#160;они и&#160;должны жить, плодить детей для&#160;высасывания крови из&#160;человеков. И&#160;тоже ведь, гляди, между собой разговаривают по-своему…
+</p><p>С&#160;этого дня и&#160;было положено начало моему знакомству с&#160;Воеводиным, и&#160;вскоре я&#160;узнал, кто он&#160;и откуда явился в&#160;Москву.
+</p><p>Родители его были мещане города Воронежа, занимавшиеся покупкой и&#160;продажей «барахла». Николай с&#160;девяти лет стал ходить в&#160;школу, но&#160;учился, как&#160;сам теперь сознался, очень скверно. Как-то&#160;он соблазнился плохо положенным матерью рублем и&#160;украл его, купив пряников, конфет. За&#160;это он&#160;был жестоко высечен, но&#160;наказание не&#160;исправило его, а&#160;наоборот, ожесточило: «назло» родителям он&#160;стал тащить из&#160;дому все, что&#160;можно было украсть. Родители, в&#160;свою очередь, били его, не&#160;жалея ни&#160;палок, ни&#160;кулаков. Наконец, «верх взяли» они, и&#160;Николай, не&#160;выдержав дальнейших побоев, бежал — сначала из&#160;дому, затем и&#160;из Воронежа, побывал в&#160;Тамбове, Козлове, Курске, Рязани, Коломне и&#160;прибыл в&#160;Москву. В&#160;Москве, как&#160;все вообще беспризорные, он&#160;занимался прошением милостыни и&#160;мелким воровством, ночевал у&#160;подъездов домов, на&#160;церковных папертях, в&#160;мусорных ящиках, попал в&#160;исправительный дом, из&#160;него в&#160;колонию для&#160;бесприютных, бежал из&#160;нее и&#160;опять очутился на&#160;улицах Москвы, сидел за&#160;воровство в&#160;тюрьме, был призван на&#160;военную службу, затем по&#160;причине близорукости освобожден от&#160;нее, в&#160;настоящее время занимается вместе с&#160;Гаврилычем перевозкой тяжестей на&#160;ручной тележке.
+</p><p>Кроме газет, по&#160;его словам, не&#160;прочитал ни&#160;одной книжки.
+</p><p>О&#160;Толстом он&#160;случайно слышал вот что.
+</p><p>Когда Толстого предали проклятию, приехали к&#160;нему американцы и&#160;стали упрашивать, чтобы он&#160;ехал к&#160;ним жить.
+</p><p>— Какое, говорят, вам тут житье? Одна ругань да&#160;беспокойство, и&#160;того гляди, ушлют в&#160;Сибирь. А&#160;у&#160;нас, говорят, вам будет жить хорошо: любой дом на&#160;выбор от&#160;дадим вам на&#160;веки вечные, жалование положим тыщу рублей в&#160;месяц, а&#160;прислуга и&#160;автомобиль бесплатно. Какой, говорят, хотите, берите сад и&#160;какие угодно деревья сажайте — никто слова не&#160;скажет. И&#160;пишите, и&#160;печатайте что&#160;вздумается — никакого запрету не&#160;будет.
+</p><p>Только Толстой не&#160;согласился.
+</p><p>— Я, говорит, в&#160;России родился, в&#160;России страдания принимаю, в&#160;России и&#160;помереть должен. А&#160;что, говорит, касается Сибири, так я&#160;ее не&#160;боюсь: пусть ссылают — и&#160;в Сибири люди живут.
+</p><p>Так и&#160;не поехал. А&#160;рассказывал мне про&#160;это в&#160;ночлежке один старик. Раньше он&#160;по РусЕ странствовал, а&#160;теперь ослабел ногами, с&#160;рукой стоит. И&#160;рассказывал он&#160;еще про&#160;Толстову религию.
+</p><p>— Эта, говорит, его религия вот какая: каждый, говорит, как&#160;хочет, так и&#160;верует.
+</p><p>Как, говорит, хочет, так и&#160;пусть молится. Ежели, говорит, не&#160;хочет ходить в&#160;церкву, так и&#160;не надо — греха от&#160;этого никакого не&#160;будет. И&#160;молиться, говорит, можно по-разному. Хочешь, говорит, молиться на&#160;икону — молись, а&#160;не хочешь, — выйди на&#160;двор и&#160;на восход солнца помолись, а&#160;ежели кому желательно — можно и&#160;на звезды молиться. Во&#160;всем этом, говорит, нет никакого греха, лишь&#160;бы&#160;у тебя руки не&#160;были запачканы человеческой кровью. А&#160;ежели, говорит, ты убил человека, то&#160;тут и&#160;есть большой грех. А&#160;кто, говорит, живет чужим умом и&#160;по чужой указке ходит, тот есть анафема-проклят человек. Вот за&#160;это самое, говорит, и&#160;прокляли Толстого.
+</p><p>И&#160;много он&#160;рассказывал про&#160;эту религию, да&#160;я не&#160;все понял. Старик с&#160;башкой.
+</p><p>— Другие, говорит, все из&#160;книг берут, а&#160;я, говорит, беру от&#160;людей и&#160;от жизни, и&#160;на моей стороне правда, а&#160;на ихней ложь.
+</p><p>Только я&#160;так думаю, что&#160;книга книге рознь: иную только и&#160;остается, что&#160;бросить на&#160;помойку, а&#160;из другой можно что-нибудь взять для&#160;развития ума.
+</p><p><i>Март 1924&#160;г.</i>
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐65fd76f4cc‐bbxfc
+Cached time: 20260217083917
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.092 seconds
+Real time usage: 0.170 seconds
+Preprocessor visited node count: 152/1000000
+Revision size: 108107/2097152 bytes
+Post‐expand include size: 8177/2097152 bytes
+Template argument size: 1137/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 1775223/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  133.534      1 Шаблон:Отексте
+100.00%  133.534      1 -total
+  1.19%    1.595      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1044898:|#|:idhash:canonical and timestamp 20260217083917 and revision id 5583338. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Легенды_о_русских_писателях_(Баранов)&amp;oldid=5583338">https://ru.wikisource.org/w/index.php?title=Легенды_о_русских_писателях_(Баранов)&amp;oldid=5583338</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D1%86%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0_1924_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Публицистика 1924 года">Публицистика 1924 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Евгений Захарович Баранов">Евгений Захарович Баранов</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BD%D0%B5_%D0%B2%D0%B8%D0%BA%D0%B8-%D1%81%D0%BD%D0%BE%D1%81%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%BB%D0%B8_%D1%81_%D1%82%D0%B5%D0%B3%D0%BE%D0%BC_sup" title="Категория:Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup">Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Импорт/lib.ru/Страницы с внешними ссылками">Импорт/lib.ru/Страницы с внешними ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_100" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Импорт/az.lib.ru/Евгений Захарович Баранов">Импорт/az.lib.ru/Евгений Захарович Баранов</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 29 июля 2025 года в 09:39.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D1%8B_%D0%BE_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_(%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Легенды о русских писателях (Баранов)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-bbxfc","wgBackendResponseTime":470,"wgPageParseReport":{"limitreport":{"cputime":"0.092","walltime":"0.170","ppvisitednodes":{"value":152,"limit":1000000},"revisionsize":{"value":108107,"limit":2097152},"postexpandincludesize":{"value":8177,"limit":2097152},"templateargumentsize":{"value":1137,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  133.534      1 Шаблон:Отексте","100.00%  133.534      1 -total","  1.19%    1.595      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":1775223,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Евгений Захарович Баранов\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"Брюс, Сухарев и Пушкин. \u003Cbr\u003E\\\nПушкин и Гоголь. \u003Cbr\u003EКак Пушкин учился в школе. \u003Cbr\u003EПушкин и царь. \u003Cbr\u003EКак Пушкина жена погубила. \u003Cbr\u003EЛев Толстой и американцы.\",\n    [\"published\"] = \"1924\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/b/baranow_e_z/text_1924_o_russkih_pisatelyah.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Легенды о русских писателях\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-65fd76f4cc-bbxfc","timestamp":"20260217083917","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

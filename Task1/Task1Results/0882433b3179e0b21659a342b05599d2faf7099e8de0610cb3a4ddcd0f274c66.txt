@@ -1,0 +1,1228 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Подписи к рисункам (Чехов) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"6d7bce62-110a-4d69-9193-506d9bbd707f","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Подписи_к_рисункам_(Чехов)","wgTitle":"Подписи к рисункам (Чехов)","wgCurRevisionId":5611110,"wgRevisionId":5611110,"wgArticleId":1026103,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Страницы с внутренними ссылками по анкорам","Импорт/lib.ru","Импорт/az.lib.ru/Антон Павлович Чехов","Проза","Сборники рассказов","Антон Павлович Чехов","Литература 1885 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Подписи_к_рисункам_(Чехов)","wgRelevantArticleId":1026103,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5611110,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":70000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Подписи к рисункам (Чехов) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Подписи_к_рисункам_Чехов rootpage-Подписи_к_рисункам_Чехов skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8+%D0%BA+%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC+%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8+%D0%BA+%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC+%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8+%D0%BA+%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC+%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8+%D0%BA+%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC+%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-ПРИМЕЧАНИЯ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ПРИМЕЧАНИЯ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>ПРИМЕЧАНИЯ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ПРИМЕЧАНИЯ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Подписи к рисункам (Чехов)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8+%D0%BA+%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC+%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)&amp;oldid=5611110" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29&amp;id=5611110&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259F%25D0%25BE%25D0%25B4%25D0%25BF%25D0%25B8%25D1%2581%25D0%25B8_%25D0%25BA_%25D1%2580%25D0%25B8%25D1%2581%25D1%2583%25D0%25BD%25D0%25BA%25D0%25B0%25D0%25BC_%28%25D0%25A7%25D0%25B5%25D1%2585%25D0%25BE%25D0%25B2%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259F%25D0%25BE%25D0%25B4%25D0%25BF%25D0%25B8%25D1%2581%25D0%25B8_%25D0%25BA_%25D1%2580%25D0%25B8%25D1%2581%25D1%2583%25D0%25BD%25D0%25BA%25D0%25B0%25D0%25BC_%28%25D0%25A7%25D0%25B5%25D1%2585%25D0%25BE%25D0%25B2%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Подписи к рисункам</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%A7%D0%B5%D1%85%D0%BE%D0%B2" title="Автор:Антон Павлович Чехов">Антон Павлович Чехов</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1885</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/c/chehow_a_p/text_0032.shtml">az.lib.ru</a></span>  • В&#160;Полном собрании сочинений «Подписи» вошли в&#160;состав 3-го тома.</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%A7%D0%B5%D1%85%D0%BE%D0%B2" title="Автор:Антон Павлович Чехов">Антон Павлович Чехов</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<center><b>Чехов А. П.</b></center>
+<center><b>Полное собрание сочинений и&#160;писем в&#160;тридцати томах</b></center>
+<center><b>СОЧИНЕНИЯ</b></center>
+<center>'<i>том '</i><b>тр'</b><i>е'</i><b>т'</b><i>и'</i><b>й</b></center>
+<center><b>1884-1885</b></center>
+<ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li class="mw-empty-elt"></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul>
+<p>АКАДЕМИЯ НАУК СССР
+</p><p>ИНСТИТУТ МИРОВОЙ ЛИТЕРАТУРЫ ИМЕНИ А. М.&#160;ГОРЬКОГО
+</p><p>А. П. ЧЕХОВ
+</p><p>ПОЛНОЕ СОБРАНИЕ СОЧИНЕНИЙ И&#160;ПИСЕМ
+</p><p>В&#160;ТРИДЦАТИ ТОМАХ
+</p><p>СОЧИНЕНИЯ В&#160;ВОСЕМНАДЦАТИ ТОМАХ
+</p><p>МОСКВА — 1983
+</p><p>ИЗДАТЕЛЬСТВО «НАУКА»
+</p><p>Scan: Ershov V. G., 28.03.2006
+</p><p>Read&amp;Check: sad369 (06.05.2006)
+</p><p><br />
+</p>
+<ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li><ul><li class="mw-empty-elt"></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul>
+<p><b>СОДЕРЖАНИЕ</b>
+</p><p><b><a href="#00">ПОДПИСИ К&#160;РИСУНКАМ</a></b>
+</p><p><b><a href="#01">Свадебный сезон</a></b>
+</p><p><b><a href="#02">К&#160;сведению трутней</a></b>
+</p><p><b><a href="#03">Вагонное освещение</a></b>
+</p><p><b><a href="#04">Из&#160;театрального мира</a></b>
+</p><p><b><a href="#05">На&#160;вечеринке</a></b>
+</p><p><b><a href="#06">На&#160;Луне</a></b>
+</p><p><b><a href="#07">Поэтические грезы</a></b>
+</p><p><b><a href="#08">&lt;Три рисунка&gt;</a></b>
+</p><p><b><a href="#09">В&#160;ученом мире</a></b>
+</p><p><b><a href="#10">Женщина-классик</a></b>
+</p><p><b><a href="#11">Самая бедная бедность</a></b>
+</p><p><b><a href="#12">Die russische Natur</a></b>
+</p><p><b><a href="#13">Современная Маргарита</a></b>
+</p><p><b>«<a href="#14">Как&#160;мила ты сегодня…</a>»</b>
+</p><p><b><a href="#15">Троицын день</a></b>
+</p><p><b><a href="#16">Сон золотых юнцов во&#160;время ноябрьского набора</a></b>
+</p><p><b><a href="#17">Почерк по&#160;чину, или&#160;Метаморфозы подписи Карамболева</a></b>
+</p><p><b><a href="#18">Аптекарская такса</a></b>
+</p><p><b><a href="#19">Распереканальство!!</a></b>
+</p><p><b><a href="#20">Шляпный сезон</a></b>
+</p><p><b><a href="#21">ПРИМЕЧАНИЯ</a></b>
+</p>
+<hr />
+<p><span id="00"></span>
+</p>
+<center><b>ПОДПИСИ К&#160;РИСУНКАМ</b></center>
+<center><b>1881-1885</b></center>
+<p><span id="01"></span>
+</p>
+<center><b>СВАДЕБНЫЙ СЕЗОН</b></center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0101----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/6/6d/Chehow_a_p_text_0032_ris-0101----.jpg" decoding="async" width="782" height="142" class="mw-file-element" data-file-width="782" data-file-height="142" /></a><figcaption></figcaption></figure>
+<center>Господа шафера! Черти! Подождите, Марья Власьевна потерялась.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0102----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/f/fb/Chehow_a_p_text_0032_ris-0102----.jpg" decoding="async" width="245" height="257" class="mw-file-element" data-file-width="245" data-file-height="257" /></a><figcaption></figcaption></figure>
+<p><i>Невеста</i>. Прекрасна и&#160;невинна. Выходит замуж по&#160;любви.
+</p><p><i>Жених</i>. Телеграфист в&#160;отставке. Восхитительно грациозен, грациозно восхитителен и… глуп как&#160;пробка. Пахнет помадой и&#160;фиксатуаром. Женится из-за&#160;приданого.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0103----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/d/dc/Chehow_a_p_text_0032_ris-0103----.jpg" decoding="async" width="133" height="114" class="mw-file-element" data-file-width="133" data-file-height="114" /></a><figcaption></figcaption></figure>
+<p><i>Папа невесты</i>. Пьет запоем. Влюблен в&#160;соседскую кухарку. Пророчит войну с&#160;немцами и&#160;взятие в&#160;плен Бисмарка. Ужасный политик. Чиновник.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0104----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/c/c4/Chehow_a_p_text_0032_ris-0104----.jpg" decoding="async" width="132" height="132" class="mw-file-element" data-file-width="132" data-file-height="132" /></a><figcaption></figcaption></figure>
+<p><i>Мама невесты</i>. Гроза супруга. 20-го числа каждого месяца ходит в&#160;присутственное место и&#160;получает вместо мужа жалованье. Мужа величает разбойником, антихристом и&#160;егозой.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0105----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/c/cb/Chehow_a_p_text_0032_ris-0105----.jpg" decoding="async" width="161" height="201" class="mw-file-element" data-file-width="161" data-file-height="201" /></a><figcaption></figcaption></figure>
+<p><i>Посаженый отец жениха</i>. Дон-Жуан, старожил и&#160;политик. Говорит почему-то&#160;по-итальянски. Отлично подрубляет платки и&#160;за неимением дела шьет на&#160;машине Надежды Ивановны.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0106----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/b/b0/Chehow_a_p_text_0032_ris-0106----.jpg" decoding="async" width="218" height="192" class="mw-file-element" data-file-width="218" data-file-height="192" /></a><figcaption></figcaption></figure>
+<p><i>Посаженая мать жениха</i>. Петербургская тетушка. Говорит в&#160;нос и&#160;презирает «невежество». Молодость провела бурно.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0107----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/8/8a/Chehow_a_p_text_0032_ris-0107----.jpg" decoding="async" width="155" height="175" class="mw-file-element" data-file-width="155" data-file-height="175" /></a><figcaption></figcaption></figure>
+<p><i>Шафер невесты</i>. Отставной прапорщик и&#160;забулдыга. Родившись, прежде чем крикнуть, выпил стакан водки. Ищет приличной партии с 100000 приданого.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0108----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/3/39/Chehow_a_p_text_0032_ris-0108----.jpg" decoding="async" width="169" height="375" class="mw-file-element" data-file-width="169" data-file-height="375" /></a><figcaption></figcaption></figure>
+<p><i>Шафер жениха</i>. Губернский секретарь, всеобщий шафер и&#160;сердцеед. Отлично играет на&#160;гитаре.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0109----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/b/b0/Chehow_a_p_text_0032_ris-0109----.jpg" decoding="async" width="476" height="164" class="mw-file-element" data-file-width="476" data-file-height="164" /></a><figcaption></figcaption></figure>
+<p><i>Музыканты</i>
+</p><p><i>1-я&#160;скрипка Альт Кларнет Контрабас</i>
+</p><p>Прекрасные люди, но&#160;страшные пьяницы. Непризнанные таланты. Уверяют, что&#160;Бетховен очень хороший музыкант. Слова «композитор» не&#160;понимают.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0110----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/a/aa/Chehow_a_p_text_0032_ris-0110----.jpg" decoding="async" width="100" height="122" class="mw-file-element" data-file-width="100" data-file-height="122" /></a><figcaption></figcaption></figure>
+<p><i>Петрушка</i>. Непременный член похоронных и&#160;свадебных процессий. Кос на&#160;оба глаза.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0111----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/c/c0/Chehow_a_p_text_0032_ris-0111----.jpg" decoding="async" width="146" height="122" class="mw-file-element" data-file-width="146" data-file-height="122" /></a><figcaption></figcaption></figure>
+<p><i>Кондитер Фай</i>.
+</p>
+<center>ОПИСЬ ПРИДАНОГО</center>
+<p>Утюг.
+</p><p>3 стула.
+</p><p>Зеленая лампа.
+</p><p>Мышеловка.
+</p><p>Кровать с&#160;клопами и&#160;прочими принадлежностями.
+</p><p>Стол с&#160;пауками.
+</p><p>Перина, на&#160;которой в&#160;прошлом году умерла бабушка.
+</p><p>Кофейная мельница.
+</p><p>Самоварная труба.
+</p><p>2 подушки.
+</p><p>Щеколда от&#160;неизвестной двери.
+</p><p>Картина масляными красками, изображающая <i>«падение нравственности»</i> от&#160;употребления горячих напитков.
+</p><p>Картина, изображающая «борьбу стихий, или&#160;смерть от&#160;взгляда женщины».
+</p><p>Еще что-то.
+</p>
+<center>Вексель на 300&#160;р. сроком по 1889&#160;год.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0112----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/c/c4/Chehow_a_p_text_0032_ris-0112----.jpg" decoding="async" width="170" height="321" class="mw-file-element" data-file-width="170" data-file-height="321" /></a><figcaption></figcaption></figure>
+<center><i>Царица бала.</i></center>
+<center>СЧЕТ</center>
+<p>РАСХОДЫ ПО СВАДЬБЕ р. к.
+</p><p>Кондитеру с&#160;генералом 27 22
+</p><p>Музыкантам 4&#160;—
+</p><p>Музыкантам водка 5 75
+</p><p>Лакею из&#160;клуба 1&#160;—
+</p><p>На&#160;водку ему&#160;же — 25
+</p><p>Городовому за&#160;вывод из
+</p><p>апартаментов буянившего
+</p><p>Митрофана Егорыча — 25
+</p><p>Фиксатуар жениху — 50
+</p><p>Кучерам на&#160;водку 1 80
+</p><p>4 кареты 8&#160;—
+</p><p>Папиросы шаферам — 60
+</p><p>Нищим — 14
+</p><p>Сода и&#160;кислота — 30
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0113----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/f/fb/Chehow_a_p_text_0032_ris-0113----.jpg" decoding="async" width="488" height="214" class="mw-file-element" data-file-width="488" data-file-height="214" /></a><figcaption></figcaption></figure>
+<p><i>Настройщик Курт</i>. И&#160;как&#160;ми все живем в&#160;Россия и&#160;ми имеем русски языки, то&#160;я желаю выпивать за&#160;здоровье наших дамов…
+</p><p><i>Николай Стаматич</i>. Господа! Нас убивает индифферентизм! Будем&#160;же, пока молоды, нашептывать баллады женскому полонезу и&#160;глотать метральезы любви. Поднимаю фиал за&#160;здоровье молодых!
+</p><p><i>Жених</i>. Я&#160;па-ла-гаю, что&#160;любовь есть самое чувствительное чувство. Я&#160;чувствую такие чувства, каких вы никогда не&#160;чувствовали.
+</p><p><i>Все</i>. Урра!!.
+</p><p><i><a href="#31">Примечания</a></i>
+</p><p><span id="02"></span>
+</p>
+<center><b>К&#160;СВЕДЕНИЮ ТРУТНЕЙ</b></center>
+<center>Рисунок В. И. ПОРФИРЬЕВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0201----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/2/2d/Chehow_a_p_text_0032_ris-0201----.jpg" decoding="async" width="420" height="500" class="mw-file-element" data-file-width="420" data-file-height="500" /></a><figcaption></figcaption></figure>
+<p>— Пчелы убивают и&#160;изгоняют своих мужей и&#160;братьев. Уцелевшие трутни, изнеженные от&#160;природы, не&#160;способные к&#160;труду, лентяи и&#160;дармоеды, летают по&#160;миру и&#160;ищут дарового куска хлеба. Прилетев к&#160;улью, они&#160;встречают более чем холодный прием: в&#160;улье их жалят и&#160;гонят вон. Садясь&#160;же на&#160;цветок, они&#160;не знают, как&#160;взяться за&#160;дело, — ну и&#160;голодают. Зимой приходится замерзать…
+</p><p>— Глупы эти трутни! — перебивает зоолога туз. — Они&#160;не&#160;знают, что&#160;у них есть прекрасный выход из&#160;их ужасного положения. Знаете, что&#160;бы я&#160;сделал, будучи на&#160;их месте?
+</p><p>— А&#160;что?
+</p><p>— На&#160;их месте я&#160;взял&#160;бы&#160;в аренду цветы… Не знаю, кто был&#160;бы&#160;тогда сытее: пчелы или&#160;я… Вероятно, я!
+</p><p><i><a href="#32">Примечания</a></i>
+</p><p><span id="03"></span>
+</p>
+<center><b>ВАГОННОЕ ОСВЕЩЕНИЕ</b></center>
+<center>Тема А. ЧЕХОНТЕ. Рисунок А. И. ЛЕБЕДЕВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0301----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/1/11/Chehow_a_p_text_0032_ris-0301----.jpg" decoding="async" width="469" height="308" class="mw-file-element" data-file-width="469" data-file-height="308" /></a><figcaption></figcaption></figure>
+<center>Ваш билет! Кому говорят! Ваш билет!</center>
+<p><i><a href="#33">Примечания</a></i>
+</p><p><span id="04"></span>
+</p>
+<center><b>ИЗ ТЕАТРАЛЬНОГО МИРА</b></center>
+<center>Тема А. ЧЕХОНТЕ. Рисунок В. И. ПОРФИРЬЕВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0401----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/a/af/Chehow_a_p_text_0032_ris-0401----.jpg" decoding="async" width="494" height="329" class="mw-file-element" data-file-width="494" data-file-height="329" /></a><figcaption></figcaption></figure>
+<p><i>Антрепренер</i>. Вы желаете служить у&#160;меня хористкой, но&#160;теперь у&#160;меня нет ваканции… Когда будет, с&#160;удовольствием. Оставьте ваш адрес.
+</p><p><i>Она.</i> Вот мои визитные карточки.
+</p><p><i>Антрепренер</i>. Для&#160;чего&#160;же так много? Мне довольно и&#160;одной.
+</p><p><i>Она</i>. Ничего… Остальные раздадите знакомым…
+</p><p><i><a href="#34">Примечания</a></i>
+</p><p><span id="05"></span>
+</p>
+<center><b>НА ВЕЧЕРИНКЕ</b></center>
+<center>Тема А. ЧЕХОНТЕ. Рисунок В. И. ПОРФИРЬЕВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0501----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/4/4f/Chehow_a_p_text_0032_ris-0501----.jpg" decoding="async" width="505" height="366" class="mw-file-element" data-file-width="505" data-file-height="366" /></a><figcaption></figcaption></figure>
+<p>— Виноват-с, позвольте пройти, ваше превосходительство!..
+</p><p>— Вы ошибаетесь: я&#160;не «ваше превосходительство».
+</p><p>— Так чего ж вы в&#160;дверях-то&#160;остановились? Проходите…
+</p><p><i><a href="#35">Примечания</a></i>
+</p><p><span id="06"></span>
+</p>
+<center><b>НА ЛУНЕ</b></center>
+<center><i>(Сцена, не&#160;попавшая в&#160;феерию Лентовского</i></center>
+<center><i>«Путешествие на&#160;Луну»)</i></center>
+<center>Тема Ан. Ч-е. Рисунок В. И. ПОРФИРЬЕВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0601----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/5/56/Chehow_a_p_text_0032_ris-0601----.jpg" decoding="async" width="340" height="364" class="mw-file-element" data-file-width="340" data-file-height="364" /></a><figcaption></figcaption></figure>
+<p>Первый лунный астроном. Посмотрите-ка, коллега, какой на&#160;Земле яркий свет, в&#160;том месте, где город Гродно находится! Это, должно быть, громадный пожар… Вероятно, горит целый город.
+</p><p>Второй лунный астроном. Что&#160;вы, помилуйте! Просто где-нибудь блестящая увеселительная иллюминация.
+</p><p>Первый лунный астроном. Почему вы так думаете, коллега?
+</p><p>Второй лунный астроном. Я&#160;полагаю, что&#160;случись такой страшный пожар, то&#160;люди забегали&#160;бы, засуетились, начали&#160;бы&#160;собирать подписки на&#160;помощь несчастным погорельцам, образовались&#160;бы&#160;благотворительные комитеты, появился&#160;бы&#160;кружечный сбор в&#160;пользу лишившихся крова… А&#160;этого ничего нет; на&#160;Земле все тихо, спокойно и&#160;все предаются крепкому, мирному сну. Очевидно, что&#160;все обстоит благополучно.
+</p><p><i><a href="#36">Примечания</a></i>
+</p><p><span id="07"></span>
+</p>
+<center><b>ПОЭТИЧЕСКИЕ ГРЕЗЫ</b></center>
+<center>Тема А. ЧЕХОНТЕ. Рисунок А. И. ЛЕБЕДЕВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0701----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/9/97/Chehow_a_p_text_0032_ris-0701----.jpg" decoding="async" width="472" height="293" class="mw-file-element" data-file-width="472" data-file-height="293" /></a><figcaption></figcaption></figure>
+<p>— Если&#160;бы&#160;вместо этой кошечки да&#160;сдобная купеческая дочка… А&#160;у&#160;купеческой дочки триста — четыреста тысяч… А&#160;на&#160;те триста тысяч да&#160;купить&#160;бы&#160;домик… вороных… На&#160;тройках с&#160;душками… Катюшу&#160;бы&#160;в люди вывел…
+</p><p><i><a href="#37">Примечания</a></i>
+</p><p><span id="08"></span>
+</p>
+<center><b>&lt;'</b><i>ТРИ РИСУНКА'</i><b>&gt;</b></center>
+<center>Темы А. ЧЕХОНТЕ. Рисунки Н. А. БОГДАНОВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0801----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/6/6c/Chehow_a_p_text_0032_ris-0801----.jpg" decoding="async" width="468" height="416" class="mw-file-element" data-file-width="468" data-file-height="416" /></a><figcaption></figcaption></figure>
+<center>— А&#160;еще тоже дворники смеют утверждать, что&#160;у меня нет вида!</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0802----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/1/16/Chehow_a_p_text_0032_ris-0802----.jpg" decoding="async" width="495" height="318" class="mw-file-element" data-file-width="495" data-file-height="318" /></a><figcaption></figcaption></figure>
+<p>Какая у&#160;вас беленькая шейка!
+</p><p>— У&#160;меня и&#160;все тело такое, честное слово!..
+</p><p>— Свидетельница Пожарова! Я&#160;зову вас к&#160;столу уже полчаса, и&#160;вы не&#160;являетесь… Где вы были? Вы глухи?
+</p><p>— Нет-с… Я&#160;была здесь… Не подходила&#160;же потому, что&#160;я уже не&#160;Пожарова… Я&#160;вчера вышла замуж…
+</p><p><i><a href="#38">Примечания</a></i>
+</p><p><span id="09"></span>
+</p>
+<center><b>В&#160;УЧЕНОМ МИРЕ</b></center>
+<center>Тема А. ЧЕХОНТЕ. Рисунки В. И. ПОРФИРЬЕВА.</center>
+<center>ЖЕРТВА НАУКИ</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0901----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/7/74/Chehow_a_p_text_0032_ris-0901----.jpg" decoding="async" width="212" height="214" class="mw-file-element" data-file-width="212" data-file-height="214" /></a><figcaption></figcaption></figure>
+<p>— Днем ты читаешь свои отвратительные лекции, после обеда спишь, как&#160;убитый, ночью в&#160;телескоп смотришь на&#160;звезды… Всю ночь! И&#160;это тянется со дня нашей свадьбы! Ужасно! Неужели, варвар, тебе не&#160;нужно потомства?
+</p>
+<center>ДЕТИ</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0902----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/b/b9/Chehow_a_p_text_0032_ris-0902----.jpg" decoding="async" width="198" height="216" class="mw-file-element" data-file-width="198" data-file-height="216" /></a><figcaption></figcaption></figure>
+<p>— Мой отец профессор, тайный советник, известен, книг много написал, но, между нами… он&#160;бездарность… тупица…
+</p><p>— А&#160;мой-то? Ты не&#160;знаешь моего! Брось ты, говорю ему, свою дурацкую физиологию, займись ты практикой! Практика даст тебе двадцать тысяч в&#160;год!
+</p><p>Так нет, не&#160;соглашается, старая скотина! Для&#160;него, видишь&#160;ли, жалованья одного достаточно…
+</p>
+<center>ЯРЫЙ</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0903----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/1/1c/Chehow_a_p_text_0032_ris-0903----.jpg" decoding="async" width="212" height="228" class="mw-file-element" data-file-width="212" data-file-height="228" /></a><figcaption></figcaption></figure>
+<p>— Я&#160;доказал существование души! Я&#160;пойду еще далее, черт возьми! Я&#160;докажу им, что&#160;душа — газообразное тело и&#160;что она обращается в&#160;жидкое тело под&#160;давлением семисот атмосфер! Да-с!!
+</p>
+<center>СПЕЦИАЛИСТЫ В&#160;БАНЕ</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0904----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/8/89/Chehow_a_p_text_0032_ris-0904----.jpg" decoding="async" width="234" height="220" class="mw-file-element" data-file-width="234" data-file-height="220" /></a><figcaption></figcaption></figure>
+<p>— Когда я&#160;гляжу на&#160;этих людей, мне кажется, что&#160;я у&#160;себя в&#160;мертвецкой.
+</p><p>— А&#160;мне кажется, что&#160;все это натурщики.
+</p>
+<center>АНАТОМ ГРУБЕР ВИНОВАТ</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0905----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/5/57/Chehow_a_p_text_0032_ris-0905----.jpg" decoding="async" width="220" height="212" class="mw-file-element" data-file-width="220" data-file-height="212" /></a><figcaption></figcaption></figure>
+<p>— Не беспокойте ее, господа! Уйдемте из&#160;комнаты…
+</p><p>У&#160;нее, у&#160;бедняжки, семейное несчастье! Ее муж получил из&#160;анатомии двойку!
+</p>
+<center>УЧЕНЫЙ ЛОВЕЛАС</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-0906----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/e/ea/Chehow_a_p_text_0032_ris-0906----.jpg" decoding="async" width="222" height="200" class="mw-file-element" data-file-width="222" data-file-height="200" /></a><figcaption></figcaption></figure>
+<p>— Хе-хе-хе… Я&#160;ее зазвал… угостил ужином и&#160;шампанским… Браслетку ей пообещал купить… А&#160;когда она опьянела и&#160;склонилась ко&#160;мне на&#160;грудь, я&#160;взял да&#160;и измерил ее череп! Прекрасный галльский тип! Вы знаете, чему равен задне-передний диаметр ее черепа?
+</p><p>Вы не&#160;поверите!
+</p><p><i><a href="#39">Примечания</a></i> &gt;
+</p><p><span id="10"></span>
+</p><p>&lt;div &lt;p="" align="center"&gt;<b>ЖЕНЩИНА-КЛАССИК</b>
+Тема А. ЧЕХОНТЕ. Рисунок А. И. ЛЕБЕДЕВА.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1001----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/0/06/Chehow_a_p_text_0032_ris-1001----.jpg" decoding="async" width="406" height="614" class="mw-file-element" data-file-width="406" data-file-height="614" /></a><figcaption></figcaption></figure>
+</div>
+<p>— У&#160;вас страшное декольте! И&#160;вам не&#160;стыдно в&#160;таком костюме, в&#160;нашем обществе?
+</p><p>— Нисколько! Римлянки не&#160;стыдились раздеваться и&#160;даже купаться при&#160;рабах. Я&#160;подражаю римским матронам.
+</p><p><i><a href="#40">Примечания</a></i>
+</p><p><span id="11"></span>
+</p>
+<center><b>САМАЯ БЕДНАЯ БЕДНОСТЬ</b></center>
+<center>Тема А. ЧЕХОНТЕ. Рисунок А. И. ЛЕБЕДЕВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1101----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/1/1b/Chehow_a_p_text_0032_ris-1101----.jpg" decoding="async" width="442" height="493" class="mw-file-element" data-file-width="442" data-file-height="493" /></a><figcaption></figcaption></figure>
+<center>Пошел&#160;бы&#160;по миру, да&#160;подходящего костюма нет!</center>
+<p><i><a href="#41">Примечания</a></i>
+</p><p><span id="12"></span>
+</p>
+<center><b>DIE RUSSISCHE NATUR</b></center>
+<center>Рисунок H. ЧЕХОВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1201----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/d/d3/Chehow_a_p_text_0032_ris-1201----.jpg" decoding="async" width="434" height="297" class="mw-file-element" data-file-width="434" data-file-height="297" /></a><figcaption></figcaption></figure>
+<p>Один честный, но&#160;глупый немец, патриот и&#160;большой любитель всего прекрасного, раскрыл однажды какую-то&#160;русскую книгу и&#160;на стр.&#160;83 прочел следующее:
+</p><p>«Был вечер… Солнце заходило и&#160;обливало золотистым пурпуром землю. Легкий зефир нежно колыхал спеющую рожь. В&#160;воздухе стоял вечерний концерт… Пели птицы… В&#160;синеве неба <i>висел</i> неподвижно жаворонок и&#160;щебетал свою звонкую песню. В&#160;траве трещали <i>кузнечики</i>, тянули свою однообразную песню <i>скрипачи</i>… На&#160;листьях, сверкавших росой, ползали божьи <i>коровки</i>… С&#160;цветка на&#160;цветок порхали чудные <i>бабочки</i>…»
+</p><p>Это поэтическое описание произвело сильное впечатление на&#160;любителя всего прекрасного… Глубоко вздохнув, он&#160;взял в&#160;руки немецко-русский словарь и&#160;занялся переводом… Перевод вышел точный, буквальный, как&#160;все немецкое… Честный патриот, однако, не&#160;довольствовался одним переводом. Он&#160;еще раз вдохновился, взял в&#160;руки карандаш и&#160;создал… Создав, он&#160;выпил пива…
+</p><p>Его создание и&#160;предлагаем на&#160;рассмотрение поклонников хорошей живописи.
+</p><p><i><a href="#42">Примечания</a></i>
+</p><p><span id="13"></span>
+</p>
+<center><b>СОВРЕМЕННАЯ МАРГАРИТА</b></center>
+<center>Тема А. ЧЕХОНТЕ. Рисунок В. И. ПОРФИРЬЕВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1301----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/3/3f/Chehow_a_p_text_0032_ris-1301----.jpg" decoding="async" width="464" height="566" class="mw-file-element" data-file-width="464" data-file-height="566" /></a><figcaption></figcaption></figure>
+<p>— Ведь ты Маргарита… Где&#160;же твой жених Фауст?
+</p><p>— Видишь&#160;ли, голубчик… Хотя мой папаша был сыщиком и&#160;нашел много воров и&#160;мошенников, но&#160;не мог найти мне ни&#160;одного жениха… Из&#160;этого я&#160;заключаю, что&#160;теперь гораздо больше воров, чем женихов…
+</p><p><i><a href="#43">Примечания</a></i>
+</p><p><span id="14"></span>
+</p>
+<center><b>«КАК МИЛА ТЫ СЕГОДНЯ'</b><i>…'</i><b>»</b></center>
+<center>Рисунок Н. ЧЕХОВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1401----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/b/bb/Chehow_a_p_text_0032_ris-1401----.jpg" decoding="async" width="488" height="399" class="mw-file-element" data-file-width="488" data-file-height="399" /></a><figcaption></figcaption></figure>
+<p>— Как&#160;мила ты сегодня, сестренка! Как&#160;хороша! Твои глазки светятся таким умом и&#160;такой добротой, что, будь я&#160;мужчиной, я&#160;тебя каждый день угощала&#160;бы&#160;ужином! К&#160;тебе так идут эта бледность, грустное выражение лица, эти слезинки на&#160;ресницах, что&#160;я готова утопить тебя в&#160;шампанском! Зачем я&#160;не мужчина!?
+</p><p><i><a href="#44">Примечания</a></i>
+</p><p><span id="15"></span>
+</p>
+<center><b>ТРОИЦЫН ДЕНЬ</b></center>
+<center>Рисунок К. А. ТРУТОВСКОГО.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1501----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/3/37/Chehow_a_p_text_0032_ris-1501----.jpg" decoding="async" width="482" height="570" class="mw-file-element" data-file-width="482" data-file-height="570" /></a><figcaption></figcaption></figure>
+<p>Наша поэтическая Малороссия любит Троицын день. Ее песни и&#160;обычаи из&#160;всех весенних дней отдают преимущество этому хорошему дню — и&#160;недаром. Можно держать пари, что&#160;в то&#160;время, когда мы&#160;видим зелень только на&#160;зеленых материях и&#160;в зеленых чертиках дачного винопийства, там, в&#160;Хохландии, к&#160;этому дню уже успела развернуться во&#160;всей своей красоте весна. Там пахнет теперь сиренью; черемухой и&#160;акацией. Земля не&#160;грязна, не&#160;холодна, как&#160;у нас; в&#160;речках за&#160;зеленеющим камышом от&#160;утра до&#160;ночи уже горланят купающиеся парни и&#160;девки. Соловей спел уже свои лучшие романсы, а&#160;у степного донжуана — перепела уже начинает испаряться благородная страсть, ради которой он&#160;кричит день и&#160;ночь. Там только и&#160;возможен обычай, с&#160;которым знакомит читателя рисунок талантливого К. А. Трутовского. Этот интересный обычай заключается в&#160;следующем: девки плетут из&#160;цветов венки, идут к&#160;реке и&#160;бросают их в&#160;воду. В&#160;какую сторону венок поплывет, в&#160;той стороне и&#160;суженый живет. Коротко, ясно и&#160;просто. Тут вы имеете компас в&#160;его примитивной форме. Открыть Америку с&#160;ним едва&#160;ли&#160;можно, но&#160;зато будущее угадать очень нетрудно. Так, если венок плывет, то&#160;девке быть замужем во&#160;что&#160;бы&#160;то ни&#160;стало; если&#160;же в&#160;воздухе нет ветра и&#160;венок неподвижен, то&#160;гадальщице остается только повесить нос и&#160;разреветься: она не&#160;вкусит сладостей Гименея. Если в&#160;прошлом году венок плыл направо, а&#160;в этом году плывет налево, то&#160;это значит, что&#160;чубатый «он» за&#160;этот год справа налево переселился. Если венок поплывет и&#160;его съест корова, то&#160;из этого не&#160;следует, что&#160;жених обитает в&#160;коровьем желудке. Если венок плывет направо, потом налево, потом опять направо и&#160;начнет таким образом «ковылять», то&#160;быть гадальщице в&#160;солдатках и&#160;соломенных вдовах, и&#160;т. д.
+</p><p><i><a href="#45">Примечания</a></i>
+</p><p><span id="16"></span>
+</p>
+<center><b>СОН ЗОЛОТЫХ ЮНЦОВ</b></center>
+<center><b>ВО ВРЕМЯ</b> <b>НОЯБРЬСКОГО НАБОРА</b></center>
+<center>Тема Ан. Ч. Рисунок В. И. ПОРФИРЬЕВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1601----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/5/59/Chehow_a_p_text_0032_ris-1601----.jpg" decoding="async" width="435" height="500" class="mw-file-element" data-file-width="435" data-file-height="500" /></a><figcaption></figcaption></figure>
+<p>…и&#160;снятся им приятные сны. Снится, что&#160;перед освидетельствованием для&#160;приема в&#160;число военных новобранцев они&#160;похудели, как&#160;спички, что&#160;рост их в&#160;десять раз превышает объем груди, что&#160;во рту недостает по&#160;тринадцати зубов, что&#160;они оказались страдающими пороком сердца, что&#160;Сюзетта откусила палец, о&#160;чем составлен законный полицейский протокол. Вместе с&#160;тем глаза их так близоруки, что&#160;они принуждены носить очки с&#160;зажигательными стеклами. Одним словом, воинское присутствие отказалось принять их в&#160;солдаты. Счастливые!
+</p><p><i><a href="#46">Примечания</a></i>
+</p><p><span id="17"></span>
+</p>
+<center><b>ПОЧЕРК ПО ЧИНУ,</b></center>
+<center><b>или&#160;МЕТАМОРФОЗЫ ПОДПИСИ КАРАМБОЛЕВА</b></center>
+<center>Тема А. Ч. Рисунки А. И. ЛЕБЕДЕВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1701----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/4/42/Chehow_a_p_text_0032_ris-1701----.jpg" decoding="async" width="448" height="770" class="mw-file-element" data-file-width="404" data-file-height="694" /></a><figcaption></figcaption></figure>
+<p><i><a href="#47">Примечания</a></i>
+</p><p><span id="18"></span>
+</p>
+<center><b>АПТЕКАРСКАЯ ТАКСА</b></center>
+<center>Тема А. Ч. Рисунок В. И. ПОРФИРЬЕВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1801----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/c/c3/Chehow_a_p_text_0032_ris-1801----.jpg" decoding="async" width="434" height="505" class="mw-file-element" data-file-width="434" data-file-height="505" /></a><figcaption></figcaption></figure>
+<p>— Батюшки! Иван Иванович! В&#160;каком вы виде!!
+</p><p>— Жена заболела… в&#160;аптеке был… Микстуру для&#160;нее нужно было взять, да&#160;вот порошки… Спасибо — мне, по&#160;знакомству, скидку сделали: шляпу и&#160;галстук оставили… все-таки не&#160;так совестно, знаете&#160;ли, в&#160;галстуке…
+</p><p><i><a href="#48">Примечания</a></i>
+</p><p><span id="19"></span>
+</p>
+<center><b>РАСПЕРЕКАНАЛЬСТВО!!</b></center>
+<center>Тема А. ЧЕХОНТЕ. Рисунки М.&#160;М. ДАЛЬКЕВИЧА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1901----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/3/36/Chehow_a_p_text_0032_ris-1901----.jpg" decoding="async" width="238" height="252" class="mw-file-element" data-file-width="238" data-file-height="252" /></a><figcaption></figcaption></figure>
+<p>— 500 афганцев! Эка невидаль! Послушайте-ка, что&#160;я вам расскажу, так это будет почище всякого Герата!
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1902----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/6/66/Chehow_a_p_text_0032_ris-1902----.jpg" decoding="async" width="286" height="234" class="mw-file-element" data-file-width="286" data-file-height="234" /></a><figcaption></figcaption></figure>
+<p>— В 18** году я&#160;вступал со своим полком в&#160;город Наплюйск, имеющий 5375 жителей. Мои музыканты наяривали марш из «Бокачио» с&#160;таким усердием, что&#160;кровавый пот тек даже с&#160;их лошадей. Обыватели, а&#160;в особенности обывательницы, были в&#160;восторге.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1903----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/c/ce/Chehow_a_p_text_0032_ris-1903----.jpg" decoding="async" width="244" height="224" class="mw-file-element" data-file-width="244" data-file-height="224" /></a><figcaption></figcaption></figure>
+<p>— Через&#160;час я&#160;сидел у&#160;окна отведенной мне квартиры и&#160;обозревал местность. Глаза мои мозолил мой vis-а-vis — полуразвалившийся, сгнивший домишко с&#160;вывеской «Повивальная бабка». Стало быть, решил я, здешние повитухи имеют плохой заработок, иначе&#160;бы&#160;не жили так по-свински. Черррт возьми, нужно поддержать промышленность!
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1904----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/5/5d/Chehow_a_p_text_0032_ris-1904----.jpg" decoding="async" width="296" height="229" class="mw-file-element" data-file-width="296" data-file-height="229" /></a><figcaption></figcaption></figure>
+<p>Улица.
+</p><p>— Я&#160;ходил по&#160;городу и&#160;производил рекогносцировку. Помпошки и&#160;амурчики попадались на&#160;каждом шагу, одна другой лучше. Глаза мои не&#160;успевали подмигивать. Поручик Дерябкин, шельма, лез уже через&#160;забор, а&#160;каналья фельдфебель шел с&#160;какими-то&#160;двумя толстыми бабами… Поощряю.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1905----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/9/98/Chehow_a_p_text_0032_ris-1905----.jpg" decoding="async" width="256" height="250" class="mw-file-element" data-file-width="256" data-file-height="250" /></a><figcaption></figcaption></figure>
+<p>— Прошло полтора года. Я&#160;сидел у&#160;того&#160;же окна и&#160;обозревал. Ветхий домишко превратился уже а&#160;большой двухэтажный дом. Повитуха глядит на&#160;меня в&#160;свое окно, кланяется и&#160;говорит: «Благодетели вы наши!» Удивительно, что&#160;может сделать один энергичный начальник!
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-1906----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/0/01/Chehow_a_p_text_0032_ris-1906----.jpg" decoding="async" width="315" height="243" class="mw-file-element" data-file-width="315" data-file-height="243" /></a><figcaption></figcaption></figure>
+<p>— Через 2&#160;года мой полк выступает из&#160;Наплюйска. Музыканты валяют марш дефиле. <i><sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></i> Оставил я&#160;Наплюйск, когда в&#160;нем было уже 11000 жителей. А&#160;вы еще говорите про&#160;Герат да 500 афганцев! Эка невидаль!
+</p><p><i><a href="#49">Примечания</a></i>
+</p><p><span id="20"></span>
+</p>
+<center><b>ШЛЯПНЫЙ СЕЗОН</b></center>
+<center>Тема А. Ч. Рисунки А. И. ЛЕБЕДЕВА.</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-2001----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/f/f9/Chehow_a_p_text_0032_ris-2001----.jpg" decoding="async" width="267" height="204" class="mw-file-element" data-file-width="267" data-file-height="204" /></a><figcaption></figcaption></figure>
+<p>Жил-был на&#160;свете дурак Иван Иваныч. Когда наступила весна, он&#160;купил себе шляпу а la Van-Dyck и&#160;был очень счастлив, потому что&#160;эта шляпа очень идет брюнетам. Но, к&#160;сожалению, он&#160;был мнителен и&#160;скоро поддавался сторонним влияниям.
+</p><p>— Вы сошли, батенька, с&#160;ума! — сказал ему один его приятель. — Нешто вы не&#160;знаете, кто теперь носит широкие поля?! Вы&#160;бы&#160;еще фригийскую шапку надели!!
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-2002----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/c/c3/Chehow_a_p_text_0032_ris-2002----.jpg" decoding="async" width="229" height="189" class="mw-file-element" data-file-width="229" data-file-height="189" /></a><figcaption></figcaption></figure>
+<p>Иван Иваныч струсил и&#160;купил себе картуз. Но&#160;не&#160;долго он&#160;был покоен…
+</p><p>— В&#160;народники записались? — поддразнил его один знакомый старичок. — Хе-хе-хе… Ужо, погодите, расскажу, кому следует!
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-2003----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/8/8f/Chehow_a_p_text_0032_ris-2003----.jpg" decoding="async" width="241" height="173" class="mw-file-element" data-file-width="241" data-file-height="173" /></a><figcaption></figcaption></figure>
+<p>Знакомый шутил, но&#160;на всякий случай Иван Иваныч спрятал картуз и&#160;купил себе цилиндр. Цилиндр ему, как&#160;видите, очень к&#160;лицу, но… нужно&#160;же ему было встретиться с&#160;двоюродным братом!
+</p><p>— Что&#160;это ты, чучело, в&#160;цилиндр нарядился? — сказал брат. — Кто&#160;же теперь цилиндры носит? Старики да&#160;фаты!
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-2004----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/0/05/Chehow_a_p_text_0032_ris-2004----.jpg" decoding="async" width="328" height="170" class="mw-file-element" data-file-width="328" data-file-height="170" /></a><figcaption></figcaption></figure>
+<p>Чтобы не&#160;казаться фатом, Иван Иваныч купил белую фуражку с&#160;кокардой. Состоя в&#160;чине коллежского регистратора, он&#160;имел право носить кокарду…
+</p><p>— Какой вы, однако, честолюбец! — сказали ему барышни.
+</p><p>— Бюрократ! — прошипел один семинарист, читавший Милля и&#160;Бокля.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-2005----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/1/19/Chehow_a_p_text_0032_ris-2005----.jpg" decoding="async" width="371" height="153" class="mw-file-element" data-file-width="371" data-file-height="153" /></a><figcaption></figcaption></figure>
+<p>Что&#160;тут делать? Иван Иваныч оставил фуражку с&#160;кокардой, стал ходить по&#160;шляпным магазинам и&#160;покупать подходящие шляпы. Купил круглую котелком — ему сказали, что&#160;она ему не&#160;к лицу. Купил шляпу из&#160;панамской соломы — его пристыдили, сказав, что&#160;в наше время не&#160;патриотично носить шляпы английской работы и&#160;к тому&#160;же еще из&#160;республиканской соломы, надел треуголку — ему сказали, что&#160;треуголки носят только в&#160;табельные дни… Долго шатался он&#160;по магазинам, долго менял шляпы, наконец ошалел, плюнул и&#160;стал ходить по&#160;городу без&#160;шляпы.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-2006----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/e/ee/Chehow_a_p_text_0032_ris-2006----.jpg" decoding="async" width="240" height="156" class="mw-file-element" data-file-width="240" data-file-height="156" /></a><figcaption></figcaption></figure>
+<p>Два дня проходил он&#160;таким образом, но&#160;на третий день городовой вежливо заметил ему, что&#160;так невозможно, что&#160;в благоустроенном государстве нельзя ходить по&#160;улицам без&#160;шапки: что&#160;иностранцы подумают?
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-2007----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/thumb/0/0b/Chehow_a_p_text_0032_ris-2007----.jpg/297px-Chehow_a_p_text_0032_ris-2007----.jpg" decoding="async" width="277" height="202" class="mw-file-element" srcset="//upload.wikimedia.org/wikisource/ru/0/0b/Chehow_a_p_text_0032_ris-2007----.jpg 1.5x" data-file-width="297" data-file-height="217" /></a><figcaption></figcaption></figure>
+<p>И, не&#160;зная, что&#160;делать, в&#160;отчаянии, пришел он&#160;домой и, остановившись перед&#160;портретом дорогого существа, выстрелил себе в&#160;висок. Мир праху твоему, честный труженик!
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chehow_a_p_text_0032_ris-2008----.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/a/a5/Chehow_a_p_text_0032_ris-2008----.jpg" decoding="async" width="316" height="218" class="mw-file-element" data-file-width="316" data-file-height="218" /></a><figcaption></figcaption></figure>
+<p>И&#160;после смерти злая судьба не&#160;оставила его в&#160;покое. Явился в&#160;его квартиру судебный пристав и&#160;продал с&#160;аукциона все шляпы, оставшиеся после покойного. Было выручено 101&#160;р. 82&#160;к.
+</p><p><i><a href="#50">Примечания</a></i>
+</p><p><span id="21"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ПРИМЕЧАНИЯ"><span id=".D0.9F.D0.A0.D0.98.D0.9C.D0.95.D0.A7.D0.90.D0.9D.D0.98.D0.AF"></span>ПРИМЕЧАНИЯ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)&amp;action=edit&amp;section=1" title="Редактировать раздел «ПРИМЕЧАНИЯ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<center><b>УСЛОВНЫЕ СОКРАЩЕНИЯ</b></center>
+<center><i>Архивохранилища</i></center>
+<p><i>ГБЛ</i> — Государственная библиотека СССР имени В. И. Ленина (Москва).
+</p><p><i>ГЛМ</i> — Государственный литературный музей (Москва).
+</p><p><i>ГМТ</i> — Государственный музей Л. Н. Толстого (Москва).
+</p><p><i>ГЦТМ</i> — Государственный центральный театральный музей имени А. А. Бахрушина (Москва).
+</p><p><i>ИРЛИ</i> — Институт русской литературы Академии наук СССР (Ленинград).
+</p><p><i>ЦГАЛИ</i> — Центральный государственный архив литературы и&#160;искусства (Москва).
+</p><p><i>ЦГАМ</i> — Центральный государственный архив г.&#160;Москвы.
+</p><p><i>ЦГИАЛ</i> — Центральный государственный исторический архив в&#160;Ленинграде.
+</p>
+<center><i>Печатные источники</i></center>
+<p>В&#160;ссылках на&#160;настоящее издание указываются серия (Сочинения или&#160;Письма) и&#160;том (соответственно — римскими или&#160;арабскими цифрами).
+</p><p><i>Антон Чехов и&#160;его сюжеты</i> — М.&#160;П. Чехов. Антон Чехов и&#160;его сюжеты. М., 1923.
+</p><p><i>Вокруг Чехова</i> — М.&#160;П. Чехов. Вокруг Чехова. Встречи и&#160;впечатления. Изд. 4-е. М., 1964.
+</p><p><i>ЛН</i> — Литературное наследство. Т.&#160;68. Чехов. М., изд-во&#160;АН СССР, 1960.
+</p><p><i>Письма Ал. Чехова</i> — Письма А. П. Чехову его брата Александра Чехова. Подготовка текста писем к&#160;печати, вступительная статья и&#160;комментарии И. С.&#160;Ежова. Всес. б-ка им. В. И. Ленина. М., 1939.
+</p><p><i>ПР<sub>1-14</sub></i> — А. Чехонте (Ан. П. Чехов). Пестрые рассказы. Издание журнала «Осколки». СПб., 1886; Антон Чехов. Пестрые рассказы. Изд. 2-е, исправленное. Изд. и&#160;тип. А. Суворина. СПб., 1891; изд. 3-е, 1892; изд. 4-е, 1893; изд. 5-е, 1894; изд. 6-е, 1895; изд. 7-е, 1895; изд. 8-е, 1896; изд. 9-е, 1897; изд. 10-е, 1897; изд. 11-е, 1898; изд. 12-е, 1898; изд. 13-е, 1899; изд. 14-е, 1899,
+</p><p><i>ПСС</i> — А. П. Чехов. Полное собрание сочинений под&#160;ред. А. В. Луначарского и&#160;С.&#160;Д. Балухатого. Тт. 1-12. М.-Л., Госиздат, 1930—1933.
+</p><p><i>ПССП</i> — А. П. Чехов. Полное собрание сочинений и&#160;писем. Тт. I—XX. М., Гослитиздат, 1944—1951.
+</p><p><i>Чехов</i> — Антон Чехов. Рассказы. Изд. А. Ф. Маркса. СПб., 1899 (Сочинения, том I); Повести и&#160;рассказы. СПб., 1900 (Сочи нения, том II); Рассказы. СПб., 1901 (Сочинения, том III).
+</p><p><i>Чехов в&#160;воспоминаниях современников</i> — Чехов в&#160;воспоминаниях современников. Изд. 4-е. М., Гослитиздат, 1960.
+</p><p><i>Чехов, Лит. архив</i> — А. П. Чехов. Сборник документов и&#160;материалов. Подготовили к&#160;печати П. С.&#160;Попов и&#160;И. В. Федоров. Под&#160;общей ред. А. Б. Дермана. М., Гослитиздат, 1947 (Литературный архив, т.&#160;1).
+</p><p>Раздел «Подписи к&#160;рисункам» подготовили М.&#160;П. Громов, Л. М.&#160;Долотова, М.&#160;А. Соколова, А. П. Чудаков.
+</p>
+<center><b>ПОДПИСИ К&#160;РИСУНКАМ</b></center>
+<center><b>1881-1885</b></center>
+<p><span id="31"></span>
+</p>
+<center><b>СВАДЕБНЫЙ СЕЗОН</b></center>
+<p>Впервые — «Зритель», 1881, № 18 (ценз. разр. 10 ноября), стр.&#160;4-5. Подпись: Сочинял Антоша Ч. Рисовал Н. Чехов. В&#160;журнале подписи под&#160;рисунками воспроизведены факсимильно.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p>Летом 1881&#160;г.&#160;А. П. и&#160;Н. П. Чеховы приехали в&#160;Таганрог, «где они&#160;и попали на&#160;свадьбу &lt;…&gt; и&#160;даже были шаферами &lt;…&gt; Плодом этой поездки была потом большая, in folio (в&#160;лист) карикатура, рисованная Николаем, с&#160;текстом Антоши Ч.» (М. П. Чехов. Антон Чехов на&#160;каникулах. — В&#160;кн. «Чехов в&#160;воспоминаниях современников», Гослитиздат, М., 1954, стр.&#160;74-75).
+</p><p>О&#160;реакции таганрожцев, задетых юмореской «Свадебный сезон», Ал. П. Чехов писал: «Здесь на&#160;эту карикатуру смотрят как&#160;на выражение чернейшей неблагодарности за&#160;гостеприимство» (<i>Письма Ал. Чехова</i>, стр.&#160;69).
+</p><p>Стр.&#160;452. <i><b>…буянившего Митрофана Егорыча…</b></i> — М.&#160;Е. Чехов, дядя А. П. Чехова.
+</p><p><i><b>Николай Стаматич</b></i> — таганрогский маклер, знакомый семьи Чеховых.
+</p><p><i><b>Будем&#160;же, пока молоды, нашептывать баллады женскому полонезу и&#160;глотать метралъезы любви.</b></i> — Митральезой (франц. mitrailleuse) называли скорострельную пушку, картечницу, пулемет. В&#160;абсурдной речи персонажа — Николая Стаматича — митральеза, очевидно, означает нечто, дышащее огнем и&#160;пламенем. Кроме того — это «модное» иностранное словечко (как «индифферентизм»); в 1880&#160;г. газеты рекламировали берлинские патентованные лампы под&#160;названием «митральезы» (см., например, «Современные известия», 1880, № 71, 13 марта). В&#160;словаре Чехова слово «метральеза» встречается еще один раз — в&#160;черновой редакции пятнадцатого очерка «Осколков московской жизни»: «Не вывезли такие метральезы, как „Бродяга“ и „Путешествие“» (т.&#160;16, стр.&#160;380). Обе пьесы — «Лесной бродяга» и «Путешествие па Луну» — Чехов оценивает сходным образом: «пороховая дребедень», «пьеса эта грандиозна, помпозна &lt;…&gt; и&#160;трескуча» (стр.&#160;65 и 74).
+</p><p><span id="32"></span>
+</p>
+<center><b>К&#160;СВЕДЕНИЮ ТРУТНЕЙ</b></center>
+<p>Впервые — «Осколки», 1883, № 13, 26 марта (ценз. разр. 24 марта), стр.&#160;1 (обложка). Подпись: Человек без&#160;селезенки.
+</p><p>Сохранился черновой автограф (<i>ЦГАЛИ</i>).
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p>Написано Чеховым в&#160;начале января 1883&#160;г. «Вещичку Вашу „К&#160;сведению трутней“, — писал Лейкин 9 января 1883&#160;г., — дал иллюстрировать большим рисунком художнику А. И. Лебедеву» (<i>ЦГАЛИ</i>). Как&#160;видно из&#160;письма Лейкина от 3 февраля, юмореска была задумана Чеховым как&#160;самостоятельная, а&#160;не как&#160;подпись к&#160;рисунку: «К&#160;Вашему рассказцу „Трутни“ Порфирьев сделал отличный рисунок» (<i>ГБЛ</i>). Журнальный вариант был приспособлен к&#160;тому, чтобы служить в&#160;качестве подписи. В&#160;черновой&#160;же рукописи (см. варианты) содержатся черты повествовательного жанра, впоследствии устраненные: вводные авторские слова, характеризующие обстановку, заключительная сентенция, более пространные диалогические реплики.
+</p><p><span id="33"></span>
+</p>
+<center><b>ВАГОННОЕ ОСВЕЩЕНИЕ</b></center>
+<p>Впервые — «Осколки», 1883, № 5, 29 января (ценз. разр. 28 января), стр.&#160;7. Подпись: Рисун. А. И. Лебедева.- Тема А. Чехонте.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p>Очевидно, к&#160;этой подписи (вместе с&#160;одной из&#160;двух, помещенных в № 6 «Осколков») относятся слова Лейкина в&#160;письме Чехову от 9 января 1883&#160;г.: «Беден я&#160;и подписями к&#160;рисункам. Какие Вы прислали — теми воспользовался». О&#160;всех других подписях, посланных в&#160;январе, есть особые упоминания в&#160;письмах Лейкина (см. примечания к&#160;рис. «На&#160;вечеринке», «На&#160;Луне»).
+</p><p><span id="34"></span>
+</p>
+<center><b>ИЗ ТЕАТРАЛЬНОГО МИРА</b></center>
+<p>Впервые — «Осколки», 1883, № 6, 5 февраля (ценз. разр. 4 февраля), стр.&#160;2. Подпись — общая к&#160;двум рисункам — «Из&#160;театрального мира» и «На&#160;вечеринке»: Рисун. В. И. Порфирьева. — Темы А. Чехонте.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p>Одна из&#160;двух тем — «На&#160;вечеринке» или «Из&#160;театрального мира» — была послана Чеховым Лейкину в&#160;начале января (см. комментарий к «Вагонному освещению»). Другая отправлена с&#160;письмом от 12 января. «За&#160;темы к&#160;рисункам сердечно благодарю, — писал Лейкин в&#160;ответном письме от 20 января. — Одну из&#160;них дал рисовать В. И. Порфирьеву». Других тем Чехова с&#160;рисунками В. Порфирьева в «Осколках» в&#160;январе и&#160;феврале не&#160;появлялось.
+</p><p><span id="35"></span>
+</p>
+<center><b>НА ВЕЧЕРИНКЕ</b></center>
+<p>Впервые — «Осколки», 1883, № 6, 5 февраля (ценз. разр. 4 февраля), стр.&#160;2. О&#160;подписи — см. примечания к&#160;рис. «Из&#160;театрального мира».
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p><span id="36"></span>
+</p>
+<center><b>НА ЛУНЕ</b></center>
+<p>Впервые — «Осколки», 1885, № 25, 22 июня (ценз. разр. 21 июня), стр.&#160;1 (обложка). Подпись: Рисун. В. И. Порфирьева. Тема Ан. Ч-е.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p>Первый, не&#160;дошедший до&#160;нас вариант подписи к&#160;рисунку датируется 12 января 1883&#160;г., второй — 6 февраля 1883&#160;г. 12 января 1883&#160;г.&#160;Чехов послал Лейкину вместе с&#160;рассказами тему для&#160;рисунка о&#160;пожаре цирка в&#160;Бердичеве (подробные сообщения о&#160;пожаре появились в&#160;столичной печати уже через&#160;несколько дней после пожара, случившегося 1 января). Лейкин сначала предполагал использовать тему в&#160;очередном номере «Осколков». 20 января 1883&#160;г. он&#160;писал Чехову: «Тему&#160;же о&#160;пожаре цирка в&#160;Бердичеве постараюсь утилизировать для № 5 моего журнала» (<i>ГБЛ</i>). Однако 3 февраля вернул текст Чехову: «Пользуюсь случаем переслать Вам обратно тему о&#160;пожаре цирка бердичевского. Дело в&#160;том, что&#160;мои художники не&#160;нашлись, как&#160;рисовать на&#160;эту тему. Порфирьев попробовал было, но&#160;испортил. А&#160;теперь уже рисовать на&#160;эту тему поздно» (там&#160;же). Но&#160;в&#160;письме от 8 февраля 1883&#160;г.&#160;Лейкин вновь возвратился к&#160;этому вопросу: «Дам В. И. Порфирьеву Ваш набросок о „лунных“ астрономах, но&#160;не знаю, не&#160;поздно&#160;ли&#160;будет помещать рисунок о&#160;пожаре цирка в&#160;Бердичеве. Впрочем, я&#160;полагаю, рисунок может долежать до&#160;нового пожара, и&#160;не залежится. Ведь у&#160;нас „красный петух“ не&#160;редкость» (там&#160;же).
+</p><p>Чехов мог переправить подпись обратно Лейкину только вместе с «большим присылом» от 6 февраля, сделав ее более подходящей для&#160;иллюстрирования. Рисунок действительно долежал «до&#160;нового пожара» и&#160;был опубликован в 1885&#160;году.
+</p><p>«На&#160;Луне» — это, несомненно, та самая подпись, о&#160;которой идет речь в&#160;письмах Лейкина 1883&#160;г.&#160;В&#160;ней говорится о&#160;пожаре и&#160;лунных астрономах, упоминаемых Лейкиным. Кроме того, в&#160;подписи сказано: «Я&#160;полагаю, что&#160;случись такой страшный пожар, то&#160;люди забегали&#160;бы, засуетились, начали&#160;бы&#160;собирать подписки на&#160;помощь несчастным погорельцам, образовались&#160;бы&#160;благотворительные комитеты (…) А&#160;этого ничего нет». Ср. в&#160;письме Лейкина от 3 февраля 1883&#160;г.: «А&#160;теперь уже рисовать на&#160;эту тему поздно. В&#160;пользу погорельцев начались даваться спектакли и&#160;концерты».
+</p><p>30 мая 1885&#160;г. в&#160;Гродно случился большой пожар, уничтоживший в&#160;несколько часов три четверти города («Московские ведомости», № 148, 31 мая 1885&#160;г.; «Московский листок», № 153, 4 июня 1885&#160;г.). После этого Лейкин смог дать подпись, заменив Бердичев на&#160;Гродно. Вероятно, тогда&#160;же был вставлен подзаголовок, которого не&#160;могло быть в&#160;первоначальном тексте, так как&#160;премьера оперетты Лентовского «Путешествие на&#160;Луну» состоялась 16 декабря 1883&#160;г.
+</p><p><span id="37"></span>
+</p>
+<center><b>ПОЭТИЧЕСКИЕ ГРЕЗЫ</b></center>
+<p>Впервые — «Осколки», 1883, № 8, 19 февраля (ценз. разр. 18 февраля), стр.&#160;2. Подпись: Рисун. А. И. Лебедева. — Тема А. Чехонте.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p><span id="38"></span>
+</p>
+<center><b>&lt;ТРИ РИСУНКА&gt;</b></center>
+<p>Впервые — «Осколки», 1883, № 8, 19 февраля (ценз. разр. 18 февраля), стр.&#160;7. Подпись: Рисун. Н. А. Богданова. — Темы А. Чехонте.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p><span id="39"></span>
+</p>
+<center><b>В&#160;УЧЕНОМ МИРЕ</b></center>
+<p>Впервые — «Осколки», 1883, № 10, 5 марта (ценз. разр. 4 марта), стр.&#160;7. Подпись: Рисун. В. И. Порфирьева. — Тема А. Чехонте.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p>Серия подписей к&#160;рисункам, объединенных одной темой, — характерный жанр юмористической журналистики 80-х годов, особенно журнала «Осколки». Постоянны просьбы Лейкина в&#160;письмах к&#160;Чехову о&#160;темах для&#160;рисунков и&#160;подписях к&#160;ним. В 1883&#160;г.&#160;Чехов создал несколько таких серий (ем. в&#160;этом томе «Из&#160;театрального мира» и «Три рисунка»).
+</p><p>Стр.&#160;463. <i><b>Анатом Грубер виноват.</b></i> — В. Л. Грубер (1814—1890) — профессор анатомии С.-Петербургской медико-хирургической академии, основатель института практической анатомии при&#160;академии. К 1883&#160;г. был автором около 500 научных работ. По&#160;словам биографа, «испытания студентов, которые он&#160;производит, отличаются строгостью и&#160;требовательностью» («Иллюстрированный мир», 1882, № 15). «Он&#160;был строг, взыскателен», — писалось о&#160;Грубере и&#160;в некрологе («Исторический вестник», 1890, N И, стр.&#160;566—567).
+</p><p><span id="40"></span>
+</p>
+<center><b>ЖЕНЩИНА-КЛАССИК</b></center>
+<p>Впервые — «Осколки», 1883, № 11, 12 марта (ценз. разр. 11 марта), стр.&#160;2. Подпись". Рисун. А. И. Лебедева. — Тема А. Чехонте.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p><span id="41"></span>
+</p>
+<center><b>САМАЯ БЕДНАЯ БЕДНОСТЬ</b></center>
+<p>Впервые — «Осколки», 1884, № 8, 25 февраля (ценз. разр. 24 февраля), стр.&#160;1 (обложка). Подпись: Рисун. А. И. Лебедева. — Тема А. Чехонте.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p>Тема была послана Н. А. Лейкину еще в&#160;августе 1883&#160;г.&#160;В&#160;ответ 27 августа 1883&#160;г. он&#160;писал: «Вашу „бедную бедность“ я&#160;дал рисовать Лебедеву. Он&#160;сделал на&#160;целую страницу, но, по-моему, неважно. Рисунок „бедная бедность“ пойдет в&#160;запас и&#160;как вполне цензурный и&#160;несезонный будет лежать про&#160;всякий случай. Если захерит цензор идейную передовицу, назначенную в&#160;номер, ставить будет нечего — вот я&#160;и поставлю его. „Бедная бедность“ спасет тогда меня» (<i>ГБЛ</i>).
+</p><p><span id="42"></span>
+</p>
+<center><b>DIE KUSSISCHE NATUR</b></center>
+<p>Впервые — «Осколки», 1883, № 39, 24 сентября (ценз. разр. 23 сентября), стр.&#160;8. Подпись: А. Чехонте. Рисун. Н. Чехова.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p>5 сентября 1883&#160;г.&#160;Чехов писал Н. А. Лейкину: «Брат будет рисовать Вам по&#160;утвержденным редакцией темам. Сегодня он&#160;посылает один рисуночек на&#160;мою собственную тему &lt;…&gt; Посылаю при&#160;сем подпись к&#160;рисунку, который Вы получите вместе с&#160;этим письмом». Других рисунков Н. Чехова с&#160;подписью или&#160;темой Антона Чехова в 1883—1884&#160;годах в «Осколках» не&#160;появлялось.
+</p><p><span id="43"></span>
+</p>
+<center><b>СОВРЕМЕННАЯ МАРГАРИТА</b></center>
+<p>Впервые — «Осколки», 1884, № 3, 21 января (ценз. разр. 20 января), стр.&#160;1 (обложка). Подпись: А. Чехонте. Рисун. В. И. Порфирьева.
+</p><p>Печатается но&#160;журнальному тексту.
+</p><p><span id="44"></span>
+</p>
+<center><b>&lt;"КАК МИЛА ТЫ СЕГОДНЯ…"&gt;</b></center>
+<p>Впервые воспроизведено фототипически в&#160;журнале «Рампа и&#160;жизнь», 1914, № 28, 13 июля, стр.&#160;5, в&#160;качестве иллюстрации к&#160;анонимной публикации «Братья Н. и&#160;А. Чеховы. (Неизданное письмо А. П. Чехова)».
+</p><p>Печатается по&#160;автографу (<i>ГЛМ</i>; см. дополнение к&#160;тексту на&#160;стр.&#160;524).
+</p><p>На&#160;рисунке пометы: «Текст Антона Чехова», «Рис. Николая Чехова», «Свет и&#160;тени», «Дозволено цензурою, 1884&#160;г. февраля 4 дня. Цензор Егоров».
+</p><p>В <i>ПССП</i>, т. III, воспроизведено по&#160;журналу «Рампа и&#160;жизнь», с&#160;примечанием: «Тема Чехова для&#160;ж&lt;урнала&gt; „Осколки“, 1884, запрещенная цензурой» (стр.&#160;581). Однако следов этого рисунка нет ни&#160;в журналах заседаний С.-Петербургского цензурного комитета за 1884&#160;г., ни&#160;в деле журнала «Осколки» (<i>ЦГИАЛ</i>, ф. 777, оп. 27, д. 512, и&#160;оп. 3, д. 97). Судя по&#160;помете на&#160;автографе, рисунок предназначался для&#160;журнала «Свет и&#160;тени»; фамилия цензора — Егоров — указывает на&#160;то, что&#160;журнал был цензурован в&#160;Москве. В&#160;журнале заседаний Московского цензурного комитета сохранилась запись от 4 февраля: «1884&#160;г. февраля 4-го дня, в&#160;присутствие Московского комитета прибыли: Председательствующий действ, ст. сов. Вениамин Яковлевич Федоров. Цензоры: Ст. сов. Егоров &lt;…&gt; Из&#160;числа рассмотренных для&#160;иллюстрированных изданий карикатур две: 1) <i>Федор Мельницкий и&#160;бубновый туз</i> и 2) <i>Женщина равна мужчине</i> признаны неудобными для&#160;помещения в&#160;журнале „Свет и&#160;тени“ и&#160;удержаны при&#160;делах Комитета» (<i>ЦГАМ</i>, ф. 31, оп. 3, д. 2175, лл. 20 и 22). Очевидно, рисунок «Женщина равна мужчине», не&#160;сохранившийся в&#160;делах комитета, был именно рисунком с&#160;чеховской подписью.
+</p><p><span id="45"></span>
+</p>
+<center><b>ТРОИЦЫН ДЕНЬ</b></center>
+<p>Впервые — «Будильник», 1884, № 20 (ценз. разр. 24 мая), стр.&#160;240; подзаголовок: К&#160;рисунку К. А. Трутовского. Подпись: Брат моего брата. Рисунок — на&#160;стр.&#160;248; название: Троицын день в&#160;Малороссии; подпись: Оригинальный рисунок академика К. А. Трутовского.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p><span id="46"></span>
+</p>
+<center><b>СОН ЗОЛОТЫХ ЮНЦОВ ВО ВРЕМЯ НОЯБРЬСКОГО НАБОРА</b></center>
+<p>Впервые — «Осколки», 1884, № 47, 24 ноября (ценз. разр. 23 ноября), стр.&#160;1 (обложка). Под&#160;заглавием обозначено: Рисуй. В. И. Порфирьева. — Тема Ан. Ч.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p>Очевидно, тема была придумана Чеховым и&#160;сопровождена подписью около 4 ноября 1884&#160;г., когда Чехов писал Лейкину: «…фельетон будет выслан мною не&#160;сегодня в&#160;воскресенье, а&#160;завтра в&#160;понедельник &lt;…&gt; Вместе с&#160;фельетоном пришлю две темы…» Лейкин сообщал Чехову 10 ноября: «Получил Ваше письмо от 4 ноября. Спасибо за&#160;темы. Ведь вот нашлись&#160;же. А&#160;говорили, что&#160;не из&#160;пальцев&#160;же их высасывать &lt;…&gt; Темы и&#160;подписи отличные. Всеми ими воспользуемся» (<i>ГБЛ</i>). «Неужели Вам понравились мои темы? Я&#160;послал их не&#160;без колебания…» — отвечал Чехов Лейкину 11 ноября.
+</p><p><span id="47"></span>
+</p>
+<center><b>ПОЧЕРК ПО ЧИНУ,</b></center>
+<center><b>ИЛИ МЕТАМОРФОЗЫ ПОДПИСИ КАРАМБОЛЕВА</b></center>
+<p>Впервые — «Осколки», 1884, № 51, 22 декабря (ценз. разр. 21 декабря), стр.&#160;9. Под&#160;заглавием обозначено: Рисун. А. И. Лебедева. — Тема А. Ч.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p>Очевидно, эта тема была послана Чеховым в&#160;письме Лейкину от 4 ноября 1884&#160;г. (см. примечания к&#160;теме «Сон золотых юнцов во&#160;время ноябрьского набора»).
+</p><p><span id="48"></span>
+</p>
+<center><b>АПТЕКАРСКАЯ ТАКСА</b></center>
+<p>Впервые — «Осколки», 1885, № 15, 13 апреля (ценз. разр. 12 апреля), стр.&#160;1 (обложка). Подпись: Рисун. В. И. Порфирьева.- Тема А. Ч.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p>Хотя Чехов не&#160;раз отказывался придумывать подписи для&#160;рисунков, Лейкин почти в&#160;каждом письме просил его «понатужиться и&#160;высидеть что-нибудь по&#160;части подписей для&#160;рисунков и&#160;темок для&#160;передовиц». 6 марта 1885&#160;г.&#160;Лейкин писал: «Ведь не&#160;может быть, чтобы такому юмористу, как&#160;Вы, и&#160;такому находчивому, в&#160;течение почти полугода не&#160;пришла ни&#160;одна темка в&#160;голову…» 15/16 марта Лейкин, получив от&#160;Чехова неизвестную нам подпись, снова просил: «Тем и&#160;подписей! — восклицаю на&#160;прощание, пародируя „Panem et circences!“ („Хлеба и&#160;зрелищ!“). Пожалуйста, выжмите из&#160;себя что-нибудь по&#160;этой части. Ведь я&#160;только в&#160;крайних случаях обращаюсь к&#160;Вам с&#160;просьбою о&#160;темах и&#160;подписях, а&#160;в остальное время Вас не&#160;беспокою. Пожалуйста» (<i>ГБЛ</i>). 22 марта, высылая в&#160;редакцию «Осколков» несколько тем, Чехов писал Лейкину: «Тема „Аптекарская такса“ модная… Ею, думаю, можно воспользоваться…» Не получив от&#160;Лейкина ответа, он&#160;спрашивал 1 апреля: «Сгодились&#160;ли&#160;мои подписи к&#160;рисункам?» — на&#160;что Лейкин отвечал 26 апреля: «Все погодились, кроме двух, которые при&#160;сем и&#160;возвращаю» (<i>ГБЛ</i>).
+</p><p>О&#160;высокой аптекарской таксе см. также фельетон Чехова «Аптекарская такса, или&#160;Спассите, грабят!!!», т. XVI Сочинений и&#160;рассказ «В&#160;аптеке» (в&#160;наст. томе).
+</p><p><span id="49"></span>
+</p>
+<center><b>РАСПЕРЕКАНАЛЬСТВО!!</b></center>
+<p>Впервые — «Литературная газета», 1967, № 26, 28 июня, стр.&#160;5 (публикация М.&#160;А. Соколовой).
+</p><p>Печатается по&#160;гранкам журнала «Осколки», хранящимся в&#160;делах С.-Петербургского цензурного комитета (<i>ЦГИАЛ</i>). Предназначалось для № 16 журнала от 20 апреля 1885&#160;г. (ценз. разр. 19 апреля), но&#160;не было пропущено цензурой. На&#160;гранках стоит дата 17/1V 85 г.&#160;Заголовок надписан неизвестной рукой. Без&#160;подписи. Рисунки выполнены художником М.&#160;М. Далькевичем (псевдоним: Комар).
+</p><p>26 апреля 1885&#160;г.&#160;Лейкин сообщал Чехову: «Прекрасная Ваша поэмка о&#160;полковнике и&#160;повивальной бабке художественно была иллюстрирована Далькевичем, но&#160;во время последнего погрома на „Осколки“ запрещена и&#160;цензором и&#160;комитетом. Буду жаловаться в&#160;Главное управление по&#160;делам печати». «Полковника и&#160;повивальную бабку жаль», — отвечал Чехов 28 апреля. Хлопоты Лейкина не&#160;увенчались успехом, и 19 мая он&#160;сообщил Чехову: «Рисунок на&#160;Вашу тему о&#160;солдатах и&#160;повивальной бабке запрещен» (<i>ГБЛ</i>). В&#160;письме к&#160;Л. Н. Трефолеву от 4 июля 1885&#160;г.&#160;Лейкин жаловался: «А&#160;сколько хороших передовых рисунков-то&#160;не прошло! Идейного ничего но&#160;проходит. Стали не&#160;проходить шутки в&#160;рисунках и&#160;на военных» (<i>ЦГАЛИ</i>, ф. 507, оп. 1, ед. хр. 201).
+</p><p>Стр.&#160;474. <i><b>…это будет почище всякого Герата!</b></i> — В 1885&#160;г. сильно обострились отношения между Англией и&#160;Россией. Инцидент произошел из-за&#160;афганской границы и&#160;в частности афганского города Герата. В&#160;периодической печати ежедневно освещался «афганский вопрос». «Осколки» также помещали сообщения о&#160;ходе событий. «Тучи заволокли политический горизонт &lt;…&gt; Будет или&#160;глубокий мир, или&#160;война, неизвестно только кого с&#160;кем: с&#160;белыми медведями, с&#160;индийскими слонами, с&#160;Англией, с&#160;афганскими верблюдами &lt;…&gt; Вся эта манная каша заварилась из-за&#160;какого-то&#160;Герата, о&#160;котором известно нам всем в&#160;достоверности только одно, что&#160;живет там какой-то&#160;разноцветный народ…» — писал И. Грэк (В. В. Билибин) в «Осколках петербургской жизни» («Осколки», 1885, № 14, 6 апреля). См. также фельетон Чехова «Герат» (т. XVI Сочинений).
+</p><p><i><b>…марш из «Боккачио»…</b></i> — «Боккаччио» — оперетта Ф. Зуппе (1820—1895).
+</p><p><span id="50"></span>
+</p>
+<center><b>ШЛЯПНЫЙ СЕЗОН</b></center>
+<p>Впервые — «Осколки», 1885, № 19, 11 мая (ценз. разр. 10 мая), стр.&#160;2. Подпись: Рис. А. И. Лебедева. Тема А. Ч.
+</p><p>Печатается по&#160;журнальному тексту.
+</p><p>Стр.&#160;477. <i><b>Нешто вы не&#160;знаете&#160;? фригийскую шапку надели.</b></i> — Фригийскую шапку как&#160;символ свободы носили якобинцы во&#160;времена французской революции.
+</p><p>Стр.&#160;478. <i><b>…семинарист, читавший Милля и&#160;Бокля.</b></i> — Книги английского историка Г.-Т. Бокля (1821—1862) и&#160;экономиста и&#160;философа Дж.-С. Милля (1806—1873) пользовались успехом у&#160;русской демократической молодежи 60-х — 80-х годов (см. также т. I Сочинений, стр.&#160;471).
+</p><p>Стр.&#160;479. <i><b>…непатриотично носить шляпы английской работы…</b></i> — В 1885&#160;г. возникли разногласия между Англией и&#160;Россией из-за&#160;афганской границы, едва не&#160;приведшие к&#160;войне.
+</p><p><br />
+</p>
+<style data-mw-deduplicate="TemplateStyles:r4837660">.mw-parser-output .hr-custom{height:1px;width:40em;margin-left:auto;margin-right:auto;margin-top:5ex;margin-bottom:5ex}</style><hr class="hr-custom" style="width:8em;margin-left:0ex; margin-right:auto; margin-top: 2ex; margin-bottom: 2ex;" /><div class="references-small" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">от&#160;франц. defiler — проходить.</span>
+</li>
+</ol>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐74cbb9fbd5‐nr4jz
+Cached time: 20260215140243
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.249 seconds
+Real time usage: 0.341 seconds
+Preprocessor visited node count: 360/1000000
+Revision size: 73897/2097152 bytes
+Post‐expand include size: 8920/2097152 bytes
+Template argument size: 1172/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 595/5000000 bytes
+Lua time usage: 0.064/10.000 seconds
+Lua memory usage: 1674753/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  148.681      1 -total
+ 90.93%  135.201      1 Шаблон:Отексте
+  7.73%   11.490      1 Шаблон:Примечания
+  5.47%    8.137      1 Шаблон:---
+  1.42%    2.115      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1026103:|#|:idhash:canonical and timestamp 20260215140243 and revision id 5611110. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Подписи_к_рисункам_(Чехов)&amp;oldid=5611110">https://ru.wikisource.org/w/index.php?title=Подписи_к_рисункам_(Чехов)&amp;oldid=5611110</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%A7%D0%B5%D1%85%D0%BE%D0%B2" title="Категория:Антон Павлович Чехов">Антон Павлович Чехов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1885_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1885 года">Литература 1885 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BD%D0%BA%D0%BE%D1%80%D0%B0%D0%BC" title="Категория:Импорт/lib.ru/Страницы с внутренними ссылками по анкорам">Импорт/lib.ru/Страницы с внутренними ссылками по анкорам</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%A7%D0%B5%D1%85%D0%BE%D0%B2" title="Категория:Импорт/az.lib.ru/Антон Павлович Чехов">Импорт/az.lib.ru/Антон Павлович Чехов</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 29 августа 2025 года в 07:57.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8_%D0%BA_%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BA%D0%B0%D0%BC_(%D0%A7%D0%B5%D1%85%D0%BE%D0%B2)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Подписи к рисункам (Чехов)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-nn78k","wgBackendResponseTime":123,"wgPageParseReport":{"limitreport":{"cputime":"0.249","walltime":"0.341","ppvisitednodes":{"value":360,"limit":1000000},"revisionsize":{"value":73897,"limit":2097152},"postexpandincludesize":{"value":8920,"limit":2097152},"templateargumentsize":{"value":1172,"limit":2097152},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":595,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  148.681      1 -total"," 90.93%  135.201      1 Шаблон:Отексте","  7.73%   11.490      1 Шаблон:Примечания","  5.47%    8.137      1 Шаблон:---","  1.42%    2.115      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.064","limit":"10.000"},"limitreport-memusage":{"value":1674753,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Антон Павлович Чехов\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"В Полном собрании сочинений «Подписи» вошли в состав 3-го тома.\",\n    [\"published\"] = \"1885\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/c/chehow_a_p/text_0032.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Подписи к рисункам\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.codfw.main-74cbb9fbd5-nr4jz","timestamp":"20260215140243","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

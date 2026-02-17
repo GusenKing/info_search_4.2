@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Изумительные похождения московского Пинкертона Агафона и его слуги Луки (Травин) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"da9fefba-6d55-493e-8f24-e8f5ef529ecc","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Изумительные_похождения_московского_Пинкертона_Агафона_и_его_слуги_Луки_(Травин)","wgTitle":"Изумительные похождения московского Пинкертона Агафона и его слуги Луки (Травин)","wgCurRevisionId":5261854,"wgRevisionId":5261854,"wgArticleId":1021187,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru","Импорт/az.lib.ru/Петр Александрович Травин","Проза","Сатира и юмор","Сборники рассказов","Пётр Александрович Травин","Литература 1911 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Изумительные_похождения_московского_Пинкертона_Агафона_и_его_слуги_Луки_(Травин)","wgRelevantArticleId":1021187,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5261854,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Изумительные похождения московского Пинкертона Агафона и его слуги Луки (Травин) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Изумительные_похождения_московского_Пинкертона_Агафона_и_его_слуги_Луки_Травин rootpage-Изумительные_похождения_московского_Пинкертона_Агафона_и_его_слуги_Луки_Травин skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0+%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0+%D0%B8+%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D0%B3%D0%B8+%D0%9B%D1%83%D0%BA%D0%B8+%28%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0+%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0+%D0%B8+%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D0%B3%D0%B8+%D0%9B%D1%83%D0%BA%D0%B8+%28%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0+%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0+%D0%B8+%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D0%B3%D0%B8+%D0%9B%D1%83%D0%BA%D0%B8+%28%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0+%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0+%D0%B8+%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D0%B3%D0%B8+%D0%9B%D1%83%D0%BA%D0%B8+%28%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Таинственный_сарай"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Таинственный_сарай">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Таинственный сарай</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Таинственный_сарай-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Золотые_вещи_дерутся"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Золотые_вещи_дерутся">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Золотые вещи дерутся</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Золотые_вещи_дерутся-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Перепутались"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Перепутались">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Перепутались</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Перепутались-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Изумительные похождения московского Пинкертона Агафона и его слуги Луки (Травин)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0+%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0+%D0%B8+%D0%B5%D0%B3%D0%BE+%D1%81%D0%BB%D1%83%D0%B3%D0%B8+%D0%9B%D1%83%D0%BA%D0%B8+%28%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)&amp;oldid=5261854" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_%28%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%29&amp;id=5261854&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2598%25D0%25B7%25D1%2583%25D0%25BC%25D0%25B8%25D1%2582%25D0%25B5%25D0%25BB%25D1%258C%25D0%25BD%25D1%258B%25D0%25B5_%25D0%25BF%25D0%25BE%25D1%2585%25D0%25BE%25D0%25B6%25D0%25B4%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F_%25D0%25BC%25D0%25BE%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B2%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B3%25D0%25BE_%25D0%259F%25D0%25B8%25D0%25BD%25D0%25BA%25D0%25B5%25D1%2580%25D1%2582%25D0%25BE%25D0%25BD%25D0%25B0_%25D0%2590%25D0%25B3%25D0%25B0%25D1%2584%25D0%25BE%25D0%25BD%25D0%25B0_%25D0%25B8_%25D0%25B5%25D0%25B3%25D0%25BE_%25D1%2581%25D0%25BB%25D1%2583%25D0%25B3%25D0%25B8_%25D0%259B%25D1%2583%25D0%25BA%25D0%25B8_%28%25D0%25A2%25D1%2580%25D0%25B0%25D0%25B2%25D0%25B8%25D0%25BD%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2598%25D0%25B7%25D1%2583%25D0%25BC%25D0%25B8%25D1%2582%25D0%25B5%25D0%25BB%25D1%258C%25D0%25BD%25D1%258B%25D0%25B5_%25D0%25BF%25D0%25BE%25D1%2585%25D0%25BE%25D0%25B6%25D0%25B4%25D0%25B5%25D0%25BD%25D0%25B8%25D1%258F_%25D0%25BC%25D0%25BE%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B2%25D1%2581%25D0%25BA%25D0%25BE%25D0%25B3%25D0%25BE_%25D0%259F%25D0%25B8%25D0%25BD%25D0%25BA%25D0%25B5%25D1%2580%25D1%2582%25D0%25BE%25D0%25BD%25D0%25B0_%25D0%2590%25D0%25B3%25D0%25B0%25D1%2584%25D0%25BE%25D0%25BD%25D0%25B0_%25D0%25B8_%25D0%25B5%25D0%25B3%25D0%25BE_%25D1%2581%25D0%25BB%25D1%2583%25D0%25B3%25D0%25B8_%25D0%259B%25D1%2583%25D0%25BA%25D0%25B8_%28%25D0%25A2%25D1%2580%25D0%25B0%25D0%25B2%25D0%25B8%25D0%25BD%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_%28%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_%28%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_%28%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_%28%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_%28%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_%28%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Изумительные похождения московского Пинкертона Агафона и его слуги Луки</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%9F%D0%B5%D1%82%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD" title="Автор:Петр Александрович Травин">Петр Александрович Травин</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1911</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/t/trawin_p_a/text_1911_pohozhdenia_pinkertona_agafona.shtml">az.lib.ru</a></span>  • Теща пропала<br />
+Таинственный сарай<br />Золотые вещи дерутся<br />Перепутались.</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%9F%D0%B5%D1%82%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD" title="Автор:Петр Александрович Травин">Петр Александрович Травин</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<center><b>Покой Твердо</b></center>
+<center><b>(П. А. Травин)</b></center>
+<center><b>Изумительные похождения московского Пинкертона Агафона и&#160;его слуги Луки</b></center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Trawin_p_a_text_1911_pohozhdenia_pinkertona_agafona_cover.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/d/df/Trawin_p_a_text_1911_pohozhdenia_pinkertona_agafona_cover.jpg" decoding="async" width="462" height="650" class="mw-file-element" data-file-width="462" data-file-height="650" /></a><figcaption></figcaption></figure>
+<center><b>Теща пропала</b></center>
+<p>Звонок звякнул и&#160;проволока оборвалась.
+</p><p>— Судя по&#160;тому, что&#160;звонок не&#160;успел зазвонить, как&#160;оборвалась проволока, я&#160;заключаю, что&#160;господин, стоящий за&#160;дверью, большого роста и&#160;очень взволнован. Лука, отвори!
+</p><p>Лука, чистивший кирпичом объемистый самовар, почесал за&#160;ухом и&#160;не спеша открыл дверь.
+</p><p>Сделав это, он&#160;с изумлением растянул рот до&#160;ушей и&#160;крепко выругался.
+</p><p>— И&#160;впрямь здоровенный и&#160;красный, словно сейчас на&#160;полке парился! — выпалил он&#160;прямо в&#160;лицо вошедшему в&#160;комнату господину с&#160;широкой рыжей бородой, в&#160;лисьей шубе и&#160;бобровой шапке.
+</p><p>— Ежели — эфто ты про&#160;мое степенство, то&#160;правильно баешь! — встряхиваясь, ответил вошедший… — Ручка у&#160;меня, благодарение родителям, ничего себе… Не ровен час сожму тебя сейчас, без&#160;руки и&#160;останешься…
+</p><p>Лука, приготовившийся снять шубу с&#160;гостя, трусливо отпрыгнул от&#160;него в&#160;дальний угол.
+</p><p>— Чего ж ты, болван, не&#160;раздеваешь господина? — крикнул Агафон.
+</p><p>— Боязно, ваше благородие… Он&#160;и&#160;впрямь руку сломает!.. Ишь медведь какой. звонок далее оборвал, а&#160;уж какую я&#160;для него крепкую проволоку приладил… Пусть уж он&#160;сам себя раздевает…
+</p><p>— Напрасно себя беспокоите, господин сыскных дел мастер, я&#160;ведь на&#160;минуточку, потому как&#160;мы по&#160;мясной части промышляем и&#160;нам без&#160;дела околачиваться не&#160;приходится…
+</p><p>— Что&#160;же вам угодно?
+</p><p>— А&#160;видишь ты, мил человек, происшествие-то&#160;у меня какое. Есть у&#160;меня теща, жаднеющая баба, но, между прочим, капиталец имеет… И&#160;жила она у&#160;меня на&#160;спокое, ни&#160;в чем нужды не&#160;знаючи, потому как&#160;мы за&#160;капиталец можем человека ублаготворить.
+</p><p>Хорошо… живет она год, два… Что&#160;же, думаю, пусть себе живет на&#160;здоровье… Только вдруг этакая каверза случается: пропадает она у&#160;нас… И&#160;ума никак не&#160;могу приложить, куда&#160;бы&#160;это баба могла задеваться? Кажись, не&#160;иголка и&#160;не то, чтобы субтильна была, а&#160;баба, как&#160;след быть, рослая.
+</p><p>— Ваша теща пропала и&#160;вы хотите разыскать ее? — нахмурив брови и&#160;сделав наиумнейшее лицо, строго проговорил знаменитый Агафон.
+</p><p>— Аккурат в&#160;точку попал!
+</p><p>— Скажите, большой у&#160;ней капитал имеется?
+</p><p>— Да&#160;тыщ этак по&#160;тридцать.
+</p><p>— Великолепно! А&#160;в&#160;случае, если ваша теща умрет, кто у&#160;ней наследники?..
+</p><p>— Это&#160;бы&#160;давай Бог, потому как&#160;мы наследники-то&#160;будем… Но&#160;только тут каверза какая-нито… Уж очень она баба-то&#160;язвительная…
+</p><p>— Так значит, она пропала?
+</p><p>— Совсем, то&#160;есть, ума не&#160;приложим, куда задевалась! Всех родных и&#160;знакомых опросили, нет как&#160;нет…
+</p><p>— Гм, — пробормотал про&#160;себя знаменитый сыщик. — Купец, очевидно, очки мне втирает… Сам прихлопнул старуху, чтобы наследство скорей получить…
+</p><p>Агафон позвонил в&#160;участок и&#160;попросил прислать наряд городовых. Через&#160;полчаса злополучного купца уже вели в&#160;тюрьму.
+</p><p>Знаменитый Агафон самолично сопровождал важного арестанта, который на&#160;чем свет стоит костил и&#160;тещу, и&#160;Агафона, и&#160;самого себя.
+</p><p>Вдруг их нагнал извозчик с&#160;сидящей в&#160;пролетке солидной особой крайне сердитого вида…
+</p><p>— Митрофан! — вскрикнула она.
+</p><p>— Теща, вот она, теща! — заорал благим матом купец, бросаясь к&#160;пролетке. — Матушка, выручай, анафема! Я&#160;же тебя разыскивал!.. Господин сыскных дел мастер, посмотрите, это моя теща, ей-Богу теща! Лопни мои глаза, теща! Да&#160;где ты это, старая, пропадала?
+</p><p>— А&#160;я&#160;говеть ездила, к&#160;Сергию Троице, — невозмутимо ответила купчиха.
+</p><p>— Тут вышло недоразумение, — пробормотал смущенный Агафон и&#160;приказал городовым:
+</p><p>— Отпустите его!
+</p><p>А&#160;сам стал поспешно удаляться.
+</p><p>Купец&#160;же, растопырившись, стоял на&#160;мостовой и, показывая фигу знаменитому сыщику, кричал:
+</p><p>— Что, взял? Теща-то&#160;сама, без&#160;тебя, нашлась! Нако-вот выкуси!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Таинственный_сарай"><span id=".D0.A2.D0.B0.D0.B8.D0.BD.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D1.8B.D0.B9_.D1.81.D0.B0.D1.80.D0.B0.D0.B9"></span>Таинственный сарай</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)&amp;action=edit&amp;section=1" title="Редактировать раздел «Таинственный сарай»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Эй ты, чертова перечница, собирайся-ка поживей! — крикнул Агафон, поднявшись однажды чем свет, ровно в&#160;девять часов утра.
+</p><p>— Ишь ты, кая тебе некогда! — проворчал довольно резко Лука, колупая пальцем в&#160;носу. — Что&#160;это ему приспичило? Ай кто хорошего магарыча посулил?..
+</p><p>— Готов, что&#160;ли? — выскочил Агафон в&#160;кухню, где Лука занимался глубокомысленным ковырянием в&#160;носу.
+</p><p>— Знамо, готов, а&#160;то не&#160;готов, что&#160;ли? — с&#160;достоинством ответил Лука. — Что&#160;надоть-то?
+</p><p>— Идем! — многозначительно пошевелил он&#160;бровями и&#160;поднял палец кверху. Лука последовал за&#160;ним, в&#160;недоумении дергая носом, как&#160;бы говоря:
+</p><p>— И&#160;мудреный&#160;же у&#160;меня барин, прах его возьми! одно слово — адвокат, да&#160;и только!
+</p><p>Они&#160;долго колесили по&#160;Москве и&#160;наконец попали в&#160;какой-то&#160;глухой переулок.
+</p><p>— Лезь через&#160;забор!
+</p><p>Лука беспрекословно повиновался.
+</p><p>— Что&#160;ты там видишь?
+</p><p>— Сарай вижу… дверь открытая,..
+</p><p>— Так, так… Стой там, я&#160;тоже переправлюсь к&#160;тебе!
+</p><p>Через&#160;минуту Агафон был по&#160;ту сторону забора.
+</p><p>— Тс… тише! — приказал он&#160;своему слуге. — За&#160;мной!
+</p><p>Они, крадучись и&#160;затаив дыхание, стали медленно подвигаться к&#160;сараю.
+</p><p>Подошли.
+</p><p>В&#160;сарае, на&#160;куче соломы, лежала человеческая фигура.
+</p><p>— Видишь?
+</p><p>— Вижу…
+</p><p>— Раз… два… три… хватай! — крикнул Агафон и&#160;с размаху бросился на&#160;лежащего.
+</p><p>— Ай, батюшки, режут разбойники! Караул! — завизжал женский голос так пронзительно, что&#160;с разных сторон на&#160;него сейчас&#160;же откликнулись собаки…
+</p><p>— Тьфу, проклятая! — обругался Агафон, — да&#160;это баба! Лука, пусти ее…
+</p><p>— Вы что&#160;же это, охальники, осрамить меня хотите? Караул! Караул! Помогите! — визжала, не&#160;переставая, баба, раскорячившись на&#160;соломе.
+</p><p>— Надо отсюда убираться! — пробормотал Агафон. — Мне сообщили, что&#160;здесь скрывается важный преступник, а&#160;здесь какая-то&#160;пьяная баба…
+</p><p>— Так бежим, барин!
+</p><p>— Бежим!
+</p><p>Они&#160;побежали обратно к&#160;забору, а&#160;баба, потревоженная ими, раздобылась уже где-то&#160;грязной метлой и&#160;мчалась за&#160;ними в&#160;погоню.
+</p><p>— Лука, скорей на&#160;забор! за&#160;нами погоня! — задыхаясь, крикнул Агафон.
+</p><p>— Я&#160;уже здесь! — храбро ответил Лука, в&#160;мгновение ока перелетая через&#160;забор.
+</p><p>— А&#160;я…
+</p><p>Но&#160;Агафону не&#160;пришлось договорить… В&#160;ту минуту, как&#160;он ухватился за&#160;верх забора, его нагнала баба и&#160;стала охаживать метлой с&#160;бока на&#160;бок, приговаривая:
+</p><p>— Вот тебе, шатун голоштанный, вот! Не шляйся по&#160;сараям, где бабы спят…
+</p><p>— Барин, чего ж вы застряли? — спросил из-за&#160;забора Лука.
+</p><p>— Да&#160;я&#160;не застрял! Черт, пошла прочь. Я&#160;тебя! — кричал Агафон, катаясь по&#160;земле и&#160;увертываясь от&#160;ударов метлы.
+</p><p>Лука наконец догадался, влез опять на&#160;забор и, вынув револьвер, направил его на&#160;бабу.
+</p><p>Та дико взвизгнула и, бросив метлу, убежала.
+</p><p>— И&#160;как&#160;это я&#160;мог ошибиться! — говорил Агафон, удаляясь от&#160;злополучного забора. — Вот и&#160;верь теперь всяким анонимным доносам! Думал поймать важного преступника, а&#160;вместо того самого баба вздула, да&#160;еще чем? Грязной метлой!
+</p><p>И&#160;он&#160;с досадой почесал болевшие бока. — Это ничего, барин, это пройдет! — успокоил его Лука. — Апекит зато хороший будет.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Золотые_вещи_дерутся"><span id=".D0.97.D0.BE.D0.BB.D0.BE.D1.82.D1.8B.D0.B5_.D0.B2.D0.B5.D1.89.D0.B8_.D0.B4.D0.B5.D1.80.D1.83.D1.82.D1.81.D1.8F"></span>Золотые вещи дерутся</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)&amp;action=edit&amp;section=2" title="Редактировать раздел «Золотые вещи дерутся»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Успокойтесь, сударыня, не&#160;расстраивайтесь. Мы&#160;приложим все усилия, чтобы отыскать ваши золотые вещи. Вы только расскажите пообстоятельней, как&#160;все у&#160;вас произошло?
+</p><p>Так успокаивал знаменитый Агафон молодую барыньку, явившуюся к&#160;нему с&#160;просьбой разыскать вещи, похищенные, по&#160;ее словам, из&#160;запертой шкатулки в&#160;ее спальне.
+</p><p>Барынька заливалась горючими слезами.
+</p><p>— Да&#160;успокойтесь&#160;же! — уже нетерпеливо воскликнул Агафон, не&#160;получив немедленного ответа.
+</p><p>— Знамо дело, чего реветь-то! — добродушно выпалил сидевший в&#160;кухне Лука. — И&#160;дуры ж эти бабы, как&#160;я погляжу…
+</p><p>— Дурак! Болван! Пошел вон отсюда! Не умеешь себя с&#160;дамами держать! — набросился Агафон на&#160;своего верного слугу.
+</p><p>Лука сконфузился и&#160;забился в&#160;дальний угол от&#160;своего грозного барина.
+</p><p>— Итак, в&#160;вашу спальню никто не&#160;мог войти, кроме мужа и&#160;горничной, — снова обратился он&#160;к барыне.
+</p><p>— Никто, никто! — ломая руки, отвечала она.
+</p><p>— Значит, вещи украдены вашим мужем или&#160;горничной?
+</p><p>— Ах, что&#160;вы! Этого не&#160;может быть… Нет, тут что-то&#160;таинственное… страшное…
+</p><p>— Я&#160;должен осмотреть вашу спальню! — быстро решил сыщик…
+</p><p>Барыня согласилась и&#160;через некоторое время она уже вводила Агафона и&#160;Луку в&#160;спальню.
+</p><p>— А&#160;где комната вашей горничной? — окинув взглядом спальню, многозначительно спросил Агафон.
+</p><p>Знаменитому сыщику показали комнату горничной.
+</p><p>— Гм… — многозначительно промычал Агафон и&#160;поспешно направился к&#160;большому бельевому шкафу.
+</p><p>— Барин, барин, не&#160;отворяйте шкаф! — крикнула горничная, побледнев от&#160;страха.
+</p><p>— Ага! Что&#160;я&#160;говорил? — торжествующе воскликнул Агафон.
+</p><p>— Неужели ты, Дуня… — произнесла ошеломленная барынька…
+</p><p>— Ах, барыня, не&#160;то, совсем не&#160;то, что&#160;вы думаете… Прикажите только барину не&#160;трогать шкаф, а&#160;я вам все расскажу, все! — лепетала растерявшаяся горничная…
+</p><p>Между тем, Агафон уже дергал дверцу шкафа, которая оказалась запертой.
+</p><p>— Не трогайте, барин! — бросилась вне себя горничная, хватая Агафона за&#160;руку.
+</p><p>— Лука, держи ее! — скомандовал Агафон, — а&#160;ты, тварь, отпирай сию минуту…
+</p><p>— Э-эх молодка, не&#160;кочевряжься! — крикнул Лука, хватая горничную в&#160;охапку и&#160;с удовольствием прижимая к&#160;себе, — ишь ты, какая пухлая, дуй тебя горой… Пропадешь с&#160;тобой…
+</p><p>— Пусти! Дурак! Я&#160;закричу! — рвалась разозлившаяся горничная…
+</p><p>— Эфтово никак не&#160;возможно, потому как&#160;начальствие приказывает! — преспокойно отвечал Лука…
+</p><p>Вдруг дверца шкафа с&#160;треском отскочила и&#160;на Луку набросился статный молодой человек…
+</p><p>— Прочь, негодяй! — крикнул он&#160;и, развернувшись, изо всей силы съездил Луку по&#160;уху. — Не трогай мою невесту.
+</p><p>Лука с&#160;воплем растянулся на&#160;полу.
+</p><p>Агафон схватил неизвестного, но&#160;получил сильный толчок в&#160;грудь и&#160;навалился на&#160;Луку, который, не&#160;разобрав, в&#160;чем дело, подмял свое «начальствие» под&#160;себя и&#160;начал его тузить по&#160;чему попало, приговаривая:
+</p><p>— Я&#160;тебе покажу, как&#160;драться! Я&#160;тебе такую невесту покажу, что&#160;и жениться не&#160;захочешь!… Не прячься в&#160;шкафу, анафема проклятая, в&#160;рот тебе мыльную мочалку из&#160;сандуновских бань!..
+</p><p>— Что&#160;это значит, Дуня? — спрашивала ничего не&#160;понимающая барыня, не&#160;замечая от&#160;волнения потасовки на&#160;полу.
+</p><p>— Я&#160;же говорила, барыня, чтобы не&#160;трогал барин шкафа… Там у&#160;меня жених был спрятан… Я&#160;знала, что&#160;вы не&#160;любите, чтобы ко&#160;мне молодые люди ходили… и&#160;спрятала… Почем&#160;же я&#160;знала?.. Я&#160;тут не&#160;виновата, ей-Богу! Лопни мои глаза…
+</p><p>Лука, оттузив как&#160;следует Агафона, разобрал наконец, в&#160;чем дело, и&#160;помог подняться своему «начальствию».
+</p><p>— Ты что&#160;же… как&#160;же… Ах ты… Погоди&#160;же! — прошипел разозлившийся Агафон и, схватив шляпу, убежал от&#160;стыда из&#160;злополучной квартиры, забыв о&#160;розыске пропавших золотых вещей.
+</p><p>Лука последовал за&#160;ним с&#160;таким видом, как&#160;будто не&#160;он оттузил свое «начальствие», а&#160;его побили.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Перепутались"><span id=".D0.9F.D0.B5.D1.80.D0.B5.D0.BF.D1.83.D1.82.D0.B0.D0.BB.D0.B8.D1.81.D1.8C"></span>Перепутались</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)&amp;action=edit&amp;section=3" title="Редактировать раздел «Перепутались»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Лука сидел у&#160;окна в&#160;такой глубокой задумчивости. что, как&#160;засунул палец в&#160;нос, так и&#160;забыл про&#160;него.
+</p><p>— Ах, едят те мухи с&#160;комарами! — наконец вслух проговорил он, — что&#160;же это за&#160;штука в&#160;нос-то&#160;ко мне забралась?
+</p><p>Хотел дотронуться до&#160;носа, чтобы устранить из&#160;него неизвестную «штуку», да&#160;хватился руки и&#160;не найдет ее…
+</p><p>— Што за&#160;оказия, — прошептал он&#160;с суеверным страхом, — никак у&#160;меня рука-то&#160;пропала.
+</p><p>В&#160;это время нос изъявил громкий протест против долгого пребывания в&#160;нем пальца и&#160;чихнул… Рука опустилась на&#160;колени.
+</p><p>— Вот она! — радостно воскликнул Лука, — я&#160;то ищу ее, а&#160;она в&#160;носу, значит, была… ну и&#160;бестия… А&#160;все барин, чтоб ему Сухареву башню не&#160;видать! И&#160;где&#160;бы&#160;это его нелегкая носит теперь… Вот уже три дня домой глаз не&#160;кажет… Мамзелька нешто какая примарьяжила? Так нет — не&#160;таковский он… Деляга!.. Ох, не&#160;к добру это… Обязательно с&#160;ним несчастие какое-нито случилось… Жулики-то&#160;злы на&#160;него, известно, боятся, потому — начальствие… всегда может насолить! Гляди, заманили в&#160;какую-нито трущобу, кирпичом по&#160;голове тарарахнули и&#160;крышка…
+</p><p>Такие мысли колобродили в&#160;голове преданного слуги знаменитого сыщика…
+</p><p>В&#160;Луке и&#160;в самом была сыщицкая жилка. Она заговорила в&#160;нем сейчас&#160;же, как&#160;только он&#160;подумал, что&#160;барин его мог находиться в&#160;опасности, и&#160;он не&#160;стал откладывать дела в&#160;дальний ящик, а&#160;быстро собрался и&#160;отправился на&#160;поиски знаменитого своего хозяина.
+</p><p>Конечно, первым местом, которое он&#160;навестил, был полицейский участок
+</p><p>— Ваше благородие, несчастье! — выпалил Лука, врываясь в&#160;кабинет пристава.
+</p><p>— Что? — что&#160;такое? — заволновался пристав, — убили? ограбили?
+</p><p>— Не то… а&#160;их благородие, господин Агафон, пропали… Ни&#160;слуху, ни&#160;духу вот уже третьи сутки… Прихлопали его где-нито жулье окаянное…
+</p><p>— Я&#160;же и&#160;говорю — убийство! — горячо воскликнул пристав.
+</p><p>— Да&#160;где оно, убийство-то&#160;это самое? — глубокомысленно спросил Лука.
+</p><p>Пристав только развел руками и, подумав немного, отдал приказание составить протокол о&#160;пропаже знаменитого сыщика Агафона и&#160;распорядился известить все участки о&#160;таком случае на&#160;предмет розыска пропавшего сыщика…
+</p><p>Лука вернулся домой облегченным и&#160;значительно успокоившимся… Меры к&#160;розыску пропавшего были приняты теперь. Но&#160;и&#160;сам он&#160;не хотел сидеть сложа руки, немедленно приступил к&#160;подробному осмотру кабинета барина. Кабинет был заперт, но&#160;для сыщика не&#160;может быть запоров и&#160;Лука вошел в&#160;запертый кабинет, как&#160;будто он&#160;был его собственным. Первое, что&#160;бросилось ему в&#160;глаза, это лист белой бумаги па столе. На&#160;листе почерком Агафона был написан адрес:
+</p>
+<center>Покровка, Девкин пер., д. 78, кв. 2.</center>
+<p>Лука хлопнул себя ладонью по&#160;лбу и&#160;воскликнул:
+</p><p>— Что&#160;бы&#160;мне пораньше сюда заглянуть?! Этот адрес недаром оставлен… Надо спешить!..
+</p><p>И&#160;подняв палец кверху, как&#160;это делал знаменитый Агафон в&#160;самые торжественные минуты, Лука помчался по&#160;указанному адресу.
+</p><p>Дом 78 произвел крайне удручающее впечатление на&#160;Луку.
+</p><p>— Эге, да&#160;это настоящая ловушка, — пробормотал он, — окна занавешены, дверей на&#160;улицу нет и&#160;ворота на&#160;запер- ти. Как&#160;туда проникнуть?
+</p><p>Недолго думая, Лука вынул свисток и&#160;на его трели сейчас&#160;же сбежались городовые, дворники и&#160;разная публика вроде мальчишек, кухарок и&#160;торговцев сеном и&#160;овсом.
+</p><p>— Что&#160;случилось? Пожар — что&#160;ли? Али кого задавило? Потолок провалило?..
+</p><p>— Хуже! Здесь человека убили, вот в&#160;этом самом доме! Едва сказал эти слова Лука, как&#160;городовые и&#160;дворники
+</p><p>выхватили свои свистки и&#160;такой концерт дали, какого Дев- кин переулок от&#160;самого сотворения мира не&#160;слыхал.
+</p><p>Собралось народу видимо-невидимо. Прибыло начальство и&#160;кто-то&#160;догадался вызвать пожарную команду.
+</p><p>Начали стучать, звонить, кричать, но&#160;из таинственного дома никто не&#160;отзывался.
+</p><p>Потеряв терпение, сломали ворота и&#160;вошли во&#160;двор. Все двери оказались запертыми. Пришлось взламывать двери.
+</p><p>Осторожно, на&#160;цыпочках, последовали за&#160;Лукой городовые, а&#160;за ними начальство, по&#160;пустым комнатам.
+</p><p>Шествие замыкали пожарные во&#160;главе со ствольщиком, державшим наготове пожарную трубу.
+</p><p>Когда проходили но&#160;темному коридору, вдруг сверху громкое чиханье…
+</p><p>— Будьте здоровы! — крикнул Лука.
+</p><p>Городовые попятились, начальство смешалось с&#160;пожарными. Раздались крики:
+</p><p>— Лови! Хватай!
+</p><p>Но. хватать было некого. На&#160;потолке ничего не&#160;было. На&#160;стене виднелась небольшая полка и&#160;только… Не могла&#160;же полка чихать?
+</p><p>— Что&#160;за&#160;чертовщина? Неужто нам послышалось? — проговорил кто-то…
+</p><p>— Какое послышалось, — решительно заявил Лука, — чихал кто-то, дери его горой… Уж это обязательно он.
+</p><p>— Кто он-то?
+</p><p>— А&#160;убийца, барина-то&#160;моего который укокошил! Вдруг что-то&#160;черное соскользнуло с&#160;полки и&#160;упало прямо
+</p><p>на&#160;голову Луки…
+</p><p>— Караул! Режут! — завопил он, хватаясь за&#160;голову…
+</p><p>Городовые храбро накинулись на&#160;Луку и&#160;повалили его на&#160;пол… Пожарный окатил их всех водой и&#160;первое время никто ничего не&#160;мог разобрать.
+</p><p>— Хватай… хватай!
+</p><p>— Где хватать? Кого хватать?..
+</p><p>— Я&#160;схватил! Держу! — кричал городовой, оседлавший Луку…
+</p><p>— Черт! фараон! Кого схватил-то? — ругался под&#160;ним Лука.
+</p><p>Пожарный догадался зажечь огня и&#160;скоро все разъяснилось.
+</p><p>Оказалось, что&#160;все произошло из-за&#160;неизвестно откуда взявшейся кошки, которую сейчас поймали и&#160;вышвырнули за&#160;дверь.
+</p><p>Снова начались поиски. Обшарили весь дом, все уголки, чуланчики, чердаки и&#160;ничего не&#160;нашли.
+</p><p>Не было убийц и&#160;не находился труп убитого.
+</p><p>Начальство стало сердиться и&#160;хмурить брови.
+</p><p>А&#160;когда хмурит брови начальство, тогда, как&#160;вероятно каждый знает, хорошего ждать нечего.
+</p><p>Известно — тучи скапливаются, гроза собирается!
+</p><p>— Ты, такой сякой, сухой немазаный, надул нас? Признавайся? — загремел вдруг начальственный голос, обрушившись на&#160;Луку.
+</p><p>— То&#160;есть как&#160;признаваться? Я&#160;барина не&#160;убивал, истинный Бог не&#160;убивал! — забормотал оторопевший Лука.
+</p><p>— А&#160;здесь-то&#160;зачем все перебудоражил? С&#160;пьяных глаз, наверно?
+</p><p>— Вот уж напраслина, ваше прердительство, грех будет вам на&#160;том свете… Я&#160;водки во&#160;всю жизнь ни&#160;синь пороха…
+</p><p>— Ну ладно, в&#160;участке там разберут. Взять его!
+</p><p>Городовые окружили Луку и&#160;один из&#160;них вежливо сгреб его за&#160;шиворот и, тряхнув, внушительно пробасил:
+</p><p>— Идем!
+</p><p>— Да&#160;идем уж, идем! — тряхнув головой, покорился Лука. — Эх, редька молодая… Планида моя!
+</p><p>В&#160;участке посадили Луку за&#160;решетку да&#160;и забыли про&#160;него.
+</p><p>Между тем, у&#160;квартиры Агафона происходило следующее.
+</p><p>Сам Агафон, собственной персоной, долго звонил у&#160;двери и&#160;наконец стал вслух ругать своего слугу.
+</p><p>— Лентяй! Сонная тетеря! Возможно&#160;ли&#160;так спать, пользуясь тем, что&#160;барин в&#160;отсутствии? Ведь эдак не&#160;нам воров разыскивать, а&#160;нас придется ворам искать и&#160;просить их не&#160;забывать.
+</p><p>Проходивший мимо школьник остановился и, разинув рот, с&#160;удивлением уставился глазами на&#160;знаменитого сыщика.
+</p><p>— Чего ты на&#160;меня глаза пучишь? — набросился на&#160;него Агафон, обрадовавшись возможности хоть на&#160;нем сорвать свою злобу.
+</p><p>— Гы-ы! — усмехнулся школьник. — А&#160;с&#160;кем&#160;же ты, дядя, разговариваешь?
+</p><p>— Брысь, паршивец!
+</p><p>— Мяу! мяу! — замяукал мальчишка и&#160;со всех ног бросился бежать от&#160;Агафона.
+</p><p>Наконец ему надоело звонить и&#160;он отпер отмычками дверь своей квартиры.
+</p><p>К&#160;его глубокому удивлению, Луки дома не&#160;оказалось.
+</p><p>Тщетно он&#160;осматривал все уголки квартиры, глядел под&#160;столами, перетряхнул даже одеяло на&#160;постели — Луки не&#160;было.
+</p><p>Остановившись в&#160;недоумении посреди своего кабинета, знаменитый сыщик долго глубокомысленно смотрел на&#160;потолок, словно надеясь там увидать своего верного слугу.
+</p><p>Потом, подняв по&#160;привычке указательный палец кверху, он&#160;торжественно вышел из&#160;квартиры, забыв запереть ее. Это дело всегда исполнял Лука.
+</p><p>— Тут, несомненно, скрывается что-нибудь ужасное! — пробормотал он&#160;на ходу. — Но&#160;я&#160;все раскрою! О, недаром меня зовут Агафоном! Пока&#160;же необходимо съездить в&#160;Дев- кин переулок и&#160;посмотреть этот, так дешево продающийся домик… Мне давно хотелось приобресть в&#160;Москве недвижимость, чтобы иметь возможность сделаться гласным Московской городской думы. Это необходимо для&#160;моей практики. Я&#160;положительно убежден, что&#160;в городской думе не&#160;все благополучно. Там творятся ужасные преступления и&#160;я их раскрою и&#160;прославлюсь на&#160;весь свет!
+</p><p>С&#160;такими честолюбивыми замыслами Агафон нанял извозчика и&#160;через короткое время был в&#160;Девкином переулке. Одновременно к&#160;дому подкатила коляска с&#160;владельцем его.
+</p><p>Каково&#160;же было изумление обоих, и&#160;продавца и&#160;покупателя, когда они&#160;увидали следы недавнего погрома, взломанные, заколоченные и&#160;запечатанные ворота.
+</p><p>Из&#160;расспросов соседних дворников и&#160;городовых Агафон скоро выяснил себе то, что&#160;происходило, и&#160;объяснил ничего не&#160;понимающему владельцу дома причину странного превращения его дома в&#160;заколдованный замок.
+</p><p>Они&#160;оба отправились в&#160;участок и&#160;освободили злополучного верного слугу, не&#160;чаявшего уже увидеть снова свет Божий.
+</p><p>— Эх, бабушка Степанида горбатая, пропала моя голова! — пробормотал он, подходя к&#160;своей квартире.
+</p><p>Отворив незапертую дверь, он&#160;даже припрыгнул от&#160;неожиданности.
+</p><p>В&#160;квартире все было переворочено, столы и&#160;шкафы взломаны, дверцы отворены, ящики выдвинуты. Словом, полный разгром…
+</p><p>— Я&#160;так и&#160;знал! — торжествующе воскликнул Лука, — уж обязательно обокрадут его благородие, когда он&#160;без меня останется… Вот и&#160;обкрали!.. Вот и&#160;достукались!..
+</p><p>Раздавшийся звонок прервал его размышления. Лука бросился открывать запертую им за&#160;собой дверь и&#160;тут&#160;же на&#160;пороге раскланялся с&#160;Агафоном, огорошив его неожиданной новостью.
+</p><p>— Поздравляю-с, ваше благородие! все-с… Вот как&#160;обчистили нас приятели, что&#160;даже и&#160;мне удивительно, забодай их братец Иванушка!..
+</p><p>Агафон только развел руками и&#160;с открытым ртом молча смотрел на&#160;следы, оставленные в&#160;его квартире непрошеными гостями.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r4837660">.mw-parser-output .hr-custom{height:1px;width:40em;margin-left:auto;margin-right:auto;margin-top:5ex;margin-bottom:5ex}</style><hr class="hr-custom" style="width:10em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p><i>Источник текста: Травин П. А. Изумительные похождения московского Пинкертона Агафона и&#160;его слуги Луки /Покой Твердо. — Москва&#160;: тип. и&#160;переплет. С.&#160;Кинеловского, 1911. — 16 с.&#160;; 23 см</i>
+</p><p><i>Распознание, современная орфография: Salamandra H.V.V., 2014.</i>
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐74cbb9fbd5‐sdsjs
+Cached time: 20260215231416
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.089 seconds
+Real time usage: 0.144 seconds
+Preprocessor visited node count: 186/1000000
+Revision size: 39333/2097152 bytes
+Post‐expand include size: 8568/2097152 bytes
+Template argument size: 1157/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 222/5000000 bytes
+Lua time usage: 0.047/10.000 seconds
+Lua memory usage: 1580525/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  119.002      1 -total
+ 95.02%  113.079      1 Шаблон:Отексте
+  4.82%    5.733      1 Шаблон:---
+  1.26%    1.500      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1021187:|#|:idhash:canonical and timestamp 20260215231416 and revision id 5261854. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Изумительные_похождения_московского_Пинкертона_Агафона_и_его_слуги_Луки_(Травин)&amp;oldid=5261854">https://ru.wikisource.org/w/index.php?title=Изумительные_похождения_московского_Пинкертона_Агафона_и_его_слуги_Луки_(Травин)&amp;oldid=5261854</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B0_%D0%B8_%D1%8E%D0%BC%D0%BE%D1%80" title="Категория:Сатира и юмор">Сатира и юмор</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%91%D1%82%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD" title="Категория:Пётр Александрович Травин">Пётр Александрович Травин</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1911_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1911 года">Литература 1911 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%9F%D0%B5%D1%82%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD" title="Категория:Импорт/az.lib.ru/Петр Александрович Травин">Импорт/az.lib.ru/Петр Александрович Травин</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 21 февраля 2025 года в 18:38.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%98%D0%B7%D1%83%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B8%D0%BD%D0%BA%D0%B5%D1%80%D1%82%D0%BE%D0%BD%D0%B0_%D0%90%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%D0%B0_%D0%B8_%D0%B5%D0%B3%D0%BE_%D1%81%D0%BB%D1%83%D0%B3%D0%B8_%D0%9B%D1%83%D0%BA%D0%B8_(%D0%A2%D1%80%D0%B0%D0%B2%D0%B8%D0%BD)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Изумительные похождения московского Пинкертона Агафона и его слуги Луки (Травин)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-m9mnz","wgBackendResponseTime":119,"wgPageParseReport":{"limitreport":{"cputime":"0.089","walltime":"0.144","ppvisitednodes":{"value":186,"limit":1000000},"revisionsize":{"value":39333,"limit":2097152},"postexpandincludesize":{"value":8568,"limit":2097152},"templateargumentsize":{"value":1157,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":222,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  119.002      1 -total"," 95.02%  113.079      1 Шаблон:Отексте","  4.82%    5.733      1 Шаблон:---","  1.26%    1.500      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.047","limit":"10.000"},"limitreport-memusage":{"value":1580525,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Петр Александрович Травин\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"Теща пропала\u003Cbr\u003E\\\nТаинственный сарай\u003Cbr\u003EЗолотые вещи дерутся\u003Cbr\u003EПерепутались.\",\n    [\"published\"] = \"1911\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/t/trawin_p_a/text_1911_pohozhdenia_pinkertona_agafona.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Изумительные похождения московского Пинкертона Агафона и его слуги Луки\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.codfw.main-74cbb9fbd5-sdsjs","timestamp":"20260215231416","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>
