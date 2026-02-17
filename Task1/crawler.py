@@ -1,17 +1,20 @@
 import requests
+from urllib.parse import unquote
 from bs4 import BeautifulSoup
 import json, re, os
+import utils
 
 
-class WikipediaCrawler:
-    def __init__(self, start_url, max_depth=2, max_pages=100):
+class WebCrawler:
+    def __init__(self, start_url, max_depth=2, max_pages=100, output_dir="output"):
         self.start_url = start_url
         self.max_depth = max_depth
         self.max_pages = max_pages
+        self.output_dir = output_dir
         self.visited = set()
         self.request_headers = {"User-Agent": "MySimpleCrawler/1.0"}
 
-    # проверка url
+    # проверка стартового url
     def is_successful(self):
 
         try:
@@ -30,6 +33,7 @@ class WikipediaCrawler:
         except Exception as e:
             print(f"An error occurred: {e}")
 
+    # скачивание страницы и сбор всех ссылок на ней
     def process_page(self, url, depth, page_number):
         if depth > self.max_depth or url in self.visited:
             return set(), ''
@@ -60,6 +64,7 @@ class WikipediaCrawler:
     def crawl(self):
         if self.is_successful():
             downloaded_pages = []
+            index = {}
             urls_to_crawl = {self.start_url}
             page_number = 0
 
@@ -70,21 +75,30 @@ class WikipediaCrawler:
                         page_number += 1
                         links, content = self.process_page(url,
                                                            depth, page_number)
-                        downloaded_pages.append([content, url])
+                        decoded_url = unquote(url)
+                        downloaded_pages.append([content, decoded_url])
+                        index[page_number] = decoded_url
                         new_urls.update(links)
 
                 urls_to_crawl = new_urls
 
             current_dir = os.getcwd()
-            folder_dir = os.path.join(current_dir, 'crawled_websites')
+            folder_dir = os.path.join(current_dir, self.output_dir)
 
             if not os.path.isdir(folder_dir):
                 os.makedirs(folder_dir)
 
+            # сохраняем каждую страницу в txt файл
             for page, url in downloaded_pages:
-                filename = re.sub(r'\W+', '_',
-                                  url) + '_crawled.txt'
+                filename = re.sub(r'\W+', '_', url) + '_crawled.txt'
                 with open(os.path.join(folder_dir, filename), "w", encoding="utf-8") as file:
                     file.write(page)
 
-            return True
+            utils.zip_folder(folder_dir, os.path.join(current_dir, f"{self.output_dir}.zip"))
+
+            # записываем в index.txt все ссылки с их номером
+            with open(os.path.join(folder_dir, 'index.txt'), "w", encoding="utf-8") as file:
+                for number, url in index.items():
+                    file.write(f"{number}: {url}\n")
+
+            return page_number
