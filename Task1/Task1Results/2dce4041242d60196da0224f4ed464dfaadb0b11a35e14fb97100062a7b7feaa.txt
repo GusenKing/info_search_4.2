@@ -1,0 +1,1468 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>О немцах и прочем таком (Аверченко) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"4c7ea2b8-1b65-4b5e-946e-a530e4f3b3df","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"О_немцах_и_прочем_таком_(Аверченко)","wgTitle":"О немцах и прочем таком (Аверченко)","wgCurRevisionId":5273453,"wgRevisionId":5273453,"wgArticleId":997501,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100","Импорт/lib.ru","Импорт/az.lib.ru/Аркадий Тимофеевич Аверченко","Проза","Сатира и юмор","Сборники рассказов","Аркадий Тимофеевич Аверченко","Литература 1914 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"О_немцах_и_прочем_таком_(Аверченко)","wgRelevantArticleId":997501,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5273453,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="О немцах и прочем таком (Аверченко) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-О_немцах_и_прочем_таком_Аверченко rootpage-О_немцах_и_прочем_таком_Аверченко skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9E+%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85+%D0%B8+%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC+%D1%82%D0%B0%D0%BA%D0%BE%D0%BC+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9E+%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85+%D0%B8+%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC+%D1%82%D0%B0%D0%BA%D0%BE%D0%BC+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9E+%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85+%D0%B8+%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC+%D1%82%D0%B0%D0%BA%D0%BE%D0%BC+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9E+%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85+%D0%B8+%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC+%D1%82%D0%B0%D0%BA%D0%BE%D0%BC+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Салопница."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Салопница.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Салопница.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Салопница.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Союзник."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Союзник.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Союзник.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Союзник.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Луч_света_во_тьме."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Луч_света_во_тьме.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Луч света во тьме.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Луч_света_во_тьме.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Корсиканец."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Корсиканец.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Корсиканец.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Корсиканец.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Цель,_которая_оправдывала_средства."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Цель,_которая_оправдывала_средства.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Цель, которая оправдывала средства.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Цель,_которая_оправдывала_средства.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">О немцах и прочем таком (Аверченко)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9E+%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85+%D0%B8+%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC+%D1%82%D0%B0%D0%BA%D0%BE%D0%BC+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;oldid=5273453" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29&amp;id=5273453&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259E_%25D0%25BD%25D0%25B5%25D0%25BC%25D1%2586%25D0%25B0%25D1%2585_%25D0%25B8_%25D0%25BF%25D1%2580%25D0%25BE%25D1%2587%25D0%25B5%25D0%25BC_%25D1%2582%25D0%25B0%25D0%25BA%25D0%25BE%25D0%25BC_%28%25D0%2590%25D0%25B2%25D0%25B5%25D1%2580%25D1%2587%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25BE%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259E_%25D0%25BD%25D0%25B5%25D0%25BC%25D1%2586%25D0%25B0%25D1%2585_%25D0%25B8_%25D0%25BF%25D1%2580%25D0%25BE%25D1%2587%25D0%25B5%25D0%25BC_%25D1%2582%25D0%25B0%25D0%25BA%25D0%25BE%25D0%25BC_%28%25D0%2590%25D0%25B2%25D0%25B5%25D1%2580%25D1%2587%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25BE%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">О немцах и прочем таком</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Автор:Аркадий Тимофеевич Аверченко">Аркадий Тимофеевич Аверченко</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1914</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/a/awerchenko_a_t/text_1914_o_nemtzah.shtml">az.lib.ru</a></span>  • Салопница<br />
+Союзник<br />Луч света во&#160;тьме<br />Страна простофиль<br />Корсиканец<br />Цель, которая оправдывала средства</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Автор:Аркадий Тимофеевич Аверченко">Аркадий Тимофеевич Аверченко</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<center>О&#160;немцах и&#160;прочем таком</center>
+<center>(1914)</center>
+<p>Аверченко А. Т.&#160;Собрание сочинений: В 13 т.&#160;Т.&#160;5. Сорные травы
+</p><p>М., Изд-во «Дмитрий Сечин», 2014.
+</p><p>Салопница
+</p><p>Союзник
+</p><p>Луч света во&#160;тьме
+</p><p>Страна простофиль
+</p><p>Корсиканец
+</p><p>Цель, которая оправдывала средства
+</p>
+<center>САЛОПНИЦА</center>
+<p>Существуют такие старушонки-салопницы, которых можно встретить на&#160;окраине маленького тихого городка, обязательно где-нибудь в&#160;гостях, и&#160;обязательно за&#160;чашкой бурого кофе, с&#160;жидкими, вероятно, специально для&#160;салопниц изготовленными, сливками…
+</p><p>Являются они&#160;в гости, со смиренно поджатыми дряблыми губами, искательным взглядом и&#160;крайне ласковыми благочинными повадками.
+</p><p>— Какой ваш Петенька-то&#160;стал, — медовым голосом замечают они, — большой-большой — совсем мужчина.
+</p><p>— Да, — улыбается довольная хозяйка. — Еще чашечку, Арина Ильинишна?
+</p><p>— Выпью, — соглашается Арина Ильинишна, жадными глазами впиваясь в&#160;вишневое варенье. — Это, что&#160;у вас… новые гардины?
+</p><p>— Да. Недавно купила. Нравятся?
+</p><p>— То&#160;есть, так&#160;бы&#160;весь век и&#160;глядела на&#160;эти гардины! Так&#160;бы&#160;и глядела!.. Глазу от&#160;них не&#160;отведешь. А&#160;супруг ваш — все на&#160;службе?
+</p><p>— На&#160;службе.
+</p><p>— Очень даже он&#160;замечательный человек! Редкий мужчина. Скромный, непьющий. Истинно, что&#160;вам Господь Бог счастие послал за&#160;вашу добрую душу и&#160;золотое сердце…
+</p><p>Пауза.
+</p><p>— А&#160;что&#160;я у&#160;вас матушка-хозяйка попрошу, — прерывает вдруг гостья молчание — не&#160;можете&#160;ли&#160;вы дать мне на&#160;недельку швейной машинки?.. А&#160;то&#160;мой Гришка совсем обтрепался… Обшить&#160;бы&#160;его…
+</p><p>— Что&#160;вы, Арина Ильинишна! Как&#160;же я&#160;могу дать, если она у&#160;нас каждый день в&#160;ходу: Семья-то — слава Богу… То&#160;то, то&#160;сё. С&#160;утра до&#160;ночи она у&#160;нас занята.
+</p><p>— Ну, на&#160;недельку могли&#160;бы!
+</p><p>— На&#160;три дня не&#160;могу, милая Арина Ильинишна. Верьте совести!
+</p><p>— Ах, так? Понимаю, понимаю…
+</p><p>— Что&#160;вы понимаете?
+</p><p>— Нет, уж… что&#160;там! Насквозь вижу вас. Это вы мне за&#160;то не&#160;хотите дать, что&#160;я вашему Петьке давеча, когда вы присылали, утюгов не&#160;дала. И&#160;не&#160;дам! Потому, я&#160;знаю вашего Петьку… Возьмет этот дылда утюги, да&#160;вместо того, чтобы вам снести — пропьет их…
+</p><p>— Не смейте так говорить о&#160;моем сыне!!
+</p><p>— А&#160;плевать я, матушка, хотела на&#160;твоего сына! Тоже он&#160;не очень важная птица! Если&#160;бы&#160;еще в&#160;отца был, а&#160;то — так… в&#160;проезжего молодца! Ты-то, милая моя (всему городу известно!), был грех — целый год с&#160;землемером хвосты трепала! Да&#160;и&#160;муженек твой тоже — сквозь пальцы смотрел, а? Тоже птица хорошая! Ему&#160;бы&#160;только в&#160;картишки играть… Да&#160;еще как&#160;он там и&#160;играет? Я, чай, больше из&#160;рукава карты таскает. А&#160;тебе я&#160;скажу вот что: ноги моей у&#160;тебя не&#160;будет, вот что! Чтоб вас тут всех громом побило, паршивцев!! Ты у&#160;меня давеча сковородку брала из&#160;кухни — отдай, пока я&#160;тебе бельма-то&#160;не выцарапала… Небось уже сбыла ее татарину, мошенница разнесчастная!! И&#160;чего, спрашивается, я&#160;таскалась в&#160;это гнилое семейство… Тьфу!!!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Это — салопница в&#160;обыденной жизни.
+</p><p>А&#160;вот — салопница мировая.
+</p><p>Когда у&#160;Германии с&#160;Англией произошел разрыв дипломатических сношений, император Вильгельм II (император&#160;же, все-таки!) написал в&#160;письме английскому послу:
+</p><p>«…Отныне буду считать для&#160;себя позором когда-нибудь надеть английский мундир»!
+</p><p>А&#160;совсем недавно эта вздорная немецкая салопница написала:
+</p><p>«Берлинское правительство доводит до&#160;сведения германского общества, что&#160;отныне Япония перестала существовать для&#160;Германии, как&#160;страна, с&#160;которой следует поддерживать сношения, установившиеся между европейскими странами».
+</p><p>— И&#160;страна ваша жульническая, — кричал разгоряченный Вильгельм, запахивая полы своего поношенного халата, — и&#160;ноги моей у&#160;вас не&#160;будет, и&#160;всегда-то&#160;вы были продувным народишком… И&#160;носы-то&#160;у вас плоские, и&#160;скулы нехорошие. И&#160;все-то&#160;вы дрянь противоестественная!.. Тьфу на&#160;вас!!
+</p>
+<style data-mw-deduplicate="TemplateStyles:r4837660">.mw-parser-output .hr-custom{height:1px;width:40em;margin-left:auto;margin-right:auto;margin-top:5ex;margin-bottom:5ex}</style><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Бедная растерявшаяся салопница.
+</p>
+<center>СОЮЗНИК</center>
+<p>Немецкий посланник при&#160;итальянском дворе пришел к&#160;итальянскому дипломату и&#160;сказал:
+</p><p>— А&#160;вам письмецо есть. Из&#160;Берлина.
+</p><p>— Мне? — удивился дипломат. — От&#160;кого&#160;бы&#160;это?
+</p><p>— Не вам лично, а&#160;вашему королю. От&#160;нашего короля.
+</p><p>Итальянский дипломат положил письмо на&#160;подоконник и&#160;сказал:
+</p><p>— Хорошо. Передам при&#160;случае.
+</p><p>— Нет, при&#160;случае нельзя. Это срочное письмо. Вы уж его сейчас прочтите.
+</p><p>— Как&#160;же я&#160;его прочту, — уклончиво заметил хозяин, — если оно адресовано не&#160;ко мне.
+</p><p>— Это все равно… Тут секретов нет от&#160;вас. Читайте, читайте!
+</p><p>Итальянский дипломат пожал плечами и&#160;распечатал письмо. Прочел:
+</p><p>— «Дорогой старина!»… Однако, — заметил он, отрываясь от&#160;письма, — как&#160;Вильгельм меня любит! Так прямо и&#160;называет: «Дорогой, говорит, старина»!
+</p><p>— Это он&#160;не вас, — забеспокоился немецкий посланник, — а&#160;вашего короля.
+</p><p>— Ах, да! Верно… Ну-с… чего он&#160;там дальше нацарапал? «У&#160;нас все благополучно, чего и&#160;тебе желаем»… Гм… да! Действительно. «Жена тебе кланяется. Все вспоминает о&#160;тебе: какой, говорит, симпатичный, этот итальянский король… Красивый, говорит, такой. Детишки все здоровы, только кронпринц покашливает. У&#160;нас все благополучно. Вчера говорил речь народу. Ничего, речишка хорошая вышла. Последнее время дожди идут. В&#160;общем, все благополучно. Поехал я&#160;было в&#160;Ахен, потом вернулся. Скучновато там. У&#160;нас вообще, все благополучно. Как&#160;поживают твои итальянцы? Чудесный народ! Очень люблю их. Кланяйся там. У&#160;нас вообще все по-прежнему, благополучно. А&#160;что, было у&#160;вас затмение солнца? У&#160;нас было. Ты испугался или&#160;нет? Смешно как-то: день, а&#160;темно и&#160;звезды на&#160;небе. Но&#160;если не&#160;считать затмения, то, в&#160;общем, все благополучно. Ну, пока всего хорошего. Пиши, если будет время… Целую тебя несчетное число раз. Жена кланяется. Твой дружище Вилли.
+</p><p>P.S. Да! Чуть не&#160;забыл… Не можешь&#160;ли&#160;ты оказать мне маленькую услугу? Тут у&#160;нас завязалось нечто вроде войны с&#160;Францией, так я&#160;бы очень просил, чтобы ты двинул войска на&#160;французскую границу… Так себе, маленькая военная прогулка. Пожалуйста, сделай это. Очень обяжешь. Твой Вилли.
+</p><p>P.P.S. Ах, да! Кроме того, Россия, кажется, объявила нам войну. Ну, это пустяки.
+</p><p>P.RS.S. Забыл сказать, что&#160;Англия тоже объявила войну. Ну, там, конечно, Бельгия, Япония — всякая мелочь, как&#160;водится. Целую. Твой В.
+</p><p>P.RRS.S. Моя жена кланяется твоей и&#160;говорит, что&#160;вышлет какие-то&#160;интересные выкройки. Жду».
+</p><p>Во&#160;время чтения письма немецкий посланник следил за&#160;итальянцем с&#160;затаенным беспокойством, а&#160;когда тот кончил, то&#160;спросил:
+</p><p>— Ну, что&#160;вы на&#160;это скажете?
+</p><p>— Да&#160;что&#160;скажу… Это нехорошо, что&#160;кронпринц кашляет. Молоко нужно с&#160;эмсом пить. Оно смягчает.
+</p><p>— Нет, я&#160;насчет этого вот… посылки ваших войск на&#160;границу.
+</p><p>— Каких войск?
+</p><p>— Да&#160;ваших&#160;же!
+</p><p>— Что&#160;вы! У&#160;нас и&#160;войск никаких нет.
+</p><p>— Как&#160;нет? Как&#160;же так без&#160;войск?
+</p><p>— Так вот и&#160;живем. Оно, конечно, неудобно, да&#160;что ж делать… Приходится мириться.
+</p><p>— Ну, я&#160;не понимаю: как&#160;же так, чтобы такая страна, как&#160;Италия, не&#160;имела войск?
+</p><p>— Представьте! Мне и&#160;самому странно. Даже, если хотите, обидно.
+</p><p>— И&#160;артиллерии нет?
+</p><p>— Какой артиллерии?
+</p><p>— Ну, пушки там, мортиры разные, гаубицы.
+</p><p>— Была одна пушка, да&#160;куда-то&#160;закатилась — искали-искали, так и&#160;махнули рукой.
+</p><p>— И&#160;кавалерии нет?!
+</p><p>— Это, которые на&#160;лошадях ездят?
+</p><p>— Да!!
+</p><p>— Таких нет. Да&#160;оно, по-моему, и&#160;страшно на&#160;лошадь садиться. На&#160;нее сядешь, а&#160;она и&#160;сбросит. Еще голову себе расквасишь.
+</p><p>— А&#160;вот я&#160;давеча, едучи к&#160;вам, видел двух солдат с&#160;перьями на&#160;голове… Шли по&#160;улице. А&#160;вы говорите… нет солдат…
+</p><p>— Ах, вы об&#160;этих говорите? Это чудаки какие-то. Надели на&#160;голову перья и&#160;ходят. Извольте, мы&#160;их пошлем на&#160;границу.
+</p><p>— А&#160;сколько их?
+</p><p>— Да&#160;ведь вы&#160;же двух видели? Два и&#160;есть.
+</p><p>— Это все, что&#160;вы можете сказать?
+</p><p>— Как&#160;все! — ахнул итальянец. — Я&#160;еще много могу сказать: передайте Вильгельму поклон, поцелуйте от&#160;меня кронпринца… Супруге ихней привет… Уходите? Что&#160;ж так? Посидели&#160;бы. Ну, всего вам наилучшего. Виноват, не&#160;сюда… Это камин. Левее дверь. Да&#160;нет, то&#160;окно!!! Отсюда неудобно. Ну, вот дверь. Джузеппе, пальто его светлости.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>У&#160;румынского дипломата сидел немецкий посланник и&#160;говорил ему:
+</p><p>— А&#160;я, знаете, прогуливался по&#160;улице, — дай, думаю, зайду.
+</p><p>— И&#160;очень мило сделали, — кивнул головой румын. — Сигарку не&#160;желаете&#160;ли? Что&#160;слышно новенького?
+</p><p>— Да&#160;так… Ничего особенного. Впрочем, есть маленькая новость: у&#160;нас война.
+</p><p>— Слышал. С&#160;кем?
+</p><p>— Черт их знает, я&#160;уж и&#160;спутался. Франция, Англия, Россия, Бельгия…
+</p><p>— Все?
+</p><p>— Все.
+</p><p>— А&#160;Сербия?
+</p><p>— Разве и&#160;Сербия? — удивился немец. — Я&#160;и&#160;не знал даже.
+</p><p>— И&#160;Япония.
+</p><p>— И&#160;Япония?! Смотрите-ка! Первый раз слышу. Я, впрочем, за&#160;последнее время не&#160;читаю газет. Ничего интересного.
+</p><p>Немецкий посланник закурил сигару и&#160;спросил, сделав равнодушное лицо:
+</p><p>— Ну, а&#160;вы как&#160;живете?
+</p><p>— Ничего. Живем, хлеб жуем.
+</p><p>— Небось, о&#160;Бессарабии все мечтаете, плутишки?
+</p><p>— Нет, больше о&#160;Трансильвании.
+</p><p>— Трансильванию нельзя, что&#160;вы! Она наша. А&#160;Бессарабию можно. А? Как&#160;вы думаете?
+</p><p>— Ну, как&#160;сигарка? — спросил румынский дипломат.
+</p><p>— Ничего, спасибо. Хорошая страна Бессарабия. Богатая.
+</p><p>— Да.
+</p><p>— Ну, так как&#160;же вы?
+</p><p>— Ничего, спасибо. Живем, хлеб, как&#160;говорится, жуем.
+</p><p>— Нет, я&#160;не о&#160;том. Присоединяетесь к&#160;нам? Ей-Богу, правое дело защищаем.
+</p><p>Румын курил.
+</p><p>— Бессарабию получите. А?
+</p><p>— Нынче-то&#160;сигарки хорошие трудно доставать, — заметил румын. — Эта не&#160;суховата.
+</p><p>— Суховата. Так как&#160;же?
+</p><p>— Настоящие знатоки не&#160;любят особенно сухих сигар.
+</p><p>— Нет, я&#160;говорю насчет вашего выступления. Присоединяетесь?
+</p><p>— А&#160;то&#160;иногда бывает и&#160;так, — заметил румын. — Принесут тебе ящик сигарок… как&#160;будто контрабанда, продадут из-под&#160;полы, а&#160;потом глядишь: дрянь совершеннейшая.
+</p><p>— Кое-что&#160;могли&#160;бы&#160;мы вам и&#160;из славянских земель предложить. Поддержите, а?
+</p><p>— Впрочем, некоторые сигарам предпочитают папиросы. Вы как?
+</p><p>— Как&#160;я? Я&#160;говорю, что&#160;кончайте вашу мобилизацию, да&#160;и переходите с&#160;Богом границу. Ей-Богу, не&#160;раскаетесь. А?
+</p><p>— Вам не&#160;дует? — засуетился румын.
+</p><p>— Нет. Так как&#160;же, а?
+</p><p>— А&#160;то&#160;здесь как&#160;будто сквозняком тянет.
+</p><p>Повесив голову, долго молчал немецкий посланник. Встал, вздохнул:
+</p><p>— Ну, пойду я.
+</p><p>— Что&#160;ж вы. Посидели&#160;бы. Всего хорошего. Нет, нет, это не&#160;шапка. Это диванная подушка. Шапка в&#160;передней. Ну, стоит&#160;ли&#160;так расстраиваться — плюньте, ей-Богу! Может быть, обойдется.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>У&#160;болгарского дипломата сидел немецкий посланник и&#160;говорил:
+</p><p>— Что&#160;захотите, то&#160;вам и&#160;дадим. От&#160;Сербии кусок отщипнем — вам дадим; от&#160;Турции отщипнем — вам дадим. От&#160;Болгарии отщипнем — вам да…
+</p><p>— Как&#160;от&#160;Болгарии отщипнете?! — испугался болгарин. — Болгария-то, ведь, наша!
+</p><p>— Ах, да… верно. Ну, от&#160;Румынии отщипнем, от&#160;Италии.
+</p><p>— Мы&#160;бы&#160;и от&#160;Греции хотели, — заметил болгарин.
+</p><p>— И&#160;от&#160;Греции можно. Как&#160;только война кончится, сейчас&#160;же вам и&#160;прирежем.
+</p><p>— Как, когда кончится? Вы нам сейчас дайте.
+</p><p>— Да&#160;как&#160;же сейчас, когда еще ничего неизвестно. Вы только начните войну, а&#160;там уж видно будет…
+</p><p>— Нет, так нельзя. Мы, болгары, так не&#160;можем. Сначала дайте от&#160;Сербии кусок.
+</p><p>— Да&#160;поймите ж вы, чудак вы человек, что&#160;мы еще воюем с&#160;Сербией!.. Какой кусок мы&#160;можем вам отдать. Ну, берите ее всю. Хотите?
+</p><p>— Это незавоеванную-то?! Нет, вы раньше завоюйте.
+</p><p>— А&#160;на&#160;что вы нам тогда, когда мы&#160;все завоюем. Тогда вы нам не&#160;нужны.
+</p><p>— Ну, и&#160;не надо. Иначе мы&#160;не согласны.
+</p><p>— Я&#160;не&#160;понимаю: как&#160;же вы можете авансом просить то, что&#160;мы должны завоевать с&#160;вашей помощью?!
+</p><p>— Мало что&#160;вы не&#160;понимаете. А&#160;мы&#160;понимаем.
+</p><p>— Значит, — это отказ?
+</p><p>— Что&#160;вы! Это согласие, только на&#160;определенных условиях.
+</p><p>С&#160;тоской в&#160;глазах поднялся немец с&#160;кресла.
+</p><p>— Собираетесь уходить? Прощайте. Нет, нет — ему не&#160;надо подавать руки, это слуга. Да&#160;вы не&#160;расстраиваетесь.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Немецкий посланник сидел у&#160;турецкого дипломата и&#160;говорил ему:
+</p><p>— Ну, Турция-то, я&#160;надеюсь, нас поддержит?
+</p><p>— Сколько угодно! — горячо сказал турок.
+</p><p>— Нет, серьезно?
+</p><p>— Конечно! Мы&#160;любим Германию и&#160;все для&#160;нее сделаем!! Hoch!
+</p><p>— Спасибо. Сердечное спасибо. Мы&#160;уж вас не&#160;оставим, и&#160;если что&#160;понадобится…
+</p><p>— Понадобится! — торопливо подтвердил турок. — Прежде всего, деньги понадобятся.
+</p><p>— Маловато их у&#160;нас теперь, — поморщился немец, — ну, да&#160;ладно. Дадим.
+</p><p>— Съестных припасов тоже, — сказал турок.
+</p><p>— Так вот мы&#160;вам денег дадим, а&#160;вы себе на&#160;них и&#160;купите съестных припасов.
+</p><p>— Нет, деньги нужно отдельно, а&#160;припасы отдельно…
+</p><p>— Хорошо, — вздохнул немец. — Делать нечего!
+</p><p>— Оружие потом надо. Артиллерию.
+</p><p>— Неужели у&#160;вас нет?
+</p><p>— Милый, откуда?! Все младотурки раскрали. Броненосцы потом надо.
+</p><p>— Флота тоже нет?
+</p><p>— Милый, откуда?
+</p><p>— Ну, вы броненосцы можете у&#160;нас купить.
+</p><p>— Можно. Дадите денег, так мы&#160;купим.
+</p><p>— Странно это как&#160;то выходит. На&#160;наши&#160;же деньги… Ну, хорошо. Теперь все?
+</p><p>— Почти все. Да! Солдат еще нужно.
+</p><p>— А&#160;ваши солдаты?
+</p><p>— Какие там наши солдаты. Одна грусть.
+</p><p>— Позвольте, — задумчиво заметил немец. — Если мы&#160;даем вам деньги, вооружение, флот и&#160;солдат — какой от&#160;вас толк?
+</p><p>— А&#160;моральное удовлетворение, что&#160;хоть Турция да&#160;с вами?! Этого мало? Впрочем, если не&#160;хотите…
+</p><p>— Хотим! — испугался немец. — Ей-Богу, хотим!
+</p><p>И&#160;тут&#160;же от&#160;избытка чувства заплакал на&#160;плече турецкого дипломата.
+</p><p>Новый союзник одной рукой любовно обнял немца за&#160;талию, а&#160;другой деликатно вытащил из&#160;галстука плачущего немца бриллиантовую булавку…
+</p>
+<center>ЛУЧ СВЕТА ВО ТЬМЕ</center>
+<p>…Когда Вильгельм II вышел к&#160;министрам, лицо его сияло торжеством.
+</p><p>Вышел он, немного сгорбившись и&#160;заложив большой палец правой руки за&#160;пуговицу жилета. Стал быстро ходить по&#160;комнате, отчего полы его серого сюртука развевались.
+</p><p>Говорил быстро, отрывисто…
+</p><p>— А? Что? Министры? Хорошо! А? Да! Что? Большая радость! А? Да. Что? Прекрасное известие! Чудесное! А? Что? Вот, получил письмо!
+</p><p>Он&#160;вынул из-за&#160;борта своего серого сюртука большой пакет и, откинув со лба прядь волос, стал читать:
+</p><p>— Дорогой друг и&#160;брат! Знаю, что&#160;ты сейчас испытываешь затруднительное положение, и&#160;поэтому иду к&#160;тебе на&#160;помощь со всем своим войском… Надеюсь, что&#160;две мощных армии — твоя и&#160;моя — соединившись, отразят дерзких врагов с&#160;востока и&#160;запада! Два таких короля, как&#160;мы с&#160;тобой, не&#160;могут не&#160;победить!
+</p><p>Довольная улыбка заиграла на&#160;лице его.
+</p><p>— А? Что? Каково? Нет, я&#160;им еще устрою Аустерлиц!..
+</p><p>— От&#160;кого&#160;же это письмо? — спросил заинтересованный военный министр.
+</p><p>— А? Что? Я, признаться, не&#160;разобрал! Подпись неразборчива… Очевидно, от&#160;какого-то&#160;короля!
+</p><p>— Позвольте-ка мне… Тут подписано немного странно: «твой тетка В.».
+</p><p>— Не может быть, что&#160;бы «твой тетка», — усумнился морской министр. — Наверное — «твоя тетка»… Кто&#160;бы&#160;это мог быть? «В.»… «В.»…
+</p><p>— Может быть, Виктория? — робко спросил министр колоний.
+</p><p>— Какая там еще Виктория?!
+</p><p>— А&#160;эта вот… Английская королева Виктория…
+</p><p>— Какая&#160;же она ему тетка? И&#160;потом она ведь покойница?
+</p><p>— Да, положим, верно. Покойница.
+</p><p>— Ну, вот, значит, и&#160;не суйтесь со своими догадками. Безработный, а&#160;туда&#160;же!..
+</p><p>Министр колоний заморгал глазами и&#160;свесил печально голову.
+</p><p>— Кто&#160;бы&#160;это мог быть: «твой тетка В.»? Немножко татарский или&#160;турецкий оборот речи…
+</p><p>— Может быть, это турецкий султан пишет?
+</p><p>— Какая&#160;же он&#160;тетка нашему императору?! Все-то&#160;вы вздор говорите. Молчали&#160;бы&#160;лучше, безработный!..
+</p><p>— Ваше величество, — обиженно сказал министр колоний, — что&#160;они меня все дразнят… Скажите им!
+</p><p>— Ну, ну, господа, потише тут. Так вы думаете, что&#160;это письмо от&#160;турецкого султана?
+</p><p>— Не иначе.
+</p><p>— А&#160;почему&#160;же, действительно, подписано: «твой тетка»?
+</p><p>— Ну, турок — мало&#160;ли. Взял и&#160;написал. Может быть, он&#160;хотел этим просто подчеркнуть, что&#160;относится к&#160;вам, как&#160;любящая тетя к&#160;племяннику.
+</p><p>— А&#160;почему ж инициал стоит: «В.». Ведь турецкий султан вовсе не «В.».
+</p><p>— И&#160;то&#160;верно. А&#160;знаете что? Давайте, возьмем карту обеих полушарий и&#160;посмотрим — из&#160;какой страны могли это написать? Берите красный карандаш, зачеркивайте те страны, которые не&#160;могли написать. Ну, конечно, — Германия и&#160;Австро-Венгрия — зачеркнули?
+</p><p>— Есть.
+</p><p>— Теперь зачеркните всех, кто с&#160;ними воюет: Россия, Франция, Англия, Бельгия, Сербия, Япония… Уф! Диктуйте вы, секретарь, я&#160;устал.
+</p><p>— …Есть? Теперь зачеркивайте страны, объявившие нейтралитет.
+</p><p>— Есть. Зачеркнуто.
+</p><p>— Ну, какие страны остались?
+</p><p>— Соединенные Штаты, Турция, Сиам и&#160;Абиссиния…
+</p><p>— Так-с… Ну, Сиам и&#160;Абиссиния, конечно, вздор… А&#160;вот Северная Америка… Позвольте! Как&#160;там зовут президента?
+</p><p>— Вильсон.
+</p><p>— Ну, вот! Он, значит, и&#160;написал.
+</p><p>— Предположим, — критически заметил морской министр. — Но&#160;опять-таки: какая&#160;же он&#160;тетка нашему императору?
+</p><p>— Да… Соображение правильное. Ваше величество! Вы не&#160;в родстве с&#160;Вильсоном?
+</p><p>— Именно?
+</p><p>— Ну… не&#160;приходится&#160;ли&#160;он вам, гм!.. Теткой. Эти династические родственники так перепутались…
+</p><p>— Мм… не&#160;думаю. Впрочем, можно навести справку.
+</p><p>— Да&#160;нет, господа, это вздор! Не может&#160;же президент Соединенных Штатов, интеллигентный человек, и&#160;вдруг написать, как&#160;торговец рахат-лукумом: «Твой тетка».
+</p><p>— И&#160;то&#160;верно.
+</p><p>— Да&#160;позвольте!! — вскричал вдруг министр колоний. — Откуда вы взяли, что&#160;тут написано: «тетка»? По-моему, тут стоит «тезка»!
+</p><p>— Ну, конечно!
+</p><p>— Эх, ты, голова с&#160;мозгами: «тетка»… Конечно, — тезка. «Твой тезка В.».
+</p><p>— Значит, Вильгельм? Кто&#160;же из&#160;королей носит еще имя Вильгельм?
+</p><p>— Вильсона-то&#160;как зовут?
+</p><p>— Что&#160;вы пристаете с&#160;вашим Вильсоном? Вудро его зовут!
+</p><p>— Ну, вот. Может быть, по&#160;нашему — Вильгельм, а&#160;по ихнему, по-американскому — Вудро.
+</p><p>— Очень возможно, по-нашему, по-немецки, министр колоний, а&#160;по-ихнему, по-американски — лошадь.
+</p><p>— Ваше величество! Прошу меня оградить… Я&#160;не&#160;намерен вовсе…
+</p><p>— Господа! Прошу тише!.. Это невыносимо!! Прошу исполнить то, что&#160;я вам скажу! Хотя мы&#160;и не&#160;можем пока выяснить имени короля и&#160;название страны, которая благородно и&#160;великодушно идет нам на&#160;помощь, но, тем не&#160;менее, факт посылки нам вооруженной помощи и&#160;обещание содействия — налицо. Я, конечно, пока воздержусь от&#160;опубликования моему народу этого письма полностью, но&#160;в общих чертах мы&#160;обязаны ознакомить немцев с&#160;этой радостной вестью. Заведующий прессой — распорядитесь!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>В&#160;тот&#160;же вечер по&#160;всем берлинским улицам носились тучи мальчишек, у&#160;которых нарасхват раскупались следующие телеграммы:
+</p><p>«Доводим до&#160;сведения нации, что&#160;одна мужественная и&#160;великодушная держава идет к&#160;нам на&#160;помощь. Название этой державы, а&#160;равно и&#160;имя ее благородного короля — пока по&#160;тактическим соображениям опубликовать невозможно. Подписано: Вильгельм II, император Германский, курфюрст Бельгийский, владетельный князь Либавский».
+</p><p>Ясный теплый закат окрашивал печальным светом неубранные поля и&#160;пустынную дорогу, по&#160;которой ехали на&#160;ослах два всадника.
+</p><p>Один был высок, длинноног и&#160;тощ, другой широк в&#160;плечах, толст и&#160;ростом ниже первого.
+</p><p>Высокий, худой — с&#160;виду казался начальником, толстый&#160;же по&#160;наружному виду больше походил на&#160;подчиненного, оруженосца длинного.
+</p><p>Ослы медленно брели по&#160;пыльной дороге, а&#160;всадники тихо беседовали между собой, изредка приподымаясь на&#160;стременах и&#160;вглядываясь вдаль.
+</p><p>— Теперь, вероятно, уже недалеко до&#160;Берлина?
+</p><p>— Да. Я&#160;думаю, близко.
+</p><p>— То-то, вероятно, Вильгельм мне обрадуется.
+</p><p>— А&#160;еще&#160;бы. Ему, я&#160;полагаю, сейчас, ой-ой, как&#160;круто приходится.
+</p><p>— Да… Уж такова наша королевская участь! — вздохнул длинный, подбирая ноги в&#160;сапогах, подошвы которых шаркали об&#160;укатанную дорогу…
+</p><p>— Приятный сюрприз вы ему устроите, — заметил толстый.
+</p><p>— Это мой долг. Короли должны в&#160;беде помогать друг другу.
+</p><p>— Я&#160;думаю, что&#160;и он&#160;вам поможет, а? Как&#160;вы думаете?
+</p><p>— Надеюсь.
+</p><p>— И&#160;тогда вы мне заплатите жалованье за&#160;два месяца.
+</p><p>— Ой, Додо, смотри, — пригрозил длинный всадник. — Будут на&#160;том свете черти за&#160;твое корыстолюбие жарить тебя на&#160;серебряной сковородке.
+</p><p>— Там еще видно будет. А&#160;сейчас мне без&#160;жалованья никак невозможно.
+</p><p>Желая замять разговор, длинный всадник приподнялся на&#160;стременах и&#160;спросил:
+</p><p>— Что&#160;это за&#160;кирпичные дома там виднеются?
+</p><p>— А&#160;это уже городские дома. К&#160;Берлину подъезжаем. Подъехали…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>У&#160;королевского дворца толстый первым спрыгнул с&#160;осла и&#160;взбежал по&#160;ступенькам.
+</p><p>— Доложи, — сказал он&#160;слуге, — что&#160;к его величеству король приехал!
+</p><p>Услышав голоса, Вильгельм выглянул из&#160;дверей и&#160;с любопытством спросил:
+</p><p>— Кто приехал?
+</p><p>— Я, — сказал толстяк. — Мое имя Пренк-Биб-Дода. А&#160;со мной король. Приехал к&#160;вашему величеству, как&#160;союзник…
+</p><p>— Какой король?
+</p><p>— Обыкновенный албанский король, ваше величество… М<i>о</i>рет Вид.
+</p><p>— Тьфу! — плюнул Вильгельм. — Вот не&#160;было печали… Где&#160;же он?
+</p><p>— Да&#160;вот, из&#160;окна можете видеть. На&#160;осле.
+</p><p>— Вот этот?
+</p><p>— Ну, да. Тот, что&#160;наверху, тот М<i>о</i>рет Вид, а&#160;что внизу, под&#160;ним — тот осел, — пояснил обстоятельный Пренк-Биб-Дода. — Прикажете пригласить его величество?
+</p><p>Взор Вильгельма померк.
+</p><p>— Э, да&#160;уж все равно… Зови.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>В&#160;передней собрались все министры.
+</p><p>— Его величество М<i>о</i>ред Вид, — доложил церемониймейстер.
+</p><p>— Свидание двух королей, а? Это не&#160;фунт изюму, — подтолкнул локтем общительный Пренк-Биб-Дода одного из&#160;министров. — Историческая минутка, а? Дозвольте папироску — смерть курить хочется.
+</p><p>— Что&#160;вы! Как&#160;же можно при&#160;королях курить, — возразил укоризненно министр.
+</p><p>— Э, видали мы&#160;их!.. За&#160;два месяца жалованье не&#160;плачено… Прямо хоть с&#160;моста, да&#160;в воду!
+</p><p>— Ваше величество! — сказал Вид, приближаясь к&#160;Вильгельму. — Две могущественные нации — немецкая и&#160;албанская, — протягивают друг другу руки. В&#160;союзе с&#160;нами вы победите весь мир, хотя&#160;бы&#160;он состоял из&#160;дьяволов! Вся Албания, как&#160;один человек, встала на&#160;защиту Германии.
+</p><p>— Врет и&#160;не краснеет, — шепнул непосредственный Пренк своему соседу, министру.
+</p><p>— Почему?
+</p><p>— Да&#160;ведь нас с&#160;ним еще на&#160;прошлой неделе из&#160;Албании выставили… Насилу мы&#160;ноги унесли.
+</p><p>— Как&#160;же он&#160;говорит, что&#160;вся Албания «как&#160;один человек», встанет за&#160;Германию?
+</p><p>— Как&#160;один человек? Это — он&#160;обо мне говорит.
+</p><p>Растроганный Вид продолжал:
+</p><p>— Ваше величество! Албанский король (он&#160;указал на&#160;себя), албанское войско (указал на&#160;Пренка-Биб-Доду), албанская артиллерия (хлопнул себя по&#160;поясу, за&#160;которым был заткнут пистолет), албанская кавалерия (подошел к&#160;окну и&#160;указал на&#160;двух понурившихся ослов) — все это, ваше величество, к&#160;услугам Германии!!
+</p><p>— Только чтоб жалованье за&#160;два месяца заплатили, — напомнил деловой Биб-Дода.
+</p><p>Но&#160;голос его был заглушён десятком глоток, из&#160;которых вырвалось могучее, как&#160;лесной ураган:
+</p><p>— Hoch!!
+</p><p>Растроганный Вильгельм утер слезу и&#160;сделал знак, что&#160;хочет говорить.
+</p><p>— Господа! — сказал он. — Благодарю мужественный албанский народ за&#160;то, что… за&#160;то… Ну, одним словом, как&#160;говорится — с&#160;паршивой собаки хоть шерсти клок!..
+</p><p>И, махнув рукой, император удалился во&#160;внутренние апартаменты…
+</p>
+<center>. . . . . . . . . . . . . . . . . . . . . . . .</center>
+<center>СТРАНА ПРОСТОФИЛЬ</center>
+<p>— Это что&#160;же эт-то&#160;такое, а? — угрюмо спросил русский, упершись кулаками в&#160;боки.
+</p><p>— Да, действительно! Как&#160;назвать этот поступок? — подхватил француз, подозрительно поглядывая на&#160;болгарина.
+</p><p>— Нечего сказать, — хороши, — покачал головой огорченный, в&#160;свою очередь, англичанин. — Разве можно так поступать?
+</p><p>— А&#160;еще славяне! — упрекнул серб.
+</p><p>— Немцы вы, — болгары, — а&#160;не славяне, — съязвил черногорец.
+</p><p>Болгарин замахал руками.
+</p><p>— Тише, господа, тише! Не все сразу… В&#160;чем дело?
+</p><p>— Нечего прикидываться, — с&#160;горечью сказал русский. — Будто не&#160;знаете…
+</p><p>— А&#160;вот&#160;же, ей-Богу, не&#160;знаю, — воскликнул болгарин, ударив себя в&#160;грудь кулаком. — Да&#160;в&#160;чем дело, господа? На&#160;что&#160;вы обижены? Кажется, нейтралитет я&#160;держу…
+</p><p>— Держите?! Нечего сказать, хорошо держите… А&#160;зачем шестьсот немецких солдат через&#160;свою страну в&#160;Турцию пропустили?
+</p><p>— Это не&#160;мы пропустили, — сказал болгарин. — Это, наверное, какая-нибудь другая страна пропустила. Это Норвегия пропустила.
+</p><p>— Не говорите вздора! Где Норвегия, а&#160;где Турция! Мы&#160;имеем сведения, что&#160;это вы пропустили их через&#160;свою страну.
+</p><p>— Во-первых, мы&#160;их через&#160;свою страну не&#160;пропускали, — внушительно заявил болгарин. — Во-вторых, их было не&#160;шестьсот, а&#160;пятьсот девяносто восемь! А&#160;в-третьих, когда они&#160;проезжали, мы&#160;не знали, что&#160;это немцы.
+</p><p>— Кто&#160;же они&#160;такие были, по-вашему? Едут из&#160;Германии в&#160;Турцию, взяли целый поезд, говорят по-немецки.
+</p><p>— А&#160;мы&#160;думали, что&#160;это — американцы!
+</p><p>— Да, ведь, по-немецки&#160;же они&#160;говорили?!
+</p><p>— Ну, да. Мы&#160;думали, что&#160;это — образованные американцы, которые на&#160;разных языках говорят.
+</p><p>— Почему&#160;же вы у&#160;них никаких документов не&#160;спросили? Ведь, теперь время тревожное!
+</p><p>— Мы&#160;забыли. Захлопотались, знаете. До&#160;того&#160;ли.
+</p><p>— Ну, отговариваться вы можете, как&#160;угодно, а&#160;нейтралитет вы все-таки в&#160;пользу Германии нарушили!
+</p><p>Болгарин заплакал.
+</p><p>— Грех вам нас обижать. Мы — народ маленький, все нас угнетают… А&#160;тут вы еще нас ругаете. Грех вам!
+</p><p>— А&#160;зачем немцев пропустили?
+</p><p>— Что&#160;вы пристали — зачем, да&#160;зачем? Вот мы&#160;сейчас дипломатическое объяснение вам напишем — вы и&#160;узнаете, зачем.
+</p><p>Через&#160;несколько часов союзникам был представлен следующий официальный документ болгарского правительства:
+</p><p>«Болгарское правительство самым категорическим образом утверждает, что&#160;оно не&#160;имело никаких сведений о&#160;предполагавшемся проезде немцев или&#160;иностранцев в&#160;специальном поезде».
+</p><p>«Болгарское правительство считает необходимым протестовать против подозрений, которые могли&#160;бы&#160;быть высказаны относительно искренности его решения соблюдать строжайший нейтралитет»<sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>— Врут, наверное, шепнул француз русскому. — Белыми нитками шито.
+</p><p>— Ну, ладно, — сказал русский. — Но&#160;только, чтобы это было последний раз.
+</p><p>— Господи! Да&#160;разве ж мы, что&#160;же! Нешто ж мы! Куда&#160;же это!.. Да&#160;не&#160;доведи Господи! Да&#160;если что, так уж что&#160;же это будет!.. Уж будьте покойны! Маковой росинки во&#160;рту не&#160;будет.
+</p><p>— До&#160;маковых росинок и&#160;до вашего рта нам нет дела… Маковых росинок может быть во&#160;рту сколько угодно. А&#160;немцев пропускать не&#160;имеете права. Слышите?
+</p><p>Болгарин поклонился и&#160;ударил себя кулаком в&#160;грудь так, что&#160;внутри что-то&#160;зазвенело. Он&#160;покраснел и&#160;подумал про&#160;себя:
+</p><p>— Эки черти эти немцы! Платят золотом — не&#160;могли чеком заплатить!
+</p><p>— Что&#160;это у&#160;вас звенит?
+</p><p>— В&#160;груди что-то&#160;неладно. Годы мои уж не&#160;те.
+</p><p>Русский, француз, англичанин, серб и&#160;черногорец пожевали губами и, ничего не&#160;сказав, ушли.
+</p><p>На&#160;пограничной болгарской станции происходила страшная суматоха: немецкие драгуны загоняли в&#160;товарные вагоны своих лошадей, грузили на&#160;платформы пушки, садились сами в&#160;вагоны и&#160;вообще шумели невыносимо.
+</p><p>Шумели так, что&#160;подошел даже начальник станции в&#160;сопровождении двух болгарских офицеров.
+</p><p>— Что&#160;это вы, братцы? — спросил он, почесывая затылок.
+</p><p>— В&#160;Турцию едем, — отвечал командир.
+</p><p>— А&#160;вы кто&#160;же… турки?
+</p><p>— Нет, мы&#160;так… вообще.
+</p><p>— Кто&#160;же вы по&#160;национальности?
+</p><p>— Мы&#160;оптимисты.
+</p><p>— А-а. Не был там. Не знаю. Сколько&#160;же вас?
+</p><p>— Нас-то? А&#160;полторы тысячи.
+</p><p>— Зачем&#160;же вы едете все вместе?
+</p><p>— Да&#160;так компанией, знаете, веселее.
+</p><p>— Это и&#160;верно. Вы извините, что&#160;я вас так подробно допрашиваю, но&#160;время сейчас тревожное, мы&#160;держим нейтралитет, и&#160;нам нельзя допускать, чтобы немцы проезжали в&#160;Турцию. Вы, значит, не&#160;немцы?
+</p><p>— Мы&#160;драгуны.
+</p><p>— Не был, не&#160;знаю. А&#160;что&#160;это за&#160;странная у&#160;вас одежда? У&#160;всех одинаковая.
+</p><p>— Мода у&#160;нас такая.
+</p><p>— Красивая мода. Красные штаны, голубые куртки… Очень мило! А&#160;что&#160;это у&#160;вас на&#160;плечах такие штучки с&#160;номером? Для&#160;чего это?
+</p><p>— А&#160;это номер дома, где живет каждый.
+</p><p>— А&#160;это, знаете, не&#160;так глупо! Скажем, человек напился пьяный, ни «папа», ни «мама» не&#160;говорит… Где он&#160;живет? Куда его отвезти? Неизвестно! А&#160;тут — поглядел на&#160;плечо — вот он&#160;где! А&#160;знаете?.. Меня удивляет только одна вещь…
+</p><p>— Что&#160;именно?
+</p><p>— Зачем это у&#160;вас сбоку такие длинные кривые ножики висят?..
+</p><p>— Это для&#160;разрезания книг. Читаешь, скажем, книгу, а&#160;она неразрезанная. Возьмешь и&#160;разрежешь.
+</p><p>— Образованные, — восторженно шепнул начальник станции болгарскому офицеру. — Слышали?
+</p><p>— Да! — с&#160;уважением качнул головой болгарский офицер. — Если у&#160;них такой длины ножи для&#160;разрезания книг — какой&#160;же величины должны быть книги!..
+</p><p>Начальник станции в&#160;это время хозяйским оком заглядывал во&#160;все вагоны… Остановился. Удивился.
+</p><p>— Господи, Ты Боже мой! Это ваше?
+</p><p>— Наше.
+</p><p>— Что&#160;это такое?
+</p><p>— Это? Позвоночное, однокопытное.
+</p><p>— А&#160;совсем, как&#160;лошадь.
+</p><p>— Что&#160;вы! Как&#160;можно… Разве мы&#160;допустим.
+</p><p>— Для&#160;чего ж вы их везете?
+</p><p>— Просто привыкли к&#160;ним. Будем по&#160;улице на&#160;ленточке водить.
+</p><p>— Чудеса в&#160;решете! Если&#160;бы&#160;вы не&#160;сказали, что&#160;это позвоночное однокопытное, — прямо&#160;бы&#160;можно подумать, что&#160;лошадь.
+</p><p>— Да, ведь, на&#160;лошади ездят? — спросил командир драгун.
+</p><p>— Ну, да. Ездят.
+</p><p>— А&#160;это само сейчас ехать будет. Какое&#160;же оно — лошадь?
+</p><p>— И&#160;то&#160;верно.
+</p><p>Потом начальник станции взглянул на&#160;одного солдата и&#160;улыбнулся.
+</p><p>— Что&#160;вы?
+</p><p>— Какая у&#160;него смешная штука за&#160;плечами. Вроде дудки, а&#160;внизу на&#160;конце деревянное…
+</p><p>— Да… Хорошая штука. Машинка для&#160;снимания сапог.
+</p><p>— Что&#160;вы говорите! Как&#160;же их снимать?
+</p><p>— Очень просто. Вы сразу поймете. Берется эта штука и&#160;ставится в&#160;угол. Потом человек садится на&#160;стул или&#160;на кровать и&#160;снимает рукой сапог.
+</p><p>— Ловко удумано! Этакую штуку только немец и&#160;мог выдумать. Да, послушайте… Может, вы немцы?
+</p><p>— Говорят&#160;же вам, что&#160;мы кавалеристы.
+</p><p>— Не знаю, не&#160;был. А&#160;это что? Ой-ой… какие большие. Это ваше?
+</p><p>Немец погладил рукой дуло пушки и&#160;сказал:
+</p><p>— Наше.
+</p><p>— Что&#160;это такое? Первый раз вижу: труба, колеса, ящики какие-то…
+</p><p>— Да&#160;это труба.
+</p><p>— Для&#160;чего ж она?
+</p><p>— Труба-то?
+</p><p>— Да.
+</p><p>— На&#160;солнце смотреть.
+</p><p>— Зачем?
+</p><p>— Это астрономический прибор, понимаете? Будем наблюдать затмение солнца.
+</p><p>— Эва! Хватились… Да, ведь, затмение было!
+</p><p>— Что&#160;вы говорите?!
+</p><p>— Конечно. Уже недели две, как&#160;было…
+</p><p>— Экая досада! Даром только таскать с&#160;собой придется, — вздохнул командир.
+</p><p>— Жаль мне вас, — сочувственно засмеялся начальник станции. — Влопались вы! Ну, сделаю вам, так и&#160;быть, одолжение. Ничего не&#160;возьму за&#160;провоз этих штук!
+</p><p>— Спасибо. Вы&#160;бы&#160;уж и&#160;за людей ничего не&#160;брали. Ну, за&#160;что, в&#160;самом деле? Ведь, они&#160;такие&#160;же люди, как&#160;и мы&#160;с вами… Вагонов вам не&#160;испортят… А&#160;паровоз, все равно, даром гуляет.
+</p><p>— Положим, это верно, — нерешительно сказал начальник станции. — Ну, ладно. Поезжайте так. Когда-нибудь сочтемся!
+</p><p>Поезд тронулся…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Опять вы пропустили полторы тысячи немецкой кавалерии?! До&#160;каких пор это будет продолжаться? И&#160;амуницию? На&#160;что&#160;это похоже?!
+</p><p>— Так это… пушки были? — вскричал обескураженный болгарин. — То-то&#160;мы смотрели, как&#160;будто дуло… колеса… А&#160;они&#160;говорят, что&#160;это для&#160;затмения солнца!.. Значит, это немцы были?
+</p><p>— Немцы!!! Конечно, немцы!!!
+</p><p>— Кто&#160;бы&#160;мог подумать?! Ну, и&#160;народ… Всякого вокруг пальца обведет. А&#160;уж, кажется, мы&#160;так осторожны были — все расспросили…
+</p><p>— Свинство это, вот что&#160;я вам скажу!!
+</p><p>— Грех вам так на&#160;нас кричать. Конечно, нас всякий обидеть может, всякий унизить может, а&#160;за что, спрашивается? За&#160;то&#160;только, что&#160;мы простой, беззащитный народ!.. Да?..
+</p>
+<center>КОРСИКАНЕЦ</center>
+<p>Император Вильгельм долго ходил по&#160;кабинету… Изредка подходил к&#160;электрическому звонку, протягивал руку, но&#160;сейчас&#160;же и&#160;отдергивал.
+</p><p>Наконец решительно подошел к&#160;звонку, пробормотал сквозь зубы какое-то&#160;немецкое слово и&#160;позвонил.
+</p><p>— Что&#160;прикажете, ваше величество?
+</p><p>— Почему мне ничего не&#160;докладывают о&#160;победах?
+</p><p>— «Черта лысого тебе доложишь, если побед нет», — подумал адъютант, а&#160;вслух, как&#160;немец обстоятельный, спросил:
+</p><p>— О&#160;победах с&#160;чьей стороны прикажите доложить, ваше величество?
+</p><p>— Глупый вопрос! Ступайте.
+</p><p>И&#160;снова зашагал, погруженный в&#160;задумчивость Вильгельм.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Ну, что?
+</p><p>— Изволили звонить, ваше величество?
+</p><p>— Да. Ну, что?
+</p><p>— А&#160;что?
+</p><p>— Победили?
+</p><p>— Пока нет.
+</p><p>— Глупый ответ. Ступайте.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Ну, что?
+</p><p>— Звонили, ваше величество?
+</p><p>— Э, черррт! Не мог&#160;же звонок сам зазвонить?! Конечно, звонил. Ну, как?
+</p><p>— Имею честь поздравить ваше величество с&#160;победой!!
+</p><p>— Да, что&#160;ты говоришь?! Приятно, приятно… Где? Кто? Как?
+</p><p>— На&#160;русской границе, ваше величество. Полная победа немецкого оружия! Немецкие войска уже в&#160;Эйдкунене!!
+</p><p>— Молодцы ребята! Рад, рад… Только постой… Ведь, Эйдкунен наш?
+</p><p>— Так точно. Наш.
+</p><p>— Так какая&#160;же это победа, если Эйдкунен наш?
+</p><p>— Как&#160;какая победа? Обыкновенная. Немецкие войска уже в&#160;Эйдкунене; вы подумайте, а?
+</p><p>— Тут что-то&#160;странное… Ведь до&#160;войны Эйдкунен был наш?
+</p><p>— Наш.
+</p><p>— Ну, вот! Какая&#160;же это победа, если и&#160;был наш, и&#160;есть наш?
+</p><p>— Гм… да… Что-то&#160;тут такое случилось… Действительно странное… Однако, генеральный штаб сообщает именно в&#160;этих выражениях: «Немцы уже в&#160;Эйдкунене. Полная победа немецкого оружия!»
+</p><p>— Загадочно.
+</p><p>— А, может быть, случилось так, ваше величество: Эйдкунен, действительно был наш, а&#160;потом его взяли русские, а&#160;потом мы&#160;взяли у&#160;русских.
+</p><p>— Черт знает, ничего тут не&#160;разберешь. Гм!.. Ну, ладно, пусть победа…
+</p><p>— Hoch, ваше величество!
+</p><p>— Hoch, так hoch! Только вы&#160;бы&#160;лучше не&#160;тут кричали, а&#160;там, на&#160;улице… Ступайте.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Ну, что?
+</p><p>— Изволили звонить, ваше величество?
+</p><p>— Нет, вот взял да&#160;ногой нечаянно зацепил за&#160;звонок! Раз был звонок, значит звонил! Ну, как?
+</p><p>— Имею честь донести — полная победа германского оружия! Немцы уже в&#160;Дрездене!!
+</p><p>— Как… в&#160;Дрездене? Ведь, Дрезден-то&#160;какой город? Немецкий?
+</p><p>— А&#160;еще&#160;бы, ваше величество, конечно, немецкий!.. Раз уж немцы ворвались в&#160;город, поневоле город будет немецким. Hoch! Hoch!
+</p><p>— Что&#160;вы тут кричите, как&#160;осел!.. Вы лучше скажите, какая это победа, если Дрезден и&#160;раньше был немецким городом?..
+</p><p>— Разве?..
+</p><p>— Да, ведь, Дрезден-то&#160;все время был нашим?..
+</p><p>— Действительно, нашим.
+</p><p>— Ну, какая&#160;же это победа, если наши войска в&#160;нашем&#160;же городе?
+</p><p>— Чудеса! Действительно, если хорошенько разобраться… Войска — наши и&#160;город — наш. Наши войска вошли в&#160;наш&#160;же город… Действительно, какая&#160;же это победа?.. Ничего особенного. А&#160;знаете, на&#160;первый взгляд, когда эти мальчишки с&#160;телеграммами орут: «Полная победа! Неприятель бежит: наши войска уже в&#160;Дрездене» — так кажется, что&#160;и, впрямь мы&#160;победили… Теперь-то&#160;я вижу, что&#160;тут дело не&#160;ладно!.. И&#160;потом меня уже смущает эта фраза: «Неприятель бежит!» Как&#160;бежит? Куда бежит? Хорошо, если от&#160;нас бежит… А&#160;если он&#160;за нами бежит? Довольно туманно…
+</p><p>— Надоели вы мне вашими рассуждениями. Ступайте!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Изволили звонить, ваше величество?
+</p><p>— Нет, это муха села на&#160;кнопку! Молния ударила в&#160;проволоку! Звонок сошел с&#160;ума и&#160;сам звонит!! Ух, как&#160;вы мне все надоели!.. Конечно, звонил! Ну, что&#160;нового?
+</p><p>— Победа за&#160;победой! Наши войска уже под&#160;Кельном!
+</p><p>— Черти вас раздери с&#160;такой победой! Кельн-то, ведь, наш?!
+</p><p>— Ну, так что? И&#160;слава Богу, что&#160;наш.
+</p><p>— Что&#160;ж тут особенного, если наши&#160;же войска под&#160;нашим&#160;же Кельном. Где тут, к&#160;чертям собачьим, победа?
+</p><p>— А&#160;по-моему, если&#160;бы&#160;не наши, а&#160;русские войска стояли под&#160;Кельном — вот это было&#160;бы&#160;поражение. А&#160;раз стоят наши — и&#160;слава Богу!
+</p><p>— Значит, по-вашему — победа?
+</p><p>— Обязательно. Hoch!
+</p><p>— Ну, черт с&#160;вами — hoch!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Немецкий отряд, делая разведку, поймал в&#160;поле русского мужика.
+</p><p>— Стой! — сказал командир. — Всыпьте ему, ребята! Дайте ему хорошенько… Бейте сначала по&#160;спине, по&#160;животу, а&#160;потом расквасьте ему голову. Вот так… Разбейте ему корпус, ребятки!.. Hoch!
+</p><p>— Hoch!
+</p><p>— Что&#160;это у&#160;него там в&#160;узелке? Хлеб? Мясо? Забирай его!..
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Чего вы ко&#160;мне врываетесь, как&#160;казак, без&#160;доклада? Я, ведь, не&#160;звонил!
+</p><p>— Срочное известие, ваше величество! Победа! Наш отряд разбил русский корпус!!
+</p><p>— Как&#160;разбил?
+</p><p>— На&#160;голову. И&#160;захватил обоз с&#160;хлебом и&#160;мясом… Неприятель бежал.
+</p><p>— А&#160;сколько было этого неприятеля?
+</p><p>— Вообще, неприятель… Бог его знает сколько. Только доносит главный штаб, что&#160;русский корпус разбит совершенно наголову, неприятель вырвался и&#160;убежал.
+</p><p>— Свершилось, — прошептал Вильгельм, скрестив руки на&#160;груди и&#160;загадочно глядя в&#160;даль. — Я — второй Наполеон.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Звонили, ваше величество?
+</p><p>— Нет, нечаянно письменный стол уронил на&#160;кнопку звонка. Звонил-с!! Скажите мне… только откровенно… Похож я&#160;на Наполеона?
+</p><p>— Да&#160;Господи&#160;же… как&#160;две капли воды!..
+</p><p>— Ну, серьезно?
+</p><p>— Да&#160;ей-Богу. Прямо я, как&#160;зашел сюда, так и&#160;думаю: кажется, Наполеон сидит… Как&#160;же это он&#160;попал сюда?
+</p><p>— Нет, вправду?
+</p><p>— Да&#160;уж будьте покойны. Даже я&#160;испугался. Что&#160;это, думаю, за&#160;наваждение: Наполеон давно мертвый, а, между прочим, сидит в&#160;кабинете нашего императора… Hoch!
+</p><p>— Что?
+</p><p>— Я&#160;говорю: hoch!
+</p><p>— Ну, ладно, надоел… Ты мне лучше скажи вот что: в&#160;лице-то&#160;у меня есть что-нибудь наполеоновское?
+</p><p>— Ваше величество! Масса! Так вот глядишь и&#160;думаешь: Корсиканец! Форменный корсиканец!
+</p><p>— Ну, уж ты скажешь тоже… А&#160;вот у&#160;меня усы, а&#160;тот был бритый…
+</p><p>— А&#160;это мы&#160;в один момент сделаем… Эй, портной! Парикмахер!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Пока что, надо&#160;бы&#160;мне несколько фраз для&#160;потомства сочинить, а? Как&#160;ты думаешь?
+</p><p>— Да&#160;хорошо&#160;бы… У&#160;Наполеона и&#160;у других — их уйма… Вот, например, хорошая фраза: «В&#160;мои годы Александр Македонский завоевал весь мир».
+</p><p>— Ты скажешь тоже! Как&#160;я&#160;могу это «воскликнуть», если вдвое старше Александра Македонского… Молодому Наполеону хорошо было это говорить…
+</p><p>— Ну, скажите что-нибудь вроде: «Нет&#160;больше Пиренеев».
+</p><p>— Как&#160;так нет? Ведь они&#160;есть?
+</p><p>— Я&#160;не&#160;знаю. Так вообще говорится… Ну, скажите: «Нет&#160;больше Москвы!».
+</p><p>— Неудобно. Я&#160;скажу: «Нет&#160;больше Москвы», а&#160;мне ответят: «Нечего там врать — есть Москва».
+</p><p>— Да… это действительно… «После меня, хоть потоп» — не&#160;то. «Америка для&#160;американцев» — не&#160;то… Черт его знает, чем раньше люди прославлялись?… Возьмет какой-нибудь Алкивиад, отрубит хвост собаке — и&#160;знаменит! Высечет Ксеркс плетями море — и&#160;знаменит! Поставит Колумб яйцо на&#160;стол — и&#160;знаменит! А&#160;попробуйте вы это сделать!..
+</p><p>— Да&#160;уж… Отрублю я&#160;хвост собаке — скажут: «Экий дурак, этот Вильгельм! И&#160;зачем только собаку мучает». Высеку море — смеяться будут: «С&#160;ума сошел, скажут, этот Вильгельм… Как&#160;дитя малое… Самого&#160;бы&#160;его хорошенько!»…
+</p><p>— Идея! Соберите побольше солдат ваше величество, да&#160;и загните им: «Ребята! Сорок веков смотрят на&#160;вас с&#160;высоты этих пирамид!».
+</p><p>— Каких пирамид?
+</p><p>— Ну, пирамиды построить можно…
+</p><p>— Да, ведь, пирамиды совсем свежие будут… Нет, нехорошо. Громоздко… Для&#160;одной фразы… Нет, я&#160;знаю, что&#160;я скажу!.. «Ребята, — скажу я, — ребята! Всыпьте, как&#160;следует, этим русским свиньям!».
+</p><p>— Великолепно, ваше величество! Образно, крепко и&#160;сильно. Hoch! Прикажете записать для&#160;потомства?
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Ну вот… Мы&#160;сейчас сделаем из&#160;вас Наполеона… Парикмахер! Брей ему усы!
+</p><p>— Что&#160;вы! Неужели, мои прекрасные, знаменитые усы пропадут?
+</p><p>— Не пропадут… Мы&#160;их на&#160;лоб вам наклеим. Знаете, знаменитый наполеоновский клок волос на&#160;лбу… У&#160;нас ничего не&#160;пропадет! Каска? Каску мы&#160;снимем, пусть себе под&#160;кроватью стоит… Сюртук! Есть сюртук? Так… серый?… Серый. Натягивайте! Что? В&#160;груди широк? Что?! В&#160;животе тесно?.. Ничего. Зато наполеоновский… Панталоны теперь надевайте… Да&#160;осторожнее. Шпоры! Шпоры! Эх, вы… Все панталоны шпорами разорвали!.. Так… Треуголку ему на&#160;голову. Эх-ма! До&#160;плеч она вам… Велика! Ну, ничего. Подложим внутрь десяток телеграмм о&#160;наших победах — она и&#160;будет на&#160;голове держаться… Теперь сделайте умное лицо… Трудно? Ну, ничего, постарайтесь! Ну, сойдет. Руку заложите за&#160;борт сюртука. Так. Заложили? Хорошо, что&#160;рука есть; а&#160;то скоро нечего будет и&#160;закладывать… Готово? Все? Ну, вот. Прямо форменный Наполеон. Теперь только…
+</p><p>— Что? Что «только»?
+</p><p>— Теперь только остается перевезти вас на&#160;остров св. Елены, — и&#160;все будет, как&#160;следует!!
+</p>
+<center>. . . . . . . . . . . . . . . . . . . . . . . .</center>
+<center>ЦЕЛЬ, КОТОРАЯ ОПРАВДЫВАЛА СРЕДСТВА</center>
+<p>Войдя в&#160;кабинет, я&#160;увидел странную картину: хозяин дома Канапухин вместе с&#160;тремя друзьями сидел за&#160;большим пустым столом, посредине которого, как&#160;остров среди безбрежного моря, высилась небольшая копилка, — сидел и&#160;молчал.
+</p><p>Молчали и&#160;все три гостя.
+</p><p>Изредка только кто-нибудь из&#160;сидящих лукаво улыбался, но&#160;тотчас&#160;же незаметным усилием сгонял улыбку с&#160;сияющего лица.
+</p><p>— «Типичное заседание идиотов», — подумал я, а&#160;вслух сказал:
+</p><p>— Как? Вы сидите все вместе и&#160;никто из&#160;вас не&#160;пьян??! И&#160;батарея пустых бутылок не&#160;красуется среди вас?
+</p><p>Зрелище, действительно, было редкостное…
+</p><p>— Будешь тут пьян, — проворчал гость Клинков, — когда нигде не&#160;достанешь никакого напитка!
+</p><p>— Не пить&#160;же политуру, — криво улыбнулся Громов. — Иль лак.
+</p><p>— Хотя я&#160;предлагал Громову купить лакированный комод на&#160;рынке и&#160;нализаться лаку в&#160;буквальном смысле слова.
+</p><p>— Глупо. Ты уже этот дешевый каламбур разнес по&#160;всему Петербургу.
+</p><p>Раздался звериный рев и&#160;несколько рук, схватив копилку, протянули ее сказавшему.
+</p><p>Тот пожал плечами, вынул рубль, опустил в&#160;копилку и&#160;испытующе поглядел на&#160;меня.
+</p><p>— Ты ничего не&#160;знаешь?
+</p><p>— Ничего, — отвечал я, немного удивленный всем предшествующим.
+</p><p>— И&#160;ни&#160;о чем не&#160;догадываешься?
+</p><p>— Н… нет.
+</p><p>— Ну, то-то. Где ты сейчас был?
+</p><p>— Гулял по&#160;улицам. Вы знаете, города просто не&#160;узнать…
+</p><p>— Какого города? — спросил Громов с&#160;дурацким удивлением.
+</p><p>— Как, какого? Нашего&#160;же; Петербурга.
+</p><p>И&#160;опять, как&#160;прежде, раздался радостный полузвериный рев. Несколько рук снова схватили копилку и&#160;протянули ее мне.
+</p><p>— Клади рубль!
+</p><p>— Опускай, опускай, не&#160;кочевряжься!
+</p><p>— Господа! За&#160;что?..
+</p><p>— Сказал «Петербург», вместо «Петрограда!» Мы&#160;установили штраф за&#160;это — один рубль.
+</p><p>— Да&#160;вы что&#160;тут делаете?
+</p><p>— А&#160;вот сидим, разговариваем, подкарауливаем друг друга… Кто ошибется в&#160;разговоре — снимаем с&#160;него рубль.
+</p><p>— В&#160;чью пользу?
+</p><p>— В&#160;пользу семейств запасных.
+</p><p>Я&#160;опустил рубль в&#160;кружку и&#160;сейчас&#160;же хладнокровно заявил:
+</p><p>— Считаю это неправильным.
+</p><p>— Почему?
+</p><p>— Очень просто. Где, по-вашему, должна находиться центральная организация помощи семействам запасных всей России?!
+</p><p>И&#160;я&#160;с силой стукнул кулаком по&#160;столу.
+</p><p>— Как&#160;где? — удивился простоватый Клинков. — Ясно где — в&#160;Петербурге!
+</p><p>— Положи рубль в&#160;копилку! Зачем сказал — «Петербург»?..
+</p><p>— Изволь, я&#160;положу. Но&#160;только не&#160;понимаю, почему ты не&#160;согласен.
+</p><p>— Теперь, когда ты положил рубль, я&#160;согласен. Только это мне и&#160;нужно было… А&#160;теперь, господа, бросим и&#160;поговорим серьезно. Вы знаете, у&#160;меня большое горе.
+</p><p>Я&#160;упал на&#160;стул, охватил голову руками и&#160;тихо застонал. Все заметно встревожились.
+</p><p>— Что&#160;такое?!
+</p><p>— В&#160;чем дело?!
+</p><p>— У&#160;меня пропал без&#160;вести брат…
+</p><p>— Где пропал?!. В&#160;Германии?
+</p><p>— Нет…
+</p><p>— В&#160;Австрии?
+</p><p>— Нет, нет… Здесь он&#160;пропал…
+</p><p>— Где&#160;же он&#160;жил?
+</p><p>— Да&#160;здесь&#160;же, Господи! — вскричал я&#160;с лицом, искаженным отчаянием.
+</p><p>— Где&#160;же здесь? В&#160;России?
+</p><p>— Да…
+</p><p>— Где&#160;же именно в&#160;России?
+</p><p>— Да&#160;здесь&#160;же, Боже ты мой!
+</p><p>— Где «здесь»? Это понятие растяжимое…
+</p><p>— Грех вам издеваться надо мной, — простонал я, тихо рыдая. — Если я&#160;говорю здесь — значит, здесь.
+</p><p>— Да&#160;где&#160;же здесь? В&#160;Петербурге, что&#160;ли?!!
+</p><p>Я&#160;отнял руки от&#160;лица, вытер глаза платком и&#160;усмехнулся.
+</p><p>— Опусти рубль. Сказал «Петербург».
+</p><p>— Ах, черт! Опять я&#160;попался. — У&#160;меня уже и&#160;рублей не&#160;осталось. Ну все равно разменяю… Так, где&#160;же он&#160;жил-то?
+</p><p>— Кто? — удивился я.
+</p><p>— Да&#160;брат твой!!
+</p><p>— Нигде он&#160;не жил. У&#160;меня и&#160;брата нет…
+</p><p>— А&#160;как&#160;же ты говорил…
+</p><p>— Ничего… Соврал. В&#160;пользу семейств запасных — не&#160;грешно.
+</p><p>— Тьфу!!
+</p><p>Все рассмеялись, но&#160;тотчас&#160;же, насторожившись, поглядели на&#160;меня…
+</p><p>— Ну, серьезно — довольно, — устало сказал я. — Подурачились и&#160;будет. А&#160;то&#160;ведь так и&#160;разговора нельзя вести.
+</p><p>— А, может, ты опять какую-нибудь гадость подстроить хочешь, — недоверчиво сказал Клинков.
+</p><p>— А&#160;ты не&#160;спи, — усмехнулся я. — Положим вы, южане, все сонные.
+</p><p>— Кто это южанин? — изумился Клинков.
+</p><p>— Да&#160;ты&#160;же!
+</p><p>— Я! С&#160;самого рождения был петербуржцем и…
+</p><p>— Опусти рубль!!!
+</p><p>— То&#160;есть, петроградцем, я&#160;хотел сказать.
+</p><p>— Поздно. Опусти рубль!
+</p><p>— У&#160;меня три рубля. Рубль я, положим уже должен…
+</p><p>— А&#160;ты ошибись еще раз. Как&#160;раз и&#160;выйдет три рубля.
+</p><p>— Ни&#160;за&#160;что!
+</p><p>— Очень мило!.. Очевидно, тебе рубля на&#160;этакое дело жалко. Вот москвичи не&#160;такие…
+</p><p>— Почему?..
+</p><p>— Вы знаете, сколько Москва собрала в&#160;день флагов? Свыше трехсот тысяч!!
+</p><p>— Так в&#160;Москве зато два дня собирали.
+</p><p>— Ну, так что&#160;же?
+</p><p>— А&#160;не&#160;один день?
+</p><p>— Причем здесь один день?
+</p><p>— В&#160;один день меньше наберешь.
+</p><p>— Кто наберет?
+</p><p>— Всякий.
+</p><p>Я&#160;помолчал, немного разочарованный.
+</p><p>— Гм… да! А&#160;зато в&#160;Москве продавали флаги всех держав…
+</p><p>— И&#160;у&#160;нас тоже! — ревниво возразил Клинков.
+</p><p>— Где это у&#160;вас? Во&#160;втором Парголове? В&#160;Мустамяках?
+</p><p>— Зачем в&#160;Парголове… Здесь.
+</p><p>— Да&#160;где? Где здесь?
+</p><p>— В&#160;Петрограде, — усмехнулся Клинков.
+</p><p>— Это называется — уйти парадом против переднего пояса, — засмеялся хозяин.
+</p><p>— Бог с&#160;ним, — добродушно махнул я&#160;рукой. — Все-таки я&#160;преклоняюсь перед&#160;москвичами. А&#160;еще говорят, что&#160;они сухой, черствый народ, что&#160;все они&#160;помешаны на&#160;чинах, что&#160;все сплошь бюрократы.
+</p><p>— Кто говорит это о&#160;москвичах? — не&#160;утерпел Клинков, завозившись в&#160;кресле.
+</p><p>— Все говорят, — подтвердил я, тупо глядя на&#160;него.
+</p><p>— Чепуха! Это, скорей, типичные петербургские черты, которые…
+</p><p>— Тсс! Вот теперь ты можешь опустить все три рубля… И&#160;сдачи не&#160;нужно. А&#160;в&#160;остальном ты, конечно, прав.
+</p><p>— Опустить я&#160;опущу, но&#160;только ты свинья. И&#160;разговаривать с&#160;тобой не&#160;хочу!
+</p><p>— Ну, ладно… Теперь уж серьезно — бросим. Надоело. Читали последние телеграммы?
+</p><p>Все обрадовались перемене разговора облегченно вздохнули, сдвинулись ближе и&#160;заговорили…
+</p><p>— Читали вы, господа, сообщение, — сказал я, — что&#160;Вильгельм послал Турции триста миллионов марок.
+</p><p>— Первый раз слышу…
+</p><p>— Нет, серьезно… Об&#160;этом есть даже телеграмма из&#160;этого города… как&#160;его?
+</p><p>— Копенгагена?
+</p><p>— Нет… Вот: из&#160;Спа.
+</p><p>— Откуда&#160;же в&#160;Спа могут знать об&#160;этом? — скептически заметил Клинков.
+</p><p>— В&#160;Спа-то? В&#160;Спа все знают, — уверенно сказал я. — Ведь оттуда почти все телеграммы.
+</p><p>— Первый раз слышу! Причем тут Спа? Городишко маленький, о&#160;котором ничего не&#160;слышно…
+</p><p>— Как&#160;не&#160;слышно?! — горячо подхватил я. — А&#160;почему&#160;же все телеграммы помечаются в&#160;скобках «(СПА)»?!
+</p><p>Это был не&#160;смех… Это было скорее ржание стада лошадей.
+</p><p>Клинков упал на&#160;Громова, а&#160;хозяин с&#160;Подходцевым откинулись на&#160;спинки стульев, задыхаясь от&#160;хохота.
+</p><p>Я&#160;недоумевающе глядел на&#160;них, что&#160;еще более усиливало их веселое настроение.
+</p><p>— В&#160;чем дело, господа? — тщетно вопрошал я. — Что&#160;такое?
+</p><p>— Да&#160;пойми&#160;же ты… — отдуваясь, простонал хозяин, — дерево ты этакое… что… ох не&#160;могу! Что… «СПА» — это не&#160;название города, а&#160;сокращенное наименование агентства, которое дает телеграмму: с. —петербургское агентство!!!
+</p><p>— Опусти рубль! — сурово сказал я.
+</p><p>— Ах, черт, — спохватился хозяин. — Теперь уже я&#160;ошибся…
+</p><p>— Это только и&#160;требуется! — цинично заметил я.
+</p><p>С&#160;кислой миной хозяин уплатил штраф и&#160;сказал:
+</p><p>— Ну, теперь уж я, как&#160;хозяин, говорю — довольно. А&#160;то&#160;этак мы&#160;разоримся.
+</p><p>— Довольно, так довольно, — благодушно согласился я. — О&#160;чем&#160;же говорить?
+</p><p>— О&#160;литературе! Ну слова о&#160;войне, о&#160;столице — никаких хитростей!
+</p><p>— Что&#160;же мы&#160;будем говорить о&#160;литературе, когда сейчас никто ничего не&#160;читает, кроме газет.
+</p><p>— Извините, — возразил я. — Это, может быть, ты не&#160;читаешь, а&#160;я читаю.
+</p><p>— Что&#160;же ты читаешь?
+</p><p>— Крестовского перечитываю. Очень талантливо написано.
+</p><p>— Ну и&#160;вкус!..
+</p><p>Опять воцарилось недолгое молчание.
+</p><p>— А&#160;правду говорят, — с&#160;любопытством спросил я, — что&#160;он заимствовал у&#160;Помяловского несколько глав из «Панургова стада».
+</p><p>— Не из «Панургова стада», — поправил экзальтированный Клинков, — а&#160;из «Петербургских трущоб»!
+</p><p>— Из «Петроградских», — поправил я. — Опусти рубль.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>На&#160;другой день мы&#160;с Клинковым свезли в&#160;комитет помощи семьям запасных 67&#160;рублей.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Читатели! Я&#160;уверен, что&#160;не вся Россия прочтет этот фельетон… Поэтому идею, вложенную в&#160;него, предлагаю для&#160;эксплуатации. Если, благодаря этому, несколько лишних тысяч попадут на&#160;долю семейств запасных — никто роптать не&#160;будет.
+</p><p>Ритористы скажут, что&#160;теперь не&#160;время веселиться.
+</p><p>Но&#160;никогда еще цель так основательно не&#160;оправдывала средств, как&#160;в данном случае. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+</p>
+<center>КОММЕНТАРИИ</center>
+<p>Книжка вышла в&#160;Дешевой юмористической библиотеке «Нового Сатирикона» без&#160;указания номера выпуска в 1914&#160;г.&#160;Все фельетоны, собранные в&#160;ней, публиковались впервые.
+</p><p>Книжка носит явный антинемецкий характер что, разумеется, сказывается на&#160;качестве юмора.
+</p><p>В&#160;настоящем издании воспроизводится по&#160;указанной публикации.
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="Салопница."><span id=".D0.A1.D0.B0.D0.BB.D0.BE.D0.BF.D0.BD.D0.B8.D1.86.D0.B0."></span>Салопница.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=1" title="Редактировать раздел «Салопница.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>Когда у&#160;Германии с&#160;Англией произошел разрыв дипломатических сношений, император Вильгельм II… написал…</i> — Вильгельм II (1855—1941), германский император и&#160;король Пруссии (1888—1918), во&#160;внешней политике придерживался стремлений к&#160;экспансии, к&#160;переделу мира в&#160;интересах Германии.
+</p><p><i>Тут у&#160;нас завязалось нечто войны с&#160;Францией…</i> — В&#160;данном фрагменте рассказа Аверченко, хотя и&#160;с некоторыми неточностями, излагает начало Первой мировой войны. Исторически последовательность событий происходила следующим образом: 15 (28) июля 1914&#160;г.&#160;Австро-Венгрия, использовав в&#160;качестве предлога убийство эрцгерцога Франца Фердинанда, объявила войну Сербии. 19 июля (1 августа) Германия объявила войну России, 21 июля (3 августа) — Франции. 22 июля (4 августа) Великобритания объявила войну Германии; 10 (23) августа на&#160;стороне Антанты (союзного блока Англии, Франции и&#160;России, созданного еще в 1904—1907&#160;гг.) вступила в&#160;войну и&#160;Япония. 16 (29) октября 1914&#160;г. на&#160;стороне германо-австрийского блока вступила в&#160;войну Турция. 10 (23) мая 1915&#160;г. к&#160;Антанте примкнула Италия. 1 (14) октября 1915&#160;г. на&#160;стороне германо-австрийского блока выступила Болгария.
+</p><p><i>Молоко нужно с&#160;эмсом пить.</i> — Эмс — курорт в&#160;прусской провинции Гессен-Нассау, славился своими щелочно-соляными источниками минеральной воды. Минеральная вода эмс пользовалась большой популярностью.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Союзник."><span id=".D0.A1.D0.BE.D1.8E.D0.B7.D0.BD.D0.B8.D0.BA."></span>Союзник.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=2" title="Редактировать раздел «Союзник.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>Hoch!</i> (нем.) — Ура!
+</p><p><i>Все младотурки раскрали.</i> — Младотурки — европейское название националистической организации «Единение и&#160;прогресс», основанной в 1889&#160;г. и&#160;возглавившей борьбу против феодального абсолютизма. В&#160;результате руководимой ими Младотурецкой революции 1908&#160;г. пришли к&#160;власти, но&#160;не изменили феодально-клерикального строя Османской империи, не&#160;разрешили аграрных и&#160;национальных вопросов, способствовали подчинению Турции Германии. После поражения Турции в&#160;Первой мировой войне самоликвидировались.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Луч_света_во_тьме."><span id=".D0.9B.D1.83.D1.87_.D1.81.D0.B2.D0.B5.D1.82.D0.B0_.D0.B2.D0.BE_.D1.82.D1.8C.D0.BC.D0.B5."></span>Луч света во&#160;тьме.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=3" title="Редактировать раздел «Луч света во тьме.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>.<i>..я&#160;им еще устрою Аустерлиц…</i> — 2 декабря 1805&#160;года Наполеон одержал победу над&#160;австрийской и&#160;русской армиями. Эта победа считалась одним из&#160;важнейших военных достижений Наполеона.
+</p><p><i>Может быть, Виктория?</i> — Виктория (1819—1901), королева Великобритании в 1837—1901&#160;гг.
+</p><p><i>Как&#160;там зовут президента? — Вильсон.</i> — Вудро Вильсон (1856—1924) — американский политический деятель, президент США в 1913—1921&#160;гг. На&#160;стороне Антанты США выступили лишь в&#160;апреле 1917&#160;г.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Корсиканец."><span id=".D0.9A.D0.BE.D1.80.D1.81.D0.B8.D0.BA.D0.B0.D0.BD.D0.B5.D1.86."></span>Корсиканец.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=4" title="Редактировать раздел «Корсиканец.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>«В&#160;мои годы Александр Македонский завоевал весь мир». — Эта фраза</i> принадлежит не&#160;Наполеону, а&#160;Юлию Цезарю, о&#160;чем сообщает римский историк Плутарх в&#160;книге «Жизнеописания двенадцати государей».
+</p><p><i>«После меня хоть потоп».</i> — Эта фраза ошибочно приписывается французскому королю Людовику XV, она принадлежит его фаворитке маркизе Помпадур.
+</p><p><i>Возьмет какой-нибудь Алкивиад…</i> — Алкивиад (ок. 450—404 до&#160;н. э.), афинский стратег (военачальник) с 421&#160;г. в&#160;период Пелопоннесской войны, неоднократно переходил на&#160;вражескую сторону Спарты, в 411&#160;г. поддерживал олигархические правительства в&#160;Афинах. Выиграл несколько морских сражений в 411—408&#160;гг.
+</p><p><i>Высечет Ксеркс плетями море…</i> — Ксеркс (ум. в 465 до&#160;н. э.) — царь государства Ахменидов с 486&#160;г.&#160;до&#160;н. э. Согласно легенде, во&#160;время войны с&#160;греками буря разрушила мосты через&#160;Геллеспонт, тогда Ксеркс высек Геллеспонт, и&#160;буря успокоилась.
+</p><p><i>Сорок веков смотрят на&#160;вас с&#160;высоты этих пирамид!</i> — Существует несколько вариантов этой фразы, с&#160;которой обратился генерал Бонапарт к&#160;солдатам перед&#160;сражением при&#160;египетских пирамидах 21 июля 1798&#160;г.
+</p><p><i>…остается перевести вас на&#160;остров св. Елены…</i> — Остров св. Елены — небольшой остров вулканического происхождения в&#160;южной части Атлантического океана, колония Великобритании. Здесь в 1821&#160;г. умер в&#160;ссылке Наполеон.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Цель,_которая_оправдывала_средства."><span id=".D0.A6.D0.B5.D0.BB.D1.8C.2C_.D0.BA.D0.BE.D1.82.D0.BE.D1.80.D0.B0.D1.8F_.D0.BE.D0.BF.D1.80.D0.B0.D0.B2.D0.B4.D1.8B.D0.B2.D0.B0.D0.BB.D0.B0_.D1.81.D1.80.D0.B5.D0.B4.D1.81.D1.82.D0.B2.D0.B0."></span>Цель, которая оправдывала средства.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=5" title="Редактировать раздел «Цель, которая оправдывала средства.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>Сказал «Петербург» вместо «Петрограда»!</i> — С&#160;началом Первой мировой войны Санкт-Петербург (название явно германского происхождения), был переименован в&#160;Петроград (явно русское название). Это название сохранялось до 1924&#160;г., когда в&#160;честь В. И. Ленина (после его смерти) город был назван Ленинградом. В 1992&#160;г. в&#160;порыве борьбы с&#160;советским прошлым городу вновь было дано первоначальное название — Санкт-Петербург.
+</p><p><i>Крестовского перечитываю.</i> — Всеволод Владимирович Крестовский (1840—1895) — автор многочисленных повестей и&#160;романов, написанных по&#160;шаблону французских авантюрных романов. Наиболее известен его роман «Петербургские трущобы» (1864—1867), где он&#160;достаточно убедительно и&#160;ярко показал городские контрасты. В&#160;романах «Панургово стадо» (1869) и «Две силы» (1874) он&#160;выступил против революционных настроений молодежи, в&#160;защиту существующего строя и&#160;идей монархизма и&#160;православия.
+</p><p><i>Заимствовал у&#160;Помяловского…</i> — Николай Герасимоеич Помяловский (1835—1863) — писатель-реалист. Наиболее известны его произведения «Очерки бурсы» (1862—1863), повести «Мещанское счастье» (1862) и «Молотов» (1861), где он&#160;создал яркие образы разночинцев.
+</p><p><br />
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4837660" /><hr class="hr-custom" style="width:8em;margin-left:0ex; margin-right:auto; margin-top: 2ex; margin-bottom: 2ex;" /><div class="references-small" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Дословное объяснение болгарского правительства.</span>
+</li>
+</ol>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐f79556446‐7rxcw
+Cached time: 20260217090005
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.099 seconds
+Real time usage: 0.175 seconds
+Preprocessor visited node count: 451/1000000
+Revision size: 97686/2097152 bytes
+Post‐expand include size: 12074/2097152 bytes
+Template argument size: 1217/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1298/5000000 bytes
+Lua time usage: 0.040/10.000 seconds
+Lua memory usage: 1785854/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  134.844      1 -total
+ 89.69%  120.938      1 Шаблон:Отексте
+  5.79%    7.806      4 Шаблон:---
+  2.20%    2.966      1 Шаблон:Примечания
+  1.27%    1.710      1 Шаблон:License
+  1.25%    1.683     17 Шаблон:***
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:997501:|#|:idhash:canonical and timestamp 20260217090005 and revision id 5273453. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=О_немцах_и_прочем_таком_(Аверченко)&amp;oldid=5273453">https://ru.wikisource.org/w/index.php?title=О_немцах_и_прочем_таком_(Аверченко)&amp;oldid=5273453</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B0_%D0%B8_%D1%8E%D0%BC%D0%BE%D1%80" title="Категория:Сатира и юмор">Сатира и юмор</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Категория:Аркадий Тимофеевич Аверченко">Аркадий Тимофеевич Аверченко</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1914_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1914 года">Литература 1914 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_100" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Категория:Импорт/az.lib.ru/Аркадий Тимофеевич Аверченко">Импорт/az.lib.ru/Аркадий Тимофеевич Аверченко</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 21 февраля 2025 года в 23:10.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9E_%D0%BD%D0%B5%D0%BC%D1%86%D0%B0%D1%85_%D0%B8_%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%BC_%D1%82%D0%B0%D0%BA%D0%BE%D0%BC_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">О немцах и прочем таком (Аверченко)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-f79556446-7rxcw","wgBackendResponseTime":480,"wgPageParseReport":{"limitreport":{"cputime":"0.099","walltime":"0.175","ppvisitednodes":{"value":451,"limit":1000000},"revisionsize":{"value":97686,"limit":2097152},"postexpandincludesize":{"value":12074,"limit":2097152},"templateargumentsize":{"value":1217,"limit":2097152},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1298,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  134.844      1 -total"," 89.69%  120.938      1 Шаблон:Отексте","  5.79%    7.806      4 Шаблон:---","  2.20%    2.966      1 Шаблон:Примечания","  1.27%    1.710      1 Шаблон:License","  1.25%    1.683     17 Шаблон:***"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"10.000"},"limitreport-memusage":{"value":1785854,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Аркадий Тимофеевич Аверченко\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"Салопница\u003Cbr\u003E\\\nСоюзник\u003Cbr\u003EЛуч света во тьме\u003Cbr\u003EСтрана простофиль\u003Cbr\u003EКорсиканец\u003Cbr\u003EЦель, которая оправдывала средства\",\n    [\"published\"] = \"1914\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/a/awerchenko_a_t/text_1914_o_nemtzah.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"О немцах и прочем таком\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-f79556446-7rxcw","timestamp":"20260217090005","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

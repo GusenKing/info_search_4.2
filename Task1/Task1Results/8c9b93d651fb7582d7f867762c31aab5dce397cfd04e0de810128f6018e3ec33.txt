@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Из крымских рассказов (Шмелёв) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"3dc980a8-9ecf-430b-adec-9ac962b72d8f","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Из_крымских_рассказов_(Шмелёв)","wgTitle":"Из крымских рассказов (Шмелёв)","wgCurRevisionId":5315592,"wgRevisionId":5315592,"wgArticleId":1040075,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru","Импорт/az.lib.ru/Иван Сергеевич Шмелев","Проза","Сборники рассказов","Иван Сергеевич Шмелёв","Литература 1936 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Из_крымских_рассказов_(Шмелёв)","wgRelevantArticleId":1040075,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5315592,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Из крымских рассказов (Шмелёв) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Из_крымских_рассказов_Шмелёв rootpage-Из_крымских_рассказов_Шмелёв skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%98%D0%B7+%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2+%28%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%98%D0%B7+%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2+%28%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%98%D0%B7+%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2+%28%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%98%D0%B7+%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2+%28%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Крест"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Крест">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Крест</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Крест-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-«Ектрыга»"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#«Ектрыга»">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>«Ектрыга»</span>
+			</div>
+		</a>
+		
+		<ul id="toc-«Ектрыга»-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Виноград"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Виноград">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Виноград</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Виноград-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Стенька_рыбак_Рассказ_доктора"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Стенька_рыбак_Рассказ_доктора">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Стенька рыбак Рассказ доктора</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Стенька_рыбак_Рассказ_доктора-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Из крымских рассказов (Шмелёв)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%98%D0%B7+%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85+%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2+%28%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)&amp;oldid=5315592" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%28%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%29&amp;id=5315592&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2598%25D0%25B7_%25D0%25BA%25D1%2580%25D1%258B%25D0%25BC%25D1%2581%25D0%25BA%25D0%25B8%25D1%2585_%25D1%2580%25D0%25B0%25D1%2581%25D1%2581%25D0%25BA%25D0%25B0%25D0%25B7%25D0%25BE%25D0%25B2_%28%25D0%25A8%25D0%25BC%25D0%25B5%25D0%25BB%25D1%2591%25D0%25B2%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2598%25D0%25B7_%25D0%25BA%25D1%2580%25D1%258B%25D0%25BC%25D1%2581%25D0%25BA%25D0%25B8%25D1%2585_%25D1%2580%25D0%25B0%25D1%2581%25D1%2581%25D0%25BA%25D0%25B0%25D0%25B7%25D0%25BE%25D0%25B2_%28%25D0%25A8%25D0%25BC%25D0%25B5%25D0%25BB%25D1%2591%25D0%25B2%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%28%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%28%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%28%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%28%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%28%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_%28%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Из крымских рассказов</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%A8%D0%BC%D0%B5%D0%BB%D0%B5%D0%B2" class="mw-redirect" title="Автор:Иван Сергеевич Шмелев">Иван Сергеевич Шмелев</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1936</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/s/shmelew_i_s/text_1936_iz_krymskih_rasskazov.shtml">az.lib.ru</a></span>  • 1. Крест. 2. «Ентрыга». 3. Виноград. 4. Стенька-рыбак</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%A8%D0%BC%D0%B5%D0%BB%D0%B5%D0%B2" class="mw-redirect" title="Автор:Иван Сергеевич Шмелев">Иван Сергеевич Шмелев</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<center>Ив. Шмелев</center>
+<center>Из&#160;крымских рассказов</center>
+<center>1. Крест. 2. «Ентрыга». 3. Виноград. 4. Стенька-рыбак</center>
+<p>Ив. Шмелев. Избранные рассказы
+</p><p>Издательство имени Чехова. Нью-Йорк, 1955
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="Крест"><span id=".D0.9A.D1.80.D0.B5.D1.81.D1.82"></span>Крест</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)&amp;action=edit&amp;section=1" title="Редактировать раздел «Крест»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В&#160;то&#160;лето, первый год революции, я&#160;жил у&#160;приятеля в&#160;Крыму. По&#160;дорогам еще не&#160;грабили, в&#160;садах и&#160;на виноградниках шли работы, приезжие купались, катались под&#160;балдахинами, езжали даже на&#160;пикники. В&#160;городке, внизу, наезжие неизвестные уже начали, правда, разогревать рыбаков и&#160;садовников — отбирать дачи у&#160;буржуев, но&#160;народ был мирный и&#160;трудовой, знавший копейке цену: дачку-то&#160;получить не&#160;плохо, да, пожалуй, про&#160;всех не&#160;хватит, и&#160;без драки не&#160;обойтись. Присланные «газовики», из&#160;лазарета, начинали уже трясти сады и&#160;выламывать розовые кусты, «для&#160;барышнев», но&#160;покуда было еще спокойно. А&#160;наверху, где я&#160;жил, было совсем мирное житие. Бродили по&#160;балочкам коровы, побрякивая боталами, зрели в&#160;стеклянном блеске облитые солнцем виноградники, постукивали ленивые можары на&#160;белой дороге за&#160;холмами: по&#160;утрам синеватые дымки дымились над&#160;тихими мазанками; белыми лебедями трепетало вымытое белье по&#160;ветру, где-то&#160;автомобиль поторкивал, далеко… — смотрели горы да&#160;сонно синело море.
+</p><p>Но&#160;приятель-художник уже не&#160;расставлял мольберта, не <i>брал</i> ни «стеклянного блеска виноградников», ни «балочки на&#160;солнце». Я&#160;был несказанно удивлен, когда заявил он&#160;мне, что&#160;теперь… «занялся коровами». Он&#160;был человек практичный, но&#160;не только это толкнуло его на&#160;фермерство. Он&#160;говорил, что&#160;идут новые времена и «будет предъявлен счет». Ну да, жизнью. — «А&#160;зависеть от&#160;хама не&#160;желаю!» В&#160;дальней балке он&#160;поставил зимой коровники, домик доильщицам, купил стадо голов пятнадцать, — «красавицы, а&#160;не коровы!» — и&#160;поставлял молоко для&#160;лазарета: дело полезное и&#160;верное.
+</p><p>— Сам работаю дьяволом, и&#160;ни одна скотина не&#160;посмеет орать на&#160;меня и&#160;называть буржуем. Работаю на&#160;государство. Ну, и&#160;сам буду независим. Может и&#160;мужицкая кровь сказалась. Никакой не&#160;толстовец, а… любо мне. Буду писать коров, есть такие красавицы!.. Теперь критики скажут, что&#160;Пиньков от&#160;пейзажного импрессионизма ушел в «коровы» — плевать. В&#160;коровьих глазах я&#160;теперь вижу больше, чем в&#160;иной человеческой харе. А «харю» вы у&#160;меня увидите.
+</p><p>Пиньков и&#160;всегда был странный, что-то&#160;в себе носивший; но&#160;в тот приезд он&#160;показался мне чрезвычайно странным, резко переменившимся. Он&#160;ходил чуть-ли&#160;не оборванцем, в&#160;обвислых штанах горохового цвета, в&#160;чувяках на&#160;босу ногу, в&#160;синей рубахе, пропотевшей и&#160;вонявшей коровником, в&#160;поярковой выгоревшей шляпе широким колоколом. Брился редко, ногти были поломаны и&#160;грязны, мужицкие руки в&#160;ссадинах, взгляд мрачный. Огромная его «студия» — вся его дачка состояла из&#160;одной этой комнаты, а&#160;я устроился в&#160;маленькой закутке, — представляла теперь какой-то&#160;разрытый склад: стояли мешки с&#160;мукой и&#160;отрубями, висела сбруя, грудились молочные бидоны, на&#160;стуле «прогуливалась» пропотевшая рубаха, отстаивались в&#160;блюдах сливки, — а&#160;со стены глядели на&#160;всё это «кусочки солнца» в&#160;талантливых этюдах, Репинский Толстой в&#160;поле, две-три коровьих морды и&#160;круглолицая молодая баба с «коровьими» глазами. Лицо молодки выписано было сочно, играло жизнью.
+</p><p>— Вот это — женщина! — говорил Пиньков. — Но&#160;это что, тень только. Поглядите ее в&#160;натуре, на&#160;работе. Это — <i>жизнь!</i> Только она всё это… — показал он&#160;кругом, — освещает… и&#160;освяшеет. В&#160;этом — вся философия и&#160;весь смысл. Это — робота! — выговорил он&#160;округло, веско. — Сила хозяйственности, порядка, <i>верности.</i> Я&#160;ее очень уважаю. И&#160;звать ее… ну, как&#160;вы думаете?.. Маша. Лучше не&#160;подберешь. Я&#160;знаю народ, и <i>знаю</i>, во&#160;что может обернуться <i>это…</i> которое именуют революцией. Махрового представителя <i>этого</i> вы увидите… работает на&#160;ферме. А&#160;Маша… Ну, вы увидите — и&#160;поймете, почему я&#160;отдался ферме. Жизнь, говорят, борьба… — я&#160;борюсь.
+</p><p>Перед&#160;вечером мы&#160;пошли на&#160;ферму, в&#160;версте от&#160;дачи. Кругом были выжженные холмы и&#160;балки. Мы&#160;поднялись на&#160;самую высоту, откуда видно шоссе на&#160;Ялту. Глубоко внизу лежал бело-золотистый городок в&#160;синей кайме залива. Горы — Чатыр-Даг, Демерджи, Судакские, — всё те&#160;же. А&#160;в&#160;балочке под&#160;нами — новый совсем «пейзаж»: выбеленая мазанка, «в&#160;крестовину», низенькие сараи, крытые побеленым толем, пригнанные доить коровы, огненные в&#160;вечернем солнце, розовые, червонные… белоголовые ребятишки с&#160;кусищами ситника под&#160;носом, золотая гора навоза, блистающие водой колоды… в&#160;пустынной когда-то&#160;балке — играло жизнью. Коров уже доили. Было видно, как&#160;проворно играли голые бабьи руки под&#160;вздутым брюхом; в&#160;тихом вечере было слышно, как&#160;зыкзыкали струйки об&#160;доенку. Из&#160;домика вышла босая, подоткнутая баба, с&#160;кофейными руками и&#160;ногами, светловолосая, поглядела на&#160;нас из-под&#160;ладони и&#160;легкою перевалочкой пошла к&#160;коровам.
+</p><p>Мы&#160;спустились. На&#160;корявых бревнах курил-поплевывал какой-то&#160;жигулястый, в&#160;матросском тельнике, очень грязном, в&#160;сплюснутом картузишке на&#160;макушке, рыжевато-веснущатый, худолицый и&#160;скуластый. Он&#160;остро метнул в&#160;нас глазками и&#160;подкрутил верткую ногу под&#160;бревно, как&#160;хвостик. Пиньков хмуро спросил его, кончил&#160;ли&#160;штукатурную работу.
+</p><p>— Как&#160;это кончил, скоры вы больно на&#160;концы! — дерзко сказал веснусчатый, и&#160;я заметил, что&#160;и руки его в&#160;горчичных пятнах, крапчато-пегие, и&#160;к тому&#160;же еще рябой; зеленоватые, злые глазки, «змеиные», хитро и&#160;зло шныряли; верткие его ноги завивались, словно искали спрятаться. — Гулять приехали? — спросил он&#160;нагло, сплевывая старательно и, видимо, интересуясь этим. — Эх, житье господам! А&#160;нам, черному народу, одни поглядки.
+</p><p>— Поговорите-ка с&#160;ним, первый оратор здесь, самый балабол, — хмуро сказал Пиньков, — а&#160;я по&#160;хозяйству пройдусь пока. Ну-ка, разговорись, Марчук, просвети барина.
+</p><p>— Я&#160;знаю, вы писатели… — лениво сказал Марчук, которого Пиньков называл за&#160;глаза Гришкой. — А&#160;про&#160;чево вы писаете? небось про&#160;девок, про&#160;всякие пустяки… денежки огребаете. Я&#160;писателев зна-ю, у&#160;нас на «Потемкине» то-же были писа-тели… одного мы&#160;в топке чуть не&#160;сожгли, с&#160;альхеереем… забрали тогда с&#160;Афона, в&#160;газеты про&#160;нас писал. Не альхерей… энтого мы&#160;за толстое брюхо взяли и&#160;сожгли… я&#160;его первый жег! Он&#160;кричит — ай-яй-яй!.. а&#160;я ево, прямо за&#160;волосья — и&#160;в топку, пой, сукин сын, молебен, и&#160;никаких. А&#160;что, господин писатель, чать вам не&#160;ндравится наша леворюция? Семен Миколаичу дюже не&#160;ндравится. Я&#160;ему предупрежал, не&#160;встревайтесь не&#160;в ваше дело, мажьте свои бумажки… дак он&#160;вон коровками занялся, на&#160;бабах ездит. Хлопцев наших никак не&#160;узял, а&#160;где это видано… нежное сучество пущать на&#160;лошади по&#160;горам молоко возить! Разве бабе можно управиться, по&#160;горам?! Намедни Маша… везла оттеда, с&#160;лазаретов, помои… теперь товаришщей-солдатиков мы&#160;сытно кормим; сами хозяева стали… дак они&#160;уж и&#160;макаронов не&#160;желают. Вот Семен Миколаич и&#160;пристроил, задарма макароны, а?! коровам своим макароны травит, всенародное достояние, а?! И&#160;что&#160;же, бабенка молоденькая, животом бочку подпирала, сам видал! Вить она так всею себя испортить может, это недопустимо так, исплоатация трудовой женской слабости… Я, говорит, гам теперь трудовой, а&#160;не буржуй, а?! А&#160;на&#160;бабах ездит? Ему коровами забавляться… по&#160;гривеннику за&#160;бутылку давай! Мало ему краски травить, от&#160;утрудяшщного народа хорошую пользу отбивает, кажный ему день сорок целкачей находит, да&#160;пойло с&#160;солдатиков, да&#160;сено даем казенное… а&#160;он денежки загребает. Нет, мало им леворюции…
+</p><p>Я&#160;покуривал и&#160;слушал «первого оратора». Он&#160;нес околесицу, и&#160;в этой околесице было одно и&#160;одно — необъяснимая на&#160;всё злость. Спорить с&#160;ним, что-то&#160;ему доказывать, — было, конечно, бесполезно. Он&#160;и&#160;сам это чувствовал.
+</p><p>— А&#160;чего вы, господин писатель, слушаете да&#160;помалкиваете, не&#160;можете ничего напройтив сказать? не&#160;можете? А-а… у&#160;нас правда, вот и&#160;не можете. А&#160;вы скажите одно словечко, а&#160;я в&#160;опоницию всё скажу, докажу! А-а, не&#160;можете… Писатели вы, конешно… встихи сочиняете! У&#160;нас, в&#160;Одесте, энти встихи товарищи сами сочиняли. Я&#160;сейчас вам скажу, пропою, глядите…
+</p><p>И&#160;он&#160;мне пропел «встихи», — я&#160;их тут&#160;же и&#160;записал:
+</p><p>Катя с&#160;Маничкой купались
+</p><p>И&#160;заплили далеко,
+</p><p>А&#160;тово не&#160;замечали,
+</p><p>Что&#160;парАход уж близкО.
+</p><p>Вдруг парАход разбежался,
+</p><p>Волны с&#160;шумом раздалИсь,
+</p><p>И&#160;две миленьки девчонки
+</p><p>БИстро с&#160;жизнью рассталИсь.
+</p><p>— Сами писатели… — сказал он&#160;важно, — усё умеем.
+</p><p>— Так вы и&#160;на «Потемкине» были — спросил я. — Вы, значит, старый революционер.
+</p><p>— А&#160;как&#160;же! мы&#160;кашу заварили. А&#160;вот, постойте, скоро и&#160;расхлебка будет. Нет, вы мине хучь одно словотв опаницию скажите… не&#160;можете. А&#160;чево мине Семен Миколаич за&#160;старшого на&#160;свою хверму не&#160;желает? Сам коров пасет, а! На&#160;бабах ездит… Его&#160;ли&#160;дело коров доить, мало ему дачи? У&#160;него дилижан хороший, линейка, дроги, две лошадки… курей полсотни, коров двадцать голов… молока четыреста бутылок за&#160;день, а?! А&#160;жадность, от&#160;бедного человека отымают. Скажите ему, я&#160;ему предупрежал, он&#160;мине не&#160;желает слушать, с&#160;ливонвером ходит… это как&#160;же, напротив нашей леворюции?! Рази я&#160;не знаю, кто они… контрацанеры! Я&#160;им прямо говорю, шквалу не&#160;выдержит…
+</p><p>— Ну, а&#160;что&#160;же ему делать, по-вашему?
+</p><p>— А&#160;чего я&#160;делаю? я&#160;тружусь, у&#160;поте лица… и&#160;усе должны у&#160;поте, по&#160;правде, а&#160;не… на&#160;бабах ездить. Бедного человека обижают, женчину, двое ребяток, муж без&#160;вести пропал, в&#160;окопах, из-за&#160;дерьма… Я?.. Ослобожен, как&#160;первый левоцанер, «потемкинец», слава мне! А&#160;они&#160;за бабой-сиротой; от&#160;утрудящегося народа отбивают… Я&#160;им предупрежал, возьмите мине, я&#160;соблюду ваш интерес, порядок уж наведу на&#160;вашей хверме…
+</p><p>Я&#160;пошел к&#160;домику. Коров уже подоили, цедили молоко, торопились управиться до&#160;ночи. Пахло коровами, теплом молочным. Скуластая девка Настя, — чернявая, работала лихорадочно и&#160;срыву, сухо горела вся. Пиньков поднимал ведра и&#160;выливал в&#160;цедилку. Маша работала ровно, скоро и&#160;весело. Она была статная, мягкая, открытая. Весело на&#160;меня взглянула, серыми круглыми глазами, в&#160;розовом отблеске от&#160;зари, сказала — «драствуйте», выплеснула широким махом выполоски с&#160;ведра, шлепнула, лаской, мешавшего белобрысого Степанку, сунула пухлый ситный в&#160;просившие ручки Ляльке, белоголовой и&#160;бронзовой, утерла запястьем вспотевший лоб, сказала Пинькову усмешливо — «да&#160;не мешайте, Семен Николаич, обмолочитесь только… лучше ступайте курите с&#160;барином…» — сказала ласково — <i>близким</i> говором, нараспев, и&#160;я подумал, что&#160;у них отношения — <i>такие.</i> Было видно, как&#160;весело ей работать, как&#160;легко у&#160;ней на&#160;душе, что&#160;лучшего ей не&#160;надо, что&#160;она здорова и&#160;счастлива. Она была вся какая-то&#160;светлая, легкая, пышная, игривая. Голос у&#160;ней был сочный, грудной, певучий, — русский. Чем-то&#160;она напоминала толстовскую Катюшу Маслову, но&#160;не теми «коровьими» глазами, что&#160;придал ей Пиньков в&#160;этюде: в&#160;голубовато-серых глазах ее была тихая благостность и&#160;живость, не&#160;стеклянная благостность, «коровья», а&#160;живая, ласкающая нежность молодой и <i>живущей</i> матери. Разве вот легкая косинка в&#160;ее глазах, тонкая поволока неги, что-то&#160;ей придавали от&#160;доброго, сильного животного. Пиньков мешал ей, отнял бидон зачем-то, она что-то&#160;хотела ему сделать, но, заметив, как&#160;я смотрю, отмахнула запястьем с&#160;бровки, схватила ткнувшегося в&#160;колени Степушку, подкинула, играя, и&#160;чмокнула крепко в&#160;губы. Сухощавая чернушка Настя кинула ревниво — «начмокаешься, поспеешь», — и&#160;швырнула ведро в&#160;кадушку. — «Семен Николаич, идите-помогайте таскать сено, коровам задать надо!» — сказала Маша и&#160;вымахнула ветром из&#160;молочной.
+</p><p>Поздно вечером мы&#160;сидели на&#160;открытой терассе, любовались луной и&#160;морем. Золотая его дорога, казалось, выбегала за&#160;кустами лавровишни, совсем под&#160;нами. С&#160;гор потянуло бризом, кусты играли, хлестали по&#160;золотому морю.
+</p><p>— …Никакое не «толстовство», — продолжал начатый разговор Пиньков, — а&#160;чувство грозящего обвала толкнуло меня к&#160;коровам. Мне показалось, что&#160;тут-то&#160;я буду независим, осмыслю себя трудом на&#160;своей земле. Да&#160;и&#160;надо было больным солдатам, «газовикам», доставить нужное молоко. Здесь его не&#160;хватало. И&#160;меня захватило дело. Видели Гришку-ящера? Таких много. Это гной революции, и&#160;этот гной будет скоро «установлять всю правду». И&#160;уже пробует. Пестрый какой, заметили?
+</p><p>Все гады пестрые, Бог их метит. Гад ненавидит закон, порядок, труд, самый продукт труда… ненавидит всех, кто чист, работящ, умен, бережлив, самостоятелен. Это хитрый и&#160;злой дурак, убийца жизни. Он&#160;ненавидит жизнь, всё ненавидит, всё хочет опоганить, оплевать, стереть. Воплощение дьявола. Он&#160;меня люто ненавидит, он&#160;конечно, и&#160;вас возненавидел и&#160;пометил змеиным глазом. Он&#160;мне страшен, и&#160;ничего удивительного, если завтра убьет и&#160;меня, и&#160;вас. Рассказывал вам про&#160;архиерея? Он&#160;всем рассказывает. Это главный из&#160;его подвигов, пока. Но&#160;он&#160;и кур ворует. Почему я&#160;даю ему работу? Во-первых, нет штукатуров, и&#160;еще — гнусненькое это… не&#160;имею я&#160;духа отказать. Не то, чтобы я&#160;задабривал… но&#160;змеиные его глазки меня смущают, и&#160;я боюсь, как&#160;бы не&#160;сделал гадости на&#160;ферме. Он&#160;уже пробовал поджигать, но&#160;мои собаки и&#160;близко не&#160;подпускают ночью. А&#160;Маша не&#160;даст себя в&#160;обиду. Я&#160;обучу ее бить из&#160;револьвера. Маша?.. Понравилась вам. Она не&#160;может не&#160;нравиться, она — сама жизнь, вечная правда жизни. Любит работу, радуется работе. Не знает ни&#160;скуки, ни&#160;ненависти, ни&#160;злости… и&#160;живет, как&#160;поет в&#160;ней жизнь. Да, я&#160;люблю ее. Она заслоняет как-то&#160;всю эту одержимость, всю эту подлую муть, что&#160;теперь поднимается со дна. Она меня покоит одним видом плавных своих движений, силой, молодостью и&#160;верностью чему-то&#160;неодолимому, какой-то&#160;довечной правде. Я&#160;тружусь рядом с&#160;ней, и&#160;я забываюсь в&#160;ней. Она несложна, ясна, и&#160;от этого мне покойно. Может быть тут — извечное, без&#160;чего никому — <i>нельзя…</i> что&#160;нюхом схвачено и&#160;Толстым, но&#160;испорчено его домыслом, по&#160;чем томятся все чуткие, ищущие смысла и&#160;правды жизни. Это не&#160;высказать… Мне это очень нужно, теперь особенно. Я&#160;два года был на&#160;войне, измотан, видел и&#160;смерть, и&#160;многое, и&#160;затосковал по <i>жизни</i>, по&#160;чистоте-простоте ее, по&#160;земле. Когда не&#160;по себе мне — я&#160;иду на&#160;ферму, смотрю на&#160;Машу. Не думайте, у&#160;меня с&#160;ней лишь «флирт».
+</p><p>Она не&#160;легко дается… и&#160;я женюсь на&#160;ней… если Федор ее, которого она всё любит, не&#160;вернется.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r4837660">.mw-parser-output .hr-custom{height:1px;width:40em;margin-left:auto;margin-right:auto;margin-top:5ex;margin-bottom:5ex}</style><hr class="hr-custom" style="width:6em; margin-top: 5ex; margin-bottom: 5ex;" />
+<p>Через&#160;год я&#160;вернулся в&#160;Крым. Я&#160;прошел многие заставы, ушел из&#160;ада. Крым занимали немцы. Знакомой дорогой, по&#160;холмам и&#160;балкам, поднялся я&#160;к даче художника Пинькова. Всё было, как-будто, тоже. Я&#160;его не&#160;застал: должно быть, он&#160;был на&#160;ферме. Я&#160;прошел на&#160;бетонную терассу, откуда, за&#160;кустами лавровишни, синело море. Было чудесно тихо. Кусты разрослись, на&#160;терассе стало совсем тенисто. «Студия» была заперта на&#160;ключ. Я&#160;прошел к&#160;боковому входу, посмотреть, не&#160;спит&#160;ли&#160;Пиньков в&#160;прохладной боковушке, — и&#160;в ужасе запнулся… перед&#160;крестом! Крест был высокий, белый, снизу обугленный, с&#160;присохшей к&#160;нему землей. Я&#160;подошел ближе и&#160;прочитал на&#160;прибитой внизу дощечке, славянской вязью:
+</p><p>«Мария Хлебникова, крестьянка, 23&#160;лет, убита штыком в&#160;сердце, в&#160;ночь на 20 февраля 1918&#160;года».
+</p><p>Я&#160;перекрестился и&#160;отошел, с&#160;болью и&#160;ужасом.
+</p><p>Пиньков рассказал, как&#160;было:
+</p><p>— Да, он&#160;убил ее, Гришка-Ящер. Убил подло. Он&#160;был не&#160;просто Гришка, а&#160;власть, <i>ихняя</i> власть, комиссаром лесов, дорог и&#160;еще чего-то, нашего округа. Он&#160;явился ко&#160;мне на&#160;ферму, хвастался всемогуществом, хлопал меня запанибрата и&#160;обещал даже покровительство. Он&#160;упивался властью, мог теперь безнаказанно красть, насиловать, убивать. Меня он&#160;пока не&#160;трогал, от&#160;пресыщения. Но&#160;тронул Машу — и&#160;получил отпор. Она взяла у&#160;меня револьвер, и&#160;я показал ей, как&#160;надо делать. Я&#160;просил ее ночевать на&#160;даче. Она не&#160;захотела. Как&#160;случилось — не&#160;установлено. Можно предполагать, что&#160;ему как-то&#160;удалось, когда Маша была в&#160;коровнике, под&#160;вечер, дети спали, а&#160;Настя ушла в&#160;город, пробраться в&#160;домик и&#160;спрятаться. Ночью не&#160;подпустили&#160;бы&#160;собаки, разбудили. Он&#160;выждал ночи. Ночь была бурная, страшный ливень. Маша вошла, убралась, — всё было прибрано в&#160;комнате, — и&#160;стала читать письмо, которое я&#160;принес ей утром. Вы представьте, какой&#160;же ужас… письмо ей было от&#160;ее Федора, из&#160;плена! Надо&#160;же так случиться. Он&#160;писал ей, что&#160;жив-здоров. В&#160;самый тот день пришло. Так и&#160;нашли зажато в&#160;ее руке. Он&#160;хотел ее силой, но&#160;она, очевидно, не&#160;давалась… и&#160;он ее заколол штыком, ржавым штыком. Этот штык все признали, был у&#160;него такой. Следствия не&#160;было. Машу не&#160;осмотрели даже. А&#160;Гришка скрылся. После его видали, под&#160;Мелитополем. Он&#160;жив и&#160;кем-то&#160;опять <i>у&#160;них.</i> Когда хоронили Машу, наши бабы, рыбачихи, садовничихи, все бабы… оскорбленные за&#160;сестру свою, за&#160;вечную <i>правду…</i> грозой подошли к&#160;ревкому, требовали суда… Им пригрозили… пулеметом! Можете спросить — все скажут. Это не&#160;забудется никогда. Меня арестовали — «за&#160;бунт»! Мне удалось выскочить в&#160;окно. Меня спасли татары, под&#160;Аю-Дагом. Пришли немцы, и&#160;я вернулся. И&#160;вот, поставил крест. <i>Там</i> теперь, на&#160;могиле, памятник, а&#160;крест — сюда… Детишки пока, до&#160;отца, на&#160;ферме. Коров забрали. Осталась одна, пасу. Да&#160;вот, крест… Да, Маша… да, крест, на <i>всем…</i>
+</p><p>Март, 1936&#160;г.
+</p><p>Париж.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="«Ектрыга»"><span id=".C2.AB.D0.95.D0.BA.D1.82.D1.80.D1.8B.D0.B3.D0.B0.C2.BB"></span>«Ектрыга»</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)&amp;action=edit&amp;section=2" title="Редактировать раздел ««Ектрыга»»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>После убийства Маши и&#160;разгрома фермы Пиньков совершенно одичал. На&#160;даче я&#160;его почти не&#160;видел: ранним утром он&#160;уходил на&#160;ферму, до&#160;самой ночи. Я&#160;почитывал Киплинга и&#160;смотрел на&#160;море. «Джунгли» отвлекали от&#160;настоящего, но&#160;оно лезло настойчиво на&#160;глаза. Пройдешься по&#160;веранде, забудешься, завернешь к&#160;закутку, — и&#160;белый, высокий крест вдруг так и&#160;полоснет по&#160;сердцу: «Маша Хлебникова… злодейски убита штыком в&#160;сердце…» Это «хождение по&#160;кресту» сделалось для&#160;меня потребностью, навязчивою пыткой. Я&#160;спросил Пинькова, почему он&#160;не уберет креста. Он&#160;мрачно сказал: «так… память». А&#160;сам убегал на&#160;ферму и&#160;перестал отдыхать в&#160;закутке.
+</p><p>С&#160;приходом немцев он&#160;опять принялся за&#160;свои краски, пробовал писать коров и&#160;Машу, по&#160;памяти и&#160;с этюдов, но&#160;ничего не&#160;вышло, и&#160;он оставил. Приходили из&#160;городка, просили уступить крест и&#160;давали мешок муки: трудно стало достать хороший дубовый крест, а&#160;в Ялте цены были невероятные. Пиньков отказывал, говорил: "нужен самому… за <i>такой</i> крест разве можно мешок муки… за&#160;него кровью надо!.. Торговавшие смущенно уходили.
+</p><p>Когда пустое море начинало меня томить, я&#160;тоже уходил на&#160;ферму. Там было полное запустение. Окошки домика были выбиты, рамы вырваны, коровники растасканы, только золотая гора навоза курилась сонно. От&#160;стада коров-красавиц уцелела одна «Хорошка», любимица покойной Маши. Пиньков теперь пас ее по&#160;балкам, а&#160;к ночи пригонял на&#160;дачу, где стерегли ее ярые овчарки. Держал ее Пиньков ради памяти, и&#160;для сироток: пятилетка Лялька и&#160;четырехгодовалый Степка воспитались на&#160;молоке, а&#160;время подошло скудное, — «Хорошка» всех и&#160;вывозила. Для&#160;присмотра за&#160;ребятишками Пиньков взял пожилую польку Юзефу Ивановну, застрявшую в&#160;городке, — в&#160;те дни фронт не&#160;установился, и&#160;выбраться в&#160;Польшу было трудно, — и&#160;она кормила нас пончиками и&#160;клецками, благо у&#160;хозяина было еще муки с&#160;избытком.
+</p><p>Издали еще увидишь художника-пастуха в&#160;глубокой балке: сидит под&#160;шляпой-грибом, сутулый, постукивает палкой по&#160;камешку — всё думает. В&#160;кустах мелкого граба краснеет широкая спина «Хорошки», кормится одинокая красавица. Заслышит шаги, поднимет голову, поглядит вдумчиво, вытягивая слюну по&#160;грабу, отмахнется ухом и&#160;окунет голову в&#160;кусты: свой. Так и&#160;сидим, пасем, молча. О&#160;чем еще говорить, всё известно.
+</p><p>— Да, библейские времена… — начинает Пиньков прерванные мысли, — но&#160;тогда, тысячи лет назад, было проще,… сидел какой-нибудь Исаак и&#160;пас свою «Хорошку», а&#160;амаликитянин подбирался к&#160;нему с&#160;пращей или&#160;с дубиной, и — по&#160;башке. А&#160;теперь всё это по&#160;бумажкам и&#160;с пулеметами. В&#160;те времена хоть «откровения» бывали, — «будешь, мол, благословен, потерпи только, вот — <i>прииду».</i> А&#160;теперь — прийдет, и… из&#160;пулемета! Искусство… конец искусству! Какого чорта изображать радости и&#160;страдания «богоносца» Гришки Марчука, если отлично убедился, что&#160;радость для&#160;него — насиловать и&#160;всадить штык в&#160;спину, а&#160;страдание… — когда это не&#160;удалось! Или — красоту русской Маши, когда за&#160;всю ее хорошесть только и&#160;суждено, что… крест. Сгущаю краски?.. Да&#160;ну их к&#160;чорту, пусть все засохнут! Искусство живет в&#160;тиши, когда поет и&#160;цветет душа.
+</p><p>Так мы&#160;беседовали. Иногда к&#160;нам спускался с&#160;искровой станции, на&#160;самой вышке, немецкий унтер и&#160;сообщал военные новости, но&#160;они умещались в&#160;двух-трех словах: «опять наша победа». Впрочем, раз сообщил под&#160;секретом, что&#160;убили в&#160;Киеве ихнего генерала. Потом, в&#160;ноябре, немцы ушли как-то&#160;незаметно, и&#160;потянулось ни&#160;то, ни&#160;се, до&#160;самого конца марта.
+</p><p>Пришли большевики, но&#160;очень-то&#160;пока не&#160;нажимали — опасались, как&#160;бы их не&#160;закупорили на&#160;Перекопе, с&#160;Ак-Маная и&#160;Таврии. Пиньков сделался еще угрюмей. Всё бывало, постаивал над&#160;фермой, поглядывал, не&#160;поднимается&#160;ли&#160;кто из&#160;городка в&#160;тихую пустыню нашу. Мне думалось, не&#160;Гришку&#160;ли&#160;караулит, грозившего показать ему «за&#160;оклеветание убийства». Тихая весна стояла. Одинокие груши, остатки старых садов татарских, дымились в&#160;белом цветении по&#160;холмам, как&#160;робкие невесты. Хорошо пели зорями дрозды. Судаковская цепь золотилась на&#160;закате. Пиньков всматривался и&#160;ощупывал топырившийся карман штанов: там лежал браунинг, «на&#160;случай». Мы&#160;не&#160;любили спускаться в&#160;городок, не&#160;читали бумажек о «поголовной мобилизации», о «явке офицеров», о «расстреле на&#160;месте», если найдут не&#160;сданное в&#160;срок оружие. Юзефа приносила эти приятные «сюрпризы», умоляла Семена Николаевича не&#160;носить «смерть» в&#160;кармане. Пиньков говорил мрачно, ероша седеющие кудри, давно не&#160;видавшие цирюльника: «если гадина приползет, я&#160;ее…» — и&#160;нащупывал в&#160;отдувавшемся кармане.
+</p><p>Но&#160;гадина всё не&#160;приползала: выжидала срока более подходящего.
+</p><p>Как-то, в&#160;начале апреля, сидели мы&#160;у сарайчика. Юзефа доила «Хорошку», Лялька и&#160;Степанка чавкали галушки и&#160;мазали рожицы сметаной. Стали загораться звезды. И&#160;вот, в&#160;чуткой тиши, посыпались камешки под&#160;горку, яростно кинулись овчарки, и&#160;ленивый басистый голос крикнул — «у, дьяволы!..» Пиньков схватился за&#160;свой карман. На&#160;темневшем небе выступила широкая тень, тяжело, с&#160;хромотцой, ступавшая.
+</p><p>— Кто идет? — крикнул Пиньков тревожно.
+</p><p>— Не узнали, Семен Миколаич!.. — сказала тень и&#160;приостановилась, закрыв всё небо. — Да&#160;я, Федор… Хлебников-то… вот, за&#160;товарищами пробрался через&#160;фронты. Три месяца ждал, покуда наши прорвут ваш Крым. Ну, как, здоровеньки&#160;ли?.. — Тень добралась до&#160;нас, сбросила мешок на&#160;землю и&#160;стала совать нам руку-лапу. — Про&#160;Машу мою всё знаю, в&#160;городе знакомые дрогали угостили радостью. Эх, не&#160;знал раньше… я&#160;ведь Марчука в&#160;наших краях, под&#160;Шиграми, встретил… только и&#160;сказал, паскуда,… твоя Маша, говорит, с&#160;барином не&#160;скучает, только и&#160;сказал. А&#160;про&#160;главное, какая тут ентрыга вышла с&#160;Машей, ни&#160;слова, паскуда, не&#160;сказал… я&#160;б его об-земь, прямо!..
+</p><p>Он&#160;говорил спокойно, лениво даже и&#160;называл <i>то</i>, страшное, каким-то&#160;дурацким словом — «ентрыга». Пиньков молчал. Детишки поглядывали, не&#160;понимая, дожевывали галушки и&#160;мазались сметаной. Федор сказал — «мои? ишь ты, какие стали… а&#160;ну-ка, погляжу…» и&#160;присел к&#160;ним на-корточках. Они&#160;испугались и&#160;отодвинулись. Загоревшие их личики в&#160;сумерках совсем сливались, только сметанные губы чуть белели.
+</p><p>— На&#160;огню погляжу, каки-таки сиротки мои, в&#160;хату надо… — спокойно говорил Федор. — Ляльку по&#160;другому году оставил, а&#160;Степашку и&#160;не видал. Я&#160;уж покуда к&#160;вам, Семен Миколаич, кормите сироток. Эх, за&#160;Машей моей не&#160;доглядели, не&#160;сберегли… вот и&#160;приласкайте меня, три года меня в&#160;плену вошь точила, а&#160;теперь горе точит… ентрыга эта…
+</p><p>В&#160;мазанке, где жила Юзефа с&#160;детьми, Федор сел на&#160;постель Юзефы, покрытую вязаным белым одеялом, и&#160;посадил на&#160;колени ребятишек. Они&#160;ревели и&#160;отмахивались от&#160;страшного чужого дяди. А&#160;он&#160;был и&#160;на самом деле страшен. Огромный, плечистый, гора-горой, с&#160;рыжими вихрами, с&#160;черным лицом, на&#160;котором от&#160;верхней губы до&#160;уха, тянулся беловатый рубец от&#160;раны, с&#160;повислыми русыми усами. И&#160;на&#160;всю мазанку несло от&#160;него денатуратом. Глаза у&#160;него были светлые, какие-то&#160;пустые, с&#160;холодноватой синью, в&#160;набухших веках.
+</p><p>— Вы чего ж так глотку-то&#160;дерете, глупыи… я-ж ваш папашка, с&#160;войны пришел… вошь меня сколько в&#160;плену точила… Как&#160;к&#160;вам-то&#160;рвутся, а! Ну, ступайте к&#160;барину, стал за&#160;папашу вам. Да&#160;как&#160;же так, Семен Миколич… сколько я&#160;писем гнал… хошь&#160;бы&#160;мне одну словечку Маша пустила, и&#160;на марку не&#160;надо тратиться… Неуж вы все письма мои ховали, а? Ну, отбивали Машу, ну… я&#160;на это… наплевать мне, ее воля, с&#160;ней теперь не&#160;поговоришь, раз такая ентрыга вышла… Хочь&#160;бы&#160;разок приласкали… вошь меня точила… дак вы хочь&#160;бы&#160;деток про&#160;папаньку обучали… придет, мол, вы его приголубьте… они&#160;мои, кров моя… — он&#160;выговаривал круто — кров, — а&#160;они вон не&#160;признают, к&#160;вам так и&#160;кидаются… это нехорошо. И&#160;Машу мою на&#160;потеху отдали паскуде… Как&#160;вы барин, обязаны защитить. Ну, не&#160;буду. Ну, ентрыга вышла, ну… Винцом хоть&#160;бы&#160;угостили?
+</p><p>Пиньков принес бутылку розового аликантэ. Сидел — молчал, Юзефа уложила ребятишек и&#160;сготовила новые галушки. Федор ел жадно, почмокивал, черпал сметану, как&#160;похлебку, и&#160;запивал сладким аликантэ. Рассказывал про&#160;жестокий плен, и&#160;как он&#160;выучился сапожному рукомеслу, теперь вся семья будет у&#160;него обута, и&#160;барину сошьет, и&#160;Юзефе Ивановне, всем сошьет. Качал головой на&#160;сметану с&#160;галушками, на&#160;соленую свинину, на&#160;белый ситный, — какая господам сласть! И&#160;бабы у&#160;них, и&#160;всякое удовольствие. С&#160;аликантэ его развезло пуще, и&#160;он, запалив жестокую папироску, повалился на&#160;белую постель Юзефы, как&#160;был, в&#160;бурых штанах и&#160;в пыльных тяжелых сапогах с&#160;гвоздями.
+</p><p>И&#160;вот, с&#160;этого вечера начался кошмар.
+</p><p>Утром Федор ходил спокойный, даже, как&#160;будто, удрученный. Только подойдет тихо, осторожно, чтобы не&#160;испугать, и&#160;погладит детишек по&#160;головке. Первые дни, плотно закусив варениками в&#160;сметане и&#160;выпив бутылку аликантэ, — аликантэ очень пришлось ему по&#160;вкусу, и&#160;он уже не&#160;хотел другого, а&#160;требовал: «этого… деликатного давайте!» — уходил в&#160;городок, "доподлинно навести все справки про «ентрыгу»! Юзефа его видала: сидит у&#160;ревкома, плачет, трет глаза грязной тряпкой. А&#160;кругом рыбаки и&#160;красноармейцы слушают и&#160;жалеют словно. К&#160;обеду приходил к&#160;нам и&#160;ел за&#160;пятерых «сладкий борщ», клецки в&#160;масле и&#160;жареную на&#160;сале соленую свинину. Порой и&#160;жаловался, что&#160;мяска вот что-то&#160;маловато. Лез лапами в&#160;папиросницу барина и&#160;загребал сразу по&#160;десятку. Сидел в&#160;холодке, палил. Потом заваливался в&#160;боковуше, у&#160;высокого белого креста. Крест ему очень нравился и&#160;наводил на&#160;мысли. Говорил Пинькову:
+</p><p>— Надо капиталы иметь большие. Мало вам креста, памятник какой загнули Машухе моей, в&#160;тыщу рублей! Ведь это целое хозяйство, корову купить, пару лошадок, дроги хорошие, волов пару… как&#160;Машу-то&#160;почитаете! Ну, имели удовольствие, понятно, баба-то&#160;была какая!.. — И&#160;начинал причитать. — А&#160;вот, не&#160;платили ей за&#160;удовольствие. Я&#160;книжку ее видал, на&#160;сберегательную… четыре сотни только, за&#160;четыре-то&#160;года… а? Образованные люди должны&#160;бы&#160;досмотреть всё, про&#160;сироту. Довели до&#160;чего… все деньги лопнули. Да&#160;как&#160;же так не&#160;обменяли? Я&#160;всё дознал, про&#160;ентрыгу… рыбачихи сказывали, он… про&#160;вас-то… всё в&#160;золото оборотил… все свои капиталы с&#160;молочка… золотые часы скупали, кресты-и, цепочки-и… и&#160;теперь у&#160;него столы ломятся, все масло со сметаной едят, а&#160;мы, грешные, трудящий… вот! Четыре сотни выданы мне от&#160;большевиков, на&#160;смех. На&#160;табак не&#160;хватит… а?! И&#160;вот, крест стоит… за&#160;всё-про&#160;всё. Штыком в&#160;спину, сквозь душу. Это меня, штыком в&#160;сердце, Семен Миколаич. Ну, я&#160;не злопамятный. А&#160;как&#160;же, для&#160;хозяйства? какое сиротам наследство от&#160;покойной? Ведь, заработала… день и&#160;ночь на&#160;вас работала. Мине говорят дрогали, выбирай с&#160;него, тащи, что&#160;надо… обязан! А&#160;то, прямо, иди в&#160;чеку, вели полный обыск, всё оружие, которое у&#160;вас… Я&#160;зна-ю, мне бабы сказывали. А&#160;я&#160;говорю, за&#160;чего Я&#160;стану губить барина, он&#160;Машу мою любил, он&#160;меня не&#160;забудет, он&#160;сирот моих, кров мою, прикрыл… он&#160;меня вокипирует для&#160;полного хозяйства…
+</p><p>Поспав под&#160;крестом до&#160;четырех, Федор просил «чайкю». Выпивал кружек десять, просил еще аликанты — и, курил на&#160;порожке, поглядывая на&#160;море, и&#160;потом шел в&#160;городок, плакаться у&#160;ревкома. Иногда садился на&#160;табурет и&#160;шил детям чувяки и&#160;башмачки из&#160;кожи, добытой для&#160;него Пиньковым. Пиньков ни&#160;слова ему не&#160;говорил, не&#160;оправдывался, не&#160;спорил. Я&#160;удивлялся силе его терпения. Он&#160;как&#160;будто решил, что&#160;всё, что&#160;ни говорил Федор, была самая истинная правда, против которой не&#160;поспоришь. Сказал мне как-то:
+</p><p>— А&#160;всё-таки он&#160;мужик хороший. Каша и&#160;в душе, и&#160;в мозгах, но… он&#160;невиноват. А&#160;кто во&#160;всем этом виноват?.. Ведь мы, с&#160;вами <i>все</i>, кажется, понимаем, во&#160;всем разбираемся… а&#160;этого вопроса решить не&#160;можем. Или — не&#160;хотим? Скажите, кто&#160;же виноват во&#160;всей этой «ент-ры-ге»? Одно остается нам, чтобы облегчить душу… крикнуть: чорт виноват!
+</p><p>Так продолжалось до&#160;последних дней мая, когда поползли слухи, что&#160;большевики начинают сматываться, что&#160;белые обходят с&#160;севера.
+</p><p>Помню, при&#160;мне случился остренький разговор. Федор пошил всем обувку: и&#160;детям, на&#160;дорогу, и&#160;Семену Николаевичу, и&#160;Юзефе, за&#160;галушки и&#160;пончики. Сшил и&#160;себе хорошие сапоги, И&#160;вот, к&#160;вечеру, после последней бутылки аликантэ, — действительно, последней из&#160;большого запаса, хранимого Пиньковым для&#160;оттяжки уныния в&#160;дни лихие, — сказал Федор:
+</p><p>— Пора домой. Заберу ребят, швейную машинку Машухину, всё хрунье… Вы ей даже шелкового платьишка не&#160;подарили, за&#160;всё ее старанье, за&#160;любов… а&#160;настоящие господа как&#160;мадамов своих содержат!.. А&#160;потому, что&#160;не из&#160;благородных, а&#160;крестьянского сословия, и&#160;без защиты. Ну, кто старое помянет… ладно. А&#160;как&#160;же я&#160;всю муру поволоку под&#160;Шигры, а&#160;кто мне поможет хозяйство поставить на&#160;колодку, а? Вы барин, хороший, душевный… картинки пишете, Машу мою прописали как&#160;живую… по&#160;самые груди написали, для&#160;показу за&#160;деньги… это я&#160;знаю, озорникам показывают и&#160;денежки какие огребают. Для&#160;памяти обязаны ублаготворить…
+</p><p>— Конечно, Федор… — сказал покорно Пиньков. — Я&#160;обязан. Ты, конечно, не&#160;поверишь, что&#160;Маша твоя только твоя и&#160;была, что&#160;я до&#160;нее и&#160;пальцем не&#160;коснулся, смотрел только. Хорошая она была. Я&#160;ее звал на&#160;дачу, чтобы не&#160;ночевала одна на&#160;ферме, но&#160;она стыдилась… может быть, меня боялась. Твое дело, верь, не&#160;верь. Да, виноват я, деньги ее пропали, надо было их обменять на&#160;золото. Да&#160;я, всё равно, возместил&#160;бы&#160;ей трудовые ее…
+</p><p>— А&#160;что&#160;я говорил! — сказал Федор и&#160;стукнул по&#160;столу. — Вы, может, десяток часов — цепочек — крестов наменяли на&#160;себя! Я&#160;вам не&#160;в укор скажу, а&#160;рыбачихи чего домекают. Дело темное, вся ентрыга эта. Гришка убил! Гришка ей штык всадил! А&#160;дело темное. Я&#160;не&#160;желаю допустить, это немысленное дело, а&#160;говорят злые языки про&#160;вас… — может он&#160;сам ее, ночным делом… Почему собаки допустили, а?.. Чужого не&#160;должны&#160;бы&#160;допустить, не&#160;захватил&#160;бы&#160;Машу?..
+</p><p>Пиньков только головой качнул.
+</p><p>— Ну, еще чего скажи… — сказал он&#160;тихо.
+</p><p>— А&#160;вот что… дело темное. А&#160;зачем он&#160;ей, крест с&#160;могилы вырыл, к&#160;себе поставил?! А&#160;для&#160;совести, говорят, каяться стал, сердце ему сосет. И&#160;памятник, огромадный камень навалил, из&#160;Ялтов! Ну, дуры. Всем говорю: от&#160;больших капиталов это он, для&#160;памяти. И&#160;штыка у&#160;него не&#160;было никогда, а&#160;у Гришки штык видали…
+</p><p>— Да, ты это верно: от&#160;капиталов я. Ну, так знай. Поедешь домой хозяйственно. Так мне Маша твоя велит.
+</p><p>— Да&#160;Господи! да&#160;разве я&#160;чего думаю! Я&#160;с&#160;тем и&#160;шел, одна у&#160;меня надежда была — добрый барин, понимающий, Семен Миколаич, господин Пиньков. Деток моих приласкал, Машу мою успокоил, вечную ей память поставил. Господь рассудит, про&#160;всё ентрыгу нашу… и — делу конец.
+</p><p>Пиньков с&#160;неделю ходил с&#160;Федором по&#160;округе, торговал пару коней. Да, говорили верно: у&#160;него было, на&#160;что купить. За&#160;пару коней отдал он&#160;уцелевшему помещику Варшеву двое золотых часов. Дроги у&#160;него были. Подарил Федору хорошее пальто, — Федору не&#160;годилось, но&#160;можно и&#160;обменять, — золотые часы, мешок муки, две кипы пресованного сена на&#160;дорогу. Выпросил у&#160;него Федор и «игрушку» опасный браунинг: "вам ни&#160;к чему, запрещено строго господам, а&#160;мне для&#160;лихого человека пригодится, дело дорожное, и&#160;все у&#160;меня мандаты при&#160;себе, от&#160;самой чеки имеются: «нашему товарищу Федору Хлебнику, вольный проход с&#160;детьми-сиротами». Ляльку и&#160;Степашку обшили, купили им пальтишки — выменяли у&#160;голодавших дачников, — совсем не&#160;узнать детишек. Наварила им Юзефа клецок и&#160;галушек, дала полный горшок сметаны. Поставили на&#160;дроги, в&#160;сено, ножную швейную машинку, — мамочкино наследство. Федор расцеловался с&#160;Семеном Николаевичем, трижды, крест-накрест, прослезился даже. И&#160;тронулись они&#160;шагом, сперва в&#160;гору, к&#160;воротам, на&#160;мягкую дорогу, потом стали спускаться балками. Детишки не&#160;плакали, а&#160;всё ручкой: площайте, площайте, балин! — долго кричали тонкие голоски. Федор на&#160;повороте приостановил коней: «Семен Миколаич! соскучитесь — приезжайте к&#160;нам, в&#160;новую хату! новая у&#160;меня баба будет, у&#160;нас девок теперь — на&#160;выбор… варениками кормить будем, с&#160;вишнями! не&#160;забуду доброты вашей, вот вам крест!..» и&#160;он перекрестился.
+</p><p>В&#160;самую пору выбрался. Через&#160;неделю отставших красных перехватили добровольцы.
+</p><p>Прошло с&#160;год, и&#160;дошли вести, что&#160;Федор прибыл благополучно, и&#160;теперь строится. Пиньков должно быть, подарил ему не&#160;одни часы.
+</p><p>Помню, по&#160;отъезде Федора, сидели мы&#160;на веранде.
+</p><p>— Нет, каков Федор-то! — говорил Пиньков. — Он&#160;был всегда рассудительный мужик, и&#160;добрый. А&#160;и&#160;его время покорежило. А&#160;всё&#160;же что-то&#160;осталось в&#160;нем. Теперь надо изворачиваться, и&#160;он выработал свои зацепки и&#160;защитки. Нет, каков, а! Цепко и&#160;крепко племя человеческое. Но&#160;для&#160;чего и&#160;во имя чего <i>всё это?..</i> вся эта живучесть, цепкость?.. Во&#160;имя чего-то&#160;высшего, или — <i>так</i>, просто <i>так?</i> И&#160;никакого «откровения». А? неужели всё это — <i>так</i> только, случайное прохождение явлений? Неужели <i>всё, всё</i> — только одна… <i>ентрыга?..</i> Но&#160;чья-же, <i>чья?!.</i>
+</p><p>Июнь, 1936&#160;г.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Виноград"><span id=".D0.92.D0.B8.D0.BD.D0.BE.D0.B3.D1.80.D0.B0.D0.B4"></span>Виноград</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)&amp;action=edit&amp;section=3" title="Редактировать раздел «Виноград»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В&#160;городке у&#160;моря, с&#160;приходом добровольцев, жизнь как-будто опять наладилась. Пошли толки, что&#160;теперь и&#160;в Европе поняли, наконец, опасность, «теперь уж возьмутся и&#160;нам помогут», и&#160;в подкрепление толков сообщали, что&#160;в Ялту пришли ихние корабли с&#160;пушками.
+</p><p>Пиньков никаких надежд на «Европу» не&#160;возлагал, бродил мрачный, неряшливый, обросший, перестал даже умываться, бросил читать газеты, целые дни проводил в&#160;пустынных балках и&#160;пас сиротливую свою «Хорошку» — последнюю корову из&#160;разграбленной большевиками фермы. Встречались мы&#160;с ним редко, только к&#160;ночи, садились обычно на&#160;веранде и&#160;молчали, следя за&#160;звездами: все у&#160;нас разговоры притупились. Как-то&#160;по осени, — было, помнится, в 19-м году, — вернулся он&#160;со своей «Хорошкой» особенно угрюмый, кокнул два-три яйца и&#160;проглотил сырыми, — весь и&#160;ужин. Стали смотреть на&#160;звезды, — вот и&#160;еще день перевалили. Нашему настроению отзывалась уныло сплюшка: сплю-у… сплю-у…
+</p><p>— Идиоты… — обругал кого-то&#160;Пиньков в&#160;мыслях, — не&#160;понимают, что&#160;жизнь… повсюду, не&#160;только у&#160;нас дураков… слетела со всех винтов и&#160;теперь будет дрыгаться и&#160;крутиться, как&#160;свалившийся паровоз, пока еще есть пары. Бредят, ослы, что&#160;им помогут. Европа им поможет! Да&#160;этой «Европе» требуется самой помощь… ведь она <i>выкинула</i>, и&#160;этот поганый <i>«выкидыш»</i> воспринят от&#160;ее утробы — российской слепой дурой-повитухой, принявшей его за&#160;долгожданного чадушку, а&#160;он давно уже разложился и&#160;заразил всё кругом. А&#160;родимая матушка его горит в&#160;гангрене…
+</p><p>Я&#160;привык к&#160;заостренности дум Пинькова, испытавшего много за&#160;эти годы. Свои картины он&#160;давно забросил. Теперь, по&#160;его словам, <i>это</i> совсем не&#160;нужно: "теперь всё надо в&#160;ином масштабе, если еще масштабы не&#160;пропали… в&#160;апокалипсическом, «потустороннем» даже. Он&#160;и&#160;убийство Маши, работницы на&#160;ферме, рассматривал не&#160;как уголовный акт, а&#160;как проявление воплотившейся «похоти Зла», царящей отныне в&#160;мире. Страшно не&#160;то, что&#160;молодую женщину, его Машу, хотел взять силой гнусный Гришка Марчук, матросишка-большевик и&#160;убил за&#160;сопротивление его хотению: страшно, что&#160;злая похоть повсюду воцарилась, задавила всю жизнь, и&#160;убийство на&#160;ферме — символ всеобщего убийства, как&#160;этот крест на&#160;веранде, стоявший на&#160;Машиной могиле и&#160;ныне замененный памятником, — не&#160;просто дубовый крест, который можно пустить на&#160;топливо, а&#160;Крест над&#160;погибшей Правдой. Потому-то&#160;и не&#160;хотел Пиньков расставаться с&#160;этим крестом и&#160;говорил всем, приходившим купить его — в&#160;то время трудно было с&#160;гробами и&#160;крестами, кончились мастера и&#160;матерьял: «этот крест не&#160;продажный… это — память!» Крест и&#160;теперь стоял в&#160;дальнем углу веранды, чего-то&#160;ожидая.
+</p><p>— Вот, говорите, почему я&#160;бросил писать свои полотна… А&#160;вы почему забыли свое перо? Понимаете отлично сами. Мы&#160;с&#160;вами не&#160;в «заботы суетного мира малодушно погружены», а… задохнулись и&#160;окаменели. Мы&#160;отвечаем… онемением. Ну, понятно. <i>Как</i> я&#160;могу писать солнце, когда и&#160;оно другое теперь, когда вижу в&#160;нем мертвый свет?! <i>Бывшие</i> глаза у&#160;меня вырваны… и&#160;душа выдрана. Да&#160;вот, сегодня, не&#160;угодно&#160;ли… Пас я&#160;свою «Хорошку» в&#160;дальней балке. Оттуда хорошо видно усадебку Любачей, тех стариков… Федичка вчера у&#160;них помер, единственный сынишка. Разве не&#160;говорил вам, что&#160;он помер? Помер. Но&#160;надо знать их историю, чтобы постигнуть <i>всё.</i> Необычайного в&#160;этом нет, но… всё&#160;же. Старик Любач, Мартын Прокофьич, — просто русский человек, служил в&#160;береговой таможне, великими трудами скопил на&#160;усадебку и&#160;насадил чудеснейший виноградник, — единственная, кажется, мечта всей жизни. Была еще мечта… оставить наследника по&#160;себе. Жили они&#160;в супружестве двадцать лет, и&#160;мечта не&#160;осуществлялась. И&#160;вдруг, повторяется как&#160;бы история с&#160;Захарией и&#160;Елисаветой… кстати, и&#160;супруга его тоже Елисавета, вы ее видали, тихое существо. И&#160;вот, на&#160;двадцать первом году их супружества, когда их заветный виноградник вошел в&#160;силу, и&#160;даже в&#160;славу, — Любичу лет двенадцать тому назад дали на&#160;выставке золотую медаль за&#160;чудесный сорт чауша, у&#160;них исключительно сладкие сорта, десертные, мускаты, шасла, золотистый чауш… — Елисавета Михайловна подарила своему супругу мальчика. Ей было уже под&#160;сорок, старику к&#160;пятидесяти. Представляете, какое&#160;же у&#160;них воссияние-то&#160;было! И&#160;как&#160;они оба трепетали над&#160;этим «даром от&#160;Господа». Они&#160;как-то&#160;объединили его с&#160;виноградом, с&#160;золотым чаушем, за&#160;который как&#160;раз в&#160;ту осень и&#160;получили первую свою награду. И&#160;назвали младенца Федичкой, что&#160;значит — «Божий дар». Этот Федичка и&#160;на самом деле как-будто сросся с&#160;чудесным тем виноградником. Как&#160;ни&#160;проходишь, всегда видишь Федичку в&#160;винограднике: подвязывает, — ему уж двенадцатый год недавно пошел, — обрезает, опрыскивает, собирает золотистые грозди чауша… в&#160;солнце и&#160;винограде утопает. Вы видели, это он&#160;у меня написан в&#160;винограде, спит под&#160;лозой в&#160;корзинке, и&#160;над ним грозди свесились, и&#160;через эти грозди поет на&#160;смуглом личике, в&#160;его белобрысых волосах — солнце! Удачно, кажется вышло. У&#160;меня очень торговали на&#160;выставке картину эту, — я&#160;не продал, только старикам копию подарил, но&#160;там солнца такого не&#160;получилось что-то. Но&#160;слушайте… Они&#160;до&#160;того над&#160;ним дрожали, что&#160;мать, слабая такая она, всегда выходила его встречать из&#160;школы, спускалась к&#160;городишку, всё боялась, как&#160;бы не&#160;побили его дорогой рыбачата, народ отъявленный. Так это у&#160;ней и&#160;вошло в&#160;привычку. Перенес все детские болезни, окреп, стал отцу помогать в&#160;работах на&#160;винограднике. И&#160;вот, пришла революция. Старики так переполошились за&#160;своего Федичку, что&#160;перестали пускать в&#160;городишко, в&#160;школу. Созрел виноград — новая тревога: устеречь. И&#160;раньше шалили по&#160;садам, наша солдатня из&#160;лазарета. А&#160;тут пошел уже настоящий грабеж, организованный. Осенью 17-го года большевиков еще не&#160;было, только-только росточки объявлялись. Но&#160;уже безобразничали во&#160;всю, а&#160;милиция наша, как&#160;известно, была «в&#160;обмотках», или, в&#160;народе называли, — «петушьи ноги», любители семечек и&#160;слободы. Значит, самоохраняйся. И&#160;вот, Федичка перестал спать ночами, и&#160;ничего с&#160;ним нельзя было поделать: хочу стеречь виноград! Ну, стерегли со стариком, как&#160;поспевать стал. Виноградник и&#160;раньше их выручал, из&#160;городка к&#160;ним поднимались дачники, нарочно за&#160;виноградом, «прямо с&#160;лозы». А&#160;в&#160;тот год виноград для&#160;них уж великим подспорьем стал. Прознала солдатня, тот Гришка Марчук и&#160;навел, будущий убийца Маши, это установлено. Насели на&#160;виноградник ночью, перед&#160;зарей, и&#160;с промысловой целью, пришли с&#160;корзинами, — за&#160;такой чауш можно было недурно выручить. И&#160;вот, когда они&#160;начали сбор ими не&#160;рощенного, Федичка поднял крик, — дремал на&#160;винограднике в&#160;шалаше. И&#160;не&#160;только крик поднял, а&#160;вцепился еще в&#160;какого-то. Говорили, что «зубками в&#160;руку впился», — видали приятеля Гришкина, с&#160;завязанной всё рукой ходил. И&#160;дорого обошлась эта «виноградная история» Федичке. Кто-то&#160;может быть, и&#160;сам Гришка, ударил мальчика в&#160;грудь кулачищем так, что&#160;его, полуживого, харкающего кровью, принесли старики в&#160;домишко, и&#160;лежал он, харкая кровью, до&#160;лета. И&#160;стал хиреть, острый туберкулез. Эти два года Елисавета Михайловна весь свой виноградник слезами орошала. Придет, станет над&#160;лозой, где нашли Федичку, и&#160;зальется. Как&#160;ни&#160;пройдешь, — всё она на&#160;винограднике. Ну, вчера помер, как&#160;раз два года исполнилось, с&#160;удара, до&#160;сбора всё-таки дотянул, ему старики золотой чауш в&#160;мисочке поставили у&#160;постельки, а&#160;уж он&#160;не мог и&#160;сосать. И&#160;вот, сегодня, видел с&#160;откоса я… как&#160;она собирала этот оплаканный золотистый чауш! Самая пора, и&#160;надо выменить на&#160;гробок, и&#160;за могилку надо, и&#160;батюшке… вот и&#160;собирала. Порежет, схватится за&#160;голову, закачается… и&#160;слышно, как&#160;она там… ну… всё слышно. К&#160;небу всё, незрячими глазами, кричащими… — да&#160;за что… за <i>что</i> же?! А&#160;вот, послушайте. Когда я&#160;так смотрел, и&#160;тоже вопрошал в&#160;своей глубине… только я&#160;пустоту спрашивал, у&#160;меня пустота… тут и&#160;пришло. Только не&#160;разрешение, а&#160;то-же, вопрошание… Вы знаете дьякона нашего, ноздрями смотрит, простеца, рыбаки его очень любят… многосемейный, а&#160;превеликий дерзатель, борец за&#160;веру, все эти годы с&#160;большевиками бьется…, и&#160;народ не&#160;дает его… так вот он&#160;из Ялты пешком возвращался, его следователь допрашивал, там одного комиссара поймали добровольцы, так его обознавать вызывали, что-то&#160;с арестом здешнего попа связано, а&#160;тогда дьякон за&#160;попа бился, с&#160;комиссарами воевал, отбивал. И&#160;вот, дьякон и&#160;говорит, — а&#160;он всё знал про&#160;историю Любачей: «вот какой у&#160;нас <i>виноград…</i> соленый! и&#160;кругом столько этого <i>винограду</i> наростили… и&#160;вот дюже соленый. По&#160;всей нашей России-матушке такого <i>винограду</i> насадили, теперь вот и&#160;собираем… а&#160;те с&#160;удовольствием его вкушают». И&#160;понял я, и&#160;не понял. А&#160;это он, оказывается, и&#160;про <i>тех</i>, которые на&#160;кораблях к&#160;нам приплывают, подплывают. Говорит, что&#160;только в&#160;Ялте творится, такой-то&#160;базар… всё забирают за&#160;грош, весь наш «соленый виноград» за&#160;пустяк выменивают и&#160;к себе волокут. Полные корабли отходят. И&#160;спрашивает в&#160;пространство: "Господи, да&#160;как&#160;же это так? ни&#160;горя не&#160;чувствуют, ни&#160;слез не&#160;видят, сосут «виноград»… и <i>соли-то</i> нашей им нечувствительно нисколько! Да, говорит, хороши… <i>всё</i> свое полноценное разменяли, <i>всё</i> в&#160;пыль и&#160;прах обратили, и&#160;теперь кровь нашу покупают… да&#160;как&#160;же это? И, знаете, мне от&#160;этих вопрошаний его, перед&#160;этой Елисаветой обманутой, невыносимо стало. Весь ужас, и&#160;вся опустошенность <i>их</i>, выменивающих свою пустоту на «виноград» наш, стали так остро ощутимы… весь провал «великого человечества» так наглядно-страшно предстал перед&#160;этой Елисаветой вопиющий… ведь <i>тут-то</i>, в&#160;этой случайной Елисавете на&#160;винограднике, <i>всё</i> опустошение так предстало, подчеркнутое простыми словами дьякона, что&#160;я онемел от&#160;холода, на&#160;солнце закаменел… Убитая моя Маша, и&#160;забитый Федичка, и&#160;убитые старики, и&#160;всё побитое, втоптанное безкрестно в&#160;землю, с&#160;издевкой и&#160;злобой втоптанное, и <i>теми</i>, принятое, как&#160;дешевый товар обменный, — для&#160;них то, для&#160;них-то, говорю, дешевый, репа пареная! всё для&#160;меня предстало как&#160;страшный образ не-заполняемой пустоты, ничем неоплаченной издевки. Во — <i>имя чего?!</i> Это надо решить особо, иначе не&#160;стоит быть. И&#160;говорит еще дьякон, будто возглашает церковное: «ох, да&#160;отольются&#160;же <i>им</i> эти слезы виноградные… да&#160;отзовется <i>соль!..»</i>
+</p><p>Рассказ Пинькова оборвался. Сверху, за&#160;верандой, кто-то&#160;тяжело спускался, скребли шаги, сыпались камушки. В&#160;черной ночи не&#160;было видно, кто подходил к&#160;веранде. На&#160;звездном небе я&#160;различил человеческую тень, пригнувшуюся, будто что-то&#160;тяжелое тащившую. Словно знакомый, разбитый, усталый голос окликнул нас: «Семен Николаевич здесь?». — «А&#160;кто это?» — недовольно спросил Пиньков. — «Я, Семен Николаич, с&#160;верху, Мартын»… Это был старый Любач, виноградарь, о&#160;ком мы&#160;говорили. Лица его в&#160;темноте не&#160;видно было, так — тень, да&#160;голосок скрипучий, придавленный. И&#160;ничего тяжелого не&#160;тащил, это лишь показалось мне: так, тащился. И&#160;начался памятный разговор. Тень Мартына Прокофьича на&#160;стул не&#160;села, а&#160;пристроилась на&#160;перекладинке веранды, на&#160;звездном небе… Я&#160;видел кулачок, дергавший тощую бородку, — склонившуюся уныло голову.
+</p><p>Мартын Прокофьич осторожно-робко спросил, не&#160;уступит&#160;ли&#160;Семен Николаевич кре-стик, кре-стик… такого больше не&#160;найти крестика, весь город обегал, нет ничего, народ в&#160;разброде… в&#160;Ялту, говорят, надо ехать, да&#160;и там не&#160;найти теперь, сколько народу помирало, все запасы давно дошли, а&#160;новых некому запасать; делают, говорят, на&#160;ветер, как&#160;из лучинок, году не&#160;выстоит… Пиньков не&#160;дал договорить. Всем отказывавший в&#160;кресте, он&#160;сказал, с&#160;удивлением: «а&#160;о чем&#160;же тут говорить… пожалуйста берите…». — «Да&#160;что&#160;вы!..» — вскрикнул невидимый Мартын Прокофьич, и&#160;унылая тень его спрыгнула с&#160;перекладины веранды. — «Можно? вы дозволяете?.. Вот, спасибо…, а&#160;я всё беспокоился, потревожить вас крестиком… и&#160;другие наговорили… сколько народу хлопотало… заветный крестик… для&#160;памяти… понимаю я, что&#160;для памяти… значит можно?»… По&#160;голосу было слышно, что&#160;он еще боится и&#160;не верит. — «Да&#160;берите&#160;же!» — крикнул Пиньков, — «это <i>нужно…</i> для&#160;памяти». Он&#160;пошел в&#160;комнаты и&#160;принес фонарь. И&#160;мы&#160;пошли в&#160;закоулок, где стоял крест, высокий, белый, снизу обугленный, с&#160;присохшей к&#160;нему землей. Этот крест говорил нам славянской надписью: «Маша Хлебникова, крестьянка, 23&#160;лет, злодейски убита штыком в&#160;сердце, в&#160;ночь на 20 февраля 1918&#160;года».
+</p><p>— «Значит, дозволите?..» — переспрашивал Мартын Прокофьич, растерянно моргая, — «дозволите <i>это</i> соскоблить, красочка найдется, черная, надпись… Федичку…» — «Не надо соскабливать, пусть останется <i>навсегда»</i> — странно как-то&#160;проговорил Пиньков. — "А&#160;как&#160;же-с?.. — в&#160;испуге, переспросил Мартын Прокофьич, — «ведь, <i>теперь</i> Федичка?..» — «Нет, <i>это</i> должно остаться… под&#160;краской, пусть. Я&#160;дам вам белой, и&#160;вы запишете, закроете <i>это…</i> так оно и&#160;останется. Я&#160;сейчас…». Он&#160;пошел в&#160;комнаты, а&#160;мы остались перед&#160;крестом. Стояли молча, слыша, как&#160;шваркало в&#160;гулкой студии, упал стул.
+</p><p>— «Вот, сейчас закроем…» — сказал резким, будто железным голосом подходивший из&#160;темноты Пиньков. И&#160;большой кистью, сгустившейся белой краской, закрыл крестное начертание. — «Возьмите краску и&#160;кисть, после всё заново покроете, а&#160;то заметно… Я&#160;сам вам напишу, <i>там…»</i> — «Завтра&#160;бы&#160;хоронить хотели, и&#160;лошадь нанята, отвезти…» сказал Мартын Прокофьич просительно.т — «Завтра и&#160;возьмете…» — «А&#160;вы уж разрешите, я&#160;донесу, осилю… сразу завтра и&#160;отвезем, и&#160;поставим… <i>там</i> и&#160;покрашу, на&#160;месте…» — просил нерешительно Мартын Прокофьич. — «Берите… только вам не&#160;под силу будет, тяжелый крест…» — говорил Пиньков. — «Осилю-с… всё осилю-с…» — повторял почти радостно Мартын Прокофьич. Он&#160;подсунулся, избочась, под&#160;крест, подставил плечо под&#160;крестовину, привалил ее к&#160;голове, для&#160;стойкости, и&#160;поволок, скребя обугленным комлем по&#160;треснувшему, неровному бетону. Белый картузик его смялся, сдвинулся с&#160;головы, защемился между крестом и&#160;ухом, но&#160;он не&#160;чувствовал. — «Дайте, я&#160;помогу…» — предлагал, провожая его, Пиньков. — «Ничего-с, это в&#160;горку только… передохну… — слышался под&#160;крестом сдавленный голос Мартына Прокофьича, — посветите только…, а&#160;то я&#160;духом… за&#160;калиткой все тропки знаю… доволоку…»
+</p><p>Мы&#160;проводили его до&#160;верху, с&#160;версту, старались ему помочь, но&#160;он говорил, что&#160;одному способней, а&#160;то, если поднять за&#160;комель, плечо нарежет. Мы&#160;всё&#160;же помогали. С&#160;холма ему будет легче.
+</p><p>Когда вернулись, Пиньков споткнулся на&#160;что-то&#160;у веранды. Это была корзина с&#160;виноградом. — «Это он… в&#160;обмен мне! — удивленно сказал Пиньков, — крест, на… „соленый виноград“! а?!. чудак… и&#160;не сказал ничего… заторопился».
+</p><p>На&#160;веранде еще горел оставленный фонарь в&#160;железной сетке. Пиньков поставил тяжелую корзину на&#160;перекладину. Матово золотился крупно-янтарный чауш, как&#160;сахар сладкий. Но&#160;мы&#160;не тронули. Стояли и&#160;глядели на&#160;сочный чауш, на&#160;который легли тенями клетки от&#160;фонаря. — <i>«Соленый…»</i> — сказал Пиньков. Сидели в&#160;тот вечер долго, почти не&#160;говорили. Фонарь потух. На&#160;менявшемся звездном небе темнела дуга корзины. Так и&#160;не трогали.
+</p><p>Дни стояла корзина на&#160;веранде, долго. Так и&#160;не тронули.
+</p><p>Ноябрь, 1936&#160;г.
+</p><p>Париж.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Стенька_рыбак_Рассказ_доктора"><span id=".D0.A1.D1.82.D0.B5.D0.BD.D1.8C.D0.BA.D0.B0_.D1.80.D1.8B.D0.B1.D0.B0.D0.BA_.D0.A0.D0.B0.D1.81.D1.81.D0.BA.D0.B0.D0.B7_.D0.B4.D0.BE.D0.BA.D1.82.D0.BE.D1.80.D0.B0"></span>Стенька рыбак <br />Рассказ доктора</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)&amp;action=edit&amp;section=4" title="Редактировать раздел «Стенька рыбак Рассказ доктора»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>…А&#160;вот, господа, был в&#160;моей практике преинтересный случай. Психологически интересный и&#160;как раз иллюстрация к&#160;нашему вопросу о&#160;звере в&#160;человеке, в&#160;частности — о «русском зверстве». Пришлось много и&#160;повидать, и&#160;испытать, опыт имею достаточный. И&#160;теперь еще удивляюсь, как&#160;жив остался.
+</p><p>Дело было в&#160;Крыму, на&#160;побережьи, в&#160;маленьком городке. Приехал я&#160;туда совсем молодым врачом, без&#160;копейки денег, послали меня лечиться от&#160;чахотки, — профессор Остроумов меня отправил, как&#160;подающего надежды ассистента, дал своих триста рублей и&#160;рекомендации, — и&#160;я не&#160;только вылечился, но&#160;и навсегда там укрепился. Года четыре выслужил в&#160;земстве, приобрел практику, женился, выстроил чудесную у&#160;моря дачу, словом — стал обеспеченным буржуем. Как&#160;полагается врачу с&#160;общественными наклонностями, «передовому», читавшему «Речь» и «Русские Ведомости», бывшему земцу и&#160;в некотором роде почти народнику, записался в&#160;кадетскую партию и <i>вел</i> в&#160;городишке дружную группку либералов. До&#160;конституции, старались освежать городское самоуправление, с&#160;переменным успехом вышибали крепкого богача-татарина, монархиста, и&#160;мелких «зубров», потом, со свободами, победили решительно, привели городок в&#160;порядок, выстроили народный дом… Население относилось ко&#160;мне недурно, не&#160;отказывался ездить и&#160;по ночам в&#160;разные там слободки, где ютился рабочий люд, — копачи, рыбаки, дрогали… Ну, в&#160;сезон, когда курортные наезжали, манкировать приходилось, да&#160;и тяжелел с&#160;годками. Но, повторяю, недовольства ни&#160;в ком не&#160;замечал. И&#160;вот, как&#160;часто бывает, случился один пустяк, которому я&#160;не придал значения, но… посмотрите, во&#160;что он&#160;вылился.
+</p><p>Во&#160;мне всегда была слабость к&#160;садоводству, — наследственная, пожалуй: я&#160;из духовных, ярославцев, и&#160;предки мои любили это дело. Есть сорт яблок, «мироно-сицкая поповка», перекрест из&#160;мирончиков и&#160;еще каких-то, — отцовской выводки, в&#160;каталоги попали. Эта негрешная страстишка и&#160;к Крыму меня, пожалуй, прикрепила. На&#160;своей даче я&#160;завел образцовый виноградник… — сам Пастак с&#160;Сарибаном приезжали, славные наши крымчаки-садоводы, и&#160;восхищались садом и&#160;виноградником, — насадил груш и&#160;яблонь, развел розарий. И&#160;вот, удалось мне вывести один новый сорт — кальвиль, с «антоновскими» достоинствами: и&#160;аромат, и&#160;вкус чрезвычайно тонкий, и&#160;сочность редкостная, и, самое главное, плодовитость, устойчивость, выносливость. Лет десять над&#160;этим бился, выписывал с&#160;разных мест посадки, привез триста возов земли из-под&#160;Козьмодемьянска, особенной, какого-то «размыва», по&#160;совету дворцового садовода, — и, наконец, добился. И&#160;вот тут-то&#160;и начинается тот «пустяк».
+</p><p>Работали у&#160;меня по&#160;саду копачи, и&#160;так — парнишки. И&#160;был между этими парнишками некий Стенька, рыбачий сын, личность довольно сложная. Красивый мальчик, сильный, сухощавый, нервный; что-то, как-будто, древнее было в&#160;его взгляде, степное, дикое. То&#160;посмотрит — совсем расейский, из-под&#160;Орла, ласковость и&#160;задумчивость в&#160;сероватых глазах и&#160;облике… то, вдруг, так глазами и&#160;загорится, как&#160;чорт в&#160;нем бьется, — что-то&#160;татарское-генуэзское, разбойное. В&#160;нашем Крыму, по&#160;побережью, всякая мешанина есть. И&#160;вот, этот парнишка, лентяй отчаянный, — лет пятнадцать было ему тогда, уж ходил с&#160;отцом в&#160;глубокое море «за&#160;белугой», — стал примерным работником. Прогнал я&#160;его как-то&#160;за бездельничанье и&#160;лень, гляжу — побелел, трясется, чуть не&#160;плачет: «дозвольте опять приходить работать, буду вот-как&#160;стараться!» Попробовал, оставил. Как&#160;шелковый, так и&#160;горит в&#160;руках. И&#160;что-же, можете себе представить, оказалось: любовь! В&#160;Риночку мою влюбился, в&#160;дочку мою Ириночку. Ей было лет двенадцать, но&#160;она казалась старше, — крымское созревание, в&#160;мать пошла. Она, понятно, ни&#160;сном, ни&#160;духом, совсем ребенок, лазит по&#160;миндалям в&#160;белом своем платьишке, черная головка всегда, от&#160;солнца, повязана красным шолком, — все, бывало, любуются. Правда, я&#160;примечал, что&#160;уж очень услужлив Стенька. То&#160;сандалию ей поднимет, с&#160;ножки у&#160;ней соскочит, то&#160;какого-нибудь редкостного жучка отыщет, то… — чуть она позовет кого, что-нибудь ей помочь, он&#160;сломя голову летит. Сперва я&#160;не придавал значения. Как-то&#160;приходит в&#160;сад, в&#160;белой татарской куртке, обтянутый, брюки-диагональ, и&#160;розовенький платок на&#160;шее! Подумал — должно быть именинник, или&#160;в горы едет, — брали его когда приезжие, для&#160;услуг. А&#160;вечером Риночка маме и&#160;шепчет по&#160;секрету: «мальчик Стеня ручки мне целовал, и&#160;змею при&#160;мне убил… и&#160;написал записочку про&#160;любовь». И&#160;показала записочку, в&#160;каракулях: «я&#160;люблю вас, Риночка, больше жизни, и&#160;не могу без&#160;вас жить на&#160;свете». Побранили мы, зачем руки грязному мальчишке давала целовать, а&#160;она нам — «он&#160;нынче не&#160;грязный был, и&#160;сказал, что&#160;я первая принцесса, а&#160;он мой раб… это мы&#160;так играли». Ну, что&#160;с нее взять, ребенок. А&#160;утром, как&#160;он явился, я&#160;ему и&#160;прописал «раба». Уши ему нарвал, сгоряча, и — фить! — из&#160;сада. И&#160;чтобы больше и&#160;ни ногой. Пустяки, понятно, но&#160;у нас, на&#160;юге, всякие истории бывали, с&#160;этаких пустяков.
+</p><p>Прошло дня два, выхожу я&#160;на зорьке в&#160;сад, до&#160;визитации поработать, да&#160;так и&#160;ахнул «Антоновские» мои кальвили, все шесть корней, самое драгоценное мое, — срезаны, как&#160;пилой, валяются, уж пожухли, а&#160;яблочки на&#160;них с&#160;грецкий орех уж были. В&#160;голос закричал, в&#160;сердце меня пронзило. Мерзавец, ясно! А&#160;следов нет. А&#160;он&#160;про эти кальвили знал, сам при&#160;мне чашки под&#160;ними очищал и&#160;всегда поливал при&#160;мне. И&#160;всегда Риночка тут вертелась, напевала: «вильки-кальвильки!» Ну, вызвал его отца, строгого мужика, из&#160;рыбаков, лечил у&#160;него не&#160;раз. Следов нет, а&#160;хулиганов много, — говорит: «знамо&#160;бы&#160;было, голову&#160;бы&#160;оторвал, а… как&#160;же тут дознаться!» Ну, он&#160;его всё-таки отгладил. И, пропали мои кальвили. Пробовал повторить — не&#160;удалось, три года бился. Но&#160;с&#160;того дня начались для&#160;меня терзания. Поверить трудно, да&#160;и смешно, как-будто, а&#160;началась между мной, солидным человеком, и&#160;парнишкой война изводом. Да&#160;таким изводом, что&#160;я и&#160;сон потерял, и&#160;покой, и… чуть&#160;ли&#160;не до&#160;галлюцинаций со мной дошло. Да&#160;что&#160;там, до&#160;галлюцинаций… — до&#160;смертного ужаса дошло дело, как&#160;вы увидите.
+</p><p>Это случилось как&#160;раз в&#160;самый год войны. Дня через&#160;три после кальвильного погрома, только стал приходить в&#160;себя, встаю утром и&#160;вижу: все мои розы будто косой порезаны! И&#160;опять никаких следов. Сделал заявление в&#160;полицию. Безрезультатно. Стал сам караулить ночью. Сижу, как&#160;дурак, в&#160;кустах, поглядываю на&#160;звезды, лягушечек слушаю древесных, да&#160;сплюшки сплюкают. На&#160;садовника не&#160;надеюсь, да&#160;и ему спать нужно. А&#160;лишнего человека брать — и&#160;дорого, с&#160;войной всё подорожало, да&#160;и не&#160;верится никому. Завел другую собаку, наша любила Стеньку, всё, бывало, он&#160;с ней играл. Немного поуспокоился. И&#160;началась новая история.
+</p><p>Ездишь по&#160;визитам, а&#160;мальчишки из-за&#160;плетней и&#160;стенок кричат: «я-б-лочки хороши!» Ну, глупость. Вида не&#160;подаю, а&#160;раздражает. Сам себя на&#160;мысли ловлю, что&#160;раздражаюсь, что&#160;этот дурацкий Стенька как-то&#160;в жизни моей замешан, что&#160;ничтожный пустяк может мне портить жизнь. Рыбачьей слободкой едешь — и&#160;опасаешься, гадости&#160;бы&#160;какой не&#160;сделал. И&#160;всегда что-нибудь да&#160;выйдет: то&#160;камень просвистит, то&#160;из рогатки щелкнет «гусятником», а&#160;про «яблочки», про «вильки-кальвильки» и&#160;говорить нечего. Как-то&#160;под утро — тррах… дзинн!.. Выбежали на&#160;веранду, собаки рвутся на&#160;стенку… глядим — вся наша веранда вдребезги, к&#160;соседской даче. А&#160;садовник бежит, кричит — все стекла в&#160;оранжерейке выбиты и&#160;пробный банан камнем перебит. И&#160;стал я&#160;как&#160;бы&#160;общим посмешищем. Пристав по&#160;виду сожалеет, а&#160;знаю, что&#160;ликует: полицию мы&#160;таки — подтянули, либералы. Говорит как-то&#160;подозрительно: "очень странно, доктор, ни&#160;у кого не&#160;бьют, у&#160;вас только! конечно, мы&#160;строгие меры примем, а&#160;всё-таки посоветую… одни по&#160;ночам избегайте ездить, не&#160;дай Бог худшее случится… неспокойный народ, пришлый. Глупейшее положение, чувствую — издевается. И&#160;знакомые стали осведомляться: «ну как, ничего ночью не&#160;было?» Только забудешься, поутихнет недельки две, — опять какая-нибудь гадость. На&#160;жену за&#160;Риночку страх напал, перестали в&#160;город одну пускать. И&#160;вдруг, получается письмо, не&#160;каракулями, а&#160;четко: «бойтесь возможного пожара» и&#160;подписано — «Морской чорт». Глупо, а&#160;беспокоимся. А&#160;то&#160;стали изредка приходить ругательные открытки, пасквильные. Кто его обучал… но&#160;кто-то&#160;обучал. Жена стала получать самые грязные доносы, что&#160;у меня там-то&#160;было свидание, что&#160;видали меня в&#160;Ялте с&#160;гулящей девкой… всякие мерзости. Ну, прямо, отравил и&#160;отравил жизнь. Так это с&#160;годик продолжалось. И&#160;вот, иду как-то&#160;в татарской части, улочки там узкие, кривые… и&#160;вдруг навстречу — Стенька, и&#160;с ним целая ватага таких&#160;же головорезов; шли с&#160;работы, обивали урожай с&#160;орехов грецких, в&#160;половине октября было. Пошли мимо меня, Стенька и&#160;кричит: «ну, толстопузый, попомнишь Стеньку!» В&#160;мальчишке — и&#160;такое злопамятство. Серьезно говорю — отравил и&#160;отравил жизнь.
+</p><p>С&#160;год я&#160;служил в&#160;Севастополе, был призван. Без&#160;меня затихло. Открыли в&#160;нашем городке госпиталь, и&#160;мне удалось перевестись. И&#160;началась старая история. Стенькина отца мобилизовали, и&#160;стал он&#160;за него рыбачить.
+</p><p>Летом, в 16&#160;году было. Прибежала Риночка из&#160;города и&#160;говорит: «видела на&#160;берегу Стеньку в&#160;лодке, поклонился так вежливо и&#160;сказал, что&#160;напрасно это ваш папаша на&#160;меня думает, но&#160;я ради вас всё ему прощаю, а&#160;вас буду всегда помнить». Каков артист! И&#160;стал уже настоящий парень, с&#160;рыбаками как&#160;равный кутит — пускает пыль. А&#160;тут стало у&#160;нас тревожней. Как&#160;убили Распутина, у&#160;нас рыбаки праздник устроили, позвали солдат из&#160;лазарета, перепились и&#160;стали «долой войну» кричать. Пристав арестовал Стеньку, главного крикуна, и&#160;отправил его в&#160;Ялту. Правду сказать, это меня как-то&#160;облегчило, революция ожидалась. Я&#160;ее ждал с&#160;большим даже нетерпением, планами вдохновлялся, и — смешно вам покажется нет-нет, а&#160;и вспомнишь Стеньку: как&#160;же он&#160;развернется и&#160;в кого обернется! Первейший хулиган, нож за&#160;сапогом стал носить.
+</p><p>И&#160;пришла матушка-революция. Митинги пошли. Выступал и&#160;я, как&#160;представитель кадетской партии. И&#160;вдруг — требует себе слова… Стенька! Революция его освободила, с&#160;трубными звуками. Сильный парень, красавец, дурак, понятно, и&#160;чешет!.. одно удовольствие товарищам. За&#160;два месяца в&#160;тюрьме здорово навострился, с&#160;политическими сидел. И&#160;что&#160;ни слово — проклятие и&#160;угроза: всем буржуям кишки повыпустить, всё отобрать, а&#160;их «к&#160;рыбкам гулять отправить». И&#160;стал он&#160;у нас как&#160;бы атаманом банды. Говорил с&#160;огнем, со страстью, и&#160;недурно, общие места, конечно, но&#160;умел зацепить за&#160;нерв. Словом, большевиком заделался. Меня — то&#160;по плечу потреплет, как&#160;равный с&#160;равным, то, словно муха его укусит, — грозит «смести». Раз на&#160;берегу пьяный встретился, во&#160;главе ватаги, ухватил за&#160;пиджак, — «ну, говорит, придет час… кишки повытрясем!» А&#160;товарищи — га-га-га, «яблочки будешь помнить!».
+</p><p>Сами знаете, какое время было. В&#160;лазарете скандалы, на&#160;фронт не&#160;едут, явились дезертиры, сады по&#160;ночам трясут… весь у&#160;меня виноград сожрали. Риночку мы&#160;к тетке в&#160;Симферополь отправили, страх за&#160;нее напал. В&#160;первые большевистские дни пришлось скрываться, ночью бежали в&#160;Симферополь. Прожили там до&#160;немцев. Доходили вести, что&#160;Стенька меня искал, кем-то&#160;заделался у&#160;власти. Вернулись к&#160;себе, глядим — дом не&#160;разграбили, и&#160;в саду ничего особенного не&#160;натворили. Садовник сказал, что&#160;приходил раз Стенька, с&#160;какими-то, обошел комнаты и… над&#160;Риночкиной кроваткой красную розу приколол. И&#160;пригрозил: только пальцем кто тронет хоть пушинку — ухлопает на&#160;месте! Куда-то&#160;при немцах смылся. И&#160;что&#160;особенно интересно: ни&#160;арестовывал никого, ни&#160;грабил, как&#160;другие, только истошно надрывался и&#160;всё обещал «правду показать».
+</p><p>В&#160;ноябре немцы смылись, и&#160;появился Стенька. Его не&#160;тронули. Ходил в&#160;море, не&#160;безобразничал. А&#160;Риночку мы&#160;брать из&#160;Симферополя боялись. Да&#160;и&#160;сами побаивались. Поползли слухи, что&#160;придут скоро большевики, и&#160;будет самая настоящая разделка, — с «кадетами». И&#160;решили с&#160;женой, на&#160;всякий случай, до&#160;лучших врелюч, при&#160;первой тревоге, смыться. Доходили с&#160;севера вести жуткие: «всех кадетов-буржуев к&#160;стенке!» В&#160;марте забрали Риночку и&#160;эвакуировались в&#160;Константинополь. В&#160;июне вернулись добровольцы, и&#160;мы вернулись. И&#160;тут самое интересное…
+</p><p>Прихожу в&#160;лазарет, а&#160;сестры и&#160;говорят: «а&#160;у нас Стенька Рыбак лежит». И&#160;увидал я&#160;молодчика, в&#160;самом-то&#160;злейшем сыпняке, в&#160;беспамятстве, в&#160;пожаре. Уж и&#160;бредил!.. Весь тут характер его сказался. И&#160;ругался, и&#160;проклинал, и&#160;к чертям посылал, и&#160;плакал, и&#160;ласкался, и&#160;мамку звал, и&#160;кишки доктору выпустить хотел, и&#160;Богу молился, и&#160;Бога-то… И&#160;затомилось во&#160;мне, — и&#160;жалость, и&#160;грусть, и&#160;ласка. Это был чудеснейший экземпляр сильного и&#160;здорового парня, русского красавца, потерявшегося во&#160;всей этой беспардонности и&#160;хаосе нашем. Вдруг, раскроет глаза и&#160;смотрит, дико и&#160;в ужасе, и&#160;будто вглядывается в&#160;меня, что-то&#160;ему мелькает. Глаза ввалились, стали из&#160;серых синими, в&#160;черноту… Я&#160;приказал, чтобы его не&#160;оставляли ни&#160;на минуту, чуть что — давали шприц. Давила меня тревога: надо его спасти! Спать спокойно не&#160;мог, вскакивал и&#160;бежал к&#160;морю, в&#160;лазарет. И&#160;вот, как-то, сидел я&#160;у его койки. Приподнялся он, — ночью было, — уставился на&#160;меня глазищами… как&#160;вскрикнет — «доктор!.. ура-а!..» — и&#160;шарк, к&#160;окошку. А&#160;в&#160;сыпняке у&#160;нас были на 4-м этаже. Он&#160;уж на&#160;подоконник прыгнул, я&#160;его за&#160;рубаху сдернул, так он&#160;и грохнулся, подбородком об&#160;край окна.
+</p><p>Выздоровел. Помню, зашел я&#160;к нему, сел у&#160;него на&#160;койке. Смотрел — смотрел на&#160;меня, зажмурился… — «Доктор… вы это меня спасли… мне сестрица сказала… выходили меня, и&#160;ночью приходили… и&#160;барыня ваша приходила…» Сказал ему — это уж наше дело, спасать. Так головой покивал, будто приглядывался. — «Ты, говорю, парень славный, только дурак, бестолково-горяч… а&#160;славный» — «Славный?..» — недоверчиво так спросил, — и&#160;слезы него наплыли, и&#160;стыдно ему слез своих. Но&#160;пересилил стыд. Схватил мою руку — и&#160;крепко поцеловал.
+</p><p>— «Ну, доктор…» — и&#160;подавился слезами, не&#160;мог сказать.
+</p><p>Выписали его. Поручился я&#160;за него, он&#160;этого не&#160;знал. Видит — не&#160;трогают, стал рыбачить. И&#160;еще на&#160;ногах шатался — вышел с&#160;друзьями в&#160;море. А&#160;тогда у&#160;нас с&#160;продовольствием туго стало. И&#160;вот, рано утром, в&#160;веранду — стук! Выбегаю — и&#160;вот, картина, стоят трое: впереди, еле на&#160;ногах, худой, желтый после болезни, Стенька, и&#160;у его ног круглая корзина, полна камсы; а&#160;по бокам, отступя, — как&#160;адъютанты, двое и&#160;у каждого в&#160;руках такая&#160;же корзина. — «Солите, доктор!» Отказать не&#160;мог. Тут уж и&#160;я… заморгал. Он&#160;меня так и&#160;продовольствовал: и&#160;кефалью, и&#160;камбалой, и&#160;скумбрией, и&#160;нипочем денег не&#160;берет. Эвакуация подошла. Пришел он&#160;ко мне, сказал: «не&#160;уезжайте от&#160;нас… не&#160;дозволим тронуть». Я&#160;остался. Правда, меня арестовали, но&#160;Стенька тут ни&#160;при чем, напротив… И&#160;пришло страшное, и&#160;в этом страшном… но&#160;об этом как-нибудь в&#160;другой раз.
+</p><p>Март, 1936&#160;г.
+</p><p>Париж.
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐74cbb9fbd5‐nrdpj
+Cached time: 20260215140056
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.123 seconds
+Real time usage: 0.203 seconds
+Preprocessor visited node count: 190/1000000
+Revision size: 116539/2097152 bytes
+Post‐expand include size: 8201/2097152 bytes
+Template argument size: 1152/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 222/5000000 bytes
+Lua time usage: 0.062/10.000 seconds
+Lua memory usage: 1796936/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  164.662      1 -total
+ 94.24%  155.184      1 Шаблон:Отексте
+  5.61%    9.242      1 Шаблон:---
+  1.17%    1.932      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1040075:|#|:idhash:canonical and timestamp 20260215140056 and revision id 5315592. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Из_крымских_рассказов_(Шмелёв)&amp;oldid=5315592">https://ru.wikisource.org/w/index.php?title=Из_крымских_рассказов_(Шмелёв)&amp;oldid=5315592</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2" title="Категория:Иван Сергеевич Шмелёв">Иван Сергеевич Шмелёв</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1936_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1936 года">Литература 1936 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%A8%D0%BC%D0%B5%D0%BB%D0%B5%D0%B2" title="Категория:Импорт/az.lib.ru/Иван Сергеевич Шмелев">Импорт/az.lib.ru/Иван Сергеевич Шмелев</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 25 февраля 2025 года в 13:48.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%98%D0%B7_%D0%BA%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D1%85_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2_(%D0%A8%D0%BC%D0%B5%D0%BB%D1%91%D0%B2)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Из крымских рассказов (Шмелёв)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-f79556446-2ddw5","wgBackendResponseTime":131,"wgPageParseReport":{"limitreport":{"cputime":"0.123","walltime":"0.203","ppvisitednodes":{"value":190,"limit":1000000},"revisionsize":{"value":116539,"limit":2097152},"postexpandincludesize":{"value":8201,"limit":2097152},"templateargumentsize":{"value":1152,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":222,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  164.662      1 -total"," 94.24%  155.184      1 Шаблон:Отексте","  5.61%    9.242      1 Шаблон:---","  1.17%    1.932      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.062","limit":"10.000"},"limitreport-memusage":{"value":1796936,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Иван Сергеевич Шмелев\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"1. Крест. 2. «Ентрыга». 3. Виноград. 4. Стенька-рыбак\",\n    [\"published\"] = \"1936\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/s/shmelew_i_s/text_1936_iz_krymskih_rasskazov.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Из крымских рассказов\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.codfw.main-74cbb9fbd5-nrdpj","timestamp":"20260215140056","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

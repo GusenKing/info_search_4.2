@@ -1,0 +1,1991 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Отдых на крапиве (Аверченко) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"2e3c05c8-29a9-4201-b665-11257700d5a8","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Отдых_на_крапиве_(Аверченко)","wgTitle":"Отдых на крапиве (Аверченко)","wgCurRevisionId":5589388,"wgRevisionId":5589388,"wgArticleId":997668,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Страницы с внешними ссылками","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 200","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 300","Импорт/lib.ru","Импорт/az.lib.ru/Аркадий Тимофеевич Аверченко","Проза","Сатира и юмор","Сборники рассказов","Аркадий Тимофеевич Аверченко","Литература 1924 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Отдых_на_крапиве_(Аверченко)","wgRelevantArticleId":997668,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5589388,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":200000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Отдых на крапиве (Аверченко) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Отдых_на_крапиве_Аверченко rootpage-Отдых_на_крапиве_Аверченко skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9E%D1%82%D0%B4%D1%8B%D1%85+%D0%BD%D0%B0+%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9E%D1%82%D0%B4%D1%8B%D1%85+%D0%BD%D0%B0+%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9E%D1%82%D0%B4%D1%8B%D1%85+%D0%BD%D0%B0+%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9E%D1%82%D0%B4%D1%8B%D1%85+%D0%BD%D0%B0+%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Отдых_на_крапиве"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Отдых_на_крапиве">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Отдых на крапиве</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Отдых_на_крапиве-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ПОЧЕМУ?"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ПОЧЕМУ?">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>ПОЧЕМУ?</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ПОЧЕМУ?-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ВЕНГЕРСКИЙ_ЯЗЫК"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ВЕНГЕРСКИЙ_ЯЗЫК">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>ВЕНГЕРСКИЙ ЯЗЫК</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ВЕНГЕРСКИЙ_ЯЗЫК-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ЖЕНЩИНА_И_НЕГР"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ЖЕНЩИНА_И_НЕГР">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>ЖЕНЩИНА И НЕГР</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ЖЕНЩИНА_И_НЕГР-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-МОЙ_ДЯДЯ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#МОЙ_ДЯДЯ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>МОЙ ДЯДЯ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-МОЙ_ДЯДЯ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-РАССКАЗЧИКИ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#РАССКАЗЧИКИ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>РАССКАЗЧИКИ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-РАССКАЗЧИКИ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ТРИ_СЛУЧАЯ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ТРИ_СЛУЧАЯ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>ТРИ СЛУЧАЯ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ТРИ_СЛУЧАЯ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-I"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#I">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>I</span>
+			</div>
+		</a>
+		
+		<ul id="toc-I-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-II"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#II">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>II</span>
+			</div>
+		</a>
+		
+		<ul id="toc-II-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-III"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#III">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>III</span>
+			</div>
+		</a>
+		
+		<ul id="toc-III-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ВЫХОДЕЦ_С_ТОГО_СВЕТА"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ВЫХОДЕЦ_С_ТОГО_СВЕТА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">11</span>
+				<span>ВЫХОДЕЦ С ТОГО СВЕТА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ВЫХОДЕЦ_С_ТОГО_СВЕТА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ИСТОРИЯ_ОДНОГО_АКТЕРА"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ИСТОРИЯ_ОДНОГО_АКТЕРА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">12</span>
+				<span>ИСТОРИЯ ОДНОГО АКТЕРА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ИСТОРИЯ_ОДНОГО_АКТЕРА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ОСВЕЖАЮЩИЙ_ДУШУ_РАЗГОВОР"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ОСВЕЖАЮЩИЙ_ДУШУ_РАЗГОВОР">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">13</span>
+				<span>ОСВЕЖАЮЩИЙ ДУШУ РАЗГОВОР</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ОСВЕЖАЮЩИЙ_ДУШУ_РАЗГОВОР-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-БОКС_В_ТУРЦИИ_И_В_ЕВРОПЕ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#БОКС_В_ТУРЦИИ_И_В_ЕВРОПЕ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">14</span>
+				<span>БОКС В ТУРЦИИ И В ЕВРОПЕ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-БОКС_В_ТУРЦИИ_И_В_ЕВРОПЕ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ФИЛАТЕЛИСТЫ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ФИЛАТЕЛИСТЫ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">15</span>
+				<span>ФИЛАТЕЛИСТЫ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ФИЛАТЕЛИСТЫ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ЗИМНИЙ_ВЕЧЕР_В_ДЕТСКОЙ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ЗИМНИЙ_ВЕЧЕР_В_ДЕТСКОЙ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">16</span>
+				<span>ЗИМНИЙ ВЕЧЕР В ДЕТСКОЙ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ЗИМНИЙ_ВЕЧЕР_В_ДЕТСКОЙ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-МОЙ_ПЕРВЫЙ_ДЕБЮТ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#МОЙ_ПЕРВЫЙ_ДЕБЮТ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">17</span>
+				<span>МОЙ ПЕРВЫЙ ДЕБЮТ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-МОЙ_ПЕРВЫЙ_ДЕБЮТ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-НАХОДЧИВОСТЬ_НА_СЦЕНЕ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#НАХОДЧИВОСТЬ_НА_СЦЕНЕ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">18</span>
+				<span>НАХОДЧИВОСТЬ НА СЦЕНЕ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-НАХОДЧИВОСТЬ_НА_СЦЕНЕ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Отдых на крапиве (Аверченко)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9E%D1%82%D0%B4%D1%8B%D1%85+%D0%BD%D0%B0+%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5+%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;oldid=5589388" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29&amp;id=5589388&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259E%25D1%2582%25D0%25B4%25D1%258B%25D1%2585_%25D0%25BD%25D0%25B0_%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BF%25D0%25B8%25D0%25B2%25D0%25B5_%28%25D0%2590%25D0%25B2%25D0%25B5%25D1%2580%25D1%2587%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25BE%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259E%25D1%2582%25D0%25B4%25D1%258B%25D1%2585_%25D0%25BD%25D0%25B0_%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BF%25D0%25B8%25D0%25B2%25D0%25B5_%28%25D0%2590%25D0%25B2%25D0%25B5%25D1%2580%25D1%2587%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25BE%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_%28%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Отдых на крапиве</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Автор:Аркадий Тимофеевич Аверченко">Аркадий Тимофеевич Аверченко</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1924</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/a/awerchenko_a_t/text_1924_otdyh_na_krapive.shtml">az.lib.ru</a></span>  • <i>Сборник рассказов.</i><br />
+Почему?.<br />Венгерский язык.<br />Женщина и&#160;негр.<br />Мой дядя.<br />Рассказчики.<br />Три случая.<br />Выходец с&#160;того света.<br />История одного актера.<br />Освежающий душу разговор.<br />Бокс в&#160;Турции и&#160;в Европе.<br />Филателисты.<br />Зимний вечер в&#160;детской.<br />Мой первый дебют.<br />Находчивость на&#160;сцене.</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Автор:Аркадий Тимофеевич Аверченко">Аркадий Тимофеевич Аверченко</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="Отдых_на_крапиве"><span id=".D0.9E.D1.82.D0.B4.D1.8B.D1.85_.D0.BD.D0.B0_.D0.BA.D1.80.D0.B0.D0.BF.D0.B8.D0.B2.D0.B5"></span>Отдых на&#160;крапиве</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=1" title="Редактировать раздел «Отдых на крапиве»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>Содержание:</i>
+</p><p>Почему?
+</p><p>Венгерский язык
+</p><p>Женщина и&#160;негр
+</p><p>Мой дядя
+</p><p>Рассказчики
+</p><p>Три случая
+</p><p>Выходец с&#160;того света
+</p><p>История одного актера
+</p><p>Освежающий душу разговор
+</p><p>Бокс в&#160;Турции и&#160;в Европе
+</p><p>Филателисты
+</p><p>Зимний вечер в&#160;детской
+</p><p>Мой первый дебют
+</p><p>Находчивость на&#160;сцене
+</p>
+<hr />
+<div class="mw-heading mw-heading3"><h3 id="ПОЧЕМУ?"><span id=".D0.9F.D0.9E.D0.A7.D0.95.D0.9C.D0.A3.3F"></span>ПОЧЕМУ?</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=2" title="Редактировать раздел «ПОЧЕМУ?»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Этот вопрос задал мне издатель, когда я&#160;вручил ему материал для&#160;настоящей книги.
+</p><p>— Что — «почему»?
+</p><p>— Почему книга так называется: «Отдых на&#160;крапиве»?
+</p><p>— Хорошее название, — одобрительно возразил я, ласково похлопав по&#160;папке с&#160;рукописями.
+</p><p>— Неплохое. Но&#160;что, собственно, оно обозначает?
+</p><p>— Неужели не&#160;догадываетесь? Так просто! Вы когда-нибудь пробовали отдыхать на&#160;крапиве?
+</p><p>— На&#160;крапиве? В&#160;детстве пробовал. Но, какой уж то&#160;был отдых — на&#160;крапиве! Одно жгучее беспокойство.
+</p><p>— Вот то-то&#160;и оно. Дело в&#160;том, что&#160;я немного зол на&#160;моих читателей. Всю свою и&#160;всю мою жизнь они&#160;считали меня предобродушным малым, и&#160;при личном со мной знакомстве пытались всегда отпустить сомнительного сорта комплимент: «Ах, знаете, я&#160;люблю вас читать! На&#160;ваших книгах — прямо-таки отдыхаешь!» Я&#160;всегда был против того, чтобы мои книги низводились до&#160;степени мягкой перины — это ужасно обидно! Литература должна звать куда-то, будить, тревожить, вызывать разные вопросы и&#160;запросы. Вот как&#160;я смотрю на&#160;литературу! А&#160;мои читатели?.. Им, извольте&#160;ли&#160;видеть, удобно отдыхать на&#160;моих книгах! Возмущенный этим, я&#160;и решил в&#160;настоящем случае подсунуть им такую книгу, на&#160;которой не&#160;очень-то&#160;отдохнешь! Она почти вся — едкая, колючая — ну точь-в-точь будто вы легли в&#160;крапиву, опираясь об&#160;нее голой рукой, щекой и&#160;шеей…
+</p><p>Издатель внимательно выслушал меня и&#160;потом сказал:
+</p><p>— А&#160;вдруг читатель и&#160;не почувствует даже, что&#160;у него под&#160;рукой жгучая крапива?!
+</p><p>— Тогда он&#160;не читатель. Крокодиловую или&#160;носорожью кожу — я&#160;предпочитаю на&#160;разных изящных изделиях, но&#160;не на&#160;читательском теле. Эта моя книга для&#160;людей тонкокожих…
+</p><p>Издатель ухмыльнулся и&#160;хлопнул рукой по&#160;книге:
+</p><p>— Значит — «Отдых»?
+</p><p>— «Отдых»! — хлопнул и&#160;я рукой по&#160;тому&#160;же месту.
+</p><p>— «На&#160;крапиве»? — поглаживая книгу, будто это была только что&#160;купленная лошадь, спросил издатель.
+</p><p>— «На&#160;крапиве», — подтвердил я, ласково пощекотав книгу под&#160;корешком.
+</p><p>В&#160;этой несложной процедуре и&#160;заключался акт крещения новорожденного, который скоро-скоро выплывет на&#160;бурный водоворот жизни — под&#160;ясным звучным названием:
+</p><p>— «Отдых на&#160;крапиве»…
+</p>
+<style data-mw-deduplicate="TemplateStyles:r5158936">.mw-parser-output .align-right{text-align:right}.mw-parser-output div.align-right{margin-top:0;margin-right:0;margin-bottom:0;margin-left:auto}.mw-parser-output span.align-right{display:inline-block;width:100%}</style><div class="align-right"><i>Автор</i></div>
+<div class="mw-heading mw-heading3"><h3 id="ВЕНГЕРСКИЙ_ЯЗЫК"><span id=".D0.92.D0.95.D0.9D.D0.93.D0.95.D0.A0.D0.A1.D0.9A.D0.98.D0.99_.D0.AF.D0.97.D0.AB.D0.9A"></span>ВЕНГЕРСКИЙ ЯЗЫК</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=3" title="Редактировать раздел «ВЕНГЕРСКИЙ ЯЗЫК»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Для&#160;разговора Сукачев выбрал самое неудобное место: нас толкали, нам наступали на&#160;ноги, потому что&#160;встретились мы&#160;с Сукачевым на&#160;скрещении двух главных улиц… Все-таки Сукачев ухитрился рассказать свою историю до&#160;конца.
+</p><p>Я, впрочем, того мнения, что&#160;наша встреча именно на&#160;улице — к&#160;лучшему: будь это в&#160;закрытом помещении — Сукачев плакал&#160;бы, как&#160;ребенок.
+</p><p>Сукачев уцепился за&#160;пуговицу моего пиджака, как&#160;тонущий матрос за&#160;обломок реи, и&#160;начал рассказывать так:
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Видите&#160;ли, я&#160;имею некоторые дела с&#160;Будапештом и&#160;рано или&#160;поздно собирался даже туда съездить. Но&#160;мне страшно мешало незнание ихнего венгерского языка.
+</p><p>И&#160;пришла мне однажды в&#160;голову благая мысль, чтоб ее черт побрал, эту мысль: пошел я&#160;в контору газеты и&#160;сдал такое объявление: «Ищу преподавателя венгерского языка. Гонораром не&#160;стесняюсь».
+</p><p>На&#160;другой день ко&#160;мне явился крайне благообразный скромного вида молодой человек и&#160;сказал:
+</p><p>— Я&#160;могу выучить вас венгерскому языку.
+</p><p>— А&#160;вы что&#160;же сами… венгерец?
+</p><p>— Нет, но&#160;мой дед долго жил в&#160;Венгрии. Потом, в 1848&#160;году, бежал от&#160;преследований Хорти.
+</p><p>— Что&#160;вы такое говорите?! Да&#160;ведь Хорти в 1848&#160;году и&#160;на свете не&#160;было.
+</p><p>— Допустим, но&#160;что&#160;же из&#160;этого следует? Если у&#160;меня был дедушка, почему&#160;же у&#160;Хорти не&#160;могло быть дедушки?! Один дедушка бежал от&#160;другого дедушки — вот и&#160;все! Так хотите учиться венгерскому языку?
+</p><p>— Очень. А&#160;сколько вы возьмете за&#160;полный курс?
+</p><p>— Это будет зависеть от&#160;вас, я&#160;могу получить за&#160;весь язык сдельно, могу получить за&#160;ежедневный кусочек языка — поденно.
+</p><p>— А&#160;какая разница?
+</p><p>— Сдельно — в&#160;два раза скорей выучитесь.
+</p><p>— Тогда, конечно, сдельно. Сколько хотите?
+</p><p>— Две тысячи крон. Только я&#160;должен поселиться у&#160;вас и&#160;не разлучаться с&#160;вами — тогда будет толк. Через&#160;месяц вы будете говорить по-венгерски, как&#160;Бетховен!
+</p><p>— Виноват, Бетховен никогда не&#160;говорил по-венгерски!
+</p><p>— Ему&#160;же хуже. Встреться он&#160;со мной в&#160;свое время — он&#160;объяснялся&#160;бы, как&#160;Данте Алигьери!
+</p><p>— Данте был итальянец.
+</p><p>— Это безразлично. Я&#160;и&#160;по-итальянски говорю, как&#160;бог. Могу я&#160;завтра к&#160;вам переехать?
+</p><p>— Хоть сегодня.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Первый наш урок произвел на&#160;меня самое выгодное впечатление…
+</p><p>— Вероятно, мы&#160;начнем с&#160;грамматики? — осведомился я.
+</p><p>— Вы будете сейчас приятно удивлены, — усмехнулся мой юный преподаватель. — Дело в&#160;том, что&#160;венгерский язык не&#160;имеет никакой грамматики!
+</p><p>— Вы меня поражаете!
+</p><p>— О, это удивительный язык! Там все слова не&#160;склоняются и&#160;не спрягаются. Например, по-русски вы скажете: «Я&#160;видел его идущим по&#160;улице»… А&#160;по-венгерски это звучит так: «Я&#160;видеть он&#160;идти улица».
+</p><p>— Оказывается, значит, что&#160;это очень легкий язык!
+</p><p>— Не скажите. Слова очень трудные. Но&#160;за&#160;месяц я&#160;вас выучу.
+</p><p>Я&#160;знал единственное венгерское слово и&#160;поэтому решил щегольнуть им перед&#160;своим преподавателем.
+</p><p>— Киссенем, — расшаркался я. Он&#160;удивился:
+</p><p>— Что-о?
+</p><p>— Я&#160;говорю: «киссенем» — по-венгерски — спасибо. Неужели вы не&#160;знаете такого простого слова?!
+</p><p>— Ах, да! Но&#160;вы неправильно произнесли это слово — потому я&#160;и не&#160;понял. Не «киссенем», а «куссенем»!
+</p><p>— Вот оно что! То-то&#160;я там над&#160;первым «и» видел две черточки.
+</p><p>— Верно. Благодаря этим черточкам «и» всегда переходить в «о».
+</p><p>— Вы раньше сказали в — «у».
+</p><p>— Ну, да — это среднее между «о» и «у». Однако не&#160;будем отвлекаться. Для&#160;первого раза запишите и&#160;выучите самые распространенные фразы: «Здравствуйте — авала-киташвара», «как&#160;поживаете? — газогенератор», «до&#160;свиданья — дизель-мотор».
+</p><p>Я&#160;аккуратно записал эти слова в&#160;тетрадку. Так как&#160;венгерские женщины мне давно нравились, то&#160;во мне вдруг властно заговорил мужчина:
+</p><p>— Скажите, а&#160;как по-венгерски сказать женщине: «Я&#160;вас люблю».
+</p><p>Он&#160;застенчиво усмехнулся и&#160;после некоторого колебания ответил:
+</p><p>— Ду бист эйзель!
+</p><p>— Благодарю вас. Запишем.
+</p><p>Работа у&#160;нас кипела вовсю. Я&#160;с&#160;каждым днем расширял свои познания в&#160;венгерском языке, хотя меня огорчало то, что&#160;мой преподаватель строго-настрого запретил мне разговаривать с&#160;посторонними по-венгерски:
+</p><p>— Вы этим только испортите произношение.
+</p><p>А&#160;произношение у&#160;меня было действительно неплохое! Каждое утро, после пробуждения, мы&#160;обменивались несколькими фразами по-венгерски, и&#160;я подавал реплики самым шикарным образом.
+</p><p>— Авалокиташвара, — приветствовал меня учитель.
+</p><p>— Ишиас, — отвечал я. (Учитель утверждал, что «ишиас», это — «Мое почтение».)
+</p><p>— Флегмона печени? — спрашивал он. (Как&#160;спали?)
+</p><p>— Хирагра! (прекрасно!) — быстро отвечал я.
+</p><p>— Фистула фурункул? — осведомлялся учитель. (Будем пить чай или&#160;кофе?)
+</p><p>— Диабет! (коньяк) — радостно кричал я.
+</p><p>Вообще венгерский язык очень забавлял меня. Например, однажды я&#160;спросил преподавателя:
+</p><p>— Как&#160;по-венгерски «дерево»?
+</p><p>— Там, — сказал он, не&#160;задумываясь.
+</p><p>— А&#160;два дерева?
+</p><p>— Там-там.
+</p><p>— А&#160;три?
+</p><p>— Там-там-там.
+</p><p>— Удивительный язык! А&#160;если целый лес?
+</p><p>— Это уже поется на&#160;мотив марша: «Трам-да-там-там, тра-там-там»…
+</p><p>— Замечательно! Вот уж этого я&#160;никогда не&#160;забуду.
+</p><p>— О, конечно. Всю жизнь будете помнить.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>И&#160;вот в&#160;один прекрасный день преподавание было закончено… Учитель мой уложил чемоданчик, пожал мне руку и&#160;сказал:
+</p><p>— Ду бист гроссе эйзель! (я&#160;вас очень полюбил).
+</p><p>— Пинакотека! — с&#160;чувством признался я (и&#160;вы мне очень симпатичны).
+</p><p>— Дизель-мотор симменс-шукерта! (будьте счастливы!)
+</p><p>— Куссенем.
+</p><p>И&#160;он&#160;ушел, получив свои две тысячи прекрасных чешских крон. Навсегда ушел!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Окончив свой рассказ, Сукачев печально повесил голову и&#160;смолк.
+</p><p>— Чем&#160;же дело кончилось? — спросил я. Он&#160;дико завопил:
+</p><p>— Чем?! Я&#160;осел! Поехал я&#160;в Будапешт, переехал границу — вот, думаю, где наговорюсь на&#160;своем новеньком, только что&#160;отлакированном языке, выглянул в&#160;окно — вдали виднеется лес. Я&#160;и&#160;обратился к&#160;соседу по&#160;купе на&#160;певучем венгерском наречии:
+</p><p>— Хороший лес! (Бум, трам-та-та-там!) Он&#160;дико глянул на&#160;меня и&#160;отодвинулся.
+</p><p>— Газогенератор? — спросил я.
+</p><p>Он&#160;взял свой чемоданчик и, молча, перешел в&#160;другое купе.
+</p><p>Язык мой все-таки чесался: я&#160;вышел в&#160;коридор, подошел к&#160;одиноко глядевшей в&#160;окно барышне и&#160;осведомился: скоро&#160;ли&#160;ближайшая станция… Она подняла крик, и&#160;кто-то&#160;с перепугу остановил тормозом поезд. Привезли меня… Сняли… повезли куда-то…
+</p><p>Как&#160;я&#160;им ни&#160;объяснял на&#160;своем венгерском языке происшедшее — продержали меня полтора месяца в&#160;каком-то&#160;огромном очень неуютном помещении, где весь персонал был в&#160;белых халатах. И&#160;я&#160;был в&#160;халате. В&#160;сером. Не мерзавец&#160;ли&#160;мой венгерский преподаватель, а?
+</p><p>Я&#160;засмеялся:
+</p><p>— Ну, мне пора домой. Вперед будете умнее. Дизель-мотор!
+</p><p>— Что-о!
+</p><p>— Вы&#160;же сами говорите, что&#160;по-венгерски это — до&#160;свиданья.
+</p><p>— Пойдите к&#160;черту.
+</p><p>И&#160;побрел по&#160;улице одиноко этот удивительный человек, знавший по-венгерски только одно слово «киссенем», да&#160;и это слово испортивший за&#160;две тысячи чешских крон.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ЖЕНЩИНА_И_НЕГР"><span id=".D0.96.D0.95.D0.9D.D0.A9.D0.98.D0.9D.D0.90_.D0.98_.D0.9D.D0.95.D0.93.D0.A0"></span>ЖЕНЩИНА И&#160;НЕГР</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=4" title="Редактировать раздел «ЖЕНЩИНА И НЕГР»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Мне рассказывали историю об&#160;одном африканском дикаре, попавшем раз в&#160;жизни в&#160;игорный дом.
+</p><p>Этот негр был — прекрасное чернокожее дитя природы, без&#160;всякого налета культуры и&#160;цивилизации — совершенно голый морально, как&#160;он был гол физически у&#160;себя на&#160;плоском побережье Бенгуалы, залитом лучами раскаленного солнца, под&#160;корявыми лапистыми пальмами, среди доверчивых добрых обезьян.
+</p><p>Попав в&#160;игорный дом, этот простодушный чернокожий впервые увидел карточную игру.
+</p><p>— Что&#160;это они&#160;делают? — спросил он&#160;своего спутника.
+</p><p>— Играют в&#160;карты.
+</p><p>— Для&#160;чего?
+</p><p>— Чтобы выиграть.
+</p><p>— Все выигрывают?
+</p><p>— Некоторые. А&#160;некоторые проигрывают.
+</p><p>— А&#160;что&#160;же они&#160;выигрывают?
+</p><p>— А&#160;вон, видишь, эти бумажки, что&#160;лежат около некоторых.
+</p><p>— Странно, — задумчиво заметил негр. — Они&#160;так волнуются, будто эти бумажки можно есть, и&#160;они вкусные.
+</p><p>— Их не&#160;едят, но&#160;на них можно купить и&#160;еды, и&#160;кумача, и&#160;бус, и&#160;целый ящик рому!
+</p><p>Спутник негра, насколько мог, вдолбил в&#160;курчавую голову собеседника принцип монетного обращения. Чернокожий чрезвычайно заинтересовался.
+</p><p>— Значит, если вот этот красный человек выдернет из&#160;пачки один раскрашенный квадратик, — он&#160;получает кучу этих бумажек, на&#160;которые можно купить рому?!
+</p><p>— Гм… Да! Приблизительно.
+</p><p>— А&#160;тот, худой, должен отдать ему ни&#160;за что&#160;ни про&#160;что пачку денег, на&#160;которые можно купить рому?
+</p><p>— Ну, конечно.
+</p><p>— Да&#160;ведь жалко. Я&#160;бы&#160;на месте худого не&#160;отдал.
+</p><p>— Нельзя. Так надо.
+</p><p>— Почему? — завопил негр. — Я&#160;еще понимаю, если&#160;бы&#160;красный угрожал худому ножом или&#160;повалил&#160;бы&#160;на землю и&#160;отнял деньги, а&#160;то что&#160;же выходит?.. За&#160;один вынутый квадратик отдавай добровольно и&#160;ром, и&#160;еду, и&#160;кумач!
+</p><p>— Это игра! Пойми ты это.
+</p><p>— А&#160;я&#160;бы не&#160;отдал. Гм! За&#160;какой-то&#160;квадратик. Я&#160;бы&#160;лучше сам вцепился красному в&#160;воротник и&#160;отнял деньги.
+</p><p>— А&#160;если&#160;бы&#160;он оказался сильнее?
+</p><p>— Ну, он&#160;бы у&#160;меня отнял. Ничего не&#160;поделаешь. Так и&#160;не удалось втолковать негру принципов благородной карточной игры.
+</p><p>Из-за&#160;того, что&#160;ты выдернул не&#160;тот кусочек раскрашенного картона, а&#160;другой, — ты должен без&#160;боя отдать ром, бусы и&#160;красное одеяло?! Вот дураки-то! По-моему, проще отнять без&#160;этих кусочков картона!
+</p><p>Я&#160;теперь все время думаю об&#160;этом негре и&#160;отчасти восхищаюсь им.
+</p><p>Игроки меня не&#160;поймут, а&#160;умные люди, может быть, поймут.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Сегодня я&#160;только что&#160;засел за&#160;работу, как&#160;ко мне пришел один из&#160;моих приятелей.
+</p><p>Я&#160;сразу увидел, что&#160;он хочет попросить у&#160;меня денег взаймы, и&#160;даже отчасти обрадовался этому: возьмет деньги и&#160;уйдет, не&#160;мешая моей работе.
+</p><p>Но&#160;это оказался светский воспитанный человек — не&#160;какой-нибудь хам, не&#160;понимающий приличий.
+</p><p>Он&#160;опустился в&#160;кресло, отер пот с&#160;лица и&#160;сказал:
+</p><p>— Ну, что&#160;у вас новенького?
+</p><p>— Ничего, — торопливо ответил я.
+</p><p>— Пяткина давно видели?
+</p><p>— Не видел Пяткина.
+</p><p>— А-а. А&#160;Семен Николаич к&#160;вам захаживает?
+</p><p>— Нет!
+</p><p>— Так, так. Тру-ру-ру-ру… Солнце жарит, как&#160;безумное, а&#160;все-таки знаю: будет дождь. Вы как&#160;думаете?
+</p><p>— Что?
+</p><p>— Будет дождь?
+</p><p>— А&#160;черт его знает.
+</p><p>В&#160;голове&#160;же у&#160;меня все время долбил клювом какой-то&#160;внутренний дятел: «Да&#160;проси&#160;же скорее денег, каналья, проси! Проси! Что&#160;тянешь? Возьми и&#160;уходи. Все равно ведь дам, и&#160;ты сам знаешь, что&#160;дам!»
+</p><p>— Что&#160;это с&#160;Лазуткиным делается?
+</p><p>— С&#160;ке-ем?
+</p><p>— С&#160;нашим знакомым Лазуткиным?
+</p><p>— А&#160;что?
+</p><p>— Да&#160;совсем закружил Лазуткин. Сегодня его с&#160;одной дамой видишь, завтра с&#160;другой.
+</p><p>— К&#160;черту Лазуткина, — сухо промолвил я. («Да&#160;проси&#160;же, анафемский палач, проси скорее!»)
+</p><p>— Почему к «черту»?
+</p><p>— Не интересуюсь Лазуткиным.
+</p><p>— Вы сегодня какой-то&#160;странный, — обиделся он.
+</p><p>— Были на&#160;премьере «Колесо жизни»?
+</p><p>Я&#160;вскочил с&#160;места.
+</p><p>— Сколько?
+</p><p>— Что «сколько»? — вспыхнул он.
+</p><p>— Сколько вам надо?
+</p><p>— Чего?
+</p><p>— Денег, за&#160;которыми вы пришли.
+</p><p>Он&#160;встал с&#160;кресла, красный, негодующий.
+</p><p>— Кто вам дал право так со мной разговаривать?!..
+</p><p>— Значит, вы не&#160;за деньгами пришли?
+</p><p>— Положим, я&#160;действительно пришел просить ссудить меня некоторой суммой, но&#160;после такого обращения…
+</p><p>— Голубчик, не&#160;сердитесь. Но&#160;зачем мне все эти Лазуткины, Семены Николаичи, «Колеса жизни»? Скажем, пришли вы: «Здравствуйте». — «Здравствуйте». — «Дайте денег». — «Нате». — «До&#160;свиданья». И&#160;больше ничего! Ведь я&#160;же видел, что&#160;и Лазуткин, и «Колесо жизни» вам, как&#160;и мне, совершенно неинтересны! К&#160;чему это?
+</p><p>— Простите, но&#160;я прекрасно понимаю, что&#160;такое долг вежливости и&#160;приличия, — угрюмо пробормотал он. — И&#160;по&#160;вашему способу денег никогда не&#160;попрошу! Я&#160;никогда не&#160;был хамом. И&#160;вообще после всего этого нам говорить не&#160;о чем! Прощайте. Навсегда.
+</p><p>Вот таким-то&#160;образом между тремя и&#160;половиной четвертого пополудни я&#160;потерял приятеля.
+</p><p>Вечером пошел к&#160;женщине, которая мне очень нравилась и&#160;которой, вероятно, я&#160;нравился. («Приходите почаще. С&#160;вами так хорошо».)
+</p><p>Мы&#160;сидели с&#160;ней на&#160;диване друг около друга.
+</p><p>Я, не&#160;отрываясь, глядел на&#160;ее белую шею, упругие плечи, на&#160;красные, как&#160;вишни, губы, и&#160;она тоже глядела на&#160;мои широкие плечи и&#160;на мои губы, и&#160;мне страх как&#160;хотелось поцеловать ее, а&#160;она (я&#160;уверен) тоже стремилась спрятать свою голову на&#160;моей груди и&#160;прижаться губами к&#160;моему лицу.
+</p><p>В&#160;это&#160;же время она говорила:
+</p><p>— Собиралась я&#160;на «Колесо жизни», да&#160;не попала. Хорошая пьеса?
+</p><p>— Хорошая, — со вздохом отвечал я. — А&#160;я&#160;не видел. Лазуткин видел. Кстати, вы знаете, Лазуткин совсем закрутился.
+</p><p>Она с&#160;трудом отвела глаза от&#160;моего лица и, проведя по&#160;лбу рукой, сказала:
+</p><p>— Да… Лазуткин… «Колесо жизни»… а&#160;этого… Пяткина встречаете?
+</p><p>— Три раза и&#160;еще два. А&#160;Лазуткин все с&#160;дамами. Хочу вас поцеловать в&#160;губы.
+</p><p>— Что-о?
+</p><p>— Это Лазуткин своим дамам так говорит…
+</p><p>— А-а…
+</p><p>Она промолчала, но, мне кажется, я&#160;угадал ее мысль: «Что&#160;мне Лазуткин с&#160;его дамами. Лучше&#160;бы&#160;ты поцеловал, сокровище мое!»
+</p><p>— Хорошо, — согласился я.
+</p><p>— Что&#160;хорошо?
+</p><p>— Поцелую вас.
+</p><p>Я&#160;схватил ее и&#160;сжал в&#160;крепких и&#160;теплых объятиях.
+</p><p>Она забилась, как&#160;воробей в&#160;кулаке, вырвалась и, красная, со сверкающими, точно алмазы, глазами, сказала прерывающимся от&#160;негодования голосом:
+</p><p>— Этакая пошлость! Вы забылись. Подите вон.
+</p><p>— Господи! — растерялся я. — Да&#160;ведь весь мир целуется друг с&#160;другом. Почему&#160;бы&#160;и нам не&#160;поцеловаться? Ведь мы&#160;же нравимся друг другу.
+</p><p>— На&#160;все должен быть переход и&#160;должно быть место. И&#160;вообще, мы&#160;знакомы с&#160;вами только полтора месяца! Я&#160;не&#160;привыкла, чтобы ко&#160;мне вдруг, ни&#160;с того ни&#160;с чего, лезли с&#160;объятиями. Уходите!
+</p><p>Вот таким-то&#160;образом между девятью и&#160;половиной десятого вечера я&#160;потерял любимую женщину.
+</p><p>С&#160;горя пошел в&#160;какое-то&#160;варьете с&#160;десятком кафешантанных номеров.
+</p><p>Все было уныло, глупо и&#160;безграмотно; визгливо пели, разухабисто танцевали, вскидывая ноги до&#160;самого носа.
+</p><p>Но&#160;вот — восьмым номером — вышла красивая полногрудая женщина с&#160;белыми гибкими обнаженными руками и&#160;большим декольте. Что-то&#160;в ее веселом лице и&#160;смеющихся глазах было такое, что&#160;я пригляделся к&#160;ней пристальнее.
+</p><p>Аборигены бешено зааплодировали: видно, это была местная любимица.
+</p><p>Оркестр заиграл ритурнель какой-то&#160;шансонетки; певица открыла рот и&#160;издала десяток невероятно фальшивых звуков:
+</p><p>— Мне мама скрипку подарила… И&#160;умолкла.
+</p><p>Улыбнулась и&#160;попросила:
+</p><p>— Дайте еще ритурнель. Оркестр «дал».
+</p><p>Она замолкла, чарующе улыбнулась и, махнув беззаботно рукой, приблизилась к&#160;самой рампе.
+</p><p>Подмигнула публике и&#160;начала с&#160;самым беззаботным видом:
+</p><p>— Позвольте мне, господа, быть с&#160;вами совершенно откровенной, хотя в&#160;шантане это и&#160;не принято… Ну, какая я&#160;певица? Голос, как&#160;у драной кошки. И&#160;никакую мне мама скрипку не&#160;дарила, да&#160;тут и&#160;не скрипка подразумевается, а&#160;просто пошлость. Неужели вы думаете, я&#160;поверю, что&#160;вам нужно мое пение, и&#160;слова этой песенки хоть на&#160;минуту заинтересуют вас. Неужели вы из-за&#160;этого пришли? Конечно, не&#160;из-за&#160;этого! Зачем&#160;же я&#160;буду вас мучить: голос фальшивый, мотив жалкий, примитивный, вроде «Чижика», а&#160;слова глупые. Почему&#160;же мы, все шансонетные певицы, это делаем? Зачем фальшиво поем и&#160;неуклюже танцуем? Да&#160;просто это предлог, чтобы показаться вам, чтобы вы могли рассмотреть — какое у&#160;нас лицо, тело, как&#160;мы сложены Так вот, и&#160;нечего мне с&#160;вами притворяться. Ни «альбома», ни «скрипки» мама мне не&#160;дарила, — слышите вы? Просто я&#160;хорошенькая женщина, ничего не&#160;умеющая делать, бездарная-пребез-дарная!.. Зачем&#160;же я&#160;здесь стою на&#160;сцене перед&#160;вами? Очень просто: вот мои руки — смотрите на&#160;них без&#160;мамы и&#160;без скрипки. Правда, красивые? Ничего себе, а? И&#160;ямочки на&#160;локте есть. А&#160;грудь? Хорошая грудь, нечего греха таить. Танцевать я&#160;тоже не&#160;умею, поэтому покажу вам ногу так, без&#160;танцев. Вот. Красивые ножки; высокий подъем; ажурный чулок довольно мило их обтягивает. Вот это левая, это правая — не&#160;сбейтесь. Ну, довольны? Вот затылок и&#160;спина. Я&#160;ее немножко больше декольтировала, чтобы возместить то, что&#160;я не&#160;пою о&#160;маминой скрипке. Ну, нагляделись? Простая и&#160;обыкновенная женщина без&#160;голоса, таланта, но&#160;и без&#160;предрассудков. Видите, как&#160;со мной легко? И&#160;я&#160;с вами поговорила по&#160;душам, родненькие мои, да&#160;и оркестр отдохнул. А&#160;теперь пойду переодеваться: наверное, кто-нибудь меня сейчас ужинать пригласит!
+</p><p>Я&#160;вскочил с&#160;места и&#160;вне себя от&#160;восторга закричал:
+</p><p>— Я&#160;приглашу!
+</p><p>Она добродушно засмеялась.
+</p><p>— Ну, вот видите. Какой шумный успех! Сейчас приду. И&#160;то&#160;уж, заболталась я&#160;тут с&#160;вами. До&#160;свиданья, родненькие, до&#160;завтра!
+</p><p>Этой ночью я&#160;нашел то, что&#160;растерял днем и&#160;вечером: женщину и&#160;друга…
+</p><p>И&#160;когда мы&#160;весело ужинали вдвоем, запивая котлеты бокалами холодного вина и&#160;объясняясь друг другу во&#160;взаимной симпатии, мне почудилось, что&#160;с нами сидел третий. Он&#160;был такой&#160;же веселый, как&#160;и мы, белые зубы его радостно сверкали на&#160;черном лице, серые ладони рук одобрительно аплодировали нам, а&#160;из толстых красных губ вылетали добродушные слова:
+</p><p>— Халло! Вот это по-настоящему! А&#160;то — вытянет из&#160;пачки кусочек раскрашенного картона — давай ему и&#160;ром, и&#160;бусы, и&#160;одеяло. Зачем так запутано? Раз что&#160;нравится и&#160;можешь взять — бери так! Не можешь — уйди сразу! А&#160;то&#160;играет другой человек целый год, играет — и&#160;на бутылку рома не&#160;выиграет!
+</p><p>— Верно! — посмеивался я. — К&#160;черту Лазуткина!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="МОЙ_ДЯДЯ"><span id=".D0.9C.D0.9E.D0.99_.D0.94.D0.AF.D0.94.D0.AF"></span>МОЙ ДЯДЯ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=5" title="Редактировать раздел «МОЙ ДЯДЯ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Сегодня годовщина смерти моего дяди…
+</p><p>Надеюсь, читатели так хорошо относятся ко&#160;мне, что&#160;вместе со мной разделят скорбь по&#160;этой безвременной утрате, тем более что&#160;дядя мой был замечательный человек: жил он&#160;хорошо, и&#160;кончина его была не&#160;менее блестящая…
+</p><p>Как&#160;говорится в&#160;Евангелии, «смерть его была мирная, безболезненная и&#160;непостыдная» (батька Махно осенью прошлого года повесил его на&#160;железнодорожной водокачке за&#160;то, что&#160;у дяди были золотые очки и&#160;крахмальный воротничок…).
+</p><p>Склонив благоговейно голову, хочу вспомнить хоть что-нибудь из&#160;жизни этого замечательного человека, начавшего карьеру за&#160;кассовым окошечком в&#160;казначействе и&#160;окончившего ее железным крюком на&#160;водокачке.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Будучи пылким юношей, пришел я&#160;однажды к&#160;дяде и&#160;говорю ему:
+</p><p>— Дядя, вы мошенник!
+</p><p>Он&#160;вскинул очки на&#160;лоб и&#160;рассудительно возразил:
+</p><p>— Я&#160;бы&#160;мог сейчас отдубасить тебя казначейской книгой «ресконтро». Но&#160;лучше я&#160;выслушаю целиком твои обвинения, а&#160;потом уже начну колотить. Может быть, тогда я&#160;буду трудолюбивее.
+</p><p>— Дядя! Вчера вы купили дом за 25 тысяч!!
+</p><p>— Купил. Может быть, я&#160;раньше должен был получить твою санкцию на&#160;это?..
+</p><p>— Дело не&#160;в санкции. Вы сами рассказывали мне, что&#160;десять лет тому назад, когда вы поступили на&#160;кассирскую службу, у&#160;вас не&#160;было ни&#160;гроша в&#160;кармане…
+</p><p>— Что&#160;же из&#160;этого?
+</p><p>— Получаете вы в&#160;год 1500&#160;рублей… За&#160;десять лет это составит пятнадцать тысяч. Прожили вы за&#160;эти десять лет тысяч восемь. Остается семь тысяч. Откуда&#160;же еще 18 тысяч для&#160;нового домика?!
+</p><p>В&#160;глазах дяди забегали веселые искорки. Он&#160;хлопнул меня поощрительно конторскими счетами по&#160;спине так, что&#160;костяшки щелкнули, и&#160;сказал:
+</p><p>— Щенок! Твоя математика — дура. Вот тебе пример: возьми или&#160;укради на&#160;базаре фунт свиного сала…
+</p><p>— Я&#160;лучше куплю.
+</p><p>— Покупай. Ты всегда был расточительным юношей. Возьми предположительно сто человек и&#160;поставь их шеренгой…
+</p><p>— Поставил.
+</p><p>— Дай первому подержать в&#160;руках этот фунт сала, чтобы он&#160;потом передал его второму, тот, подержав, — третьему, и&#160;так далее — до&#160;последнего…
+</p><p>— Ну-с?
+</p><p>— Что&#160;у&#160;последнего будет в&#160;руках?!
+</p><p>— Конечно, фунт сала. Вскочил дядя и&#160;заревел, как&#160;тигр:
+</p><p>— Болван! «Конечно, фунт сала»!! А&#160;в&#160;чем будут вымазаны руки у&#160;предыдущих, которые держали сало в&#160;руках?
+</p><p>— В… сале.
+</p><p>— Так вот тебе, откуда у&#160;меня домик!! Я&#160;человек честный, но&#160;деньги — то&#160;же сало…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Ну, разве не&#160;умный мой дядя?.. Еще до «теории Эйнштейна» он&#160;опрокинул всю математику вверх ногами.
+</p><p>Мир праху его на&#160;железном крючке…
+</p>
+<div class="mw-heading mw-heading3"><h3 id="РАССКАЗЧИКИ"><span id=".D0.A0.D0.90.D0.A1.D0.A1.D0.9A.D0.90.D0.97.D0.A7.D0.98.D0.9A.D0.98"></span>РАССКАЗЧИКИ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=6" title="Редактировать раздел «РАССКАЗЧИКИ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В&#160;купе вагона народу набилось очень много. Было это купе на&#160;четыре человека, а&#160;втиснулось в&#160;него одиннадцать.
+</p><p>Большая часть пассажиров разговаривала, но&#160;все о&#160;скучном: о&#160;каком-то&#160;ужиленном у&#160;кого-то&#160;подряде, о&#160;дороговизне дров, о&#160;помещике Иване Никанорыче, об&#160;огурцах.
+</p><p>Толстый рыжий господин с&#160;багровым лицом и&#160;выпученными глазами, попав в&#160;одну из&#160;пауз, шумно с&#160;хрипом вздохнул и&#160;предложил неожиданно:
+</p><p>— Ехать нам еще долго, а&#160;спать все равно неудобно… Давайте рассказывать какие-нибудь удивительные случаи, которые произошли с&#160;каждым. Это бывает интересно.
+</p><p>Все покосились на&#160;него пугливо и&#160;недоверчиво.
+</p><p>— Какие там еще истории, — скептически сказал отец дьякон, занявший лучшее место — у&#160;окна.
+</p><p>Поразил всех мужичонка, стоявший с&#160;узелком у&#160;притолоки и&#160;досель одинаково жарко и&#160;сочувственно принимавший все разговоры: и&#160;об огурцах, и&#160;об Иване Никанорыче, и&#160;о дровах…
+</p><p>— Ах, да&#160;и истории&#160;же бывают, братцы, — вдруг оживился он. — То&#160;есть такие, такие, что&#160;ну-ну… На&#160;ночь оно глядя и&#160;рассказывать будто страшно. Все бывает; но&#160;знаете, что&#160;произошло с&#160;кузнецом нашим Колесниченко? Кузнец он&#160;был, и&#160;такой хороший кузнец, что&#160;прямо и&#160;непонятно, — чего это он&#160;так?
+</p><p>— А&#160;что? — благожелательно спросил господин с&#160;рачьими глазами.
+</p><p>— Нечистое дело вышло, от&#160;черного. Постукивал себе он, постукивал в&#160;своей кузнице, и&#160;подковывал, и&#160;сверливал, и&#160;шипу тебе, и&#160;то и&#160;се, не&#160;без того, что&#160;по праздникам выпивал, — да&#160;вдруг с&#160;такой спокойной благородной жизни — пришел в&#160;избу — вдов он&#160;был — пришел, любезные вы мои, взял да&#160;и повесился. И&#160;гвоздь-то&#160;был евонной работы — вот оно какие дела!
+</p><p>— Ну чего уж тут такого, — покривился скептически дьякон. — Мало&#160;ли&#160;какого народу вешается — всего не&#160;перескажешь.
+</p><p>— Нешто я&#160;об этом! — всплеснул руками мужичонка и&#160;провел ладонью по&#160;бороде и&#160;усам.
+</p><p>Рыжеватые, выцветшие — они, от&#160;частого проведения ладонью слева направо, повинуясь мановению руки хозяина, — тоже раз навсегда приняли направление слева направо, так что&#160;получилась полная асимметрия растительности. — Рази я&#160;об этом? — повторил асимметричный мужичонка. — Действительно, мало&#160;ли&#160;нашего брата в&#160;петлю лезет? Виси себе на&#160;здоровье, коли так надо. Ему с&#160;горы видней. А&#160;только вышло с&#160;кузнецом в&#160;ту&#160;же ночь дело темное, нехорошее дело. Как, значит, он&#160;повесился днем, а&#160;мне в&#160;сумерки поехать занадобилось в&#160;Кузмичево, — в&#160;двух верстах от&#160;нас. За&#160;дугой к&#160;куму. Кум у&#160;меня там. Григорьем их звать. Ей-Бо-право! Поехал я&#160;себе и&#160;поехал. Только вертаюсь, а&#160;как кузнец на&#160;краю села, то&#160;глядь, а&#160;в евонной избе огонек мигает. Так сердце у&#160;меня и&#160;закатилось: надысь сам его с&#160;десятскими в&#160;волостную избу оттартал, а&#160;тут огонек, гляди-кось, мигает.
+</p><p>— Мигает? — переспросил рачий господин.
+</p><p>— Мигает! Кабы он&#160;еще там, в&#160;избе-то&#160;лежал, ну иное дело: а&#160;может, дьячок по&#160;нем читает — почем я&#160;знаю? Но&#160;раз его в&#160;волостное препроводили…
+</p><p>— Мигает? — качнул сочувственно головой рачий господин.
+</p><p>— Мигает. Так вот тебе как&#160;есть мигает. Я&#160;еду на&#160;чалой, а&#160;оно из&#160;окошечка тово…
+</p><p>— Мигает?
+</p><p>— Во-во. Прямо видно все совершенно беспрекословно.
+</p><p>— Мигает?
+</p><p>— Ай, и&#160;мигает&#160;же, — до&#160;чего мигает — прямо уму непостижимо, — воодушевился мужичонка чрезвычайно.
+</p><p>— Ведь это како дело, а? Мигает.
+</p><p>— Да&#160;может, то&#160;какой-нибудь знакомый его зашел за&#160;делом и&#160;огонек зажег? Аль бо вор?
+</p><p>— Может — и&#160;так, — вяло согласился вдруг погасший мужичонка.
+</p><p>Все неловко помолчали.
+</p><p>— Так мигает? — спросил снова добрый рачий господин — больше для&#160;мужичонкова одобрения.
+</p><p>— Мигает, — бестемпераментно пробормотал мужичонка, свеся голову.
+</p><p>Против дьякона сидела полная недурная собой дама с&#160;растрепанными белокурыми волосами, выбивавшимися из-под&#160;красной повязки, — какие любят себе делать во&#160;время путешествий все кокетливые дамы.
+</p><p>— Ну знаете, уважаемый крестьянин, — сказала она.
+</p><p>— Ваш рассказ оказался не&#160;на высоте. Ну что&#160;это: какие-то&#160;кузнецы, мигает.
+</p><p>— Мигает, — как&#160;эхо прошелестел «уважаемый крестьянин».
+</p><p>— Я&#160;не&#160;в восторге, — критически отметила дама.
+</p><p>— Из&#160;такого рассказа даже мой муж рассказа не&#160;сделает.
+</p><p>— А&#160;кто ваш муж? — спросил рачий господин, очевидно прочно принявший на&#160;себя обязанности добровольного конферансье.
+</p><p>— Мой муж? — Аркадий Аверченко.
+</p><p>Это было так неожиданно, что&#160;я только качнулся, будто меня сзади толкнули коленкой, но&#160;не нашелся что&#160;сказать.
+</p><p>— Неужели ваш муж — Аркадий Аверченко? — спросил оживившийся дьякон. — Ну как&#160;он, вообще?
+</p><p>— Ничего, спасибо.
+</p><p>— Все пишет?
+</p><p>— Пишет.
+</p><p>— Так-таки все пишет и&#160;пишет?
+</p><p>— Пишет.
+</p><p>— Мигает, — сказал задремавший было мужичонка.
+</p><p>— А&#160;какой он&#160;собой, этот Аверченко? — спросил я.
+</p><p>— Да&#160;такой, знаете… Среднего роста. И&#160;бородка Луи-Филипп.
+</p><p>— А&#160;как&#160;же я&#160;видел его фотографию без&#160;бороды, — удивился рачий конферансье.
+</p><p>— Да&#160;это у&#160;него бывает. Иногда сбреет, иногда отпустит. Вообще, со странностями.
+</p><p>— И&#160;пишет, говорите?
+</p><p>— То&#160;есть, знаете, сладу с&#160;ним нет. Как&#160;письменный стол увидит — затрясется весь… Он, впрочем, больше по&#160;ночам. Гора бумаги перед&#160;ним, слева бутылка коньяку, справа — рому. И&#160;как&#160;начнет писать — только держись. Слуги кругом мечутся, а&#160;он знай покрикивает:
+</p><p>«Перо свежее. Рому подлей. Чернил подлей». Верите&#160;ли, иногда в&#160;ночь до&#160;пяти раз доливали.
+</p><p>— Рому?
+</p><p>— Какое рому, — чернил. А&#160;допишет — сейчас&#160;же ко&#160;мне в&#160;спальню с&#160;пером в&#160;руке бежит: «Нинка, — кричит, — давай новую тему. Эту уже написал».
+</p><p>— Разве вы ему темы даете?
+</p><p>— Конечно, я. А&#160;кто ж?
+</p><p>— Однако приятно быть женой такого человека? — еще больше выпучив глаза, спросил конферансье.
+</p><p>— Ну знаете, не&#160;особенно. Врагу не&#160;пожелаю. В&#160;глубине души я&#160;обиделся, но&#160;промолчал. Господин с&#160;рачьими глазами давно уже чувствовал ревность к&#160;успеху, который имела «жена Аверченко». По&#160;его лицу было видно, что&#160;и он&#160;не прочь рассказать что-либо не&#160;менее удивительное. Для&#160;разгона еще раз спросил кроткого мужичка:
+</p><p>— Так мигает, говоришь?
+</p><p>— Ай, и&#160;мигает&#160;же…
+</p><p>— Глупости все это. Вот Париж такой город, что&#160;там не&#160;замигает. Да… Был со мной в&#160;Париже случай, что&#160;и до&#160;сих пор не&#160;могу опомниться. То&#160;есть свидетелем я&#160;был. Эйфелеву башню знаете?
+</p><p>Оказалось, знают все. Даже мужичонка видел на&#160;картине у&#160;сельского лавочника.
+</p><p>— Должно, высоченная гадина!
+</p><p>— Еще&#160;бы. По&#160;последним исследованиям до&#160;шестисот метров насчитывается. Иду это я&#160;однжды по&#160;уличке, вот как&#160;раз сбоку Эйфелевой башни. Вдруг гляжу — на&#160;третьем пролете человек стоит… а&#160;это саженей семь — десять. Посмотрел вниз, перекрестился — да&#160;как сиганет вниз.
+</p><p>Дьякон уже схватился за&#160;голову и&#160;застонал, раскачиваясь.
+</p><p>— В&#160;лепешку?
+</p><p>— Вот тут-то&#160;и самое главное, — восторженно вскричал пучеглазый господин. — Не в&#160;лепешку, о. дьякон. Отнюдь не&#160;в лепешку. А&#160;летит это он, достигает благополучно земли, становится на&#160;ноги, отряхается и&#160;идет как&#160;ни в&#160;чем не&#160;бывало.
+</p><p>— Мигает, — захохотал мужичонка.
+</p><p>— Одначе… Одначе… — растерялся дьякон. — Эт-то&#160;что ж такое? Как&#160;же это можно? С&#160;этакой высоты? Да&#160;это невозможно.
+</p><p>— Говорю ж вам, сам видел, — с&#160;достоинством сказал пучеглазый.
+</p><p>Наступила минута неловкого молчания.
+</p><p>Сухой господин с&#160;желтым монгольским лицом и&#160;редкими волосиками на&#160;усах, не&#160;произнесший доселе ни&#160;слова и&#160;стоявший около мужичка (только им обоим и&#160;не было места), — вдруг шагнул к&#160;пучеглазому, протянул ему руку и&#160;пожал, крепко, благодарно потрясая ее…
+</p><p>— В&#160;чем дело? — растерялся пучеглазый.
+</p><p>— За&#160;что&#160;это вы?
+</p><p>— Ах, я&#160;вам так благодарен, — серьезно заговорил желтый господин. — Видите&#160;ли, дело в&#160;том, что&#160;я и&#160;есть тот самый господин, который спрыгнул тогда с&#160;Эйфелевой башни. Но&#160;только мне никто никогда не&#160;верил, что&#160;было так удачно: «врете», говорят. Вы первый человек, который подтвердили.
+</p><p>Все застыли, ошеломленные; но&#160;я не&#160;такой человек, чтобы остаться в&#160;тени в&#160;то время, когда мой ближний так удачно выдвинулся.
+</p><p>Я&#160;встал, нагнулся к&#160;белокурой даме в&#160;красной повязке, схватил и&#160;даму, и&#160;повязку в&#160;объятья и&#160;стал осыпать поцелуями, приговаривая:
+</p><p>— Родная моя! Голубушка! Какая приятная встреча!.. Если&#160;бы&#160;десять человек спрыгнули с&#160;десяти Эйфелевых башен, это не&#160;вызвало&#160;бы&#160;такого шума и&#160;скандала, как&#160;то, что&#160;я сделал…
+</p><p>Дама вырывалась из&#160;моих цепких объятий, крича о&#160;защите, о. дьякон и&#160;рачий господин схватили меня за&#160;руки — превеселая была суматоха.
+</p><p>— Он&#160;сумасшедший, — кричал дьякон. — Это вы его Эйфелем своим с&#160;ума свели.
+</p><p>— Как&#160;он&#160;осмелился? Как? — визжала дама.
+</p><p>Я&#160;выпустил ее из&#160;объятий и&#160;сложил руки на&#160;груди, приняв осанку, полную спокойного достоинства:
+</p><p>— Скажите, господа, — спросил я. — Имеет право муж целовать свою жену?
+</p><p>— Оно-то&#160;имеет, конечно, — сердито сказал о. дьякон.
+</p><p>— Так то&#160;ж муж, а&#160;вы так, пришей кобыле хвост…
+</p><p>— Нет-с, не&#160;хвост. При&#160;вас ведь эта дама говорила, что&#160;она жена писателя Аркадия Аверченко?
+</p><p>— При&#160;нас! Слышали-с.
+</p><p>— Ну, а&#160;я и&#160;есть писатель Аркадий Аверченко. Так и&#160;в паспорте написано. Полюбуйтесь.
+</p><p>Никто ничего не&#160;понял, кроме человека, спрыгнувшего с&#160;Эйфелевой башни.
+</p><p>Тот пожал мне руку и&#160;шепнул одобрительно:
+</p><p>— Я&#160;высоко прыгнул, а&#160;вы еще выше. Ей-Богу, тут весело.
+</p><p>Дама, все еще дрожа от&#160;испуга и&#160;чего-то&#160;другого, что&#160;мелькало в&#160;ее растерянном взгляде, поправила прическу, растрепавшуюся от&#160;моих поцелуев, и&#160;сказала пучеглазому, которого считала, очевидно, товарищем по&#160;несчастью:
+</p><p>— Колонель, проводите меня в&#160;коридор. Тут душно. Они&#160;вышли. Мужичонка и&#160;прыгун заняли их места и&#160;облегченно вздохнули.
+</p><p>— Ажио ноги заныли, стоямши, ажио дергает их.
+</p><p>— Мигает? — засмеялся я.
+</p><p>— Во-во. А&#160;что, господин, серьезно свою бабу здеся встретили?
+</p><p>— Ты ж видел, как&#160;она обрадовалась. Я&#160;встал и&#160;вышел в&#160;коридор размяться. Голос дамы журчал:
+</p><p>— Нигде нет такой жары, как&#160;в Ташкенте. У&#160;меня была нитка фамильного жемчуга, чтоб не&#160;соврать, — с&#160;орех величиной. И&#160;представьте, от&#160;жары жемчужины полопались.
+</p><p>— Бывает. У&#160;моего знакомого был аналогичный случай: сынишка играючись нитку бус по&#160;одной проглотил. Смотрят, отяжелел мальчишка. Понесли к&#160;доктору, а&#160;он гремит внутри, как&#160;погремушка, — одно безобразие…
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ТРИ_СЛУЧАЯ"><span id=".D0.A2.D0.A0.D0.98_.D0.A1.D0.9B.D0.A3.D0.A7.D0.90.D0.AF"></span>ТРИ СЛУЧАЯ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=7" title="Редактировать раздел «ТРИ СЛУЧАЯ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="I">I</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=8" title="Редактировать раздел «I»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Тот самый ветер, который сейчас выл и&#160;бесновался за&#160;окном, — этот самый суровый ветер и&#160;согнал сюда, в&#160;угол большой теплой комнаты, компанию из&#160;трех человек.
+</p><p>Это были: гость Тарантасов, хозяйка усадьбы, заброшенной в&#160;снегах, Мария Дмитриевна, и&#160;ее муж — Вонзаев.
+</p><p>Праздничные дни тянулись в&#160;мирной усадьбе очень медленно и&#160;располагали всех к&#160;наливке, орехам и&#160;медленным, тягучим разговорам…
+</p><p>Ветер за&#160;двойными рамами окон выл таинственно, так зловеще, что&#160;всем хотелось прижаться друг к&#160;другу и&#160;так, чувствуя себя в&#160;безопасности, послушать что-нибудь холодящее душу и&#160;вызывающее мурашки по&#160;всему телу.
+</p><p>— Странные случаи бывают в&#160;жизни, — поощрительно заметил приезжий помещик Тарантасов.
+</p><p>— Такие случаи бывают, что&#160;с ума сойти можно, — подтвердил хозяин Вонзаев.
+</p><p>Мария Дмитриевна опасливо взглянула в&#160;неосвещенный угол, и&#160;мелкая дрожь пробежала по&#160;ее телу.
+</p><p>— Когда я&#160;была молода, со мной случился факт, о&#160;котором я&#160;и теперь не&#160;могу вспомнить без&#160;ужаса. Дело было в&#160;Москве…
+</p><p>Все придвинулись друг к&#160;другу.
+</p><p>— …В&#160;Москве. Мы&#160;жили в&#160;одном из&#160;тех многочисленных переулков, в&#160;которых всякий не&#160;знакомый с&#160;Москвой ногу сломит. И&#160;вот стала я&#160;замечать, что&#160;на углу нашего переулка стоит старик нищий с&#160;одной ногой. Другой ноги у&#160;него не&#160;было, а&#160;была только одна. Левая, что&#160;ли… Или&#160;правая… Стоит этот нищий себе и&#160;стоит. Чего стоит, почему стоит — неизвестно. Стоит он&#160;день, два дня, три — прямо я&#160;даже удивлялась.
+</p><p>— Да&#160;чего ж он&#160;стоял? — спросил муж.
+</p><p>— Как&#160;чего? Просил милостыню.
+</p><p>— Ну, в&#160;этом ничего страшного нет.
+</p><p>— Особенного, конечно, в&#160;этом ничего не&#160;было, а&#160;только я&#160;все время замечаю: стоит он&#160;на углу и&#160;милостыню просит. Стоит и&#160;просит.
+</p><p>— Что&#160;ж ему. с&#160;голоду умирать, что&#160;ли? — резонно возразил муж.
+</p><p>— Я&#160;об&#160;этом и&#160;не говорю. Только вдруг, однажды, — можете себе представить, — этот нищий исчез! День его нет, два дня нет, три… Мне сначала это показалось удивительным, а&#160;потом я&#160;постепенно забыла.
+</p><p>— Чем&#160;же все это кончилось? — нетерпеливо спросил гость.
+</p><p>— Чем? А&#160;вот чем: ровно через&#160;десять дней от&#160;тети получилась телеграмма: «Дядя Терентий волей Божией тихо скончался».
+</p><p>— Гм!.. так это что&#160;ж, — значит, этот одноногий старик и&#160;был ваш дядя Терентий?
+</p><p>— Ничего подобного! Это был просто неизвестный старик.
+</p><p>— Так что&#160;же вы находите в&#160;этом случае удивительного!
+</p><p>— Как&#160;что?! Стоял, стоял старик — вдруг исчез. И&#160;что&#160;же — через&#160;десять дней умирает дядя.
+</p><p>— И&#160;вы не&#160;знаете, куда делся этот старик?
+</p><p>— Совершенно не&#160;знаю.
+</p><p>— Может быть, он&#160;просто заболел или&#160;переменил стоянку.
+</p><p>— Тогда зачем было умирать дяде?
+</p><p>— Предположите, что&#160;он умер сам по&#160;себе.
+</p><p>— Тогда почему и&#160;куда исчез старик? Нет, тут, как&#160;ни верти, есть какая-то&#160;неразрешимая странная загадка.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="II">II</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=9" title="Редактировать раздел «II»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Ну, со мной была история пострашнее, — сказал гость Тарантасов.
+</p><p>— Ой, не&#160;надо! — капризно протянула хозяйка, подбирая ноги. — Или&#160;нет, расскажите! Я&#160;вас очень прошу!
+</p><p>— Как&#160;вам известно, господа, я&#160;всегда живу в&#160;своем имении «Пятереньки». Живу я&#160;там безвыездно и&#160;только изредка наезжаю в&#160;уездный город Чмыхов, вам известный.
+</p><p>Но&#160;однажды мне пришлось по&#160;делу о&#160;вводе меня во&#160;владение наследством, оставленным моим дядюшкой Ильей Никитичем, поехать в&#160;Петербург.
+</p><p>Город громадный, улиц целая гибель, и&#160;дома все если не&#160;шести-, то&#160;семиэтажные.
+</p><p>Как-то&#160;вечером зашел я&#160;к приятелю, что&#160;проживал в&#160;шестиэтажной махине на&#160;Гороховой улице.
+</p><p>Говорили о&#160;том о&#160;сем, а&#160;главное, о&#160;разной чертовщине.
+</p><p>— Вот, — говорит мой приятель, — ты живешь в&#160;деревне, бок о&#160;бок со всякой нечистью, с&#160;домовыми, а&#160;у нас, в&#160;городе, совершенно другая жизнь. Всю поэзию нечистой силы съели трамвай да&#160;электрическое освещение.
+</p><p>А&#160;другой — паренек такой белесый, с&#160;косматым цветком в&#160;сюртуке — говорит:
+</p><p>— Нет, знаете, в&#160;городе есть своя особая городская мистика, есть своя загадочная сущность, и&#160;я, — говорит,
+</p><p>— утверждаю, что&#160;в городе та&#160;же нечистая сила осталась в&#160;полном объеме, только под&#160;влиянием культуры изменила она свои нравы и&#160;обычаи и&#160;надела другую личину.
+</p><p>— Так вы думаете, — спрашиваю я, — что&#160;и у&#160;вас тут, в&#160;этих домах, домовые водятся?
+</p><p>— А&#160;то&#160;как&#160;же?! Только, — говорит, — они&#160;потеряли свою дикость, некультурность — надели другие личины.
+</p><p>— Я, — говорит, — уверен, что&#160;у них это дело поставлено на&#160;широкую городскую ногу.
+</p><p>— Это как&#160;же? — спрашиваю я.
+</p><p>— Да&#160;вот так: у&#160;вас, вон, небось, все занятие домовых сводится к&#160;тому, что&#160;лошадям хвосты заплетать да&#160;по ночам спящую публику душить; а&#160;у нас, в&#160;городе, это посложнее… Лошади не&#160;везде есть — их автомобили заменили. А&#160;автомобилю хвоста не&#160;заплетешь! Разве что&#160;из жестянок бензин можно высосать. Да&#160;и&#160;две-три сотни жильцов по&#160;ночам душить — не&#160;очень-то&#160;с ними кустарным способом справишься,
+</p><p>— для&#160;этого нужно целую хорошо организованную контору иметь.
+</p><p>Ничего себе парнишка рассуждал. Очень здраво.
+</p><p>Когда я&#160;собирался уходить от&#160;приятеля, было уже 12 часов ночи. Вышел он&#160;меня провожать на&#160;площадку лестницы, посветил лампой да&#160;еще и&#160;посмеялся: смотри, дескать, на&#160;домового не&#160;наткнись.
+</p><p>Жутковато мне стало, однако собрался я&#160;с духом — спускаюсь с&#160;лестницы.
+</p><p>И&#160;вдруг на&#160;одной из&#160;полуосвещенных слабой керосиновой лампочкой площадок я&#160;увидел…
+</p><p>Вы, вероятно, господа, думаете — увидел домового? Косматую фигуру с&#160;красными глазами, кривыми серыми руками и&#160;старческой морщинистой безволосой головой?
+</p><p>Нет, господа! Я&#160;увидел нечто худшее. На&#160;площадке в&#160;углу виднелась небольшая дверь, а&#160;на ней сверху я&#160;увидел ужасную, холодящую кровь надпись: «Домовая контора»!
+</p><p>Итак, юнец с&#160;лохматым белым цветком в&#160;петлице не&#160;врал: я&#160;воочию видел перед&#160;собой это ужасное логовище проклятой Богом нечисти.
+</p><p>Я&#160;простоял так много секунд, прижавшись к&#160;противоположному углу… Наконец мне пришло в&#160;голову: «Не галлюцинирую&#160;ли&#160;я? Не схожу&#160;ли&#160;я с&#160;ума?»
+</p><p>Как&#160;сумасшедший, сорвался я&#160;со своего места и&#160;ринулся вниз с&#160;диким криком:
+</p><p>— Дворник! Дворник!
+</p><p>Молодой парень в&#160;ситцевой рубахе выскочил откуда-то&#160;снизу и, закрывая глаза щитком от&#160;света, спросил:
+</p><p>— Чего надо-ть?
+</p><p>— Дворник! Кто… у&#160;вас… живет на&#160;третьей площадке? С&#160;замирающим сердцем ждал я&#160;ответа.
+</p><p>— Там? Да&#160;там никто не&#160;живет. Там домовая контора.
+</p><p>Он&#160;это сказал так&#160;же просто, как&#160;другой сказал&#160;бы:
+</p><p>«Там квартира чиновника Иванова»!
+</p><p>Я&#160;схватился за&#160;голову и&#160;выбежал на&#160;двор. Голова моя горела… Какая-то&#160;фигура в&#160;шубе попалась мне навстречу.
+</p><p>— Послушайте, — сказал я, останавливая его. — Послушайте… Правда&#160;ли, что&#160;здесь вот, на&#160;третьей площадке, домовая контора?
+</p><p>— Ну, да! Чего ж вы так удивляетесь? Вам, может быть, нужен кто-нибудь из&#160;домовой администрации?
+</p><p>— Домо…вой… адми…нистрации?! У&#160;них есть даже администрация?! О, город! Будь ты проклят!
+</p><p>Не помню, как&#160;я очутился дома и&#160;как провел ночь… А&#160;на&#160;другой день утром я&#160;уже мчался в&#160;поезде в&#160;свои милые «Пятереньки».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="III">III</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=10" title="Редактировать раздел «III»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Ну, — сказал хозяин после долгого молчания. — Вы еще счастливо отделались, потому что&#160;не столкнулись ни&#160;с кем лицом к&#160;лицу. А&#160;вот, как&#160;вам нравится случай со мной? Я&#160;путешествовал целую ночь наедине с&#160;сумасшедшим.
+</p><p>— Какой ужас! — вскричала жена. — У&#160;меня сейчас мороз по&#160;коже пробежал. Расскажи!
+</p><p>— Дело было так: ехал я&#160;по делам в&#160;Харьков. Вечером в&#160;мое купе, в&#160;котором я&#160;был один, вошел неизвестный господин. Он&#160;был закутан в&#160;башлык и&#160;в руках держал желтый чемодан…
+</p><p>Тон у&#160;него был вежливый.
+</p><p>— Я&#160;вам не&#160;помешаю?
+</p><p>— Нет, пожалуйста.
+</p><p>— Вы тоже до&#160;Харькова?
+</p><p>— Да, до&#160;Харькова. Разговорились.
+</p><p>Он&#160;предложил закусить, вынул из&#160;чемодана ветчину, хлеб, вино и&#160;сыр и&#160;стал все это резать большим острым ножом, который был у&#160;него в&#160;чемодане.
+</p><p>Когда мы&#160;закусили, он&#160;спрятал нож обратно, вынул револьвер да&#160;и спрашивает:
+</p><p>— Вы не&#160;боитесь, что&#160;к нам кто-нибудь заберется?
+</p><p>— Нет, не&#160;боюсь.
+</p><p>— А&#160;я&#160;боюсь. Положу револьвер под&#160;подушку на&#160;всякий случай.
+</p><p>Улеглись мы, погасили свет. Поезд идет, погромыхивая на&#160;скреплениях рельсов. Не помню уж как — только задремал я, а&#160;потом и&#160;заснул.
+</p><p>Только просыпаюсь от&#160;какого-то&#160;шума.
+</p><p>— Что&#160;такое?
+</p><p>Двери хлопают, носильщики по&#160;вагонам бегают, — оказывается, в&#160;Харьков уже приехали.
+</p><p>Мой спутник собрал вещи, пожал мне на&#160;прощанье руку и&#160;тоже ушел. Еле успел я&#160;одеться. Чуть было меня вместе с&#160;вагоном на&#160;запасной путь не&#160;отправили.
+</p><p>— Позвольте, — возразил гость Тарантасов. — Из&#160;всего этого я&#160;не вижу, что&#160;ваш спутник был сумасшедший… С&#160;чего вы это взяли?
+</p><p>— А&#160;как&#160;же не&#160;сумасшедший! Конечно, сумасшедший. Вы знаете, зачем он&#160;ехал в&#160;Харьков? Отыскивать сбежавшую с&#160;инженером-технологом жену!
+</p><p>— Бывает! — неопределенно вздохнул Тарантасов. Вид у&#160;него был неудовлетворенный.
+</p><p>— А&#160;я&#160;думала, он&#160;будет в&#160;тебя стрелять…
+</p><p>— Это еще с&#160;какой радости?! Я&#160;у&#160;него жену увозил, что&#160;ли?
+</p><p>Все повернули головы и&#160;посмотрели лениво в&#160;окно, за&#160;которым прыгала серая метель.
+</p><p>И&#160;было уже не&#160;страшно, не&#160;жутко, а&#160;скучно. Леденящий душу ужас таял…
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ВЫХОДЕЦ_С_ТОГО_СВЕТА"><span id=".D0.92.D0.AB.D0.A5.D0.9E.D0.94.D0.95.D0.A6_.D0.A1_.D0.A2.D0.9E.D0.93.D0.9E_.D0.A1.D0.92.D0.95.D0.A2.D0.90"></span>ВЫХОДЕЦ С&#160;ТОГО СВЕТА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=11" title="Редактировать раздел «ВЫХОДЕЦ С ТОГО СВЕТА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В&#160;этот прекрасный сочельник не&#160;так много и&#160;выпили: на&#160;троих — Подходцева, Клинкова и&#160;меня — пришлось восемь бутылок бордо, конечно, не&#160;считая коньяка, потому что&#160;зачем&#160;же его считать?
+</p><p>Мы&#160;только немного больше, чем нужно, раскраснелись и&#160;совсем капельку расшумелись: Подходцев напялил на&#160;голову пуншевую миску и&#160;потребовал, чтобы мы&#160;воздали ему королевские почести.
+</p><p>Что&#160;будешь делать — воздали.
+</p><p>Дом, в&#160;котором нас терпели, был большой, старый, заброшенный… Кривая старуха, которая однажды легкомысленно предоставила нам верхний этаж, на&#160;весь недолгий остаток своей жизни сохранила на&#160;исковерканном временем лице выражение тупой паники и&#160;ужаса.
+</p><p>Потанцевали, попели. Потом притихли. Подходцев сел на&#160;ковер около дивана, на&#160;котором разбросался пухлый Клинков, положил кудрявую голову на&#160;клинковский живот и, полузакрыв глаза, только сказал:
+</p><p>— Сейчас полночь сочельника. По&#160;статутам в&#160;это времячко появляются в&#160;подобных домах привидения. Где они, спрашивается?
+</p><p>И&#160;капризно докончил:
+</p><p>— Хочу привидений! Человек, полпорции привидения недожаренного, с&#160;кровью!
+</p><p>— Прикажете притушить свет? — с&#160;притворной угодливостью спросил я, продолжая воздавать этому наглому человечишке королевские почести.
+</p><p>— Да, притуши, братец. Нельзя, чтобы горело четное число свечей. Вдруг мы&#160;да напьемся, да&#160;у нас будет двоиться в&#160;глазах — как&#160;мы это узнаем? А&#160;при&#160;нечетном числе, когда покажется четное, — значит, мы&#160;хватили лишнее. Так и&#160;будем знать.
+</p><p>Ах, и&#160;голова&#160;же был этот Подходцев! С&#160;такой головой можно дослужиться или&#160;до министерского портфеля, или&#160;до каторжной тачки.
+</p><p>Немного выпили.
+</p><p>— Хочу привидения! — прозвенел повелительный голос Подходцева.
+</p><p>И&#160;он&#160;мелодично запел:
+</p><p>— Умру, похоронят, как&#160;не жил на&#160;свете!..
+</p><p>Мы — я&#160;и Клинков — призадумались. Взгрустнулось. Вспомнился отчий дом, приветливые лица семьи, вспомнилось, как&#160;нас с&#160;Клинковым свирепо драли, когда мы, выкрасив кота чернилами, выпустили это маркое чудовище на&#160;изящных гостей гостеприимной семьи моих родителей.
+</p><p>В&#160;самом дальнем заброшенном углу нашей огромной комнаты, где кривая старуха свалила всю ненужную рухлядь — китайские ширмы, поломанные стулья и&#160;плетеные ветхие корзины с&#160;разным дрязгом, — в&#160;этом темном углу послышался шелест. Огромные ширмы с&#160;полуоторванным панно заколебались, съехали концом на&#160;корзину, — и&#160;бледное мертвое существо, на&#160;котором пыльная хламида болталась, как&#160;на вешалке, — тихо выплыло перед&#160;нами.
+</p><p>Мы&#160;отвели глаза от&#160;этого странного призрака и&#160;косо поглядели друг на&#160;друга. В&#160;двух парах глаз я&#160;прочел то&#160;же, что&#160;и они&#160;в моих глазах: мы&#160;все трое видели одно и&#160;то&#160;же.
+</p><p>— Серенькое, — задумчиво сказал Подходцев, разглядывая призрак.
+</p><p>— Ничего особенного, — добавил Клинков, всегда игравший при&#160;Подходцеве вторую скрипку.
+</p><p>Моя деликатная, гостеприимная натура возмутилась.
+</p><p>— Ослы вы полосатые! Никогда вы ни&#160;от чего не&#160;приходите в&#160;восторг и&#160;ко всему относитесь с&#160;критикой! Какого вам рожна еще нужно?! Привидение как&#160;привидение! Вы на&#160;них не&#160;обращайте внимания (примирительно отнесся я&#160;к призраку). Это такие лошади, которых свет не&#160;производил. Присядьте, пожалуйста. Чайку можно? Или&#160;пуншику?
+</p><p>— Ничего не&#160;надо, — выдохнуло из&#160;себя привидение легкий свист. — Я&#160;так посижу да&#160;и уйду.
+</p><p>Оно опустилось на&#160;дальний колченогий стул, даже не&#160;качнувшийся от&#160;этого прикосновения, — и&#160;снова выдохнуло из&#160;себя сырой затхлый воздух.
+</p><p>— Очень заняты? — с&#160;участием спросил Клинков.
+</p><p>— Занят, — согласилось привидение после некоторого раздумья. — Вы Минкина знаете?
+</p><p>— Минкина? Как&#160;же! Позвольте, это какого Минкина? Нет, не&#160;знаем.
+</p><p>— Оно — сволочь, — грозно сказало привидение, поведя тусклыми глазами куда-то&#160;налево.
+</p><p>— Кто оно?
+</p><p>— Привидение Минкина. Его уже два раза исключали из&#160;сословия за&#160;то, что&#160;он — хам.
+</p><p>— Да&#160;что&#160;вы говорите? Экая каналья, — искренно возмутился Подходцев. — А&#160;что&#160;же он&#160;делает?
+</p><p>— Подлости он&#160;делает. У&#160;нас установлена очередь для&#160;появления перед&#160;людьми, а&#160;эта свинья Минкин вечно вылезает без&#160;очереди, и&#160;уж он&#160;такие кренделя выкидывает, что&#160;прямо противно. Был уж небось?
+</p><p>— Кто, Минкин? Нет, не&#160;заходил.
+</p><p>— Минкин не&#160;ходит, он, как&#160;жаба, на&#160;брюхе ползет. У&#160;него розовые глаза.
+</p><p>— Гм! По-моему, это довольно декоративно. Может быть, чокнетесь с&#160;нами?
+</p><p>— Да&#160;уж не&#160;знаю, как&#160;и быть… Столько визитов, столько визитов. Разве что&#160;стаканчик. Только я&#160;пить не&#160;могу — я&#160;горяченьким паром подышу.
+</p><p>— Дышите, голубчик, — великодушно разрешил Подходцев. — Дышите, сколько влезет.
+</p><p>Дыша над&#160;стаканом с&#160;горячим пуншем, привидение ревниво заметило:
+</p><p>— Если Минкин придет, вы его не&#160;принимайте…
+</p><p>— Минкина-то? По&#160;шее мы&#160;ему дадим, этому Мин-кину.
+</p><p>— Хорошо&#160;бы, — вздохнул призрак, отставляя стакан. — Только у&#160;него шеи нет. Голова прямо из&#160;груди выходит.
+</p><p>— Что&#160;за&#160;наглая личность! — возмутился Подходцев.
+</p><p>— Еще стаканчик!..
+</p><p>— Да&#160;уж не&#160;знаю, как&#160;и быть… — призрак пожевал губами, будто не&#160;решался высказать мучившую его мысль. Потом спросил с&#160;натугой: — А&#160;скажите… этого… вы меня очень боитесь?
+</p><p>Мы&#160;переглянулись. В&#160;глазах мягкого Подходцева мелькнуло сострадание. Он&#160;подмигнул мне и&#160;сказал:
+</p><p>— Мы&#160;вас очень боимся. Прямо жуткое зрелище!
+</p><p>— Ей-Богу? — расцвел призрак. — А&#160;мне казалось, что&#160;вы как-то&#160;странно меня ветре…
+</p><p>— Ничего подобного! — вскричал я. — Прямо-таки мы&#160;чуть не&#160;перемерли от&#160;страху. Вы ужасны.
+</p><p>— Страшилище! — деликатно поддержал Клинков.
+</p><p>— У&#160;меня до&#160;сих пор сердце на&#160;куски разрывается от&#160;ужаса!..
+</p><p>И&#160;добавил с&#160;явной непоследовательностью:
+</p><p>— Хотите, выпьем на&#160;ты? Тесс! Кто это там скребется в&#160;дверь.
+</p><p>— Минкин! — с&#160;бешенством вскричал призрак, вскакивая. — Не пускайте его!
+</p><p>— Конечно, — согласился Подходцев. — Он&#160;всю компанию испортит. Ну его к&#160;черту! Давай лучше споем что-нибудь!
+</p><p>— Что-нибудь веселенькое, — согласился охмелевший призрак. «Похоронный марш», что&#160;ли? Или «Пляску мертвых» Сен-Санса?
+</p><p>— Ого! Какие ты, Володя, вещи знаешь, — удивился Клинков. — Слушай, а&#160;как у&#160;вас там насчет женского пола, э?
+</p><p>— Здоровая мысль! — хихикнул призрак, хлопнув мягким, пористым, как&#160;губка, кулаком по&#160;столу. — Хотите, я&#160;вас с&#160;одной покойницей познакомлю? Вот штучка-то!..
+</p><p>— К&#160;черту покойницу, — критически сказал женолюбивый Клинков. — Спой что-нибудь.
+</p><p>Призрак откашлялся и&#160;затянул затхлым, пискливым голосом:
+</p><p>Старенькие трупики
+</p><p>Новеньких чудней —
+</p><p>Всюду черви, струпики —
+</p><p>Никаких гвоздей!!!
+</p><p>И&#160;хор дружно подхватил припев:
+</p><p>И&#160;никаких,
+</p><p>И&#160;никаких,
+</p><p>И&#160;никаких гвоздей!!
+</p><p>Надышавшийся пунша призрак пытался и&#160;плясать, но&#160;слабые хрупкие ноги не&#160;выдержали: одна подломилась и&#160;крякнула, как&#160;сосновая щепка. Призрак поднял ее, повертел в&#160;руках и&#160;отбросил в&#160;угол:
+</p><p>— Который уже это раз, — сожалительно пробормотал он. — Ломучая дрянь.
+</p><p>Всем очень хотелось спать. Решили улечься на&#160;ковре вповалку, прикрывшись оторванной портьерой. Капризный Подходцев никак не&#160;хотел ложиться рядом с&#160;обессилевшим призраком.
+</p><p>— Пошел вон! — сказал он&#160;бесцеремонно. — От&#160;тебя землей пахнет.
+</p><p>— Вы тоже хороши, — бормотал призрак, кряхтя и&#160;умащиваясь поудобнее. — Напоили старичка, а&#160;теперь какую-то&#160;землю нашли. Эх, напугал&#160;бы&#160;я вас, да&#160;не хочется.
+</p><p>— Спи уж, — оборвал его Клинков. — Бубнит, бубнит, как&#160;шмель. По&#160;шеям надо таких пьяных старичков.
+</p><p>Эй ты, борода, разбуди к&#160;десяти. Мне еще с&#160;визитами надо…
+</p><p>Проснулись мы, Подходцев и&#160;я, в&#160;два часа дня на&#160;ковре, укрытые портьерой, с&#160;Клинковым под&#160;головами вместо подушки, со старыми газетами вместо простыни.
+</p><p>Мы&#160;оглянулись: нас было всего трое.
+</p><p>— А&#160;где&#160;же этот фрукт? — спросил я, оглядываясь.
+</p><p>— Какой?
+</p><p>— Да&#160;вот этот… земляной старичок, что&#160;про трупики пел.
+</p><p>Клинков поглядел на&#160;Подходцева. Потом тот и&#160;другой — на&#160;меня:
+</p><p>— Пойди умойся, — посоветовали оба.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Ах, как&#160;приятно окатить голову холодной водой на&#160;первый день Рождества Христова!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ИСТОРИЯ_ОДНОГО_АКТЕРА"><span id=".D0.98.D0.A1.D0.A2.D0.9E.D0.A0.D0.98.D0.AF_.D0.9E.D0.94.D0.9D.D0.9E.D0.93.D0.9E_.D0.90.D0.9A.D0.A2.D0.95.D0.A0.D0.90"></span>ИСТОРИЯ ОДНОГО АКТЕРА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=12" title="Редактировать раздел «ИСТОРИЯ ОДНОГО АКТЕРА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Жил-был один актер. Всякий актер любит рекламу, но&#160;мой актер в&#160;этом отношении был прямо неистов. Как&#160;тигр любит пить теплую кровь из&#160;прокушенного горла своей жертвы, как&#160;пылкий влюбленный ищет губ любимой девушки, так он&#160;искал рекламу, так он&#160;любил рекламу!
+</p><p>Иногда вдруг ни&#160;с того ни&#160;с сего газеты сообщают:
+</p><p>«Кража бриллиантов у&#160;актера N на&#160;три миллиона».
+</p><p>Или:
+</p><p>«Актер N потерпел крушение экспресса. 145 убитых, 8 раненых, актер N спасся, вскочив вовремя в&#160;трубу паровоза».
+</p><p>Сначала публика ахала, восхищалась, удивлялась и&#160;ужасалась — потом привыкла: нервы огрубели.
+</p><p>Сообщают, например:
+</p><p>«Вчера жирафа, запряженная в&#160;коляску актера N, взбесилась и&#160;понесла. Актер N, не&#160;растерявшись, подпрыгнул, ухватился за&#160;телеграфную проволоку и, добравшись таким образом до&#160;телеграфного окошечка, дал в&#160;нашу газету депешу о&#160;случившемся».
+</p><p>Какой-нибудь легковерный чудак побежит к&#160;приятелю:
+</p><p>— Слышали? У&#160;актера N жирафа взбесилась. Пришлось ему бежать по&#160;телеграфной проволоке!
+</p><p>— Брехня, — скептически поморщится приятель. — У&#160;актера N не&#160;только жирафы, но&#160;и клячи водовозной нет. И&#160;не&#160;при его пузе по&#160;телеграфным проволокам скакать…
+</p><p>— Зачем&#160;же написано?
+</p><p>— Реклама.
+</p><p>— Что&#160;вы говорите! А&#160;вот недавно сообщали, что&#160;его поколотил какой-то&#160;ревнивый муж…
+</p><p>— Тоже реклама.
+</p><p>— Да&#160;какая ж тут реклама для&#160;человека, если его палкой по&#160;башке трахнули.
+</p><p>— Ну, уж там видней, что&#160;к чему. И&#160;ребенок его был недавно болен для&#160;рекламы, и&#160;жена у&#160;него сбежала для&#160;рекламы… Ничему не&#160;верю! Все реклама.
+</p><p>— Однако он, говорят, из&#160;очень почтенной семьи…
+</p><p>— И&#160;семью себе выбрал для&#160;рекламы, и&#160;сестра у&#160;него замуж за&#160;инженера вышла для&#160;его рекламы!..
+</p><p>Вдруг — появилась скромная газетная заметка: «Актер N опасно заболел».
+</p><p>— Ишь ты, шельма, — сказала, подмигивая, публика. — Какую себе рекламу закатил: болен я, говорит.
+</p><p>— Да, может, действительно болен?
+</p><p>— Он-то? Наверное, для&#160;бенефиса все. Я, чай, здоровехонек…
+</p><p>Новая заметка:
+</p><p>«Положение актера N признано безнадежным. Он&#160;при&#160;смерти».
+</p><p>— Ха-ха-ха! — закатывалась публика. — Ну и&#160;ловкач&#160;же. Куда метнул! Ведь даст&#160;же Бог. Я&#160;думаю после этакого дела огромный бенефисище зацепить.
+</p><p>И&#160;наконец, появилась газета с&#160;траурной каймой: «Актер N вчера, не&#160;приходя в&#160;себя, скончался»…
+</p><p>— Гениальный парнюга! — ревела восхищенная публика. — Лобастый черт! Эко придумал: «не&#160;приходя в&#160;сознание»… Надо будет на&#160;бенефис билетик спроворить. Без&#160;барышника не&#160;обойтись. Интересно, когда бенефис будет: до&#160;вскрытия или&#160;после?..
+</p><p>Потом были похороны: актер чинно и&#160;строго лежал в&#160;гробу с&#160;кротким, навсегда успокоившимся лицом, а&#160;сзади шла публика и&#160;грохотала:
+</p><p>— Ах, чтоб тебя разорвало! Ведь вот что&#160;придумал… Мозговитый…
+</p><p>— Однако, как&#160;хотите, реклама — рекламой, а&#160;по-моему, это — оскорбление религиозного чувства! Кощунство.
+</p><p>— Зато по-американски, хи-хи.
+</p><p>— Ребята, гляди, зарывается! Ей-Бо, живьем для&#160;рекламы в&#160;землю уходит. Как&#160;же ему там до&#160;бенефиса дышать, голубчику?!.. Чем?
+</p><p>— Дурень ты, не&#160;нашего Бога! Где ж ему дышать, ежели от&#160;него уже покойницкий дух.
+</p><p>— Эва! Нешто для&#160;рекламы не&#160;надушится?! И, расходясь, уславливались:
+</p><p>— Значит, до&#160;бенефиса. На&#160;бенефисе встретимся.
+</p><p>А&#160;в&#160;это время в&#160;гробовую щель бочком прополз земляной червяк и&#160;пытливо огляделся в&#160;темноте:
+</p><p>— А&#160;где тут которые актеры? Чичас жрать их будем.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ОСВЕЖАЮЩИЙ_ДУШУ_РАЗГОВОР"><span id=".D0.9E.D0.A1.D0.92.D0.95.D0.96.D0.90.D0.AE.D0.A9.D0.98.D0.99_.D0.94.D0.A3.D0.A8.D0.A3_.D0.A0.D0.90.D0.97.D0.93.D0.9E.D0.92.D0.9E.D0.A0"></span>ОСВЕЖАЮЩИЙ ДУШУ РАЗГОВОР</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=13" title="Редактировать раздел «ОСВЕЖАЮЩИЙ ДУШУ РАЗГОВОР»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Он&#160;сидел на&#160;скамеечке под&#160;тенистым деревом, когда я&#160;проходил мимо него.
+</p><p>У&#160;него было задумчивое интеллигентное лицо, лицо много читавшего и&#160;думавшего славянина, — и&#160;это расположило меня к&#160;нему, более того, потянуло к&#160;нему.
+</p><p>Я&#160;присел на&#160;ту&#160;же скамейку и&#160;тут только разглядел, что&#160;ошибся, по&#160;крайней мере, в&#160;его национальности: он&#160;держал на&#160;коленях, задумчиво перелистывая, номер английского журнала «The Tatler».
+</p><p>— Ду ю спик инглиш, сэр? — спросил я, приподнимая шляпу.
+</p><p>Он&#160;удивленно покосился на&#160;меня.
+</p><p>— Чего?
+</p><p>— Простите, вы русский? А&#160;мне показалось — англичанин! Признаться, эта нация — моя слабость. Меня всегда удивляли люди, у&#160;которых довольно свободно уживаются воздушная мистика Россетти и&#160;тяжеловесная гениальность Уэллса. Не правда&#160;ли?
+</p><p>— Кто уживается? — переспросил господин.
+</p><p>— Уэллс уживается с&#160;воздушной мистикой Россетти.
+</p><p>— Министр?
+</p><p>— Кто? Россетти? Нет, художник. «Э-э, — подумал я. — Интеллигент-то&#160;вы интеллигент, а&#160;в английской живописи, видно, швах».
+</p><p>Впрочем, я&#160;и раньше замечал, что&#160;русский интеллигент, поражая вас своей огромной начитанностью и&#160;осведомленностью в&#160;одних вопросах, ввергает вас в&#160;ужас полным невежеством в&#160;других вопросах.
+</p><p>— Я&#160;могу видоизменить эту прелесть английского контраста, — с&#160;готовностью подхватил я. — Уайт-Чапель у&#160;них уживается с&#160;роскошным Пикадилли, мрачный Миддль-Таун — с&#160;Армией Спасения, Джером — с&#160;Джеком Лондоном.
+</p><p>— Знаю, — кивнул головой интеллигент. — Это город у&#160;них такой — Лондон?
+</p><p>— Нет, это писатель американский такой есть! Джек Лондон — неужели не&#160;знаете? Он&#160;еще рассказы о&#160;Клондайке писал!
+</p><p>— О&#160;чем?
+</p><p>— О&#160;Господи! О&#160;Клондайке, на&#160;Аляске.
+</p><p>— Это где&#160;же это будет?
+</p><p>— Аляска-то? Неужели вы не&#160;знаете географии приполярных стран?!
+</p><p>— Которых, которых?
+</p><p>— Господи! Возьмите вы атлас Ильина…
+</p><p>— Ну, где там. Теперь и&#160;к паршивенькому коленкору не&#160;приступись.
+</p><p>— Слушайте! Да&#160;вы форменный профан…
+</p><p>— Никак нет. Я&#160;Федор Николаич, Утюжков моя фамилия… Хе-хе… За&#160;другого приняли?
+</p><p>Я&#160;перестал стесняться. Я&#160;грубо спросил его:
+</p><p>— Вы знаете, что&#160;такое синтаксис? Что&#160;такое этимология?..
+</p><p>— Не приходилось. Все, знаете, нет времени. Я&#160;на&#160;службе больше. По&#160;счетной части.
+</p><p>— Почему&#160;же вы, черт возьми, читали «The Tatler»?!
+</p><p>— Который?
+</p><p>— Да&#160;вот этот, что&#160;держите в…
+</p><p>— Я&#160;читал? Господь с&#160;вами! Я&#160;по-французскому ни&#160;в зуб. Да&#160;и&#160;по-русскому больше, если крупная печать…
+</p><p>— Так чего&#160;же вы его перелистывали?!
+</p><p>— Вот это вот? А&#160;я&#160;прикидывал, хватит&#160;ли, если сундук внутри оклеить. А&#160;то&#160;там щели и&#160;сволочи прусаки…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Приятно иногда потолковать с&#160;русским интеллигентом о&#160;воздушной мистике Россетти, о&#160;забавных контрастах британской индивидуальности, об&#160;откровениях автора «Мартина Идена», о&#160;причудливой раздвоенности апологетов Берн-Джонса, восхищающихся в&#160;то&#160;же время и&#160;творцом «Борьбы миров»…
+</p><p>Отвел душеньку.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="БОКС_В_ТУРЦИИ_И_В_ЕВРОПЕ"><span id=".D0.91.D0.9E.D0.9A.D0.A1_.D0.92_.D0.A2.D0.A3.D0.A0.D0.A6.D0.98.D0.98_.D0.98_.D0.92_.D0.95.D0.92.D0.A0.D0.9E.D0.9F.D0.95"></span>БОКС В&#160;ТУРЦИИ И&#160;В ЕВРОПЕ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=14" title="Редактировать раздел «БОКС В ТУРЦИИ И В ЕВРОПЕ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Недавно, проходя по&#160;узкой, кривой, грязной уличке Константинопольской Галаты, я&#160;сделался свидетелем одного из&#160;самых замечательных боксерных зрелищ в&#160;мире.
+</p><p>Брел по&#160;улице турок с&#160;корзинкой бубликов на&#160;спине.
+</p><p>Навстречу ему бодро шагал английский матрос с&#160;томиком стихотворений Шелли под&#160;мышкой.
+</p><p>Не знаю, с&#160;чего началось: не&#160;то бублики зацепились за&#160;Шелли, не&#160;то Шелли — за&#160;бублики…
+</p><p>Владелец Шелли приостановился и, заткнув Шелли за&#160;пазуху, отвесил обладателю бубликов одну из&#160;самых великолепных пощечин.
+</p><p>Турок снял корзину, нагнулся и&#160;боднул крепкой головой в&#160;красной феске англичанина в&#160;живот — так боднул, что&#160;поклонник Шелли перегнулся пополам.
+</p><p>Разогнувшись, он&#160;трахнул турка в&#160;подбородок. Тот ляскнул зубами и&#160;молниеносным ударом расплющил англичанину нос. Англичанин упал.
+</p><p>И&#160;никто над&#160;ним не&#160;наклонился, никто не&#160;отсчитывал над&#160;ним секунд, и&#160;никакой тренер во&#160;время этого перерыва не&#160;растирал его мохнатым полотенцем…
+</p><p>Англичанин поднялся, пока турок собирал рассыпанные бублики, и&#160;сбил турка на&#160;землю.
+</p><p>Не знаю, какой это был «роунд», но&#160;в результате у&#160;турка оказалась вывихнута нога и&#160;сломанным — палец руки.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Почему я&#160;пишу об&#160;этом?
+</p><p>Да&#160;мне просто обидно за&#160;моих героев, потому что&#160;результатом их великолепного состязания было приглашение в&#160;полицейский участок.
+</p><p>Где&#160;же тут справедливость?!
+</p><p>Почему портреты победителя Карпантье — негра Сики красуются во&#160;всех журналах, почему о&#160;побежденном Карпантье французские газеты до&#160;сих пор исписывают целые столбцы, сообщая даже следующее: «Родственники долго скрывали от&#160;него, что&#160;судьи лишили побежденного звания чемпиона мира».
+</p><p>Почему о&#160;моих боксерах не&#160;вспомнил ни&#160;один человек в&#160;свете, кроме меня?
+</p><p>Хуже они&#160;дрались, что&#160;ли? Нет!
+</p><p>Карпантье сломал палец, и&#160;у турка сломан палец.
+</p><p>Писали, что&#160;у Сики лицо напоминало отбивную котлету. А&#160;посмотрели&#160;бы&#160;вы на&#160;моего англичанина!.. У&#160;него лицо было еще шикарнее — сырой рубленый ростбиф.
+</p><p>За&#160;что&#160;ж их взяли в&#160;участок?
+</p><p>Почему собравшиеся, вместо того чтобы рукоплескать, растащили все бублики, и&#160;только я — единственный культурный человек — удовольствовался лежащим в&#160;грязи Шелли, взятым мною на&#160;память о&#160;знаменитом матче.
+</p><p>И&#160;вот, дорогие читатели, еще лишний раз подтверждается тривиальный тезис: если ты украл шесть копеек, ты — вор и&#160;негодяй, а&#160;если обанкротился, припрятав в&#160;карман чужой миллион, ты — коммерсант.
+</p><p>Потому что, — объяви я&#160;заранее в&#160;газетах о&#160;драке турка с&#160;матросом, да&#160;окружи место их случайной драки трибунами, да&#160;возьми за&#160;каждое место по 5 лир, — писали&#160;бы&#160;о них в&#160;газетах, как&#160;о героях, рукоплескали&#160;бы&#160;им с&#160;энтузиазмом.
+</p><p>Много на&#160;свете несправедливости.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Я&#160;это к&#160;тому говорю, что&#160;справедливее было&#160;бы&#160;после матча Карпантье — Сики стащить обоих с&#160;эстрады да&#160;и потащить в&#160;участок за&#160;безобразие в&#160;публичном месте…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Кстати, недавно просматривал я&#160;книгу «Руководство к&#160;изучению бокса» и&#160;наткнулся там на&#160;такую классическую фразу:
+</p><p>«Особенно рекомендуется (?!) так называемый „кросс-коунтирующий“ удар, который вызывает сотрясение мозга и&#160;лишает возможности получившего удар принимать пищу в&#160;течение двух недель (точно) благодаря вывихнутой челюсти».
+</p><p>На&#160;всякий случай я&#160;этот прием твердо запомнил.
+</p><p>Может быть, мне когда-нибудь посчастливится встретить автора «руководства».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ФИЛАТЕЛИСТЫ"><span id=".D0.A4.D0.98.D0.9B.D0.90.D0.A2.D0.95.D0.9B.D0.98.D0.A1.D0.A2.D0.AB"></span>ФИЛАТЕЛИСТЫ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=15" title="Редактировать раздел «ФИЛАТЕЛИСТЫ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Мое болезненное самолюбие причиняет мне вечные неприятности…
+</p><p>Заходит недавно один приятель, говорит торжественно:
+</p><p>— Ты литератор?
+</p><p>— Я&#160;думаю.
+</p><p>— Вот и&#160;прекрасно. Мы&#160;с&#160;тобой через&#160;час поедем на&#160;торжественное заседание местного кружка филателистов.
+</p><p>— Кружка… чего?
+</p><p>— Филателистов! Неужели ты не&#160;знаешь, что&#160;это такое?
+</p><p>Человек с&#160;менее болезненным самолюбием ответил&#160;бы&#160;просто и&#160;откровенно:
+</p><p>— А&#160;черт его знает, что&#160;это такое…
+</p><p>Я&#160;же сделал обиженное лицо и&#160;угрюмо спросил:
+</p><p>— Это что&#160;ж… экзамен? Неужели ты считаешь меня настолько некультурным, что&#160;я не&#160;знаю, что&#160;такое — филармонисты.
+</p><p>— Филателисты, а&#160;не филармонисты.
+</p><p>— Это смотря где. По&#160;всему Бискайскому побережью их называют филармонистами. Местное арго.
+</p><p>— Ну, так что&#160;ж — пойдем?
+</p><p>— А&#160;что&#160;я буду там делать?
+</p><p>— Помилуй! Ты должен сказать там приветственную речь от&#160;имени русской литературы.
+</p><p>— Кой черт? Да&#160;я&#160;не говорю речей.
+</p><p>— Это неважно. Ты будешь говорить по-русски, а&#160;там все равно никто русского языка не&#160;понимает. Твоя речь — простой акт вежливости. Я&#160;уже обещал, что&#160;ты будешь говорить…
+</p><p>— А&#160;какая нелегкая тебя за&#160;язык тянула обещать? Не пойду я!
+</p><p>— Помилуй, как&#160;не пойдешь?! Твоя приветственная речь стоит даже на&#160;повестке. Да&#160;тебе — что? Скажешь несколько общих слов о&#160;задачах филателистики, о&#160;ее горизонтах, о&#160;ее будущем — да&#160;и конец. Одевайся.
+</p><p>Я&#160;бы&#160;скорей умер, чем сознался, что&#160;филателисты для&#160;меня — загадочное санскритское слово… А&#160;в&#160;наше проклятое время под&#160;рукой никогда нет энциклопедического словаря…
+</p><p>— Подожди, — нервно сказал я. — Мне нужно поговорить по&#160;телефону — одно дело! Я&#160;сейчас приду.
+</p><p>Выскочил я&#160;из комнаты, побежал вниз.
+</p><p>— Алло! 137-12? Вы, Петр Семеныч? Здравствуйте! Как&#160;поживаете? А&#160;я, знаете, вступил в&#160;кружок филателистов.
+</p><p>— Ну что&#160;ж поздравляю.
+</p><p>— Да?.. Спасибо… Вы одобряете?
+</p><p>— Конечно. Я&#160;когда-то&#160;сам этим занимался.
+</p><p>— Ну, и&#160;что&#160;же?
+</p><p>— Ничего. Потом бросил.
+</p><p>— На&#160;здоровье влияло?
+</p><p>— При&#160;чем тут здоровье?
+</p><p>— Я&#160;в&#160;том смысле, что&#160;усиленные труды повлияли.
+</p><p>— Помилуйте, да&#160;какой&#160;же тут труд?! Это — скорей развлечение. (Вот негодяй! Ну, можно&#160;ли&#160;говорить более неопределенно!)
+</p><p>— Петр Семеныч! А&#160;может быть, вы дали&#160;бы&#160;мне несколько советов, полезных для&#160;филателиста?
+</p><p>— Да&#160;какие&#160;же тут советы? Купите себе альбом да&#160;и жарьте.
+</p><p>— Вы говорите… жарить?
+</p><p>— Ну, да. Шпарьте!
+</p><p>Голова пошла кругом. Что&#160;это за&#160;таинственная, загадочная профессия (или&#160;развлечение), цель которой жарить альбомы? И&#160;почему шпарить?
+</p><p>Я&#160;вздохнул, дал отбой. Позвонил по&#160;другому номеру.
+</p><p>— Василий Евстигнеич? Мое почтенье. Послушайте… Я&#160;хотел спросить вас, как&#160;вы смотрите на… филателистов.
+</p><p>— Как? Да&#160;я&#160;их считаю помешанными. Особый род тихого помешательства!
+</p><p>— Что&#160;вы говорите?! Но… оно не&#160;опасно?
+</p><p>— Как&#160;вам сказать — сынишка мой совсем с&#160;ума сошел. Спит с&#160;альбомом.
+</p><p>— Какой странный мальчик! А&#160;вы — что?
+</p><p>— Да&#160;что&#160;ж я?! Собираюсь выдрать.
+</p><p>— Но&#160;ведь, говорят, есть даже кружки такие? Филателистов.
+</p><p>— Палкой&#160;бы&#160;их разогнать.
+</p><p>— Послушайте… А&#160;что, если&#160;бы&#160;этого… полиции заявить?
+</p><p>— При&#160;чем тут полиция? Ну, прощайте — зовут.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Это было все, что&#160;я мог узнать о&#160;филателистах. Когда я&#160;вернулся, приятель мой уже держал наготове мою шляпу, пальто и&#160;палку.
+</p><p>— Едем, едем скорей… А&#160;то&#160;неудобно. Неприлично заставлять долго ждать!
+</p><p>— Послушай, голубчик… А&#160;может, ты&#160;бы&#160;лучше сказал речь, а&#160;я&#160;бы&#160;послушал. А?
+</p><p>— При&#160;чем тут я?! Кто писатель? Я&#160;писатель или&#160;ты писатель? Ты! Ты и&#160;будешь говорить!
+</p><p>— Но&#160;я&#160;так мало знаком с&#160;этим… делом…
+</p><p>— Вот и&#160;скажи несколько общих мест. Они&#160;же по-русски ни&#160;в зуб толкнуть. Соблюдем только конвенансы — и&#160;конец.
+</p><p>Хорошо тем, которых везут на&#160;казнь. Привезли его, отрубили голову — и&#160;конец. И&#160;возвращаться не&#160;надо. А&#160;я&#160;еду на&#160;казнь — и&#160;после этого мне еще нужно прожить долгую позорную жизнь.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Когда мы&#160;вошли, человек пятьдесят встретили нас громом аплодисментов.
+</p><p>Я&#160;неуклюже раскланялся и&#160;сел.
+</p><p>— Да&#160;ты не&#160;садись, — толкнул меня приятель. — Мы&#160;приехали как&#160;раз вовремя. Они&#160;ждут твоей речи.
+</p><p>— А&#160;может быть… мы… опоздали?..
+</p><p>— Да&#160;нет&#160;же! Вот видишь — председатель предоставляет тебе слово. Говори!
+</p><p>Я&#160;встал, мысленно перекрестился и&#160;мысленно прыгнул с&#160;высокого берега в&#160;неизвестную холодную воду…
+</p><p>— Милостивые государи и&#160;милостивые государыни! От&#160;имени русской литературы, той литературы, которая дала нам Пушкина, Гоголя и&#160;Чехова, приветствую я&#160;вас… (Тупые взгляды. Тихий восторг. Возгласы: «браво, браво».) Не мое дело и&#160;не моя задача распространяться о&#160;филателистах вообще, хотя я&#160;их глубоко уважаю как&#160;носителей высокого, прекрасного, вечного… (Общее «браво», шумное одобрение моего приятеля…) Что&#160;такое филателизм вообще и&#160;в частности? Это — занятие не&#160;хуже всякого другого, и&#160;я скорей предпочту филателиста, чем торговца краденым или&#160;спекулянта кокаином. Ars longa, vita brevis, — как&#160;сказал Ньютон. (Бурный восторг присутствующих. Я&#160;заметно ободряюсь и&#160;веселею. Придушенный шепот приятеля: «Что&#160;он&#160;там несет?») Ничто так не&#160;украшает человека, как&#160;юность, но&#160;и тихая старость имеет здоровые корни! Будем&#160;же жить, пока живется!!!
+</p><p>Эти слова я&#160;произнес так патетически и&#160;с таким подъемом, что&#160;зал заседаний дрогнул от&#160;рукоплесканий… На&#160;своей спине я&#160;чувствовал бешеный, прожигающий взгляд моего приятеля и&#160;поэтому старался в&#160;его сторону не&#160;смотреть.
+</p><p>— Я&#160;продолжаю! Мне сообщили, что&#160;филателисты жарят альбомы на&#160;легком огне и&#160;потом ошпаривают их кипятком… Если они (не&#160;филателисты, а&#160;альбомы) годятся после этого в&#160;пищу, — вопрос личного вкуса. Полиции нет до&#160;этого дела — ну, и&#160;пускай! Да&#160;и&#160;вообще, филателизм — это особый род тихого помешательства! (Я&#160;в&#160;большом подъеме. Общие возгласы: «браво!» Голоса моего приятеля не&#160;слышно — чувствую, что&#160;он в&#160;полуобмороке…) Итак — в&#160;полдневный жар, в&#160;долине Дагестана, стояли мы&#160;на берегу Невы! Под&#160;синим небом Грузии, в&#160;прекрасной Андалузии красавица цвела… Мойте детей только мылом «Юпитер», не&#160;пейте сырой воды — и&#160;земля вам пухом!! И&#160;если&#160;бы&#160;глаза моего визави, господина председателя, не&#160;напоминали органов зрения мороженого судака, то&#160;я даже поцеловал&#160;бы&#160;его в&#160;отвисшие от&#160;восторга губки! Кончаю! Жарьте, шпарьте альбомы, а&#160;меня оставьте в&#160;покое, потому что — «кинжалом я&#160;владеть умею, я&#160;близ Кавказа рождена!!!» Я&#160;кончил.
+</p><p>Бурный восторг собрания, бешеные аплодисменты. Увидев протискивающегося ко&#160;мне с&#160;самыми недвусмысленными намерениями приятеля, я&#160;схватываю пальто, шляпу и, избегая оваций, избегая объяснений с&#160;приятелем, — мчусь к&#160;выходу.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Догнал он&#160;меня только на&#160;втором квартале.
+</p><p>— Послушай! Ты… ты… или&#160;сумасшедший, или&#160;идиот?!
+</p><p>— Ну, зачем так мрачно, — засмеялся я. — Кстати, скажи мне хоть теперь, чем занимаются филателисты?!
+</p><p>— А&#160;ты не&#160;знал?! О, гадина! Они&#160;собирают марки!
+</p><p>— Да&#160;что&#160;ж за&#160;смысл? Ведь теперь марки падают, что&#160;за десять долларов дают…
+</p><p>— Чугунная голова! Они&#160;собирают почтовые марки!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Так вот оно что!
+</p><p>Впрочем, каюсь: если&#160;бы&#160;я даже знал об&#160;этом раньше, я&#160;все равно произнес&#160;бы&#160;ту&#160;же самую речь, не&#160;изменив ни&#160;капельки.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ЗИМНИЙ_ВЕЧЕР_В_ДЕТСКОЙ"><span id=".D0.97.D0.98.D0.9C.D0.9D.D0.98.D0.99_.D0.92.D0.95.D0.A7.D0.95.D0.A0_.D0.92_.D0.94.D0.95.D0.A2.D0.A1.D0.9A.D0.9E.D0.99"></span>ЗИМНИЙ ВЕЧЕР В&#160;ДЕТСКОЙ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=16" title="Редактировать раздел «ЗИМНИЙ ВЕЧЕР В ДЕТСКОЙ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Восемь часов вечера. В&#160;пустой детской жизнерадостно и&#160;хлопотливо трещат дрова в&#160;печке, на&#160;столе кротко горит лампа под&#160;зеленым абажуром, бросая четкий круг света на&#160;часть закапанного чернилами исцарапанного стола, на&#160;углы стопок книг и&#160;тетрадей, на&#160;раскрытый пенал, набитый всяким драгоценным дрязгом: обломками плиток туши, кисточками и&#160;свернувшимися от&#160;тепла в&#160;трубку иностранными марками…
+</p><p>Круглые дешевые часы на&#160;стене расплылись своим широким честным лицом в&#160;улыбку и&#160;бойко, хотя их никто не&#160;слушает, отсчитывают да&#160;отсчитывают секунды.
+</p><p>Вот с&#160;треском отворилась дверь, и&#160;мальчик лет десяти
+</p><p>— Боря Скобцов — влетел в&#160;детскую в&#160;фуражке, пальто внакидку и&#160;с кожаным ранцем за&#160;плечами…
+</p><p>Он&#160;подошел к&#160;своей кровати, стал к&#160;ней спиной и&#160;одним молниеносным движением сбросил все сразу: фуражку, пальто и&#160;ранец.
+</p><p>Это был очень трудный трюк, но&#160;шикарный: вот тебе одет человек — трах! вот тебе сразу и&#160;раздет.
+</p><p>Нянька, однако, была против этого «шикарного» приема.
+</p><p>Не успел Боря отогреть у&#160;веселой печки замерзшие руки, как&#160;снова открылась дверь и&#160;вошла сестренка — в&#160;шубке, меховой шапочке и&#160;с коньками в&#160;руках, сверкая розовыми щеками, серыми глазами, золотыми волосами.
+</p><p>— Каталась на&#160;коньках? — спросил Боря, пока она раздевалась.
+</p><p>— Да.
+</p><p>— Видишь, от&#160;меня ничего не&#160;скроется. Есть новости?
+</p><p>— Ну! Еще какие! Я&#160;на&#160;уроке истории сказала: «Македон Александровский» и&#160;потом новую загадку слышала — чудную-чудную!
+</p><p>— Ну, какую&#160;же? — с&#160;наружной снисходительностью спросил Боря, втайне замирая от&#160;страха и&#160;предстоящего позора: а&#160;вдруг не&#160;угадает?
+</p><p>— Слушай. На&#160;озере сидело сто уток. Охотник выстрелил и&#160;тридцать человек уток убил наповал. Сколько осталось живых?
+</p><p>— Чепуховская загадка! Семьдесят уток осталось. Маруся радостно зашлепала в&#160;ладоши.
+</p><p>— Ага! Вот и&#160;не угадал. Ни&#160;одной утки не&#160;осталось.
+</p><p>— Ну, почему?
+</p><p>— Потому что&#160;живые улетели.
+</p><p>— Это еще не&#160;доказательство, — с&#160;энергией утопающего, хватающегося за&#160;соломинку, заспорил Боря.
+</p><p>— Мало&#160;ли… А&#160;может, часть уток была глухая и&#160;не слышала даже и&#160;выстрела, — почем ты знаешь?
+</p><p>— Да&#160;разве утки глухие бывают?
+</p><p>— Сколько раз. Я&#160;даже ел. Вообще, это — задача с&#160;неопределенным решением. А&#160;вот я&#160;сегодня тоже слышал замечательную: шел солдат, нес в&#160;корзине сотню яиц. А&#160;дно упало. Сколько осталось в&#160;корзине?
+</p><p>Маруся всей своей душой чувствовала какой-то&#160;подвох, но&#160;в чем он&#160;заключался — решительно не&#160;могла найти. А&#160;ответ — такой простой и&#160;категорический — так и&#160;змеился на&#160;розовых губках.
+</p><p>— Ну, что&#160;ж ты? Было сто яиц в&#160;корзине. А&#160;дно упало — ну? Сколько осталось в&#160;корзине?
+</p><p>— Девяносто девять!!
+</p><p>— Дура! Раз дно упало — ни&#160;одного не&#160;осталось.
+</p><p>— Мама тебе сколько раз говорила, что&#160;нельзя меня ругать.
+</p><p>— А&#160;все-таки не&#160;угадала.
+</p><p>— Да&#160;и&#160;не хотела угадывать… Очень мне нужно… Моя загадка поэтичная: охотник, уточки, а&#160;у тебя какой-то&#160;солдат, какие-то&#160;яйца — фи!
+</p><p>— А&#160;может, твой охотник тоже солдат и&#160;твои утки несли яйца!.. Очень ты стала что-то&#160;много воображать о&#160;себе. Ну, теперь рассказывай: были по&#160;дороге приключения?
+</p><p>— Ах, Боречка, и&#160;какое приключение (оба, боязливо озираясь, придвинулись ближе друг к&#160;другу). Понимаешь, только что&#160;я выхожу с&#160;катка и&#160;с Николаевской сворачиваю на&#160;Кривоногую, — вдруг два господина в&#160;плащах перерезывают мне путь. Один говорит другому: «Герцог, сегодня у&#160;моей знакомой княжны крестины ее сына и&#160;соберется много аристократии. Мы&#160;должны выкрасть ребенка и&#160;отдать на&#160;воспитание леснику…» А&#160;другой демонически захохотал, сказал: «Предоставьте это мне, граф» и, выхватив шпагу, вонзил в&#160;того, первого, в&#160;графа…
+</p><p>— Ну… что&#160;ж ты?
+</p><p>— Я&#160;испугалась и&#160;убежала.
+</p><p>— Эх ты! Надо было подать первую помощь раненому. Он&#160;бы, может, открыл перед&#160;смертью тайну своего происхождения или&#160;клад. А&#160;со мной тоже, когда я&#160;шел от&#160;репетитора, какой случай был! Иду это я, значит, иду… Иду себе и&#160;иду.
+</p><p>— Ну? — нетерпеливо дернулась Маруся. — Что&#160;ты все идешь да&#160;идешь…
+</p><p>— Так не&#160;сразу&#160;же я&#160;перелетел. Тихо себе шел. Вдруг, на&#160;углу какой-то&#160;улицы… я&#160;уж позабыл, какой… смотрю, экипаж и&#160;три господина, роскошно одетых, тащат к&#160;экипажу даму с&#160;завязанными ртом и&#160;глазами. «Негодяи! — вдруг загремел я. — Оставьте вашу жертву!» Тут выскочили еще двое сообщников, выхватили сабли и&#160;давай меня рубить… Я&#160;потерял сознание. Добрый дровосек нашел меня, положил на&#160;тележку и&#160;доставил домой…
+</p><p>— Постой, — ехидно сказала Маруся. — Ведь это сегодня было?
+</p><p>— Ну так что&#160;ж, что&#160;сегодня!..
+</p><p>— А&#160;где ж твои раны, где кровь?
+</p><p>— Ну, это были такие раны… сухие.
+</p><p>— Что&#160;значит — сухие? Что&#160;ж, ты к&#160;ним промокашку прикладывал, что&#160;ли?
+</p><p>— Давай лучше что-нибудь другое делать, — предложил Боря, стремясь замять невыгодный для&#160;него разговор. — Эти приключения — глупости. Ты знаешь, что&#160;я собираюсь сделать? Придумать новую религию!
+</p><p>— Борька! — всплеснула руками Маруся, округлив от&#160;ужаса серые глаза. — Борька! Ты с&#160;ума сошел?! Ведь это грешно!..
+</p><p>— Почему грешно? Я&#160;придумаю свою религию, и&#160;мы с&#160;тобой будем в&#160;нее веровать, а&#160;потом ты уговоришь своих девочек, я&#160;своих мальчиков — и&#160;все мы&#160;будем веровать… Зато мы&#160;будем известны: «Кто придумал эту религию? — Борис и&#160;Мария Скобцовы!»
+</p><p>— Значит, мы&#160;уже в&#160;церковь не&#160;должны ходить?
+</p><p>— А? Ну, почему&#160;же… Изредка можно зайти на&#160;всякий случай. А&#160;вообще… Мы&#160;будем дубу поклоняться!
+</p><p>— Как&#160;дубу? Какому?
+</p><p>— Обыкновенному. Я&#160;недавно читал, что&#160;главное — это природа, а&#160;что Бог это… такая… условность. Вот, значит, я&#160;и сочиняю себе новую религию…
+</p><p>— Неужели ты, Борька, не&#160;боишься? (В&#160;глазах ее застыли страх и&#160;тайное восхищение перед&#160;грозным, шагающим через&#160;все препятствия братом.) А&#160;молитвы у&#160;тебя будут?
+</p><p>— Будут. Я&#160;сейчас сочиню молитву дубу.
+</p><p>— Дубовая молитва, — неожиданно сказала Маруся и&#160;рассмеялась.
+</p><p>— Боже, какие вы девчонки пошлые, — поморщился Боря. — Вот возьму нарочно и&#160;сочиню молитву дубу!
+</p><p>Он&#160;взял четвертушку бумаги и, скривившись от&#160;неудобной позы, принялся писать:
+</p><p>— Новая религия Бор. Скобцова. Молитва дубу. «О, могущественный и&#160;прекрасный… Помяни раба своего на&#160;небесах, в&#160;водах и&#160;под землею»…
+</p><p>— Что&#160;ж ты, — заметила, поглядывая через&#160;его плечо на&#160;бумажку, Маруся. — Хвостик из&#160;второй заповеди украл.
+</p><p>— Ну, одним словом, это еще нужно разработать…
+</p><p>— А&#160;ты знаешь, о&#160;чем я&#160;думаю?
+</p><p>— Ну?
+</p><p>— Хорошо&#160;бы&#160;открыть новую страну!
+</p><p>— Как&#160;же ты ее откроешь?
+</p><p>— Ну, как&#160;обыкновенно все открывают!
+</p><p>— Открывают так: едут и&#160;едут все время, пока не&#160;наткнутся на&#160;землю. Потом смотрят в&#160;карту: есть такая страна на&#160;карте? Нет. Ну, значит, мы&#160;ее и&#160;открыли.
+</p><p>— Вот и&#160;мы так откроем.
+</p><p>— Да&#160;ведь мы&#160;не едем.
+</p><p>— Фу, какой ты нудный! Возьмем карту и&#160;посмотрим: что&#160;еще не&#160;открыто.
+</p><p>— Да&#160;ведь что&#160;на карте, то&#160;уже открыто, а&#160;что не&#160;открыто — того не&#160;может быть на&#160;карте.
+</p><p>— Ну… остров-то&#160;может быть среди океана? Неоткрытый. Может?
+</p><p>— Это другое дело.
+</p><p>Деловито разворачивается атлас Ильина. Оба, сгорая от&#160;того острого чувства, которое ведомо только исследователям и&#160;авантюристам, наклоняются над&#160;картой.
+</p><p>— Вот это что? Тихий океан. Вот смотри, сколько тут пустого моря… Не может быть, чтобы тут не&#160;было острова. Дай-ка карандаш… Я&#160;сейчас нарисую.
+</p><p>На&#160;карте появляются прихотливо изрезанные очертания острова. Посредине пишется: «Остров Св. Марии»… И&#160;после некоторого колебания добавляется: «Скобцовой».
+</p><p>— Да&#160;разве ты святая?
+</p><p>— Ничего. Это так на&#160;островах всегда пишется.
+</p><p>— А&#160;вот тут — смотри — сколько пустого моря. Тут целый архипелаг должен быть. Дай-ка карандаш. Я&#160;сделаю.
+</p><p>Широкая мужская натура перещеголяла робкую девичью. Целый архипелаг пестрил на&#160;беспредельном морском просторе.
+</p><p>Написано и&#160;утверждено: «Скобцовские острова».
+</p><p>Остров Св. Марии перед&#160;ними такой жалкий, будничный, что&#160;ревнивое сердце не&#160;выдерживает:
+</p><p>— Боря!
+</p><p>— Ну?
+</p><p>— Я&#160;новый ликер изобрела — знаешь?
+</p><p>— Из&#160;чего?
+</p><p>— Пойди отлей из&#160;буфета стаканчик водки и&#160;сахара принеси. Я&#160;сделаю.
+</p><p>Новая забота поглощает отважных исследователей.
+</p><p>В&#160;принесенный стакан водки насыпается сахар. Потом Маруся, после краткой, но&#160;тяжелой борьбы, вынимает из-под&#160;подушки апельсин и&#160;выжимает его туда&#160;же. К&#160;апельсинному соку присоединяются лепестки сухой розы из&#160;книжки и&#160;кусок ромовой карамели.
+</p><p>Обсасывая выжатую апельсинную корку, Боря задумчиво глядит на&#160;помутневший стакан и&#160;говорит:
+</p><p>— Положи кусочек кармину для&#160;цвета. Красный ликер будет.
+</p><p>— Я&#160;и&#160;сама думала, — ревниво возразила Маруся, не&#160;желая уступать чести своего изобретения.
+</p><p>Мутно-красная смесь пахнет ромом, апельсином, розой и&#160;вообще черт знает чем.
+</p><p>— А&#160;ну, дай попробовать… Ой, вкусно!
+</p><p>— Постой… Оставь и&#160;мне. Я&#160;сделаю таких сто бутылок, наклею ярлычок «Ликер Чудо Роз — фабрики Марии Скобцовой» и&#160;буду продавать. Вот сейчас и&#160;ярлык сделаю…
+</p><p>— А&#160;знаешь, так можно очутиться знаменитой. Дай еще глоточек.
+</p><p>— Ну, это свинство! Ты почему языком карамельку вылавливаешь?! Пусть тает.
+</p><p>В&#160;комнату вошли отец и&#160;мать Скобцовы… Усталая печка уже перестала трещать, прикрылась теплым пеплом, как&#160;одеялом, и&#160;задремала. Честные, добродушные часы, наоборот, бессонно и&#160;бодро несли свой однотонный вековечный труд. На&#160;сложенных руках мирно спали за&#160;столом две отяжелевшие головки: коротко остриженная темная и&#160;кудрявая, сверкающая жидким золотом.
+</p><p>— Неужели заснули? — сказал отец, наклонившись над&#160;столом.
+</p><p>— Смотри! — испуганно воскликнула мать. — Они&#160;какую-то&#160;дрянь пили.
+</p><p>Отец понюхал стакан, повертел в&#160;руках основы новой религии, карту с&#160;островами, ярлык — и&#160;тихо засмеялся…
+</p><p>— Обрати внимание, Софья! В&#160;то&#160;время как&#160;мы взрослые, тяжелые, скучные люди сыграли только четыре никому не&#160;нужных роббера, будущее поколение успело открыть новые земли, сочинить новую религию и&#160;изобрести райский нектар…
+</p><p>Он&#160;призадумался, глядя на «Скобцовские острова», провел рукой по&#160;начавшему лысеть темени и&#160;почему-то&#160;вздохнул.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="МОЙ_ПЕРВЫЙ_ДЕБЮТ"><span id=".D0.9C.D0.9E.D0.99_.D0.9F.D0.95.D0.A0.D0.92.D0.AB.D0.99_.D0.94.D0.95.D0.91.D0.AE.D0.A2"></span>МОЙ ПЕРВЫЙ ДЕБЮТ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=17" title="Редактировать раздел «МОЙ ПЕРВЫЙ ДЕБЮТ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Между корью и&#160;сценой существует огромное сходство: тем и&#160;другим хоть раз в&#160;жизни нужно переболеть. Но&#160;между корью и&#160;сценой существует и&#160;огромная разница: в&#160;то время как&#160;корью переболеешь только раз в&#160;жизни — и&#160;конец, заболевание сценой делается хроническим, неизлечимым.
+</p><p>Более счастливые люди отделываются редкими припадками вроде перемежающейся лихорадки, выступая три-четыре раза в&#160;год на&#160;клубных сценах в&#160;любительских спектаклях; все&#160;же неудачники — люди с&#160;более хрупкими организмами — заболевают прочно и&#160;навсегда.
+</p><p>Три симптома этой тяжелой болезни: 1)&#160;исчезновение растительности на&#160;лице, 2)&#160;маниакальное стремление к&#160;сманиванию чужих жен и 3)&#160;бредовая склонность к&#160;взятию у&#160;окружающих денег без&#160;отдачи.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Гулял я&#160;всю свою жизнь без&#160;забот и&#160;огорчений по&#160;прекрасному белому свету, резвился, как&#160;птичка, и&#160;вдруг однажды будто злокачественным ветром меня прохватило.
+</p><p>Встречаю в&#160;ресторане одну знакомую даму — очень недурную драматическую артистку.
+</p><p>— Что&#160;это, — спрашиваю, — у&#160;вас такое лицо расстроенное?
+</p><p>— Ах, не&#160;поверите! — уныло вздохнула она. — Никак второго любовника не&#160;могу найти…
+</p><p>«Мессалина!» — подумал я&#160;с отвращением. Вслух резко спросил:
+</p><p>— А&#160;разве вам одного мало?
+</p><p>— Конечно, мало. Как&#160;же можно одним любовником обойтись? Послушайте… может, вы на&#160;послезавтра согласитесь взять роль второго любовника?
+</p><p>— Мое сердце занято! — угрюмо пробормотал я.
+</p><p>— При&#160;чем тут ваше сердце?
+</p><p>— При&#160;том, что&#160;я не&#160;могу разбрасываться, как&#160;многие другие, для&#160;которых нравственность…
+</p><p>Она упала локтями и&#160;головой на&#160;стол и&#160;заколыхалась от&#160;душившего ее смеха.
+</p><p>— Сударыня! Если вы способны смеяться над&#160;моим первым благоуханным чувством… над&#160;девушкой, которой вы даже не&#160;знаете, то… то…
+</p><p>— Да&#160;позвольте, — сказала она, утирая выступившие слезы. — Вы когда-нибудь играли на&#160;сцене?
+</p><p>Не кто иной, как&#160;черт, дернул меня развязно сказать:
+</p><p>— Ого! Сколько раз! Я&#160;могу повторять, как&#160;и Савина: «Сцена — моя жизнь».
+</p><p>— Ну?.. Так вы знаете, что&#160;такое на&#160;театральном жаргоне «любовник»?
+</p><p>— Еще&#160;бы! Это такие… которые… Одним словом, любовники. Я&#160;ведь давеча думал, что&#160;вы о&#160;вашей личной жизни говорите…
+</p><p>Она встала с&#160;видом разгневанной королевы:
+</p><p>— Вы нахал! Неужели вы думаете, что&#160;я могу в&#160;личной жизни иметь двух любовников?!..
+</p><p>Это неопределенное возмущение я&#160;понял впоследствии, когда простак сообщил мне, что&#160;у нее на&#160;этом амплуа было и&#160;четыре человека.
+</p><p>— В&#160;наказание за&#160;то, что&#160;вы так плохо обо мне подумали, извольте выручить нас, пока не&#160;приехал Румянцев, — вы сыграете Вязигина в «После крушения» и&#160;Крутобедрова в «Ласточкином гнезде». Вы играли Вязигина?
+</p><p>Ее пренебрежительный тон так задел меня, что&#160;я бодро отвечал:
+</p><p>— Сколько раз!
+</p><p>— Ну и&#160;очень мило. Нынче вечером я&#160;пришлю роль. Репетиция завтра в&#160;одиннадцать.
+</p><p>Очевидно, в&#160;моей душе преобладает женское начало: сначала сделаю, а&#160;потом только подумаю: что&#160;я наделал!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Роль была небольшая, но&#160;привела меня в&#160;полное уныние.
+</p><p>Когда читаешь всю пьесу, то&#160;все обстоит благополучно: знаешь, кто тебе говорит, почему говорит и&#160;что говорит.
+</p><p>А&#160;в&#160;роли эти необходимые элементы отсутствовали.
+</p><p>Никакой дьявол не&#160;может понять такого, например, разговора:
+</p><p>Явление 6
+</p><p>А&#160;р д. В&#160;экипажах и&#160;пешком.
+</p><p>А&#160;княжна Мэри.
+</p><p>А&#160;р д. Этого несчастья.
+</p><p>Спасибо, я&#160;вам очень обязан.
+</p><p>А&#160;р д. Его нужно пить.
+</p><p>Это вы так о&#160;ней выражаетесь…
+</p><p>А&#160;р д. Капризам.
+</p><p>В&#160;таком случае я&#160;способен переступить все границы.
+</p><p>Г р и&#160;б. Две чечетки.
+</p><p>Надо быть во&#160;фраке. Кто эти «Ард.» и «Гриб.»? Родственники мои, враги, старые камердинеры или&#160;светские молодые люди?..
+</p><p>Я&#160;швырнул роль на&#160;стол и, хотя было уже поздно, побежал к&#160;одному своему другу, который отличался тем, что&#160;все знал. Это был человек, у&#160;которого слово «нет» отсутствовало в&#160;лексиконе.
+</p><p>— Ты знаешь, что&#160;нужно, чтобы играть на&#160;сцене?
+</p><p>— Знаю.
+</p><p>— Что&#160;же? Скажи, голубчик!
+</p><p>— Только нахальство! Если ты вооружишься невероятной, нечеловеческой наглостью, то&#160;все сойдет с&#160;рук. Даже, пожалуй, похлопают.
+</p><p>— По&#160;ком? — боязливо спросил я.
+</p><p>— До&#160;тебя не&#160;достанут. Ладошами похлопают. Но&#160;только помни: нахальство, нахальство и&#160;еще раз оно&#160;же.
+</p><p>Ушел я&#160;успокоенный.
+</p><p>На&#160;репетиции я&#160;заметил, что&#160;героем дня был суфлер. К&#160;нему все относились с&#160;тихим обожанием. Простак даже шепнул мне:
+</p><p>— Ах, как&#160;подает! Чудо!
+</p><p>Я&#160;удивленно посмотрел на&#160;суфлера: он&#160;ничего никому не&#160;подавал, просто читал по&#160;тетради. Однако мне не&#160;хотелось уронить себя:
+</p><p>— Это что&#160;за подача! Вот мне в&#160;Рязани подавали — так с&#160;ума сойти можно.
+</p><p>Я&#160;совсем не&#160;знал роли, но&#160;с некоторым облегчением заметил, что&#160;вся труппа в&#160;этом отношении шла со мной нога в&#160;ногу.
+</p><p>Актер, игравший старого графа, прислушался к&#160;словам суфлера и&#160;после монолога о&#160;том, что&#160;его сын проиграл десять тысяч, вдруг кокетливо добавил:
+</p><p>— Ах, я&#160;ни за&#160;что не&#160;выйду замуж!
+</p><p>— Это не&#160;ваши слова, — сонно заметил суфлер.
+</p><p>— Дочка, вы говорите: «Ах, я&#160;ни за&#160;что не&#160;выйду замуж». Дочка рабски повторила это тяжелое решение.
+</p><p>В&#160;путанице и&#160;неразберихе я&#160;был не&#160;особенно заметен, как&#160;незаметен обломок спички в&#160;куче старых окурков.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Побольше нахальства! — сказал я&#160;сам себе, когда парикмахер спросил, какой мне нужен парик.
+</p><p>— Видите&#160;ли… я&#160;вам сейчас объясню… Представьте себе человека избалованного, легкомысленного, но&#160;у которого случаются минуты задумчивости и&#160;недовольства собой, минуты, когда человек будто поднимается и&#160;парит сам над&#160;собой, уносясь в&#160;те небесные глубины…
+</p><p>— Понимаю-с, — сказал парикмахер, тряхнув волосами, — блондинистый городской паричок.
+</p><p>— А? Во-во! Только чтоб он&#160;на глаза не&#160;съехал.
+</p><p>— Помилуйте! А&#160;лак на&#160;что? Да&#160;и&#160;вошьем. «Побольше нахальства!» — сказал я&#160;сам себе, усаживаясь в&#160;вечер спектакля перед&#160;зеркалом гримироваться.
+</p><p>Увы!.. Нахальства было много, а&#160;красок еще больше. И&#160;куда, на&#160;какое место какая краска — я&#160;совершенно не&#160;постигал.
+</p><p>Вздохнул, мужественно нарисовал себе огромные брови, нарумянил щеки — задумался.
+</p><p>Вся гримировальная задача для&#160;новичка состоит только в&#160;том, чтобы сделаться на&#160;себя непохожим.
+</p><p>«Эх! Приклеить&#160;бы&#160;седую бороду — вот&#160;бы&#160;ловко! Пойди-ка тогда, узнай. Но&#160;раз по&#160;смыслу роли нельзя бороды — ограничимся усами».
+</p><p>Усы очень мило выделялись на&#160;багровом фоне щек.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>В&#160;первом акте я&#160;должен выбежать из&#160;боковых дверей в&#160;белом теннисном костюме. Перед&#160;выходом мне сунули в&#160;руку какую-то&#160;плетеную штуку вроде выбивалки для&#160;ковров, но&#160;я решил, что&#160;эта подробность только стеснит мои первые шаги, и&#160;бросил плетенку за&#160;кулисами.
+</p><p>— А&#160;вот и&#160;я! — весело вскричал я, выскочив на&#160;что-то&#160;ослепительно яркое, с&#160;огромной зияющей дырой впереди.
+</p><p>— А, здравствуйте, — пропищала инженю. — Слушайте, тут пчела летает, я&#160;бою-юсь. Дайте вашу ракетку — я&#160;ее убью!..
+</p><p>Я&#160;добросовестно, как&#160;это делалось на&#160;репетициях, протянул ей пустую руку. Она, видимо, растерялась.
+</p><p>— Позвольте… А&#160;где&#160;же ракетка?
+</p><p>— Какая ракетка? (Побольше наглости! Как&#160;можно больше нахальства!) Ракетка? А&#160;я, знаете, нынче именинник, так я&#160;ее зажег. Здорово взлетела. Ну, как&#160;поживаете?
+</p><p>— Сошло! — пробормотал я, после краткого диалога вылетая за&#160;кулисы. — До&#160;седьмого явления можно и&#160;закурить.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Вам выходить! — прошипел помощник режиссера.
+</p><p>— Знаю, не&#160;учите, — солидно возразил я, поглаживая рукой непривычные усы.
+</p><p>И&#160;вдруг… сердце мое похолодело: один плохо приклеенный ус так и&#160;остался между моими пальцами.
+</p><p>— Вам выходить!!!
+</p><p>Я&#160;быстро сорвал другой ус, зажал его в&#160;кулак и&#160;выскочил на&#160;сцену.
+</p><p>Первые мои слова должны быть такие:
+</p><p>— Граф отказал, мамаша.
+</p><p>Я&#160;решил видоизменить эту фразу:
+</p><p>— А&#160;я, мамаша, уже успел побриться. Идет? Не правда&#160;ли, моложе стал?
+</p><p>Усы в&#160;кулаке стесняли меня. Я&#160;положил их на&#160;стол и&#160;сказал:
+</p><p>— Это вам на&#160;память. Вделайте в&#160;медальон. Пусть это утешит вас в&#160;том, что&#160;граф отказал.
+</p><p>— Он&#160;осмелился?! — охнула мать моя, смахнув незаметно мой подарок на&#160;пол. — Где&#160;же совесть после этого?
+</p><p>Сошла и&#160;эта сцена. Я&#160;в&#160;душе поблагодарил своего всезнающего друга.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>В&#160;третьем акте мои первые слова были:
+</p><p>— Он&#160;сейчас идет сюда.
+</p><p>После этого должен был войти старый граф, но&#160;в стройном театральном механизме что-то&#160;испортилось.
+</p><p>Граф не&#160;шел.
+</p><p>Как&#160;я&#160;после узнал, он&#160;в этот момент был занят тем, что&#160;жена била его в&#160;уборной зонтиком за&#160;какую-то&#160;обнаруженную интрижку с&#160;театральной портнихой.
+</p><p>— Он&#160;сейчас придет, мамаша, не&#160;волнуйтесь, — сказал я, спокойно усаживаясь в&#160;кресло.
+</p><p>Мы&#160;подождали. На&#160;сцене секунды кажутся десятками минут.
+</p><p>— Он, уверяю вас, придет сейчас! — заорал я&#160;во все горло, желая дать знать за&#160;кулисы о&#160;беспорядке.
+</p><p>Граф не&#160;шел.
+</p><p>— Что&#160;это, мамаша, вы взволнованы? — спросил я&#160;заботливо. — Я&#160;вам принесу сейчас воды.
+</p><p>Вылетел за&#160;кулисы и&#160;зашипел:
+</p><p>— Где граф, черт его дери?!!
+</p><p>— Ради Бога, — подскочил помощник, — протяните еще минутку: он&#160;приклеивает оторванную бороду.
+</p><p>Я&#160;пожал плечами и&#160;вернулся.
+</p><p>— Нет&#160;воды, — грубо сказал я. — Ну и&#160;водопроводец наш!
+</p><p>Мы&#160;еще посидели…
+</p><p>— Мамаша! — нерешительно сказал я. — Есть&#160;ли&#160;у вас присутствие духа? Я&#160;вам хочу сообщить нечто ужасное…
+</p><p>Она удивленно и&#160;растерянно поглядела на&#160;меня.
+</p><p>— Дело в&#160;том, что&#160;когда я&#160;вышел за&#160;водой, то&#160;мимоходом узнал ужасную новость, мамаша. Автомобиль графа по&#160;дороге наскочил на&#160;трамвай, и&#160;графа принесли в&#160;переднюю с&#160;проломленной головой и&#160;переломанными ногами… Кончается!
+</p><p>Я&#160;уже махнул рукой на&#160;появление графа и&#160;только решил как-нибудь протянуть до&#160;тех пор, пока кто-нибудь догадается спустить занавес.
+</p><p>Мы&#160;помолчали.
+</p><p>— Да… — неопределенно протянул я. — Жизнь не&#160;ждет. Вообще, эти трамваи… Вот я&#160;вам сейчас расскажу историю, как&#160;у меня в&#160;трамвае вытянули часы. История длинная… так минут на&#160;десять, на&#160;пятнадцать, но&#160;ничего. Надо вам сказать, мамаша, что&#160;есть у&#160;меня один приятель — Васька. Живет он&#160;на Рождественской. С&#160;сестрой. Сестра у&#160;него красавица, пышная такая — еще за&#160;нее сватался Григорьев, тот самый, который…
+</p><p>— Вы меня звали, Анна Никаноровна? — вдруг вошел изуродованный мною граф, с&#160;достоинством останавливаясь в&#160;дверях.
+</p><p>— А, граф, — вскочил я. — Ну, как&#160;ваше здоровье? Как&#160;голова?
+</p><p>— Вы меня звали, Анна Никаноровна? — строго повторил граф, игнорируя меня.
+</p><p>— Я&#160;рад, что&#160;вы дешево отделались, — с&#160;удовольствием заметил я.
+</p><p>Он&#160;поглядел на&#160;меня, как&#160;на сумасшедшего, заморгал и&#160;вдруг сказал:
+</p><p>— Простите, Анна Никаноровна, но&#160;я должен сказать вашему сыну два слова.
+</p><p>Он&#160;вытащил меня за&#160;кулисы и&#160;сказал:
+</p><p>— Вы что?!.. Идиот или&#160;помешанный? Почему вы говорите слова, которых нет в&#160;пьесе?
+</p><p>— Потому что&#160;надо выходить вовремя. Я&#160;вас чуть не&#160;похоронил, а&#160;вы лезете. Хоть&#160;бы&#160;голову догадались тряпкой завязать.
+</p><p>— Выходите! — прорычал режиссер.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Могу с&#160;гордостью сказать, что&#160;в этот дебютный день я&#160;покорил всех своей находчивостью.
+</p><p>В&#160;четвертом акте, где героиня на&#160;моих глазах стреляется, она сунула руку в&#160;ящик стола и… не&#160;нашла револьвера.
+</p><p>Она опустила голову на&#160;руки, и&#160;когда я&#160;подошел к&#160;ней утешить ее, она прошептала:
+</p><p>— Нет&#160;револьвера: что&#160;делать?
+</p><p>— Умрите от&#160;разрыва сердца. Я&#160;вам сейчас что-то&#160;сообщу.
+</p><p>Я&#160;отошел от&#160;нее, схватился за&#160;голову и&#160;простонал:
+</p><p>— Лидия! Будьте мужественны! Я&#160;колебался, но&#160;теперь решил сказать все. Знайте&#160;же, что&#160;ваша мать зарезала вашу сестренку и&#160;отравилась сама.
+</p><p>— Ах! — вскрикнула Лидия и, мертвая, шлепнулась на&#160;пол.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Нас вызывали.
+</p><p>Я&#160;же того мнения, что&#160;если мы&#160;и заслужили вызова, то&#160;не перед&#160;занавесом, а&#160;в камере судьи — за&#160;издевательство над&#160;беззащитной публикой.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="НАХОДЧИВОСТЬ_НА_СЦЕНЕ"><span id=".D0.9D.D0.90.D0.A5.D0.9E.D0.94.D0.A7.D0.98.D0.92.D0.9E.D0.A1.D0.A2.D0.AC_.D0.9D.D0.90_.D0.A1.D0.A6.D0.95.D0.9D.D0.95"></span>НАХОДЧИВОСТЬ НА СЦЕНЕ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;action=edit&amp;section=18" title="Редактировать раздел «НАХОДЧИВОСТЬ НА СЦЕНЕ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>О&#160;своих первых шагах на&#160;сцене я&#160;рассказывал в&#160;другом месте. Но&#160;мои последующие шаги должны быть (я&#160;так полагаю) также интересны для&#160;читателя.
+</p><p>Вот один из&#160;таких шагов.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Я&#160;уже три недели, как&#160;играю на&#160;сцене. Вид у&#160;меня импозантный, важный, и&#160;на всех не&#160;играющих на&#160;сцене я&#160;смотрю с&#160;высоты своего величия.
+</p><p>Сидел я&#160;однажды с&#160;актерами в&#160;винном погребке за&#160;бутылкой вина и&#160;шашлыком и&#160;поучал своих старших товарищей, как&#160;нужно толковать роль Хлестакова, не&#160;смущаясь тем, что&#160;задолго до&#160;меня мой коллега Гоголь гораздо тщательнее и&#160;тоньше объяснил актерам эту роль.
+</p><p>Худощавый молодой господин с&#160;белыми волосами и&#160;истощенным вечной насмешкой лицом подошел к&#160;нам и&#160;принялся дружески пожимать руки актерам:
+</p><p>— Здравствуйте, Гаррики! Нас познакомили.
+</p><p>— Вы тоже актер? — снисходительно спросил я.
+</p><p>— Что&#160;вы! — возразил он, оскаливая зубы. — Как&#160;это вы можете по&#160;первому впечатлению так дурно судить о&#160;человеке?! Я&#160;не&#160;актер, но&#160;в вашем деле кое-что&#160;понимаю. Вы давно на&#160;сцене?
+</p><p>Я&#160;погладил свои бритые щеки:
+</p><p>— Порядочно. Завтра будет три недели!
+</p><p>— Ого! Значит, через&#160;восемь дней можно уже и&#160;юбилей праздновать. Хе-хе… Воображаю, как&#160;вы волнуетесь на&#160;сцене!
+</p><p>— Кто — я? Ни&#160;капельки.
+</p><p>— Ну да, знаем мы! Конечно, если роль вызубрили, да&#160;под суфлера идете, да&#160;окружены опытными товарищами — тогда ничего. А&#160;представьте себе — на&#160;сцене какая-нибудь неожиданность, что-нибудь такое, что&#160;не предусмотрено ни&#160;автором, ни&#160;режиссером, — воображаю вашу растерянную физиономию и&#160;трясущиеся колени…
+</p><p>— Ну, — усмехнулся я. — Меня не&#160;легко смутить.
+</p><p>— На&#160;сцене-то? Да&#160;бывают такие случаи, когда и&#160;Варламова с&#160;Давыдовым можно, что&#160;называется, угробить!
+</p><p>— Меня не&#160;угробите.
+</p><p>— Люблю скромных молодых людей! — вскричал он. Потом задумался, искоса на&#160;меня поглядывая. У&#160;меня было такое впечатление, что&#160;я действую ему на&#160;нервы…
+</p><p>— Что&#160;у&#160;вас идет завтра в&#160;театре?
+</p><p>— «Колесо жизни» Рахимова. Сам автор обещал завтра прийти посмотреть, как&#160;я играю Чешихина.
+</p><p>— Ах, вы играете Чешихина? И&#160;вы говорите, что&#160;вас невозможно на&#160;сцене смутить, сбить с&#160;толку?
+</p><p>— Да. По-моему, это гнилая задача.
+</p><p>Он&#160;зловеще улыбнулся, протянул костлявую руку.
+</p><p>— Хотите заклад? На 6 бутылок кахетинского, на 6 шашлыков.
+</p><p>— Не хочу.
+</p><p>— Почему?!
+</p><p>— Мало. По&#160;десяти того и&#160;другого, плюс кофе с&#160;бенедиктином.
+</p><p>— Молодой человек! Вы или&#160;далеко пойдете, или… плохо кончите. Согласен!
+</p><p>Таким образом состоялось это странное пари.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Шел второй акт «Колеса жизни». У&#160;меня только что&#160;кончилась бурная сцена с&#160;любимой девушкой, которая заявила мне, что&#160;любит не&#160;меня, а&#160;другого.
+</p><p>— Кто этот другой? — спросил я&#160;крайне мрачно.
+</p><p>— Это вас не&#160;касается, — гордо ответила она, выходя за&#160;двери.
+</p><p>Свою роль я&#160;хорошо знал. После ухода любимой девушки я&#160;должен схватиться за&#160;голову, поскрежетать зубами, уткнуться головой в&#160;диванную подушку, а&#160;потом вынуть из&#160;кармана револьвер и&#160;приставить к&#160;виску. В&#160;этот момент хозяйка дома, которая тайно любит меня, а&#160;я ее не&#160;люблю, — выбегает, хватает меня за&#160;руку и, рыдая на&#160;моей груди, признается в&#160;своем чувстве… Такие пьесы, скажу по&#160;секрету, играть не&#160;трудно, а&#160;еще легче — писать.
+</p><p>Я&#160;уже схватился за&#160;голову, уже по&#160;авторскому замыслу поскрежетал зубами и&#160;только что&#160;подскочил к&#160;дивану, чтобы «уткнуться головой в&#160;подушку», — как&#160;боковая дверь распахнулась, и&#160;худой молодец с&#160;белыми волосами — тот самый, который взял подряд как&#160;бы то&#160;ни было смутить меня на&#160;сцене, — этот самый парень вышел на&#160;первый план самым непринужденным образом.
+</p><p>С&#160;двух сторон я&#160;услышал два шипения: впереди — суфлера, из&#160;боковой кулисы — помощника режиссера. Из&#160;директорской ложи глянуло на&#160;нас остолбенелое лицо автора.
+</p><p>— Здравствуйте, Чешихин! — - развязно сказал беловолосый, протягивая мне руку. — Не ожидали? Я&#160;на&#160;огонек завернул.
+</p><p>Впереди я&#160;слышал шипенье, сбоку за&#160;кулисой отчаянное проклятие.
+</p><p>— Здравствуй, Вася, — мрачно сказал я. — Только ты сейчас зашел не&#160;вовремя. Мне не&#160;до тебя. Может быть, завернешь в&#160;другой раз, а? Мне нужно быть одному…
+</p><p>— Ну, вот еще глупости! — засмеялся беловолосый нахал, развалившись на&#160;диване. — Посидим, поболтаем.
+</p><p>Публика ничего не&#160;замечала, но&#160;за кулисами зловещий шум все усиливался.
+</p><p>Я&#160;задумчиво прошелся по&#160;сцене.
+</p><p>— Вася! — сказал я&#160;значительно. — Ты знаешь Лидию Николаевну?
+</p><p>Он&#160;покосился на&#160;меня и, незаметно подмигнув, проронил:
+</p><p>— Конечно, знаю. Преаппетитная девчонка.
+</p><p>— А-а! — вскричал я&#160;в неожиданном порыве бешенства. — Так это, значит, ты тот, из-за&#160;которого она отказала мне?! (Суфлерская будка вдруг опустела, но&#160;я от&#160;этого почувствовал себя еще увереннее и&#160;легче.) Ты?! Отвечай, негодяй!
+</p><p>«Вася» поглядел испуганно на&#160;мои сжатые кулаки и&#160;сказал примирительным тоном:
+</p><p>— Бросьте… поговорим о&#160;чем-нибудь другом…
+</p><p>— О&#160;другом?! — заревел я, торжествующе поглядывая на&#160;автора, который метался в&#160;директорской ложе, как&#160;лошадь на&#160;пожаре. — О&#160;другом? Ты меня довел почти до&#160;смерти и&#160;теперь хочешь говорить о&#160;другом?! Отвечай! (Я&#160;бросился на&#160;него, стал ему коленом на&#160;грудь и&#160;стал колотить головой об&#160;спинку дивана.) Отвечай — как&#160;у вас далеко зашло?!
+</p><p>«Вася» побледнел как&#160;смерть и&#160;прошептал:
+</p><p>— Пустите меня, медведь! Вы так задушите! Шуток не&#160;понимаете, что&#160;ли?
+</p><p>— Ты сейчас умрешь! — прорычал я. — Другой раз тебе будет неповадно!
+</p><p>Он&#160;глядел на&#160;меня умоляющими глазами. Потом прошептал:
+</p><p>— Ну, я&#160;проиграл пари, какого черта вам еще нужно? Пустите, я&#160;уйду.
+</p><p>— Смерть тебе! — вскричал я&#160;со злобным торжеством — и&#160;так стукнул его голову о&#160;спинку дивана, что&#160;он крякнул и&#160;свалился на&#160;пол.
+</p><p>— Неужели я&#160;убил его?! — вскричал я, театрально заламывая руки. — Воды, воды этому несчастному!
+</p><p>Я&#160;схватил графин с&#160;водой и&#160;вылил щедрую струю на&#160;корчившееся тело «Васи». Он&#160;испуганно закричал.
+</p><p>— Очнулся! — обрадовался я. — А&#160;теперь иди, несчастный, и&#160;постарайся на&#160;свободе обдумать свое поведение!
+</p><p>Я&#160;взял его в&#160;охапку и&#160;почти вышвырнул в&#160;боковую дверь. Схватился за&#160;голову. Прислушался. По&#160;мягким звукам ударов и&#160;по заглушенным стонам за&#160;кулисами я&#160;понял, что&#160;передал неудачливого Васю в&#160;верные руки.
+</p><p>— Итак, вот кто ее избранник! — вскричал я&#160;страдальчески. — Нет! Лучше смерть, чем такое сознание.
+</p><p>Дальше все пошло как&#160;по маслу: я&#160;вынул револьвер, приставил к&#160;виску, из&#160;средних дверей выбежала любящая женщина, упала на&#160;грудь — одним словом, я&#160;опять стал на&#160;рельсы, с&#160;которых меня попробовали стащить так неудачно.
+</p><p>«Колесо жизни» завертелось: в&#160;будке показался суфлер, в&#160;ложе — успокоенный автор.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>После спектакля мне подали в&#160;уборную записку: «Жрите сегодня ваше вино и&#160;шашлык без&#160;меня. Я&#160;все оплатил. Иду домой сохнуть и&#160;расправляться. Будьте вы прокляты!»
+</p><p>Впервые опубликовано отдельным сборником с&#160;подзаголовком «Новая книга рассказов» — Варшава, Изд. «Добро», 1924&#160;г.
+</p><p><i>Оригинал здесь: <a rel="nofollow" class="external free" href="http://dugward.ru/library/averchenko/averchenko_otdyh_na_krapive.html">http://dugward.ru/library/averchenko/averchenko_otdyh_na_krapive.html</a></i>
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐65fd76f4cc‐hjbjv
+Cached time: 20260217055402
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.129 seconds
+Real time usage: 0.207 seconds
+Preprocessor visited node count: 309/1000000
+Revision size: 172006/2097152 bytes
+Post‐expand include size: 11027/2097152 bytes
+Template argument size: 1151/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 313/5000000 bytes
+Lua time usage: 0.048/10.000 seconds
+Lua memory usage: 2004143/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  142.174      1 -total
+ 93.21%  132.520      1 Шаблон:Отексте
+  4.32%    6.144      1 Шаблон:Right
+  1.38%    1.964     27 Шаблон:***
+  1.14%    1.625      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:997668:|#|:idhash:canonical and timestamp 20260217055402 and revision id 5589388. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Отдых_на_крапиве_(Аверченко)&amp;oldid=5589388">https://ru.wikisource.org/w/index.php?title=Отдых_на_крапиве_(Аверченко)&amp;oldid=5589388</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B0_%D0%B8_%D1%8E%D0%BC%D0%BE%D1%80" title="Категория:Сатира и юмор">Сатира и юмор</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Категория:Аркадий Тимофеевич Аверченко">Аркадий Тимофеевич Аверченко</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1924_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1924 года">Литература 1924 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Импорт/lib.ru/Страницы с внешними ссылками">Импорт/lib.ru/Страницы с внешними ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_100" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_200" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 200">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 200</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_300" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 300">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 300</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE" title="Категория:Импорт/az.lib.ru/Аркадий Тимофеевич Аверченко">Импорт/az.lib.ru/Аркадий Тимофеевич Аверченко</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 31 июля 2025 года в 04:03.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9E%D1%82%D0%B4%D1%8B%D1%85_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5_(%D0%90%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%BA%D0%BE)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Отдых на крапиве (Аверченко)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-9qrx2","wgBackendResponseTime":139,"wgPageParseReport":{"limitreport":{"cputime":"0.129","walltime":"0.207","ppvisitednodes":{"value":309,"limit":1000000},"revisionsize":{"value":172006,"limit":2097152},"postexpandincludesize":{"value":11027,"limit":2097152},"templateargumentsize":{"value":1151,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":313,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  142.174      1 -total"," 93.21%  132.520      1 Шаблон:Отексте","  4.32%    6.144      1 Шаблон:Right","  1.38%    1.964     27 Шаблон:***","  1.14%    1.625      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.048","limit":"10.000"},"limitreport-memusage":{"value":2004143,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Аркадий Тимофеевич Аверченко\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"''Сборник рассказов.''\u003Cbr\u003E\\\nПочему?.\u003Cbr\u003EВенгерский язык.\u003Cbr\u003EЖенщина и негр.\u003Cbr\u003EМой дядя.\u003Cbr\u003EРассказчики.\u003Cbr\u003EТри случая.\u003Cbr\u003EВыходец с того света.\u003Cbr\u003EИстория одного актера.\u003Cbr\u003EОсвежающий душу разговор.\u003Cbr\u003EБокс в Турции и в Европе.\u003Cbr\u003EФилателисты.\u003Cbr\u003EЗимний вечер в детской.\u003Cbr\u003EМой первый дебют.\u003Cbr\u003EНаходчивость на сцене.\",\n    [\"published\"] = \"1924\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/a/awerchenko_a_t/text_1924_otdyh_na_krapive.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Отдых на крапиве\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-65fd76f4cc-hjbjv","timestamp":"20260217055402","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

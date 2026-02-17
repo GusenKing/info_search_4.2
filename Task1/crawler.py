@@ -95,7 +95,6 @@ class WebCrawler:
                 new_urls = set()
                 for url in urls_to_crawl:
                     if url not in self.visited and page_number < self.max_pages:
-                        page_number += 1
                         links, content = self.process_page(url, depth)
                         if not content:
                             continue
@@ -105,6 +104,7 @@ class WebCrawler:
                         filename = utils.url_to_filename(decoded_url)
                         with open(os.path.join(folder_dir, filename), "w", encoding="utf-8") as file:
                             file.write(content)
+                        page_number += 1
 
                         index[page_number] = decoded_url
                         new_urls.update(links)

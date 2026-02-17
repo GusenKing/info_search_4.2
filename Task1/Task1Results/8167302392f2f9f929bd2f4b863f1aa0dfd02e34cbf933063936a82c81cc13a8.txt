@@ -1,0 +1,1764 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Встречи с Лиз (Добычин) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"02549667-83dd-4915-b5af-329d781082b9","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Встречи_с_Лиз_(Добычин)","wgTitle":"Встречи с Лиз (Добычин)","wgCurRevisionId":5582578,"wgRevisionId":5582578,"wgArticleId":1030503,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Страницы с внутренними ссылками по анкорам","Импорт/lib.ru/Страницы с внешними ссылками","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100","Импорт/lib.ru","Импорт/az.lib.ru/Леонид Иванович Добычин","Проза","Сборники рассказов","Леонид Иванович Добычин","Литература 1926 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Встречи_с_Лиз_(Добычин)","wgRelevantArticleId":1030503,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5582578,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Встречи с Лиз (Добычин) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Встречи_с_Лиз_Добычин rootpage-Встречи_с_Лиз_Добычин skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8+%D1%81+%D0%9B%D0%B8%D0%B7+%28%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8+%D1%81+%D0%9B%D0%B8%D0%B7+%28%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8+%D1%81+%D0%9B%D0%B8%D0%B7+%28%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8+%D1%81+%D0%9B%D0%B8%D0%B7+%28%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-КОЗЛОВА"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#КОЗЛОВА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>КОЗЛОВА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-КОЗЛОВА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-1"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#1">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>1</span>
+			</div>
+		</a>
+		
+		<ul id="toc-1-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-2"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#2">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>2</span>
+			</div>
+		</a>
+		
+		<ul id="toc-2-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-3"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#3">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>3</span>
+			</div>
+		</a>
+		
+		<ul id="toc-3-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-4"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#4">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>4</span>
+			</div>
+		</a>
+		
+		<ul id="toc-4-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ВСТРЕЧИ_С_ЛИЗ"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#ВСТРЕЧИ_С_ЛИЗ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>ВСТРЕЧИ С ЛИЗ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ВСТРЕЧИ_С_ЛИЗ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-1_2"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#1_2">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>1</span>
+			</div>
+		</a>
+		
+		<ul id="toc-1_2-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-2_2"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#2_2">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>2</span>
+			</div>
+		</a>
+		
+		<ul id="toc-2_2-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-3_2"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#3_2">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>3</span>
+			</div>
+		</a>
+		
+		<ul id="toc-3_2-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-4_2"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#4_2">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>4</span>
+			</div>
+		</a>
+		
+		<ul id="toc-4_2-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ЕРЫГИН"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#ЕРЫГИН">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">11</span>
+				<span>ЕРЫГИН</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ЕРЫГИН-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-1_3"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#1_3">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">12</span>
+				<span>1</span>
+			</div>
+		</a>
+		
+		<ul id="toc-1_3-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-2_3"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#2_3">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">13</span>
+				<span>2</span>
+			</div>
+		</a>
+		
+		<ul id="toc-2_3-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-3_3"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#3_3">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">14</span>
+				<span>3</span>
+			</div>
+		</a>
+		
+		<ul id="toc-3_3-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-4_3"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#4_3">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">15</span>
+				<span>4</span>
+			</div>
+		</a>
+		
+		<ul id="toc-4_3-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-САВКИНА"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#САВКИНА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">16</span>
+				<span>САВКИНА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-САВКИНА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-1_4"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#1_4">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">17</span>
+				<span>1</span>
+			</div>
+		</a>
+		
+		<ul id="toc-1_4-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-2_4"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#2_4">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">18</span>
+				<span>2</span>
+			</div>
+		</a>
+		
+		<ul id="toc-2_4-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-3_4"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#3_4">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">19</span>
+				<span>3</span>
+			</div>
+		</a>
+		
+		<ul id="toc-3_4-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-4_4"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#4_4">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">20</span>
+				<span>4</span>
+			</div>
+		</a>
+		
+		<ul id="toc-4_4-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ЛИДИЯ"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#ЛИДИЯ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">21</span>
+				<span>ЛИДИЯ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ЛИДИЯ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-1_5"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#1_5">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">22</span>
+				<span>1</span>
+			</div>
+		</a>
+		
+		<ul id="toc-1_5-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-2_5"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#2_5">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">23</span>
+				<span>2</span>
+			</div>
+		</a>
+		
+		<ul id="toc-2_5-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-3_5"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#3_5">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">24</span>
+				<span>3</span>
+			</div>
+		</a>
+		
+		<ul id="toc-3_5-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-СОРОКИНА"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#СОРОКИНА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">25</span>
+				<span>СОРОКИНА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-СОРОКИНА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-1_6"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#1_6">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">26</span>
+				<span>1</span>
+			</div>
+		</a>
+		
+		<ul id="toc-1_6-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-2_6"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#2_6">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">27</span>
+				<span>2</span>
+			</div>
+		</a>
+		
+		<ul id="toc-2_6-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-3_6"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#3_6">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">28</span>
+				<span>3</span>
+			</div>
+		</a>
+		
+		<ul id="toc-3_6-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-СИДЕЛКА"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#СИДЕЛКА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">29</span>
+				<span>СИДЕЛКА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-СИДЕЛКА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ЛЕШКА"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#ЛЕШКА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">30</span>
+				<span>ЛЕШКА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ЛЕШКА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-КОНОПАТЧИКОВА"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#КОНОПАТЧИКОВА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">31</span>
+				<span>КОНОПАТЧИКОВА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-КОНОПАТЧИКОВА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-1_7"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#1_7">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">32</span>
+				<span>1</span>
+			</div>
+		</a>
+		
+		<ul id="toc-1_7-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-2_7"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#2_7">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">33</span>
+				<span>2</span>
+			</div>
+		</a>
+		
+		<ul id="toc-2_7-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-3_7"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#3_7">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">34</span>
+				<span>3</span>
+			</div>
+		</a>
+		
+		<ul id="toc-3_7-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-4_5"
+		class="vector-toc-list-item vector-toc-level-1">
+		<a class="vector-toc-link" href="#4_5">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">35</span>
+				<span>4</span>
+			</div>
+		</a>
+		
+		<ul id="toc-4_5-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Встречи с Лиз (Добычин)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8+%D1%81+%D0%9B%D0%B8%D0%B7+%28%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;oldid=5582578" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_%28%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD%29&amp;id=5582578&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2592%25D1%2581%25D1%2582%25D1%2580%25D0%25B5%25D1%2587%25D0%25B8_%25D1%2581_%25D0%259B%25D0%25B8%25D0%25B7_%28%25D0%2594%25D0%25BE%25D0%25B1%25D1%258B%25D1%2587%25D0%25B8%25D0%25BD%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2592%25D1%2581%25D1%2582%25D1%2580%25D0%25B5%25D1%2587%25D0%25B8_%25D1%2581_%25D0%259B%25D0%25B8%25D0%25B7_%28%25D0%2594%25D0%25BE%25D0%25B1%25D1%258B%25D1%2587%25D0%25B8%25D0%25BD%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_%28%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_%28%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_%28%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_%28%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_%28%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_%28%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Встречи с Лиз</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD" title="Автор:Леонид Иванович Добычин">Леонид Иванович Добычин</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1926</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/d/dobychin_l_i/text_0010.shtml">az.lib.ru</a></span>  • <i>Сборник рассказов:</i> <br />
+Козлова <br />Встречи с&#160;Лиз <br />Ерыгин <br />Савкина <br />Лидия <br />Сорокина <br />Сиделка <br />Лешка <br />Конопатчикова</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD" title="Автор:Леонид Иванович Добычин">Леонид Иванович Добычин</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<center>ВСТРЕЧИ С&#160;ЛИЗ</center>
+<p>Оригинал здесь: <a rel="nofollow" class="external text" href="http://noskoff.lib.ru/adoby010.html">Файлы Андрея Носкова и&#160;Н.Колпия</a>
+</p><p><i><b>Содержание:</b></i>
+</p><p><a href="#1">КОЗЛОВА</a>
+</p><p><a href="#2">ВСТРЕЧИ С&#160;ЛИЗ</a>
+</p><p><a href="#3">ЕРЫГИН</a>
+</p><p><a href="#4">САВКИНА</a>
+</p><p><a href="#5">ЛИДИЯ</a>
+</p><p><a href="#6">СОРОКИНА</a>
+</p><p><a href="#7">СИДЕЛКА</a>
+</p><p><a href="#8">ЛЕШКА</a>
+</p><p><a href="#9">КОНОПАТЧИКОВА</a>
+</p><p><span id="1"></span>
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="КОЗЛОВА"><span id=".D0.9A.D0.9E.D0.97.D0.9B.D0.9E.D0.92.D0.90"></span>КОЗЛОВА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=1" title="Редактировать раздел «КОЗЛОВА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="1">1</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=2" title="Редактировать раздел «1»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Электричество горело в&#160;трех паникадилах. Сорок восемь советских служащих пели на&#160;клиросе. Приезжий проповедник предсказал, что&#160;скоро воскреснет бог и&#160;расточатся враги его.
+</p><p>Козлова приложилась и, растирая на&#160;лбу масло, протолкалась к&#160;выходу. Через&#160;площадь еле продралась: пускали ракеты, толкались, что-то&#160;выкрикивали, жгли картонного бога-отца с&#160;головой в&#160;треугольнике, музыка играла «Интернационал».
+</p><p>— Мерзавцы, — шептала Козлова, — гонители… — Снег скрипел под&#160;ногами. Примасленные полозьями места жирно блестели. Над&#160;школой Карла Либкнехта и&#160;Розы Люксембург стояла маленькая зеленоватая луна. Козлова вздохнула: здесь мосье Пуэнкарэ учил по-французски.
+</p><p>Она пошла тише. В&#160;памяти встали приятные картины дружбы с&#160;мосье.
+</p><p>Вот — чай. Мосье рассказывает о&#160;лурдской богородице. Авдотья отворяет дверь и&#160;подсматривает. Козлова показывает на&#160;нее глазами. — Приветливая женщина, — говорит мосье. Потом он&#160;берется за&#160;шляпу, Козлова встает, и&#160;они отражаются в&#160;зеркале: он, аккуратненький, седенький, раскланивается, она — прямая, в&#160;длинном платье, пальцы левой руки в&#160;пальцах правой, тонкий нос немного наискось, на&#160;узких губах — старомодная улыбка. — Приходите, мосье…
+</p><p>А&#160;вот — в&#160;кинематографе. Играют на&#160;скрипке. Мосье завтра едет. С&#160;тоненького деревца в&#160;зеленой кадке медленно падают листья. — Как&#160;грустно, мосье… — Девица в&#160;красной вязаной кофте отдергивает занавеску и&#160;впускает. По&#160;сторонам холста висят Ленин и&#160;Троцкий… Бьет посуду и&#160;ломает мебель комическая теща, красуются швейцарские озера и&#160;мелькают шесть частей роскошной драмы: Клотильда отравилась, Жанна выбросилась из&#160;окна, а&#160;Шарль медленно отплывает на&#160;пароходе «Республика», и&#160;ему начинает казаться, что&#160;все случившееся было только сном.
+</p><p>— Так и&#160;вы, мосье, забудьте нас, как&#160;сон.
+</p><p>— О, мадмуазель!
+</p><p>Обратный путь полон излияний. В&#160;прекрасной Франции мосье будет думать о&#160;ней. Он&#160;будет следить за&#160;политикой.
+</p><p>«Кого&#160;же и&#160;назвать Сивиллой нашего времени, если не&#160;мадам де-Тэб», — напишет он, когда можно будет ждать чего-нибудь такого…
+</p>
+<div class="mw-heading mw-heading3"><h3 id="2">2</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=3" title="Редактировать раздел «2»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Вечера Козлова просиживала на&#160;лежанке — штопала белье или&#160;читала приложения к «Ниве». Вторник был женский день — ходили с&#160;Авдотьей в&#160;баню, орали дети, гремели тазы, толстобрюхие бабы с&#160;распущенными волосами, дымясь, хлестали себя вениками. В&#160;воскресенье брали по&#160;корзине и&#160;отправлялись на&#160;базар. — Гражданка, гражданочка, — высовываясь из&#160;будок, зазывали торговки, — барышня или&#160;дамочка!
+</p><p>Иногда приходила Суслова, и&#160;долго пили чай; хозяйка — чинная, с&#160;любезной улыбкой, гостья — растрепанная, толстая, с&#160;локтями на&#160;столе и&#160;шумными вздохами. Говорили о&#160;тяжелой жизни и&#160;о старом времени. Авдотья слушала, стоя в&#160;дверях.
+</p><p>— В&#160;Петербурге я&#160;кого-то&#160;видела, — рассказывала круглощекая Суслова, задумчиво уставившись на&#160;чашки (одна была с&#160;Зимним дворцом, другая — с&#160;адмиралтейством). — Не знаю, может быть, саму императрицу: иду мимо дворца, вдруг подъезжает карета, выскакивает дама и — порх в&#160;подъезд.
+</p><p>— Может быть, экономка с&#160;покупками, — отвечала Козлова.
+</p><p>Зима прошла. Первого мая Козлова выстирала две кофты и&#160;полдюжины платков: пусть выкусят. В&#160;открытые окна прилетали звуки оркестров.
+</p><p>Из&#160;монастыря принесли икону святого Кукши. Ходили встречать. Возвращались взволнованные. — Мерзавцы, гонители…
+</p><p>— Господи, когда избавимся?.. Мусью не&#160;пишет?
+</p><p>Потом взошла луна, и&#160;души смягчились… В&#160;соборе трезвонили. В&#160;саду «Красный Октябрь» играли вальс. Встретили Демещенку, Гаращенку и&#160;Калегаеву, задумчивых, с&#160;черемуховыми ветками.
+</p><p>Остановились над&#160;рекой и&#160;поглядели на&#160;лунную полосу и&#160;лодку с&#160;балалайкой:
+</p><p>— Венеция, — прошептала Козлова. — «Венеция э Наполи», — ответила Суслова и, помолчав, сказала тихо и&#160;мечтательно: — Когда горел кооператив, загорелись духи, и&#160;так хорошо пахло…
+</p><p>Под&#160;утро около кровати кто-то&#160;кашлянул. Козлова повернулась и&#160;увидела святого Кукшу — в&#160;синей епитрахили, как&#160;на иконе. Он&#160;подал ей хартию, и&#160;она прочла, что&#160;там было написано: «Кого&#160;же и&#160;назвать Сивиллой нашего времени, если не&#160;мадам де-Тэб».
+</p><p>Проснулась в&#160;волнении и&#160;пораньше вышла, чтобы перед&#160;канцелярией забежать в&#160;собор. Дверь была заперта. Козлова толкнула калитку и&#160;села подождать в&#160;саду.
+</p><p>Столб с&#160;преображением и&#160;зеленым куполом стоял над&#160;кленами. Таяли рыхлые облака телесного цвета, и&#160;через них местами сквозило синее. Скрипнула дверь, епископ вышел из&#160;сторожки — простоволосый, с&#160;ведром помоев. Постоял, считая удары часов на&#160;каланче, и&#160;опрокинул свое ведро под&#160;столб с&#160;преображением.
+</p><p>«Недолго мучиться», — радостно думала Козлова, смотря ему вслед.
+</p><p>Обедала поспешно — хотела сходить к&#160;Сусловой, но, встав из-за&#160;стола, разомлела и&#160;едва добралась до&#160;кровати. Проснувшись, к&#160;Сусловой поленилась. Отправила Авдотью встречать корову и&#160;пошла на&#160;огород. Солнце садилось, и&#160;закат был простенький: одна полоска — красноватая и&#160;одна зеленоватая.
+</p><p>Козлова была любительница поливать. — Когда поливаешь — говорила она, — душа отдыхает и&#160;погружается в&#160;сладостное состояние.
+</p><p>Лила двенадцатую лейку, и&#160;луна блестела в&#160;быстро исчезавших лужицах. Загремел оркестр. Козлова бросилась к&#160;воротам.
+</p><p>Чихнула от&#160;пыли. Дымные огни развевались на&#160;факелах. Отсвечивались в&#160;медных трубах. Керзон болтался на&#160;виселице. Свет пробегал по&#160;лицам маршировщиков.
+</p><p>— Ать, два! Левой! Да&#160;здравствует коммунистическая партия! Ура!
+</p><p>Разинув рот, маршировала Суслова. Из&#160;темноты прибежала Авдотья: — Англия воюет.
+</p><p>Пред киотами зажгли лампадки и&#160;при двух лампах пили настоящий чай. Воняло керосином и&#160;копотью. С&#160;светлым лицом Козлова достала из&#160;лекарственного шкафа баночку малины. — Пасха, — наслаждалась Авдотья. Ругали дурищу Суслову.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="3">3</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=4" title="Редактировать раздел «3»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Сидели на&#160;сверхурочных. Кусались мухи. Гудел большой колокол, дребезжа, подпевали стекла.
+</p><p>Демещенко согнулась над&#160;столом и&#160;выцарапывала: — Товарищ Ленин.
+</p><p>Гаращенко и&#160;Калегаева, развалившись на&#160;стульях, грызли подсолнухи и&#160;глазели на&#160;новую.
+</p><p>— Завтра — Иоанна-воина, — сказала новая, франтоватая старушка с&#160;красными щеками. — Когда вы с&#160;кем-нибудь поссоритесь, молитесь Иоанну-воину. Я&#160;всегда так делаю, и&#160;знаете — ее забрали и&#160;присудили на&#160;три года.
+</p><p>«Хорошая женщина, — подумала Козлова, — религиозная… Сутыркина, кажется».
+</p><p>Перенесла свои бумаги и&#160;чернильницу к&#160;Сутыркиной: — Вы где живете?
+</p><p>Вышли вместе: Козлова — степенная, в&#160;синем газовом шарфе с&#160;расплывчатыми желтыми кругами, Сутыркина — вертлявая, в&#160;старой соломенной шляпе с&#160;перьями.
+</p><p>У&#160;калиток ломались перед&#160;девицами кавалеры. Мальчишки горланили «Смело мы&#160;в бой пойдем».
+</p><p>Оседала поднятая за&#160;день пыль. Торчали обломки деревьев, посаженных в «день леса». Тянуло дохлятиной.
+</p><p>— Свое холщовое пальто, — говорила Сутыркина, — я&#160;получила от&#160;союза финкотруд. В&#160;девятнадцатом году я&#160;у них караулила сад. Жила в&#160;шалаше. Приходили знакомые, и, скажу, не&#160;хвастаясь, мы&#160;проводили вечера, полные поэзии.
+</p><p>Козлова слушала с&#160;таким лицом, как&#160;будто у&#160;нее во&#160;рту была конфета: полные поэзии вечера!
+</p><p>— Вы говорите, в&#160;девятнадцатом году, — сказала она любезным и&#160;приятным голосом. — Помните, все тогда ахали — того&#160;бы&#160;я съела, этого&#160;бы&#160;съела. А&#160;у&#160;меня была одна мечта: напиться хорошего кофе с&#160;куличиком.
+</p><p>Они&#160;подружились. Часто пили друг у&#160;друга чай и, когда не&#160;было дождя, прохаживались за&#160;город. Разговаривали о&#160;начальстве, об&#160;обновлениях икон, вспоминали прежние моды.
+</p><p>— Вы не&#160;были на&#160;губернской олимпиаде? — спрашивала иногда Сутыркина, — почти совсем голые! Фу, какое неприличие. — И, улыбаясь, долго молчала и&#160;глядела вдаль.
+</p><p>Раз или&#160;два встретили Суслову, и&#160;она останавливалась, и, обернувшись, смотрела на&#160;них, пока не&#160;исчезнут из&#160;вида…
+</p><p>В&#160;зеркальных крестах горело солнце. Ярко желтелись клены. Рябины с&#160;красными кистями напомнили Козловой земляничные букетики. Она остановилась, наклонила набок голову и, держа левую руку в&#160;правой, картинно любовалась.
+</p><p>Нагнала Сутыркина: — Недурная погода. С&#160;удовольствием&#160;бы&#160;съездила на&#160;выставку. Очень хорош, говорят, Ленин из&#160;цветов. Козлова поджала губы. — Знаете, — с&#160;достоинством сказала ей Сутыркина, — я&#160;всегда соображаюсь с&#160;веянием времени. Теперь такое веяние, чтобы ездить на&#160;выставку — пополнять свои сельскохозяйственные знания.
+</p><p>Дождь стучал по&#160;стеклам. За&#160;окнами качались черные сучья. В&#160;канцелярии было темно. Демещенко, Гаращенко и&#160;Калегаева зевали и&#160;подолгу стояли у&#160;печки. Сутыркина читала газету.
+</p><p>— Вот два интересных объявления.
+</p><p>Все на&#160;нее взглянули, она встала и&#160;прокашлялась. Одно было от&#160;Харина — к&#160;седьмому ноября у&#160;него огромный выбор хлебных и&#160;кондитерских изделий. Другое — от&#160;епископа: седьмого ноября во&#160;всех церквах будет торжественная служба и&#160;благодарственный молебен. — Понимаете, какое теперь веяние?
+</p>
+<div class="mw-heading mw-heading3"><h3 id="4">4</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=5" title="Редактировать раздел «4»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Козлова сидела на&#160;теплой лежанке и&#160;читала приложения к «Ниве». Авдотья мела пол. Пахло мышами от&#160;приложений и&#160;полынью от&#160;полынного веника.
+</p><p>Александра Николаевна вышла за&#160;Петра Ивановича — стоя под&#160;венцом, они&#160;блистали красотой. А&#160;Алексей Егорыч приходил к&#160;ним каждый праздник и, сидя после сытного обеда в&#160;удобном кресле, от&#160;времени до&#160;времени испускал глубокий вздох.
+</p><p>Козлова закрыла глаза и&#160;несколько минут наслаждалась этим приятным концом. Потом достала четыре булавки из&#160;деревянной коробочки с&#160;лиловыми фиалками и&#160;подколола юбку. Она сама нарисовала эти фиалки, когда была молоденькой…
+</p><p>Надела валенки, вязаную шапку, кофту и&#160;пошла пройтись.
+</p><p>Подскочила Суслова — красная, в&#160;большом платке, с&#160;петухом под&#160;мышкой.
+</p><p>— Ну, как? — бормотала она. — Давно не&#160;встречались… Тяжело жить. Вот, купила петуха — на&#160;два раза. При&#160;такой-то&#160;семье… Мусью не&#160;пишет?
+</p><p>Козлова взяла ее за&#160;руки. — Приходите в&#160;половине шестого.
+</p><p>По&#160;дороге скакали светлоглазые галки. Низко висели тучи. Иногда пролетали снежинки.
+</p><p>Посмеиваясь приятным мыслям, Козлова бродила по&#160;улицам. Зашла на&#160;кладбище с&#160;похожими на&#160;умывальники памятниками и, улыбаясь, поклонилась родительским могилам…
+</p><p>Из&#160;ворот был виден монастырь святого Кукши — тоненькие церковки, пузатые башни. Вспомнились: красно-коричневый дворец, желтое адмиралтейство…
+</p><p>Сегодня вечером чувствительная Суслова заглядится на&#160;чашки, притихнет, задумается и&#160;расскажет, как&#160;видела императрицу. Уютно, как&#160;в романе из «Приложений», будет шуметь самовар, от&#160;лампы будет домовито попахивать керосином. — Вы меня, кажется, встречали с&#160;этой женщиной, — скажет Козлова. — Настоящей дружбы у&#160;нас с&#160;ней не&#160;было.
+</p><p>На&#160;столбах зажглось электричество — желтые пятнышки под&#160;серыми тучами. Два воза дров въехали в&#160;ворота школы Карла Либкнехта и&#160;Розы Люксембург… Здесь учил мосье Пуэнкарэ.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r5158936">.mw-parser-output .align-right{text-align:right}.mw-parser-output div.align-right{margin-top:0;margin-right:0;margin-bottom:0;margin-left:auto}.mw-parser-output span.align-right{display:inline-block;width:100%}</style><div class="align-right"><i>1923</i></div>
+<p><span id="2"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ВСТРЕЧИ_С_ЛИЗ"><span id=".D0.92.D0.A1.D0.A2.D0.A0.D0.95.D0.A7.D0.98_.D0.A1_.D0.9B.D0.98.D0.97"></span>ВСТРЕЧИ С&#160;ЛИЗ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=6" title="Редактировать раздел «ВСТРЕЧИ С ЛИЗ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="1_2">1</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=7" title="Редактировать раздел «1»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Шевеля на&#160;ходу плечами, высоко подняв голову, с&#160;победоносной улыбкой на&#160;лиловом от&#160;пудры лице, Лиз Курицына свернула с&#160;улицы Германской Революции на&#160;улицу Третьего Интернационала.
+</p><p>С&#160;каждым шагом поворачивая туловище то&#160;направо, то&#160;налево, она размахивала, как&#160;кадилом, плетеным веревочным мешком, в&#160;который был втиснут голубой таз с&#160;желтыми цветами.
+</p><p>Кукин повернулся через&#160;левое плечо и&#160;молодцевато шел за&#160;ней до&#160;бани. Там она остановилась, повертелась, торжествующе взглянула направо и&#160;налево и&#160;вспорхнула на&#160;крыльцо.
+</p><p>Дверь хлопнула. Торговки, сидя на&#160;котелках с&#160;горячими углями, предложили Кукину моченых яблок. Не взглянув на&#160;них, он, радостный, спустился на&#160;реку.
+</p><p>«Пожалуй, — мечтал он, — уже разделась. Ах, черт возьми!»
+</p><p>Ледяная корка на&#160;снегу блестела на&#160;вечернем солнце. Погоняя лошадей, мужики ехали с&#160;базара. Вереницами шли бабы с&#160;связками непроданных лаптей и&#160;перед прорубью ложились на&#160;брюхо и, свесив голову, сосали воду:
+</p><p>— Животные, — злорадствовал Кукин. Когда он&#160;шел обратно через&#160;сад, луна была высоко, и&#160;под перепутанными ветвями яблонь лежали на&#160;снегу тоненькие тени.
+</p><p>«Через&#160;три месяца здесь будет бело от&#160;осыпавшихся лепестков», — подумал Кукин, и&#160;ему представились захватывающие сцены между ним и&#160;Лиз, расположившимися на&#160;белых лепестках.
+</p><p>Он&#160;посмеялся шуткам молодых людей, которые подзывали извозчиков и&#160;говорили «проезжай мимо», и&#160;в приятном настроении повернул в&#160;свой переулок.
+</p><p>Клуб штрафного батальона был парадно освещен, внутри гремела музыка, на&#160;украшенной еловыми ветвями двери висело объявление: труппа батальона ставит две пьесы — «Теща в&#160;дом — все вверх дном» и&#160;антирелигиозную.
+</p><p>Чайник был уже на&#160;самоваре. Мать сидела за&#160;Евангелием.
+</p><p>— Я&#160;исповедовалась.
+</p><p>Кукин сделал благочестивое лицо, и&#160;под тиканье часов «ле руа а&#160;Пари» стали пить чашку за&#160;чашкой — седенькая мать в&#160;ситцевом платье и&#160;ее сын в&#160;парусиновой рубахе с&#160;черным галстучком, долговязый, тощий, причесанный ежиком.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="2_2">2</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=8" title="Редактировать раздел «2»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В&#160;канцелярию приковыляла хромоногая Рива Голубушкина и&#160;велела идти к&#160;Фишкиной — графить бумагу.
+</p><p>— Читали газету? — спросила она, подняв брови: — Есть статья Фишкиной: «&#160;Не злоупотребляйте портретами вождей». — И, откинув голову, она выкатила груди.
+</p><p>Было холодно. В&#160;открытое окно дул мокрый ветер. Рива усердно переписывала. Кукин, стоя, разлиновывал.
+</p><p>Фишкина, приблизив темное лицо к&#160;его руке, смотрела, и&#160;ее черная прическа прикоснулась к&#160;его бесцветным волосам. Тогда она встряхнулась и&#160;отошла к&#160;окну.
+</p><p>Стояла, вглядываясь в&#160;тучи, коротенькая, черная, прямая и&#160;презрительная. Потом негромко высморкалась и, повернувшись к&#160;комнате, сказала:
+</p><p>— Товарищ Кукин.
+</p><p>Приотворилась дверь, и&#160;кто-то&#160;заглянул. Она надела желтую телячью куртку и&#160;ушла.
+</p><p>— Вы ей понравились, — выкатывая груди, поздравляла Рива и&#160;таинственно оглядывалась. — Старайтесь к&#160;ней подъехать: она вас будет продвигать. Жаль только, что&#160;нас с&#160;ней переводят. Но&#160;ничего, я&#160;вам буду устраивать встречи.
+</p><p>— Возможно, — радовался Кукин. — В&#160;конце концов, я&#160;не против низших классов. Я&#160;готов сочувствовать. — И&#160;ликуя, он&#160;насвистывал «Вставай, проклятьем».
+</p><p>Красные и&#160;синие шары метались по&#160;ветру над&#160;бородатым разносчиком. На&#160;углах голосили калеки. От&#160;дома к&#160;дому ходила старуха в&#160;черной кофте:
+</p><p>Подайте милостыньку, Христа ради,
+</p><p>Что&#160;милость ваша&#160;—
+</p><p>Кормилица наша,
+</p><p>Глухой больной старушке.
+</p><p>У&#160;ворот с&#160;четырьмя повалившимися в&#160;разные стороны зелеными жестяными вазами Кукин положил руку на&#160;сердце: здесь живет и&#160;томится в&#160;компрессах Лиз. У&#160;нее нарывы на&#160;спине — в&#160;газете было напечатано ее письмо, озаглавленное «Наши бани».
+</p><p>В&#160;библиотеке висели плакаты: «Туберкулез! Болезнь трудящихся!» — «Долой домашние! Очаги!»
+</p><p>— Что-нибудь революционное, — попросил Кукин.
+</p><p>Девица с&#160;желтыми кудряшками заскакала по&#160;лесенкам.
+</p><p>— Сейчас нет. Возьмите из&#160;другого. «Мерседес де-Кастилья», сочинения Писемского…
+</p><p>Ах, черт возьми? а&#160;он уже видел себя с&#160;теми книжками — встречается Фишкина: — Что&#160;это у&#160;вас? Да? — значит, вы сочувствуете!
+</p><p>Мать сидела на&#160;диване с&#160;гостьей — Золотухиной, поджарой, в&#160;гипюровом воротнике, заколотом серебряной розой.
+</p><p>— Не слышно, скоро переменится режим? — томно спросила Золотухина, протягивая руку.
+</p><p>— Перемены не&#160;предвидится, — строго ответил Кукин. — И&#160;знаете, многие были против, а&#160;теперь, наоборот, сочувствуют.
+</p><p>Покончив с&#160;учтивостями, старухи продолжали свой разговор.
+</p><p>— Где хороша весна, — вздохнула Золотухина, — так это в&#160;Петербурге: снег еще не&#160;стаял, а&#160;на тротуарах уже продают цветы. Я&#160;одевалась у&#160;де-Ноткиной. «Моды де-Ноткиной»… Ну, а&#160;вы, молодой человек: вспоминаете столицу? Студенческие годы? Самое ведь это хорошее время, веселое… Она зажмурилась и&#160;покрутила головой.
+</p><p>— Еще&#160;бы, — сказал Кукин. — Культурная жизнь… — И&#160;ему приятно взгрустнулось, он&#160;замечтался над&#160;супом: — Играет музыкальный шкаф, студенты задумались и&#160;заедают пиво моченым горохом с&#160;солью… О, Петербург'
+</p>
+<div class="mw-heading mw-heading3"><h3 id="3_2">3</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=9" title="Редактировать раздел «3»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Идемте, идемте, — звала Золотухина. — Долой Румынию.
+</p><p>Кукина отнекивалась, показывала свои дырявые подметки…
+</p><p>Ходили долго. Развевались флаги и, опадая, задевали по&#160;нос:
+</p><p>Эх, вы, буржуи,
+</p><p>Эх, вы, нахалы.
+</p><p>Луна белелась расплывчатым пятнышком. В&#160;четырехугольные просветы колоколен сквозило небо. Шевелились верхушки деревьев с&#160;набухшими почками.
+</p><p>— Вот, все развалится, — вздыхала Кукина, качая головой на&#160;покосившиеся и&#160;подпертые бревнами домишки, — где тогда жить?
+</p><p>Фишкина презрительно посматривала направо и&#160;налево: — Фу, сколько обывательщины!
+</p><p>Ковыляя впереди, оглядывалась на&#160;Кукина и&#160;кивала Рива и, пожимая плечами, отворачивалась: он&#160;ее не&#160;видел. Перед&#160;ним, размахивая под&#160;музыку руками, маршировала и&#160;вертела поясницей Лиз. Когда переставали трубы, Кукин слышал, как&#160;она щебетала со своей соседкой:
+</p><p>— В&#160;губсоюз принимают исключительно по&#160;протекции…
+</p><p>В&#160;канцелярию пришел мальчишка:
+</p><p>«Не теряйте времени, — прислала Рива записку и&#160;билет в&#160;сад Карла Маркса и&#160;Фридриха Энгельса. — Подъезжайте к&#160;Фишкиной. Она вас продвинет. Вы не&#160;читали „Сад пыток“? — чудная вещь».
+</p><p>— Лиз, — сказал Кукин, — я&#160;вам буду верен…
+</p><p>— Плохи стали мои ноги, — жаловалась мать. — Сделала студень и&#160;оладьи, хотела отнести владыке, но, право, не&#160;могу. Попрошу бабку Александриху, а&#160;ты будь любезен, Жорж, присмотри за&#160;ней издали.
+</p><p>— Сейчас, — сказал Кукин и, дочитав «Бланманже», закрыл переложенную тесемками и&#160;засушенными цветками книгу.
+</p><p>— Ах, — вздохнул он, — не&#160;вернется прежнее.
+</p><p>Штрафные, ползая на&#160;корточках, выводили мелкими кирпичиками на&#160;насыпанной вдоль батальона песочной полоске: «Пролетарии всех стран, соединяйтесь».
+</p><p>Лиз лиловая, с&#160;лиловым зонтиком, с&#160;желтой лентой в&#160;выкрашенных перекисью водорода волосах, смотрела.
+</p><p>Кукин остановился и&#160;обдергивал рубашку. Лиз засмеялась, покачнулась, сорвалась с&#160;места и&#160;отправилась.
+</p><p>За&#160;ней&#160;бы? — но&#160;нельзя было оставить без&#160;присмотра Александриху.
+</p><p>Возвращались вместе — Александриха в&#160;холщовом жилете и&#160;полосатом фартуке и&#160;унылый Кукин в&#160;парусиновой рубашке с&#160;черным галстучком — и&#160;белесым отражением мелькали в&#160;черных окошках.
+</p><p>— Утром дух бывает очень вольный, — рассказывала Александриха… Бегали мальчишки и&#160;девчонки. Хозяйки выходили встречать коров. В&#160;лоске скамеек отсвечивалась краснота заката.
+</p><p>Запахло пудрой: на&#160;крыльце у&#160;святого Евпла толпилась свадьба — какое предзнаменование!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="4_2">4</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=10" title="Редактировать раздел «4»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В&#160;воде расплывчато, как&#160;пейзаж на&#160;диванной подушке, зеленелась гора с&#160;церквами.
+</p><p>Солнце жарило подставленные ему спины и&#160;животы.
+</p><p>— Трудящиеся всех стран, — мечтательно говорил Кукину кассир со станции, — ждут своего освобождения. Посмотрите, пожалуйста, достаточно покраснело у&#160;меня между лопатками? Шурка Гусев, мокрый, запыхавшийся, с&#160;блестящими
+</p><p>глазами прибежал по&#160;берегу и&#160;схватил штаны:
+</p><p>— Девка утонула!
+</p><p>Толпились мужики, оставив на&#160;дороге свои возы с&#160;дровами, бабы в&#160;армяках и&#160;розовых юбках — с&#160;ворохами лаптей за&#160;спиной, купальщицы — застегивали пуговицы.
+</p><p>— Вот ее одежда, — таинственно показывала мать Ривы Голубушкиной, кругленькая, в&#160;гладком черном парике с&#160;пробором. — Знаете ее обыкновение: повертеть хвостом перед&#160;мужчинами. Заплыла за&#160;поворот, чтобы мужчины видели.
+</p><p>«Почему вы к&#160;ней не&#160;подъезжаете? — писала Рива. — Я&#160;опять пришлю билет. Будьте обязательно. Есть вокальный номер:
+</p><p>Деньги у&#160;кого,
+</p><p>Сад наш посещает,
+</p><p>А&#160;без&#160;денег кто&#160;—
+</p><p>В&#160;щелки подглядает.
+</p><p>После него сейчас&#160;же подойдите: — Что&#160;за&#160;обывательщина! Я&#160;удивляюсь; никакого марксистского подхода!»
+</p><p>Пыльный луч пролезал между ставнями. Ели кисель и, потные, отмахиваясь, ругали мух. Тихо прилетел звук маленького колокола, звук большого — у&#160;святого Евпла зазвонили к&#160;похоронам.
+</p><p>Бросились к&#160;окнам, посрывали на&#160;пол цветочные горшки, убрали ставни.
+</p><p>— Курицыну, — объявила Золотухина, по&#160;пояс высунувшись наружу.
+</p><p>Кукина перекрестилась и&#160;схватилась за&#160;нос: — Фу!
+</p><p>— Чего&#160;же вы хотите в&#160;этакое пекло, — заступилась Золотухина. — А&#160;мне ее душевно жаль.
+</p><p>— Конечно, — сказал Кукин, — девушка с&#160;образованием…
+</p><p>После чаю вышли на&#160;крыльцо. Штрафные пели «Интернационал».
+</p><p>Блеснула на&#160;гипюровом воротнике серебряная роза.
+</p><p>— В&#160;ротах, — встрепенулась Золотухина, — в&#160;этот час солдаты поют «Отче наш» и «Боже, царя». А&#160;перед&#160;казармой — клумбочки, анютины глазки… Я&#160;люблю эту церковь, — показала она на&#160;желтого Евпла с&#160;белыми столбиками, — она напоминает петербургские.
+</p><p>Все повернули головы. По&#160;улице, презрительно поглядывая, черненькая, крепенькая, в&#160;короткой чесунчовой юбке и&#160;голубой кофте с&#160;белыми полосками, шла Фишкина.
+</p><p>— Интересная особа, — сказала Кукина. Жорж поправил свой галстучек.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>1924</i></div>
+<p><span id="3"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ЕРЫГИН"><span id=".D0.95.D0.A0.D0.AB.D0.93.D0.98.D0.9D"></span>ЕРЫГИН</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=11" title="Редактировать раздел «ЕРЫГИН»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="1_3">1</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=12" title="Редактировать раздел «1»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Ерыгин, лежа на&#160;боку, сгибал и&#160;вытягивал ногу. Ее волоса чертили песок.
+</p><p>Затрещал барабан. Пионеры с&#160;пятью флагами возвращались из&#160;леса. Ерыгин поленился снова идти в&#160;воду и&#160;стер с&#160;себя песчинки ладонями.
+</p><p>По&#160;лугу бегали мальчишки без&#160;курток и&#160;швыряли ногами мяч.
+</p><p>«Физкультура, — подумал Ерыгин, — залог здоровья трудящихся». Базар был большой. Стояла вонища. Китайцы показывали фокусы. На&#160;будках висели метрические таблицы.
+</p><p>— Подайте, граждане, кто сколько может, ежели возможность ваша будет.
+</p><p>Ерыгин прошелся по&#160;рядам — не&#160;торгует&#160;ли&#160;кто-нибудь из&#160;безработных.
+</p><p>Перед&#160;лимонадной будкой толпились: товарищ Генералов, мордастый, в&#160;новеньком синем костюме с&#160;четырьмя значками на&#160;лацкане, его жена Фаня Яковлевна и&#160;маленькая дочь Красная Пресня. Наслаждались погодой и&#160;пили лимонад. Ерыгин поклонился.
+</p><p>По&#160;заросшей ромашками улице медленно брели епископ в&#160;парусиновом халате и&#160;бархатной шапочке и&#160;Кукуиха с&#160;парчовой кофтой на&#160;руке:
+</p><p>— Клеопатра — русское имя?
+</p><p>— Да.
+</p><p>— А&#160;Виктория?
+</p><p>Пообедав, Ерыгин свернул махорочную папиросу и&#160;уселся за&#160;газету. Видный германский промышленник г.&#160;Вурст изумлен состоянием наших музеев. — Вот вам и&#160;варвары!
+</p><p>В&#160;дверях остановилась мать. — Так как&#160;же на&#160;бухгалтерские? — Ее бумазейное платье с&#160;боков было до&#160;полу, а&#160;спереди, приподнятое животом, — короче. — Бухгалтера прекрасно зарабатывают.
+</p><p>Ерыгин подпоясался, взял ведра. На&#160;него смотрела из&#160;окна Любовь Ивановна. В&#160;кисейной кофте, она одной рукой ощупывала закрученный над&#160;лбом волосяной окоп, другою с&#160;грацией вертела пион.
+</p><p>Против колодца, прищурившись, глядела крохотными глазками белогрудая кассирша Коровина в&#160;голубом капоте.
+</p><p>— Я&#160;извиняюсь, — сказала она. — Не знаете, откуда эта музыка?
+</p><p>— Возвращаются со смычки с&#160;Красной Армией, — ответил Ерыгин и&#160;пошел улыбаясь: вот, если&#160;бы&#160;поставить ведра, а&#160;самому — шасть к&#160;ней в&#160;окно.
+</p><p>Вечером Любовь Ивановна играла на&#160;рояле. Наигравшись, стала у&#160;окошка, смотрела в&#160;темноту, вздыхала и&#160;потрагивала голову — не&#160;развился&#160;ли&#160;окоп.
+</p><p>На&#160;комодике поблескивали вазы; розовый рог изобилия в&#160;золотой руке, голубой — в&#160;серебряной. Мать штопала. Ерыгин переписывал:
+</p><p>Белые бандиты заперли начдива Виноградова в&#160;сарай. Настя Голубцова, не&#160;теряя времени, сбегала за&#160;Красной Армией. Бандитов расстреляли. Начдив уехал, а&#160;Настя выкинула из&#160;избы иконы и&#160;записалась в&#160;РКП(б).
+</p>
+<div class="mw-heading mw-heading3"><h3 id="2_3">2</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=13" title="Редактировать раздел «2»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Стояли с&#160;флагами перед&#160;станцией. Солнце грело. Иностранцы вылезли из&#160;поезда и&#160;говорили речи. Мадмазель Вунш, в&#160;истасканном белом фетре набекрень, слабеньким голоском переводила.
+</p><p>Они&#160;проезжали через&#160;разные страны и&#160;нигде не&#160;видели такой свободы. — Ура! — играла музыка, торжествовали и, гордясь отечеством, смотрели друг на&#160;друга.
+</p><p>— Совьет репёблик!
+</p><p>— Реакшьон фашишт!
+</p><p>Возбужденные, вернулись. Разошлись по&#160;канцеляриям. Товарищ Генералов сел в&#160;кабинет с&#160;кушеткой и&#160;Двенадцатью Произведениями Мировой Живописи, Ерыгин — за&#160;решетку. Захаров и&#160;Вахрамеев подскочили расспрашивать. Здоровенные, коротконогие, в&#160;полосатых нитяных фуфайках. Они, черт побери, проспали. Впустили безработных…
+</p><p>Небо побледнело. Загремела музыка. Любовь Ивановна зажгла лампу, подвила окоп и&#160;приколола к&#160;кофте резеду.
+</p><p>Ерыгин взял с&#160;комода зеркальце, поднес к&#160;окну и&#160;посмотрелся: белая рубашка с&#160;открытым воротом была к&#160;лицу.
+</p><p>Девицы выходили из&#160;калиток и&#160;спешили со своими кавалерами: торопились в&#160;сквер — в&#160;пользу наводнения.
+</p><p>— Под&#160;руководством коммунистической партии поможем трудящимся красного Ленинграда!
+</p><p>Ленинград! Ревет сирена, завоняло дымом, с&#160;парохода спускаются пузатые промышленники и&#160;идут в&#160;музей. Их обгоняют дюжие матросы — бегут на&#160;митинги. В&#160;окно каюты выглянула дама в&#160;голубом…
+</p><p>— Да&#160;здравствуют вожди ленинградского пролетариата! — Взревели трубы, полетели в&#160;черноту ракеты, загорелись бенгальские огни.
+</p><p>Осветилась круглоплечая Коровина, ухмыляющаяся, набеленная, с&#160;свиными глазками, и&#160;с ней — кассир Едрёнкин.
+</p><p>Из&#160;дворов несло кислятиной. За&#160;лугами, где станция, толпились огни и&#160;разбредались. Без&#160;грохота обогнала телега, блестя шипами.
+</p><p>Ерыгин отворил калитку. Над&#160;сараями плыла луна, наполовину светлая, наполовину черная, как&#160;пароходное окно, полузадернутое черной занавеской.
+</p><p>— Ты? — удивилась мать. — Скоро!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="3_3">3</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=14" title="Редактировать раздел «3»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Настя» будет напечатана. Пишите"…
+</p><p>У&#160;крыльца Любовь Ивановны соскочил верховой. Кинулись к&#160;окнам. Она, сияющая, выбежала. Лошадь привязывали к&#160;палисаднику. Ерыгин приятно задумался. Вспомнил строку из&#160;баллады. — Кинематограф, — посмеялась мать и&#160;засучила рукава — мыть тарелки.
+</p><p>Золотой шарик на&#160;зеленом куполе клуба «Октябрь» блестел. Низ штанов облепили колючие травяные семена. Милиционер с&#160;зелеными и&#160;красными петлицами стоял у&#160;парикмахерской. Ему в&#160;глаза томно смотрела восковая дама.
+</p><p>Придерживая рукой под&#160;брюхом, на&#160;мост прискакали косматый Захаров и&#160;гладкий, как&#160;паленый поросенок, Вахрамеев. Ерыгин пощупал их мускулы. Закурили махорку.
+</p><p>— Мы&#160;поступили на&#160;бухгалтерские.
+</p><p>— Нет, — сказал Ерыгин, — у&#160;меня в&#160;голове другое.
+</p><p>Он&#160;пошел. Они&#160;взобрались на&#160;перила и&#160;спрыгнули.
+</p><p>Мадмазель Вунш, скрючившись, сидела под&#160;ракитами. В&#160;шляпе набекрень, она была похожа на&#160;разбойника. Ерыгин сделал подкозырек. Мадмазель Вунш не&#160;видела: уставившись подслеповатыми глазами на&#160;светлый запад, она мечтала.
+</p><p>За&#160;лугами проходили поезда и&#160;сыпали искрами. Стемнело. Сделалось мокро. Ерыгин измучился: ничего из&#160;жизни Красной Армии или&#160;ответственных работников не&#160;приходило в&#160;голову.
+</p><p>Шагает рота, красная, с&#160;узелками и&#160;вениками, хочет квасу…
+</p><p>Расскандалился безработный, лезет к&#160;товарищу Генералову. А&#160;у&#160;него на&#160;кушетке Фаня Яковлевна с&#160;Красной Пресней — принесли котлету. — Товарищ, прошу оставить этот кабинет…
+</p><p>А&#160;постороннее, чего не&#160;нужно, вертелось:
+</p><p>Мадмазель Вунш, еще молоденькая, слабеньким голоском диктует: «Немцы — звери». — На&#160;столе клеенка «Трехсотлетие»: толстенькие императорши, в&#160;медалях, с&#160;голыми плечами и&#160;с улыбками… — До&#160;свиданья. — Бродит лошадь. Бородатые солдаты молча плетутся на&#160;войну. У&#160;дороги стоит барыня — сует солдатам мармелад. Последние три штучки отдает Ерыгину…
+</p><p>На&#160;каланче прозвонили одиннадцать. Из-за&#160;крыш вылезла луна — красная, тусклая, кривая. Ерыгин стучался домой мрачный. Любовь Ивановна в&#160;ночной кофте, с&#160;бумажками в&#160;волосах, высунулась из&#160;окна и&#160;смотрела: к&#160;кому?
+</p>
+<div class="mw-heading mw-heading3"><h3 id="4_3">4</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=15" title="Редактировать раздел «4»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Перед&#160;столовой «Нарпит» воняло капустой, и, поглядывая поверх очков, прохаживался около своего ящика панорамщик. Здесь Ерыгин замедлял шаги и, повернув голову, смотрел в&#160;окно. Видны были тарелки с&#160;хлебом и&#160;горчичницы. В&#160;глубине клевала носом плечистая кассирша. — Бельгийский город Льеж посмотрите? — подкрадывался панорамщик. Ерыгин встряхивался и&#160;бежал на&#160;бухгалтерские. Будет много получать, придет пить пиво…
+</p><p>Глина раскисла. У&#160;Фани Яковлевны засосало калошу. Безработные не&#160;приходили. Ерыгин с&#160;Захаровым и&#160;Вахрамеевым сдвигали табуретки и&#160;болтали. Сблизив головы, смотрели, как&#160;Захаров рисует Германию под&#160;пятой плана Дауэса: дождь, плавают утки, рабочие с&#160;бритыми головами таскают камни, надсмотрщики щелкают коровьими кнутами, из-под&#160;зонтика выглядывают социал-предатели, потирают руки и&#160;хихикают
+</p><p>К&#160;праздникам подмерзло. Выпал снег. Седьмого и&#160;восьмого веселились. Выбралась и&#160;мать в&#160;клуб «Октябрь». Возвращаясь, плевалась.
+</p><p>Висели тучи. С&#160;канцелярии убирали транспаранты и&#160;гирлянды из&#160;крашеных бумажек: — Империалистические хищники, терзающие Китай? Прочь грязно-кровавые руки от&#160;великого угнетенного народа.
+</p><p>За&#160;рекой было бело — с&#160;черными кустиками. Сзади звонили. Навстречу мужики гнали коров. По&#160;брошенным вместо мостика конским костям Ерыгин перешел через&#160;ручей.
+</p><p>Тащились с&#160;сеном. Тоненькие стебельки свисали и&#160;чертили снег… Что-то&#160;припомнилось. Барабанный треск, песок, тонко исчерченный… По&#160;зеленой улице с&#160;серыми тропинками разгуливают архиерей и&#160;нэпманша — затевают контрреволюцию. Интеллигентка Гадова играет на&#160;рояле. Товарищ Ленинградов, ответственный работник, влюбляется. Ездит к&#160;Гадовой на&#160;вороном коне, слушает трели и&#160;пьет чай. Зовет ее в&#160;РКП(б), она — ни&#160;да, ни&#160;нет. В&#160;чем дело? Вот Гадова выходит кормить кур. Товарищ Ленинградов заглядывает в&#160;ящики и&#160;открывает заговор. Мужественно преодолевает он&#160;свою любовь. Губернская курортная комиссия посылает его в&#160;Крым. Суд приговаривает заговорщиков к&#160;высшей мере наказания и&#160;ходатайствует о&#160;ее замене строгой изоляцией: Советская власть не&#160;мстит.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>1924</i></div>
+<p><span id="4"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="САВКИНА"><span id=".D0.A1.D0.90.D0.92.D0.9A.D0.98.D0.9D.D0.90"></span>САВКИНА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=16" title="Редактировать раздел «САВКИНА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="1_4">1</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=17" title="Редактировать раздел «1»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Савкина, потряхивая круглыми щеками, взглядывала на&#160;исписанную красными чернилами бумагу и&#160;тыкала пальцем в&#160;буквы машинки.
+</p><p>Дунуло воздухом. — Двери! Двери! — закричали конторщики. Вошел кавалер — щупленький, кудрявый, беленький…
+</p><p>Солнце грело затылок. Гремели телеги. Гуляли чванные богачки Фрумкина и&#160;Фрадкина. Морковникова, затененная бутылками, смотрела из&#160;киоска.
+</p><p>Блестя трубами, играли похоронный марш. Несли венки из&#160;сосновых ветвей и&#160;черные флаги. На&#160;дорогах с&#160;занавесками везли в&#160;красном гробу Олимпию Кукель.
+</p><p>Савкина пригладила ладонями бока и, пристроившись к&#160;рядам, промаршировала несколько кварталов.
+</p><p>Повздыхала. Как&#160;недавно сидели за&#160;сараями. День кончался. Толклись мошки. — Все так прилично одеты, — уверяла Олимпия и&#160;таращила глаза. — У&#160;некоторых приколоты розы… Ах, родина, родина!..
+</p><p>Мать, красная, стояла у&#160;плиты. Павлушенька, наклонившись над&#160;тазом, мыл руки: обдернутая назад короткая рубашка торчала из-под&#160;пояса, как&#160;заячий хвостик.
+</p><p>Накрыли стол. — Не очень налегайте на&#160;пироги, — предупредила мать и&#160;пригорюнилась: — Бедная Олимпия. Без&#160;звона, без&#160;отпевания.
+</p><p>Разделавшись с&#160;посудой, Савкина припудрилась, взяла тетрадь и, втирая в&#160;руки глицерин, вышла за&#160;сараи почитать стишки. Кукель в&#160;синем фартуке доил корову.
+</p><p>— Обижаются, что&#160;без ксендза, — пожаловался он. — А&#160;когда я — партейный.
+</p><p>На&#160;обложке тетради был Гоголь с&#160;черными усиками:
+</p><p>«Чудень ДнЪпръ при&#160;тихой погодЪ». Появилась маленькая белая звезда. Савкина, мечтательная, встала и&#160;пошла к&#160;воротам.
+</p><p>У&#160;Кукеля шумели поминальщики. Где-то&#160;наигрывали на&#160;трубе. Павлушенька, с&#160;побледневшим лицом и&#160;мокрыми волосами, вернулся с&#160;купанья. Покусывая семечки, пришел Коля Евреинов. Воротник его короткой белой с&#160;голубым рубашки был расстегнут, черные суконные штаны от&#160;колен расширялись и&#160;внизу были как&#160;юбки.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="2_4">2</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=18" title="Редактировать раздел «2»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>На&#160;полу лежали солнечные четрырехугольники с&#160;тенями фикусовых листьев и&#160;легкими тенями кружевных гардин. Савкина заваривала чай. Павлушенька брился.
+</p><p>Мать, в&#160;коричевом капоте с&#160;желтыми цветочками, чесала волосы.
+</p><p>— Зашла&#160;бы&#160;ты, Нюшенька, в&#160;ихний костел, — сказала она, — и&#160;поставила&#160;бы&#160;свечку.
+</p><p>В&#160;маленьком бревенчатом костеле было темно и&#160;холодно. Свечного ящика не&#160;оказалось. Низенький ксендз Валюкенас сделал перед&#160;алтарем последний реверанс и&#160;отправился за&#160;перегородку. Вздохнув, поднялась и&#160;прошла мимо Савкиной Марья Ивановна Бабкина, француженка, — в&#160;соломенной шляпе с&#160;желтым атласом и&#160;черной юбке на&#160;кокетке, обшитой лентами.
+</p><p>Несло гарью. Сор шуршал по&#160;булыжникам. В&#160;канцелярии висел портрет Михайловой, которая выиграла сто тысяч. Воняло табачищем и&#160;кислятиной. Стенная газета «Красный Луч» продергивала тов.&#160;Самохвалову: оказывается, у&#160;ее дяди была лавка…
+</p><p>Оглядывая друг друга, расхаживали по&#160;залу. Мимоходом взглядывали в&#160;зеркало. Савкина, в&#160;лиловой кофте пузырем, смеялась и&#160;шмыгала глазами по&#160;толпе. Коля Евреинов наклонял к&#160;ней бритую голову. Его воротник был расстегнут, под&#160;ключицами чернелись волоски!
+</p><p>— Буржуазно одета, — показывал он. — Ах, чтоб ее!..
+</p><p>На&#160;живописных берегах толпились виллы. Пароходы встретились: мисс Май и&#160;клобмэн Байбл стояли на&#160;палубах… И&#160;вот, мисс Май все опротивело. Ее не&#160;радовали выгодные предложения. Жизнь ее не&#160;веселила. По&#160;временам она откидывала голову и&#160;протягивала руки к&#160;пароходу, проплывавшему в&#160;ее мечтах. Вдруг из&#160;автомобиля выскочил Байбл — в&#160;охотничьем костюме и&#160;тирольской шляпе.
+</p><p>Савкина была взволнованна. Ей будто показали ее судьбу…
+</p><p>Лаяли собаки. Капала роса. Морковникова в&#160;киоске, освещенная свечой, дремала.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="3_4">3</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=19" title="Редактировать раздел «3»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>После обеда Савкиной приснился кавалер. Лица было не&#160;разобрать, но&#160;Савкина его узнала. Он&#160;задумчиво бродил между могилами и&#160;вертел в&#160;руках маленькую шляпу.
+</p><p>Окна флигеля были раскрыты и&#160;забрызганы известью: Кукель переехал в&#160;Зарецкую, к&#160;новой жене.
+</p><p>На&#160;деревьях зеленели яблоки. Небо было серенькое. золотые купола — белесые. Гуляльщики галдели. Фрида Белосток и&#160;Берта Виноград щеголяли модами и&#160;грацией.
+</p><p>На&#160;мосту сидели рыболовы. В&#160;темной воде отражались зеленоватые задворки. Купались два верзилы — и&#160;не горланили.
+</p><p>Савкина вошла в&#160;воротца. Пахло хвоей. На&#160;крестах висели медные иконки. Попадались надписи в&#160;стихах. За&#160;кустами мелькнул желтый атлас Марьи-Иванниной шляпы и&#160;румянец ксендза Валюкенаса.
+</p><p>Дома — пили чай. Сидела гостья.
+</p><p>— Наука доказала, — хвастался Павлушенька, — что&#160;бога нет.
+</p><p>— Допустим, — возражала гостья и, полузакрыв глаза, глядела в&#160;его круглое лицо. — Но&#160;как&#160;вы объясните, например, такое выражение: мир божий?
+</p><p>Расправляя юбки, Савкина уселась. Налила на&#160;блюдечко.
+</p><p>— Опять я&#160;их встретила.
+</p><p>— Не собирается&#160;ли&#160;в католичество? — мечтательно предположила гостья улыбаясь.
+</p><p>— Проще, — сказал Павлушенька и&#160;рукой. Мать, улыбаясь, погрозила ему пальцем. Посмеялись.
+</p><p>— Съешьте плюшечку, — усердствовала мать, — американская мука вообразите, что&#160;вы — в&#160;Америке!
+</p><p>Савкина грустила над&#160;стишками. Павлушенька пришел с&#160;купанья озабоченный и, сдвинув скатерть, сел писать корреспонденцию про&#160;Бабкину: «Наробраз, обрати внимание».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="4_4">4</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=20" title="Редактировать раздел «4»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Савкина, растрепанная, валялась на&#160;траве. Била комаров. Сорвала с&#160;куста маленькую розу и&#160;нюхала. Она устала — задержали переписывать о&#160;поднесении знамени.
+</p><p>Приятно улыбаясь, из&#160;калитки вышла с&#160;башмаком в&#160;руке новая жилица и&#160;пошла к&#160;сапожнику… Мимо палисадника прошел отец Иван.
+</p><p>— Роза, Роза, — вбежал в&#160;дом Павлушенька. — Где моя газета с&#160;статьей про&#160;Бабкину? — Запыхавшись, высунулся из&#160;окна. — Нюшка, где газета? Мы&#160;с&#160;ним подружились. Как&#160;я&#160;рад. Он&#160;разведенный. Платит десять рублей на&#160;ребенка… — Этот, — говорит, — пень, давайте выкопаем и&#160;расколем на&#160;дрова.
+</p><p>Деря глотку, проехал мороженщик. Пришел Коля Евреинов в&#160;тюбетейке: у&#160;калитки обдернул рубашку и&#160;прокашлялся.
+</p><p>— Идите за&#160;сарай, — сказала мать в&#160;комнате. — Он&#160;там с&#160;сыном новой жилицы: подружились.
+</p><p>Вопили и&#160;носились туда и&#160;назад Федька, Гаранька, Дуняшка, Агашка и&#160;Клавушка. Собачонка Казбек хватала их за&#160;полы. Мать в&#160;доме зашаркала туфлями. Загремела самоварная труба. — Иди, зови к&#160;чаю.
+</p><p>Всех коммунаров,
+</p><p>— пели за&#160;сараями,&#160;—
+</p><p>Он&#160;сам привлекал
+</p><p>К&#160;жестокой, мучительной казни.
+</p><p>Сидели обнявшись и&#160;медленно раскачивались. Савкина остановилась: третий был тот, щупленький.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>1924</i></div>
+<p><span id="5"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ЛИДИЯ"><span id=".D0.9B.D0.98.D0.94.D0.98.D0.AF"></span>ЛИДИЯ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=21" title="Редактировать раздел «ЛИДИЯ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="1_5">1</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=22" title="Редактировать раздел «1»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>На&#160;руке висела корзинка с&#160;покупками. Одеколон «Вуайаж» Зайцева вынула и&#160;любовалась картинкой: путешественники едут в&#160;санях. Внюхивалась. Правой рукой подносила к&#160;губам с&#160;белыми усиками на&#160;пятиалтынный мороженого.
+</p><p>Лейся, песнь моя,
+</p><p>Пионерска-я!
+</p><p>Коренастенький, с&#160;засученными рукавами, с&#160;пушком на&#160;щеках, шагал сбоку и, смотря на&#160;ноги марширующих, солидно покрикивал:
+</p><p>— Левой?
+</p><p>— Это кто ж такой? — спросила Зайцева.
+</p><p>— Вожатый, — пискнула белобрысая девчонка с&#160;наволокой и, взглянув на&#160;Зайцеву, распялила наволоку над&#160;головой и&#160;поскакала против ветра. У&#160;запертой калитки дожидался Петька.
+</p><p>— Здравствуйте, — сказал он. — Утонул солдат.
+</p><p>Уселись за&#160;стол под&#160;грушей. Петька отвечал уроки. Зайцева рассеянно смотрела за&#160;забор.
+</p><p>Выкрутасами белелись облака. На&#160;горке, похожее на&#160;бронированный автомобиль, стояло низенькое серое Успенье с&#160;плоским куполом.
+</p><p>— Рай был прекрасный сад на&#160;востоке.
+</p><p>Прекрасный сад!..
+</p><p>После обеда муж читал газету. — Каковы китайцы, — восхищался он. Напился чаю и&#160;лег спать.
+</p><p>Пришла Дудкина в&#160;синем платье. Сидели под&#160;грушей. У&#160;ворот заблеяла коза.
+</p><p>Оживились. Почесали у&#160;нее между рогами, и&#160;она, довольная, полузакрыла желтые глаза с&#160;белыми ресницами.
+</p><p>— Водили к&#160;козлику? — интересовалась Дудкина.
+</p><p>Успенье стало черным на&#160;бесцветно-светлом небе. Выплыла луна.
+</p><p>— Я&#160;пробовала все ликеры, — сказала Дудкина задумчиво. — У&#160;Селезнева, на&#160;его обедах для&#160;учителей.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="2_5">2</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=23" title="Редактировать раздел «2»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Зайцева, в&#160;кисейном платье с&#160;синими букетиками, оттопыривала локти, чтобы ветер освежал вспотевшие бока. Коротенькая Дудкина еле поспевала. Муж пыхтел сзади.
+</p><p>Свистуниха, в&#160;беленьком платочке, выскочила из&#160;ворот. Смотрела на&#160;дорогу.
+</p><p>— Принимаю икону, — похвалилась она.
+</p><p>— А&#160;мы — к&#160;утопленнику, — крикнул муж.
+</p><p>Остановились у&#160;кинематографа: были вывешены деникинские зверства. Из&#160;земли торчали головы закопанных. К&#160;дереву привязывали девицу…
+</p><p>Перед&#160;приютом, вскрикивая за&#160;картами, сидели дефективные.
+</p><p>— Дом Зуева, — вздохнула Дудкина. — Здесь была крокетная площадка. Цвел табак…
+</p><p>Прошли казарму, красную, с&#160;желтым вокруг окон. Взявшись за&#160;руки, прогуливались по&#160;двое и&#160;по трое солдаты.
+</p><p>Над&#160;водоворотом толклись зрители. Играли на&#160;гитаре. Часовой зевал.
+</p><p>Зайцевы поковыряли кочку — нет&#160;ли&#160;муравьев. Муж развернул еду.
+</p><p>Молодые люди в&#160;золотых ермолках, расстегивая пуговицы, соскочили к&#160;речке.
+</p><p>— Нырни, — веселились они, — и&#160;скажи: под .лавкой
+</p><p>Смеялись: — Пока ты нырял, мы&#160;спросили, где тебя сделали.
+</p><p>Дудкина прищурилась. Муж щелкнул пальцами: — Эх, молодость?
+</p><p>— «Левой!» — замечталась Зайцева.
+</p><p>Возвращаясь, поболтали о&#160;политике.
+</p><p>— Отовсюду&#160;бы&#160;их, — кипятился муж.
+</p><p>— Нет, я — за&#160;образованные нации, — не&#160;соглашалась Дудкина.
+</p><p>Встретились со Свистунихой. Она управилась с&#160;иконой и&#160;спешила, пока светло, к&#160;утопленнику.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="3_5">3</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=24" title="Редактировать раздел «3»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Муж пришел насупленный. Из&#160;канцелярии он&#160;ходил купаться, в&#160;переулочке увидел на&#160;заборе клок черной афиши с&#160;желтой чашей: голосуйте за&#160;партию с-р. Вспомнил старое, растрогался… После обеда — повеселел.
+</p><p>— Утопленник, — рассказывал он&#160;новость. — выплыл.
+</p><p>Зайцева купила кнопок. Бил фонтанчик, и&#160;краснелись низенькие бегонии и&#160;герани перед&#160;статуей товарища Фигатнера.
+</p><p>Потемнело. С&#160;дерева сорвало ветку. Полетела пыль.
+</p><p>«Закусочная всех холодных закусок», — прочла Зайцева над&#160;дверью. Вскочила.
+</p><p>— Я&#160;мыла голову, — уныло улыбаясь, сказала толстая хозяйка с&#160;распущенными волосами. — Откупорила квас. У&#160;меня печник: вчера поставила драчёну — получился сплошной закал.
+</p><p>На&#160;столе была ладонь с&#160;окурками. Две розы без&#160;ножек плавали в&#160;блюдечке.
+</p><p>Вбежала мокрая девица и, косясь внутрь комнаты, толстенькими пальцами отдирала от&#160;грудей прилипавшую кофту.
+</p><p>— Радуга! — Девица выскочила. Вышли с&#160;хозяйкой на&#160;крыльцо.
+</p><p>Вожатый, коренастенький, без&#160;пояса, босиком, размахивая хворостиной, выпроваживал на&#160;улицу козла.
+</p><p>— Ихний? — просияла Зайцева.
+</p><p>Туча убегала. Кричали воробьи. Мальчишки высыпали на&#160;дорогу, маршировали:
+</p><p>Красная Армия
+</p><p>Всех сильней!
+</p><p>Плелись коровы. Важная и&#160;белая, раскачивая круглыми боками и&#160;задрав короткий хвостик на&#160;кожаной подкладке, шла коза. Зайцева позвала: — Лидия, Лидия!
+</p><p>— Лидия, Лидия, — вывесились из&#160;окон дефективные.
+</p><p>Закат светил на&#160;вывеску с&#160;четырьмя шапками. Играли вальс. В&#160;окне лавчонки висел ранец.
+</p><p>— Жоржик, — закричала Свистуниха и&#160;остановилась с&#160;ведрами в&#160;руках.
+</p><p>Это Лидию прежде звали Жоржиком: Зайцева переименовала. — Не женское имя, — объясняла она.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>1925</i></div>
+<p><span id="6"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="СОРОКИНА"><span id=".D0.A1.D0.9E.D0.A0.D0.9E.D0.9A.D0.98.D0.9D.D0.90"></span>СОРОКИНА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=25" title="Редактировать раздел «СОРОКИНА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="1_6">1</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=26" title="Редактировать раздел «1»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Заходил правозаступник Иванов с&#160;брюшком и&#160;беленькими усиками: рассказал два таинственных случая из&#160;своей жизни.
+</p><p>Сорокина, откинувшись на&#160;спинку, рассеянно слушала. Смотрела равнодушно и&#160;снисходительно, как&#160;ленивая учительница. Над&#160;стулом висел календарь и&#160;Энгельс в&#160;кумачной раме.
+</p><p>Ломились в&#160;лавки. Несло постным. Взлетали грачи с&#160;прутьями в&#160;клювах. Гора на&#160;другом берегу была бурая, а&#160;зимой грязно-белая, исчерченная тонкими деревьями, будто струями дождя.
+</p><p>Перед&#160;ротой командир,&#160;—
+</p><p>пели солдаты,&#160;—
+</p><p>Хорошо маршировал.
+</p><p>С&#160;полотенцем на&#160;руке, Сорокина смотрелась в&#160;зеркало: под&#160;глазами начинало морщиться. Пришел отец, веселый: — Я&#160;узнал рецепт, как&#160;варить гуталин. Мать поставила на&#160;стол солонку и&#160;проворно подошла к&#160;окну.
+</p><p>— Пахомова! Вся изогнулась. Откинулась назад. Остановилась и&#160;оглядывается.
+</p><p>И, поправив черную наколку, осанисто, словно дама на&#160;портрете в&#160;губернском музее, посмотрела на&#160;отца.
+</p><p>Он, бравый, с&#160;висячим носом, как&#160;у тапира в «Географии», стоял перед&#160;зеркалом и&#160;протирал стетоскоп
+</p><p>Тучи разбегались. Старуха Грызлова, в&#160;черной мантилье с&#160;кружевами и&#160;стеклярусом, несла церковную свечу в&#160;голубом фарфоровом подсвечнике.
+</p><p>— Сегодняшний ветер, — подняла она палец, — до&#160;вознесенья.
+</p><p>То&#160;там, то&#160;здесь ударяли в&#160;колокол. Сорокина поколебалась. Нищая открыла дверь. Тоненькие свечи освещали подбородки. Духовные особы в&#160;черном бархате толпились на&#160;средине, перед&#160;лакированным крестом.
+</p><p>— Глагола ему Пилат!..
+</p><p>Пахомова, в&#160;толстом желтом пальто, не&#160;мигая, смотрела на&#160;свою свечку.
+</p><p>Моргали звезды. Сторож, задрав бороду, стоял под&#160;колокольней:
+</p><p>— Нюрка! шесть раз бей.
+</p><p>— Я&#160;полагала, вы неверующая, — подошла курносенькая регистраторша Мильонщикова.
+</p><p>Вертелась карусель, блестя фонариками, и, болтая пестрыми подвесками, медленно играла краковяк.
+</p><p>Русский, немец и&#160;поляк,&#160;—
+</p><p>напевала Мильонщикова.
+</p><p>Светился погребок. Пошатываясь, вылезли конторщики:
+</p><p>— Ваня, не&#160;падай.
+</p><p>— Кто это?
+</p><p>— Не знаю. Вылитая копия Дориана Грэя — как&#160;вы полагаете?
+</p><p>Ваня. Плескались в&#160;вставленных в&#160;вертушку бутылках кагор и&#160;мадера, освещенные лампочками.
+</p><p>Ваня.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="2_6">2</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=27" title="Редактировать раздел «2»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>На&#160;скамейках губернского стадиона сидели няньки. Голый малый в&#160;коротеньких штанишках, задыхаясь, бегал вдоль забора.
+</p><p>Сорокина встала и, оглядываясь, медленно пошла.
+</p><p>— Вы не&#160;Василий Логинович? — прислонясь к&#160;воротам, тихо спросил пьяный. Грудастая девица сунула записку и&#160;отпрянула: "Придите, послушайте слово «За&#160;что&#160;умер Христос».
+</p><p>Цвела картошка. На&#160;оконцах красовались занавесочки, были расставлены бутылки с&#160;вишнями и&#160;сахарным песком. Побулькивали граммофоны.
+</p><p>Поздоровалась дебелая старуха в&#160;красной кофте — уборщица Осипиха.
+</p><p>— Товарищ Сорокина, — сказала она, я&#160;извиняюсь: какая чудная погода.
+</p><p>Голубые и&#160;зеленые пространства между облаками бледнели.
+</p><p>На&#160;гвозде была чужая шапка и&#160;правозаступникова палка с&#160;монограммами.
+</p><p>Самовар шумел. На&#160;скатерти краснел отсвет от&#160;вазочки с&#160;вареньем.
+</p><p>— Религия — единственное, что&#160;нам осталось, — задушевно говорила мать. — Пахомова — кривляка, но&#160;она — религиозная, и&#160;ей прощаешь.
+</p><p>И, держа на&#160;полдороге к&#160;губам чашку, значительно глядела на&#160;отца.
+</p><p>Он&#160;дунул носом.
+</p><p>Правозаступник принялся рассказывать таинственный случай. В&#160;тени на&#160;письменном столе показывал зубы череп.
+</p><p>Фонари горели под&#160;деревьями. Музыканты на&#160;эстраде подбоченивались, покуривали и&#160;глазели.
+</p><p>Заиграл вальс. Притопывая, кавалеры чинно танцевали с&#160;кавалерами. Расходясь, раскланивались и&#160;жали руки.
+</p><p>Сорокина ждала в&#160;потемках за&#160;скамейками. Вот он. Шапка на&#160;затылке, тоненький… Если&#160;бы&#160;она его остановила:
+</p><p>— Ваня,&#160;—
+</p><p>может быть, все объяснилось&#160;бы: он&#160;перепутал, думал, что&#160;не в&#160;пять, а&#160;в шесть,
+</p><p>— Не забираться&#160;же с&#160;пяти, раз — в&#160;шесть.
+</p><p>Она взяла&#160;бы&#160;его за&#160;руку. Он&#160;ее повел&#160;бы:
+</p><p>— Мы&#160;поедем в&#160;лодке. У&#160;меня есть лодка «Сун-Ят-Сен».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="3_6">3</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=28" title="Редактировать раздел «3»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Мать вышла запереть. В&#160;сандалиях, она стояла низенькая, и&#160;ее наколка была видна сверху, как&#160;на блюдечке.
+</p><p>Старуха Грызлова прогуливалась — в&#160;пелерине. Нагибалась и&#160;рассматривала листья на&#160;земле.
+</p><p>— Шершавым кверху, — примечала она, — к&#160;урожаю.
+</p><p>В&#160;открытое окно Сорокина увидела затылок ее внучки. Она сидела за&#160;роялем и&#160;играла вальс " Диана ".
+</p><p>Правозаступник Иванов, опершись на&#160;окно, стоял снаружи. Покачивая головой, он&#160;пел с&#160;чувством:
+</p><p>Дэ ин юс вокандо.
+</p><p>Дэ акционэ данда.
+</p><p>И&#160;его чванное лицо было мечтательно: приходила в&#160;голову Италия, вспоминался университет.
+</p><p>Развевались паутины. Под&#160;бурыми деревьями белелась церковь с&#160;синими углами.
+</p><p>— Мама, — кляузничала девчонка за&#160;забором. — Манька поросенка то&#160;розгами, то — пугает.
+</p><p>Библиотекарша смотрела на&#160;входящих и&#160;угадывала:
+</p><p>— «Джимми Хиггинс»?
+</p><p>По&#160;улице Вождей слонялись кавалеры в&#160;наглаженных штанах и&#160;девицы в&#160;кожаных шляпах.
+</p><p>— В&#160;Америке рекламы пишутся на&#160;облаках… — Мечтали.
+</p><p>В&#160;сквере подкатилась Осипиха с&#160;георгиной на&#160;груди и&#160;старалась разжалобить:
+</p><p>— Говорят, я&#160;гуляка, — горевала она дорог не&#160;знаю
+</p><p>— В&#160;первую декаду — иссушающие ядра, предложил газету зеленоватый старичок, — вторую — обложные дожди.
+</p><p>Подсела Мильонщикова:
+</p><p>— Пройдемся в&#160;поле.
+</p><p>Голубенькое небо блекло. Тоненькие птички пролетали над&#160;землей.
+</p><p>— Помните, — оглянулась и&#160;понизила голос Мильонщикова, — однажды весной мы&#160;обратили внимание…
+</p><p>Молчали. В&#160;городе светлелись под&#160;непогасшим небом фонари. Расстались не&#160;скоро.
+</p><p>— Эти звезды, — показала Сорокина, — называются Сэптэнтрионэс…
+</p><p>Отец, приподняв брови, думал над&#160;пасьянсом. Мать порола ватерпруф. Сорокина раскрыла книгу из&#160;библиотеки.
+</p><p>Тикали часы. Били. Тикали. Собака за&#160;окном лаяла по-зимнему.
+</p><p>«Дориан, Дориан», — там и&#160;сям было напечатано в&#160;книге:
+</p><p>— «Дориан, Дориан».
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>1925</i></div>
+<p><span id="7"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="СИДЕЛКА"><span id=".D0.A1.D0.98.D0.94.D0.95.D0.9B.D0.9A.D0.90"></span>СИДЕЛКА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=29" title="Редактировать раздел «СИДЕЛКА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Под&#160;деревьями лежали листья.
+</p><p>Таяла луна.
+</p><p>Маленькие толпы с&#160;флагами спускались к&#160;главной улице. На&#160;лугах за&#160;речкой блестел лед, шныряли черные фигурки на&#160;коньках.
+</p><p>— Здор<i>о</i>во, — трогал шапку Мухин. Улыбаясь, бежал вниз. Выше колен — белело от&#160;футбола.
+</p><p>Толкались перед&#160;дворцом труда. Товарищ Окунь, культработница, стояла на&#160;балконе со своим секретарем Володькой Граковым.
+</p><p>— Вольдемар — мое неравнодушие, — говорила Катя Башмакова и&#160;смотрела Мухину в&#160;глаза…
+</p><p>Наконец отправились. Играла музыка. На&#160;кумаче блестела позолота. Над&#160;белыми домами канцелярий небо было синее.
+</p><p>На&#160;площади Жертв выстроились. Здесь были похоронены капустинская бабушка и, отдельно, товарищ Гусев.
+</p><p>Закрытое холстом, торчало что-то&#160;тощее.
+</p><p>— Вдруг там скелет, — хихикала товарищ Окунь.
+</p><p>Сдернули холстину. Приспустились флаги. Заиграл оркестр. У&#160;памятника егозили, подсаживали взлезавших на&#160;трибуну.
+</p><p>— Товарищ Гусев подошел вплотную к&#160;разрешению стоявших перед&#160;партией задач!
+</p><p>Вертелись. Сзади было кладбище, справа — исправдом, впереди — казармы.
+</p><p>Щекастая в&#160;косынке — сиделка, — высунув язык, лизала губы и&#160;прищуривалась.
+</p><p>Мухин присмотрелся, вышел из&#160;рядов и&#160;караулил. На&#160;него заглядывались: тоненький, штанишки с&#160;отворотами, над&#160;туфлями — зеленые носки.
+</p><p>Начинали разбредаться. Гусевский отец, в&#160;пальто бочонком, с&#160;поясом и&#160;меховым воротником, взял Мухина за&#160;пуговицу:
+</p><p>— Каково произведение' — протянул он&#160;руку к&#160;обелиску с&#160;головой товарища Гусева на&#160;острие.
+</p><p>Сиделка уходила.
+</p><p>— Мне необходимо, — устремился Мухин. — Пардон.
+</p><p>Дорогу перерезали. Трубя, маршировали — хоронили исключенную за&#160;неустойчивость самоубийцу Семкину.
+</p><p>Вы жертвою пали.
+</p><p>Ее приятельница, кандидатка Грушина, ревя, смотрела из&#160;ворот.
+</p><p>— Дисциплинированная, — похвалил растратчик Мишка-Доброхим, — в&#160;процессии не&#160;участвует.
+</p><p>Сиделка скрылась…
+</p><p>За&#160;лугами бежал дым и&#160;делил полоску леса на&#160;две — ближнюю и&#160;дальнюю.
+</p><p>Запихав руки в&#160;карманы, Мишка, сытенький, посвистывал.
+</p><p>— Выпустили? — встрепенулся и&#160;поздравил его Мухин.
+</p><p>Спустились вниз. Здоровались с&#160;встречавшимися. Останавливались у&#160;афиш.
+</p><p>— Иду домой, — простился Мишка. — Обедать.
+</p><p>На&#160;крае зеркальца в&#160;окне «Тэжэ» блестела радуга. Кругом была разложена «Москвичка» — мыло, пудра и&#160;одеколон: пробирается к&#160;кому-то, кутается в&#160;горностай, ночь синяя, снежинки…
+</p><p>Захотелось небывалого — куда-нибудь уехать, быть кинематографическим актером или&#160;летчиком.
+</p><p>В&#160;столовой Мухин засиделся за&#160;газетой. Открывающийся памятник — образец монументального искусства…
+</p><p>Спускалось солнце. Церкви розовелись. Шаги стучали по&#160;замерзшей глине. В&#160;комнатке темнело. Над&#160;столом белелось расписание: физкультура, политграмота…
+</p><p>В&#160;гостиной у&#160;хозяйки томно пела Катя Башмакова и&#160;позванивала на&#160;гитаре.
+</p><p>Пришел Мишка. Прислушался. Состроил хитрое лицо.
+</p><p>— Нет, — покачал Мухин головой печально, — кому я&#160;нравлюсь, мне не&#160;нравятся. А&#160;чего хотел&#160;бы, того нет.
+</p><p>— Это верно, — согласился Мишка. Светились звезды. У&#160;ворот шептались. Шелестели листья под&#160;ногами. Шли под&#160;руку. Задумчивые, напевали:
+</p><p>Чистим, чистим,
+</p><p>Чистим, чистим,
+</p><p>Чистим, гражданин.
+</p><p>Спустились к&#160;речке: тихо, белая полоска от&#160;звезды. Зашли в&#160;купальню и&#160;жалели, что&#160;не захватили скамеечек, а&#160;то&#160;бы&#160;здесь можно посидеть.
+</p><p>Потолкались у&#160;кинематографа: граф разговаривает с&#160;дамой. Поспешили взять билет…
+</p><p>В&#160;столовой «Моссельпром» гремела музыка. Таинственно горела маленькая лампа. — Где вода дорога? — говорили за&#160;столиком. — Рога у&#160;коровы, вода — в&#160;реке.
+</p><p>За&#160;прилавком дремала хохотушка в&#160;коричневом галстуке. Подбодрили ее: — Веселей'
+</p><p>Стаканы, чтобы чего-нибудь не&#160;подцепить, ополоснули пивом. Чокнулись.
+</p><p>— Я&#160;чуть не&#160;познакомился с&#160;сиделкой. — сказал Мухин.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>1926</i></div>
+<p><span id="8"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ЛЕШКА"><span id=".D0.9B.D0.95.D0.A8.D0.9A.D0.90"></span>ЛЕШКА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=30" title="Редактировать раздел «ЛЕШКА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Лешка соскочил с&#160;кровати. Мать дежурила. Склонившись, словно над&#160;колодцем, чуть белелась полукруглая луна. Не шевелилась жидкая береза с&#160;темными ветвями. На&#160;траве блестели капельки. Поклевывая, курицы с&#160;цыплятами бродили по&#160;двору.
+</p><p>Покачивая животом, в&#160;черном капоте с&#160;голубыми розами, по&#160;лестнице спустилась Трифониха. У&#160;нее в&#160;руке был ключ, а&#160;на руке висела вышитая сумка с&#160;тигром.
+</p><p>— Фу, — покосилась Трифониха, — поросенок? — и, важная, отправилась за&#160;булками.
+</p><p>— Я&#160;мылся, — крикнул ей вдогонку Лешка.
+</p><p>Усатый водовоз, кусая от&#160;фунта ситного, гремел колесами. Пыль сонно поднималась и&#160;опять укладывалась.
+</p><p>— Дяденька, — умиленно попросился Лешка, — прокати, — и&#160;водовоз позволил ему сесть на&#160;бочку.
+</p><p>Завидовали бабы, несшие на&#160;коромыслах связки глиняных горшков с&#160;топленым молоком, кондукторша в&#160;очках, которая гнала корову и&#160;замахивалась на&#160;нее веревкой, и&#160;четыре жулика, сидевшие под&#160;горкой и&#160;разбиравшие мешок с&#160;бельем.
+</p><p>— Обокрали чердак, — показал водовоз и&#160;ссадил Лешку на&#160;землю.
+</p><p>Солнце поднялось и&#160;припекало. Освещало ситный в&#160;чайной Силебиной. Мальчишка из&#160;кинематографа расклеивал афиши. Там было напечатано: «Бесплатное», но&#160;Лешка не&#160;умел читать. В&#160;палисаднике с&#160;коричневым забором, сидя на&#160;скамье под&#160;вишнями, нежился на&#160;солнышке матрос и&#160;играл на&#160;балалайке.
+</p><p>Трансваль, Трансваль…
+</p><p>Было хорошо у&#160;палисадника. Забор уже нагрелся и&#160;был теплый, сзади пригревало плечи, пахло клевером.
+</p><p>Матрос…
+</p><p>А&#160;мать уже вернулась и&#160;перед осколком зеркала чесала волосы.
+</p><p>Пили кипяток с&#160;песком и&#160;с хлебом. Отдувались. Мать велела не&#160;ходить на&#160;речку и, задернув занавеску, легла спать.
+</p><p>Вдруг загремела музыка. Все бросились.
+</p><p>Блестели наконечники знамен. Трещали барабаны. Пионеры в&#160;галстуках маршировали в&#160;лес. Телега с&#160;квасом громыхала сзади.
+</p><p>Вслед! с&#160;мальчишками, с&#160;собачонками, размахивая руками, приплясывая, прискакивая:
+</p><p>— В&#160;лес'
+</p><p>Вдоль палисадников, вертя мочалкой, шел матрос. Его голубой воротник развевался, за&#160;затылком порхали две узкие ленточки.
+</p><p>Матрос! Стихала, удаляясь, музыка, и&#160;оседала пыль. У&#160;Лешки колотилось сердце. Он&#160;бежал на&#160;речку — за&#160;матросом.
+</p><p>Матрос! Со всех сторон сбежались. Плававшие вылезли. Валявшиеся на&#160;на песке вскочили.
+</p><p>Матрос!
+</p><p>Коричневый, как&#160;глиняный горшок, он&#160;прыгнул, вынырнул и&#160;поплыл. На&#160;его руке был синий якорь, мускулы вздувались — как&#160;крученый ситный у&#160;Силебиной на&#160;полке.
+</p><p>— Это я&#160;его привел, — хвалился Лешка.
+</p><p>Было жарко. Воздух над&#160;рекой струился. Всплескивались рыбы. Проплывали лодки, женщины в&#160;цветных повязках нагибались над&#160;бортом и&#160;опускали в&#160;воду пальцы.
+</p><p>Купальщики боролись, кувыркались и&#160;ходили на&#160;руках.
+</p><p>А&#160;солнце подвигалось. Было сзади, стало спереди — пора обедать.
+</p><p>Мать ждала. Картошка была сварена, хлеб бутылка с&#160;маслом — на&#160;столе.
+</p><p>Наелись. Мать похваливала масло. Облизали ложки. Вышли на&#160;крыльцо.
+</p><p>Во&#160;дворе, разостлав одеяла, сидели соседки. Качали маленьких детей, тихонько напевали и&#160;кухонными ножами искали друг у
+</p><p>друга в&#160;голове.
+</p><p>— И&#160;мы&#160;устроимся, — обрадовалась мать и&#160;сбегала за&#160;одеялом.
+</p><p>Лежали. Лешка положил к&#160;ней на&#160;колени голову. Она перебирала в&#160;его кудлатых волосах.
+</p><p>По&#160;небу пролетали маленькие облачка в&#160;матросских куртках, облачка, похожие на&#160;ситный и&#160;на вороха белья.
+</p><p>— Бабочки, — вскочила мать, — купаться так купаться: опоздаем на&#160;бесплатное.
+</p><p>Бесплатное!
+</p><p>Повскакали, зашмыгали, повязали головы и&#160;выбежали за&#160;ворота. Бегали наперегонки и&#160;смеялись, а&#160;потом притихли и&#160;печально пели:
+</p><p>Платье бедняги за&#160;корни цепляется,
+</p><p>Ветви вплелись в&#160;волоса.
+</p><p>Срывали жесткую высокую траву — класть под&#160;ноги, когда выходишь на&#160;берег. Тек горький белый сок и&#160;засыхал на&#160;пальцах.
+</p><p>Молотя ногами, плавали и, взвизгивая, приседали. Лешка, стоя у&#160;воды, месил ступнями грязь. Садилось солнце. Начали кусаться комары.
+</p><p>Квакали лягушки. Небо выцвело. Трава похолодела.
+</p><p>Пыль в&#160;колеях лежала теплая и&#160;грела ноги. Улица кипела. Все спешили на&#160;бесплатное.
+</p><p>Шел водовоз, поглядывая сверху вниз, как&#160;с бочки, и&#160;крутя усы.
+</p><p>Помахивая рукой, как&#160;будто в&#160;ней была веревка, торопилась старая кондукторша, и&#160;весело бежали обокравшие чердак четыре жулика.
+</p><p>Был гвалт. Стояли очереди к&#160;мороженщикам. Шуршала подсолнечная шелуха. В&#160;саду горели фонари, играла музыка и&#160;бил фонтан. Мать потерялась. Маленьких в&#160;кинематограф не&#160;пускали. Лешка заревел.
+</p><p>Темнело. Музыка кружилась невысоко, прибитая росой. Силебина сидела на&#160;крылечке — тихо, тихо, задумчивая, не&#160;замахивалась полотенцем, не&#160;орала.
+</p><p>В&#160;палисаднике, впотьмах, матрос тихонечко наигрывал на&#160;балалайке:
+</p><p>Трансваль, Трансваль.
+</p><p>Он, как&#160;и Лешка не&#160;был на&#160;бесплатном, — миленький…
+</p><p>Вздыхая, по&#160;двору прогуливалась Трифониха и, любуясь звездочкой, жевала. Из&#160;сумки с&#160;тигром вынула пирог и&#160;протянула Лешке.
+</p><p>Сидя на&#160;ступеньке, он&#160;стал есть, пихая в&#160;рот обеими руками: пирог был сладкий, а&#160;руки соленые от&#160;грязи и&#160;горькие от&#160;той травы, которую он&#160;рвал, когда шел с&#160;матерью на&#160;берег.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>1926</i></div>
+<p><span id="9"></span>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="КОНОПАТЧИКОВА"><span id=".D0.9A.D0.9E.D0.9D.D0.9E.D0.9F.D0.90.D0.A2.D0.A7.D0.98.D0.9A.D0.9E.D0.92.D0.90"></span>КОНОПАТЧИКОВА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=31" title="Редактировать раздел «КОНОПАТЧИКОВА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="1_7">1</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=32" title="Редактировать раздел «1»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Бросая ласковые взгляды, инженер Адольф Адольфович читал доклад: «Ильич и&#160;специалисты».
+</p><p>Добронравова из&#160;подкомиссии, стриженая, с&#160;побритой шеей, прохаживалась вдоль стены и&#160;повторяла по&#160;брошюрке. Следующее выступление было ее: «Исторический материализм и&#160;раскрепощение женщины».
+</p><p>Конопатчикова, низенькая, скромно посмотрев направо и&#160;налево, незаметно поднялась и&#160;улизнула. — Боль в&#160;висках, — пробормотала на&#160;всякий случай, поднося к&#160;своей седеющей прическе руку, будто отдавая честь.
+</p><p>Плелись страухи с&#160;вениками, подпоясанные полотенцами. Хрустел обледенелый снег. Темнело. Не блестя горели фонари.
+</p><p>Звенел бубенчик: женотделка Малкина, погладывая на&#160;прохожих, ехала в&#160;командировку.
+</p><p>Сидя на&#160;высоком табурете, инвалидка Кац, величественная, отпустила булку. Стрелочник трубил в&#160;рожок. Въезд на&#160;мост уходил в&#160;потемки, и&#160;оттуда, вспыхнув, приближалась искра. Обдало махоркой, с&#160;песней прошагали кавалеры:
+</p><p>Ветер воет, дождь идет,
+</p><p>Пушкин бабу в&#160;лес ведет.
+</p><p>Гудели паровозы. Дым подымался наискось и, освещенный снизу, желтелся. Из&#160;ворот, переговариваясь, выходили Вдовкин и&#160;Березынькина: поклонились праху Капитанникова и&#160;были важны и&#160;торжественны.
+</p><p>Конопатчикова с&#160;ними кое-где встречалась. Она остановилась и&#160;приветливо сказала: — Здравствуйте.
+</p><p>Негромко разговаривали и&#160;печально улыбались: Конопатчикова в&#160;шерстяном берете с&#160;кисточкой, Вдовкин, плечистый и&#160;сморкающийся, и&#160;Березынькина, кроткая, с&#160;маленькой головкой. Раздался первый удар в&#160;колокол. Примолкли и, задумавшиеся, подняли глаза. Вверху светились звезды.
+</p><p>— Жизнь проходит, — вздохнул Вдовкин и&#160;прочел стишок:
+</p><p>Так жизнь молодая
+</p><p>Проходит бесследно.
+</p><p>Дамы были тронуты. Он&#160;чиркнул зажигалкой. Осветился круглый нос, и&#160;в темноте затлел кончик папиросы. Сговорились вечером пойти на&#160;стружечный.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="2_7">2</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=33" title="Редактировать раздел «2»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>«Машинистка Колотовкина, — поглядывая на&#160;часы, сидела Конопатчикова за&#160;губернской газетой, — пассивна и&#160;материально обеспечена.
+</p><p>Зачем писать ей на&#160;машине?
+</p><p>Может играть на&#160;пианине».
+</p><p>Зашаркали в&#160;сенях калоши. Постучались Вдовкин и&#160;Березынькина. Похвалили комнату и&#160;осмотрели абажур «Швейцария» и&#160;карты карты с&#160;золотым обрезом. Тузы были с&#160;картинками: «Ль эглиз дэз Энвалид», «Статю дэ Анри Катр».
+</p><p>— Парижская вещица, — любовался Вдовкин. — Я&#160;и&#160;сам люблю пасьянсы, — говорил он. — «Дама», например, «В&#160;плену», «Всевидящее око»…
+</p><p>— «Деревенская дорога», — подсказала Конопатчикова.
+</p><p>Вытянули перед&#160;собою руки, вышли. Пахло ладаном. Учтивый Вдовкин осветил ступеньки зажигалкой.
+</p><p>Наверху захлопали дверьми: Капитанничиха выбежала в&#160;сени убиваться по&#160;покойнике.
+</p><p>— И&#160;зачем ты себе все это шил , — причитала она,&#160;—
+</p><p>— Если ты носить не&#160;хотел? — и&#160;притопывала.
+</p><p>— И&#160;зачем ты пол в&#160;погребе цементом заливал, если ты — жить не&#160;хотел?
+</p><p>Остановились и, послушав, медленно пошли по&#160;темным улицам, оглядываясь на&#160;собак.
+</p><p>«.Жизнь без&#160;труда», — было написано над&#160;сценой в&#160;театре стружечного, — «воровство, а&#160;без искусства — варварство». Оркестр играл кадриль.
+</p><p>Рвал, рявкая, железные цепи и&#160;становился в&#160;античные позы чемпион Швеции Жан Орлеан. Скакали и&#160;плясали мадмазели Тамара, Клеопатра, Руфина и&#160;Клара и, тряся юбчонками, вскрикивали под&#160;балалайки:
+</p><p>Чтоб на&#160;службу
+</p><p>Поступить,
+</p><p>Так в&#160;союзе
+</p><p>Надо быть.
+</p><p>— Эх, — сияя, передергивал плечами Вдовкин. Конопатчикова улыбалась и&#160;кивала головой…
+</p><p>Морозило. Полоска звезд серелась за&#160;трубою стружечного. Постукивало пианино. В&#160;форточке вертелся пар. За&#160;черными на&#160;светлом фоне розами и&#160;фикусами отплясывали вальс, припрыгивая и&#160;кружась.
+</p><p>— Счастливые, — скрестила на&#160;груди ладони и&#160;задумалась Березынькина.
+</p><p>— Они, — проникновенным голосом сказала Конопатчикова, — читают книгу, очень интересную. Заглавие выскочило у&#160;меня из&#160;головы. Поговорили о&#160;литературе…
+</p><p>Улыбающаяся, полная приятных мыслей, Конопатчикова ощупью нашла края лампы: загорелись звезды над&#160;швейцарскими горами и&#160;цветные огоньки в&#160;окошках хижин и&#160;лодочных фонариках.
+</p><p>В&#160;дверь поскреблись. В&#160;большом платке, жеманная, вскользнула Капитанничиха. С&#160;скромными ужимками, перебирая бахрому платка, она просила, чтобы завтра Конопатчикова помогла в&#160;приготовлениях к&#160;поминкам.
+</p><p>— Не откажите, — двигала она боками, егозливая, и&#160;прижимала голову к&#160;плечу. — Я&#160;загоню его костюмчики, и&#160;пусть все будет хорошо, прилично.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="3_7">3</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=34" title="Редактировать раздел «3»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>У&#160;Капитанничихи кашляли духовные особы. Пономарь в&#160;сенях возился над&#160;кадилом. Конопатчикова, проходя, взяла щепотку дыма и&#160;понюхала.
+</p><p>Блестел на&#160;колокольне крест. Флаг над&#160;гостиными рядами развевался. Тетка Полушальчиха кричала и&#160;потряхивала капитанниковскими костюмчиками.
+</p><p>— Маруська убивается? — спросила она, наклоняясь и&#160;прикрывая рот рукой, и, выпрямившись, в&#160;черном плюшевом пальто квадратиками, гордая, победоносно огляделась.
+</p><p>Конопатчикова в&#160;ожидании бродила. Солнце пригревало. Под&#160;ногами хлюпало.
+</p><p>Дремали лошади. Толкались с&#160;бабами солдаты в&#160;шлемах, долгополые и&#160;низенькие. Середняки, столпившись за&#160;возами, пили из&#160;зеленого стаканчика.
+</p><p>Вдоль домов, по&#160;солнышку, ведя за&#160;ручку маленького сына в&#160;полосатом колпачке, прохаживался инженер Адольф Адольфович. Он&#160;жмурился на&#160;свет и&#160;улыбался людям на&#160;крылечке, согнувшись ждавшим очереди в&#160;зубоврачебный кабинет его жены.
+</p><p>Стал слышен похоронный марш, и&#160;показались черные знамена. Сбежались. Мужики смотрели, опустив кнуты. Вздыхали бабы в&#160;кружевных воротничках на&#160;зипунах и&#160;в елочных бусах.
+</p><p>Народу было много. Капитанничиха вскрикивала. Вдовкин, подпевая, шел с&#160;склонившей набок голову Березынькиной. Конопатчикова проводила их глазами-
+</p><p>— Продала, — сказала, протолкавшись, Глушальчиха и&#160;показала деньги. Начали покуп для&#160;поминок.
+</p><p>Возвращались на&#160;дровнях, спиною к&#160;лошадям. Блестела на&#160;дороге жижа. Воробьи кричали. Убегал базар. Беседовали, выйдя постоять на&#160;солнце, оба в&#160;фартуках, кондитер Франц и&#160;парикмахер Антуан…
+</p><p>Капли с&#160;крыши падали перед&#160;окном. Сизо-лиловый дым взлетал над&#160;паровозами. В&#160;плите шумел огонь.
+</p><p>Внизу, перебирая струны балалайки, вполголоса пел мрачные романсы рабкор Петров. В&#160;углах темнело.
+</p><p>— Никишка, — говорила Полушальчиха и&#160;плакала над&#160;хреном, — нарисовал картину «Ленин»: это — загляденье.
+</p><p>На&#160;кофейной мельнице был выпуклый овал голландской королевой Вильгельминой. Конопатчикова медленно молола, стоя у&#160;окна. Задумавшись, она глядела вслед начальнику милиции, скакавшему, красуясь, в&#160;сторону моста и&#160;инвалидки Кац. Воспоминания набегали.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="4_5">4</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;action=edit&amp;section=35" title="Редактировать раздел «4»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Поблескивали рюмки, и&#160;бутылки, толстобрюхие и&#160;тоненькие, мерцали. Капитанничиха, в&#160;черном платье, прилизанная, постная, стояла у&#160;стола и, горестная, любовалась.
+</p><p>Конопатчикова, скромно улыбаясь, завитая припудренная, сидела на&#160;диване и&#160;сворачивал; трубку листик от&#160;календаря: рисунок «Нищета в&#160;Германии» и&#160;две статьи — "О&#160;пользе витамине и «Теория относительности».
+</p><p>— Благодари, Марусенька, — учила Полушальчиха и, разводя руками, низко кланялась, как&#160;в «Ниве» на&#160;картинке «Пляска свах».
+</p><p>Входили гости. Конопатчикова выпрямлялась и&#160;в ожидании смотрела на&#160;отворявшуюся дверь…
+</p><p>Стучали ложки, и&#160;носы, распарившись над&#160;супом, блестели. Полушальчиха, одетая кухаркой, в&#160;фартуке, прислуживала. Кланялись Маруське, подымая рюмочки. Она откланивалась, скорбная, и&#160;выпивала.
+</p><p>Повеяло акацией. Любезно улыбаясь, прибыла внушительная Куроедова. — Как&#160;ваши, — с&#160;уважением справлялись у&#160;нее, — на&#160;стружечном? — Они, — засуетилась Конопатчикова, — еще читают эту книгу интересную? — «Тарзан»? — спросила Куроедова, глотая.
+</p><p>Красные, блаженно похохатывая и&#160;роняя вилки, громко говорили. — Есть смысл, — доказывала Куроедова, — покупать билеты в&#160;лотерею. Наши, например, недавно выиграли игрушечную кошку, херес и&#160;копилку «окорок».
+</p><p>Маруська слушала, зажав в&#160;колени руки и&#160;состроив круглые глаза, как&#160;тихенькая девочка, умильная, и&#160;приговаривала: — Выпейте.
+</p><p>Никишка встряхивал свисавшими на&#160;бархатную куртку волосами. — Искусство, — восклицал он. Полушальчиха пришла из&#160;кухни и, гордясь, стояла. — Тайна красок!
+</p><p>— Жизнь без&#160;искусства — варварство, — цитировал рабкор Петров… Зеленое кашне висело у&#160;него на&#160;шее.
+</p><p>— Я&#160;не&#160;могу, — заговорил задумавшийся Вдовкин, — забыть: в&#160;Калуге мы&#160;стояли у&#160;евреев; в&#160;самовар они&#160;что-то&#160;подсыпали, и&#160;тогда распространялось несказанное благоухание.
+</p><p>— В&#160;Витебске, — нагнувшись, заглянула Конопатчикова ему в&#160;лицо, — к&#160;вокзалу приколочен герб: рыцарь на&#160;коне. Нигде, нигде не&#160;видела я&#160;ничего подобного.
+</p><p>Березынькина, запрокинув голову, с&#160;закрытыми глазами, счастливая, макала в&#160;рюмку кончик языка и, шевеля губами и&#160;облизываясь, наслаждалась.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>1926</i></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐f79556446‐dvvng
+Cached time: 20260217103554
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.135 seconds
+Real time usage: 0.216 seconds
+Preprocessor visited node count: 414/1000000
+Revision size: 116533/2097152 bytes
+Post‐expand include size: 8755/2097152 bytes
+Template argument size: 1209/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2817/5000000 bytes
+Lua time usage: 0.059/10.000 seconds
+Lua memory usage: 1801454/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  161.607      1 -total
+ 93.75%  151.509      1 Шаблон:Отексте
+  5.69%    9.194      9 Шаблон:Right
+  1.67%    2.699      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1030503:|#|:idhash:canonical and timestamp 20260217103554 and revision id 5582578. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Встречи_с_Лиз_(Добычин)&amp;oldid=5582578">https://ru.wikisource.org/w/index.php?title=Встречи_с_Лиз_(Добычин)&amp;oldid=5582578</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD" title="Категория:Леонид Иванович Добычин">Леонид Иванович Добычин</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1926_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1926 года">Литература 1926 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BD%D0%BA%D0%BE%D1%80%D0%B0%D0%BC" title="Категория:Импорт/lib.ru/Страницы с внутренними ссылками по анкорам">Импорт/lib.ru/Страницы с внутренними ссылками по анкорам</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Импорт/lib.ru/Страницы с внешними ссылками">Импорт/lib.ru/Страницы с внешними ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_100" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD" title="Категория:Импорт/az.lib.ru/Леонид Иванович Добычин">Импорт/az.lib.ru/Леонид Иванович Добычин</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 29 июля 2025 года в 08:31.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B8_%D1%81_%D0%9B%D0%B8%D0%B7_(%D0%94%D0%BE%D0%B1%D1%8B%D1%87%D0%B8%D0%BD)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Встречи с Лиз (Добычин)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-f79556446-dvvng","wgBackendResponseTime":547,"wgPageParseReport":{"limitreport":{"cputime":"0.135","walltime":"0.216","ppvisitednodes":{"value":414,"limit":1000000},"revisionsize":{"value":116533,"limit":2097152},"postexpandincludesize":{"value":8755,"limit":2097152},"templateargumentsize":{"value":1209,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2817,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  161.607      1 -total"," 93.75%  151.509      1 Шаблон:Отексте","  5.69%    9.194      9 Шаблон:Right","  1.67%    2.699      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.059","limit":"10.000"},"limitreport-memusage":{"value":1801454,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Леонид Иванович Добычин\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"''Сборник рассказов:'' \u003Cbr\u003E\\\nКозлова \u003Cbr\u003EВстречи с Лиз \u003Cbr\u003EЕрыгин \u003Cbr\u003EСавкина \u003Cbr\u003EЛидия \u003Cbr\u003EСорокина \u003Cbr\u003EСиделка \u003Cbr\u003EЛешка \u003Cbr\u003EКонопатчикова\",\n    [\"published\"] = \"1926\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/d/dobychin_l_i/text_0010.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Встречи с Лиз\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-f79556446-dvvng","timestamp":"20260217103554","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

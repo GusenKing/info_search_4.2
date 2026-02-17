@@ -1,0 +1,2546 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Небесные верблюжата (Гуро) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"1b503764-5da2-4055-b22b-990f45f943c3","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Небесные_верблюжата_(Гуро)","wgTitle":"Небесные верблюжата (Гуро)","wgCurRevisionId":5666258,"wgRevisionId":5666258,"wgArticleId":1005184,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup","Импорт/lib.ru/Страницы с внутренними ссылками по анкорам","Импорт/lib.ru","Импорт/az.lib.ru/Елена Гуро","Проза","Сборники рассказов","Елена Гуро","Литература 1913 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Небесные_верблюжата_(Гуро)","wgRelevantArticleId":1005184,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5666258,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":200000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Небесные верблюжата (Гуро) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Небесные_верблюжата_Гуро rootpage-Небесные_верблюжата_Гуро skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5+%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0+%28%D0%93%D1%83%D1%80%D0%BE%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5+%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0+%28%D0%93%D1%83%D1%80%D0%BE%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5+%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0+%28%D0%93%D1%83%D1%80%D0%BE%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5+%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0+%28%D0%93%D1%83%D1%80%D0%BE%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Небесные верблюжата (Гуро)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5+%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0+%28%D0%93%D1%83%D1%80%D0%BE%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;oldid=5666258" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29&amp;id=5666258&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259D%25D0%25B5%25D0%25B1%25D0%25B5%25D1%2581%25D0%25BD%25D1%258B%25D0%25B5_%25D0%25B2%25D0%25B5%25D1%2580%25D0%25B1%25D0%25BB%25D1%258E%25D0%25B6%25D0%25B0%25D1%2582%25D0%25B0_%28%25D0%2593%25D1%2583%25D1%2580%25D0%25BE%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259D%25D0%25B5%25D0%25B1%25D0%25B5%25D1%2581%25D0%25BD%25D1%258B%25D0%25B5_%25D0%25B2%25D0%25B5%25D1%2580%25D0%25B1%25D0%25BB%25D1%258E%25D0%25B6%25D0%25B0%25D1%2582%25D0%25B0_%28%25D0%2593%25D1%2583%25D1%2580%25D0%25BE%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Небесные верблюжата</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%93%D1%83%D1%80%D0%BE" class="mw-redirect" title="Автор:Елена Гуро">Елена Гуро</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1913</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://elenaguro.narod.ru/nv.html">elenaguro.narod.ru</a>, <a rel="nofollow" class="external text" href="http://az.lib.ru/g/guro_e/text_0040.shtml">az.lib.ru</a></span> </td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%93%D1%83%D1%80%D0%BE" class="mw-redirect" title="Автор:Елена Гуро">Елена Гуро</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<div class="mw-heading mw-heading1"><h1 id="«НЕБЕСНЫЕ_ВЕРБЛЮЖАТА»"><span id=".C2.AB.D0.9D.D0.95.D0.91.D0.95.D0.A1.D0.9D.D0.AB.D0.95_.D0.92.D0.95.D0.A0.D0.91.D0.9B.D0.AE.D0.96.D0.90.D0.A2.D0.90.C2.BB"></span>«НЕБЕСНЫЕ ВЕРБЛЮЖАТА»</h1></div>
+<p>Впервые ряд текстов из «Небесных верблюжат» появился в&#160;посмертном сборнике «Трое» (СПб., «Журавль», 1913). В 1914&#160;году «Небесные верблюжата» вышли в&#160;том&#160;же издательстве отдельной книгой. По&#160;сравнению с&#160;предыдущей публикацией здесь была изменена последовательность миниатюр, а&#160;также М.&#160;Матюшин по&#160;черновикам покойной внёс некоторые изменения и&#160;в сами тексты.
+</p><p>Данная подборка включает полный текст отдельного издания 1914&#160;года.
+</p><p>В&#160;квадратные скобки заключены добавления к&#160;текстам из&#160;альманаха «Трое», сделанные в&#160;этом издании.
+</p><p>В&#160;угловых скобках, наоборот, помещён текст, снятый в&#160;этом издании (это относится к&#160;нескольким заголовкам).
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ГАЗЕТНОЕ_ОБЪЯВЛЕНИЕ"><span id=".D0.93.D0.90.D0.97.D0.95.D0.A2.D0.9D.D0.9E.D0.95_.D0.9E.D0.91.D0.AA.D0.AF.D0.92.D0.9B.D0.95.D0.9D.D0.98.D0.95"></span>ГАЗЕТНОЕ ОБЪЯВЛЕНИЕ</h2></div>
+<p>Верблюжьего пуха особо теплые фуфайки, кальсоны, чулки и&#160;наживотнички.
+</p><p>Это делается так: ловят в&#160;засаду молодых светлых духов, длинноватых и&#160;добрых, похожих на&#160;золотистых долговязых верблюжат, покрытых пухом святого сияния. Сгоняют их в&#160;кучу, щелкая по&#160;воздуху бичом, и&#160;нежные, добродушные создания, слишком добрые, чтобы понять, как&#160;это делают боль, толпятся, теснятся, протягивая друг через&#160;друга шеи, жмутся о&#160;грубую загородку, теряя с&#160;себя в&#160;тесноте свой нежный пух.
+</p><p>Этот-то&#160;пух небесных верблюжат, особо теплый весенним живоносным теплом, и&#160;собирают потом с&#160;земли и&#160;ткут из&#160;него фуфайки.
+</p><p>— А&#160;как&#160;же бедных верблюжат так и&#160;убьют? — спросили меня с&#160;беспокойством.
+</p><p>— Чего их убивать, — их погоняют, погоняют, пока пух с&#160;них пообобьется, да&#160;и выпустят обратно в&#160;небо до&#160;следующего раза, а&#160;пух у&#160;них отрастает в&#160;одну минуту еще лучше прежнего.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="НЕБЕСНЫЕ_ПРОТАЛИНЫ"><span id=".D0.9D.D0.95.D0.91.D0.95.D0.A1.D0.9D.D0.AB.D0.95_.D0.9F.D0.A0.D0.9E.D0.A2.D0.90.D0.9B.D0.98.D0.9D.D0.AB"></span>НЕБЕСНЫЕ ПРОТАЛИНЫ</h2></div>
+<p>Северились далёкие, невыносимо чистые полосы.
+</p><p>Меж облаками озёра плыли целый день, точно гордые лебеди в&#160;лазури. Меж чёрными берёзами жила розовая небесная проталина и — дышала.
+</p><p>Дышала, и&#160;берёзы были мокрые.
+</p><p>С&#160;высоты проходили по&#160;небесным проталинам вестники, проходили через&#160;всё наклонённое небо. И&#160;слышали их только нежные и&#160;гордые души деревьев, просветлённых глубинами небосклонов, и&#160;не понятые никем башни.
+</p><p>И&#160;нежное падшее небо, опустившее к&#160;земле ладони ласки.
+</p><p>И&#160;шли по&#160;близкому земле, покорному от&#160;ясности, небу, небу, ставшему нежным и&#160;палевым и&#160;уже не&#160;отходившему от&#160;неё. И&#160;в&#160;нём развевались прутики, огорченные и&#160;тронутые городской близостью. [Пролетали трамваи за&#160;трамваями — видели прутики].
+</p><p>Шли вестники, — и&#160;услышали их прояснённые души удалённых вершин и&#160;башен.
+</p><p>И&#160;услышали уже проявленные им молились.
+</p><p>И&#160;расстилались где-то&#160;озёра, — озёра, — озёра.
+</p><p>Когда идёт навстречу северу юноша, его прямо в&#160;лоб бьёт ветер, в&#160;открытый чистый лоб, не&#160;умеющий ещё бояться.
+</p><p>Разлетаются волосы конской чёлкой. И&#160;лошадиная прыть к&#160;тому, что&#160;впереди — а&#160;впереди — озёра, — озёра.
+</p><p>Где-нибудь и&#160;крылечко, в&#160;ту пору таяло, а&#160;над ним лиственница простёрлась ёлочкой. И&#160;лиственница дышала.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>И&#160;один говорил — завершаем, а&#160;другой отвечал — верю.
+</p><p>И&#160;не&#160;сказали ни&#160;друг, ни&#160;друзья, — так было глубоко, так было глубоко розовое небо.
+</p><p>И&#160;подходил прохожий, и&#160;сказали — друг.
+</p><p>И&#160;эхо подмерзавших вечерних амбаров сказало — друг.
+</p><p>Остановился и&#160;говорит: верю — верю вам.
+</p><p>— Войдите!
+</p><p>— Нет, спешу. Спешу, но&#160;верю, — разбежались дороги все по&#160;вселенной в&#160;разные стороны, — но&#160;перекликаются.
+</p><p>Так глубоко, так глубоко было розовое небо.
+</p><p>Так было розово, точно сказанный завет волновал душу, и&#160;слова расцветали и&#160;доходили до&#160;самых губ, и&#160;не сорвавшись гасли полувопросом и&#160;не срывались и&#160;расцветали снова.
+</p><p>Точно шёл кто-то&#160;и делал гордый знак отважным гордецам, что&#160;мчались навстречу потоку дней с&#160;крылатыми шагами и&#160;жестами.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="НА_ЕЛОВОМ_ПОВОРОТЕ"><span id=".D0.9D.D0.90_.D0.95.D0.9B.D0.9E.D0.92.D0.9E.D0.9C_.D0.9F.D0.9E.D0.92.D0.9E.D0.A0.D0.9E.D0.A2.D0.95"></span>НА ЕЛОВОМ ПОВОРОТЕ</h2></div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Крепите снасти!<br />
+Норд-Вест!<br />
+Смельчаком унеслась<br />
+в&#160;небо вершина<br />
+И&#160;стала недоступно<br />
+И&#160;строго на&#160;краю,<br />
+От&#160;её присутствия небо — выше.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ЭТОГО_НЕЛЬЗЯ_ЖЕ_ПОКАЗЫВАТЬ_КАЖДОМУ?"><span id=".D0.AD.D0.A2.D0.9E.D0.93.D0.9E_.D0.9D.D0.95.D0.9B.D0.AC.D0.97.D0.AF_.D0.96.D0.95_.D0.9F.D0.9E.D0.9A.D0.90.D0.97.D0.AB.D0.92.D0.90.D0.A2.D0.AC_.D0.9A.D0.90.D0.96.D0.94.D0.9E.D0.9C.D0.A3.3F"></span>ЭТОГО НЕЛЬЗЯ ЖЕ ПОКАЗЫВАТЬ КАЖДОМУ?</h2></div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_2" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_2"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Прости, что&#160;я пою о&#160;тебе, береговая сторона,<br />
+Ты такая гордая.<br />
+Прости, что&#160;страдаю за&#160;тебя,<br />
+Когда люди, не&#160;замечающие твоей красоты,<br />
+Надругаются над&#160;тобою и&#160;рубят твой лес.<br />
+Ты такая далёкая<br />
+И&#160;недоступная.<br />
+Твоя душа исчезает как&#160;блеск<br />
+Твоего залива,<br />
+Когда видишь его близко у&#160;своих ног.<br />
+Прости, что&#160;я пришёл и&#160;нарушил<br />
+Чистоту твоего одиночества,<br />
+Ты — царственная.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="&lt;НА_ВОЛНАХ&gt;"><span id=".3C.D0.9D.D0.90_.D0.92.D0.9E.D0.9B.D0.9D.D0.90.D0.A5.3E"></span>&lt;НА ВОЛНАХ&gt;</h2></div>
+<p>Как&#160;мать закутывает шарфом горло сына, — так я&#160;следила вылет кораблей ваших, гордые, гордые создания весны!
+</p><p>Не хотим нежиться — хотим пересиливать, мастеровые купили&#160;бы&#160;семечек, — [купим] — чем мы&#160;лучше?!
+</p><p>Уныла брезгливость и&#160;связывает!!
+</p><p>Г-н поэт! Ты уронишь за&#160;борт записную книжку!!
+</p><p>Яхта вылетела в&#160;море. В&#160;море мы&#160;увидали чёрное брюшко, — [так и] легло… и&#160;повернули [так ловко, что&#160;она] лососинкой стала крылатой… Играла в&#160;волнах не&#160;могла натешиться — [опять и&#160;опять!]!
+</p><p>А&#160;волны были порядочные!!
+</p><p>Раздружимся?.. Не верно, ведь мы&#160;попутчики, — буря за&#160;нами, — впереди весна!..!
+</p><p>Нас раскачало и&#160;взбросило высоко.!
+</p><p>Разлука только для&#160;тех, кто остался сидеть трусливо…!
+</p><p>Вместе куда-то&#160;лететь и&#160;прянуть и&#160;захлебнуться в&#160;блестящих брызгах.!
+</p><p>Вместе, зараз!..!
+</p><p>А&#160;навстречу дул свежий ветер и&#160;благоухали лиственницы.!
+</p><p>На&#160;выставках наших публика хохотала! Прекрасно! Прекрасно!.. Кончите скоро свою драму?.. Верим в&#160;кредит! Верим…!
+</p><p>Вчера со взморья насилу вернулись, волны били, ветер пищал комаром в&#160;волосах — смерть! Смерть!.. Прекрасно! Прекрасно! Публика хохотала.!
+</p><p>И&#160;сияли лиственницы весной!..!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>А&#160;там, о&#160;своей застенчивости, замирая от&#160;наплыва юности и&#160;мальчишества, море шептало, обогретое вечером.!
+</p><p>Земля, скажи, почему одна душа смолоду замолкнет, а&#160;другая душа поёт, поёт о&#160;тебе…!
+</p><p>О&#160;тебе поёт безмерным голосом.!
+</p><p>И&#160;о&#160;добром солнце твоём поёт, земля!!
+</p><p>Как&#160;это так, живёт, красуется и&#160;вдруг замолкнет и&#160;живёт без&#160;голоса, точно ей уже нечего больше сказать во&#160;всю жизнь?..
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ВЕСНА,_ВЕСНА!"><span id=".D0.92.D0.95.D0.A1.D0.9D.D0.90.2C_.D0.92.D0.95.D0.A1.D0.9D.D0.90.21"></span>ВЕСНА, ВЕСНА!</h2></div>
+<p>Какой смешной был верблюжонок — прилежный. Старательно готовился к&#160;экзаменам и&#160;потом проваливался от&#160;застенчивости, да&#160;чудачества. А&#160;по&#160;зарям, чем&#160;бы&#160;прилечь носом в&#160;подушку, — украдкой писал стихи.
+</p><p>От&#160;прилежания отнимал у&#160;себя радость первых листьев в&#160;весеннем небе. А&#160;не&#160;умел, чтобы брюки не&#160;вылезали из-за&#160;пояса и&#160;чтобы рубашка не&#160;висела мешком, и&#160;перед чужими было&#160;бы&#160;ловко.
+</p><p>Не умел представиться, что&#160;не хочет играть в&#160;лаун-теннис, — и&#160;видели все, что&#160;не умеет от&#160;застенчивости, и&#160;что хочет застенчивость скрыть и&#160;тоже не&#160;умеет, и&#160;мучительно знал он, что&#160;на самой спине у&#160;него читают, как&#160;ему невыносимо неловко… И&#160;он&#160;видел потому веселье чаще всего удаляющимся или&#160;мелькающим вдали сквозь деревья.
+</p><p>Да, но&#160;на дне зеркальных озер яснятся журавлиные нетронутые зори. Одинокие чистые небеса.
+</p><p>Когда верблюжонок смотрел на&#160;небо, в&#160;розовом небе разливался родной теплый край.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>О, полной чашей богато ты — сердце, во&#160;всё поверившее.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Раздумья — возвеличенные одиночеством.
+</p><p>Поймут&#160;ли&#160;это те, — чья судьба всегда греться у&#160;чужих огней? Чужие огни дают мало тепла: — и&#160;от них часто прогоняют.
+</p><p>Обещаемся не&#160;отпускать глаза, когда нас встретят с&#160;насмешкой те, кого мы&#160;любим. (И&#160;те, кому мы&#160;вчера верили, или&#160;ещё сегодня утром.) Нет! Мы&#160;примем их насмешку в&#160;тихие, ясные, широко раскрытые наши глаза и&#160;будем её носить на&#160;груди нашей, как&#160;орден, не&#160;скрывая.
+</p><p>Это насмешка того, кому я&#160;хочу счастья…
+</p><p>Все мои мечты да&#160;соберутся вокруг твоей головы: мечты счастливого мечтателя вокруг тебя, мой бедный, бедный насмешник.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Я&#160;глуп, я&#160;бездарен, я&#160;неловок, но&#160;я молюсь вам, высокие ёлки. Я&#160;очень даже неловок, я — трус. Я&#160;вчера испугался человека, которого не&#160;уважаю. Я&#160;из&#160;трусости не&#160;могу выучиться на&#160;велосипеде. У&#160;меня ни&#160;на что&#160;не хватает силы воли, но&#160;я молюсь вам, высокие ёлки.
+</p><p>Я&#160;вчера доброй даме, которая дала мне молока и&#160;бисквитов, не&#160;решился признаться, что&#160;я пишу декадентские стихи, из&#160;мучительного страха, что&#160;она спросит меня, где меня печатают? И&#160;вот сказал, что&#160;главное призванье моей жизни — с&#160;увлечением давать уроки. Сегодня я&#160;от стыда и&#160;раскаяния колочу себя…
+</p><p>Я&#160;вчера кончил стихи совсем не&#160;так, как&#160;хотел, но&#160;я знал, что&#160;надо мной будут смеяться… Но&#160;вот все пошли на&#160;гулянье к&#160;вокзалу, а&#160;я молюсь вам, высокие ёлки, без&#160;вас я&#160;очень глуп, очень…
+</p>
+<div class="mw-heading mw-heading2"><h2 id="У_ПЕСЧАНОГО_БУГРА_В_ГОЛУБОЙ_ДЕНЬ"><span id=".D0.A3_.D0.9F.D0.95.D0.A1.D0.A7.D0.90.D0.9D.D0.9E.D0.93.D0.9E_.D0.91.D0.A3.D0.93.D0.A0.D0.90_.D0.92_.D0.93.D0.9E.D0.9B.D0.A3.D0.91.D0.9E.D0.99_.D0.94.D0.95.D0.9D.D0.AC"></span>У&#160;ПЕСЧАНОГО БУГРА В&#160;ГОЛУБОЙ ДЕНЬ</h2></div>
+<p>Вот стоят цари, увенчанные свечами…
+</p><p>В&#160;свободной, — свободной высоте, над&#160;венцом царей, пустой флагшток нежно сверлит голубизну…
+</p><p>Здесь я&#160;даю обет: никогда не&#160;стыдиться настоящей самой себя. (Настоящей, что&#160;пишет стихи, которые нигде не&#160;хотят печатать). Не конфузиться, когда входишь в&#160;гостиную, и, как&#160;бы много ни&#160;было там неприятных гостей, — не&#160;забывать, что&#160;я поэт, а&#160;не мокрица…
+</p><p>И&#160;не&#160;желать никогда печататься в&#160;их журналах, не&#160;быть, как&#160;все, и&#160;не отнимать жизни у&#160;животных.
+</p><p>Почему я&#160;и это думаю?
+</p><p>Поэт — даятель, а&#160;не отниматель жизни… Посмотри, какой мир хорошенький, — вымытый солнцем и&#160;уже — верит в&#160;твое чувство и&#160;твои будущие писания и&#160;глядит на&#160;тебя с&#160;благодарностью…
+</p><p>Поэт — даятель жизни, а&#160;не обидчик-отниматель. И — обещаю не&#160;стесняясь говорить элегантным охотникам, как&#160;бы они&#160;ни были привлекательны, что — они&#160;подлецы — подлецы!!!
+</p><p>И&#160;пусть за&#160;мной никто не&#160;ухаживает, я&#160;сильна!
+</p><p>Но&#160;сдержу&#160;ли&#160;я свое слово?.. Сдержу&#160;ли&#160;я его?
+</p><p>Я&#160;сжимаю кулаки, но&#160;я одна, и&#160;кругом величественно.
+</p><p>Это быстро у&#160;меня проходит…
+</p><p>Моя рука подняла камешек и&#160;бросила… кружась спиралью, он&#160;очертил арку над&#160;краем леса в&#160;голубой стране… Он&#160;был всю жизнь на&#160;земле, и&#160;вдруг моя рука дала ему полет… Пролетая голубизну, — блаженствовал&#160;ли&#160;он?
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_3" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_3"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Развеваются зеленые кудри на&#160;небе.<br />
+Небо смеется.<br />
+Мчатся флаги на&#160;дачах,<br />
+струятся с&#160;гордых флагштоков,<br />
+плещутся в&#160;голубом ветре.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_4" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_4"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Ветрогон, сумасброд, летатель,<br />
+создаватель весенних бурь,<br />
+мыслей взбудораженных ваятель,<br />
+гонящий лазурь!<br />
+Слушай, ты, безумный искатель,<br />
+мчись, несись,<br />
+проносись, нескованный<br />
+опьянитель бурь.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_5" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_5"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Поклянитесь однажды, здесь мечтатели,<br />
+глядя на&#160;взлет,<br />
+глядя на&#160;взлет высоких елей,<br />
+на&#160;полет полет далеких кораблей,<br />
+глядя как&#160;хотят в&#160;небе островерхие,<br />
+никому не&#160;вверяя гордой чистоты,<br />
+поклянитесь мечте и&#160;вечной верности<br />
+гордое рыцарство безумия,<br />
+и&#160;быть верными своей юности<br />
+и&#160;обету высоты.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>А&#160;там, о&#160;своей застенчивости, замирая от&#160;наплыва юности и&#160;мальчишества, море шептало, обогретое вечером.
+</p><p>Земля, скажи, почему одна душа смолоду замолкнет, а&#160;другая душа поет, поет о&#160;тебе…
+</p><p><br />
+</p>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_6" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_6"></span>* * *</h4>
+<p><br />
+</p><p><br />
+О&#160;тебе поет безмерным голосом<br />
+И&#160;о&#160;добром солнце твоем поет, земля!
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p><p>Как&#160;это так, живет, красуется и&#160;вдруг замолкнет и&#160;живет без&#160;голоса, точно ей уже нечего больше сказать во&#160;всю жизнь?..
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ДОГОВОР"><span id=".D0.94.D0.9E.D0.93.D0.9E.D0.92.D0.9E.D0.A0"></span>ДОГОВОР</h2></div>
+<p>Если ты захочешь заключить союз с&#160;теми, что&#160;делает хвойные глубины таинственными и&#160;бледное небо божественным, и&#160;если ты полна твёрдости древних саг, и&#160;когда их читала, в&#160;тебе просыпалась северная гордость и&#160;желание топнуть ногой и&#160;вскинуть высоко голову с&#160;расплетённой гривой, — беги прямо перед&#160;собой на&#160;светлый край неба.
+</p><p>«Топ, топ — круглая поляна!»
+</p><p>«Кто ты?» — кричат невидимые, так что&#160;свистит у&#160;тебя в&#160;ушах.
+</p><p>Ты ответила:
+</p><p>«Я&#160;завоеватель!»
+</p><p>«Дерзкая!»
+</p><p>«Я&#160;творец! Я&#160;светлый ураган Бальдера!»
+</p><p>И&#160;слышен топот твоих ног.
+</p><p>Впереди в&#160;просветах еловых вершин бархатная, расплавленная заря. Безмолвие — её голос. Она — знак, обращённый к&#160;тебе, — и&#160;в этом уже состоит договор… Приложи палец к&#160;губам! шш-шш…
+</p><p>Сумерками возвращаешься и&#160;не слышишь ни&#160;ног своих, ни&#160;дороги. Ты превратился, человек, в&#160;сумеречное создание. Ты полна видения, но&#160;говорить тебе не&#160;хочется. Ты могла&#160;бы&#160;разговаривать глубокими тихими знаками, как&#160;разговаривает вечернее тихое небо. В&#160;доме уже совсем темно, и&#160;только смотрят в&#160;комнату окна. Раздеваешься без&#160;свечи из&#160;уважения к&#160;чутким стражам ночи.
+</p><p>Но&#160;если ты не&#160;будешь верной и&#160;непреклонной; если захочешь скорее сбросить с&#160;себя то, что&#160;делает тебя особенной и&#160;твоей собственной. Если испугают тебя одинокие часы кануна принесения жертвы, — и&#160;подвиг чистого безмолвия, и&#160;горькие обиды тех, кто покажется тебе прекрасными, — тогда тебе придётся бояться белых ночей и&#160;длинных зорь начала лета. Этих стражей зорь, когда заключаются знаки.
+</p><p>Но&#160;снимется&#160;ли&#160;до конца отмеченность?
+</p><p>Ты будешь говорить другу:
+</p><p>— Я&#160;почти не&#160;люблю белые ночи! Они&#160;томят, они&#160;смотрят, и&#160;я не&#160;нахожу себе места! Я&#160;не&#160;люблю их, хотя они&#160;красивы!
+</p><p>Потому что&#160;когда-то, человек, — ты предала свои мечты. Ты сдалась. Ты забыла прежнее, ты даже не&#160;заметила этого. Сказала: прошла молодость — мне уже за&#160;тридцать, все мы&#160;успокаиваемся.
+</p><p>Но&#160;с&#160;тех пор тебе стали мучительны белые ночи. Стыдишься, ходя по&#160;саду, плакать, молиться перед&#160;кустом жасмина или&#160;стволом берёзы в&#160;белые ночи! Не выходишь по&#160;нескольку раз вечером всё с&#160;тем&#160;же замиранием встретить белеющий ствол или&#160;шпиц, башню хвойной вершины в&#160;конце дорожки… И&#160;ты права бояться! Лучше постарайся устроиться так, чтобы не&#160;встречать эти глаза, эти призывы, а — в&#160;белые ночи! В&#160;белые ночи!
+</p><p>А&#160;вечера молодого лета бывают светлы и&#160;прозрачны, как&#160;слёзы!
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ОДИН_РАЗГОВОР"><span id=".D0.9E.D0.94.D0.98.D0.9D_.D0.A0.D0.90.D0.97.D0.93.D0.9E.D0.92.D0.9E.D0.A0"></span>ОДИН РАЗГОВОР</h2></div>
+<p>Я&#160;возвращалась в&#160;город из&#160;гостей, где было очень светло, празднично и&#160;больно. Потому что&#160;есть такие парадные комнаты, страшно яркие, с&#160;громким, непринуждённым [обособленным, — уже готовым без&#160;вас, -] шумом. Куда входить всегда больно, неловко, где бываешь бедняком и&#160;дураком, а&#160;когда оттуда уходишь в&#160;темноту, то&#160;чувствуешь себя сиротой на&#160;всём белом свете. Такие комнаты перед&#160;Рождеством — этим жадным праздником счастливых — просто невыносимы.
+</p><p>Вы оглядываетесь ещё раз на&#160;освещённые окна, — нет, нигде, никогда ещё огни в&#160;окнах не&#160;были так красивы. И&#160;люди не&#160;жили так ярко и&#160;весело!..
+</p><p>Было хорошо и&#160;тихо под&#160;вечер, когда я&#160;заждалась моего поезда на&#160;лесной маленькой платформе.
+</p><p>Сквозь темноту чуялось кругом много, много леса и&#160;что-то&#160;в темноте свершалось важное.
+</p><p>Оттеплилась земля, капало с&#160;крыш, и&#160;мокрые стремительные прутья молодых берёз молились восторженно и&#160;робко при&#160;свете фонаря в&#160;близкое, доверчивое, тёплое небо.
+</p><p>Семафор поглядывал на&#160;меня дружелюбно зелёным глазом. Я&#160;прохаживалась взад и&#160;вперёд по&#160;недлинному дощатому помосту и&#160;всё смотрела, как&#160;молились прутики в&#160;глубокое тихое небо, поблёскивая при&#160;тусклом единственном фонаре каплями воды.
+</p><p>Это было долго, и&#160;душа моя стала слышать немного больше, чем обыкновенно, и&#160;я услышала, как&#160;земля просила её:
+</p><p>«Послушай, ты теперь от&#160;меня так близка, ты слышишь голоса воздуха и&#160;капель, ты услышишь и&#160;меня. Видишь, у&#160;меня есть заботы, — у&#160;меня есть такие дети, которых надо мне поручить кому-нибудь, а&#160;раз ты слышишь меня, ты сможешь и&#160;разыскать их. Разыщи, приюти моих детей, — они&#160;столь неловкие, они&#160;молчат и&#160;едва шевелят губами, вместо того, чтобы громко и&#160;гордо говорить.
+</p><p>Защищай моих детей, — их обидели, они&#160;служат в&#160;конторе вместо того, чтобы писать стихи, вместо того, чтобы любоваться на&#160;свободе мной.
+</p><p>Главное, никто не&#160;замечает, что&#160;они красивы, потому что&#160;на них штиблеты показывают ушки, панталоны вытянулись на&#160;коленках, а&#160;веснушки неуместно садятся на&#160;нос, — так, — на&#160;нос, над&#160;глазом. Они&#160;не&#160;умеют и&#160;поклониться, не&#160;пятясь назад и&#160;не наступая окружающим на&#160;ноги!
+</p><p>Прими моих детей, — они&#160;застенчивые. Где надо промолчать, они&#160;от страха говорят страшно громко, так что&#160;все с&#160;негодованием оглядываются. А&#160;у&#160;себя в&#160;конуре они&#160;потом катаются от&#160;боли по&#160;постели, вспоминая свои светские подвиги, так им невыносимо неловко, — они&#160;готовы кричать и&#160;кусаться от&#160;застенчивости. А&#160;никто этого не&#160;понимает, что&#160;значит впадать в&#160;бешенство и&#160;кусаться от&#160;застенчивости.
+</p><p>Ничего я&#160;не умею для&#160;них, хотя я&#160;плачу об&#160;них: [с&#160;меня&#160;же срезают прутья и&#160;палки, чтобы бить моих детей.]»
+</p><p>Она говорила с&#160;милым огорчением, и&#160;лучи шли от&#160;неё нежные и&#160;ласковые, и&#160;влажные, как&#160;пух, а&#160;оттепель и&#160;берёзки молились, точно молодой кто-то&#160;жалел и&#160;вместе побаивался кого-то&#160;строгого вблизи.
+</p><p>А&#160;в&#160;лицо мне пахнуло талым снегом. Из-за&#160;поворота помчались свистки. Прянул локомотив, сверкая глазами.
+</p><p>За&#160;мной оставалась капающая нежными голосами лесная станция, и&#160;было теперь так, точно я&#160;несла на&#160;груди клад, или&#160;шла стоять где-то&#160;на часах.
+</p><p>И&#160;резкие свистки мне показались из-за&#160;леса [свежими, как&#160;смола] и&#160;смелыми.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Изгибы сосновых ветвей, — как&#160;пламя.
+</p><p>В&#160;вечернем небе над&#160;дюной стоят золотые знаки.
+</p><p>Воображаю себе дорогого мальчика, желанного, говорю ему: будь страшно искренен.
+</p><p>И&#160;тогда делается больно, — что&#160;должен он&#160;пережить. Чем ему ответит жизнь? — Побоями? Я&#160;хочу взять своё пожелание. — Мне больной за&#160;нежный овал его подбородка и&#160;за его тихие большие руки.
+</p><p>Я&#160;говорю, — будь счастлив.
+</p><p>Но&#160;откуда-то&#160;от хвойных корон на&#160;высотах приходит храбрость и&#160;ещё «будь готова».
+</p><p>— Будь искренен, а&#160;я не&#160;буду бояться боли! Будь искренное, будь честное дитя.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p><br />
+</p>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_7" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_7"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Охвачена осенью осинка,<br />
+Стремится ввысь.<br />
+Страшно за&#160;её душу,<br />
+С&#160;восторгом молю — вернись.<br />
+Вернись из&#160;синего неба, светлый огонь.<br />
+Плачу я&#160;о тебе, — о&#160;тебе.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ВАСЯ"><span id=".D0.92.D0.90.D0.A1.D0.AF"></span>ВАСЯ</h2></div>
+<p>Они&#160;вас обманули, ваши отцы! Они&#160;из&#160;года в&#160;год обманывают молодежь. Но&#160;я&#160;мать, меня не&#160;подкупишь, я&#160;вам скажу правду.
+</p><p>Да, они&#160;вас обманули, — они&#160;вас научили говорить: — Будущее, — упроченное положение… Для&#160;юноши нельзя рисковать всею будущностью… Это слишком серьезно. Ведь у&#160;него вся жизнь впереди!..
+</p><p>Но&#160;меня, мать, не&#160;обманешь, — когда потускнеют над&#160;перепиской бессмысленных бумаг глаза, в&#160;которые я&#160;смотрелась, как&#160;в небо!
+</p><p>Скажи, двенадцатилетний мальчишка, — ты что&#160;видишь, когда тебе говорят — «Будущее»?! — Ведь поле, луг, — солнце, речку и&#160;лодку?! Не груду&#160;же бумаги и&#160;не ломберный стол до&#160;рассвета каждую ночь в&#160;накуренном клубе…
+</p><p>Ну, так знай! Твоего будущего тебе не&#160;дадут! Тебя обманывают. — Луг, лодку и&#160;речку тебе не&#160;дадут! Ты не&#160;найдешь теперь этими выцветшими глазами свое будущее: тех друзей, той девушки, — той дороги, какую сулило тебе твое настоящее счастье!! Ведь твои глаза выцвели! Над&#160;твоими бровями не&#160;плетет больше нежные тени весна… С&#160;твоего полуопущенного стыдливого лица, — больше не&#160;струится свет…
+</p><p>«Каким ваш Вася стал молодцом!»
+</p><p>О, да, тебя выправили на&#160;казенной выправке, ты отучился, входя в&#160;дверь, поеживаться, сжимать плечи и&#160;вытягивать шею, нежный верблюжонок!
+</p><p>— Это ложь! Не о&#160;юношах вы думаете, вы заботитесь только о&#160;стариках, похожих на&#160;вас и&#160;понятных вам!
+</p><p>Юность вы ненавидите, вы ей слишком завидуете, — вы ее гоните и&#160;обрезаете по&#160;меркам, чтобы она не&#160;колола вам глаза своей чистотой, честностью и&#160;своею способностью по-настоящему творить.
+</p><p>О&#160;старике с&#160;лысиной и&#160;брюшком, путешествующем в&#160;Карлсбад — думали вы, когда шепелявили об «упроченном положении».
+</p><p>А&#160;юношу — еще мальчишкой вы заставляли все весенние месяцы тосковать в&#160;городе, глядеть день за&#160;днем на&#160;противный гимназический двор, серый и&#160;каменный — безнадежным тусклым взором покорившегося каторге…
+</p><p>Год за&#160;годом его лишали весны! — Звездочек лиловых в&#160;весеннем лесу, желтых бабочек утром, — ромашек веселых, как&#160;солнышки, в&#160;море зеленого травяного сока. Когда он&#160;не покорялся — вы его заставляли, не&#160;стесняясь в&#160;средствах, а&#160;если не&#160;били, так хуже, — обманывали: — «Учись Вася, учись, ты будешь умней!..»
+</p><p>А! Вы серьезно думали, что&#160;он будет умней, — лишившись в&#160;самые чуткие годы — всего Божьего мира? Учись смолоду! А&#160;весна? А&#160;весну учись любить, когда огрубеешь и&#160;устанешь?
+</p><p>Умней! Но&#160;не&#160;вы&#160;ли&#160;сами говорили: «И&#160;на&#160;что эти все учебники, как&#160;глупо составлены: все равно забудется и&#160;ни на&#160;что не&#160;нужно!..»
+</p><p>А&#160;сами для&#160;себя вы припасали творения поэтов, музыку, цветы, дачи, поездки за&#160;границу?!
+</p><p>— А&#160;Вася? — Вася должен учиться! Вы ненавидели своего Васю, вы завидовали его молодости, вы скорей поторопились окургузить его в&#160;мундирчики и&#160;погонцы, чтоб не&#160;колол он&#160;ваши глаза, напоминая вам светом юным своего стана — ангела и&#160;забытое вами небо. «Пригладь вихры! — Вдохновенный вид!..» иронизировали вы, когда невзначай сквозь казенщину, вам виделось, что&#160;в нем раскрылось солнце…
+</p><p>Вы его отдали в&#160;корпус, заставили проделывать каждый шаг под&#160;треск барабана, под&#160;окрик муштровки. А&#160;в&#160;это время каждый год цвела и&#160;осыпал ась черемуха, вили гнезда ласточки!
+</p><p>С&#160;какой бешеной жадностью глядят иногда на&#160;зелень! Вы не&#160;знаете? Вы забыли? Безвозвратно забыли, вы больше не&#160;знаете.
+</p><p>Вы оторвали его от&#160;его зверьков, единственных существ, понимавших его.
+</p><p>Да&#160;его-то&#160;самого спросили тогда о&#160;его желаниях: чего он&#160;жаждет?
+</p><p>Он&#160;упирался и&#160;плакал, обхватив шею собаки в&#160;то мзгливое утро, когда его отвозили в&#160;корпус. Это для&#160;его счастья вы делали? Для&#160;счастья этого самого тогдашнего, неловкого, долговязенького Васи? — Да?.. Нет! Вы того просто убили, принесли в&#160;жертву будущему плешивому господину с&#160;геморроем, который потом родился на&#160;свет из&#160;трупа замученной вами юности. Плешивый господин, похожий на&#160;вас, потерявших самый вкус и&#160;смысл жизни…
+</p><p>Вы обманули в&#160;это утро и&#160;меня, его мать, вы заставили меня лицемерить и&#160;просить. — "Папа так расстроен! У&#160;меня аневризмы. Вася, ты должен пощадить мамочку. — И&#160;мы&#160;убили в&#160;это утро моего Васю. Нет, хуже, мы&#160;заманили его в&#160;западню, выбросили в&#160;волчью яму, где он&#160;годы гнил со сломанными ногами, — где умирала с&#160;голоду его душа, — годы, и — умерла. И&#160;как&#160;два сообщника, мы&#160;ушли от&#160;ямы, не&#160;слушая его криков о&#160;помощи.
+</p><p>А&#160;сколько плакал он&#160;там по&#160;ночам, один, кусая подушку. — Он&#160;был в&#160;это время счастлив?
+</p><p>Потом, взрослый, он&#160;приходит ко&#160;мне и&#160;говорит: «Я&#160;встретил ее, — я&#160;чувствую, что&#160;это она! Отчего&#160;же она меня не&#160;узнала? Почему, мама, это не&#160;может никогда быть взаимно?»
+</p><p>Что&#160;я&#160;могу сказать ему?
+</p><p>Твоя девушка? Да&#160;она полюбит моего Васю! Васю с&#160;застенчивым лицом и&#160;доверчивыми глазами и&#160;болтающего неловко руками-граблями… Но&#160;тебя «выправили», мой милый, и&#160;я сама едва узнаю тебя! — Ты выправился и&#160;стал молодцом! Ты, мой чиновник особых поручений! Любовь, — Она, Солнце, луг, речка. — Нет, теперь ты это оставь, теперь ты просто сделай приличную партию!
+</p><p>Товарищи, друзья! — Зачем?!. У&#160;тебя всегда и&#160;везде найдутся сослуживцы! Зачем тебе призвание? У&#160;тебя будут очередные награды, повышения по&#160;службе. Перед&#160;тобой расстилается не&#160;луг, мой милый, а&#160;служебная карьера или&#160;коммерция — как&#160;мы для&#160;тебя мечтали…
+</p><p>Что&#160;ж, ты теперь, верно, счастлив?
+</p><p>Где твоя улыбка?
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ВЕЧЕРНЕЕ"><span id=".D0.92.D0.95.D0.A7.D0.95.D0.A0.D0.9D.D0.95.D0.95"></span>ВЕЧЕРНЕЕ</h2></div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_8" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_8"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Покачнулось море -<br />
+Баю-бай.<br />
+Лодочка поплыла.<br />
+Встрепенулись птички…<br />
+Баю-бай,<br />
+Правь к&#160;берегу!<br />
+Море, море, засыпай,<br />
+Засыпайте, кулички,<br />
+В&#160;лодку девушка легла,<br />
+Косы длинней, длинней<br />
+Морской травы.<br />
+..........................<br />
+Нет, не&#160;заснет мой дурачок!<br />
+Я&#160;не&#160;буду петь о&#160;любви.<br />
+Как&#160;ты баюкала своего?<br />
+Старая Озе, научи.<br />
+Ветви дремлют…<br />
+Баю-бай,<br />
+Таратайка не&#160;греми,<br />
+Сердце верное — знай -<br />
+Ждать длинней морской травы.<br />
+Ждать длинней, длинней морской травы,<br />
+А&#160;верить легко.<br />
+Не гляди&#160;же, баю-бай,<br />
+Сквозь оконное стекло!<br />
+Что&#160;окошко может знать?<br />
+И&#160;дорога рассказать?<br />
+Пусть говорят — мечты-мечты,<br />
+Сердце верное может знать<br />
+То, что&#160;длинней морской косы.<br />
+Спи спокойно,<br />
+Баю-бай,<br />
+В&#160;море канули часы,<br />
+В&#160;море лодка уплыла<br />
+У&#160;сонули рыбака,<br />
+Прошумела нам сосна,<br />
+Облака тебе легли,<br />
+Строятся дворцы вдали, вдали!..
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Разложили костёр на&#160;корнях и&#160;выжгли у&#160;живой сосны сердцевину.
+</p><p>Кто? Не знаю.
+</p><p>Дерево с&#160;тяжёлой кудрявой головой, необъятной жизненной силы — держалось на&#160;трети древесины, уродливо лишённое гордого упора и&#160;равновесия.
+</p><p>Было очень тихо. Обречённое на&#160;медленную смерть, дерево молчало. Несомненно, оно знало, что&#160;ему сделали, — и&#160;окружавшие его сотоварищи молчали. И&#160;было неприятно и&#160;тяжёло видеть среди жизни очень здорового человека, которого временно отпустили, но&#160;через срок неизбежно назначено повесить, и&#160;он это сам знает, и&#160;окружающие, и&#160;все молчат…
+</p><p>Назад шёл вырубкой.
+</p><p>Злобишься&#160;ли&#160;ты, лес, когда вершины, что&#160;привыкли ходить в&#160;небе, слушать сказания созвездий и&#160;баюкать облака, падают оземь и&#160;оскверняются человеком? Нет, ты перерос возможность злобы. Я&#160;также перерос мою злобу, но&#160;мне очень тяжело.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Несомненно, когда рыцарь Печального Образа летел с&#160;крыла мельницы, — он&#160;очень обидно и&#160;унизительно дрыгал ногами в&#160;воздухе и&#160;когда упал и&#160;разбился, — был очень одинок.
+</p><p>Как&#160;хочется иногда ласки! Я&#160;мечтаю: и&#160;вот, вдруг, он&#160;попал&#160;бы&#160;в этом состоянии к&#160;русской Мавре, к&#160;настоящей нашей полевой русской Мавре, уж она&#160;бы&#160;ему примачивала, перевязывала, приговаривала:
+</p><p>«Ах ты, мой болезный! — Эх ты, роженый! Тебя тоже мать родила, сосунка глупого качала, горя не&#160;знала, а&#160;ты квакал, да&#160;сосал, да&#160;гулькал».
+</p><p>А&#160;над&#160;морем, где-то&#160;далеко на&#160;севере, гнулись&#160;бы&#160;тростины, мокли да&#160;сохли&#160;бы&#160;чалка-чалки. Кричали чайки-чайки!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_9" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_9"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Он&#160;доверчив, -<br />
+Не буди.<br />
+Башни его далеко!<br />
+Башни его высоки.<br />
+Озёра его кротки.<br />
+Лоб его чистый -<br />
+На&#160;нём весна.<br />
+Сорвалась с&#160;ветки птичка -<br />
+И&#160;пусть несётся,<br />
+Люли, люли, -<br />
+Вознеслась и — лети!<br />
+Были высоки и&#160;упали уступчиво<br />
+Башни!<br />
+И&#160;не&#160;жаль печали, — покорна небесная.<br />
+Приласкай, приласкай покорную<br />
+Овечку печали — ивушку,<br />
+Маленькую зарю над&#160;черноводьем.<br />
+Ты тянешь его прямую любовь,<br />
+Его простодушную любовь, как&#160;ниточку,<br />
+А&#160;что&#160;уходит в&#160;глубину?<br />
+Верность,<br />
+И&#160;его башни уходят в&#160;глубину озёр.<br />
+Не так&#160;ли? Полюби&#160;же его.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Когда он&#160;уже слёг, — он&#160;всё повторял:
+</p><p>— Нет, я&#160;знаю, я&#160;не рыцарь, я&#160;просто Алонзо Добрый!
+</p><p>И&#160;просил у&#160;них прощения, что&#160;беспокоил их своим безумием. Его утешали и&#160;забавляли, его называли нарочно: «Рыцарь!»
+</p><p>Как&#160;погремушку, ему это вернули теперь, когда он&#160;всё равно слёг и&#160;умирал. «Ну, напоследок пусть поиграет бедняк своей мечтой!»
+</p><p>— Нет, я&#160;не рыцарь. Вы образумили меня, я&#160;ведь знаю, теперь я&#160;уже не&#160;безумец-гордец, — я&#160;просто Алонзо Добрый.
+</p><p>«Спи, болезный», — от&#160;ласки не&#160;знает, что&#160;сказать, старая.
+</p><p>«Какие у&#160;тебя уши-то&#160;смешные, долгие, не&#160;как у&#160;других…
+</p><p>Какой&#160;же ты худой-то, рёбра-то&#160;все торчат!» И&#160;за&#160;ухом ему потрёт, и&#160;за ухо потянет.
+</p><p>— Отдыхай, на&#160;здоровьице…
+</p><p><br />
+</p>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_10" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_10"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Гуль-гуль,<br />
+Песочек солнышком горит,<br />
+Гуль-гуль, курлы-курлы,<br />
+Гуль-гуль, — песочек крупный,<br />
+Гуль-гуль!
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Мама, а&#160;Дон-Кихот был добрый?
+</p><p>— Добрый!
+</p><p>— А&#160;его били… Жаль его. Зачем?
+</p><p>— Чтобы были приключения, чтоб читать смешно.
+</p><p>— Бедный, а&#160;ему больно и&#160;он добрый. Как&#160;жаль, что&#160;он уже умер. А&#160;он&#160;умер давно?
+</p><p>— Ах, отстань, не&#160;всё&#160;ли&#160;равно. Это сказка, Леля, Дон-Кихота не&#160;было никогда.
+</p><p>— А&#160;зачем&#160;же написали книжечку тогда? Мама, неужели в&#160;книжечке налгали?
+</p><p>— Ты мешаешь мне шить, пошла спать.
+</p><p>— Если книжка лжёт, значит, книжка злая. Доброму Дон-Кихоту худо в&#160;ней.
+</p><p>А&#160;он&#160;стал живой, он&#160;ко мне приходил вчера, сел на&#160;кроватку, повздыхал и&#160;ушел…
+</p><p>Был такой длинный, едва ногами плёл…
+</p><p>— Леля, смотри, я&#160;тебя накажу, я&#160;не терплю бессвязную болтовню.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Мир был прост и&#160;ласков, как&#160;голубь, и&#160;если б его приголубили, он&#160;стал&#160;бы&#160;летать.
+</p><p>Но&#160;его запрягли в&#160;соху, заперли в&#160;тюрьму, и&#160;он стал торжищем и&#160;торговой казнью для&#160;простодушных, нежных и&#160;любящих.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Шёл дождь, было холодно. У&#160;вокзала в&#160;темноте стоял человек и&#160;мок. Он&#160;от&#160;горя забыл войти под&#160;крышу. Он&#160;не&#160;заметил, как&#160;промок и&#160;озяб. Он&#160;даже стал нечаянно под&#160;самый сток…
+</p><p>Он&#160;не&#160;заметил, что&#160;озяб, и&#160;всё стоял, как&#160;поглупевшая, бесприютная птица, и&#160;мок. А&#160;сверху на&#160;него толстыми струями, пританцовывая и&#160;смеясь, лилась — вода…
+</p><p>Дня через&#160;три после этого он&#160;умер.
+</p><p>Это был мой сын, мой сын, моё единственное, моё несчастное дитя.
+</p><p>Это вовсе не&#160;был мне сын, я&#160;его и&#160;не видала никогда, но&#160;я его полюбила за&#160;то, что&#160;он мок, как&#160;бесприютная птица, и&#160;от глубокого горя не&#160;заметил этого.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>И&#160;так нежен и&#160;милосерд этот вечер с&#160;высоким задумчивым лбом, что, право, он&#160;заслужил, чтобы его наказали за&#160;милосердие и&#160;сострадание и&#160;любовь. Чтобы его больно наказали за&#160;его высоту и&#160;чистоту.
+</p><p>И&#160;так&#160;же имел право быть распят этот нежный вечер, похожий на&#160;весну и&#160;на далёкую позабытую родину души…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Подошёл к&#160;молодому безумцу мудрец и&#160;спросил его: «Какое имеешь ты право сметь?» Мальчик отвечал дерзостью: «Мне приходится сметь, потому что&#160;вы все слишком много умеете!»
+</p><p>А&#160;за&#160;дерзость ему связали за&#160;спину руки и&#160;отняли у&#160;него солнце. И&#160;отняли у&#160;него голубые небесные луга с&#160;белыми утренними барашками… И&#160;вместо всего мира дали на&#160;всю жизнь тёмный, сырой, каменный ящик…
+</p><p>Он&#160;больше уже не&#160;видел солнца.
+</p><p>Да&#160;это&#160;же был мой сын, мой сын!..
+</p><p>Нет! Но&#160;того из&#160;мальчиков земли, с&#160;кем это сбудется, — я&#160;люблю, как&#160;сына.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Жил-был еще один мальчик, нежный, застенчивый, чистоплотный, аккуратный…
+</p><p>Но&#160;он&#160;посмел жалеть и&#160;любить, и&#160;от жалости он&#160;становился смелым — и&#160;за это его взяли, как&#160;преступника, и&#160;увели от&#160;матери…
+</p><p>В&#160;первый раз он&#160;очутился без&#160;нее.
+</p><p>Его страданья, неженки, брошенного в&#160;каземат, — были ужасны, и&#160;он мучился тем еще, что&#160;был одинок в&#160;своем страданьи, его лишения были больнее лишений неряшливых, грубых преступников, почти не&#160;замечавших грязного режима тюрьмы. Никто этого не&#160;понимал и&#160;никому до&#160;этого не&#160;было дела.
+</p><p>Он&#160;не&#160;умел спать на&#160;жёсткой наре. Когда утром его повели к&#160;доктору — он&#160;был совсем болен от&#160;бессонницы и&#160;дрожал…
+</p><p>— Трусишка! Однако, как&#160;ты дрожишь!..
+</p><p>— Нет, я&#160;не боюсь, как&#160;вы смеете так говорить. Я&#160;дрожу потому, что&#160;я больной… Я&#160;третью ночь не&#160;сплю, г-н офицер!.. И&#160;потом, там, кажется… кажется, на&#160;койке паразиты!..
+</p><p>Над&#160;ним смеялись. Его допрос доставлял даровую комедию. Он&#160;не&#160;мог есть пищу тюрьмы и&#160;болел. От&#160;паразитов и&#160;грязи у&#160;него сделались раны.
+</p><p>Над&#160;ним смеялись и&#160;товарищи по&#160;заключению. Они&#160;чурались «дворянчика», — они&#160;прекрасно здесь ели, спали и&#160;уживались…
+</p><p>Это было моё дитя, моё бедное, выброшенное из&#160;дома в&#160;тюрьму, дитя!..
+</p><p>Нет! Но&#160;дерзкого неженку, барчонка, умеющего говорить правду, я&#160;люблю больше героев…
+</p><p>Я&#160;хотела&#160;бы&#160;погладить его сбившиеся на&#160;грязных нарах в&#160;бессонные ночи волосы.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ДЕНЬ_СКВОЗЬ_ОБЛАКО_—_ДЮНА"><span id=".D0.94.D0.95.D0.9D.D0.AC_.D0.A1.D0.9A.D0.92.D0.9E.D0.97.D0.AC_.D0.9E.D0.91.D0.9B.D0.90.D0.9A.D0.9E_.E2.80.94_.D0.94.D0.AE.D0.9D.D0.90"></span>ДЕНЬ СКВОЗЬ ОБЛАКО — ДЮНА</h2></div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_11" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_11"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Сосны тихо так стоят кругом<br />
+Спи, пора…<br />
+Видит сон при&#160;море сойма -<br />
+Гляди, — ей снится,<br />
+Видится лес легкотуманный…<br />
+Засни, — засни.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="СОЛНЕЧНАЯ_ВАННА"><span id=".D0.A1.D0.9E.D0.9B.D0.9D.D0.95.D0.A7.D0.9D.D0.90.D0.AF_.D0.92.D0.90.D0.9D.D0.9D.D0.90"></span>СОЛНЕЧНАЯ ВАННА</h2></div>
+<p>Ну, теперь на&#160;тело поэта, лей лучи!
+</p><p>Горячей! — На&#160;прозрачные пальцы, где просвечивают благородные кости г-на&#160;Маркиза облаков.
+</p><p>Жарь горячей! — Верни им розовый цвет!
+</p><p>Посмотри, как&#160;неохотно слабые жилы привязали длинную шею к&#160;плечам.
+</p><p>Будь к&#160;нему щедрым — он&#160;растерял много, сумасбродный разиня! — И&#160;вот кости светлыми узлами просвечивают под&#160;его терпеливой кожей — и&#160;на высоких висках голубое небо.
+</p><p>Шпарь его хорошенько! — Так ему и&#160;надо!
+</p><p>Он&#160;смеётся? — Что!?.. Возвращается жизнь к&#160;тебе, мот, расточитель, смешной верблюжонок?!..
+</p><p>На&#160;дюне лошади пофыркивают тревожно, протянув морду и&#160;распустив хвост, — когда духи, в&#160;светлых одеяниях проходят близко мимо и&#160;истаивают. Они&#160;проходят, и&#160;сейчас&#160;же растаивают белым паром.
+</p><p>Жарко!
+</p><p>— Но&#160;нет, я&#160;всё-таки не&#160;могу без&#160;мечты: я&#160;в себе ношу золотистое голубое тело юной вещи, и&#160;когда я&#160;впиваю жизнь, пьёт и&#160;она: — таковы поэты. Что&#160;делать?
+</p><p>— Быть экономными.
+</p><p>— Я&#160;так и&#160;делаю.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ИЮНЬ"><span id=".D0.98.D0.AE.D0.9D.D0.AC"></span>ИЮНЬ</h2></div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_12" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_12"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Глубока, глубока синева.<br />
+Лес полон тепла.<br />
+И&#160;хвоя повисла упоенная<br />
+И&#160;чуть звенит<br />
+от&#160;сна.<br />
+Глубока, глубока хвоя.<br />
+Полна тепла,<br />
+И&#160;счастья,<br />
+И&#160;упоения,<br />
+И&#160;восторга.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_13" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_13"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Пески, досочки.<br />
+Мостки, — пески, — купальни.<br />
+Июнь, — июнь.<br />
+Пески, птички, — верески.<br />
+И&#160;день, — и&#160;день,<br />
+И&#160;июнь, — июнь,<br />
+И&#160;дни, — и&#160;дни, денёчки звенят,<br />
+Пригретые солнцем,<br />
+Стой! — Шалопай летний,<br />
+Стой, Юн Июньский,<br />
+Нет, не&#160;встану, — пусть за&#160;меня<br />
+лес золотой стоит, -<br />
+Лес золотой,<br />
+Я&#160;июньский поденщик,<br />
+У&#160;меня плечи — сила,<br />
+За&#160;плечами широкий мир.<br />
+Вокруг день да&#160;ветер -<br />
+Впереди уверенность.<br />
+У&#160;меня июнь, июнь и&#160;день.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="СТРЕКОЗА"><span id=".D0.A1.D0.A2.D0.A0.D0.95.D0.9A.D0.9E.D0.97.D0.90"></span>СТРЕКОЗА</h2></div>
+<p>Но, ведь ты голубей неба, стрекоза. — Я&#160;царевна! — Небо синее. Слышен густой пчелиный звон, он&#160;пахнет мёдом и&#160;смолой. Небо синее. Как&#160;поёт земля и&#160;дышит лес! С&#160;золотых стволов шелестят чешуйки. Точно от&#160;солнца откололись. И&#160;от&#160;жары всё кругом хочет радостно расколоться, как&#160;вот эта щепка с&#160;танцующим звуком.
+</p><p>Стрекоза на&#160;пне, под&#160;наплывом солнца, разгибает стеклянные крылья, и&#160;по ним, блестя, льётся жар.
+</p><p>Растянулся ничком охотник созвучий и&#160;мыслей и — жарится. Стрекоза, драгоценность, царевна покачалась над&#160;его плечами и&#160;грациозно села ему пониже спины, приняв эту часть за&#160;холмик. И&#160;блестит драгоценным рубином на&#160;его панталонах. Он&#160;и&#160;не подозревает об&#160;украшении, — да&#160;ещё этот хохолок на&#160;его лбу вдобавок. Это вместе придало ему вид одураченный и&#160;милый. Стрекоза сверкает рубином на&#160;его драных панталонах, а&#160;перед его широкими, точно впервые очарованными глазами другая, синяя, опускается и&#160;поднимается, качаясь на&#160;медовых летних волнах.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>В&#160;груди моей сегодня так мило просит.
+</p><p>Душа отвечает смолистому дню.
+</p><p>Душа хочет великого, душа хочет избранного, глубины, безграничной сокровищницы, возможного.
+</p><p>Вот тут под&#160;ногами ещё сухо и&#160;хвойно, внизу зелен бережок таинственной канавки, и&#160;священные зелёные урны папоротника свершают обряд… В&#160;груди у&#160;меня просит душа.
+</p><p>Тогда душа сосен выходит ко&#160;мне смолевым плавным волнением и&#160;говорит такие таинственные слова:
+</p><p>«Ты знаешь, ты — единственная!
+</p><p>Узнай, — ты наша, запомни! Тебя прислали сюда Гении Вестники! — Для&#160;нас. И&#160;это мы&#160;наполнили тебя.
+</p><p>Ещё знай, что&#160;во имя нас и&#160;беззащитной, оскорблённой здесь человеком природы, ты должна…»
+</p><p>В&#160;эту минуту зовут обедать.
+</p><p>— Сейчас! Я&#160;сейчас иду!..
+</p><p>Как&#160;это скучно!..
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>От&#160;счастья летнего рождаются слова! Все хорошие слова:
+</p><p><br />
+</p>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_14" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_14"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Прудик, водик,<br />
+бродик,<br />
+верблюдик,<br />
+растерятик,<br />
+пароходик.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p><p>А&#160;пароходик со звонкой, красной американской полосой сегодня утром видели с&#160;балкона.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Ах! Какая лодка! У&#160;неё весёлый нос, крутые рёбра, — вся она веретенцом: белая, с&#160;красной и&#160;зелёной полоской. Идёт и&#160;ныряет, ныряет носом: так и&#160;режет волны: с&#160;ней размечтаешься не&#160;на шутку, — летит! Перегони пароход! Ну их! Поцелуй, поцелуй синюю волну!..
+</p><p>Наше вам! Очарованной белой принцессе — башне маяка.
+</p><p>Ну, ныряй! Ну ещё! Ешё!.. Ну, ещё&#160;же! Зовут её «Рыбка».
+</p>
+<div class="mw-heading mw-heading2"><h2 id="&lt;ЛОДОЧКА&gt;"><span id=".3C.D0.9B.D0.9E.D0.94.D0.9E.D0.A7.D0.9A.D0.90.3E"></span>&lt;ЛОДОЧКА&gt;</h2></div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<dl><dt>'</dt></dl><table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_15" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_15"></span>* * *</h4>
+<p><br />
+</p><p><br />
+</p>
+<br /><div style="text-align:right"><i></i>
+<p><i>Хор</i>
+</p><p>У&#160;него&#160;ли&#160;рыбочка,<br />
+Лодочка, весна,<br />
+До&#160;того&#160;ли&#160;ходкая,<br />
+Завидно ладна!
+</p><p><i>Он</i>
+</p><p>Рыбка моя, лодочка,<br />
+не&#160;посмей тонуть.<br />
+С&#160;красной да&#160;полосочкой, -<br />
+ходкая, мигнуть.
+</p><p><i>Хор</i>
+</p><p>Лодка, лодка, лодочка -<br />
+одного мигнуть<br />
+Не посмей, рыбешечка,<br />
+затонуть.
+</p><p><i>Он</i>
+</p><p>Ладна, ладна лодочка,<br />
+да&#160;во мне дыра.<br />
+Подвела, малюточка,<br />
+к&#160;рыбкам привела.
+</p><p><i>Хор</i>
+</p><p>Ах, его&#160;ли&#160;лодочка,<br />
+да&#160;не хоть куда -<br />
+до&#160;краёв маленечко<br />
+тина, да&#160;вода.
+</p>
+<i></i></div>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="&lt;ПЕСНЯ_О_СЛАВНЫХ_КАЛОШАХ&gt;"><span id=".3C.D0.9F.D0.95.D0.A1.D0.9D.D0.AF_.D0.9E_.D0.A1.D0.9B.D0.90.D0.92.D0.9D.D0.AB.D0.A5_.D0.9A.D0.90.D0.9B.D0.9E.D0.A8.D0.90.D0.A5.3E"></span>&lt;ПЕСНЯ О&#160;СЛАВНЫХ КАЛОШАХ&gt;</h2></div>
+<p>Да&#160;здравствуют гордые калоши! Кто встретит в&#160;лесах Балтийского побережья пару калош, без&#160;человеческих жалких ног, да&#160;узнает — это ведь мои калоши. Они&#160;были слишком славны и&#160;велики, слишком велики, чтобы держаться на&#160;ногах. Возвышенные! Счастлив тот, кого назовут они&#160;другом, на&#160;чьих ногах они&#160;согласятся путешествовать… Они&#160;всегда презирали меня.
+</p><p>Дождик, дождик, звени на&#160;крышах дач славную песню о&#160;свободных калошах!.. Они&#160;были так благородно независимы и&#160;салонно воспитаны, что&#160;почти никогда не&#160;оставались в&#160;передней… Нет!.. И&#160;я&#160;замечал это лишь тогда, когда они&#160;уже успевали достойно заслужить внимание всех, сидящих в&#160;гостиной…
+</p><p>Я&#160;не&#160;завистлив, но&#160;на них всегда обращали гораздо больше внимания, чем на&#160;меня… Я&#160;не&#160;вынес соперничества…
+</p><p>И&#160;вот, одинокие, гордые, немного унылые, они — свободны. О, калоши, калоши, гордые калоши севера!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Эх ты! У&#160;тебя рубашка вылезла над&#160;поясом!
+</p><p>Хоть полпуда муки высыпай тебе в&#160;рубашку.
+</p><p>Что&#160;расставил граблями пальцы? Эй ты, мямля!
+</p><p>Ну, что&#160;уставился, да&#160;ещё раскрыл рот!
+</p><p>Ты правишь лодкой?
+</p><p>Нет.
+</p><p>А&#160;лошадью?
+</p><p>Нет.
+</p><p>А&#160;дерёшься?
+</p><p>Нет, право, оставь меня!
+</p><p>Что&#160;ж ты делаешь целый день, длинный простофиля?
+</p><p>Да, оставь, ну, не&#160;надо…
+</p><p>Эх, отколотил&#160;бы&#160;тебя, да&#160;жаль, и&#160;вдобавок ты — король, это для&#160;тебя, собственно, и&#160;небо, и&#160;земля…
+</p><p>Да&#160;ну тебя, ты теперь так и&#160;простоишь, разиня рот, до&#160;самого Покрова! Знаешь, что, дам-ка я&#160;тебе шлепка прямо из&#160;милосердия, а&#160;то простоишь ведь так, король, до&#160;самого Покрова.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<dl><dt>'</dt></dl><table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_16" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_16"></span>* * *</h4>
+<p><br />
+</p><p><br />
+</p>
+<br /><div style="text-align:right"><i></i>
+<p>Звёздочка высока.<br />
+Она блестит, она глядит, она манит.<br />
+Над&#160;грозным лесом<br />
+Она взошла.<br />
+Чёрный грозный лес,<br />
+Лес стоит.<br />
+Говорит: — В&#160;мой тёмный знак,<br />
+Мой тёмный знак не&#160;вступай!<br />
+От&#160;меня возврата нет -<br />
+Знай!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>За&#160;звездой гнался чудак,<br />
+Гнался…<br />
+Где нагнать её?<br />
+Не отгадал и<br />
+Не нагнал -<br />
+И&#160;счастлив был, -<br />
+За&#160;неё, за&#160;неё пропал!
+</p>
+<i></i></div>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="НА_ПЕСКЕ"><span id=".D0.9D.D0.90_.D0.9F.D0.95.D0.A1.D0.9A.D0.95"></span>НА ПЕСКЕ</h2></div>
+<p>Сосновые шишки, выбеленные на&#160;пустынном песке солёной водой и&#160;солнцем, принимают голубой цвет.
+</p><p>В&#160;каждой шишке, в&#160;разгибах её согнутых чешуек кристаллизованная буря. Упорный ветер — кристаллы северного настроения. Они&#160;были собраны в&#160;шапку и&#160;принесены домой вместе с&#160;раковинами улиток, сомнительно пахнувшими тиной, и&#160;хорошенькими сухими шариками, которые дома выброшены встретившими за&#160;своё явно заячье происхождение и&#160;за которые принесший был осмеян. Как&#160;осмеян! Отбиваясь, он&#160;пробился сквозь кусты, оставив на&#160;сучьях клочья тонких волос, и&#160;бросился, как&#160;молодой жираф, нелепыми шагами осмеянного. Почему? Ведь заячьи шарики были сухие и&#160;очень хорошенькие. В&#160;округленных ямках песку лежали, как&#160;в гнёздышках.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ТАЙНА"><span id=".D0.A2.D0.90.D0.99.D0.9D.D0.90"></span>ТАЙНА</h2></div>
+<p>Есть очень серьёзная тайна, которую надо сообщить людям.
+</p><p>Это — то, что&#160;земля их очень любит.
+</p><p><br />
+</p>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_17" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_17"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Мы, милостью Божьею мечтатели,<br />
+Мы&#160;издаём вердикт!
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p><p>Всем поэтам, творцам будущих знаков, — ходить босиком, пока земля летняя. Наши ноги ещё невинны и&#160;простодушны, неопытны и&#160;скорее восхищаются. Под&#160;босыми ногами плотный солёный песок, точно слегка замороженный, и&#160;только меж пальцев шевелятся то&#160;холодные, то&#160;тёплые струйки. С&#160;голыми ногами разговаривает земля. Под&#160;босой ногой поёт доска о&#160;тепле. Только тут узнаешь дорогую близость с&#160;ней.
+</p><p>Вот почему поэтам непременно следует ходить летом босиком…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Это положительный позор целый день греть пятки на&#160;песке!
+</p><p>Это могут делать только отступники своей веры, изменники своей родины, которые не&#160;воспевают её красоты, не&#160;защищают эту красоту могуществом слова…
+</p><p><br />
+</p>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_18" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_18"></span>* * *</h4>
+<p><br />
+</p><p><br />
+О, лень, великая лень!<br />
+Моя мечтательная лень!
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_19" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_19"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Ветер, ветер, налетай, налетай,<br />
+Сумасброда выручай!<br />
+Я&#160;лодку засадил,<br />
+засадил на&#160;мель,<br />
+Засадил корму,<br />
+Тростникову<br />
+Чащу, чащу<br />
+Раздвигай!<br />
+Я&#160;лодчонку<br />
+Засадил, засадил…<br />
+Чтоб ему!
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="СОЛНЕЧНЫЙ_СОН"><span id=".D0.A1.D0.9E.D0.9B.D0.9D.D0.95.D0.A7.D0.9D.D0.AB.D0.99_.D0.A1.D0.9E.D0.9D"></span>СОЛНЕЧНЫЙ СОН</h2></div>
+<p>Какая широкая грудь у&#160;всех сегодня! С&#160;дюнки пахнет солнечным утром. Точно глотаешь холодненькие волны.
+</p><p>Полуступая робкой обнажённой походкой, прошли светлоногие дачные мальчики; у&#160;них ещё не&#160;обтерпелись ступни, и&#160;легко накалываются на&#160;сосновые иглы.
+</p><p>Сосны баюкаются, солнечные тени растворены нежно молоком воздуха.
+</p><p>С&#160;юга потянули белые кудрявые неженки — расплавились в&#160;голубом напитке высоты.
+</p><p>Пощекочи мне тихонько за&#160;ухом, ветер!.. Да&#160;не&#160;так&#160;же! Никто не&#160;просит тебя щекотать мне нос! Я&#160;и&#160;без тебя знаю, воздушный чудак, что&#160;нос у&#160;меня немножко длинноват. — Что? — Неправда! Это не&#160;я вчера опрокинул тётину жардиньерку и&#160;смахнул вазу цветов со стола! Я&#160;всегда ловкий, я&#160;стройный, я&#160;создан для&#160;того, чтобы восхитительно танцевать, — я&#160;принц! Пощекочи мне мою левую пятку, песок, — вот так!..
+</p><p>Облако моё милое, — облако моё милое, ласковое, — небесный белый телёночек — сонный небесным сном…
+</p>
+<div class="mw-heading mw-heading2"><h2 id="НАКОНЕЦ_СОЛНЦЕ"><span id=".D0.9D.D0.90.D0.9A.D0.9E.D0.9D.D0.95.D0.A6_.D0.A1.D0.9E.D0.9B.D0.9D.D0.A6.D0.95"></span>НАКОНЕЦ СОЛНЦЕ</h2></div>
+<p>В&#160;саду стоит молоденький немец репетитор. У&#160;него немножко сиротливая спина, но&#160;сейчас её ему обогрело солнце; руки у&#160;него болтаются и&#160;ноги тоже. На&#160;ходу, ради равновесия, он&#160;держит немного открытым свой рот и&#160;вид у&#160;него чуть-чуть ошалелый; но&#160;зато он&#160;славно порёвывает от&#160;удовольствия басом, — недавно полученным в&#160;подарок от&#160;матери природы. Ещё не&#160;умея справиться с&#160;мужским голосом, он&#160;иногда ревёт чересчур и&#160;тогда виновато поглядывает на&#160;дом.
+</p><p>Солнце ласково греет его.
+</p><p>Иногда даже очень скромный юноша думает, какой я&#160;милый, и&#160;хочет погладить себя по&#160;шее к&#160;подбородку.
+</p><p>Нельзя в&#160;солнечный добрый день не&#160;любить своей щеки и&#160;своего округлого подбородка.
+</p><p>И&#160;он&#160;тут&#160;же конфузится.
+</p><p>Другой юноша усердно и&#160;деловито, двигая челюстями и&#160;ушами, жуёт хлеб? Нет, целую большущую плитку шоколада. Это нелепо, и&#160;потому нельзя не&#160;любить его за&#160;это.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>А&#160;в&#160;лесу радостный час!
+</p><p>А&#160;в&#160;лесу цветёт толокнянка — маленькие розовые цветочки. Вся земля, кочки мха в&#160;миндальной пене!..
+</p><p>Земля сплошь в&#160;розовой пене!
+</p><p>Ах, блаженный воздух, радостный час! —
+</p><p>В&#160;лесу цветёт тонкими цветочками толокнянка!
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ДЕТИ_СОЛНЦА"><span id=".D0.94.D0.95.D0.A2.D0.98_.D0.A1.D0.9E.D0.9B.D0.9D.D0.A6.D0.90"></span>ДЕТИ СОЛНЦА</h2></div>
+<p>Некоторых солнце так нежно и&#160;богато пригревает, что&#160;им совершенно делается безразлично, что&#160;направо идти, что&#160;налево, — завести общество в&#160;болото, что&#160;вывести на&#160;удобную дорожку, — лишь&#160;бы&#160;светило любящее их солнце. Они&#160;сбиваются с&#160;дороги, попадают ногами в&#160;лужи, забывают качку предательского лесного болота. Им везде слишком хорошо, чтобы замечать дорогу.
+</p><p>Вместо того, чтобы им завидовать, над&#160;ними смеются, и&#160;на них страшно сердятся.
+</p><p>А&#160;солнце всё ласкает, ласкает дорогого разиню, пока он&#160;бредёт, за&#160;всё задевая, теряя калоши или&#160;парусинные туфли, с&#160;карманом, вывороченным на&#160;манер ослиного уха, и&#160;мурлычет себе под&#160;нос от&#160;счастья мечтать среди всеобщего возрастающего негодования.
+</p><p>. . . . . . . . . . . . . . . . . . . . . . . . . .
+</p><p>Так как&#160;один из&#160;членов колонии растерял в&#160;лесу все свои книжки, а&#160;мы их подобрали, —
+</p><p>То&#160;доводим до&#160;его сведения, что&#160;это нами сделано в&#160;самый последний раз.
+</p><p>«Да&#160;не&#160;теряет впредь!»
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Да&#160;прославятся балконы неснятых дач, песочные ямы, косогоры, сарайчики!
+</p><p>Там собирались всё лето совещаться, там провозглашали[сь] чудесные девизы искусства!.. Там были клубы мечтателей, когда одни сидели, подкорчив ноги, на&#160;ступеньках, а&#160;самый смелый и&#160;полоумный с&#160;очаровательными голубыми глазами, размахивая в&#160;такт рукой, декламировал глуховатым баском лёгочного. А&#160;в&#160;наступающих сумерках лоб белел, и&#160;рукава летней сорочки чудились крыльями и&#160;несколько гнутых стульев дачной обстановки, направленных к&#160;стихам, — слушали, разинув рты.
+</p><p>О, красота, во&#160;имя которой сидят и&#160;кротко кашляют на&#160;нетопленых чердаках!..
+</p><p>Сквозь решётку балконной рамы сияла звёздочка.
+</p><p>А&#160;лодка?
+</p><p>И&#160;плавкость мечты? — Эта дача под&#160;старинной берёзой!
+</p><p>Корабль — буря!..
+</p><p>Г-н редактор, полиция, то&#160;бишь буря, конфисковала номер. —
+</p><p>— Это загремел гром?
+</p><p>Нет, [это] ветер принёс гром лесопилки.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Твоя скрипка немного сошла с&#160;ума. — Это день, день, день, и&#160;мы верим в&#160;духов! Белокудрый, любезного вида, дух прогуливается по&#160;небу, меж берёзами. К&#160;стопам его пристала голубизна. Какие мы&#160;с тобой счастливые! Ты веришь, что, обзаведясь семьёй, можно быть опять Богом, исправляться уже будучи в&#160;чинах, увидеть, как&#160;Моцарт овладел голубизной берёзы, — и&#160;что завтра — цель сегодня.
+</p><p>Мы&#160;качались в&#160;гамаке и&#160;мечтали о&#160;бессмертии души, молодые сосны были в&#160;солнце.
+</p><p>Петли скрипели.
+</p><p>Мы&#160;себя мнили почти духами.
+</p><p>Качели летали. Вечная юность — да&#160;ведь это достижимо!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Почему ты не&#160;хочешь?
+</p><p>— Почему не&#160;хочу! Потому что&#160;там печатаются, пристраиваются через&#160;связи; трусы, чтобы пройти там, подлизываются, а&#160;после становятся в&#160;дверях и&#160;отталкивают молодых и&#160;не дают им войти, потому что&#160;они талантливее, — оставляют их в&#160;темноте…
+</p><p>— Мы&#160;известны, — ты нет! Люди ничего не&#160;узнают о&#160;тебе, они&#160;пойдут за&#160;теми, о&#160;ком мы&#160;напишем. Какое ты имеешь право желать света!
+</p><p>— Я&#160;талантлив!
+</p><p>— Нам какое дело!
+</p><p>— Я&#160;жажду света!
+</p><p>— Нам-то&#160;что до&#160;этого.
+</p><p>— Я&#160;человек!
+</p><p>— Свет наш не&#160;обязан удовлетворять всех.
+</p><p>— Я&#160;хочу служить людям!
+</p><p>— Это другое дело, — заглуши свою жажду и&#160;свои фантазии.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p><br />
+</p>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_20" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_20"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Ах, всегда звёзды качаются -<br />
+Не поднимутся никогда.<br />
+И&#160;пускай деньки маются…<br />
+Дни, дни, — динь, динь…
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Почему ты ни&#160;за что&#160;не примешься? Уж не&#160;день&#160;ли&#160;Святого Лентяя у&#160;тебя сегодня?
+</p><p>— Ну, лентяя ты уж оставь. Каждый месяц бывает только 5 дней Св. Лентяя:
+</p><p>1) Когда мне не&#160;хочется. 2)&#160;Когда я&#160;никак не&#160;могу собраться. 3)&#160;Когда я&#160;собираюсь завтра начать. 4)&#160;Когда почти совсем было начал работу, да&#160;надо отдохнуть. 5)&#160;Когда мне всё трын-трава.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_21" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_21"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Море, плавно и&#160;блеско.<br />
+Летают ласточки,<br />
+Становится нежно розовым.<br />
+Мокнет чалочка,<br />
+Плывёт рыбалочка,<br />
+Летогон, летогон,<br />
+Скалочка!
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p><p>Что&#160;ещё за&#160;скалочка? Это просто так, я&#160;выдумал. Это очень мило, скалочка! Скалочка! Это должно быть что-то&#160;среднее между ласточкой и&#160;лодочкой!..
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_22" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_22"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Дождики, дождики,<br />
+Прошумят, прошумят.<br />
+Дождики-дождики, ветер-ветер<br />
+Заговорят, заговорят, заговорят -<br />
+Журчат.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Маркизы дачи хлопают, как&#160;паруса. Они&#160;пропахли солёным морем.
+</p><p>— Эй! Не спите&#160;же! — Ну, вас! Ну, что&#160;корректуры?
+</p><p>— Убирайтесь! Я&#160;мечтаю — и&#160;вообще…
+</p><p>— Довольно! Сооружаем мы&#160;журнал или&#160;нет? — Если к&#160;одиннадцати не&#160;будет готово, я&#160;отколочу вас палкой. — Серьёзно. — Я&#160;ухожу.
+</p><p>— Погодите, — вы слышали? Погодите&#160;же, — ёлку повалило над&#160;оврагом, едва не&#160;задавило весь наш ручей
+</p><p>— Эй, новость тоже!
+</p><p>Бог знает, что&#160;делается на&#160;море — шкмарит по&#160;чём ни&#160;попало.
+</p><p>— Так или&#160;корректуры — или…
+</p><p>— А&#160;убирайтесь к&#160;чёрту!!!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>В&#160;лучезарной бледности небо. В&#160;раздавшихся в&#160;обе стороны светлых перьях облаков — знак ширины, знак полёта, и&#160;во всё это врезались мачтами кресты ёлок.
+</p><p>В&#160;ветвях сосен и&#160;всюду дремлют тысячи сонных ритмов.
+</p><p>Сосны испускают столько молчания, что&#160;оно поглощает звуки.
+</p><p>Золотые стволы, люди, дни, мысли — погружены, как&#160;рыбы, в&#160;светлый июнь.
+</p><p>Я&#160;молюсь покровителям тихим с&#160;крыльями широкими и&#160;нежными, как&#160;большое море и&#160;тихая дюна.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ОБЛАКА_ПРИХОДЯТ_КАК_СНЫ"><span id=".D0.9E.D0.91.D0.9B.D0.90.D0.9A.D0.90_.D0.9F.D0.A0.D0.98.D0.A5.D0.9E.D0.94.D0.AF.D0.A2_.D0.9A.D0.90.D0.9A_.D0.A1.D0.9D.D0.AB"></span>ОБЛАКА ПРИХОДЯТ КАК СНЫ</h2></div>
+<p>«От&#160;моих песен люди станут лучше», — думает он. И&#160;вот он&#160;легонько идёт по&#160;мосткам и&#160;поглядывает кругом. Пусть они&#160;станут прямыми, честными, добрыми — и&#160;смелыми — тут он&#160;чуть-чуть смущённо улыбается, ведь он&#160;сам не&#160;всегда смелый.
+</p><p>«Отчего им быть лучше от&#160;моих песен? Оттого&#160;ли, что&#160;в моих песнях будет вот эта стройная сосенка? Розовый прозрачный вереск, такой чисто-розовый, что&#160;никто не&#160;может не&#160;любить его? Если очень полюбить стройную вершинку, можно&#160;ли&#160;затем кого-нибудь обмануть?
+</p><p>Нет, никогда!
+</p><p>Напишу&#160;ли&#160;я эти песни? Нет&#160;ли? Моя&#160;ли&#160;это судьба или&#160;нет?»
+</p><p>Тихо, тихо сладко дышится, «моя&#160;ли, моя&#160;ли?» [Молиться,] — «но&#160;моя&#160;ли&#160;это дорога? — А&#160;вдруг не&#160;моя».
+</p><p>Тихо, тихо сладко мучится сердце. Хочется, чтобы были угрызения совести; — хочет помучиться — и&#160;не может: впереди ещё так много времени для&#160;исправления.
+</p><p>Впереди стройны и&#160;чисты, одна за&#160;другой, меряют небо молодые вершины.
+</p><p>Если смотреть на&#160;них, разве можно не&#160;быть честным?
+</p><p>Разве можно не&#160;быть счастливым от&#160;радостного ожидания?
+</p><p>Лукаво хочется ему томиться, быть грешником, раскаиваться; хочется исправляться.
+</p><p>Полюбят&#160;ли&#160;люди мои песни? Полюбят&#160;ли&#160;мою сосну?
+</p><p>Лёгким стройным крестом мчится в&#160;беззаботное кроткое небо её вершина.
+</p><p>Пугливые дачники проходят вплотную мимо него и&#160;от страха принимают презрительный и&#160;суровый вид, а&#160;он, уступая дорогу, растерянно соскакивает с&#160;мостков.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_23" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_23"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Струнной арфой<br />
+Касались сосны,<br />
+где свалился полисадник,<br />
+У&#160;забытых берегов<br />
+и&#160;светлого столика, -<br />
+рай неизвестный,<br />
+кем-то&#160;одушевлённый.<br />
+У&#160;сосновых стволов<br />
+тропинка вела,<br />
+населённая тайной,<br />
+к&#160;ласковой скамеечке,<br />
+виденной кем-то&#160;во сне.<br />
+Пусть к&#160;ней придёт<br />
+вдумчивый, сосредоточенный,<br />
+кто умеет любить, не&#160;знаю кого,<br />
+ждать, — не&#160;знаю чего,<br />
+а&#160;заснёт, душа его улетает<br />
+к&#160;светлым источникам<br />
+и&#160;в серебряной ряби<br />
+веселится она.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>На&#160;небосклоне светящийся кусочек несбыточно радостной страны выглянул из-за&#160;тяжёлых от&#160;дождя берёз, — туда был указан путь. Но&#160;путь был смешной, а&#160;в несбыточную радость верилось…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Застенчивый юноша любил цветы. Они&#160;в&#160;невинном удивлении вытягивались из&#160;земли, и&#160;лицо каждого было невозвратимо, и&#160;горем, большою жестокостью было&#160;бы&#160;обмануть доверчивого; радость каждой белой звёздочки, каждой хрупкой чашечки, раскрытой сердцевины.
+</p><p>Но&#160;руки большие и&#160;кроткие умели прикасаться с&#160;такой чуткостью сострадания и&#160;предвиденьем неиспытанного, что&#160;в этом царстве беззащитности никто не&#160;боялся тихих шагов приближающегося большого непонятного создания.
+</p><p>Потому что&#160;есть совсем прямая дорога в&#160;небо и [в]верх устремлённых [высоких ветвей], и&#160;сбегов крыш. Где ветви, как&#160;птицы, как&#160;мечи, кресты и&#160;предзнаменования.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Этим днём было молочно-нежно, тихо и&#160;волгло. Он&#160;уже и&#160;раньше замечал, что&#160;у юных сосен стволы — струны. Ветви — вознесены.
+</p><p>Молодой бор стоит, как&#160;тихий стройный огонь.
+</p><p>Звезда, звезда моя, или&#160;нет, иначе. — Ах ты, тихая лань моя… Так он&#160;назвал не&#160;девушку, а&#160;жизнь свою: потому что&#160;она была очень кроткая. Он&#160;не&#160;любил ещё.
+</p><p>В&#160;высотах не&#160;было ветра… Он&#160;долго, долго стоял… Он&#160;не&#160;обещал перед&#160;струнами ничего… Но&#160;за&#160;него перед&#160;ними было произнесено… И&#160;он&#160;не слышал, но&#160;почувствовал.
+</p><p>Не сказал ни&#160;слова. Вздохнул, не&#160;знал о&#160;чём, вздохнул. Он&#160;тихонько возвращался, заплетая ногу за&#160;ногу… Опоздал к&#160;ужину. Его выбранили. Он&#160;резал потихонечку перочинным ножиком стол. Думал… Рассматривал свой средний палец… Думал…
+</p><p>Так его обещали жизни.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="МЕЧТА"><span id=".D0.9C.D0.95.D0.A7.D0.A2.D0.90"></span>МЕЧТА</h2></div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_24" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_24"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Нежней облака будет моя любовь, когда я&#160;полюблю,<br />
+но&#160;я не&#160;полюбил ещё,<br />
+Нежней улыбки облака будет моя любовь, но&#160;погодите,<br />
+я&#160;не любил ещё.<br />
+Прозрачное озеро будет моя любовь, но&#160;я не&#160;любил ещё.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p><p>Или&#160;уже можно? Или&#160;уже пора? — Или&#160;уже пора, — чтобы над&#160;озёрным тростником встал туман розовый и&#160;уже не&#160;рассеялся. Ещё раз журавлиной дальнозоркостью я&#160;погляжу от&#160;косы до&#160;косы, наметив в&#160;ясности утра самую чёткую веточку сосны.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_25" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_25"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Ты моя радость.<br />
+Ты моя вершинка на&#160;берегу озера.<br />
+Моя струна. Мой вечер. Мой небосклон.<br />
+Моя чистая веточка в&#160;побледневшем небе.<br />
+Мой высокий-высокий небосклон вечера.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_26" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_26"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Буревестник, шалун, стремитель -<br />
+Ждёт тебя буйный лес!<br />
+Вознеслись его короны гордые до&#160;облаков -<br />
+Это братья разбушуются!<br />
+Не расслышишь голоса твоей печали,<br />
+Когда бешено запоют<br />
+В [с]мутном небе махая ветви.<br />
+Вот так братья!<br />
+В&#160;небо они&#160;подняли лапы,<br />
+Бурно ерошат хвои.<br />
+Буревестник, нежный мечтатель,<br />
+Ты ловишь звёзды<br />
+В&#160;пролётах ели<br />
+В&#160;невода твоей нежной [красивой] глупости.<br />
+[Собираешь рубины брусники]<br />
+[И&#160;поднизи клюквы на&#160;ковры взором],<br />
+Ловишь глазами и&#160;отпускаешь опять в&#160;небо.<br />
+Немного расставив пальцы,<br />
+Пропускаешь в&#160;них пряди<br />
+Горячего света<br />
+. . . . . . . . . . . . . . . . . . . .
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p><p>А&#160;не&#160;знаешь, что&#160;от единой мечты твоей родятся бури? А&#160;не&#160;знаешь, что&#160;от иной единой чистой мечты родятся бури?!
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ИЮНЬ_2"><span id=".D0.98.D0.AE.D0.9D.D0.AC_2"></span>ИЮНЬ</h2></div>
+<p>Вечер. Длинные, тонкие, чуть-чуть грустные полосы на&#160;небосклоне.
+</p><p>«Видите! Надо иногда пройти босиком по&#160;крапиве, — сказал и&#160;смолк, и&#160;сам подумал: — Ну, что&#160;ж, значит, надо». Думал и&#160;покусывал пальцы. Жалел, что&#160;сказал.
+</p><p>Это был очень застенчивый чудак. Отойдя в&#160;сторону, над&#160;ним уже насмешливо смеялись.
+</p><p>В&#160;небосклоне над&#160;плоским песком дюны завинчивала чайка ржавую гайку. Сосны Калевалы побережья, взмахнув, отъехали. Не было плеска. И&#160;у&#160;берега лежал переполненный безмолвием светлый глаз.
+</p><p><br />
+</p>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_27" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_27"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Мечтательная страна,<br />
+северная сторона,<br />
+безбрежный взор,<br />
+великий и&#160;великодушный.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p><p>В&#160;небе была удивительно светлая полоса. Он&#160;этого хотел так, и&#160;ему действительно приходилось за&#160;это ходить босиком по&#160;крапиве… Потому она его и&#160;оставила.
+</p><p>Ей казалось стыдно и&#160;смешно, когда обожжённая босая нога неловко невольно вздрагивала. А&#160;он&#160;был простодушный, он&#160;смело лез через&#160;крапиву босиком. Но&#160;иногда у&#160;него от&#160;боли смешно дёргалась при&#160;этом нога. Этого-то&#160;ему и&#160;не простили.
+</p><p>Бедная красивая барышня — она не&#160;умела летать!..
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ИЮНЬ_—_ВЕЧЕР"><span id=".D0.98.D0.AE.D0.9D.D0.AC_.E2.80.94_.D0.92.D0.95.D0.A7.D0.95.D0.A0"></span>ИЮНЬ — ВЕЧЕР</h2></div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<dl><dt>'</dt></dl><table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_28" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_28"></span>* * *</h4>
+<p><br />
+</p><p><br />
+</p>
+<br /><div style="text-align:right"><i></i>
+<p>Как&#160;высоко крестили дальние<br />
+полосы, вершины -<br />
+Вы царственные.<br />
+Расскажи, о&#160;чем ты так измаялся<br />
+вечер, вечер ясный!<br />
+Улетели вверх черные вершины -<br />
+Измолились высоты в&#160;мечтах<br />
+Изошли небеса небеса…<br />
+О, чем ты, ты, изомлел — измаялся<br />
+Вечер — вечер ясный?
+</p><p>Пролегала дорога в&#160;стороне,<br />
+Не было в&#160;ней пути,<br />
+Нет!<br />
+А&#160;была она за&#160;то очень красива!<br />
+Да, именно за&#160;то.
+</p><p>Приласкалась к&#160;земле эта дорога,<br />
+Так прильнула, что&#160;душу взяла.<br />
+Полюбили мы&#160;эту дорогу<br />
+На&#160;ней поросла трава.<br />
+Доля, доля, доляночка!<br />
+Доля ты тихая, тихая моя.<br />
+Что&#160;мне в&#160;тебе, что&#160;тебе во&#160;мне?<br />
+А&#160;ты меня замучила!
+</p>
+<i></i></div>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ВЕЧЕР"><span id=".D0.92.D0.95.D0.A7.D0.95.D0.A0"></span>ВЕЧЕР</h2></div>
+<p>Эта боль, когда сердце любовью разрывается в&#160;пространство — к&#160;дереву, вечеру, небу и&#160;кусту. И&#160;любить потому, что&#160;не любить, что&#160;не любить оно не&#160;может.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="МОЛИТВА_В_СЕРЫЙ_ДЕНЬ"><span id=".D0.9C.D0.9E.D0.9B.D0.98.D0.A2.D0.92.D0.90_.D0.92_.D0.A1.D0.95.D0.A0.D0.AB.D0.99_.D0.94.D0.95.D0.9D.D0.AC"></span>МОЛИТВА В&#160;СЕРЫЙ ДЕНЬ</h2></div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_29" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_29"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Пахнет нежно тиной, тиной.<br />
+Море всех любит.<br />
+Близко греет Божья воля.<br />
+Бог, создавший эту дюну,<br />
+Бог — покровитель, помоги мне — я&#160;нехитрый.<br />
+Боже верный серой дюны,<br />
+ты бережёшь твоих серых птичек<br />
+на&#160;песке.<br />
+Я&#160;нехитрый, а&#160;врагов у&#160;меня много. Я&#160;вроде птицы.<br />
+Помоги мне.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="НОЧЬ"><span id=".D0.9D.D0.9E.D0.A7.D0.AC"></span>НОЧЬ</h2></div>
+<p>Ночью таяло. Небо стояло совсем раскрытое. Шёл дождик. Нет, капал туман. У&#160;фонарей нависали, мерцая, почки на&#160;почти невидимых голых прутьях. Распускалась весна. Едва-едва поверила душа и&#160;стояла совсем обнажённая, добрая и&#160;глубоко поверила всему. Всякий мог её ранить, если б её не&#160;укрывала тайна ночи. Была с&#160;весной. Пар поднимался. Землёй пахло. Шёл дождик.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<dl><dt>'</dt></dl><table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_30" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_30"></span>* * *</h4>
+<p><br />
+</p><p><br />
+</p>
+<br /><div style="text-align:right"><i> — Любишь&#160;ли&#160;ты песок?<br /></i>
+<p>— Люблю, он&#160;мягкий.<br />
+— Любишь&#160;ли&#160;ты сосну?<br />
+— Люблю, если к&#160;ней прижмёшься щекой с&#160;солнечной стороны — она тёплая…<br />
+— А&#160;ты любишь лошадь?<br />
+— Люблю. У&#160;неё милые ноздри.<br />
+— Ты любишь&#160;ли&#160;море?<br />
+— Да. Я&#160;заметил, в&#160;тихие дни оно любит меня.<br />
+— Ты любишь&#160;ли&#160;землю?<br />
+— Как&#160;вы можете это спрашивать, ведь она… она — мне мать!
+</p>
+<i></i></div>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p><p>. . . . . . . . . . . . . . . . . . .
+</p><p>Когда я&#160;смотрю на&#160;звёздное небо, я&#160;думаю: так&#160;ли&#160;добры духи других звёзд, как&#160;добра земля.
+</p><p>И&#160;мне хочется заплакать от&#160;сочувствия к&#160;ней: у&#160;неё постоянно что-нибудь отнимают.
+</p><p>Я&#160;хочу защищать её.
+</p><p>Я&#160;буду защищать её!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Я&#160;знаю, ты веришь в&#160;меня. Ты веришь, что&#160;если я&#160;сижу нелепо целый день в&#160;лесу, уткнувшись глазами в&#160;кочку и&#160;будто ничего не&#160;делаю, то&#160;это неспроста, недаром. Что&#160;если я&#160;говорю о&#160;неудачах, то&#160;это перед&#160;самыми искренними усилиями.
+</p><p>Ты веришь в&#160;меня, ты веришь так, что&#160;умеешь ждать за&#160;меня. Веришь, когда я&#160;сам в&#160;себя не&#160;верю, и — когда верю в&#160;себя как&#160;в Бога! Никогда ты не&#160;сердишься на&#160;меня за&#160;это! А&#160;люди вообще за&#160;это сердятся.
+</p><p>Ты веришь, дай тебе Бог ветер родной и&#160;родную землю. На&#160;родной нам земле ходят островерхие мохнатые вершины. На&#160;родной нам — лесные дали без&#160;конца раскрываются, вершины острые в&#160;небо смельчаками умчались, — ходят по&#160;ветру над&#160;тёплым картофельным полем.
+</p><p>На&#160;родной нам земле — иные зори и&#160;иной ветер.
+</p><p>[Как&#160;флаг, как&#160;накренённый вымпел мчится в&#160;синем небе, так помчалась ты навстречу ветру, моя весна.]
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ВДВОЁМ"><span id=".D0.92.D0.94.D0.92.D0.9E.D0.81.D0.9C"></span>ВДВОЁМ</h2></div>
+<p>— Надо быть чистой искренней душой, чтобы стать рыцарем.
+</p><p>— Что&#160;же ты делаешь, чтобы исправиться?
+</p><p>— Я&#160;по&#160;утрам выхожу к&#160;молодой сосне и&#160;меряю своё нынешнее ощущение чистоты с&#160;её высотой, но&#160;это почти жестоко…
+</p><p>И&#160;ты мне это рассказал! Теперь я&#160;вижу, какой ты…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<dl><dt>'</dt></dl><table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_31" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_31"></span>* * *</h4>
+<p><br />
+</p><p><br />
+</p>
+<br /><div style="text-align:right"><i> — Ты веришь в&#160;меня?<br /></i>
+<p>— Я&#160;верю в&#160;тебя.<br />
+— А&#160;если они&#160;все будут против меня?<br />
+— Ну да, какой&#160;же ты, я&#160;верю в&#160;тебя.<br />
+— Если все мои поступки будут позорно против меня?<br />
+— Я&#160;же верю в&#160;тебя!
+</p>
+<i></i></div>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="АДАЖИО"><span id=".D0.90.D0.94.D0.90.D0.96.D0.98.D0.9E"></span>АДАЖИО</h2></div>
+<p>На&#160;берегу дюны две сосны имеют форму чаши. Бока золотой [божеской] чаши — нарисовали их расходящимися стволами. Пока стволы возносятся вместе — это её подножие. Верхние края разогнуты в&#160;облака печальным разгибом приморской страны. В&#160;клочковатой хвое — вихри.
+</p><p>Мы&#160;назвали эту чашу — чашей глубины, чашей задумчивости и&#160;верности.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ЭТЮД_МОЛОДОЙ_СОСНОВОЙ_РОЩИ_НАД_ВЗМОРЬЕМ"><span id=".D0.AD.D0.A2.D0.AE.D0.94_.D0.9C.D0.9E.D0.9B.D0.9E.D0.94.D0.9E.D0.99_.D0.A1.D0.9E.D0.A1.D0.9D.D0.9E.D0.92.D0.9E.D0.99_.D0.A0.D0.9E.D0.A9.D0.98_.D0.9D.D0.90.D0.94_.D0.92.D0.97.D0.9C.D0.9E.D0.A0.D0.AC.D0.95.D0.9C"></span>ЭТЮД МОЛОДОЙ СОСНОВОЙ РОЩИ НАД ВЗМОРЬЕМ</h2></div>
+<p>Пасмурное сиреневое небо — вечереет, какие они&#160;стройные!
+</p><p>Я&#160;вас люблю за&#160;то, что&#160;вы крылатые, а&#160;крылатость ваша ещё с&#160;пушком первой молодости. Этот пушок золотистый, звенящий, а&#160;ваши крылья, ваши крылья над&#160;морем.
+</p><p>Море синее и&#160;далёкое — полоса, до&#160;которой летят дерзновенья, а&#160;дальше — они&#160;сливаются с&#160;синью, и&#160;я не&#160;знаю, дальше мечта или&#160;синь лежит. И&#160;не&#160;надо, не&#160;всё&#160;ли&#160;равно! Пушок юных, крылатых героев звенит, а&#160;их стройность иногда немного несуразная &lt;кривоватая&gt;, нежданная, как&#160;ранний рост.
+</p><p>И&#160;примчались в&#160;славу и&#160;высь, в&#160;свою родную страну, где задумались облака… И&#160;больше мне ничего о&#160;вас знать не&#160;надо, я&#160;вам верю — зовёте меня голосами отваги, они&#160;жгут меня, как&#160;пламя чистоты, но&#160;вверху задумались облака надо мной.
+</p><p>Я&#160;иду. И&#160;больше мне ничего знать не&#160;надо!
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Спрашивал ты себя — зачем ты выходишь утром на&#160;опушку леса и&#160;стоишь там и&#160;ждёшь? Это место с&#160;коричневой чистой землёй, присоренной крупными иглами. Зачем это тебе надо? И&#160;в&#160;то&#160;же время это тебя мучает!..
+</p><p>Твоей душе тогда холодно. Зачем тебе это любо?
+</p><p>— Вот сейчас «оно» откроется, тут&#160;же, в&#160;молчании. Я&#160;понесу тогда это в&#160;сердце, боясь сказать о&#160;нём слово. Откроется то, чего ждалось всегда в&#160;ранние суровые тишины!
+</p><p>Чего ждалось, чего никогда ещё не&#160;было, но&#160;что близко — больно подходить, и&#160;когда уже любишь его до&#160;слёз — не&#160;настаёт. И&#160;только это одно — стоит подвига.
+</p><p>Вот зачем выходить на&#160;край голых, высоких, одиноких стволов — и&#160;смотреть.
+</p><p>Зачем выходить на&#160;нетронутую, чистую землю леса и&#160;ждать…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_32" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_32"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Гордо иду я&#160;в пути.<br />
+Ты веришь в&#160;меня?<br />
+Мчатся мои корабли.<br />
+Ты веришь в&#160;меня?<br />
+Дай Бог для&#160;тебя ветер попутный,<br />
+Бурей разбиты они.<br />
+Ты веришь в&#160;меня?<br />
+Тонут мои корабли!<br />
+Ты веришь в&#160;меня!<br />
+Дай Бог для&#160;тебя ветер попутный!
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="FINALE">FINALE</h2></div>
+<p>Над&#160;соснами лучезарная, зелёная полоса.
+</p><p>. . . . . . . . . . . . . . . . . . .
+</p><p>И&#160;они&#160;изменили ему… Он&#160;сказал: «Ну, что&#160;же, где-нибудь есть другие… Ведь, живу&#160;же я, — верный».
+</p><p>И&#160;взял на&#160;ладони голубую свою надежду и&#160;перенёс её повыше. Лаская, подбросил слегка. И&#160;полетела над&#160;верхушками и&#160;поселилась выше. Там лежала недоступная серебристо-зелёная полоса.
+</p><p>И&#160;там было чисто и&#160;верно, и&#160;никто её не&#160;обидел больше никогда.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="БОР"><span id=".D0.91.D0.9E.D0.A0"></span>БОР</h2></div>
+<p>[Полными тихими шагами идёт лето. Пролились по&#160;деревьям синие водопады. С&#160;неба льётся плавный поток налитой до&#160;краёв голубизны.
+</p><p>Каскадами падают с&#160;берёз светлые блики. Блики, блики, как&#160;серебряный звон.]
+</p><p>Лес весь сквозной сияет. Проходит где-то&#160;время. Солнце обтекает каждый ствол. От&#160;сияния бесчисленных былинок лес наводнён особым веществом, как&#160;водой,   — это подводный мир. И&#160;где-то&#160;далеко идёт время. Потом тонкая веточка черники или&#160;вереска особенно повернулась и&#160;необыкновенно светится  — от&#160;этого становится волшебно и&#160;сиянно.
+</p><p>Времени собственно нет.
+</p><p>Заметила, что&#160;в бору крошечное растение брусники с&#160;жёсткими, как&#160;крылья зелёного жучка, листьями живёт у&#160;подножия великанских колонн. И&#160;ей здесь родное место.
+</p><p>На&#160;твоей голове, если она светловолосая или&#160;седая, тоже сейчас сияет свет. Если смотреть со стороны, в&#160;темени ощущение тёплой благословенности.
+</p><p>Потом покажется что-то&#160;давнее, давнее, но&#160;что, не&#160;знаешь сама.
+</p><p>Потом видишь, что&#160;простой колокольчик на&#160;кривой ножке изогнулся и&#160;смотрит на&#160;тебя. И&#160;тёмная трещина в&#160;коре берёзы, пол которой стоит бледно-синий колокольчик, тоже смотрит на&#160;тебя.
+</p><p>Потом ты, где-то&#160;в своём существе, становишься [отчасти] колокольчиком, а&#160;он  — немного тобой. Теперь не&#160;придёт в&#160;голову сорвать его или, так себе, наступить на&#160;него. Потом: ты завязал с&#160;одним отношения, — отзываются другие существа.
+</p><p>Теперь на&#160;тебя отовсюду смотрят острые хвостики, верхушечки мха, листики, сухие тонкие палочки, пятна на&#160;стволах.
+</p><p>Потом не&#160;хочется уходить из&#160;леса.
+</p><p>. . . . . . . . . . . . . . . . . . .
+</p><p>Дома после обеда сон самый летний  — сквозь солнце. И&#160;приснилась сыроежка. Хорошая, жёлтая, свежая сыроежка во&#160;мху.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_33" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_33"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Когда ветерок такой тёплый,<br />
+так его хочется собрать в&#160;горсточку, -<br />
+ветерок мой ветерок…
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Итак, вы сидите всё ещё на&#160;своём одеялишке и&#160;штопаете ваш чулок?
+</p><p>— Почему&#160;же мне его не&#160;штопать!
+</p><p>— Мужчина, поэт!
+</p><p>— Почему&#160;же мужчина не&#160;может себе штопать чулок?
+</p><p>— Но&#160;вы помните мои обещания?
+</p><p>— Очень чешется у&#160;меня спина от&#160;вашего обещания!
+</p><p>— Ой, ой, смотрите! Вообще, я&#160;не знаю, о&#160;чём тут говорить. Вы прямо изменник своему отечеству: таких вешают, а&#160;не то&#160;что… В&#160;жизни своей не&#160;видал более непонятного субъекта. Неужели и&#160;это для&#160;вас…
+</p><p><br />
+</p>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_34" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_34"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Мчись в&#160;весёлую зелень липы,<br />
+Зелень липы — душа моя.
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Весь день она тосковала о&#160;том, что&#160;развязался башмак. Она не&#160;решалась остановиться завязать его и&#160;мимо всех прошла с&#160;развязанным башмаком. И&#160;о&#160;том, что&#160;ответила всерьёз на&#160;шутку, а&#160;надо было&#160;бы&#160;рассмеяться. А&#160;она не&#160;догадалась, — о&#160;как это глупо, как&#160;невыносимо неловко, глупо.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Мне всё говорило, что&#160;будет впереди нечто большое. — И&#160;мне тогда послышались в&#160;жизни большие шаги. — И&#160;на&#160;горе закружилась голова.
+</p><p>Топ, топ, кто идёт по&#160;тёмному саду?
+</p><p>— Это моя судьба? Это моё будущее? Но&#160;я&#160;знаю, что&#160;слишком смело так разговаривать и&#160;пробую слукавить. Я&#160;вовсе ничего не&#160;достоин, я&#160;бездарен, бездарен, но&#160;зато я&#160;кроткий, я&#160;очень кроткий, я&#160;очень скромен и&#160;для меня хорошо&#160;бы&#160;и так прожить понемножечку… Слышишь? Идёт!
+</p><p>— Это моя судьба? Это моё будущее?
+</p><p>И&#160;за&#160;вечерним чаем я&#160;наклоняюсь над&#160;чашкой, чтобы меня не&#160;заметили. И&#160;чашка мне кажется ужасно синей, невозможно глубоко синей.
+</p><p>Мне тогда слышались большие шаги и&#160;может быть… Может быть, что-то&#160;в жизни любило меня, но&#160;я стал слишком зол и&#160;мрачен. И&#160;были измена и&#160;отступничество, и&#160;ожиренье.
+</p><p>А&#160;теперь больное сердце и&#160;злой нрав, очень злой нрав.
+</p><p>И&#160;вот теперь ручей под&#160;горой тоже высасывает моё сердце и&#160;льётся, льётся в&#160;невозможную пустоту. Уж немного осталось, всего несколько безразличных предметов и&#160;затем уже пустота. Невозможная. И&#160;действительно она уже невозможна.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="УТРО"><span id=".D0.A3.D0.A2.D0.A0.D0.9E"></span>УТРО</h2></div>
+<p>Окружной аллейкой пробежал мальчик и&#160;гнал серсо.
+</p><p>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+</p><p>Боже, как&#160;найти мне мою настоящую глубину?
+</p><p>Почему не&#160;выражаю то, отчего изнываю восторгом? Как&#160;найти мои настоящие дорогие мысли? Чтоб не&#160;сочинять мне чужого и&#160;случайного. Ведь доходит&#160;же до&#160;меня весеннее! Пробежал мальчик; на&#160;плечах у&#160;него блузочка с&#160;полосками; и&#160;я поймала мгновенный божественный скрип серсо о&#160;песчаную дорожку.
+</p><p>В&#160;глубине папоротники тонкими змейками зеленили чёрную землю к&#160;воде. Новая кадка отмокала розовым свежим деревом. Над&#160;ней в&#160;сквозной ивке пела, точно нежным небом прополаскивала горло, птичка.
+</p><p>И&#160;души деревьев весной так недосягаемо чисты, унесены в&#160;высоту, что&#160;люди внизу мучаются и&#160;кажутся себе невыносимыми.
+</p><p>Боже, чтоб не&#160;заниматься мне вечно чуждым, не&#160;сыпать чужих красивых слов, да&#160;ещё со слезами энтузиазма в&#160;глазах. Помоги мне! Ведь это самоубийство!
+</p><p>Сосновая кадка, синий подснежник, поникший застенчиво. От&#160;синевы его больно. Боже, избавь меня от&#160;чужой красоты, я&#160;же в&#160;глубине прямая и&#160;горячая. Зачем синий, нежный в&#160;траве уйдёт необласканный, его красота невыносимо весенняя уйдёт незапечатленной — жертва времени и&#160;чьей-то&#160;плоскости, а&#160;я останусь виноватой со словами чужой холодной красоты на&#160;губах. Точно не&#160;дошли до&#160;меня небо и&#160;свет зелени.
+</p><p>Ведь это&#160;же убийство твоего земного зелёного счастья. Это&#160;же убийство! А&#160;меж тем у&#160;каких-то&#160;мохнатых цветочков переходы лепестков из&#160;сиреневого в&#160;розовое были порукой высокого назначения жизни — возможности бездонной искренности и&#160;чистоты. И&#160;мох немного отзывал тёплой землёй в&#160;своём бархате.
+</p><p>И&#160;душа томится ответственностью за&#160;уходящие мгновенья.
+</p><p>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+</p><p>Вечер. Высота светла. Смотрю на&#160;возносящийся ствол тополя. Зачем так тяжело? И&#160;я&#160;не понимаю, где&#160;же наша глубина? Почему уходим от&#160;неё? И&#160;теряем свою глубину и&#160;с ней свой настоящий голос. И&#160;больше не&#160;найдём дорог?
+</p><p>Ты, (священный тополь), посылающий в&#160;небо безгранично ветви. Всегда гордый, всегда правый, всегда искренний. Ты, правда неба — жертвоприношение глубины, дух величия.
+</p><p>А&#160;в&#160;тонких кристальных берёзах знаки бессмертной жизни. Знаки, что&#160;кинутые здесь обрывки встреч и&#160;разлук, будто минутные, — полны значения — вечно и&#160;верно.
+</p><p>Ну, пусть. Вы, верно, знаете, недостижимые, почему я&#160;здесь наказана неуменьем. Вероятно, это так.
+</p><p>[С.-Петербург. Май. 1911&#160;г.]
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ИЮНЬ._ОБЛАЧНО"><span id=".D0.98.D0.AE.D0.9D.D0.AC._.D0.9E.D0.91.D0.9B.D0.90.D0.A7.D0.9D.D0.9E"></span>ИЮНЬ. ОБЛАЧНО</h2></div>
+<p>Травяной ветер гнулся так низко, что&#160;был коричневый, тёплый. Пах картофелем.
+</p><p>Длинный, длинный картофельный ветер, терпеливый, долговязый ветер поля. Такою представляется родина.
+</p><p>Возвращение. Тепло.
+</p><p>Немного стыдно неудач, но&#160;очень хочется вознести моё картофельное поле. Но&#160;не&#160;хочется насмешек. Стыдно! А&#160;надо быть искренним и&#160;не бояться, что&#160;стыдно.
+</p><p>Так перешёл лесок. На&#160;опушке сквозь тонкие хвойные ветки открылась розовая вечерняя заря.
+</p><p>Это заря! Это румяная заря!
+</p><p>Есть вещи, которых не&#160;стыдно перед&#160;Богом, но&#160;стыдно перед&#160;людьми. А&#160;есть, в&#160;которых Бога невыносимо стыдно, а&#160;перед людьми даже приятно, но&#160;с ними невозможно остаться наедине на&#160;хвойной опушке вечерней зари.
+</p><p>Так вот выйти можно на&#160;еловую опушку и&#160;очистить душу меж высоких мачтовых стволов. — Что-то&#160;на него смотрит великое… Дурной&#160;ли&#160;он или&#160;хороший? — Скорее дурной, тихо соглашаешься… Моя&#160;ли&#160;это дорога? Где моё призвание?.. Исчезнут леса, а&#160;люди будущего будут хорошие, нежные, оставят расти всё, как&#160;ему хочется — восстановят приволье…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Ах ты, лучинный воин! Принц! Ах ты герой из&#160;мочёной пакли!
+</p><p>Хорошо лететь кверху ногами со споткнувшегося коня?
+</p><p>Хорошо в&#160;толпу насмешников угодить из&#160;замков мечты и&#160;глядеть испуганно голубыми глазами.
+</p><p><br />
+</p>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_35" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_35"></span>* * *</h4>
+<p><br />
+</p><p><br />
+Это что&#160;ещё за&#160;нежности!<br />
+Вот тебе чувствительность!<br />
+Вот тебе искания и&#160;чуткость!<br />
+Что, не&#160;понравилось?<br />
+Как&#160;смеешь ты быть нежным,<br />
+Когда всё должно стремиться к&#160;планомерной<br />
+устойчивости,<br />
+Выносливости, здоровью и&#160;силе?<br />
+Дайте ему выправку!<br />
+Не смей горбиться! Стой прямо!<br />
+Не таращи глаза, смотри почтительно!<br />
+Мы&#160;тебе судьи, мы&#160;тебе правда — мы&#160;тебе…<br />
+Что&#160;за&#160;нежности!
+</p><p><br />
+</p>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<dl><dt>'</dt></dl><table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_36" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_36"></span>* * *</h4>
+<p><br />
+</p><p><br />
+</p>
+<br /><div style="text-align:right"><i></i>
+<p>Выплывали в&#160;море упоенное<br />
+смелогрудые корабли.<br />
+Выплывали, вскормленные<br />
+нежной прихотью весны.<br />
+Эх! Лентяй, лентяй Ерема,<br />
+пролежал себе бока,<br />
+ветер свежий, скучно дома.<br />
+Небо — нежная сквозина.
+</p><p>Ты качай, качайся, лодочка,<br />
+у&#160;песчаной полосы,<br />
+за&#160;тобой змейки весёлые,<br />
+отраженья зацвели.<br />
+Зацвели восторгом, золотом,<br />
+звонко-красной полосой.<br />
+за&#160;меня резвися, лодочка,<br />
+шалопаю велят домой.
+</p>
+<i></i></div>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div class="mw-heading mw-heading2"><h2 id="РОЗОВЫЙ_ВЕЧЕР"><span id=".D0.A0.D0.9E.D0.97.D0.9E.D0.92.D0.AB.D0.99_.D0.92.D0.95.D0.A7.D0.95.D0.A0"></span>РОЗОВЫЙ ВЕЧЕР</h2></div>
+<p>Вот в&#160;розовом раю чисто выкупавшегося моря заблестели и&#160;поплыли необъяснимые зелёные полосы. И&#160;стало жаль ясности и&#160;того, чего нельзя было выразить, а&#160;объяснения не&#160;было. И&#160;всё в&#160;глазах невозвратимо, и&#160;невыносимо стоял рай света и&#160;воды.
+</p><p>Зачем непременно нужно, чтобы рвалось что-то&#160;в тебе, напрягалось, ныло от&#160;непостижимого счастья, — и&#160;не было никогда этому никакого разрешения?
+</p>
+<div class="mw-heading mw-heading2"><h2 id="САГАМИЛЬЯ"><span id=".D0.A1.D0.90.D0.93.D0.90.D0.9C.D0.98.D0.9B.D0.AC.D0.AF"></span>САГАМИЛЬЯ</h2></div>
+<p>В&#160;одном дачном блаженном раю рамы балкона обведены зелёной стеклянной полоской, чтобы летние дни протекали счастливее. Для&#160;этого&#160;же балкон переходит в&#160;лёгкую всю деревянную галерею и&#160;соединяют постройки. Низкое в&#160;три ступени крытое крыльцо балкона задумчиво. От&#160;него тонкая выгнутая дорожка, тонкая для&#160;одного, или&#160;только едва для&#160;двух, огибает медленно и&#160;внимательно площадку с&#160;высокими, великими деревьями, и&#160;разветвляется и&#160;свёртывает там, где ждёт и&#160;мечтает большая берёза на&#160;краю.
+</p><p>За&#160;площадкой маленький ров, обнятый ельником, — скользкие от&#160;полированных игл края.
+</p><p>Если на&#160;них поскользнутся и&#160;упасть, — обожжёшься крапивой на&#160;дне и&#160;оцарапаешься о&#160;какие-то&#160;колючки и&#160;острые торчки.
+</p><p>Дорожка уйдёт кладкой чрез ров на&#160;лужайку.
+</p><p>Меж кустов жасмина можно было&#160;бы&#160;дружно играть в&#160;разбойников и&#160;прятаться.
+</p><p>Берёза у&#160;разветвления указывает на&#160;стихший запад.
+</p><p>Липа смотрит на&#160;балкон.
+</p><p>На&#160;усыпанных осенними листьями ступеньках сейчас сидели и&#160;читали. Дуплистая липа шатром склонила курчавую умную голову и&#160;знает, что&#160;под ней прощались накануне отъезда и&#160;верили. Под&#160;липой ещё летом была забыта тетрадка стихов. Вымокла: ночью пошёл дождик. Слиняла немного синяя обложка. Но&#160;тетрадка стала от&#160;этого кому-то&#160;ещё более любимой.
+</p><p>Потом дорожка уведёт, осторожно разгибаясь, вниз по&#160;скату. Точно дружеской невидимой рукой обняла за&#160;шею и&#160;повела.
+</p><p>Внизу пруд; на&#160;нём простой дощатый плотик. Здесь всегда недвижно и&#160;прекрасно стоят минуты. Кто-то&#160;забывшись, опаздывал к&#160;ужину.
+</p><p>Опрокинутое тёмное небо пруда глубоко.
+</p><p>В&#160;пруду навсегда тёмно-пурпурная немая иная страна.
+</p><p>На&#160;верху дощатый плотик выбелен дождём и&#160;светом до&#160;серебра, — и&#160;здесь можно стоять и&#160;верить, обещать, выражать участие, разделять одиночество, привязываться и&#160;сострадать.
+</p><p>Но&#160;в&#160;опрокинутой в&#160;глубокую глубь берёзе и&#160;в прекрасной, алой, сумрачной стране отражений, где другое тёмное небо и&#160;идут в&#160;глуби преображённые алым сумраком облака, — чего-то&#160;не разгадать и&#160;не удержать. И&#160;жаль, — это уходит.
+</p><p>На&#160;верху нежный рост жёлтых берёз и&#160;стройная их мечта не&#160;увидела ещё своего высшего рыцарского дня, жизнь повернула и&#160;стала воспоминанием, не&#160;живым. Это жаль — но&#160;зато в&#160;мысли они&#160;ушли от&#160;времени и&#160;оков.
+</p><p>Они&#160;уже никому не&#160;принадлежат.
+</p><p>С&#160;краю по&#160;горе дощатый забор несколько воинственно-неприступный, заострённый разделяет наглухо от&#160;соседних владений. Кирпичные толстые столбы будущей стены, — памятники чьей-то&#160;владельческой вражды.
+</p><p>Но&#160;у&#160;забора восходят молодые лиственницы, такие прозрачные, — что&#160;в них стремленье, мечта, смелость. И&#160;в&#160;заборе кто-то&#160;прокопал лазеечку, где доски отошли от&#160;столба, и, проскользнув в&#160;сад, можно опять идти по&#160;тонкой вдумчивой дорожке кругом площадки до&#160;берёзы на&#160;краю, и&#160;потом она уведёт осторожно вниз, где прекрасны стоят минуты кругом пруда, и&#160;на пруду белеет дощатый плотик.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Одни глаза в&#160;юности были так нежны, что, приласкав первую встречную собачку на&#160;улице, они&#160;потом ещё просили минутного одобрения и&#160;сочувствия строгих чужих незнакомых взглядов — у&#160;хозяев собачек. Им казалось, что&#160;на минуту, ведь их соединяло что-то. Их чувство ласки встретилось на&#160;собаке! Их общечеловеческое чувство ласки. Но&#160;не&#160;встречая поощрения у&#160;строгих обладателей милых и&#160;умных собачек, конфузились и&#160;опускали взоры на&#160;безучастные камни панели.
+</p><p>И&#160;потом шли года и&#160;надо было суметь жить меж этих самых уличных и&#160;строгих, знакомых и&#160;незнакомых, хозяев собачек.
+</p><p>«Ну и&#160;всё?» — «Ну и&#160;всё!»
+</p><p>«Что&#160;же, они&#160;сумели?»
+</p><p>— Нет, конечно, не&#160;сумели, — потому-то&#160;и всё.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Они&#160;были прелестной супружеской четой. У&#160;них было уютное гнездо… Он&#160;им попался на&#160;холодной пустой дороге. Одинокого и&#160;заброшенного ребёнка приютили.
+</p><p>Он&#160;скоро обласкался, стал доверчив. Он&#160;научился улыбаться и&#160;весело заглядывать в&#160;глаза. Стал выбалтывать им свои фантазии: — его называли мальчиком и&#160;гладили ему волосы. И&#160;вот опять он&#160;стал доверять и&#160;кое-что&#160;заветное и&#160;чего вообще не&#160;решался говорить — и&#160;ещё о&#160;том, что&#160;делает людей поэтами, — он&#160;нашёл родину и&#160;родных, бездомное дитя. От&#160;восхищенья перед&#160;ними в&#160;нём раскрылось утро. Тогда это укололо их: тут было кое-что&#160;такое, отчего жизнь трезвая и&#160;порядочная — казалось&#160;бы&#160;подловатой.
+</p><p>Он&#160;становился ужасно неудобен и&#160;скучен, — взрослый невоспитанный мальчишка, которого навязали себе в&#160;порыве излишнего человеколюбия и&#160;общительности. «Молчите! — Вы уже слишком заходите далеко, молодой человек!»… Но&#160;он&#160;не мог молчать, в&#160;нём уже запылало солнце. Он&#160;даже себе позволил — спорить с&#160;их гостями… Тогда его выбросили, то&#160;есть ему довольно ясно показали, что&#160;он здесь — лишний. Для&#160;него сразу погасли звёзды и&#160;сломились крылья… Он&#160;даже сам понял, что&#160;уже нельзя оставаться, — он&#160;тихо ушёл. Можно было просто не&#160;останавливать его… Когда его согнутые плечи исчезали в&#160;сгущавшейся темноте за&#160;калиткой, они&#160;переглянулись: «Собственно, жаль, что&#160;как раз теперь такая холодная ночь!» Подумала она с&#160;досадой. — Супруг направился просто облегчёнными шажками домой и&#160;потом об&#160;этом забыл. Зажгли прелестную лампу. Они&#160;были счастливы вдвоём… Мимо их дома шла ночь и&#160;длинная дорога…
+</p><p>И&#160;всё-таки красота жизни была для&#160;него, а&#160;не для&#160;них. И&#160;берёзы шумели для&#160;него, а&#160;не для&#160;них.
+</p><p>Ещё был один.
+</p><p>Он&#160;кричал, как&#160;галчонок, добиваясь, чтобы его впустили туда, где было светло.
+</p><p>— Пустите меня, там у&#160;вас красиво.
+</p><p>— Позвольте спросить, кто вы, что?
+</p><p>— Я…
+</p><p>— Почему&#160;же выдумаете, что&#160;вам есть место там, где красиво?
+</p><p>— Мы&#160;создали красивое и&#160;светлое, мы&#160;жрецы его — и&#160;наши избранники.
+</p><p>Но&#160;Вы?
+</p><p>— Я, видите&#160;ли&#160;очень… Я&#160;страстно люблю искусство, и&#160;жизнь так невыносимо сера и&#160;скучна без&#160;него.
+</p><p>— Ну, так что&#160;же?
+</p><p>— Да&#160;я&#160;за него готов отдать жизнь, — так я&#160;его люблю.
+</p><p>— Ну, что&#160;же нам-то&#160;это?!
+</p><p>И&#160;они&#160;закрыли дверь.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Мы&#160;собрались у&#160;лампы в&#160;общей комнате.
+</p><p>Вечер прильнул и, казалось, чуть-чуть дрожал за&#160;стёклами.
+</p><p>От&#160;любви к&#160;кому?
+</p><p>Стёкла были с&#160;тонкой белой молоденькой решёткой. Они&#160;были тонкие, чистые, выкрашенные белой краской. Это придавало выражение крайней молодости.
+</p><p>Мы&#160;никак не&#160;могли отделаться от&#160;мысли, что&#160;кто-то&#160;этим вечером должен был прийти.
+</p><p>Его надо было позвать и&#160;впустить к&#160;нам. Открыть ему двери сердца.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Наконец-то&#160;поэта, создателя миров, приютили. Конечно, понимавшие его, не&#160;презирав-шие дыбом волос и&#160;диких свирепых голубых глазищ. С&#160;утра художники ушли, а&#160;вечером заста-ли&#160;его бледным. Весь дрожал и&#160;супился. Забыл поесть или&#160;не нашел целый день, со свирепыми глазами и&#160;прической лешего. Случайно узнали и&#160;хохотали:
+</p><p>— Да, не&#160;ел! Забыл поесть, — ну, малый! Дрожит, как&#160;курица, согнувшись и&#160;живот в&#160;себя вобравши.
+</p><p>Меж палитрами консервы оказались. Колбасы купили с&#160;заднего крыльца лавочки.
+</p><p>Был час ночи. Купили и&#160;вернулись. После дрыхли наповал.
+</p><p>Рассвет шалил. Вода замерзла в&#160;чашке. Все выспались. Один поэт озябнул. Потому что&#160;одеяла ком на&#160;плечах и&#160;ком на&#160;пятках оказался, а&#160;спина довольствовалась воздухом. И&#160;Нормы провещали ему:
+</p><p><br />
+</p>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<dl><dt>'</dt></dl><table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_37" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_37"></span>* * *</h4>
+<p><br />
+</p><p><br />
+</p>
+<br /><div style="text-align:right"><i> — Не быть тебе угретым, поэт, — хотя&#160;бы&#160;имел два теплых одеяла,<br /></i>
+<p>тьму знакомых и&#160;семь теток, не&#160;быть, не&#160;быть тебе ни&#160;сытым, ни&#160;угретым.
+</p>
+<i></i></div>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p><p>Я&#160;боюсь за&#160;тебя. Слишком ты сродни пушистому ростку земляники, вылезающему из&#160;земли. И&#160;неспроста ты целуешь котят между ушками. Я&#160;боюсь, как&#160;бы тебя не&#160;обидели люди..
+</p><p>Может, к&#160;тебе придет маленький дьявол в&#160;маске и&#160;скажет:.
+</p><p>— Все вздор, кроме звука шарманки на&#160;дворе....
+</p><p>Как&#160;охотно ты ему поверишь....
+</p><p>А&#160;ведь проспектом в&#160;это время также будут катиться автомобили..
+</p><p>И&#160;красные, кирпичные, рассвирепевшие корпуса фабрик будут стукотать, стукотать, стукотать..
+</p><p>Пока таких маленьких, как&#160;ты, город прячет в&#160;карманы своих тихих, заросших дворов окраин, как&#160;тысячи других безделушек, но&#160;после, после…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Одному мальчику обижали мать. Он&#160;хотел&#160;бы&#160;драться, а&#160;мог только молча сопротивляться и&#160;увёртываться, потому что&#160;это был большой, сильный и&#160;грубый враг.
+</p><p>Ему не&#160;позволили ходить в&#160;школу учиться: «Расти невеждой!» Он&#160;ничего не&#160;рассказывал матери и&#160;спрятал молча книжки.
+</p><p>У&#160;него хотели отнять его озёра, его милые голубые озёра. И&#160;он&#160;решился опускать белобрысые ресницы и&#160;молчать: в&#160;этом была его защита, и&#160;другой не&#160;было. Он&#160;стал угрюм.
+</p><p>— Видишь, какого змеёныша воспитали! Мы&#160;его справедливо наказывали, ведь он&#160;всех нас ненавидит.
+</p><p>Он&#160;должен был выслушивать всё молча, машинально вертя в&#160;руках ручку корзины. Это был бледный северный мальчик. В&#160;широкий упорный пролёт меж его глаз вошло честное небо и&#160;море. Широкий, голубой взор моря.
+</p><p>Он&#160;бы&#160;мог хитрить, но&#160;мать&#160;же и&#160;выучила его ходить в&#160;кирку и&#160;быть честным. Он&#160;любил её безуздное качание вершин, её кирку и&#160;таратайку и&#160;шарф, намотанный в&#160;июльскую жару на&#160;шее, и&#160;песню и&#160;песню…
+</p><p>Это всё была его мать. У&#160;него отобрали его деревянные игрушки, — он&#160;молчал. И&#160;за&#160;то, что&#160;он не&#160;любил их, хотя и&#160;молча, — у&#160;него отняли свободу.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ЛЕСНЫЕ_МЫСЛИ"><span id=".D0.9B.D0.95.D0.A1.D0.9D.D0.AB.D0.95_.D0.9C.D0.AB.D0.A1.D0.9B.D0.98"></span>ЛЕСНЫЕ МЫСЛИ</h2></div>
+<p>Мне уже [34] года, но&#160;я убежала от&#160;собственных гостей. [Какое] чудное чувство спасшихся бегством! Чтоб не&#160;заметили [с&#160;опушки], пришлось низко прилечь лицом ко&#160;мху, к&#160;старым еловым шишкам. Дно леса выстлано мохом и&#160;тонкими прутиками. В&#160;лесу всё одето собственно своим лесным излучением. В&#160;лесу — с&#160;каждым мигом ты леснее. Всё лесное очень требовательно, — всё «не&#160;тронь меня». И&#160;недостижимо [прячется от] чужих. Ярко-оранжевые чешуйки, упавшие с&#160;тёмной ёлки, прутики седые, святые от&#160;дождя: их [враг] никогда не&#160;видел [и] не&#160;касался, — не&#160;тревожил их нежную лучевую воздушную оболочку. Требовательные, неприступные, гордые лесные вещи: иглы рыжие, блестящие и&#160;старые, сверху упавшие. Какая-то&#160;пурпуровая штучка. Всё это можно и&#160;не заметить. Когда наконец оторвёшься почти с&#160;болью от&#160;леса, ото всего этого отнимешь душу, как&#160;щенка от&#160;пищи, и&#160;пойдёшь занимать гостей, — точно в&#160;детстве шла готовить уроки. Боль потери кровно своего. Наверно, и&#160;тогда это был такой&#160;же непоправимый непозволительный ущерб.
+</p><p>Думается тут легко, само собой. [Вчера] в&#160;воду [ванны] насыпалось много лесных еловых игл. В&#160;окно был лес.
+</p><p>В&#160;ванне думала. У&#160;меня есть знакомая девочка светло-соломенного цвета и&#160;с прозрачной, почти облачной плотью. Её жизнь — один из&#160;моих снов. Она воспитана с&#160;нежной, нежной бережливостью, она знает, что&#160;она, что&#160;она небесный ягнёночек, бог матери и&#160;домашних. Девушка мыла меня и&#160;рассказывала мне про&#160;неё, — она её любила. «У&#160;нас Танечка всегда так балует в&#160;ванне. Барыня нарочно скажет: „Принесите песку Танечку мыть песком!“ -„Нет, не&#160;смейте!“ — скажет, что&#160;это там ещё за&#160;песок! Осторожней, Саша, у&#160;меня всё, ведь, такое нежное! Ноги нежные, спинка такая нежная!» И&#160;назовёт: одна нога у&#160;неё Маша, а&#160;другая Глафира. Маша умная, а&#160;Глафира шалунья. Начнёт бить по&#160;воде своей Глафирой и&#160;обольёт нас всех. И&#160;не&#160;могут удержаться, чтобы не&#160;потеребить, не&#160;заласкать. А&#160;ещё была другая девочка. Другую совсем не&#160;ласкали, и&#160;она не&#160;знала, что&#160;у неё есть тело и&#160;им можно любоваться. Её всегда резко торопили одеваться после ванны, тело было просто малоудобная штука, которую надо прятать. Раз новая девушка, вытирая девочку после ванны, вдруг рассмеялась громко и&#160;задорно и&#160;хватила её за&#160;живот, где пестрела, как&#160;мушка, смешная родинка. Девочка невероятно оскорбилась, сама не&#160;зная [по]чему, затопала ногами: «Как&#160;ты смела! Как&#160;ты смела! Как&#160;могла! Как&#160;ты могла!» Она вся тряслась от&#160;бессильной непонятной обиды и&#160;отчаянья. Напугала и&#160;разобидела девушку. Она подросла. Была резка непозволительно, и&#160;за что-то&#160;чудовищное «против этикета» её хотели высечь. Но&#160;едва мать протянула к&#160;ней руку, та пришла в&#160;исступленье, — подняла пронзительный крик, разорвала на&#160;матери платье. Её удалось оторвать только после того, как&#160;мать отбросила хлыст. Все, вероятно, подумали, что&#160;она кричала из&#160;страха боли, никто никогда не&#160;догадался, конечно, что&#160;она так кричала от&#160;панического смертельного страха оскорбления [что&#160;её коснутся].
+</p><p>Знают&#160;ли&#160;вообще создающие законы, что&#160;эти законы карают неодинаково, что&#160;одному смертельный холод, — другому… А&#160;обоих присудили одинаково. Или&#160;неужели законникам, как&#160;и родителям, это всё равно.
+</p><p>Но&#160;горько — эта способность оскорбляться, эта неприкосновенность, [она] теряется. Я&#160;обоих девочек очень люблю, они&#160;обе талантливые и&#160;гордые, но&#160;одной из&#160;них я&#160;горько завидую. Душу&#160;бы&#160;надо беречь, как&#160;бабочку, ведь понимают&#160;же: если хочешь оставить бабочку живой, нельзя её обтирать пальцами.
+</p><p>Так у&#160;нас обтирают наше главное.
+</p><p>А [то] ещё бывает так, — бывает противное: кто-то&#160;подошёл и, не&#160;спросясь, хотим&#160;ли&#160;мы, или&#160;нет, научил грязным словам, спел в&#160;уши куплеты, и&#160;тогда уже лес для&#160;тебя не&#160;такой лесной, [и] лесные свечки маленьких цветочков не&#160;такие священные и&#160;сказочные и&#160;меньше счастья. И&#160;уж ничего нельзя сделать, чтобы по-прежнему своему особенному — не&#160;знать — и&#160;кусаешь себе руки.
+</p><p>Одной из&#160;девочек я&#160;завидую.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ОСЛЕНОК"><span id=".D0.9E.D0.A1.D0.9B.D0.95.D0.9D.D0.9E.D0.9A"></span>ОСЛЕНОК</h2></div>
+<p>Бежит осленок, — повода закинуты на&#160;шею. На&#160;нем сидит принц — и&#160;в глазах несет Весну.
+</p><p>Он&#160;сидит бочком, сложив с&#160;царственным достоинством ноги.
+</p><p>Это принц, и&#160;править ему незачем.
+</p><p>Я&#160;не&#160;знаю, чем это кончилось. Может быть, осленок споткнулся, — принц полетел в&#160;грязь, и&#160;когда он&#160;поднимался перепачканный, смущенный и&#160;увидел свою корзиночку испорченной и&#160;прелестные растения рассыпанными, ему было ужасно стыдно тех, кто прошествовал мимо в&#160;незапятнанных одеждах, полных достоинства.
+</p><p>Мне это неинтересно знать. Для&#160;меня важно знать одно:
+</p><p>Бежал осленок, и&#160;им никто не&#160;правил — на&#160;нем сидел принц, а&#160;в глазах он&#160;нес Весну.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ВЕСНА"><span id=".D0.92.D0.95.D0.A1.D0.9D.D0.90"></span>ВЕСНА</h2></div>
+<p>К&#160;решётке сияющей зелени подошёл прохожий. Похож на&#160;дворянина из&#160;Ламанчи тем, что&#160;длинный, несуразный с&#160;нежным выражением [лба и] кистей рук. Но&#160;север дал ему светлые волосы и&#160;глаза. Одет он&#160;тёплой фуфаечкой.
+</p><p>Остановился. Руку положил на&#160;решётку. Смотрел, смотрел, не&#160;отрываясь, на&#160;зелень. Запачкал ладонь пылью. Потёр о&#160;панталоны. Оторвался, пошёл своей дорогой.
+</p><p>Я&#160;мечтаю — если&#160;бы&#160;в такой точно вечер подошёл к&#160;моей калитке несуразный прохожий и&#160;сразу без&#160;мучений прочла я&#160;в добрых глазах, что&#160;ему здесь хорошо. Больше ничего.
+</p><p>Думаю, вперёд я&#160;найду самые разные способы приласкать одиноких. Узнаю: где-нибудь живёт человек с&#160;нежным весенним лбом, и&#160;пошлю ему шарф нежной шерсти сиреневыми полосками или&#160;белый ягнячий — и&#160;буду радоваться, что&#160;мой нежный шарф ему ласкает шею.
+</p><p>Так водянистый ветер дышал несбыточным весенним, и&#160;нетерпеливой становилась душа.
+</p><p>[С.-Петербург. Май. 1911&#160;г.]
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Меж кочек пробираются нежные нити созвездий. Созвездия тонких, слабых белых звёздочек. Они&#160;радуют. Холодно. Ветрено.
+</p><p>Возвращаются, разговаривая о&#160;подвигах, о&#160;жизни. Белые созвездия служат кому-то&#160;путеводной нитью.
+</p><p>Сарайчик обратил навстречу озаренью большой северный лоб. Так он&#160;будет высоко настроено смотреть во&#160;всю белую ночь. С&#160;черёмух белая молочная молодость разливается в&#160;воздухе, — льётся к&#160;человеку. Душа притягивается, выходит из&#160;границ навстречу…
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Из_цикла_«ДЕТСКАЯ_БОЛТОВНЯ»"><span id=".D0.98.D0.B7_.D1.86.D0.B8.D0.BA.D0.BB.D0.B0_.C2.AB.D0.94.D0.95.D0.A2.D0.A1.D0.9A.D0.90.D0.AF_.D0.91.D0.9E.D0.9B.D0.A2.D0.9E.D0.92.D0.9D.D0.AF.C2.BB"></span>Из&#160;цикла «ДЕТСКАЯ БОЛТОВНЯ»</h2></div>
+<div class="mw-heading mw-heading3"><h3 id="&lt;КОШЕЧКА&gt;"><span id=".3C.D0.9A.D0.9E.D0.A8.D0.95.D0.A7.D0.9A.D0.90.3E"></span>&lt;КОШЕЧКА&gt;</h3></div>
+<p>— Няня, а&#160;если кошечка женится, у&#160;неё будут дети?
+</p><p>- Ну да!
+</p><p>— Вырастут дети, а&#160;кошечка?
+</p><p>- Состарится.
+</p><p>— Няня, кошечка умрёт? Как&#160;жаль!
+</p><p>- Кошечка-то&#160;умрёт, а&#160;душа-то&#160;останется.
+</p><p>— А&#160;если кошечка была святая?
+</p><p>- Будет кошечка ангел. Венчик будет за&#160;ушками, ясненький венчик! Полетит, как&#160;птичка! Киса летучая. Птички-то&#160;испугаются, — а&#160;она их не&#160;тронет. Ей уж не&#160;надо!
+</p><p>— Няня, а&#160;бывает у&#160;кошечек душа?
+</p><p>- [Д]а&#160;заснёшь&#160;ли&#160;ты, подлая! Постой, я&#160;тебя!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ЛЫЖИ_&lt;ЖАЖДА_СНЕЖНОЙ_РАДОСТИ&gt;"><span id=".D0.9B.D0.AB.D0.96.D0.98_.3C.D0.96.D0.90.D0.96.D0.94.D0.90_.D0.A1.D0.9D.D0.95.D0.96.D0.9D.D0.9E.D0.99_.D0.A0.D0.90.D0.94.D0.9E.D0.A1.D0.A2.D0.98.3E"></span>ЛЫЖИ <br />&lt;ЖАЖДА СНЕЖНОЙ РАДОСТИ&gt;</h3></div>
+<p>Мальчик с&#160;больной ногой не&#160;мог поехать на&#160;лыжах. От&#160;весёлой компании остались перед&#160;ним только сверкающие снежные рубцы, загнутые в&#160;лес.
+</p><p>«Если&#160;бы&#160;Катя осталась с&#160;ним, они&#160;бы, наверное, подружились! Он&#160;бы&#160;ей пересказал песню, перенятую вчера у&#160;пильщиков, и&#160;все собранные ругательства, как&#160;товарищу! Она очень хорошо сделала, что&#160;побежала со всеми! С&#160;теми весело, а&#160;с ним скучно, — просто скучно сидеть на&#160;одном месте. Ноги стынут, когда долго сидишь, и&#160;скоро придётся вернуться в&#160;комнаты. Никогда, никому с&#160;ним уж не&#160;будет весело. Они&#160;поехали, наверное, его самой любимой лесной дорогой! Теперь они&#160;уж на&#160;озере. Они&#160;громко хохочут, гикают. Озеро белое и&#160;блестит. Большой, большой широкий белый снег. У&#160;Кати сверкают глаза, щёки, зубы. Ваня сбил с&#160;неё шапку, а&#160;она рада. Дура! Ах, если&#160;бы&#160;от операции в&#160;колене умирали… раз уж нельзя бегать на&#160;лыжах!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="&lt;ВОРОВКА&gt;"><span id=".3C.D0.92.D0.9E.D0.A0.D0.9E.D0.92.D0.9A.D0.90.3E"></span>&lt;ВОРОВКА&gt;</h3></div>
+<p>Когда я&#160;прихожу в&#160;первый раз к&#160;пожилым порядочным людям, я&#160;им часто нравлюсь. От&#160;застенчивости я&#160;кажусь молоденькой, а&#160;так как&#160;я от&#160;страха поглядываю на&#160;них умоляюще, то&#160;и глупой, и&#160;наивной, и&#160;доброй. Кроме того, я&#160;очень маленькая и&#160;худенькая. Это всё радует людей. И&#160;вот меня сажают за&#160;хорошенький столик с&#160;зелёной узорной скатертью, с&#160;розовыми фарфоровыми чашечками и&#160;закармливают наперерыв: шоколадом, и&#160;молоком, и&#160;бисквитами.
+</p><p>Они&#160;считают меня ручной. Это ставит меня сейчас&#160;же в&#160;ужасно двойственное положение. Я&#160;не&#160;ручная, я&#160;пишу, пишу стихи, — я&#160;не хочу в&#160;них прилаживаться, это уж моя вера. Они&#160;бы&#160;моих гостеприимных хозяев возмутили и&#160;ужаснули! [Озлобили.] Но&#160;из&#160;страха напортить себе тут я&#160;скрываю, что&#160;я пишу. Это подло. У&#160;меня чувство такой вины перед&#160;этими людьми. Если б они&#160;знали, кто сидит за&#160;их хорошеньким столом! Кого они&#160;угощают шоколадом и&#160;бисквитами! Им, может быть, стало&#160;бы&#160;просто жаль молока, и&#160;бисквитов, и&#160;шоколада, и&#160;ласковых ободряющих улыбок. Они&#160;живо спровадили&#160;бы&#160;меня.
+</p><p>А&#160;между тем иногда ужасно хочется, чтобы приласкали и&#160;угостили, и&#160;продлить это, как&#160;можно дольше! Не хочу внушать этим миловидным пожилым дамам отвращение, мне не&#160;хочется их пугать, я&#160;за то&#160;время, что&#160;сижу у&#160;них, уже успела немного привязаться к&#160;ним. И&#160;вот виноватое состояние стыда, малодушия, страха проговориться растёт.
+</p><p>А&#160;совесть во&#160;мне, ещё не&#160;купленная, и&#160;непереносившаяся.
+</p><p>«Очень нехорошо! Уйди сейчас&#160;же, имей по&#160;крайней мере честности настолько, чтобы поскорей уйти! Ведь это ты украла: столик с&#160;зелёной скатертью и&#160;розовыми чашечками, звуки рояля в&#160;открытую дверь балкона, бисквитики, молоко и&#160;милых старушек! Здесь ты — воровка!».
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>У&#160;меня есть кусочки медового солнца.
+</p><p>Солнце было жёлтое, — и&#160;камушек застыл жёлтый.
+</p><p>Солнце было розовое, — и&#160;камушек застыл розовый.
+</p><p>Солнце было медовое, — и&#160;застыл твёрдый медовый персик.
+</p><p>Светятся медовые камушки. Теплеют прозрачные края, а&#160;сверху они&#160;подёрнуты нежным розовым инеем.
+</p><p>В&#160;голубой лепёшечке звездятся серебряные звёздочки.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Я&#160;хочу изобразить голову белого гриба умной и&#160;чистой, какой она вышла из&#160;земли [захватив с&#160;собою часть планетной силы]. Стены и&#160;крышку финской виллы, какой они&#160;выглянули из&#160;лесной горы, омытые удалённостью, на&#160;высоте, к&#160;облакам.
+</p><p>Облако над&#160;горой, каким оно стало, переплыв светлую небесную сферу.
+</p><p>Лбы зверей, освещённые белою звёздочкой; как&#160;их создало живое Добро дыхания.
+</p><p>И&#160;моего сына, с&#160;тех пор, как&#160;он стал похож на&#160;иву длинным согнутым станом, а&#160;поникшей мило прядкою волос на&#160;лбу — на&#160;берёзу, а&#160;светлыми глазами — на&#160;молодую лиственницу, вонзившуюся вершиной в&#160;небо.
+</p><p>Только он&#160;ещё добрее ивы: на&#160;нём вместо коры нежность — [и&#160;светлее лиственницы]. Он&#160;смеётся над&#160;собой. Его прикосновенье благословляет вещи.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="СЛОВА_ЛЮБВИ_И_ТЕПЛА"><span id=".D0.A1.D0.9B.D0.9E.D0.92.D0.90_.D0.9B.D0.AE.D0.91.D0.92.D0.98_.D0.98_.D0.A2.D0.95.D0.9F.D0.9B.D0.90"></span>СЛОВА ЛЮБВИ И&#160;ТЕПЛА</h2></div>
+<table style="margin-left:auto;margin-right:auto;background-color:ghostwhite;">
+
+<tbody><tr>
+<td>
+<dl><dt>'</dt></dl><table class="poetry" style="background-color:transparent;margin:3ex 10ex 5ex;font-family:Cambria,Constantia,serif;font-size:120%;">
+
+
+<tbody><tr>
+<td>
+<h4 id="*_*_*_38" style="text-align:left;border-bottom:1px solid #aaa" class="mw-html-heading"><span id=".2A_.2A_.2A_38"></span>* * *</h4>
+<p><br />
+</p><p><br />
+</p>
+<br /><div style="text-align:right"><i></i>
+<p>У&#160;кота от&#160;лени и&#160;тепла разошлись ушки.<br />
+Разъехались бархатные ушки.<br />
+А&#160;кот раски-ис…<br />
+На&#160;болоте качались беловатики.<br />
+Жил-был<br />
+Ботик-животик:<br />
+Воркотик<br />
+Дуратик<br />
+Котик-пушатик.<br />
+Пушончик,<br />
+Беловатик,<br />
+Кошуратик -<br />
+Потасик…
+</p>
+<i></i></div>
+<hr />
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>[А&#160;тёплыми словами потому касаюсь жизни, что&#160;как&#160;же иначе касаться раненого? Мне кажется, всем существам так холодно, так холодно.
+</p><p>Видите&#160;ли, у&#160;меня нет детей, — вот, может, почему я&#160;так нестерпимо люблю всё живое.
+</p><p>Мне иногда кажется, что&#160;я мать всему.]
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Уезжай далеко, далеко, мой родной, родной.
+</p><p>Я&#160;тебя истерзала, я&#160;у тебя отняла твою кроткую грациозную жизнь. Не прощай мне…
+</p><p>Корабли, корабли, корабли далеко, родной мой!
+</p><p>Она, умирая, говорила — ты вернёшься! Лучше уходи навсегда к&#160;маленькой невинной башне в&#160;синем далёко, за&#160;голубые края.
+</p><p>Ах, ты вернёшься!
+</p><p>. . . . . . . . . . . . . . . . . .
+</p><p>Я&#160;хочу, чтоб он&#160;меня любил больше своей жизни, ласку мою — больше солнца.
+</p><p>Я&#160;хочу, чтоб душа его разрывалась от&#160;нежности.
+</p><p>Но&#160;я&#160;также хочу, чтобы на&#160;мою ласку он&#160;мне ответил со сдержанностью детского превосходства:
+</p><p>«Мне некогда, мамочка, через&#160;полчаса уходит мой поезд». И&#160;прыгнул&#160;бы&#160;в бричку.
+</p><p>Мне некогда, отплыли мои корабли далечко, сказал молодой викинг своей невесте — и&#160;уже машут чайки вслед моим кораблям.
+</p><p>И&#160;он, не&#160;поцеловав её, умчался. А&#160;в&#160;лесу выпал меж тем миндальный снег толокнянки, и&#160;лес был, как&#160;в венчальном уборе.
+</p><p>Я&#160;хочу, чтоб он&#160;часто забывал здороваться и&#160;прощаться.
+</p><p>Я&#160;лежу в&#160;постели, я&#160;больна, я&#160;жду его с&#160;нетерпением — чтобы он&#160;посидел около меня немного.
+</p><p>Долго&#160;ли&#160;я проживу? Я&#160;слабею быстро.
+</p><p>«Мама, представь себе, — я&#160;уезжаю на&#160;Шпицберген, мне кажется, я&#160;там напишу лучше мою поэму, чем на&#160;наших кротких озёрах!»
+</p><p>«Уезжай! Если я&#160;умру раньше, чем ты вернёшься, сумасшедший, напиши в&#160;этой смелой поэме про&#160;свою мать — свою мать!»
+</p><p>Таким я&#160;себе мечтаю его.
+</p><p>Сегодня были священные рощи над&#160;белыми песками, выросшие для&#160;молчания. Поднявшие тяжёлые ветви в&#160;неподвижном воздухе.
+</p><p>Люди, как&#160;звёзды, шли, сияя проникновением. Жалели кристальное. Полнозвучны были минуты, — ни&#160;одна не&#160;уходила даром.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="МЕЖ_СНОМ_И_НЕ_СНОМ"><span id=".D0.9C.D0.95.D0.96_.D0.A1.D0.9D.D0.9E.D0.9C_.D0.98_.D0.9D.D0.95_.D0.A1.D0.9D.D0.9E.D0.9C"></span>МЕЖ СНОМ И&#160;НЕ СНОМ</h2></div>
+<p>Я&#160;стояла в&#160;светлом песчаном перелеске, свесив голову к&#160;плечу, и&#160;чувствовала себя лошаденкой с&#160;отметённою ветром чёлкой и&#160;смирным словно пришлёпнутым хвостом, и&#160;глядела сквозь серебро волос, сиявших на&#160;глаза. И&#160;потому, что&#160;на Иван-чаях высоких рассыпался пух стеклянный семян и&#160;золотели во&#160;мху иглы уже линявших сосен, — это так для&#160;меня соединилось, что&#160;я слышала воскресение душ и&#160;сияющую пристань найденной, наконец, радости и&#160;глубокий, медовый сон молодости ещё небывалых творений и&#160;возможного.
+</p><p>И&#160;я&#160;услышала миги живыми и&#160;душу их соединений; что&#160;будет Воскресение каждой пушинки красоты — бесконечное, незакатное, негаснущее — такое, как&#160;розовые цветочки вереска. Неугасаемая пристань.
+</p><p>Я&#160;стояла лошаденькой с&#160;льняною чёлкой на&#160;лбу. В&#160;светлый вырубке с&#160;одной стороны на&#160;другую от&#160;высоких Иван-чаев летели стеклянные пушинки, серебрясь.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="ОБЕЩАЙТЕ"><span id=".D0.9E.D0.91.D0.95.D0.A9.D0.90.D0.99.D0.A2.D0.95"></span>ОБЕЩАЙТЕ</h2></div>
+<p>Поклянитесь, далекие и&#160;близкие, пишущие на&#160;бумаге чернилами, взором на&#160;облаках, краской на&#160;холсте, поклянитесь никогда не&#160;изменять, не&#160;клеветать на&#160;раз созданное — прекрасное — лицо вашей мечты, будь то&#160;дружба, будь то&#160;вера в&#160;людей или&#160;в песни ваши.
+</p><p>Мечта! — вы ей дали жить, — мечта живет, — созданное уже не&#160;принадлежит нам, как&#160;мы сами уже не&#160;принадлежим себе!
+</p><p>Поклянитесь, особенно пишущие на&#160;облаках взором, — облака изменяют форму — так легко опорочить их вчерашний лик неверием.
+</p><p>Обещайте, пожалуйста! Обещайте это жизни, обещайте мне это!
+</p><p>Обещайте!
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5c9fc7f974‐6tg8j
+Cached time: 20260215101531
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, no‐toc]
+CPU time usage: 0.209 seconds
+Real time usage: 0.287 seconds
+Preprocessor visited node count: 2140/1000000
+Revision size: 160987/2097152 bytes
+Post‐expand include size: 73175/2097152 bytes
+Template argument size: 29517/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.057/10.000 seconds
+Lua memory usage: 1926683/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  169.117      1 -total
+ 82.98%  140.336      1 Шаблон:Отексте
+ 12.31%   20.816     38 Шаблон:Poem
+  5.72%    9.672     38 Шаблон:Poem-on
+  2.62%    4.427     38 Шаблон:Poem-off
+  1.51%    2.559     67 Шаблон:***
+  0.99%    1.679      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1005184:|#|:idhash:canonical and timestamp 20260215101531 and revision id 5666258. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Небесные_верблюжата_(Гуро)&amp;oldid=5666258">https://ru.wikisource.org/w/index.php?title=Небесные_верблюжата_(Гуро)&amp;oldid=5666258</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%93%D1%83%D1%80%D0%BE" title="Категория:Елена Гуро">Елена Гуро</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1913_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1913 года">Литература 1913 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BD%D0%B5_%D0%B2%D0%B8%D0%BA%D0%B8-%D1%81%D0%BD%D0%BE%D1%81%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%BB%D0%B8_%D1%81_%D1%82%D0%B5%D0%B3%D0%BE%D0%BC_sup" title="Категория:Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup">Импорт/lib.ru/Страницы с не вики-сносками или с тегом sup</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BD%D0%BA%D0%BE%D1%80%D0%B0%D0%BC" title="Категория:Импорт/lib.ru/Страницы с внутренними ссылками по анкорам">Импорт/lib.ru/Страницы с внутренними ссылками по анкорам</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%93%D1%83%D1%80%D0%BE" title="Категория:Импорт/az.lib.ru/Елена Гуро">Импорт/az.lib.ru/Елена Гуро</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 18 октября 2025 года в 03:59.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9D%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B5%D1%80%D0%B1%D0%BB%D1%8E%D0%B6%D0%B0%D1%82%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Небесные верблюжата (Гуро)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-4zj2s","wgBackendResponseTime":154,"wgPageParseReport":{"limitreport":{"cputime":"0.209","walltime":"0.287","ppvisitednodes":{"value":2140,"limit":1000000},"revisionsize":{"value":160987,"limit":2097152},"postexpandincludesize":{"value":73175,"limit":2097152},"templateargumentsize":{"value":29517,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  169.117      1 -total"," 82.98%  140.336      1 Шаблон:Отексте"," 12.31%   20.816     38 Шаблон:Poem","  5.72%    9.672     38 Шаблон:Poem-on","  2.62%    4.427     38 Шаблон:Poem-off","  1.51%    2.559     67 Шаблон:***","  0.99%    1.679      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.057","limit":"10.000"},"limitreport-memusage":{"value":1926683,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Елена Гуро\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"published\"] = \"1913\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://elenaguro.narod.ru/nv.html elenaguro.narod.ru], [http://az.lib.ru/g/guro_e/text_0040.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Небесные верблюжата\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-5c9fc7f974-6tg8j","timestamp":"20260215101531","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

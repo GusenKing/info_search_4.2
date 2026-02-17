@@ -1,0 +1,1472 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Детский мирок (Андреевская)/ДО — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"4820ad7e-ec61-4477-8666-2b27d2df9950","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Детский_мирок_(Андреевская)/ДО","wgTitle":"Детский мирок (Андреевская)/ДО","wgCurRevisionId":5651648,"wgRevisionId":5651648,"wgArticleId":999160,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-RusEmpire","Дореформенная орфография","25%","Страницы без сканов","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 300","Импорт/lib.ru","Импорт/az.lib.ru/Варвара Павловна Андреевская","Проза","Детская литература","Сборники рассказов","Варвара Павловна Андреевская","Литература 1890 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Детский_мирок_(Андреевская)/ДО","wgRelevantArticleId":999160,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5651648,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Детский мирок (Андреевская)/ДО — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Детский_мирок_Андреевская_ДО rootpage-Детский_мирок_Андреевская skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9+%D0%BC%D0%B8%D1%80%D0%BE%D0%BA+%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9+%D0%BC%D0%B8%D1%80%D0%BE%D0%BA+%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9+%D0%BC%D0%B8%D1%80%D0%BE%D0%BA+%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9+%D0%BC%D0%B8%D1%80%D0%BE%D0%BA+%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-ДѢТСКІЙ_МІРОКЪ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ДѢТСКІЙ_МІРОКЪ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>ДѢТСКІЙ МІРОКЪ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ДѢТСКІЙ_МІРОКЪ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-AMИШКИНО_РОЖДЕНЬЕ."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#AMИШКИНО_РОЖДЕНЬЕ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>AMИШКИНО РОЖДЕНЬЕ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-AMИШКИНО_РОЖДЕНЬЕ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-РЖАНОЙ_КОЛОСОКЪ."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#РЖАНОЙ_КОЛОСОКЪ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>РЖАНОЙ КОЛОСОКЪ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-РЖАНОЙ_КОЛОСОКЪ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ПРОКАЗНИЦА_ЛЮБА,"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ПРОКАЗНИЦА_ЛЮБА,">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>ПРОКАЗНИЦА ЛЮБА,</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ПРОКАЗНИЦА_ЛЮБА,-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ВЪ_ГОСТЯХЪ_У_БАБУШКИ."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ВЪ_ГОСТЯХЪ_У_БАБУШКИ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>ВЪ ГОСТЯХЪ У БАБУШКИ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ВЪ_ГОСТЯХЪ_У_БАБУШКИ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ПОЖАРЪ."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ПОЖАРЪ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>ПОЖАРЪ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ПОЖАРЪ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-КТО_ПРОСПИТЪ,_ТОТЪ_ОСТАНЕТСЯ_ДОМА."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#КТО_ПРОСПИТЪ,_ТОТЪ_ОСТАНЕТСЯ_ДОМА.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>КТО ПРОСПИТЪ, ТОТЪ ОСТАНЕТСЯ ДОМА.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-КТО_ПРОСПИТЪ,_ТОТЪ_ОСТАНЕТСЯ_ДОМА.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-МАШИНЫ_УТОЧКИ."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#МАШИНЫ_УТОЧКИ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>МАШИНЫ УТОЧКИ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-МАШИНЫ_УТОЧКИ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-БИЖУ."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#БИЖУ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>БИЖУ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-БИЖУ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-РАЗБИТАЯ_КУКЛА."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#РАЗБИТАЯ_КУКЛА.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>РАЗБИТАЯ КУКЛА.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-РАЗБИТАЯ_КУКЛА.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ЛИДОЧКА."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ЛИДОЧКА.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">11</span>
+				<span>ЛИДОЧКА.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ЛИДОЧКА.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ЧЕРНЫЕ_ГЛАЗКИ."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ЧЕРНЫЕ_ГЛАЗКИ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">12</span>
+				<span>ЧЕРНЫЕ ГЛАЗКИ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ЧЕРНЫЕ_ГЛАЗКИ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ОЛЬГИНЪ_ДЕНЬ."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ОЛЬГИНЪ_ДЕНЬ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">13</span>
+				<span>ОЛЬГИНЪ ДЕНЬ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ОЛЬГИНЪ_ДЕНЬ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-БѢЛОЧКА."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#БѢЛОЧКА.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">14</span>
+				<span>БѢЛОЧКА.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-БѢЛОЧКА.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-БУРКА."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#БУРКА.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">15</span>
+				<span>БУРКА.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-БУРКА.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-САМА_ВИНОВАТА."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#САМА_ВИНОВАТА.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">16</span>
+				<span>САМА ВИНОВАТА.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-САМА_ВИНОВАТА.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ЗА_ВИШНЯМИ."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ЗА_ВИШНЯМИ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">17</span>
+				<span>ЗА ВИШНЯМИ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ЗА_ВИШНЯМИ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ТРИ_ЗОЛОТЫЯ_РЫБКИ."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ТРИ_ЗОЛОТЫЯ_РЫБКИ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">18</span>
+				<span>ТРИ ЗОЛОТЫЯ РЫБКИ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ТРИ_ЗОЛОТЫЯ_РЫБКИ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ЧТО_ЭТО_ТАКОЕ?"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ЧТО_ЭТО_ТАКОЕ?">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">19</span>
+				<span>ЧТО ЭТО ТАКОЕ?</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ЧТО_ЭТО_ТАКОЕ?-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ДВА_МЫШЕНКА."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ДВА_МЫШЕНКА.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">20</span>
+				<span>ДВА МЫШЕНКА.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ДВА_МЫШЕНКА.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Детский мирок (Андреевская)/ДО</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9+%D0%BC%D0%B8%D1%80%D0%BE%D0%BA+%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;oldid=5651648" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E&amp;id=5651648&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2594%25D0%25B5%25D1%2582%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9_%25D0%25BC%25D0%25B8%25D1%2580%25D0%25BE%25D0%25BA_%28%25D0%2590%25D0%25BD%25D0%25B4%25D1%2580%25D0%25B5%25D0%25B5%25D0%25B2%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F%29%2F%25D0%2594%25D0%259E"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2594%25D0%25B5%25D1%2582%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9_%25D0%25BC%25D0%25B8%25D1%2580%25D0%25BE%25D0%25BA_%28%25D0%2590%25D0%25BD%25D0%25B4%25D1%2580%25D0%25B5%25D0%25B5%25D0%25B2%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F%29%2F%25D0%2594%25D0%259E"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_%28%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%94%D0%9E' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" id="pre-reform"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%94%D0%BE%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Викитека:Дореформенная орфография"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yat-round-icon1.jpg/40px-Yat-round-icon1.jpg" decoding="async" width="32" height="32" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yat-round-icon1.jpg/60px-Yat-round-icon1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yat-round-icon1.jpg/120px-Yat-round-icon1.jpg 2x" data-file-width="150" data-file-height="150" /></a></span></div><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Детский мирок</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">авторъ <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F" title="Автор:Варвара Павловна Андреевская">Варвара Павловна Андреевская</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1890</span>. Источникъ: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/a/andreewskaja_w_p/text_1890_detsky_mirok_oldorfo.shtml">az.lib.ru</a></span>  • Амишкино рожденье<br />
+Ржаной колосок<br />Проказница Люба<br />В&#160;гостях у&#160;бабушки<br />Пожар<br />Кто проспит, тот останется дома<br />Манины уточки<br />Бижу<br />Разбитая кукла<br />Лидочка<br />Черные глазки<br />Ольгин день<br />Белочка<br />Бурка<br />Сама виновата<br />За&#160;вишнями<br />Три золотые рыбки<br />Что&#160;это такое?<br />Два мышонка</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F" title="Автор:Варвара Павловна Андреевская">Варвара Павловна Андреевская</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение было опубликовано до 7 ноября 1917 года (по новому стилю) на территории <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" class="extiw" title="w:Российская империя">Российской империи</a> (<a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" class="extiw" title="w:Российская республика">Российской республики</a>), за исключением территорий <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D1%81%D0%BA%D0%BE%D0%B5" class="extiw" title="w:Великое княжество Финляндское">Великого княжества Финляндского</a> и <a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5" class="extiw" title="w:Царство Польское">Царства Польского</a>, и не было опубликовано на территории <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" class="extiw" title="w:Советская Россия">Советской России</a> или других государств в течение 30 дней после даты первого опубликования.
+<p>Поскольку Российская Федерация (Советская Россия, РСФСР), несмотря на историческую преемственность, юридически не является полным правопреемником Российской империи, а сама Российская империя не являлась страной-участницей <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D1%85_%D0%B8_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9" class="extiw" title="w:Бернская конвенция об охране литературных и художественных произведений">Бернской конвенции об охране литературных и художественных произведений</a>, то согласно статье 5 конвенции это произведение <b>не имеет страны происхождения</b>.
+</p><p>Исключительное право на это произведение не действует на территории Российской Федерации, поскольку это произведение не удовлетворяет положениям статьи 1256 Гражданского кодекса Российской Федерации о территории обнародования, о гражданстве автора и об обязательствах по международным договорам.
+</p><p>Это произведение находится также в <a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Справка:Общественное достояние">общественном достоянии</a> в США (<i><a href="https://en.wikisource.org/wiki/Help:Public_domain" class="extiw" title="en:Help:Public domain">public domain</a></i>), поскольку оно было опубликовано до 1 января 1931 года.
+</p>
+</td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Russia.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/60px-Flag_of_Russia.svg.png" decoding="async" width="60" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/120px-Flag_of_Russia.svg.png 1.5x" data-file-width="900" data-file-height="600" /></a></span>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Andreewskaja_w_p_text_1890_detsky_mirok_oldorfo_a01.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/9/9c/Andreewskaja_w_p_text_1890_detsky_mirok_oldorfo_a01.jpg" decoding="async" width="630" height="838" class="mw-file-element" data-file-width="630" data-file-height="838" /></a><figcaption></figcaption></figure>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Andreewskaja_w_p_text_1890_detsky_mirok_oldorfo_a02.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/b/b1/Andreewskaja_w_p_text_1890_detsky_mirok_oldorfo_a02.jpg" decoding="async" width="630" height="838" class="mw-file-element" data-file-width="630" data-file-height="838" /></a><figcaption></figcaption></figure>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="ДѢТСКІЙ_МІРОКЪ"><span id=".D0.94.D1.A2.D0.A2.D0.A1.D0.9A.D0.86.D0.99_.D0.9C.D0.86.D0.A0.D0.9E.D0.9A.D0.AA"></span>ДѢТСКІЙ МІРОКЪ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=1" title="Редактировать раздел «ДѢТСКІЙ МІРОКЪ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<center>РАЗСКАЗЫ ИЗЪ ДѢТСКОЙ ЖИЗНИ</center>
+<center>ДЛЯ ДѢТЕЙ МЛАДШАГО ВОЗРАСТА</center>
+<center>В. П. Андреевской.</center>
+<center>Съ 6-ю раскрашенными рисунками.</center>
+<center>С.-ПЕТЕРБУРГЪ.</center>
+<center>ИЗДАНІЕ Ф. А. БИТЕПАЖА.</center>
+<center>ОГЛАВЛЕНІЕ.</center>
+<p>Амишкино рожденье (съ картинкой)
+</p><p>Ржаной колосокъ
+</p><p>Проказница Люба
+</p><p>Въ гостяхъ у&#160;бабушки (съ картинкой)
+</p><p>Пожаръ
+</p><p>Кто проспитъ, тотъ останется дома
+</p><p>Манины уточки (съ картинкой)
+</p><p>Бижу
+</p><p>Разбитая кукла
+</p><p>Лидочка (съ картинкой)
+</p><p>Черные глазки
+</p><p>Ольгинъ день
+</p><p>Бѣлочка (съ картинкой)
+</p><p>Бурка
+</p><p>Сама виновата
+</p><p>За&#160;вишнями (съ картинкой)
+</p><p>Три золотыя рыбки
+</p><p>Что&#160;это такое?
+</p><p>Два мышенка
+</p>
+<div class="mw-heading mw-heading3"><h3 id="AMИШКИНО_РОЖДЕНЬЕ."><span id="AM.D0.98.D0.A8.D0.9A.D0.98.D0.9D.D0.9E_.D0.A0.D0.9E.D0.96.D0.94.D0.95.D0.9D.D0.AC.D0.95."></span>AMИШКИНО РОЖДЕНЬЕ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=2" title="Редактировать раздел «AMИШКИНО РОЖДЕНЬЕ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Соня, Люба! Вы кажется забыли что&#160;сегодня у&#160;насъ торжество! — сказалъ маленькій Миша своимъ двумъ сестричкамъ.
+</p><p>— Какое? — спросили послѣднія.
+</p><p>— Амишкино рожденье!
+</p><p>— Ахъ, въ самомъ дѣлѣ, сегодня 15-ое Іюня, и&#160;я помню отлично, что&#160;прошедшій годъ именно въ это число намъ принесли его отъ матери совсѣмъ крошечнаго, слѣпаго…
+</p><p>— Да, да, надо придумать какъ-нибудь отпраздновать этотъ достопримѣчательный день.
+</p><p>— Еще&#160;бы!
+</p><p>— Давайте, устроимъ балъ! — предложилъ маленькій братецъ Володя.
+</p><p>— Отлично, тѣмъ болѣе, что&#160;насъ какъ разъ четверо — цѣлая кадриль.
+</p><p>И&#160;дѣти въ восторгѣ отъ придуманнаго удовольствія, тутъ&#160;же въ саду размѣстились попарно, чтобы начать танцовать кадриль.
+</p><p>Миша взялъ Соню, Володя — Любочку.
+</p><p>— А&#160;какъ&#160;же музыка? — замѣтилъ кто то&#160;изъ танцующихъ.
+</p><p>— Въ самомъ дѣлѣ. Про&#160;музыку-то&#160;мы забыли!
+</p><p>— Можно безъ музыки.
+</p><p>— Нѣтъ, неудобно!
+</p><p>— Постойте, — отозвался Миша, — я&#160;принесу гармонику и&#160;буду на&#160;ней играть вамъ.
+</p><p>Съ этими словами онъ поспѣшно побѣжалъ въ комнату, принесъ гармонику и, сѣвъ на&#160;заборъ, принялся играть всѣмъ знакомую русскую пѣсенку: «Стрѣлочка».
+</p><p>— Погоди, Миша, — остановила его Любочка, — вѣдь опять дѣло у&#160;насъ не&#160;ладится.
+</p><p>— Почему?
+</p><p>— Одного не&#160;хватаетъ для&#160;кадрили.
+</p><p>— Правда! — отозвался Миша и, опустивъ гармонику на&#160;колѣни, задумался.
+</p><p>— Ну, если нельзя устроить кадриль, танцуйте польку! — сказалъ онъ чрезъ нѣсколько минутъ и, снова взявъ въ руки гармонику, принялся за&#160;прерваннаго «Стрѣлочка». Любочка подошла къ Сонѣ и, обхвативъ ее за&#160;талію, предложила танцовать съ ней польку.
+</p><p>Маленькія&#160;ножки дѣвочекъ быстро засѣменили по&#160;песку.
+</p><p>— А&#160;я, а&#160;я! — кричалъ тѣмъ временемъ Володя, бѣгая сзади.
+</p><p>— Подожди, нельзя танцовать легкіе танцы втроемъ.
+</p><p>Володя расплакался, но&#160;дѣвочки не&#160;обращая вниманія, продолжали кружиться.
+</p><p>Володя надулъ губки и&#160;отошелъ въ сторону.
+</p><p>Онъ вообще былъ капризный, и&#160;по всей вѣроятности раскричался&#160;бы&#160;на весь садъ что&#160;его обижаютъ, еслибы въ эту самую минуту къ нему не&#160;подбѣжала виновница торжества, Амишка.
+</p><p>— Вотъ и&#160;у меня есть пара! — сказалъ онъ тогда, улыбнувшись сквозь слезы, и&#160;взявъ Амишку за&#160;переднія&#160;лапки, принялся кружиться съ ней тутъ&#160;же.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="РЖАНОЙ_КОЛОСОКЪ."><span id=".D0.A0.D0.96.D0.90.D0.9D.D0.9E.D0.99_.D0.9A.D0.9E.D0.9B.D0.9E.D0.A1.D0.9E.D0.9A.D0.AA."></span>РЖАНОЙ КОЛОСОКЪ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=3" title="Редактировать раздел «РЖАНОЙ КОЛОСОКЪ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Мама, мы&#160;пойдемъ сегодня гулять? — спросила Зиночка свою маму, подбѣжавъ къ ней послѣ завтрака.
+</p><p>— Хорошо, дружокъ, съ удовольствіемъ.
+</p><p>— Куда?
+</p><p>— Куда хочешь, мнѣ все равно.
+</p><p>— Въ ржаное поле, тамъ ростетъ много васильковъ, это мои любимые цвѣточки.
+</p><p>— Пойдемъ! — и&#160;сложивъ работу, мама надѣла шляпу и&#160;вмѣстѣ съ Соней вышла изъ дому по&#160;направленію къ ржаному полю.
+</p><p>Зина была очень довольна прогулкою, она бѣгала вправо и&#160;влѣво&#160;по дорогѣ, рвала цвѣты, ловила бабочекъ и&#160;съ удовольствіемъ слушала разсказы мамы о&#160;разныхъ букашкахъ, мошкахъ, таракашкахъ.
+</p><p>Но&#160;вотъ они&#160;пришли на&#160;ржаное поле. Зиночка принялась рвать васильки, а&#160;мама сѣла на&#160;траву и&#160;начала читать взятую съ собою книгу. Это продолжалось около часа, наконецъ мама напомнила, что&#160;пора возвращаться домой, дѣвочка нехотя послѣдовала за&#160;нею.
+</p><p>— Можетъ-ли&#160;быть что&#160;нибудь лучше васильковъ? — сказала Зина, — право жаль, что&#160;всѣ эти поля, по&#160;которымъ, мы&#160;проходимъ, засѣяны рожью, а&#160;не васильками, — было&#160;бы&#160;гораздо красивѣе! Да&#160;и&#160;вообще я&#160;не понимаю, къ чему сѣять рожь, что&#160;въ ней хорошаго, одна солома, да&#160;колосья.
+</p><p>— Но, другъ мой, развѣ ты не&#160;знаешь, что&#160;изъ ржаного колоска дѣлаютъ муку и&#160;затѣмъ пекутъ хлѣбъ, который ты кушаешь за&#160;обѣдомъ.
+</p><p>— Да, но&#160;я кушаю его потому, что&#160;онъ есть, а&#160;еслибы не&#160;было, то&#160;и не&#160;вспомнила&#160;бы&#160;о немъ.
+</p><p>— Ты думаешь?
+</p><p>— Навѣрное.
+</p><p>— Едва&#160;ли!
+</p><p>— Навѣрное, мамочка.
+</p><p>— И&#160;довольствовалась&#160;бы&#160;вмѣсто его цвѣтами?
+</p><p>— Непремѣнно!
+</p><p>Мама улыбнулась.
+</p><p>Разговоръ на&#160;эту тему продолжался довольно долго; сколько мама ни&#160;старалась доказать Зиночки всю необходимость существованія&#160;хлѣба, она не&#160;соглашалась и&#160;упорно стояла своемъ, что&#160;было&#160;бы&#160;гораздо лучше, если&#160;бы&#160;всѣ поля были засѣяны цвѣтами.
+</p><p>Разсуждая подобнымъ образомъ, онѣ незамѣтно дошли до&#160;дома, гдѣ папа ихъ давно ожидалъ къ обѣду.
+</p><p>— Мы&#160;принесли цѣлый вѣникъ васильковъ! — крикнула ему Зиночка. Посмотри папа, тутъ выйдетъ нѣсколько букетовъ.
+</p><p>— Да, въ самомъ дѣлѣ какое множество, и&#160;какіе прекрасные, крупные васильки. — отозвался папа. — Вотъ ты сейчасъ и&#160;займись составленіемъ букетовъ и&#160;поставь ихъ въ воду, чтобы они&#160;не завяли.
+</p><p>— Хорошо, папочка, непремѣнно, только позволь прежде пообѣдать, я&#160;ужасно проголодалась. Тѣмъ временемъ они&#160;вѣдь не&#160;испортятся, не&#160;правда&#160;ли?
+</p><p>— Конечно!
+</p><p>Зина бережно сложила цвѣты въ углу балкона, а&#160;сама отправилась въ столовую обѣдать.
+</p><p>Мама и&#160;папа уже сидѣли&#160;за столомъ, Зина тоже заняла свое обычное мѣсто, и&#160;съ нетерпѣніемъ ожидала, когда горничная поставитъ передъ ней тарелку съ супомъ.
+</p><p>— Извольте, барышня, кушайте! — сказала ей наконецъ послѣдняя, подавая бульонъ.
+</p><p>Зина взяла въ руки ложку и&#160;уже хотѣла начать кушать, но&#160;спохватилась что&#160;около ея прибора нѣтъ хлѣба.
+</p><p>— Мамочка, у&#160;меня нѣтъ хлѣба, — обратилась она къ матери.
+</p><p>— Сейчасъ, дружокъ! — отозвалась послѣдняя, и&#160;вдругъ вмѣсто хлѣба подала ей прекрасную махровую розу.
+</p><p>— Что&#160;это? — спросила дѣвочка.
+</p><p>— Развѣ ты не&#160;видишь, — роза.
+</p><p>— Зачѣмъ она мнѣ, мамочка, теперь, я&#160;хочу кушать и&#160;прошу у&#160;тебя хлѣба.
+</p><p>— Да&#160;не&#160;сама-ли&#160;ты сію минуту говорила, что&#160;было&#160;бы&#160;гораздо лучше, если&#160;бы&#160;всѣ поля были засѣяны не&#160;рожью изъ колосьевъ, изъ которой выдѣлываютъ муку и&#160;затѣмъ хлѣбъ, а&#160;цвѣтами, — вотъ я&#160;и даю тебѣ вмѣсто хлѣба прекрасную махровую розу.
+</p><p>Зиночка расхохоталась.
+</p><p>— Нѣтъ, мамочка, — сказала она, — я&#160;вижу, что&#160;жестоко ошиблась разсуждая подобнымъ образомъ — безъ хлѣба существовать невозможно. Богъ съ нею, съ розой, положи ее въ сторону и&#160;дай мнѣ кусочекъ хлѣба.
+</p><p>Мама исполнила желаніе Зиночки, которая съ той поры, проходя мимо ржаного поля, никогда больше не&#160;говорила: «что&#160;въ немъ хорошаго — одна солома, да&#160;колосья!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ПРОКАЗНИЦА_ЛЮБА,"><span id=".D0.9F.D0.A0.D0.9E.D0.9A.D0.90.D0.97.D0.9D.D0.98.D0.A6.D0.90_.D0.9B.D0.AE.D0.91.D0.90.2C"></span>ПРОКАЗНИЦА ЛЮБА,</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=4" title="Редактировать раздел «ПРОКАЗНИЦА ЛЮБА,»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Люба пріѣхала погостить къ дѣдушкѣ вмѣстѣ съ мамой, папой и&#160;няней. Дѣдушка очень любилъ Любу баловалъ ее ужасно.
+</p><p>— Няня, пожалуйста не&#160;оставляйте Любочку одну, — сказала мама, — она у&#160;насъ проказница, какъ разъ что-нибудь набѣдакуритъ или&#160;напроказитъ.
+</p><p>— Ничего она не&#160;набѣдакуритъ и&#160;не напроказитъ! — вступился дѣдушка, посадивъ Любочку къ себѣ на&#160;колѣни&#160;и нѣжно цѣлуя ее.
+</p><p>Любочка обхватила рученками шею дѣдушки, хотѣла что-то&#160;отвѣтить, но&#160;въ эту минуту въ противоположномъ углу комнаты вдругъ раздалось: «ку-ку, — ку-ку»…
+</p><p>Дѣвочка поспѣшно обернулась.
+</p><p>— Дѣдушка, что&#160;это? — спросила она.
+</p><p>— Это, другъ мой, часы съ кукушкой.
+</p><p>— Какъ, часы съ кукушкой, съ живою?
+</p><p>Всѣ расхохотались.
+</p><p>— Нѣтъ, — сказалъ дѣдушка, — она не&#160;живая, иначе не&#160;усидѣла&#160;бы&#160;въ такомъ тѣсномъ помѣщеніи.
+</p><p>— Но&#160;почему&#160;же она кукуетъ точно настоящая?
+</p><p>— Такъ уже сдѣлана.
+</p><p>— Я&#160;бы&#160;хотѣла посмотрѣть на&#160;нее подольше, а&#160;то не&#160;успѣла оглянуться, она уже и&#160;спряталась.
+</p><p>— Погоди, когда часовая стрѣлка будетъ показывать слѣдующій часъ, кукушка опять высунетъ свою головку! — добавила мама.
+</p><p>— Но, мамочка, это долго, надо ждать цѣлый часъ, а&#160;мнѣ бы&#160;вотъ сію минуту хотѣлось.
+</p><p>— Пойдемъ, дружокъ, снова началъ дѣдушка, вставъ съ мѣста, я&#160;устрою такъ, что&#160;ты сію минуту увидишь.
+</p><p>И, подойдя къ часамъ, старикъ началъ переводить ихъ, кукушка безпрестанно выскакивала и&#160;каждый разъ куковала отчетливо. Люба была въ полномъ удовольствіи.
+</p><p>— Ну, теперь довольно, — сказалъ дѣдушка, — иначе часы могутъ испортиться, и&#160;тогда не&#160;видать намъ съ тобою сѣрой кукушечки.
+</p><p>Люба не&#160;смѣла больше безпокоить дѣдушку и&#160;попросила няню, чтобы та всякій разъ предупреждала ее, когда кукушка должна выскочить.
+</p><p>Но&#160;вотъ однажды случилось такъ, что&#160;Любочка стояла одна въ комнатѣ въ то&#160;время, когда часы ударили двѣнадцать. Она съ любопытствомъ слѣдила за&#160;кукушкой и&#160;затѣмъ, воспользовавшись отсутствіемъ няни, подвинула къ стѣнѣ столъ, на&#160;столъ поставила стулъ, достала изъ буфета небольшую баночку варенья, вскарабкалась на&#160;самый верхъ и, давай наливать въ часы ложку за&#160;ложкой только что&#160;свареной крупной земляники.
+</p><p>— «Вотъ тебѣ, кукушечка, вотъ тебѣ милая за&#160;то, что&#160;столько разъ потѣшала меня, — приговаривала Любочка, угощая кукушку отъ всего сердца, — хотя дѣдушка и&#160;сказалъ, что&#160;ты дѣланная, не&#160;живая, но&#160;это вѣроятно неправда, кушай на&#160;здоровье кушай милая…
+</p><p>За&#160;тѣмъ когда въ банкѣ почти ничего не&#160;осталось, дѣвочка тѣмъ&#160;же порядкомъ сошла внизъ, убрала столъ, стулъ и&#160;отправилась отыскивать няню.
+</p><p>— Няня, ты скажи когда кукушка должна куковать, — сказала она.
+</p><p>— Хорошо, — отозвалась няня. Но&#160;къ крайнему удивленію прошелъ часъ, другой, третій — кукушка не&#160;показывалась.
+</p><p>— Что&#160;это значитъ? — сказалъ дѣдушка и, снявъ часы со стѣны, началъ ихъ разсматривать.
+</p><p>— Ахъ ты проказница! — сказалъ онъ, обратившись къ Любочкѣ и&#160;громко расхохотавшись, — ужъ это вѣрно твои дѣла!
+</p><p>Дѣвочка конечно во&#160;всемъ созналась. Мама хотѣла наказать ее за&#160;шалость, но&#160;дѣдушка ни&#160;за что&#160;не позволилъ. Часы были немедленно отнесены къ часовщику, который, узнавъ въ чемъ дѣло, очень смѣялся, но&#160;по счастію взялся поправить ихъ и, по&#160;прошествіи нѣкотораго времени сѣрая кукушка снова закуковала попрежнему.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ВЪ_ГОСТЯХЪ_У_БАБУШКИ."><span id=".D0.92.D0.AA_.D0.93.D0.9E.D0.A1.D0.A2.D0.AF.D0.A5.D0.AA_.D0.A3_.D0.91.D0.90.D0.91.D0.A3.D0.A8.D0.9A.D0.98."></span>ВЪ ГОСТЯХЪ У&#160;БАБУШКИ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=5" title="Редактировать раздел «ВЪ ГОСТЯХЪ У БАБУШКИ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Варенька, Люлюша и&#160;Петя съ нетерпѣніемъ ожидали Воскресенья, потому что&#160;въ этотъ день должны были съ утра отправиться къ бабушкѣ, гдѣ всегда бываетъ такъ весело. Кромѣ того, что&#160;бабушка постоянно занимаетъ различными разсказами, угощаетъ лакомствомъ, даритъ игрушки — она еще всякій разъ непремѣнно придумаетъ какое-нибудь особенное удовольствіе, такое, которое дома испытать никогда не&#160;придется.
+</p><p>— Скорѣе&#160;бы&#160;Воскресенье! — сказалъ Петя.
+</p><p>— Сегодня только Пятница! — со вздохомъ отозвалась Варенька.
+</p><p>— А&#160;за&#160;Пятницей еще Суббота будетъ! — замѣтила въ заключеніе Люлюша.
+</p><p>Но&#160;такъ какъ на&#160;свѣтѣ нѣтъ ничего вѣчнаго, то&#160;прошла Пятница, прошла и&#160;Суббота и&#160;въ концѣ-концовъ наступило такъ давно ожидаемое Воскресенье. Дѣти проснулись чуть не&#160;съ восходомъ солнца и&#160;хотѣли&#160;сейчасъ&#160;же вставать, но&#160;няня не&#160;позволила этого сдѣлать, сказавъ, что&#160;мама будетъ недовольна потому, что&#160;не любитъ, когда что&#160;нибудь дѣлается не&#160;во время.
+</p><p>Волей-неволей приходилось покоряться и&#160;ждать. Дѣти снова юркнули подъ свои бѣленькія одѣяльца, вытянули ножки, зажмурили глаза и, въ надеждѣ заснуть, лежали неподвижно, но&#160;сколько ни&#160;жмурились бѣдняги, сонъ не&#160;приходилъ больше, мысль о&#160;предстоящемъ днѣ у&#160;бабушки такъ и&#160;преслѣдовала ихъ, рисуя въ маленькихъ головкахъ самыя очаровательныя картины.
+</p><p>Время тянулось необыкновенно долго, наконецъ часовая стрѣлка висѣвшихъ въ столовой часовъ показала восемь, няня вошла въ комнату.
+</p><p>— Теперь пора, вставайте! — сказала она, приподнявъ стору.
+</p><p>Дѣти не&#160;заставили дважды повторять себѣ слово «вставайте!» и&#160;менѣе чѣмъ по&#160;прошествіи получаса, уже совершенно одѣтые вышли къ утреннему чаю.
+</p><p>— Ба, ба, вы уже кажется готовы хоть сейчасъ пуститься въ путь-дорогу? — шутя замѣтилъ папа.
+</p><p>— Готовы, папа, давно, мы&#160;проснулись очень рано, только няня не&#160;позволила встать, сказавъ, что&#160;мама не&#160;любитъ безпорядка.
+</p><p>— И&#160;отлично сдѣлала, иначе мама, пожалуй, разсердилась&#160;бы&#160;и не&#160;пустила васъ къ бабушкѣ.
+</p><p>— Сохрани Богъ! — въ одинъ голосъ вскричали дѣти и&#160;на ихъ маленькихъ свѣтлыхъ личикахъ выразился непритворный испугъ.
+</p><p>Мама улыбнулась.
+</p><p>— Будьте покойны! — сказала она, — ничего подобнаго случиться не&#160;можетъ, я&#160;вами довольна, и&#160;сейчасъ&#160;же послѣ завтрака отправляю васъ съ няней къ бабушкѣ.
+</p><p>— А&#160;сама, мамочка, развѣ не&#160;поѣдешь и&#160;папа тоже? — тревожно спросилъ Петя, который такъ любилъ своихъ родителей, что&#160;считалъ всякое удовольствіе неполнымъ, если они&#160;не могли принять въ немъ участія.
+</p><p>— Нѣтъ, мы&#160;пріѣдемъ позднѣе, къ вечеру. Для&#160;васъ&#160;же вѣроятно пріятнѣе отправиться раньше.
+</p><p>— О, конечно!
+</p><p>— Въ которомъ&#160;же часу мы&#160;тронемся? — спросила Люлюша.
+</p><p>— Сейчасъ послѣ завтрака!
+</p><p>И&#160;дѣйствительно, ровно въ половинѣ перваго къ подъѣзду подали экипажъ. Дѣти сѣли&#160;въ него вмѣстѣ съ няней, рослыя вороныя лошади побѣжали скоро, скоро, и&#160;менѣе чѣмъ черезъ двадцать минутъ доставили ихъ къ бабушкѣ.
+</p><p>Бабушка жила въ хорошенькомъ домикѣ, который со всѣхъ сторонъ былъ окруженъ зеленью, но&#160;прямо тянулась дорога въ городъ, налѣво&#160;маленькое озеро, которое отличалось отъ прочихъ озеръ тѣмъ, что&#160;вода въ немъ была необыкновенно чиста, прозрачна и&#160;въ то&#160;же самое время до&#160;того покойна, что&#160;никогда не&#160;покрывалась волнами.
+</p><p>Бабушка встрѣтила дорогихъ гостей на&#160;лѣстницѣ, нѣжно поцѣловала каждаго по&#160;нѣсколько разъ, и&#160;повела въ садъ показывать цвѣтники. Затѣмъ посадила около себя на&#160;балконѣ, стала разсказывать сказку про&#160;Мальчика съ пальчика, про&#160;Бабу-ягу, про&#160;Красную шапочку. Потомъ горничная позвала обѣдать.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Andreewskaja_w_p_text_1890_detsky_mirok_oldorfo_a03.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/3/33/Andreewskaja_w_p_text_1890_detsky_mirok_oldorfo_a03.jpg" decoding="async" width="632" height="840" class="mw-file-element" data-file-width="632" data-file-height="840" /></a><figcaption></figcaption></figure>
+<p>За&#160;обѣдомъ подавались блюда, которыя въ особенности любили дѣти: на&#160;пирожное были ягоды, да&#160;такія&#160;красныя, спѣлыя, какихъ нигдѣ нельзя встрѣтить, кромѣ какъ только у&#160;бабушки.
+</p><p>— Ну, теперь друзья мои, — сказала она, вставъ изъ-за&#160;стола, — пойдемте, я&#160;приготовила для&#160;васъ новое, еще небывалое удовольствіе.
+</p><p>Дѣти самодовольно улыбнулись. Они&#160;заранѣе знали, что&#160;это должно быть что&#160;нибудь очень, очень хорошее.
+</p><p>Бабушка молча спустилась съ балконной лѣстницѣ въ садъ и&#160;повела внучатъ по&#160;дѣйствительно новой, еще незнакомой имъ дорожкѣ.
+</p><p>— Бабуся, кажется прежде этой дорожки не&#160;было? — спросилъ Петя.
+</p><p>— Не было, дружокъ, ты видишь, она только что&#160;проложена.
+</p><p>— И&#160;куда идетъ?
+</p><p>— Сейчасъ узнаешь.
+</p><p>Съ этими словами бабушка слегка толкнула маленькую калиточку, къ которой привела ихъ новая дорожка и&#160;дѣти очутились на&#160;берегу озера гдѣ увидѣли&#160;около пристани маленькую изящную лодочку.
+</p><p>— Какая прелесть! — вскричали они, вотъ&#160;бы&#160;хорошо покататься!
+</p><p>— Почему&#160;же нѣтъ? Лодку эту я&#160;пріобрѣла собственно для&#160;васъ, вы можете кататься на&#160;ней сколько вамъ угодно, тѣмъ болѣе, что&#160;на моемъ озерѣ никогда не&#160;бываетъ волненія, Дѣти бросились съ благодарностію цѣловать руку доброй бабушки и&#160;сѣли&#160;въ лодку. Варенька съ Люлюшей заняли мѣсто подъ навѣсомъ, маленькая собачка Дружокъ прыгнула туда&#160;же, Петя сѣлъ напротивъ, взялъ въ руки весла и&#160;лодочка отчалила.
+</p><p>Боже мой, какъ радовались дѣти! Съ какимъ наслажденіемъ катались они&#160;взадъ и&#160;впередъ по&#160;озеру и&#160;считали себя при&#160;этомъ самыми счастливыми людьми въ цѣломъ мірѣ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ПОЖАРЪ."><span id=".D0.9F.D0.9E.D0.96.D0.90.D0.A0.D0.AA."></span>ПОЖАРЪ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=6" title="Редактировать раздел «ПОЖАРЪ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Почему папа никогда меня не&#160;пускаетъ къ себѣ въ кабинетъ, въ особенности безъ себя? — сказалъ однажды маленькій Ваня своему товарищу Володѣ, — какъ ты думаешь?
+</p><p>— Вѣроятно ты имѣешь дурную привычку все трогать и&#160;передвигать съ мѣста на&#160;мѣста, а&#160;папа твой человѣкъ акуратный, ему это не&#160;нравится.
+</p><p>Ваня ничего не&#160;отвѣтилъ на&#160;замѣчаніе товарища, потому что&#160;въ душѣ былъ совершенно согласенъ съ нимъ, но&#160;тутъ&#160;же мысленно порѣшилъ непремѣнно во&#160;что&#160;бы&#160;то ни&#160;стало, при&#160;первомъ удобномъ случаѣ пробраться въ папинъ кабинетъ и&#160;пересмотрѣть все, что&#160;находится на&#160;письменномъ столѣ.
+</p><p>Случай не&#160;замедлилъ представиться; папа по&#160;обыкновенію послѣ ранняго завтрака ушелъ въ должность и, заторопившись, на&#160;бѣду забылъ ключъ отъ кабинета въ двери.
+</p><p>«Прекрасно, превосходно! — сказалъ самъ себѣ Ваня, — даже судьба мнѣ помогаетъ», и&#160;воспользовавшись тѣмъ, что&#160;мама занялась шитьемъ, живо юркнулъ въ кабинетъ.
+</p><p>«Какъ здѣсь хорошо, какъ интересно!» — думалъ Ваня переходя отъ одного предмета къ другому, и&#160;все до&#160;послѣдней мелкой вещицы, перетрогалъ руками и&#160;незамѣтно для&#160;самого себя сдвинулъ съ обычнаго мѣста.
+</p><p>«А&#160;это что&#160;такое?» сказалъ онъ уже вслухъ, снявъ со стола какую-то&#160;непонятную для&#160;него бронзовую коробочку и&#160;открылъ крышку.
+</p><p>«Спички! — отвѣтилъ самъ себѣ Ваня, — но&#160;какія&#160;необыкновенныя, длинныя съ розовыми головками! Дай-ка чиркну, каково онѣ горятъ пожалуй тоже разноцвѣтными огнями, это должно быть очень красиво». — И&#160;не&#160;долго думая, Ваня чиркнулъ спичку, которая вспыхнула такъ быстро, что&#160;онъ, испугавшись, бросилъ ее на&#160;столъ и&#160;случайно уронилъ обратно въ бронзовую коробочку.
+</p><p>Упавъ на&#160;остальныя спички, она въ одинъ моментъ зажгла ихъ всѣ разомъ, пламя вырвалось наружу, и&#160;такъ какъ спичечница стояла около окна, гдѣ были спущены кисейныя занавѣски, то&#160;и занавѣски загорѣлись. Ваня перетрусилъ не&#160;на шутку.
+</p><p>— Пожаръ, пожаръ! — закричалъ онъ на&#160;весь домъ и&#160;какъ помѣшанный выбѣжалъ изъ комнаты.
+</p><p>— Гдѣ пожаръ? Что&#160;горитъ? — раздался вдругъ голосъ отца, который, забывъ одну нужную бумагу, нечаянно вернулся за&#160;нею домой.
+</p><p>— У&#160;тебя въ кабинетѣ, папа! — отвѣтилъ Ваня дрожа словно въ лихорадки.
+</p><p>— Не можетъ быть; туда никто безъ меня не&#160;входитъ, потому что&#160;я уношу ключъ съ собою.
+</p><p>— Сегодня ты по&#160;разсѣянности оставилъ его въ двери, я&#160;зашелъ туда, и… и… набѣдакурилъ.
+</p><p>Папа съ упрекомъ взглянулъ на&#160;мальчика. Разспрашивать: какъ, что&#160;и почему, и&#160;дѣлать выговоръ было некогда; онъ бросился въ кабинетъ, который почти весь оказался въ пламени.
+</p><p>— Пожаръ, пожаръ, помогите! — громко закричалъ тогда папа, испугавшись главнымъ образомъ за&#160;письменный столъ, гдѣ хранились всѣ деньги и&#160;нужныя бумаги.
+</p><p>Сейчасъ&#160;же сбѣжалась прислуга, явились пожарные, письменный столъ успѣли&#160;вынести; но&#160;комната и&#160;остальная мебель вся обгорѣла.
+</p><p>Папа и&#160;мама были очень испуганы и&#160;чрезвычайно недовольны Ваней, котораго наказали самымъ строгимъ образомъ.
+</p><p>— Хорошо, что&#160;я случайно вернулся домой, — сказалъ папа, — и&#160;во время успѣлъ позвать на&#160;помощь! А&#160;еслибы этого не&#160;было, то&#160;не только всѣ наши деньги, документы, но&#160;и сами вы могли&#160;бы&#160;погибнуть безвозвратно.
+</p><p>Ваня опустилъ глаза и&#160;молча слушалъ рѣчь папы:, онъ не&#160;возражалъ ни&#160;слова, во&#160;первыхъ, потому, что&#160;не смѣлъ, а&#160;во вторыхъ, вполнѣ признавалъ себя виноватымъ.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="КТО_ПРОСПИТЪ,_ТОТЪ_ОСТАНЕТСЯ_ДОМА."><span id=".D0.9A.D0.A2.D0.9E_.D0.9F.D0.A0.D0.9E.D0.A1.D0.9F.D0.98.D0.A2.D0.AA.2C_.D0.A2.D0.9E.D0.A2.D0.AA_.D0.9E.D0.A1.D0.A2.D0.90.D0.9D.D0.95.D0.A2.D0.A1.D0.AF_.D0.94.D0.9E.D0.9C.D0.90."></span>КТО ПРОСПИТЪ, ТОТЪ ОСТАНЕТСЯ ДОМА.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=7" title="Редактировать раздел «КТО ПРОСПИТЪ, ТОТЪ ОСТАНЕТСЯ ДОМА.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Коля, ты опять кажется дремлешь? -сказала старушка няня Настасья маленькому пятилѣтнему мальчику, который, сидя на&#160;высокомъ стулѣ около стола, склонилъ свою курчавую головку на&#160;руку и&#160;готовился заснуть.
+</p><p>— А&#160;что? — отозвался мальчикъ лѣниво, протирая заспанные глаза.
+</p><p>— Дремлешь опять! — сердито повторила няня.
+</p><p>Коля вмѣсто отвѣта громко зѣвнулъ.
+</p><p>— Который часъ? — спросилъ онъ, потягиваясь.
+</p><p>— Скоро восемь; сейчасъ подадутъ чай.
+</p><p>— А&#160;затѣмъ и&#160;въ кроватку, няня?
+</p><p>— Затѣмъ и&#160;въ кроватку, дружокъ; этакой ты, право, соня у&#160;насъ уродился, ни&#160;на что&#160;не похоже, — какъ только на&#160;дворѣ начнетъ смеркаться — дремлешь, а&#160;утромъ едва тебя дотолкаешься.
+</p><p>Коля улыбнулся, онъ зналъ, что&#160;няня говоритъ правду, и&#160;на всѣ замѣчанія&#160;какъ ея, такъ равно отца и&#160;матери, всегда отвѣчалъ, что&#160;никакъ, никакъ не&#160;можетъ встать рано и&#160;очень удивляется своимъ братьямъ, которые вскакиваютъ съ постелей ровно въ семь часовъ утра и&#160;еще въ-добавокъ сію минуту идутъ купаться.
+</p><p>— А&#160;между тѣмъ, дружокъ, — сказала ему однажды мама, — надо понемногу привыкать, иначе мы&#160;всѣ прозовемъ тебя «соней» — будетъ стыдно!
+</p><p>— Не могу, мамочка, никакъ не&#160;могу! — отозвался Коля,
+</p><p>— Соня ты, больше ничего — стыдно!..
+</p><p>Съ итого дня Колю всѣ въ домѣ называли не&#160;иначе какъ «соня». Сначала онъ смѣялся надъ своимъ прозвищемъ, потомъ началъ сердиться, и&#160;въ концѣ-концовъ даже плакалъ; но&#160;прозвище все-таки по&#160;прежнему оставалось за&#160;нимъ.
+</p><p>Прошло около мѣсяца. Коля каждый день плакалъ, сердился, а&#160;между тѣмъ не&#160;имѣлъ настолько характера, чтобы заставить себя не&#160;быть «сонею», до&#160;тѣхъ поръ, пока однажды случилось слѣдующее.
+</p><p>Двадцатаго Іюля былъ день ангела дяди Ильи, родного брата матери) родители Коли проводили всегда день этотъ у&#160;него; тамъ собиралось много гостей, устраивалось катанье на&#160;лодкахъ, фейерверки, и&#160;вообще было очень весело.
+</p><p>По&#160;примѣру прошлыхъ лѣтъ, семья Коли и&#160;нынѣшній годъ собиралась отправиться въ «Ильинское», такъ звали имѣніе дяди.
+</p><p>— Мы&#160;конечно поѣдемъ наканунѣ? — сказала мама за&#160;обѣдомъ, обращаясь къ папѣ.
+</p><p>— Нѣтъ, другъ мой, наканунѣ ѣхать невозможно, у&#160;меня есть спѣшная письменная работа, которую я&#160;обязательно долженъ кончить. Мы&#160;отправимся въ тотъ&#160;же день, только съ первымъ поѣздомъ.
+</p><p>— Который выходитъ отсюда въ восемь часовъ утра?
+</p><p>— Да.
+</p><p>Коля, все время молча слушавшій разговоръ родителей, думалъ самъ про&#160;себя, что&#160;ему очень трудно будетъ встать такъ рано, и&#160;надѣялся въ душѣ, что&#160;можетъ быть папа шутитъ и&#160;вечеромъ, передъ тѣмъ какъ дѣти пойдутъ спать, объявитъ имъ настоящій часъ отъѣзда, Но&#160;вотъ наступилъ вечеръ, дѣти по&#160;обыкновенію пришли проститься съ отцомъ и&#160;матерью.
+</p><p>— Смотрите&#160;же, завтра ровно въ семь часовъ извольте подняться съ постелей, кто проспитъ, тотъ останется дома! — сказалъ папа.
+</p><p>Витя и&#160;Саша, два старшіе мальчика, привыкшіе обыкновенно вставать рано, нисколько не&#160;смутились подобнымъ приказаніемъ, но&#160;Коля крѣпко задумался, хотя все-таки просилъ няню разбудить его наравнѣ съ остальными.
+</p><p>— Хорошо, — отозвалась старушка, и&#160;ровно въ семь часовъ утра на&#160;слѣдующій день подошла къ кроваткѣ маленькаго «сони».
+</p><p>Коля открылъ глаза и, сердито взглянувъ на&#160;няню, хотѣлъ было снова повернуться къ стѣнѣ и&#160;заснуть, но, вспомнивъ слова папы: «кто проспитъ, тотъ останется дома», поспѣшно началъ одѣваться и, къ общему удивленію, вышелъ къ утреннему чаю въ столовую одновременно съ Витей и&#160;Сашей.
+</p><p>— Вотъ чудеса! — сказалъ папа засмѣявшись, — кого я&#160;вижу! ты уже всталъ?
+</p><p>— Всталъ, папочка, и&#160;знаешь, мнѣ такъ понравилось раннее вставанье, что&#160;я намѣренъ вставать такъ&#160;же постоянно.
+</p><p>И&#160;дѣйствительно, съ этого дня Коля началъ вставать вмѣстѣ съ братьями, вслѣдствіе чего его всѣ перестали называть «соней».
+</p>
+<div class="mw-heading mw-heading3"><h3 id="МАШИНЫ_УТОЧКИ."><span id=".D0.9C.D0.90.D0.A8.D0.98.D0.9D.D0.AB_.D0.A3.D0.A2.D0.9E.D0.A7.D0.9A.D0.98."></span>МАШИНЫ УТОЧКИ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=8" title="Редактировать раздел «МАШИНЫ УТОЧКИ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Маша только что&#160;переѣхала на&#160;дачу съ папой, мамой и&#160;маленькимъ братишкой Никой.
+</p><p>Новая жизнь въ бѣленькомъ деревянномъ домикѣ, окруженномъ зеленью, очень нравилась дѣтямъ, они&#160;почти цѣлый день оставались на&#160;воздухѣ.
+</p><p>Ника чрезвычайно любилъ ловить рыбу; папа устроилъ ему удочку и&#160;мальчуганъ иногда по&#160;цѣлымъ днямъ стоялъ съ нею на&#160;берегу рѣки, въ надеждѣ, рано или&#160;поздно поймать во&#160;что&#160;бы&#160;то ни&#160;стало какую-нибудь необыкновенную, большую рыбу, въ родѣ той, про&#160;которую няня разсказывала въ сказкѣ; но&#160;рыба не&#160;только необыкновенно большая, а&#160;даже самая маленькая, словно на&#160;зло, попадалась рѣдко.
+</p><p>— Нику это сначала ужасно сердило, но&#160;затѣмъ онъ сталъ относиться къ своей неудачѣ болѣе хладнокровно и, странно, именно съ той поры и&#160;рыбки начали клевать чаще и&#160;чаще. Маша иногда тоже сопровождала брата на&#160;рыбную ловлю, а&#160;иногда оставалась дома; но&#160;затѣмъ когда бывшая кормилица ея, Анна, подарила ей однажды прехорошенькую бѣлую уточку съ пятью крошечными утятками, она уже на&#160;цѣлый день уходила на&#160;берегъ и&#160;заботливо слѣдила глазами за&#160;тѣмъ, какъ они&#160;плавали и&#160;барахтались въ водѣ.
+</p><p>Тонка, любимая собачка Маши, почти всегда сопровождала свою маленькую госпожу, но&#160;бѣда&#160;заключалась въ томъ, что&#160;она не&#160;могла лежать спокойно и&#160;все рвалась впередъ, съ очевиднымъ намѣреніемъ схватить желтенькаго утенка.
+</p><p>— Ника, брось удочку, помоги мнѣ подержать Топку, — сказала однажды Маша, — противная собаченка непремѣнно хочетъ куснуть моихъ уточекъ.
+</p><p>— Вотъ еще, я&#160;для твоихъ уточекъ брошу ловить рыбу! Пускай кусаетъ, мнѣ какое дѣло!
+</p><p>— Не стыдно&#160;ли&#160;быть такимъ злымъ, Ника?
+</p><p>Ника ничего не&#160;отвѣчалъ — онъ слишкомъ былъ занятъ своимъ дѣломъ, чувствуя, что&#160;удочка его вдругъ какъ-то&#160;дрогнула.
+</p><p>— Ника, Ника, — снова взмолилась Маша, — помоги, я&#160;ужасно устала!
+</p><p>— Ахъ, замолчи пожалуйста! Не приставай съ пустяками! Я&#160;увѣренъ, что&#160;сегодня непремѣнно поймаю большую пребольшую рыбу, ты&#160;же мнѣ только мѣшаешь; посмотри какъ поплавокъ дрожитъ и&#160;качается!
+</p><p>Маша обернулась, чтобы взглянуть на&#160;удочку; Тонка воспользовался этимъ моментомъ, спрыгнулъ съ ея колѣнъ и&#160;бросился за&#160;утятами, которыя, не&#160;долго думая, повернули свои крошечныя головки въ противуположную сторону и&#160;поплыли все прямо и&#160;прямо по&#160;теченію; мамаша ихъ, большая бѣлая утка, сдѣлала тоже.
+</p><p>— Ай, ай, ай! мои уточки! Онѣ утонутъ! — вскричала Маша, заливаясь горючими слезами, но&#160;Никѣ было не&#160;до уточекъ, — онъ высоко поднялъ кверху удочку и&#160;увидѣлъ на&#160;крючкѣ окуня, величиною въ цѣлый вершокъ.
+</p><p>— А&#160;я&#160;такъ вотъ рыбу поймалъ, — сказалъ онъ весело, — посмотри какую большую!
+</p><p>Маша продолжала плакать и, вмѣсто того, чтобы посмотрѣть на&#160;окуня, со всѣхъ ногъ бросилась домой сообщить мамѣ о&#160;случившейся бѣдѣ.
+</p><p>— Будь покойна, — сказала мама, — утки никогда не&#160;потонутъ.
+</p><p>— Но, мамочка, еслибы ты видѣла, какъ онѣ испугались и&#160;какъ противная Тонка на&#160;нихъ бросилась!
+</p><p>— Ничего, не&#160;тревожься — воротятся.
+</p><p>Маша всегда и&#160;во всемъ вѣрила мамѣ, но&#160;на этотъ разъ къ ней закралось сомнѣніе, она подумала, что&#160;мама говоритъ такъ, чтобы ее успокоить, и&#160;молча потупила глазки.
+</p><p>— Не вѣришь? — сказала тогда мама, словно угадавъ мысль дѣвочки.
+</p><p>Маша вмѣсто отвѣта заплакала еще больше.
+</p><p>— Пойдемъ со мною на&#160;берегъ.
+</p><p>— Только безъ Тонки… — сквозь слезы отвѣчала дѣвочка.
+</p><p>— Хорошо, Тонку мы&#160;запремъ въ спальнѣ.
+</p><p>И&#160;приказавъ горничной поймать собачку, мама взяла Машу за&#160;руку и&#160;повела на&#160;берегъ къ тому самому мѣсту, гдѣ она сидѣла постоянно.
+</p><p>— Ты увидишь, что&#160;когда мы&#160;подойдемъ къ большому дереву, бѣлая уточка со своей семьей уже будетъ ожидать насъ.
+</p><p>Но&#160;предсказаніе мамы однако не&#160;сбылось, утки и&#160;утятъ тамъ не&#160;оказалось. Мама пришла въ отчаяніе.
+</p><p>Ника, первый порывъ радости котораго по&#160;случаю пойманнаго окуня прошелъ, тоже сочувствовалъ горю сестры, потому что&#160;любилъ бѣлую уточку не&#160;меньше Маши, и&#160;мысль, что&#160;больше никогда не&#160;придется видѣть ее, казалась ему настолько ужасною, что&#160;онъ готовъ былъ самъ броситься за&#160;ними въ погоню.
+</p><p>Но&#160;вотъ вдругъ далеко, далеко на&#160;поверхности воды мелькнуло какое-то&#160;маленькое движущееся пятнышко. Дѣти стали внимательно всматриваться и… о&#160;радость! — это оказалась бѣлая уточка съ пятью желтенькими утятами, которыя, преспокойно подплывъ къ берегу, вышли одинъ за&#160;другимъ на&#160;траву и&#160;начали отряхивать мокрыя перышки. Маша совершенно успокоилась и&#160;перестала сердиться на&#160;Тонку.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="БИЖУ."><span id=".D0.91.D0.98.D0.96.D0.A3."></span>БИЖУ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=9" title="Редактировать раздел «БИЖУ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>На&#160;дворѣ стоялъ одинъ изъ тѣхъ пасмурныхъ невеселыхъ дней, какіе обыкновенно бываютъ осенью; дождь шелъ съ самаго утра и&#160;небо все сплошь было покрыто густыми тучами.
+</p><p>Ниночка и&#160;Федя сидѣли&#160;у окна и&#160;молча смотрѣли&#160;на проходившихъ и&#160;проѣзжавшихъ мимо. Имъ было очень досадно, что&#160;нельзя было выйти погулять, но&#160;дѣлать нечего, пришлось покориться.
+</p><p>— Ниночка, посмотри какую хорошенькую собачку песетъ на&#160;рукахъ мальчикъ, но&#160;какъ зло онъ на&#160;нее смотритъ, грозитъ пальцемъ, точно бить собирается!
+</p><p>Ниночка нагнулась ближе къ окну, и&#160;дѣйствительно увидала что&#160;какой-то&#160;уличный мальчикъ, держа на&#160;рукахъ крошечнаго щеночка, сердито угрожалъ ему не&#160;только пальцемъ, но&#160;цѣлымъ кулакомъ.
+</p><p>Щенокъ ежился, жмурилъ глазки и, какъ дѣтямъ показалось изъ окна, даже взвизгивалъ. Федѣ стало такъ жаль его, что&#160;онъ не&#160;могъ утерпѣть, чтобы не&#160;открыть окно и&#160;не разспросить мальчугана о&#160;несчастномъ созданіи.
+</p><p>— Это твоя собачка? — окрикнулъ онъ оборвыша.
+</p><p>— Моя! — коротко отвѣчалъ послѣдній.
+</p><p>— Куда ты несешь ее?
+</p><p>— Бросить въ воду!
+</p><p>— Какъ, — переспросили дѣти, — утопить?
+</p><p>Мальчуганъ утвердительно кивнулъ головой.
+</p><p>— Но&#160;зачѣмъ? Что&#160;она тебѣ сдѣлала?
+</p><p>— Украла кусокъ мяса со стола.
+</p><p>— Можетъ быть она была голодна, ты вѣрно забылъ накормить ее?
+</p><p>— Даже и&#160;не думалъ объ этомъ, стану я&#160;заботиться!
+</p><p>— Но&#160;какъ&#160;же иначе, она вѣдь тоже хочетъ кушать?
+</p><p>— Пускай бѣгаетъ по&#160;дворамъ, сама отыскиваетъ себѣ кормъ если хочетъ кушать.
+</p><p>— Тогда вотъ что&#160;я тебѣ скажу: продай мнѣ собачку; у&#160;меня есть рубль, который папа подарилъ мнѣ за&#160;хорошее поведеніе, согласенъ?
+</p><p>— Еще&#160;бы, конечно!
+</p><p>Федя соскочилъ со стула, досталъ изъ комода деньги и&#160;черезъ окно подалъ мальчику, который взамѣнъ передалъ ему щенка.
+</p><p>— Какой хорошенькій! — сказала Ниночка. — Вотъ мама будетъ довольна, — она давно желала имѣть собачку, въ особенности на&#160;то время, пока мы&#160;будемъ жить въ деревнѣ.
+</p><p>Щенокъ, между тѣмъ, словно понимая, что&#160;рѣчь идетъ о&#160;немъ, началъ весело взвизгивать, прыгать и&#160;ласкаться. Дѣти назвали его Бижу, и&#160;съ каждымъ днемъ привязывались къ нему все больше и&#160;больше. Да&#160;по&#160;правдѣ сказать, трудно было не&#160;любить этого маленькаго щеночка, — такой онъ вышелъ ласковый, смышленый, просто прелесть! Чуть бывало кто посторонній войдетъ въ комнату, сейчасъ залаетъ. Въ особенности приносилъ онъ много пользы въ деревнѣ, куда Федя и&#160;Ниночка перебрались съ родителями раннею весною.
+</p><p>Домъ ихъ былъ довольно большой и&#160;стоялъ совершенно отдѣльно отъ кухни и&#160;прочихъ построекъ, такъ что&#160;когда прислуга уходила обѣдать или&#160;ужинать, то&#160;они принуждены были запираться на&#160;ключъ.
+</p><p>Однажды вечеромъ мама, занятая какою-то&#160;работой, забыла закрыть двери, дѣти сидѣли&#160;около нея, отецъ у&#160;себя въ кабинетѣ.
+</p><p>Бижу лежалъ въ столовой на&#160;диванѣ совершенно спокойно, но&#160;вдругъ, ни&#160;съ того, ни&#160;съ сего, навострилъ уши и, какъ-то&#160;странно поджавъ подъ себя хвостъ, побѣжалъ въ сосѣднюю комнату, спальню папы, и&#160;началъ громко лаять. Сначала никто не&#160;обратилъ на&#160;это вниманія, полагая, что&#160;вѣроятно онъ слышитъ шумъ гдѣ-нибудь вдали, но&#160;затѣмъ Федя изъ любопытства пошелъ въ спальню.
+</p><p>Когда онъ вошелъ туда, то&#160;увидалъ, что&#160;Бижу стоитъ около кровати и&#160;заливается громкимъ лаемъ. Федя приподнялъ одѣяло, и&#160;что&#160;же?.. — подъ кроватью оказался какой-то&#160;незнакомый мужчина съ длинной рыжей бородою и&#160;всклокоченными волосами.
+</p><p>— Ай! — вскричалъ Федя и, поблѣднѣвъ какъ полотно, бросился въ кабинетъ къ отцу, чтобы сообщить обо всемъ случившемся, но&#160;послѣдній, удивленный лаемъ Бижу, не&#160;дожидаясь предупрежденія направился въ спальню, гдѣ и&#160;столкнулся въ дверяхъ съ бѣжавшимъ оттуда воромъ.
+</p><p>— Стой! — громко крикнулъ папа, схвативъ его за&#160;воротъ. Воръ хотѣлъ вырваться, но&#160;папа оказался сильнѣе. Федя успѣлъ сбѣгать на&#160;кухню за&#160;прислугой, которая поспѣшно явилась на&#160;помощь; воръ былъ связанъ по&#160;рукамъ и&#160;по ногамъ и&#160;отправленъ къ сельскому старостѣ. Староста, съ своей стороны, препроводилъ его въ тюрьму сосѣдняго уѣзднаго города, а&#160;Бижу съ этого достопамятнаго дня всѣ въ домѣ еще больше полюбили.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="РАЗБИТАЯ_КУКЛА."><span id=".D0.A0.D0.90.D0.97.D0.91.D0.98.D0.A2.D0.90.D0.AF_.D0.9A.D0.A3.D0.9A.D0.9B.D0.90."></span>РАЗБИТАЯ КУКЛА.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=10" title="Редактировать раздел «РАЗБИТАЯ КУКЛА.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Настя съ мамой поѣхали въ гости къ тети Сони. Для&#160;Насти это былъ большой праздникъ, потому что&#160;тетя всегда такъ ласково, такъ радушно встрѣчала маленькую племянницу, угощала конфектами и, главное, разсказывала много интересныхъ сказочекъ. Но&#160;на&#160;этотъ разъ тетя еще, кромѣ того, обѣщала открыть большой стеклянный шкафъ и&#160;позволить разглядывать цѣлую коллекцію фарфоровыхъ куколъ, которыя стояли тамъ на&#160;верхней полкѣ.
+</p><p>Любила также Настя всей душой молоденькую горничную тети, Грушу, жившую у&#160;тети уже пять лѣтъ и&#160;пользовавшуюся большимъ довѣріемъ всего дома.
+</p><p>Когда Настя съ мамой вошли въ переднюю, Груша, по&#160;обыкновенію, отворила двери; Настя бросилась къ ней на&#160;шею.
+</p><p>— Здравствуй, Груша! — сказала ей дѣвочка, — ты знаешь, тетя обѣщала сегодня показать мнѣ всѣ куклы, которыя стоятъ на&#160;верхней полкѣ стекляннаго шкафа.
+</p><p>— Неужели? — съ улыбкою спросила Груша, и&#160;принялась снимать съ Настеньки верхнее платье.
+</p><p>Затѣмъ Настя, поздоровавшись съ тетей, сѣла за&#160;вкусный кофе, къ которому подали множество разнообразнаго домашняго печенья, и&#160;вставъ изъ-за&#160;стола, получила давно желанный ключъ отъ стекляннаго шкаоа.
+</p><p>— Груша, пойдемъ вмѣстѣ! — предложила Настя горничной.
+</p><p>— Сейчасъ не&#160;могу, милая барышня, надо прибрать посуду, приду послѣ!
+</p><p>Настя отправилась одна, открыла шкафъ и&#160;начала съ любопытствомъ переглядывать и&#160;переставлять съ мѣста на&#160;мѣсто каждую куклу; но&#160;вотъ одна изъ куколъ вдругъ нечаянно выскользнула у&#160;нея изъ рукъ, упала на&#160;полку и&#160;разбилась.
+</p><p>Настя струсила не&#160;на шутку: она знала, что&#160;тетя очень дорожитъ этими куклами, и&#160;не рѣшилась сознаться въ своей винѣ, а&#160;потому, послѣ продолжительнаго размышленія, положила лучше промолчать, полагая, что&#160;тетя вѣроятно никогда объ этомъ даже не&#160;узнаетъ, а&#160;чтобы не&#160;было замѣтно — приставила разбитую куклу къ углу.
+</p><p>— Ну что, пересмотрѣла? — спросила ее случайно проходившая мимо Груша.
+</p><p>— Да, Груша, пересмотрѣла! — отвѣчала Настя.
+</p><p>— Пожалуйте обѣдать.
+</p><p>Настя отправилась въ столовую.
+</p><p>— Понравились тебѣ куклы? — спросила тетя.
+</p><p>— Очень.
+</p><p>— Всѣ пересмотрѣла?
+</p><p>— Всѣ.
+</p><p>— А&#160;гдѣ же ключъ отъ шкафа?
+</p><p>— Ахъ, тетечка, я&#160;забыла его въ замкѣ, сейчасъ принесу! — отвѣчала Настя, сильно переконфузившись.
+</p><p>— Не надо, дружокъ, не&#160;надо, мы&#160;пошлемъ Грушу. — Груша, — обратилась она къ горничной — запри, стеклянный шкафъ и&#160;принеси сюда ключъ.
+</p><p>Груша немедленно исполнила приказаніе и&#160;всѣ сѣли&#160;обѣдать. Остальная часть дня прошла для&#160;Насти очень непріятно, ее тревожила мысль о&#160;разбитой куклѣ и&#160;на каждомъ шагу отравляла удовольствіе, но&#160;сознаться она все-таки не&#160;рѣшилась, и&#160;даже, вернувшись домой, ничего не&#160;сказала матери.
+</p><p>По&#160;прошествіи&#160;недѣли, въ Воскресенье, Настя снова поѣхала съ мамой къ тети Сони, и&#160;каково&#160;же было ея удивленіе, когда двери имъ отворила не&#160;Груша, а&#160;совершенно незнакомая горничная.
+</p><p>— Гдѣ же Груша? — спросила Настя тетю Соню.
+</p><p>— Ахъ, другъ мой, не&#160;спрашивай, Груша такъ разсердила меня, что&#160;я принуждена была отказать ей!
+</p><p>— Неужели! Но&#160;что&#160;же она сдѣлала?
+</p><p>— Представь себѣ, вѣроятно запирая стеклянный шкафъ на&#160;прошлой недѣли, разбила одну изъ моихъ фарфоровыхъ куколъ. Но&#160;это&#160;бы&#160;еще ничего, бѣда&#160;со всѣми можетъ случиться, не&#160;нарочно вѣдь, я&#160;понимаю, а&#160;гадость-то&#160;главное въ томъ, что&#160;сознаться не&#160;хотѣла: не&#160;я, говоритъ, да&#160;и только. Ну, признаюсь, это меня до&#160;того возмутило, что&#160;я сейчасъ&#160;же прогнала ее.
+</p><p>Слушая слова тети Сони, Настя сначала поблѣднѣла какъ полотно, а&#160;затѣмъ покраснѣла до&#160;ушей и, заливаясь горючими слезами, чистосердечно во&#160;всемъ созналась.
+</p><p>Тогда тетя Соня немедленно послала за&#160;Грушей, которая, въ ожиданіи&#160;какого-либо мѣста, пріютилась въ томъ&#160;же домѣ у&#160;жены старшаго дворника, и&#160;объяснивъ ей все случившееся, снова взяла къ себѣ въ услуженіе.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ЛИДОЧКА."><span id=".D0.9B.D0.98.D0.94.D0.9E.D0.A7.D0.9A.D0.90."></span>ЛИДОЧКА.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=11" title="Редактировать раздел «ЛИДОЧКА.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Ваня, Гриша и&#160;Володя вздумали однажды отправиться кататься на&#160;лодкѣ по&#160;озеру, и&#160;маленькая сестричка ихъ, Лидочка, хотѣла непремѣнно, во&#160;что&#160;бы&#160;то ни&#160;стало, тоже ѣхать съ ними.
+</p><p>Ваня, какъ старшій, взялъ на&#160;себя трудъ отговаривать ее, но&#160;трудъ оказался очень нелегкимъ потому, что&#160;Лидочка была несговорчива и&#160;видимо рѣшила поставить на&#160;своемъ.
+</p><p>— Погодите, господа, — сказала тогда Маша, дочь садовника, которая иногда приходила играть съ ними и&#160;которую Лидочка чрезвычайно любила, — попрубую я&#160;удержать вашу маленькую барышню! — и&#160;взявъ Лидочку на&#160;колѣни, Маша начала ее уговаривать.
+</p><p>Сначала Лидочка ничего не&#160;хотѣла слушать: плакала, кричала, сердилась, въ особенности когда увидала, что&#160;братья садятся въ лодку и&#160;начинаютъ отчаливать; но&#160;затѣмъ мало-по-малу не&#160;только успокоились, а&#160;почти даже осталась довольна, потому что&#160;Маша увела ее далеко, далеко отъ пристани въ новое мѣсто, гдѣ Лидочка никогда еще не&#160;бывала, слѣдовательно все для&#160;нея казалось тамъ ново, — и&#160;кустики, и&#160;цвѣточки. Лидочка любовалась ими, Маша объясняла ей названіе тѣхъ, которые знала сама. Мимишка, маленькая пестренькая собачка, пошла вмѣстѣ съ ними и&#160;всю дорогу очень забавляла ихъ тѣмъ, что&#160;гонялась за&#160;птичками, перепрыгивая черезъ рвы и&#160;кочки, и&#160;лаяла на&#160;всѣ стороны.
+</p><p>— Ну, барышня, теперь присядемъ отдохнуть! — сказала Маша, — я&#160;устала немного, а&#160;главное, ужасно жарко!
+</p><p>Съ этими словами она опустилась на&#160;траву; Лидочка обхватила ее рученками за&#160;шею, припала головой къ ея плечу и&#160;ужъ готовилась-было вздремнуть немного, какъ вдругъ услыхала позади себя какой-то&#160;непонятный шорохъ, а&#160;когда обернулась, увидѣла двухъ хорошенькихъ барашковъ.
+</p><p>Это неожиданное появленіе такъ заинтересовало Лидочку, что&#160;сонъ мгновенно прошелъ, она спрыгнула съ колѣнъ Маши и, подбѣжавъ къ барашкамъ, принялась ихъ гладить. Барашки оказались очень ручными, въ особенности одинъ, который былъ повыше; онъ нисколько не&#160;испугался Лидочки, а&#160;напротивъ, началъ лизать ей руки, что&#160;такъ понравилось дѣвочкѣ, что&#160;она даже не&#160;хотѣла идти домой.
+</p><p>Но&#160;вотъ вдругъ вдали послышался раскатъ грома, затѣмъ начался довольно сильный вѣтеръ и&#160;дождь; по&#160;счастію, Маша захватила съ собою большой платокъ и&#160;зонтикъ; прикрывъ имъ маленькую барышню и&#160;поспѣшно взявъ ее на&#160;руки, она направилась къ дому; Мимишка побѣжала сзади.
+</p><p>Благодаря скорой ходьбѣ, наши путешественницы пришли въ комнаты почти сухими, но&#160;зато бѣдные мальчики, Ваня, Гриша и&#160;Володя, возвратились мокрые насквозь.
+</p><p>— На&#160;кого вы похожи! — сказала имъ мама, — идите скорѣе въ дѣтскую перемѣнить платье и&#160;бѣлье.
+</p><p>— Да, мамочка, — отозвался Гриша, — на&#160;насъ, какъ говорится, нѣтъ сухой нитки. Да&#160;это&#160;бы&#160;ничего, а&#160;главное, мы&#160;чуть не&#160;утонули.
+</p><p>— Господи помилуй! Но&#160;что&#160;же съ вами приключилось?
+</p><p>Когда поднялся вѣтеръ, то&#160;мы не&#160;могли справиться съ лодкою; ее все относило прочь отъ берега, и&#160;еслибы не&#160;отецъ Маши, который на&#160;другой лодкѣ тоже выѣхалъ на&#160;озеро чтобы ловить рыбу, то&#160;пришлось&#160;бы&#160;очень плохо.
+</p><p>Лидочка, слушая разсказъ брата, широко раскрыла свои черненькіе глазки: въ нихъ выражался сильный испугъ. Гриша замѣтилъ это.
+</p><p>— Вотъ, видишь&#160;ли, — сказалъ онъ ей, подойдя совсѣмъ близко, — а&#160;ты еще хотѣла ѣхать вмѣстѣ съ нами.
+</p><p>— Надо всегда быть послушной и&#160;не противорѣчить старшимъ! — торжественно добавилъ маленькій Володя.
+</p><p>Всѣ присутствующіе громко расхохотались, потому что&#160;мальчуганъ самъ былъ еще такой крошечный, что&#160;голова его едва доставала до&#160;стола, а&#160;между тѣмъ ужасно любилъ резонировать и&#160;играть роль большаго.
+</p><p>— Замѣчаніе твое вѣрно, — сказалъ ему отецъ, — но&#160;только не&#160;идетъ къ твоей дѣтской фигуркѣ и&#160;дѣлаетъ ее очень забавной.
+</p><p>Володя отвернулся, надулъ губы и&#160;молча вошелъ въ дѣтскую переодѣваться.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Andreewskaja_w_p_text_1890_detsky_mirok_oldorfo_a04.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/c/c8/Andreewskaja_w_p_text_1890_detsky_mirok_oldorfo_a04.jpg" decoding="async" width="630" height="838" class="mw-file-element" data-file-width="630" data-file-height="838" /></a><figcaption></figcaption></figure>
+<div class="mw-heading mw-heading3"><h3 id="ЧЕРНЫЕ_ГЛАЗКИ."><span id=".D0.A7.D0.95.D0.A0.D0.9D.D0.AB.D0.95_.D0.93.D0.9B.D0.90.D0.97.D0.9A.D0.98."></span>ЧЕРНЫЕ ГЛАЗКИ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=12" title="Редактировать раздел «ЧЕРНЫЕ ГЛАЗКИ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Наденька сидѣла на&#160;балконѣ около мамы и&#160;приготовляла уроки къ слѣдующему дню. Погода стояла превосходная, Наденькѣ очень хотѣлось пойти гулять и&#160;побѣгать въ саду, но&#160;мама сказала, что&#160;это невозможно до&#160;тѣхъ поръ, пока она не&#160;перепишетъ цѣлую страницу, а&#160;у ней, словно на&#160;бѣду, дѣло не&#160;спорилось.
+</p><p>«Хотя&#160;бы&#160;кто нибудь пріѣхалъ!» мысленно сказала сама себѣ дѣвочка, опуская перо въ чернильницу.
+</p><p>И&#160;что&#160;же!.. не&#160;успѣла она подумать это, какъ вдругъ къ подъѣзду дѣйствительно подкатила щегольская коляска, въ которой сидѣла очень нарядная дама.
+</p><p>— Ахъ, это вы, Людмила Николаевна! — радостно вскричала мама и&#160;бросилась навстрѣчу къ неожиданной гостьѣ, которая оказалась ея старинная знакомая, бывшая институтская подруга.
+</p><p>— Я, я, моя дорогая!
+</p><p>— Какъ я&#160;рада, какъ счастлива! Мы&#160;давно, давно не&#160;видѣлись!
+</p><p>— Да, много воды утекло съ тѣхъ поръ! Вы уже успѣли&#160;выйти замужъ и&#160;выростить дочь, большую барышню! — шутя добавила гостья, нагнувшись къ Надюшѣ, чтобы поцѣловать ее.
+</p><p>— Какъ видите! — отвѣчала мама и&#160;сдѣлала Надѣ знакъ рукою встать и&#160;поклониться.
+</p><p>— Славная, прелестная дочурка! — продолжала Людмила Николаевна, любуясь дѣвочкой. — Какъ тебя зовутъ, моя крошка?
+</p><p>— Надей.
+</p><p>— Хорошая, милая дѣвочка, только одна бѣда — глазки у&#160;тебя совсѣмъ черные, ты вѣрно никогда ихъ не&#160;моешь?
+</p><p>Надя не&#160;поняла шутки и&#160;внимательно взглянула на&#160;гостью.
+</p><p>— Мою, аккуратно каждое утро, — отвѣчала она.
+</p><p>— Должно быть худо:, надо попробовать съ мыломъ.
+</p><p>Наденька задумалась, мама тѣмъ временемъ взяла Людмилу Николаевну подъ руку и&#160;повела на&#160;балконъ, гдѣ у&#160;нихъ завязался очень оживленный разговоръ.
+</p><p>— Надюша, ты можешь оставить переписку до&#160;завтра, — сказала мама: — мнѣ хочется поговорить съ дорогой гостьей. Ступай въ садъ или&#160;въ дѣтскую и&#160;дѣлай что&#160;хочешь.
+</p><p>Настя не&#160;заставила дважды повторить себѣ приказаніе, поспѣшно сложила тетрадки и&#160;уже собиралась уходить, какъ Людмила Николаевна снова притянула ее къ себѣ, нѣжно поцѣловала и, заглянувъ въ хорошенькіе, черные глазки, опять проговорила шутя:
+</p><p>— Грязные, совсѣмъ грязные, надо вымыть!
+</p><p>Дѣвочка молча удалилась въ дѣтскую; принявъ слова гостьи за&#160;серьезное, она направилась къ умывальнику, взяла мыло, губку, намылила ее до&#160;пѣны, и&#160;со всей силой начала тереть глаза. Такъ какъ вѣки были опущены, то&#160;Надя не&#160;чувствовала боли, но&#160;затѣмъ, когда открыла ихъ и&#160;мыльная вода потекла прямо въ глаза, она съ громкимъ крикомъ побѣжала снова на&#160;балконъ.
+</p><p>— Что&#160;случилось? — испуганно спросили мама и&#160;гостья.
+</p><p>Надя, вмѣсто отвѣта, продолжала плакать и&#160;тереть мыльными руками глаза, отчего боль еще больше усиливалась.
+</p><p>— Да&#160;что&#160;же такое, что? — допытывались обѣ женщины, стараясь всѣми силами успокоить взволнованную дѣвочку, которая наконецъ сквозь слезы разсказала обо всемъ случившемся. Тогда мама и&#160;Людмила Николаевна громко разсмѣялись.
+</p><p>— Какая&#160;же ты глупенькая, Надюша! — замѣтила мама, — развѣ можно было принять шутку за&#160;серьезное? Вѣдь Людмила Николаевна смѣялась; у&#160;кого глаза черные отъ природы, то&#160;сколько ихъ ни&#160;мой, сколько ни&#160;три губкой, они&#160;все равно останутся черными.
+</p><p>Слушая замѣчаніе матери, Надя сконфузилась.
+</p><p>— Въ самомъ дѣлѣ, — сказала она, потупивъ глазки, — какъ я&#160;не могла сообразить этого!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ОЛЬГИНЪ_ДЕНЬ."><span id=".D0.9E.D0.9B.D0.AC.D0.93.D0.98.D0.9D.D0.AA_.D0.94.D0.95.D0.9D.D0.AC."></span>ОЛЬГИНЪ ДЕНЬ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=13" title="Редактировать раздел «ОЛЬГИНЪ ДЕНЬ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Оля, почему ты такая задумчивая? — сказала Марія&#160;Павловна своей маленькой дочери, гуляя съ нею но&#160;саду. Сегодня день твоего ангела, папа и&#160;я старались придумать для&#160;тебя подарокъ по&#160;вкусу; конфектъ тоже кажется получила довольно, — скажи&#160;же, дружокъ, чѣмъ ты недовольна?
+</p><p>— Мамочка, развѣ я&#160;могу быть чѣмъ нибудь недовольна? — отозвалась дѣвочка, крѣпко поцѣловавъ мать. — Нѣтъ, моя дорогая, не&#160;то, увѣряю тебя не&#160;то!
+</p><p>— Тогда что&#160;же, дитя мое?
+</p><p>— Сегодня утромъ, мамочка, когда я&#160;только что&#160;встала съ постели и&#160;вышла на&#160;балконъ чай пить, мимо проходила одна маленькая дѣвочка; мы&#160;разговорились. Узнавъ, что&#160;ее зовутъ Олей, и&#160;что она сегодня также именинница, я&#160;стала разспрашивать ее о&#160;томъ, что&#160;ей подарили; дѣвочка заплакала и&#160;сказала, что&#160;ей еще ни&#160;разувъ жизни никто ничего не&#160;дарилъ, такъ какъ у&#160;ней нѣтъ ни&#160;папы, ни&#160;мамы, и&#160;она очень бѣдная… Мнѣ, видишь&#160;ли, ужасно стало жаль ее и&#160;захотѣлось непремѣнно подѣлиться съ нею конфектами… Вотъ я&#160;объ этомъ, мамочка, все сижу и&#160;думаю.
+</p><p>— Что&#160;же, дружокъ, это очень похвально съ твоей стороны, только вѣдь надо узнать гдѣ она живетъ. Ты не&#160;догадалась спросить?
+</p><p>— Въ томъ-то&#160;и бѣда, мамочка!
+</p><p>— Какъ это досадно!
+</p><p>Дѣвочка, негодуя въ душѣ на&#160;себя, молча сѣла на&#160;одну изъ садовыхъ скамѣекъ, какъ вдругъ услыхала позади себя какой-то&#160;шорохъ, обернулась и… о, радость! — увидала проходившую около забора по&#160;дорогѣ маленькую дѣвочку, о&#160;которой только что&#160;говорила.
+</p><p>— Это ты! Какое счастіе! — вскричала она. — Я&#160;сію минуту о&#160;тебѣ думала, но&#160;что съ тобою? ты плачешь? — добавила Оля, замѣтивъ что&#160;по лицу бѣдной дѣвочки катились слезы.
+</p><p>— Ахъ, милая барышня, какъ мнѣ не&#160;плакать, когда тетушка выгнала меня изъ дому!
+</p><p>— За&#160;что? Какая тетушка?
+</p><p>— Старуха хозяйка, у&#160;которой я&#160;живу на&#160;квартирѣ. У&#160;нея изъ комода пропали деньги и&#160;она вообразила, что&#160;я взяла ихъ.
+</p><p>Съ этими словами бѣдняжка горько расплакалась.
+</p><p>— А&#160;далеко отсюда живетъ твоя тетушка? — вмѣшалась въ разговоръ мама Оленьки.
+</p><p>— Нѣтъ, сударыня, здѣсь&#160;же въ домѣ, въ подвальномъ этажѣ.
+</p><p>— Провели насъ туда, мы&#160;разузнаемъ все обстоятельно.
+</p><p>— Извольте, только ради Бога вступитесь, если тетушка опять вздумаетъ колотить меня! — взмолилась дѣвочка.
+</p><p>— Будь покойна, при&#160;насъ никто не&#160;посмѣетъ обидѣть.
+</p><p>Съ этими словами Марія&#160;Павловна, Оля и&#160;бѣдная дѣвочка отправились въ подвальный этажъ, гдѣ жила тетушка. Спустившись по&#160;грязной лѣстницѣ, они&#160;очутились въ крошечной, сырой, затхлой комнаткѣ; въ глубинѣ ея, около грязной кровати, копошилась старуха и&#160;что-то&#160;ворчала себѣ подъ носъ.
+</p><p>— Это твоя тетушка? — спросила Марія&#160;Павловна.
+</p><p>— Да! — отвѣчала дѣвочка.
+</p><p>Добрая женщина подошла къ старухѣ и&#160;просила разсказать, за&#160;что она прогнала маленькую сиротку.
+</p><p>— Она украла у&#160;меня двугривенный! — отвѣчала послѣдняя.
+</p><p>— Но&#160;можетъ быть вы сами куда-нибудь положили его?
+</p><p>Старуха отрицательно покачала головой и&#160;сердито взглянула на&#160;дѣвочку.
+</p><p>— Давайте искать всѣ вмѣстѣ!
+</p><p>Старуха нехотя повиновалась.
+</p><p>— Ужъ, погоди, приколочу я&#160;тебя вечеромъ, будешь помнить Ольгинъ день, свои именины! — шепнула она, проходя мимо дѣвочки.
+</p><p>— Нѣтъ, я&#160;вамъ не&#160;позволю этого сдѣлать! — возразила Марія&#160;Павловна, услыхавъ слова старухи; старуха сконфузилась.
+</p><p>— Открывайте комодъ, не&#160;завалился&#160;ли&#160;туда вашъ двугривенный.
+</p><p>Старуха повиновалась, и&#160;что&#160;же? — двугривенный дѣйствительно оказался тамъ.
+</p><p>— Вы напрасно оскорбили бѣдную дѣвочку, не&#160;стыдно&#160;ли, не&#160;грѣшно&#160;ли? и&#160;еще въ день ея ангела!
+</p><p>— Ничего, впередъ зачтется! — грубо отозвалась тетушка.
+</p><p>— Не придется зачитать впередъ! — возразила Марія&#160;Павловна, — потому что&#160;я беру дѣвочку къ себѣ и&#160;оставляю до&#160;тѣхъ поръ, пока мнѣ не&#160;удастся опредѣлить ее въ пріютъ.
+</p><p>Старуха широко раскрыла глаза и&#160;бросилась цѣловать руки неожиданной благодѣтельницѣ, но&#160;Марія&#160;Павловна, не&#160;желая даже говорить съ ней, увела сиротку съ собою.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Andreewskaja_w_p_text_1890_detsky_mirok_oldorfo_a05.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/1/15/Andreewskaja_w_p_text_1890_detsky_mirok_oldorfo_a05.jpg" decoding="async" width="633" height="840" class="mw-file-element" data-file-width="633" data-file-height="840" /></a><figcaption></figcaption></figure>
+<div class="mw-heading mw-heading3"><h3 id="БѢЛОЧКА."><span id=".D0.91.D1.A2.D0.9B.D0.9E.D0.A7.D0.9A.D0.90."></span>БѢЛОЧКА.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=14" title="Редактировать раздел «БѢЛОЧКА.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Въ дуплѣ одного дерева жила была маленькая бѣлочка, тамъ укрывалась она отъ непогоды, тамъ держала цѣлый запасъ орѣховъ, которыми лакомилась зимою и&#160;такъ любила свое скромное жилище, что&#160;никогда не&#160;промѣняла&#160;бы&#160;его на&#160;самую роскошную палатку.
+</p><p>Выйдетъ, бывало, поиграть на&#160;солнышко и&#160;примется быстро перебрасываться съ вѣтки на&#160;вѣтку.
+</p><p>Ножки у&#160;бѣлочки маленькія, проворныя, но&#160;такъ какъ переднія гораздо короче заднихъ, то&#160;бѣгать ей неудобно, а&#160;потому она почти всегда прыгаетъ, хвостикъ у&#160;ней пушистый, шубка рыжая съ золотистымъ отливомъ, какъ у&#160;лисицы, зубы бѣлые, острые, глазки горятъ словно уголья,
+</p><p>— Красоточка ты у&#160;насъ! — зачастую повторяютъ ей остальные звѣри, и&#160;бѣлочка дѣйствительно знаетъ, что&#160;она одинъ изъ самыхъ красивыхъ звѣрьковъ, — бѣда&#160;только та, что&#160;жить-то&#160;приходится въ лѣсу и&#160;красоту показать некому.
+</p><p>«Только, — думала она однажды, присѣвъ на&#160;заднія&#160;лапки, — хотя&#160;бы&#160;что нибудь особенное, новенькое приключилось!»
+</p><p>Но&#160;не&#160;успѣла проказница подумать это, какъ вдругъ вблизи послышался необыкновенный трескъ, и&#160;затѣмъ что-то&#160;тяжелое съ глухимъ шумомъ грузно повалилось на&#160;землю.
+</p><p>Бѣлочка вздрогнула, оглянулась, да&#160;такъ и&#160;ахнула, замѣтивъ въ нѣсколькихъ шагахъ отъ себя двоихъ мужиковъ, рубившихъ старую березу) мигомъ прыгнула она въ дупло.
+</p><p>— Дядюшка Иванъ! — закричалъ тѣмъ временемъ одинъ изъ мужиковъ, — смотра-ка бѣлка! Давай, срубимъ это дерево, оно не&#160;толстое!
+</p><p>— Давай! — отвѣчалъ другой, — но&#160;вѣдь бѣлки хитрыя, какъ только мы&#160;начнемъ стучать топорами, она догадается и&#160;убѣжитъ, надо сперва отыскать дупло, чтобы чѣмъ-нибудь заткнуть его.
+</p><p>Сказано — сдѣлано. Въ одну минуту бѣлочка видитъ, какъ дверь, ведущая въ ея комнату, крѣпко запирается снаружи и&#160;въ дуплѣ дѣлается темно. Смекнувъ, что&#160;ее хотятъ ловить, бѣдняжка бросилась вверхъ, внизъ, попробовала схватиться своими цѣпкими лапками за&#160;середину и&#160;ничего не&#160;могла сдѣлать.
+</p><p>Съ ужасомъ услыхала она громкій стукъ топоровъ и&#160;почувствовала какъ дерево сначала начало пошатываться, а&#160;затѣмъ упало на&#160;землю. Не жива, не&#160;мертва, несчастная забилась въ самый темный уголъ и&#160;лежала какъ убитая.
+</p><p>— Стой, стой! — кричалъ одинъ изъ мужиковъ, — гляди, сколько орѣховъ изъ дупла посыпалось, должно быть и&#160;бѣлка тутъ гдѣ нибудь притаилась.
+</p><p>И&#160;онъ началъ шарить въ жилищѣ бѣдной бѣлочки, которая отъ страха и&#160;отчаянія&#160;крѣпко запустила свои острые зубы въ руку непріятеля.
+</p><p>— Ахъ ты, противная! — закричалъ мужикъ и, прижавъ ее къ стѣнѣ, ухватилъ за&#160;шею такъ сильно, что&#160;она чуть не&#160;задохлась.
+</p><p>— Не мучь, оставь! — сказалъ товарищъ, который вѣроятно былъ добрѣе и, вынувъ изъ-за&#160;пазухи какую-то&#160;грязную тряпицу, завернулъ въ нее бѣднаго звѣрька, чтобы отнести ребятишкамъ.
+</p><p>На&#160;дорогѣ встрѣтилась ему щегольская коляска, въ которой сидѣлъ сосѣдній помѣщикъ со своею маленькою дочерью Катей.
+</p><p>— Барышня, купите бѣлочку! — сказалъ мужикъ поровнявшись съ ними.
+</p><p>Помѣщикъ приказалъ остановиться, досталъ изъ кошелька трехъ-рублевую бумажку и&#160;подалъ ее крестьянину въ обмѣнъ бѣлки; послѣднюю&#160;же завернулъ въ носовой платокъ, повезъ домой и&#160;посадилъ въ большую красивую клѣтку. Дѣти этого помѣщика конечно очень полюбили этого пушистаго звѣрька, безпрестанно кормили конфектами, сахаромъ, сухарями, а&#160;маленькая Катюша, которая чрезвычайно гордилась тѣмъ, что&#160;привезла его изъ лѣса, такъ одинъ разъ попыталась даже угостить котлетками.
+</p><p>Бѣлочка, поживъ въ богатой дачѣ, была совершенно счастлива, забыла о&#160;своемъ дуплѣ и&#160;никогда почти не&#160;вспоминала о&#160;скучной, однообразной жизни въ дремучемъ лѣсу.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="БУРКА."><span id=".D0.91.D0.A3.D0.A0.D0.9A.D0.90."></span>БУРКА.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=15" title="Редактировать раздел «БУРКА.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Въ глубинѣ одного оврага жила старая волчица Лукьяновна со своими четырьмя волчатами; чтобы укрыть ихъ отъ недобраго глаза сосѣдей, она выбрала укромный уголокъ, вырыла довольно помѣстительную яму и&#160;тамъ держала дорогихъ малютокъ, пока они&#160;не выучились бѣгать. Во&#160;время ранняго дѣтства, то&#160;есть въ продолженіи четырнадцати дней, когда они&#160;были еще слѣпы, она кормила ихъ собственнымъ молокомъ, затѣмъ давала жеваное мясо, а&#160;потомъ уже стала живьемъ приносить различную дичинку; но&#160;прежде чѣмъ дать съѣсть, заставляла играть съ нею, научая такимъ образомъ какъ слѣдуетъ ловить звѣрей на&#160;свободѣ.
+</p><p>Но&#160;вотъ дѣтки выросли настолько, что&#160;были въ состояніи прокормиться безъ ея помощи, и&#160;мать-волчиха, рѣшившись выпустить ихъ на&#160;свободу, привела ихъ въ одну ненастную, зимнюю ночь на&#160;широкую поляну, гдѣ живущіе по&#160;близости волки обыкновенно собирались стаями.
+</p><p>— Друзья, — сказала она обратившись къ голоднымъ товарищамъ, — это мои четыре сына: Бѣдовый, Проказникъ, Хищный и&#160;Бурка, прошу любить и&#160;жаловать.
+</p><p>Волки приняли молодежь весьма дружелюбно и&#160;старая волчица съ той минуты не&#160;только перестала совершенно заботиться о&#160;милыхъ дѣтушкахъ, но&#160;даже, случайно встрѣчаясь въ лѣсу, не&#160;узнавала ихъ.
+</p><p>Первое время молодымъ волчатамъ трудновато показалось жить на&#160;бѣломъ свѣтѣ, но&#160;потомъ они&#160;попривыкли; одинъ развѣ Бурка, самый маленькій, частенько сѣтовалъ на&#160;свою голодную долю.
+</p><p>Поселился онъ въ дубовой рощѣ и&#160;постоянно рыскалъ по&#160;оврагамъ, полянамъ да&#160;зарослямъ, такъ какъ дремучихъ лѣсовъ волки вообще избѣгаютъ, питался всякаго рода животными, не&#160;брезгалъ даже падалью. Какъ стемнѣетъ, бывало, онъ и&#160;выйдетъ на&#160;промыселъ; жадные, злые глаза его, вѣчно глядящіе изъ-подлобья, разгорятся точно два горячіе угля, — и&#160;тутъ уже держись, кто навстрѣчу попадетъ.
+</p><p>Слава о&#160;такомъ крутомъ нравѣ молодаго волка далеко разнеслась по&#160;всему околотку. Каждый живущій по&#160;сосѣдству звѣрь относился къ нему очень недружелюбно и, завидѣвъ издали его разбойничью фигуру, поспѣшно сторонился, но&#160;однажды случилось ему какъ-то&#160;подъ вечеръ столкнуться носъ съ носомъ съ кумушкой лисой Патрикѣевной; кумушка узнала разбойника, видитъ дѣло плохо, улизнуть мудрено, и, чтобы какъ нибудь вывернуться изъ бѣды, рѣшила прибѣгнуть къ хитрости.
+</p><p>— Здравствуй, куманекъ! — пробормотала она дрожащимъ отъ волненія голосомъ, — куда пробираешься?
+</p><p>Бурка молча повернулся всѣмъ корпусомъ, потому что&#160;шея волковъ устроена такъ, что&#160;иначе взглянуть они&#160;не могутъ ни&#160;направо, ни&#160;налѣво. Лисичкѣ сдѣлалось жутко, но&#160;она не&#160;потеряла присутствія&#160;духа.
+</p><p>— А&#160;я&#160;такъ вотъ на&#160;рыбную ловлю путь держу! — говоритъ она. — Не хочешь&#160;ли&#160;отправиться вмѣстѣ?
+</p><p>— Зачѣмъ? — отзывается бурка, — волки рыбу не ѣдятъ!
+</p><p>— Неужели? Значитъ ты, куманекъ, рыбки никогда не&#160;отвѣдывалъ? Напрасно! — она очень вкусная, и&#160;кромѣ того такъ сытна, что, полакомившись ею сегодня, ты дня два — три навѣрное ѣсть не&#160;захочешь, а&#160;при нашемъ горькомъ житьѣ-бытьѣ, когда голодать приходится порою по&#160;цѣлымъ недѣлямъ, оно весьма удобно.
+</p><p>Услыхавъ такія&#160;рѣчи, волкъ призадумался.
+</p><p>— Ладно! — сказалъ онъ черезъ нѣсколько минутъ, — пойдемъ, только ты научи меня какъ слѣдуетъ ловить рыбу!
+</p><p>— Съ большимъ удовольствіемъ! — отвѣчала лиса и, не&#160;теряя времени, чтобы волкъ не&#160;передумалъ, крупною рысью помчалась вдоль дороги; Бурка едва поспѣвалъ за&#160;нею.
+</p><p>Послѣ почти двухчасоваго странствованія подошли они&#160;къ деревнѣ, кумушка спустилась на&#160;рѣку и, остановившись около небольшой проруби, гдѣ крестьянскія женщины полоскали бѣлье, предложила своему товарищу сѣсть на&#160;самый край ея и&#160;опустить хвостъ въ воду. Волкъ согласился.
+</p><p>— Затѣмъ что&#160;же? — спросилъ онъ.
+</p><p>— Ничего, сиди пока не&#160;почувствуешь, что&#160;рыба станетъ оттягивать хвостъ внизъ.
+</p><p>Сидитъ волкъ съ полчаса, сидитъ съ часъ, наконецъ ему начинаетъ казаться, будто хвостъ пристаетъ ко&#160;льду: «ну, — думаетъ онъ, — значитъ лиса правду сказала, должно быть у&#160;меня на&#160;хвостѣ рыбы видимо-невидимо» — и&#160;съ этою отрадною мыслью онъ попытался привстать, но&#160;къ крайнему изумленію не&#160;могъ двинуться съ мѣста.
+</p><p>— Кумушка! — зоветъ онъ Патрикѣевну, а&#160;кумушки и&#160;слѣдъ простылъ. «Что&#160;за&#160;штука!» шепчетъ волкъ, дѣлая новыя усилія, только увы! — напрасныя, такъ какъ хвостъ оказался примерзшимъ къ проруби. Тутъ припомнились Буркѣ слышанные въ дѣтствѣ разсказы матери о&#160;томъ, какъ лисицамъ никогда вѣрить не&#160;должно, потому что&#160;хитрѣе ихъ нѣтъ на&#160;свѣтѣ созданія, и&#160;онъ съ горя принялся грустно завывать.
+</p><p>Услышавъ неожиданный концертъ, собаки сосѣдней деревни подняли страшный шумъ, хозяева конечно проснулись, взяли въ руки колья и&#160;цѣлою толпою пошли по&#160;направленію къ рѣкѣ.
+</p><p>Видя свое безвыходное положеніе, Бурка не&#160;старался даже оборониться: «убьютъ они&#160;меня!» подумалъ онъ чуть не&#160;плача. Но&#160;добрые мужички должно быть пожалѣли проказника, потому что&#160;взяли его живымъ. И&#160;вотъ нашъ Бурка поселился въ деревнѣ.
+</p><p>Но&#160;вмѣсто прежняго скитанья, онъ зажилъ бариномъ. Мужики смастерили ему большую деревянную клѣтку, подостлали чистенькой соломки, кормили сырымъ мясомъ, словомъ, обставили отлично. Зажилъ Бурка припѣваючи, зналъ себѣ ѣлъ, пилъ, спалъ, горя не&#160;видалъ. Казалось&#160;бы, чего еще лучже желать? — а&#160;онъ все недоволенъ, такая ужъ натура у&#160;волковъ скверная, не&#160;можетъ привыкнуть къ человѣку, — все норовитъ улизнуть. Зная эту замашку, крестьяне сторожили его внимательно. Но&#160;одинъ разъ случилось, что&#160;забыли притворить дверцу.
+</p><p>Бурка подмѣтилъ ихъ оплошность, и&#160;какъ только было возможно, сейчасъ&#160;же, не&#160;прикасаясь къ принесенному ужину, выпрыгнулъ изъ клѣтки, да&#160;что есть духу давай улепетывать въ лѣсъ.
+</p><p>На&#160;утро одинъ изъ мужичковъ приходитъ опять съ провизіей, и&#160;видитъ, что&#160;волка нѣтъ. Побѣжалъ онъ сзывать сосѣдей, которые со всѣхъ сторонъ окружили пустую клѣтку и, грустно покачивая головами, рѣшили общимъ голосомъ, что&#160;русская пословица: «какъ волка ни&#160;корми, онъ все въ лѣсъ бѣжитъ», вполнѣ справедлива.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="САМА_ВИНОВАТА."><span id=".D0.A1.D0.90.D0.9C.D0.90_.D0.92.D0.98.D0.9D.D0.9E.D0.92.D0.90.D0.A2.D0.90."></span>САМА ВИНОВАТА.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=16" title="Редактировать раздел «САМА ВИНОВАТА.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Ай, ай, ай! — вскричала маленькая Варя на&#160;всю комнату, — ай, ай, ай! эта противная Минетка до&#160;крови расцарапала мнѣ руку, мамочка, посмотри!..
+</p><p>И&#160;обливаясь горючими слезами дѣвочка, приподнявъ рукавъ своего бѣлаго батистоваго платья, показала матери дѣйствительно глубокую царапину, изъ которой выступила кровь.
+</p><p>— Надо приложить компрессъ! — совѣтовала мама.
+</p><p>— Но, мамочка, мнѣ больно, ужасно больно!
+</p><p>— Ничего, пройдетъ! Давай я&#160;сію минуту помочу носовой платокъ и&#160;обвяжу имъ тебѣ руку. Но&#160;какимъ образомъ это могло случиться? Минетка кажется очень тихая, добрая кошка, она никогда никому не&#160;дѣлаетъ вреда, если ее не&#160;трогаютъ, или, лучше сказать, если ей не&#160;надоѣдаютъ безъ причины. Ты вѣрно дразнила ее?
+</p><p>— Нѣтъ, я&#160;только взяла ее за&#160;хвостъ и&#160;хотѣла приподнять внизъ головою.
+</p><p>— Ну, вотъ видишь&#160;ли! Еще&#160;бы&#160;ты вздумала выдѣлывать подобные фокусы! Нѣтъ ничего удивительнаго, если Минетка разсердилась и&#160;оцарапала тебя, сама виновата!
+</p><p>Вѣра ничего не&#160;возражала и&#160;только сердито взглянула на&#160;Минетку, которая, словно понимая, что&#160;рѣчь идетъ о&#160;ней, преважно проходила въ эту минуту мимо, выдѣлывая своимъ упругимъ хвостомъ въ воздухѣ разные зигзаги.
+</p><p>— Я&#160;тебѣ, погоди! — сказала Варя, погрозивъ кошкѣ.
+</p><p>— Ты напрасно сердишься на&#160;Минетку, — снова замѣтила мама, — подумай, вѣдь она говорить не&#160;можетъ, слѣдовательно, что&#160;ей оставалось дѣлать, когда ты дергала ее за&#160;хвостъ?
+</p><p>— Да, мамочка, ты права, — отозвалась Варя, — въ самомъ дѣлѣ, я&#160;поступила не&#160;хорошо; прежде чѣмъ взять Минетку за&#160;хвостъ, я&#160;должна была подумать, что&#160;ей будетъ больно, но&#160;мнѣ, право, это не&#160;пришло въ голову. Прости&#160;же меня, дорогая, милая Минетка, — добавила она, взявъ въ руки кошку, — я&#160;больше никогда тебя не&#160;обижу.
+</p><p>Минетка очевидно была не&#160;злопамятна, потому что&#160;начала ласкаться и&#160;лизать руки маленькой дѣвочкѣ, которая съ своей стороны больше на&#160;нее не&#160;сердилась и&#160;вполнѣ сознавала, что&#160;мама не&#160;ошиблась, защищая Минетку, и&#160;что дѣйствительно она сама одна во&#160;всемъ виновата.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Andreewskaja_w_p_text_1890_detsky_mirok_oldorfo_a06.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/8/87/Andreewskaja_w_p_text_1890_detsky_mirok_oldorfo_a06.jpg" decoding="async" width="635" height="842" class="mw-file-element" data-file-width="635" data-file-height="842" /></a><figcaption></figcaption></figure>
+<div class="mw-heading mw-heading3"><h3 id="ЗА_ВИШНЯМИ."><span id=".D0.97.D0.90_.D0.92.D0.98.D0.A8.D0.9D.D0.AF.D0.9C.D0.98."></span>ЗА ВИШНЯМИ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=17" title="Редактировать раздел «ЗА ВИШНЯМИ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>На&#160;дворѣ стоялъ чрезвычайно жаркій, іюльскій день. Шура, Настя и&#160;Катюша собрались вмѣстѣ съ отцомъ и&#160;матерью ѣхать на&#160;именины къ дядѣ Володѣ, и&#160;знали заранѣе, что&#160;тамъ будетъ очень весело. Въ подарокъ дядѣ онѣ рѣшили набрать корзинку вишенъ съ молодаго вишневаго дерева, которое росло у&#160;нихъ въ саду около забора, и&#160;часа за&#160;два до&#160;отъѣзда направились туда всѣ втроемъ, въ сопровожденіи всегдашняго спутника своего, большой пестрой собаки Дружка и&#160;молоденькой сѣрой Муму, подаренной на&#160;дняхъ Шурѣ тѣмъ&#160;же самымъ дядей Володей.
+</p><p>— Слушайте, только не&#160;кушайте много ягодъ, — предупредила дѣтей мама, — на&#160;тощакъ это очень вредно!
+</p><p>Дѣти ничего не&#160;возражали и, взявъ корзинку, бѣгомъ на&#160;перегонку другъ передъ другомъ отправились въ садъ.
+</p><p>— Вотъ прекрасно, — сказала Катюша, — но&#160;бѣда&#160;въ томъ, что&#160;намъ не&#160;достать ягодъ — онѣ слишкомъ высоко.
+</p><p>— Надо принести лѣстницу! — совѣтовала Настя.
+</p><p>— Вотъ еще что&#160;вздумала, — возразилъ Шура, — она тяжелая!
+</p><p>— Попросимъ садовника.
+</p><p>— Чтобъ онъ разворчался и&#160;другой разъ не&#160;пустилъ насъ въ садъ? Нѣтъ я&#160;лучше попробую влѣзть на&#160;дерево, а&#160;вы стойте внизу съ корзинками.
+</p><p>Съ этими словами мальчуганъ принялся приводить задуманный планъ въ исполненіе, но&#160;дерево оказалось слишкомъ высокимъ; ноги его скользили по&#160;стволу и&#160;онъ, вмѣсто того чтобы подниматься кверху, невольно спускался внизъ.
+</p><p>— Это невозможно! — сказалъ онъ тогда съ досадой, — надо придумать какой нибудь другой способъ! Давайте сюда скамейку! — скомандовалъ онъ сестрамъ, указывая пальцемъ на&#160;стоявшую около забора простую деревянную скамейку. Дѣвочки немедленно исполнили полученное приказаніе, скамейка была моментально принесена къ дереву; Шура, взгромоздился на&#160;нее и, захвативъ руками длинную вѣтвь, всю обсыпанную вишнями, принялся рвать ихъ очень усердно; но&#160;вмѣсто того чтобы бросать въ корзинку, которую Настя держала внизу, стоя около дерева, онъ клалъ ихъ къ себѣ въ ротъ одну за&#160;другою.
+</p><p>— Что&#160;ты дѣлаешь! — сказали сестры, — такимъ образомъ мы&#160;никогда не&#160;наполнимъ нашу корзину!
+</p><p>Но&#160;мальчикъ въ отвѣтъ только засмѣялся и&#160;продолжалъ по&#160;прежнему съ жадностью кушать вишни.
+</p><p>— Я&#160;пойду скажу мамѣ! — вспугнула братишку маленькая Катюша.
+</p><p>— Ну, ну, успокойся! — сказалъ онъ тогда и&#160;началъ отъ времени до&#160;времени бросать нѣсколько ягодокъ въ корзинку, но&#160;большая часть по&#160;прежнему шла въ ротъ. Все это продолжалось довольно долго, несмотря на&#160;то, что&#160;и Настя и&#160;Катюша нѣсколько разъ напоминали о&#160;томъ, что&#160;кушать ягоды на&#160;тощакъ очень вредно.
+</p><p>Шура на&#160;всѣ ихъ замѣчанія&#160;или отмалчивался, или&#160;отвѣчалъ сердито и&#160;рѣзко, продолжая угощаться ягодами до&#160;тѣхъ поръ, пока въ концѣ-концовъ почувствовалъ, что&#160;ему дѣлается тошно. Тогда, не&#160;желая сознаться въ этомъ, онъ началъ усердно наполнять ими корзинку.
+</p><p>— Довольно! — сказала дѣвочка. — Больше некуда — слѣзай! — И&#160;они&#160;отправились съ нагруженною корзиною домой. Шура слѣдовалъ за&#160;ними.
+</p><p>— Что&#160;ты такой блѣдный? — спросилъ его отецъ. — Ты нездоровъ?
+</p><p>— Нѣтъ, я&#160;здоровъ! — отозвался мальчикъ, едва держась на&#160;ногахъ отъ сильной боли въ желудкѣ.
+</p><p>— Прикажи закладывать лошадей въ открытую коляску, мы&#160;сейчасъ поѣдемъ!
+</p><p>Шура молча направился къ лакейской, чтобы передать желаніе отца, но&#160;на половинѣ дороги почувствовалъ себя до&#160;того нехорошо, что&#160;свалился на&#160;первое попавшееся на&#160;глаза кресло.
+</p><p>— Няня! — закричалъ онъ, собравъ послѣднія&#160;силы, — или&#160;сюда скорѣе, мнѣ дурно… очень дурно!..
+</p><p>Услыхавъ изъ сосѣдней комнаты крикъ Шуры, няня бѣгомъ бросилась къ нему на&#160;помощь.
+</p><p>— Что&#160;съ тобою, голубчикъ? — спросила она его съ участіемъ.
+</p><p>Но&#160;Шура уже отвѣчать не&#160;могъ, а&#160;только плакалъ и&#160;кричалъ отъ сильныхъ болей въ желудкѣ.
+</p><p>Прибѣжали также мама, папа, Настя и&#160;Катюша, сейчасъ&#160;же уложили Шуру въ постель и&#160;послали за&#160;докторомъ. Докторъ сказалъ, что&#160;все это произошло оттого, что&#160;онъ покушалъ слишкомъ много ягодъ на&#160;тощакъ.
+</p><p>— Но&#160;я&#160;все-таки вѣдь могу сегодня ѣхать къ дядѣ Володѣ? — спросилъ его мальчикъ слабымъ голосомъ, — тамъ будетъ очень весело!
+</p><p>Докторъ улыбнулся.
+</p><p>— Вы не&#160;только не&#160;можете ѣхать въ гости, — отвѣчалъ докторъ, — но&#160;даже я&#160;не разрѣшу вамъ вставать съ постели!
+</p><p>— Неужели?
+</p><p>— Обязательно, а&#160;кромѣ того еще пропишу лѣкарство.
+</p><p>Шура грустно склонилъ головку, на&#160;глазахъ его навернулись слезы, но&#160;дѣлать было нечего, волей-неволей пришлось покориться. Папа, мама и&#160;сестры поѣхали къ дядѣ Володѣ, а&#160;Шура остался дома подъ наблюденіемъ няни и, вмѣсто того чтобы веселиться въ обществѣ другихъ дѣтей, которыхъ у&#160;дяди Володи собралось очень много, лежалъ одинъ въ кровати и&#160;глоталъ горькое лѣкарство.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ТРИ_ЗОЛОТЫЯ_РЫБКИ."><span id=".D0.A2.D0.A0.D0.98_.D0.97.D0.9E.D0.9B.D0.9E.D0.A2.D0.AB.D0.AF_.D0.A0.D0.AB.D0.91.D0.9A.D0.98."></span>ТРИ ЗОЛОТЫЯ РЫБКИ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=18" title="Редактировать раздел «ТРИ ЗОЛОТЫЯ РЫБКИ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Петѣ недавно подарили три хорошенькія золотыя рыбки; онъ посадилъ ихъ въ стеклянную банку, бросилъ имъ нѣсколько кусочковъ булки, щепотку муравьиныхъ яицъ, до&#160;которыхъ золотыя рыбки вообще большія охотницы, и&#160;затѣмъ, выйдя въ садъ, поставилъ банку на&#160;берегу небольшаго пруда для&#160;того, чтобы рыбкамъ не&#160;казалось такъ скучно, и&#160;чтобы они&#160;могли видѣть вокругъ себя воду; самъ&#160;же, вмѣстѣ съ отцомъ и&#160;матерью, отправился въ городъ за&#160;какими-то&#160;покупками.
+</p><p>— Смотрите, рыбки, извольте сидѣть въ банкѣ, — сказалъ имъ Петя передъ уходомъ, — не&#160;вздумайте перескочить черезъ край и&#160;попробовать прогуляться по&#160;пруду, слышите! — добавилъ онъ строго и&#160;погрозилъ пальчикомъ.
+</p><p>Рыбки конечно ничего не&#160;отвѣчали, такъ какъ говорить онѣ не&#160;могутъ, но, словно понявъ, что&#160;имъ было сказано, высунули крошечныя головки на&#160;поверхность воды и&#160;долго смотрѣли&#160;вслѣдъ удалявшемуся хозяину; когда&#160;же онъ окончательно скрылся изъ виду, онѣ одна за&#160;другой повыскакали изъ банки.
+</p><p>Хорошо, широко, привольно показалось имъ въ прудѣ; онѣ плавали на&#160;его поверхности съ видимымъ наслажденіемъ, но&#160;не прошло и&#160;десяти минутъ, какъ вдругъ навстрѣчу показалась большая, пребольшая зубастая щука. Золотыя рыбки не&#160;успѣли&#160;опомниться, какъ она подплыла къ нимъ совсѣмъ близко, открыла свой страшный ротъ и&#160;проглотила сначала одну, а&#160;потомъ другую, третьей по&#160;счастію удалось спастись какимъ-то&#160;чудомъ, и&#160;немедленно вернуться въ банку.
+</p><p>«Теперь я&#160;понимаю, почему нашъ маленькій господинъ запретилъ намъ плавать въ прудѣ!» подумала рыбка, и&#160;съ этого достопамятнаго дня никогда уже больше не&#160;выскакивала за&#160;край стеклянной банки.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ЧТО_ЭТО_ТАКОЕ?"><span id=".D0.A7.D0.A2.D0.9E_.D0.AD.D0.A2.D0.9E_.D0.A2.D0.90.D0.9A.D0.9E.D0.95.3F"></span>ЧТО ЭТО ТАКОЕ?</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=19" title="Редактировать раздел «ЧТО ЭТО ТАКОЕ?»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Семья Ивана Ивановича Нильскаго переселилась изъ города на&#160;постоянное жительство въ деревню. Дѣтямъ Ивана Ивановича: Сонѣ, Ванѣ и&#160;Сережѣ, очень понравилась новая обстановка и&#160;они все свое свободное время употребляли но&#160;то, чтобы бѣгать по&#160;разнымъ угламъ и&#160;закоулкамъ.
+</p><p>— Соня, Сережа, идите сюда скорѣе! — крикнулъ Ваня сестрѣ и&#160;брату, — идите, я&#160;вамъ покажу что-то&#160;необыкновенное!
+</p><p>Соня съ Сережей немедленно явились на&#160;зовъ брата.
+</p><p>— Что&#160;такое? — спросили они&#160;въ одинъ голосъ.
+</p><p>Ваня молча показалъ налѣво, гдѣ, среди засѣяннаго горохомъ поля, стояло что-то&#160;необычайное — не-то&#160;человѣкъ, не-то&#160;какая-то&#160;безобразная кукла, одѣтая въ старый, изорванный крестьянскій кафтанъ; руки этого уродливаго существа были вытянуты вправо и&#160;влѣво; въ одной изъ нихъ онъ держалъ тряпку, которая при&#160;малѣйшемъ дуновеніи&#160;вѣтра развѣвалась точно флагъ.
+</p><p>— Что&#160;это такое? Что&#160;это такое? — повторяли дѣти,
+</p><p>— Подойдемъ ближе, посмотримъ! — предложилъ Ваня.
+</p><p>— Нѣтъ, — отозвались остальные, — страшно, ступай одинъ, если хочешь!
+</p><p>— Боюсь, — отвѣчалъ Ваня, — а&#160;между тѣмъ очень хотѣлось&#160;бы&#160;узнать что&#160;это такое?
+</p><p>— Надо спросить папу!
+</p><p>Съ этими словами дѣти бросились бѣжать по&#160;направленію къ дому.
+</p><p>— Папа, мама, — кричали они&#160;всѣ разомъ, стараясь другъ передъ другомъ скорѣе сообщить объ интересномъ явленіи, — что&#160;тамъ такое на&#160;полѣ, страшное, необыкновенное?
+</p><p>— Постойте, — остановила ихъ мама, — надо чтобы кто нибудь одинъ разсказывалъ, иначе ничего не&#160;понять!
+</p><p>— Ну, хорошо, мамочка, я&#160;разскажу! — сказалъ Сережа.
+</p><p>— Нѣтъ, я! — кричала Соня.
+</p><p>— Нѣтъ, ужъ извините, я, я! — спорилъ Ваня.
+</p><p>— Опять-таки невозможно, — остановила ихъ мама, — вы кричите всѣ въ одинъ голосъ.
+</p><p>— Но&#160;какъ&#160;же быть, когда намъ всѣмъ хочется разсказать! Мамочка, ты себѣ представить не&#160;можешь какъ это интересно!
+</p><p>— Тогда мы&#160;вотъ какъ сдѣлаемъ: я&#160;завяжу узелокъ на&#160;одномъ изъ уголковъ носоваго платка, и&#160;кто его вытянетъ, тому и&#160;предоставляется право разсказа.
+</p><p>Дѣти охотно согласились. Мама отвернулась въ сторону, чтобы они&#160;не могли видѣть, на&#160;которомъ именно изъ уголковъ платка завязанъ узелокъ, и&#160;когда все было готово, приступила къ дѣлу. Дѣти сразу потянули узелки; счастье выпало на&#160;долю Сони.
+</p><p>— Разсказывай! — замѣтили тогда остальные, и&#160;Соня подробно передала о&#160;томъ, что&#160;всѣ они&#160;видѣли&#160;на полѣ.
+</p><p>— Есть чему удивляться! — засмѣялась мама, — это просто чучело, которое крестьяне ставятъ посреди засѣянной горохомъ поляны, для&#160;того, чтобы пугать птицъ и&#160;мѣшать имъ выклевывать горохъ.
+</p><p>— Неужели! А&#160;платокъ зачѣмъ привязанъ къ одной изъ рукъ чучелы?
+</p><p>— Затѣмъ именно и&#160;привязанъ, чтобы раздувался. Завидѣвъ его издали, птицы полагаютъ, что&#160;это человѣкъ и&#160;никогда не&#160;рѣшаются подлетѣть близко.
+</p><p>Объясненіе устройства чучелы очень понравилось дѣтямъ, и&#160;они уже больше не&#160;только не&#160;боялись подойти къ ней, но&#160;даже иногда собственноручно наряжали въ свое старое платье и&#160;шляпы.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ДВА_МЫШЕНКА."><span id=".D0.94.D0.92.D0.90_.D0.9C.D0.AB.D0.A8.D0.95.D0.9D.D0.9A.D0.90."></span>ДВА МЫШЕНКА.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;action=edit&amp;section=20" title="Редактировать раздел «ДВА МЫШЕНКА.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Въ крошечной норкѣ подъ балкономъ пріютилась сѣренькая мышка со своими двумя мышенками; пока мышенки были совсѣмъ маленькіе и&#160;не могли сами добывать себѣ пищу, заботливая маменька кормила ихъ, а&#160;затѣмъ, когда онѣ начали бѣгать, то&#160;она позвала ихъ къ себѣ и&#160;сказала:
+</p><p>— Извольте-ка сами хлопотать о&#160;своемъ продовольствіи; только одно предупреждаю, никогда не&#160;ходите туда, гдѣ завидите человѣка и&#160;въ особенности кота или&#160;кошку, — послѣдніе всегда были, есть и&#160;будутъ наши злѣйшіе, непримиримые враги.
+</p><p>Старшій мышенокъ запомнилъ приказаніе матери и, издали замѣтивъ кота или&#160;кошку, всегда поспѣшно прятался въ норку; но&#160;младшій, напротивъ, отличался постоянно замѣчательнымъ любопытствомъ и, несмотря ни&#160;на совѣты матери, ни&#160;на убѣдительныя просьбы старшаго брата, всегда выказывалъ смѣлость и&#160;отвагу.
+</p><p>— Вотъ, посмотри, — сказалъ онъ однажды брату, — видишь вдоль балкона пробирается черный котъ.
+</p><p>— Вижу! — отвѣтилъ братъ и, задрожавъ своимъ маленькимъ тѣльцемъ, поспѣшно спрятался поглубже въ норку.
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐65fd76f4cc‐mqssv
+Cached time: 20260217083953
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.116 seconds
+Real time usage: 0.197 seconds
+Preprocessor visited node count: 200/1000000
+Revision size: 124061/2097152 bytes
+Post‐expand include size: 13703/2097152 bytes
+Template argument size: 2632/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.049/10.000 seconds
+Lua memory usage: 1836328/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  133.372      1 Шаблон:Отексте
+100.00%  133.372      1 -total
+  1.44%    1.920      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:999160:|#|:idhash:canonical and timestamp 20260217083953 and revision id 5651648. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Детский_мирок_(Андреевская)/ДО&amp;oldid=5651648">https://ru.wikisource.org/w/index.php?title=Детский_мирок_(Андреевская)/ДО&amp;oldid=5651648</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Категория:Детская литература">Детская литература</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F" title="Категория:Варвара Павловна Андреевская">Варвара Павловна Андреевская</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1890_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1890 года">Литература 1890 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-RusEmpire" title="Категория:PD-RusEmpire">PD-RusEmpire</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%BE%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Категория:Дореформенная орфография">Дореформенная орфография</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_300" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 300">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 300</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F" title="Категория:Импорт/az.lib.ru/Варвара Павловна Андреевская">Импорт/az.lib.ru/Варвара Павловна Андреевская</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 11 сентября 2025 года в 17:59.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BE%D0%BA_(%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F)/%D0%94%D0%9E&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Детский мирок (Андреевская)/ДО</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-mqssv","wgBackendResponseTime":572,"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.197","ppvisitednodes":{"value":200,"limit":1000000},"revisionsize":{"value":124061,"limit":2097152},"postexpandincludesize":{"value":13703,"limit":2097152},"templateargumentsize":{"value":2632,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  133.372      1 Шаблон:Отексте","100.00%  133.372      1 -total","  1.44%    1.920      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.049","limit":"10.000"},"limitreport-memusage":{"value":1836328,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Варвара Павловна Андреевская\",\n    [\"license\"] = \"PD-RusEmpire\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"Амишкино рожденье\u003Cbr\u003E\\\nРжаной колосок\u003Cbr\u003EПроказница Люба\u003Cbr\u003EВ гостях у бабушки\u003Cbr\u003EПожар\u003Cbr\u003EКто проспит, тот останется дома\u003Cbr\u003EМанины уточки\u003Cbr\u003EБижу\u003Cbr\u003EРазбитая кукла\u003Cbr\u003EЛидочка\u003Cbr\u003EЧерные глазки\u003Cbr\u003EОльгин день\u003Cbr\u003EБелочка\u003Cbr\u003EБурка\u003Cbr\u003EСама виновата\u003Cbr\u003EЗа вишнями\u003Cbr\u003EТри золотые рыбки\u003Cbr\u003EЧто это такое?\u003Cbr\u003EДва мышонка\",\n    [\"published\"] = \"1890\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/a/andreewskaja_w_p/text_1890_detsky_mirok_oldorfo.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Детский мирок\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-65fd76f4cc-mqssv","timestamp":"20260217083953","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

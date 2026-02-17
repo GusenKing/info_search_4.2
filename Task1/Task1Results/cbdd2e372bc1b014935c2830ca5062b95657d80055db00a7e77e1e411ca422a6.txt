@@ -1,0 +1,1732 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Назарка-атаман (Минаев) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"d28ef42c-5a05-43e2-a713-6ad4fdbbdaca","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Назарка-атаман_(Минаев)","wgTitle":"Назарка-атаман (Минаев)","wgCurRevisionId":5306143,"wgRevisionId":5306143,"wgArticleId":1015774,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100","Импорт/lib.ru","Импорт/az.lib.ru/Константин Андреевич Минаев","Проза","Детская литература","Сборники рассказов","Константин Андреевич Минаев","Литература 1925 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Назарка-атаман_(Минаев)","wgRelevantArticleId":1015774,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5306143,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Назарка-атаман (Минаев) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Назарка-атаман_Минаев rootpage-Назарка-атаман_Минаев skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD+%28%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD+%28%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD+%28%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD+%28%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Константин_Андреевич_Минаев._Назарка-атаман"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Константин_Андреевич_Минаев._Назарка-атаман">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Константин Андреевич Минаев. Назарка-атаман</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Константин_Андреевич_Минаев._Назарка-атаман-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-НАЗАРКА-АТАМАН"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#НАЗАРКА-АТАМАН">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>НАЗАРКА-АТАМАН</span>
+			</div>
+		</a>
+		
+		<ul id="toc-НАЗАРКА-АТАМАН-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ОБИДА"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ОБИДА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>ОБИДА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ОБИДА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ЗА_ДРОВАМИ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ЗА_ДРОВАМИ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>ЗА ДРОВАМИ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ЗА_ДРОВАМИ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-РЫБАКИ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#РЫБАКИ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>РЫБАКИ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-РЫБАКИ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ГОРШОК_МОЛОКА"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ГОРШОК_МОЛОКА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>ГОРШОК МОЛОКА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ГОРШОК_МОЛОКА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-I"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#I">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>I</span>
+			</div>
+		</a>
+		
+		<ul id="toc-I-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-II"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#II">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>II</span>
+			</div>
+		</a>
+		
+		<ul id="toc-II-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-III"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#III">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>III</span>
+			</div>
+		</a>
+		
+		<ul id="toc-III-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-IV"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#IV">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>IV</span>
+			</div>
+		</a>
+		
+		<ul id="toc-IV-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-РАСЧЕТНАЯ_КНИЖКА"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#РАСЧЕТНАЯ_КНИЖКА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">11</span>
+				<span>РАСЧЕТНАЯ КНИЖКА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-РАСЧЕТНАЯ_КНИЖКА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ИЗ-ЗА_ЯБЛОК"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ИЗ-ЗА_ЯБЛОК">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">12</span>
+				<span>ИЗ-ЗА ЯБЛОК</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ИЗ-ЗА_ЯБЛОК-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Назарка-атаман (Минаев)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD+%28%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;oldid=5306143" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_%28%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2%29&amp;id=5306143&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259D%25D0%25B0%25D0%25B7%25D0%25B0%25D1%2580%25D0%25BA%25D0%25B0-%25D0%25B0%25D1%2582%25D0%25B0%25D0%25BC%25D0%25B0%25D0%25BD_%28%25D0%259C%25D0%25B8%25D0%25BD%25D0%25B0%25D0%25B5%25D0%25B2%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259D%25D0%25B0%25D0%25B7%25D0%25B0%25D1%2580%25D0%25BA%25D0%25B0-%25D0%25B0%25D1%2582%25D0%25B0%25D0%25BC%25D0%25B0%25D0%25BD_%28%25D0%259C%25D0%25B8%25D0%25BD%25D0%25B0%25D0%25B5%25D0%25B2%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_%28%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_%28%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_%28%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_%28%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_%28%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_%28%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Назарка-атаман</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2" title="Автор:Константин Андреевич Минаев">Константин Андреевич Минаев</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1925</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/m/minaew_k_a/text_1925_nazarka-ataman.shtml">az.lib.ru</a></span>  • <i>Рассказы</i>.<br />
+Назарка-атаман. <br />Обида. <br />За&#160;дровами. <br />Рыбаки. <br />Горшок молока. <br />Расчетная книжка. <br />Из-за&#160;яблок.</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2" title="Автор:Константин Андреевич Минаев">Константин Андреевич Минаев</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="Константин_Андреевич_Минаев._Назарка-атаман"><span id=".D0.9A.D0.BE.D0.BD.D1.81.D1.82.D0.B0.D0.BD.D1.82.D0.B8.D0.BD_.D0.90.D0.BD.D0.B4.D1.80.D0.B5.D0.B5.D0.B2.D0.B8.D1.87_.D0.9C.D0.B8.D0.BD.D0.B0.D0.B5.D0.B2._.D0.9D.D0.B0.D0.B7.D0.B0.D1.80.D0.BA.D0.B0-.D0.B0.D1.82.D0.B0.D0.BC.D0.B0.D0.BD"></span>Константин Андреевич Минаев. <br />Назарка-атаман</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit&amp;section=1" title="Редактировать раздел «Константин Андреевич Минаев. Назарка-атаман»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-1.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/b/bb/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-1.jpg" decoding="async" width="598" height="832" class="mw-file-element" data-file-width="575" data-file-height="800" /></a><figcaption></figcaption></figure>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-2---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/d/db/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-2---.jpg" decoding="async" width="562" height="833" class="mw-file-element" data-file-width="540" data-file-height="800" /></a><figcaption></figcaption></figure>
+<div class="mw-heading mw-heading3"><h3 id="НАЗАРКА-АТАМАН"><span id=".D0.9D.D0.90.D0.97.D0.90.D0.A0.D0.9A.D0.90-.D0.90.D0.A2.D0.90.D0.9C.D0.90.D0.9D"></span>НАЗАРКА-АТАМАН</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit&amp;section=2" title="Редактировать раздел «НАЗАРКА-АТАМАН»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Ну кто не&#160;знает на&#160;Проломной улице Назарку? Только и&#160;слышно:
+</p><p>— Митька. Колька, сюды!..
+</p><p>Это Назарка кричит. Ребят сзывает, что-нибудь придумал уж. Вон с&#160;воза, что&#160;ехал по&#160;дороге, ребята ящик стащили какой-то. Прохожие покачали головой, и&#160;возчику говорить нечего, — ребят не&#160;найти.
+</p><p>А&#160;то&#160;выйдет Назарка из&#160;калитки, шмыгает носом. Это у&#160;него такая привычка. Видит-петух па канаве с&#160;курами. Хлоп, хлоп крыльями.
+</p><p>— Ку-ка-ре-ку… у… у… у…
+</p><p>Рраз камнем, — подпрыгнул Петька. А&#160;Назарка за&#160;ним прыг через&#160;канаву. Петух, задрав хвост парусом, под&#160;ворота…
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-3---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/4/4e/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-3---.jpg" decoding="async" width="482" height="355" class="mw-file-element" data-file-width="463" data-file-height="341" /></a><figcaption></figcaption></figure>
+<p>— Эх, хорошо, что&#160;соседка не&#160;видела!
+</p><p>Дождь, ливень — Назарке нипочем. Засучил штаны за&#160;колена, шлепает по&#160;лужам. Выкупался в&#160;грязи. Замерз. Волосы — мочало.
+</p><p>— Ну, Миколаевна, у&#160;тебя и&#160;Назарка!.. — жалуется соседка. — Уродил тебе господь сынка! Либо большевик какой будет, либо атаман, прости господи!.. Вчера моего поросенка чуть не&#160;запорол! Взял гвоздь, на&#160;палку нацепил, да&#160;за ним гнаться! Такого и&#160;в школу не&#160;возьмут!
+</p><p>Николаевна, мать Назарки, старая работница с&#160;соседнего завода, давно махнула рукой на&#160;него. Некогда связываться.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Сегодня с&#160;утра убежал. Что-то&#160;на заднем дворе возится. Ребятишек собрал.
+</p><p>— Перво-на-перво, ребята, досок надо достать, — приказывает Назарка. — Ты, Минька, гвоздей шарь… У&#160;отца молоток сопри. Я-то&#160;сам пойду, ребята, доставать доски, а&#160;вы пока здесь…
+</p><p>Ребятишек целая орава, все с&#160;этой улицы.
+</p><p>Задумал Назарка большое дело. Построить дом и&#160;жить в&#160;нем летом.
+</p><p>Сарай есть. Никто под&#160;дрова не&#160;занял. Мусор ежели убрать, кое-где забить досками дырья, ну а&#160;крыша хорошая.
+</p><p>— Ребята, перво-на-перво, пока я&#160;за доскам, вы за&#160;мусор принимайтесь…
+</p><p>Задумались ребята.
+</p><p>— Чем выгребать, расчищать? За&#160;день не&#160;устроишь. Неделю работы.
+</p><p>А&#160;доски Назарка уже тащил. От&#160;заводского забора оторвал.
+</p><p>— Сторожа-то&#160;не заприметили? — удивились товарищи.
+</p><p>— Нет. Я&#160;что&#160;хочешь сопру и&#160;не увидят! Ребята, а&#160;нам дорожки надо устроить. Видали, как&#160;на бульварах делают?..
+</p><p>— Деревья надо посадить, — предложил конопатый Гринька.
+</p><p>— Насажаем.
+</p><p>День работают, другой. Жильцы заметили.
+</p><p>Отец Миньки, председатель домкома, первый подошел.
+</p><p>— Эй, вы, огольцы! Что&#160;там мастерите?
+</p><p>— Это мы, дяденька Сергей, клуб делаем.
+</p><p>Минькин отец здорово рассердился, а&#160;Назарка тут как&#160;тут, шмыгает носом.
+</p><p>— Перво-на-перво, дядя Сергей, мусор, вишь, вывезли.
+</p><p>— Гм! То-то&#160;вы как&#160;рубашки и&#160;штаны отделали… Подожди, Минька! Тебе мать всыплет как&#160;следует…
+</p><p>— Второе — сад устроим. Купили у&#160;бабки Кудины семян. Сегодня и&#160;посеем.
+</p><p>Нахмурился еще больше отец.
+</p><p>— Досок откуда натаскали? У&#160;меня все Минька гвоздей просил, да&#160;и молоток, кажется, утащил…
+</p><p>— Мы, дядя Сергей, жить здесь будем! — кричали хором ребятишки.
+</p><p>Походил по&#160;двору, поглядел председатель домкома, видит, ругать ребят не&#160;за что. Только сказал:
+</p><p>— Ля вот вас обложу квартирной платой. Но&#160;рублю за&#160;сажень. Бесплатно не&#160;позволю жить.
+</p><p>— А&#160;мы&#160;заплатим, дядя Сергей.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Назарка с&#160;ребятами в&#160;сарае день и&#160;ночь возится. Доски забивало. В&#160;подоле рубах камни, кирпичи носили. Двор расчистили. С&#160;трамвайной линий понатаскали песку. Усыпали дорожку.
+</p><p>Гринька молодец, догадался. Принес го дома газет и&#160;плакатов разных. У&#160;него, ведь, браг комсомолец. Всякой литературы много и&#160;книг с&#160;собой таскает.
+</p><p>Как&#160;облепили плакатами они&#160;все стены, да&#160;картинами, Назарка велел тогда, ребятам приносить одежу да&#160;складывать в&#160;углу.
+</p><p>— Теперь можно и&#160;жить здесь. Тащи у&#160;матери хлеба, огурцов, всего, давай делить. Где Гринька?
+</p><p>А&#160;Гринька опять домой побежал. Удивил враз товарищей. Под&#160;рубахой припер портрет Ленина.
+</p><p>— На&#160;вот, Назарка!
+</p><p>Долго тот рассматривал портрет Ильича. Все думал, куда прилепить.
+</p><p>— Молодец, Гринька, — похвалил Назарка. — Ты будешь комендантом за&#160;ото. А&#160;я, ребята, председатель п секретарь.
+</p><p>Сам полез п бережно пристроил Ленина в&#160;углу. Слез, подумал и&#160;опять приказал:
+</p><p>— Разорвись, ребята, а&#160;красную материю доставать надо!
+</p><p>— А&#160;ты, Мишка, пищи на&#160;бумаге: это наш дом-коммуна.
+</p><p>— Ничего, Назарка, я&#160;уже пробовал. И&#160;поручили Гриньке мяч смастерить.
+</p><p>Получился, правда, не&#160;мяч, а&#160;огурец. Для&#160;пробы поддал ногой Назарка, — летит, кувыркается.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Мишка свое дело сделал: принес раскрашенную картонку. Назарка посмотрел и&#160;одобрил. Полез сам прибивать.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-4---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/c/c3/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-4---.jpg" decoding="async" width="518" height="492" class="mw-file-element" data-file-width="498" data-file-height="473" /></a><figcaption></figcaption></figure>
+<p>Пришел председатель домкома, глянул на «дом-коммуну» и&#160;остолбенел.
+</p><p>— У&#160;Назаркн на&#160;груди красный бант. С&#160;своей речью тут как&#160;тут.
+</p><p>— Дядя Сергей, перво-на-перво, получи с&#160;нас деньги. Я, как&#160;председатель-секретарь… Дядя Сергей чешет затылок.
+</p><p>— Председатель. Гм… Положим, вишь как&#160;двор вычистили. Забор тут надо забить.
+</p><p>— Ого мы&#160;устроим. Войди, товарищ председатель, к&#160;ним. Посмотри.
+</p><p>Вошел, подивился.
+</p><p>— Что&#160;же, вы здесь и&#160;спите? Ба… Плакаты и&#160;Ленина достали! Ну, вот что, ребятишки, так и&#160;быть, я&#160;вам стол дам. И&#160;помогу дверь устроить. По&#160;ночам, ведь, холодно, поди…
+</p><p>Осмотрел дядя Сергей еще раз дом-коммуну, покачал головой.
+</p><p>— Ну, Назарка, ты, я&#160;вижу, дельный парнишка… Будет тебе гонять собак по&#160;улице. Минька мой учится, надо и&#160;тебе. С&#160;осени обязательно буду хлопотать в&#160;завкоме, чтоб тебя на&#160;завод приняли в&#160;ученики… А&#160;то&#160;ты какой председатель, если грамоте не&#160;знаешь…
+</p><p>Назарка носом шмыгнул, значит рад.
+</p><p>— Конечно, перво-на-перво, это грамоте… А&#160;на&#160;завод, дядя Сергей, буду голосовать единогласно.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ОБИДА"><span id=".D0.9E.D0.91.D0.98.D0.94.D0.90"></span>ОБИДА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit&amp;section=3" title="Редактировать раздел «ОБИДА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Коля — маленький мальчик. Ученик детского сада. Розовые щеки с&#160;прозрачной кожей. Одет тепло. Пальто с&#160;серым каракулевым воротником, в&#160;тапочке и&#160;в красивых бурках. Коли отец толстый. В&#160;тресте служит.
+</p><p>Колю буржуйским сынком называли, — отец барином раньше был.
+</p><p>Сегодня Коля бегом вбежал в&#160;пустую комнату.
+</p><p>Он&#160;с&#160;ног до&#160;головы в&#160;снегу. Торопливо снял ранец, положил на&#160;стол. Красными руками раскрыл ранец и&#160;вынул портрет. Улыбнулся, потом обтер рукавом и&#160;задумался.
+</p><p>Бережно держа картинку, он&#160;вдруг пододвинул стол к&#160;переднему углу. Встав на&#160;цыпочки. чуть-чуть дотянулся до&#160;иконы и&#160;поставил свою карточку.
+</p><p>Соскочил со стула, несколько попятился и&#160;стал любоваться своим делом.
+</p><p>— Что&#160;это ты здесь делаешь?
+</p><p>Коля вздрогнул. Вошла мама. Она пухлая, душистая. Всегда у&#160;нее на&#160;столике духи стояли.
+</p><p>Увидев маму, Коля улыбнулся и&#160;к ней.
+</p><p>— Мама, я…
+</p><p>— Ай, весь пол мокрый! Ты что-нибудь пролил? Не валерьянку&#160;ли?
+</p><p>— Да&#160;нет, мамочка!
+</p><p>Понюхала воздух, осмотрела кругом.
+</p><p>— А&#160;ты, наверное, опять пришел в&#160;снегу. Так и&#160;есть… Дуня, Дуня!.. — прислугу стала звать.
+</p><p>Мама принялась снимать с&#160;него пальто.
+</p><p>— Ах, какой ты, Николай, гадкий! Не стыдишься людей порядочных и&#160;бога не&#160;боишься. Зачем здесь стул стоит?.. Боже мой, кто это сделал?!
+</p><p>— Это, мама, Ленин.
+</p><p>— Что&#160;такое? К&#160;Николаю чудотворцу приставил безбожника? Господи!..
+</p><p>— Мама, мамочка, да, ведь, это Ильич!..
+</p><p>— Дуня, Дуня, скорей!..
+</p><p>— Мамочка, мамусенька, нам учительница говорила, что&#160;он великий человек… — кинулся к&#160;ней Коля.
+</p><p>— Кто тебе его дал?.. Где ты его взял? — волновалась мама.
+</p><p>— Купил. Елизавета Михайловна, учительница наша, рассказывала нам в&#160;школе про&#160;него. Витя и&#160;я увидели картинку, уговорились купить… Мамочка, у&#160;меня деньги были…
+</p><p>— Дура твоя учительница!.. И&#160;ты гадкий… Дуня, скорей…
+</p><p>Из&#160;кухни прибежала прислуга. Мама сердито показала на&#160;угол. Дуня, подобрав подол, полезла снимать портрет.
+</p><p>— Мамочка!.. — вскрикнул Коля. Слезы так и&#160;брызнули.
+</p><p>— Молчать!.. Больше в&#160;детский сад не&#160;пойдешь! Отцу скажу. А&#160;своего Ленина отнеси. Пусть они&#160;молятся на&#160;него.
+</p><p>Растерявшийся Коля взял Ленина, стал обтирать его мокрой от&#160;слез рукой.
+</p><p>— Ты еще плакать?.. В&#160;угол!..
+</p><p>Мама вышла. Дуня хотела пожалеть Колю, да&#160;побоялась. Молча вышла за&#160;мамой.
+</p><p>Злые глаза у&#160;Коли. Крепко прижал Ленина к&#160;груди.
+</p><p>— Все равно не&#160;отнесу! Нет! А&#160;учительница не&#160;дура! Дядя Ленин, я&#160;тебя люблю. Мама, ведь, не&#160;знает, а&#160;мы знаем, какой ты хороший…
+</p><p>Проглотив слезы, Коля посмотрел на&#160;божницу.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-5---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/6/69/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-5---.jpg" decoding="async" width="226" height="308" class="mw-file-element" data-file-width="217" data-file-height="296" /></a><figcaption></figcaption></figure>
+<p>— У… у… лупоглазый!.. Подожди, вырасту…
+</p><p>И&#160;погрозил чудотворцу кулаком.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-6---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/e/eb/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-6---.jpg" decoding="async" width="188" height="359" class="mw-file-element" data-file-width="181" data-file-height="346" /></a><figcaption></figcaption></figure>
+<div class="mw-heading mw-heading3"><h3 id="ЗА_ДРОВАМИ"><span id=".D0.97.D0.90_.D0.94.D0.A0.D0.9E.D0.92.D0.90.D0.9C.D0.98"></span>ЗА ДРОВАМИ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit&amp;section=4" title="Редактировать раздел «ЗА ДРОВАМИ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>У&#160;вдовы Ефимовны вес дрова вышли. Печка не&#160;топлена целую неделю. Хоть плачь.
+</p><p>Мужа-то&#160;ее убили, когда с&#160;белыми воевал. И&#160;осталась она с&#160;детьми.
+</p><p>Пошла Ефимовна в&#160;Совет за&#160;помощью, дали ордер и&#160;наказали:
+</p><p>— Поезжай ты, Ефимовна, в&#160;монастырь, по&#160;этому ордеру получишь воз дров. У&#160;тебя, ведь, муж за&#160;народное дело погиб…
+</p><p>Убивается Ефимовна.
+</p><p>— Вот пришла жизнь-то! И&#160;что&#160;делать — не&#160;знаю. Самой ехать за&#160;дровами — сил нету, да&#160;и дом бросить нельзя. Сидим без&#160;дров, замерзнем, аль подохнем.
+</p><p>— Маманя, а&#160;мамань… А&#160;мы&#160;с Митькой съездим!.. — закричал Ванятка.
+</p><p>— Сиди уж! Народила я&#160;вас, вот и&#160;майся теперь с&#160;вами…
+</p><p>Как&#160;пришел Митя из&#160;школы. — Ванятка к&#160;нему:
+</p><p>— Мить, а&#160;Мить… Давай завтра за&#160;дровами поедем. У&#160;мамани ордер, из&#160;Совета дали…
+</p><p>— А&#160;ты не&#160;замерзнешь дорогой?..
+</p><p>Уговорились ребята тишком от&#160;матери.
+</p><p>Лошади у&#160;Ефимовны не&#160;было, пошли к&#160;соседу.
+</p><p>— Дядя Митрофан, не&#160;дашь&#160;ли&#160;ты нам на&#160;день лошадь дрова привезти?.. — спросили ребятишки.
+</p><p>— Вам? Лошадь? Что&#160;вы, голубчики! — удивился сосед. — Ты знаешь, какое теперь время, на&#160;первой дороге отнимут, да&#160;и вас прикокошут. Чего вам надо, ребятишкам-то?.. Малы еще!
+</p><p>— Айда к&#160;деду! — предложил Ванятка.
+</p><p>Пошли к&#160;деду Федору. Глухой дед. Любил
+</p><p>ребят.
+</p><p>— Что, сиротки?..
+</p><p>— На&#160;день лошадку нам… В&#160;монастырь за&#160;дровами… Ордер Совет мамке выдал.
+</p><p>— Ась?.. Не боязно, сиротки? Далече это будет.
+</p><p>— Нет! А&#160;мы&#160;тебе, дедка, вместе летом огороды караулить будем…
+</p><p>— Ладно, ладно, стрекулисты… Сказать надо только Марфутке, чтоб запрягла. На&#160;какой вам день нужно-то?
+</p><p>А&#160;Ефимовна, как&#160;узнала, сначала испугалась было, а&#160;потом сама пустилась снаряжать их, как&#160;взрослых, в&#160;дорогу. В&#160;солому, обернутую в&#160;мешок, краюху хлеба сунула. Замотала Ванятку шарфом и&#160;пояском затянула. Дала свои варежки. Дырявые валенки заткнула тряпочкой.
+</p><p>С&#160;раннего утра выехали. Сам дед Федор открыл ворота.
+</p><p>— Ну, сиротки, с&#160;богом!.. Дорога хорошая…
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-7---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/9/99/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-7---.jpg" decoding="async" width="434" height="295" class="mw-file-element" data-file-width="417" data-file-height="283" /></a><figcaption></figcaption></figure>
+<p>День был погожий. Мерин вертел хвостом и&#160;фыркал, будто тоже радовался хорошему деньку.
+</p><p>Ребятишкам сначала было не&#160;холодно, но&#160;когда въехали в&#160;лес, Ванятка стал ежиться.
+</p><p>— Замерз? — спросил Митя.
+</p><p>— Нет, только пальцы щипит.
+</p><p>— А&#160;ты похлопай рукавицами. как&#160;извозчики.
+</p><p>Ванятка похлопал, и&#160;вправду руки отошли.
+</p><p>Ехать верст десять. Налево село виднеется. К&#160;монастырю надо ехать правее, к&#160;реке.
+</p><p>Вот и&#160;опушка. Дорога уходила в&#160;высокий, темный лес.
+</p><p>Вскоре показались сложенные в&#160;кучи дрова. Подъехали к&#160;избушке, откуда вышел старший. В&#160;тулупе, в&#160;лохматой шайке. Посмотрел на&#160;ребят, взял ордер.
+</p><p>— Это семье красноармейца? — спросил он. — Ну, что&#160;же, подъезжайте сюда.
+</p><p>Большой палкой отметил, сколько нужно, и&#160;буркнул:
+</p><p>— Накладайте…
+</p><p>Ванятка так и&#160;вскричал:
+</p><p>— Эх, как&#160;много!
+</p><p>Старший улыбнулся.
+</p><p>— Чай, сколько написано.
+</p><p>В&#160;лесу кругом шла работа. Кто пилил дрова, кто складывал в&#160;кучи. Ребята привязали мерина, принялись за&#160;дрова.
+</p><p>— Что&#160;у&#160;вас в&#160;дому взрослых нет, что&#160;ли? Послали вас одних-то, — подошел лесник.
+</p><p>— Тятяню казаки убили на&#160;фронте. Одна маманя осталась дома, — отвечает Ванятка. Он&#160;уцепился за&#160;большое полено и&#160;норовил спихнуть. Но&#160;полено примерзло.
+</p><p>— А&#160;ты, поди, самый старшой?.. — спрашивает он&#160;Митю. — Эх, воина, война… Много она нам вреда наделала… Давайте я&#160;вам помогу. Покрупнее которые кладите. Вот так! Тебя как&#160;зовут, Вашохой, что&#160;ли? Сидеть тебе еще им печи, а&#160;ты, вишь, чурбан… Постой, не&#160;тащи, надорвешься… Ну. вот добрый возок будет, мать будет довольна.
+</p><p>Уложили последило мелкие дрова сверху и&#160;мешок туда.
+</p><p>— Ну, Вашоха, давай подсажу! Садись и&#160;вынимай краюху. Обедай, проголодался, чай…
+</p><p>Ванятка, как&#160;галчонок, уселся наверху.
+</p><p>— Митька, давай вожжи! Править буду.
+</p><p>Высоко показалось Ванятке, выше дерева.
+</p><p>— Надо&#160;бы&#160;вам расписаться, — проговорил лесник, почесывая затылок.
+</p><p>— А&#160;я, дяденька, грамотный. Где расписаться-то?
+</p><p>Митя взял карандаш, помусолил во&#160;рту и&#160;написал на&#160;ордере: «ПАЛУЧИЛ МИТРЕЙ КУРНИКОВ».
+</p><p>— Ну, вот, все честь-честью, по&#160;закону, — успокоился лесник. — Ребятки, вы поезжайте вот по&#160;этой дороге, здесь отложе, лучше. К&#160;вечеру, не&#160;торопясь, доедете. Нно, милай!.. Держи его, Ванюха… Левей, левей правь!.. Тяжеловато, но&#160;ничего, сейчас на&#160;дорогу выедете.
+</p><p>— Прощай, дяденька! — кричит Ванятка.
+</p><p>— Прощевайте! Кланяйтесь матери. Нно, милай!.. Ванятка, хорошенько мерина вожжей! Ишь ты, застоялась…
+</p><p>Митя шагал рядом с&#160;возом, подбодряя лошадь.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-8---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/4/4a/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-8---.jpg" decoding="async" width="425" height="372" class="mw-file-element" data-file-width="408" data-file-height="357" /></a><figcaption></figcaption></figure>
+<p>По&#160;гладкой дороге ехать было легче. К&#160;вечеру морозней стало. Лесник простился с&#160;ребятами у&#160;опушки леса и&#160;долго смотрел, как&#160;Ванятка, сидя на&#160;возу, все размахивал вожжей.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="РЫБАКИ"><span id=".D0.A0.D0.AB.D0.91.D0.90.D0.9A.D0.98"></span>РЫБАКИ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit&amp;section=5" title="Редактировать раздел «РЫБАКИ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Сидит Леша у&#160;окна с&#160;книгой, слышит, кто-то&#160;карабкается, влезает на&#160;подоконник.
+</p><p>— Кто ото?..
+</p><p>— Это я. Федька. Рыбу пойдешь ловить? Дядя Шура будет сомов ловить на&#160;плотах. Эх, и&#160;клюет там!..
+</p><p>И&#160;Федька даже прищурился, причмокнул губами, будто сладкое что&#160;съел.
+</p><p>День теплый. Из&#160;палисадника в&#160;окно врывался прохладный ветерок, обдавая лицо.
+</p><p>— Нет, — вздохнул Лента, — пожалуй, маманька не&#160;пустит…
+</p><p>— Эх, ты, сопливый! Ты вот смотри на&#160;меня. Всегда без&#160;спросу все делаю, и&#160;ничего. Во!.. Ну, ты!.. Пойдешь, говорю, на&#160;плоты?..
+</p><p>Федька — язва. Как&#160;пристал, так и&#160;не отстает: и&#160;рыбаков там много, и&#160;все ребята нашенские будут, и&#160;клюет хорошо…
+</p><p>— Вот тебе мой приказ. Завтра праздник. Дядя Шура уйдет на&#160;плоты. Я&#160;зайду за&#160;тобою. Ты только гляди, пс сии. Я&#160;зайду рано…
+</p><p>Федька слез с&#160;окна.
+</p><p>— Да… Ты, Лешка, не&#160;забудь, захвати побольше с&#160;собой хлеба. Там есть, ух как&#160;хочется!..
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Лешка! Лешка, вставай!.. Ты&#160;же уговаривался!..
+</p><p>Разомлевший Леша отмахнулся рукой.
+</p><p>— Уйди!.. Я&#160;спать хочу!..
+</p><p>— Ты раздери глаза, сейчас и&#160;пройдет… Вставай, скорее!..
+</p><p>Леша слышит шопот Федьки, понимает, но&#160;никак не&#160;раскрыть глаза! На&#160;заре, ой как&#160;спать хочется!..
+</p><p>— А&#160;еще уговаривался всю ночь не&#160;спать!.. Эх, какой&#160;же ты товарищ!..
+</p><p>И&#160;Федька вцепился в&#160;его волосы, яростно от&#160;досады начал волтузить товарища. Вскрикнул Леша и&#160;проснулся.
+</p><p>— Иди за&#160;мной!.. — ткнул его в&#160;бок Федька. Сквозь дрему Леша заметил, что&#160;около него спала его сестра Наташа, съежившись под&#160;одеялом как&#160;кошка.
+</p><p>Мать опала в&#160;горнице и&#160;не слышала, как&#160;ворочались ребята.
+</p><p>Вышли. Калитка была заперта, и&#160;они полезли через&#160;забор.
+</p><p>— Идем скорее… Сейчас самый клёв. — Вышли в&#160;поле. Было свежо, и&#160;Леша стал дрожать, да&#160;еще спать так хотелось…
+</p><p>Федька достал из&#160;кармана сверток и&#160;свернул здоровую цыгарку.
+</p><p>— На&#160;вот, закури!.. Глаза тебе раздерет… Леша было дыхнул цыгаркой разок, но&#160;закашлялся и&#160;бросил.
+</p><p>— Ну и&#160;сопя… Мамкин сынок… — пробурчал Федька, затягиваясь цыгаркой.
+</p><p>Небо закраснелось, как&#160;огромное яблоко. Подошли к&#160;лесу.
+</p><p>Звонко перекликались птицы и, почуя ребят, перелетали с&#160;дерева на&#160;дерево.
+</p><p>Трава мокрая от&#160;росы, холодная.
+</p><p>Шагали быстро.
+</p><p>— Ну, сейчас дойдем!..
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>По&#160;реке Чапуре стелился легкий, прозрачный туман. Почти половину реки заняли плоты. Это были длинные, длинные бревна, перевязанные толстыми канатами. Так они&#160;тянулись друг за&#160;другом во&#160;всю реку.
+</p><p>Посредине плотов стояла кривоногая избушка сторожа.
+</p><p>Сгорбившись, сидели рыбаки с&#160;краю плотов.
+</p><p>— Вон и&#160;дядя Шура!.. — крикнул Федька, перепрыгивая через&#160;бревна.
+</p><p>Дядя Шура как&#160;раз вытащил леща.
+</p><p>Серебряная рыба трепыхалась на&#160;тонкой, волосяной леске.
+</p><p>— Вот какой, ребятишки, лещ попался! На&#160;фунт будет!.. — похвалился рыбак.
+</p><p>Он&#160;ловко зажал леща в&#160;руке, осторожно отцепил крючок из&#160;губы, от&#160;чего лещ пискнул, будто мышь, и&#160;легонько опустил в&#160;бадейку с&#160;водой.
+</p><p>— Тише, ребята!.. — погрозили рыбаки. — Тише!.. Клюет…
+</p><p>Ребята присели на&#160;корточки.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-9---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/4/49/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-9---.jpg" decoding="async" width="510" height="290" class="mw-file-element" data-file-width="490" data-file-height="279" /></a><figcaption></figcaption></figure>
+<p>Темно-голубая вода легко качала поплавки.
+</p><p>Дядя Шура в&#160;меховой шапке, в&#160;валенках сидел на&#160;обрубке, зорко поглядывал на&#160;воду.
+</p><p>Вот он&#160;одной рукой поковырял в&#160;жестянке с&#160;землей, откуда достал красного, корчащегося червяка. Нацепил на&#160;крючок, сочно плюнул на&#160;червяка и&#160;закинул насадку в&#160;воду. Крючок с&#160;грузилами цокнули на&#160;воде и&#160;глубоко потянули леску. Поплавок перевернулся еще раз и&#160;замер.
+</p><p>На&#160;плотах стало теплее. Солнце уже выглянуло, и&#160;светлые, розовые лучи ласкали верхушки леса.
+</p><p>Вдруг один поплавок начал дрожать. Мелкие круги по&#160;воде.
+</p><p>— Клюет, клюет!.. — вскрикнул Леша, вытягиваясь к&#160;воде.
+</p><p>— Тише! — успокоил дядя Шура, — это так плотва озорует… Мелкая рыбешка, вокруг червяка ходит…
+</p><p>Но&#160;второй поплавок вдруг отчаянно нырнул.
+</p><p>— Вот это клюнул! — кинулся рыбак и&#160;схватился за&#160;удочку.
+</p><p>Поплавок заморгал еще сильнее и&#160;пошел ко&#160;дну.
+</p><p>Рыбак дернул, подсекнул.
+</p><p>— Есть!..
+</p><p>Вытащил длинноватую с&#160;голубым отливом и&#160;красными перьями рыбу.
+</p><p>— Окунь, — указал дядя Шура, — окунь хорошо клюет. Она глупая рыба.
+</p><p>— Дядь!.. Дай подержать!.. — попросил Леша.
+</p><p>Рыба топорщилась и&#160;колола руку.
+</p><p>Федька тыкал пальцем в&#160;круглые глаза окуня.
+</p><p>— Ишь какие зенки у&#160;ей!.. Не моргает…
+</p><p>Солнце уже взошло над&#160;берегом и&#160;даже стало припекать. Воду зарябило.
+</p><p>— Ну, теперь бросает клевать, — заговорили рыбаки и&#160;стали закуривать.
+</p><p>Захотелось есть. Леша достал из&#160;кармана хлеб. Хлеб смялся и&#160;засох, но&#160;сейчас натощак казался слаще и&#160;вкуснее мамкиного пирога с&#160;начинкой.
+</p><p>На&#160;берегу весело запылал маленький костер. Чайник стали греть.
+</p><p>Слышно было, как&#160;на селе звонили к&#160;обедне. Плавно, певуче неслось по&#160;реке:
+</p><p>— До…о...он…н... До…о...он…н".
+</p><p>Дядя Шура прищурился на&#160;солнце. —
+</p><p>— Подождем еще с&#160;часок. Потеплеет, а&#160;там искупаемся…
+</p><p>Федька так и&#160;подпрыгнул от&#160;радости. Давай хвалиться:
+</p><p>— Лешка-то&#160;не умеет плавать, а&#160;я умею. И&#160;нырять умею. Вот погляди. Я&#160;до&#160;другого берега доплыву… Лопни глаза!
+</p><p>Вдруг далеко-далеко послышался гудок, как&#160;будто с&#160;какой фабрики.
+</p><p>Рыбаки переглянулись.
+</p><p>Из-за&#160;леса, за&#160;поворотом слышался неясный шум, как&#160;будто от&#160;водяной мельницы.
+</p><p>— Товарищи!.. Это пароход из&#160;городу!.. — крикнул кто-то.
+</p><p>И&#160;вслед за&#160;криком оглушительно загудел
+</p><p>гудок. Эхо отдалось по&#160;лесу и&#160;переливалось по&#160;реке.
+</p><p>— Бежим скорей! — кинулся Федька. Побросав ловлю, рыбаки бежали, ловко перемахивая через&#160;бревна,
+</p><p>Леша тоже за&#160;ними.
+</p><p>Чтоб перепрыгнуть на&#160;другие плоты, нужно перейти по&#160;круглому бревну, плавающему на&#160;воде.
+</p><p>Леша струсил, особенно когда ступил ногой на&#160;качающееся бревно.
+</p><p>Но&#160;видя, что&#160;все бегут и&#160;кричат, решился.
+</p><p>Дошел до&#160;половины, ноги задрожали. Перед&#160;глазами вода побежала быстро-быстро, и&#160;он бултыхнулся в&#160;воду.
+</p><p>— Аа!..а!..
+</p><p>Вода сильно ударила в&#160;лицо. Кошкой цеплялся за&#160;бревно, сапоги и&#160;пиджак сильно тянули ко&#160;дну…
+</p><p>— Мам!.. Бры!.. Аа!..а!.. — неистово кричал Леша.
+</p><p>Первый бросился на&#160;помощь дядя Шура. Окружили, вытащили.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-10---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/2/27/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-10---.jpg" decoding="async" width="492" height="383" class="mw-file-element" data-file-width="473" data-file-height="368" /></a><figcaption></figcaption></figure>
+<p>— Вот так сома поймали!.. — смеялись вокруг.
+</p><p>— Вот это так сом!..
+</p><p>А&#160;ему не&#160;до смеха. Набухшие сапоги — точно пудовые. Вода струйками стекала со всего тела.
+</p><p>Дядя Шура приговаривает:
+</p><p>— Ну, и&#160;дурной!.. Хорошо, что&#160;удержался,
+</p><p>Под&#160;плоты ушел&#160;бы&#160;и потоп. Ищи тебя там…
+</p><p>— Он&#160;скорее всех выкупался!..
+</p><p>— Ничего!.. Хорошим моряком будет…
+</p><p>Пока дядя Шура стаскивал с&#160;утопленника сапоги и&#160;выжимал пиджак, показался пароход.
+</p><p>Весь он&#160;был в&#160;красных знаменах и&#160;разноцветных флажках.
+</p><p>От&#160;парохода шли огромные волны, так что&#160;плоты даже закачались.
+</p><p>Вес ближе и&#160;ближе. А&#160;на&#160;пароходе рабочие в&#160;черных пиджаках и&#160;кепках, работницы в&#160;красных платках.
+</p><p>А&#160;вой впереди всех пионеры в&#160;белых рубахах и&#160;красных, ярких галстуках.
+</p><p>— Идем домой!.. — проговорил дядя Шура. — Это из&#160;города рабочие приехали…
+</p><p>Побежали. Леша, посиневший ох купанья, сейчас ох бега согрелся.
+</p><p>Пароход, шипя и&#160;пыхтя, разрезал высоким носом воду.
+</p><p>С&#160;парохода махали руками, кепками… Рыбаки не&#160;отставали.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>С&#160;волости к&#160;берегу шли крестьяне тоже с&#160;красными флагом и&#160;плакатами.
+</p><p>Пароход затих колесами и&#160;начал неуклюже поворачивать. Пионеры вдруг бойко ударили в&#160;барабаны и&#160;пронзительно затрубили.
+</p><p>Леша таращился на&#160;золотые трубы, что&#160;у двух пионеров так ярко блестели, играли на&#160;солнце.
+</p><p>— Ты что&#160;рот разинул?.. — ткнул его кто-то&#160;в бок. Парень запутался в&#160;отцовском большом пиджаке и&#160;растянулся на&#160;земле.
+</p><p>— Дядя!.. Дяденька!..
+</p><p>Но&#160;ни&#160;дяди Шуры, ни&#160;Федьки уже не&#160;было. Все смешалось в&#160;одну кучу.
+</p><p>Как&#160;грянула музыка, и&#160;пошла давка. Барабан-то&#160;как ухает! Большой какой, больше человека.
+</p><p>На&#160;пароходе сняли фуражки, а&#160;пионеры подняли руки к&#160;голове.
+</p><p>На&#160;берегу крестьяне медленно один за&#160;другим тоже начали стаскивать шапки.
+</p><p>«…С&#160;Интернационалом воспрянет род людской…»
+</p><p>неслась широко и&#160;громко песня вместе с&#160;музыкой.
+</p><p>Леша таращился поглядеть на&#160;городских пионеров, но&#160;впереди стояли все большие дяди.
+</p><p>— Куда ты лезешь, клоп?.. — ткнул его опять сердитый старик. — Гляди, весь вымазался, как&#160;трубочист… Где ты так вывозился?..
+</p><p>Потом вышел какой-то&#160;оратор и&#160;заговорил:
+</p><p>— Товарищи!.. Мы&#160;приехали на&#160;смычку… Закреплять союз рабочих и&#160;крестьян…
+</p><p>— Дяденька, пусти поглядеть… — запищал Леша, — ой-ой!.. Больно!.. Задавили меня!..
+</p><p>Народ так напирал, что&#160;парню дышать нечем.
+</p><p>С&#160;парохода по&#160;мостику па берег стали спускаться. Леша догадался. Не лез вверх, не&#160;таращился, а&#160;пригнулся и&#160;нырнул промеж ног.
+</p><p>Чья-то&#160;рука схватила его за&#160;шиворот, сдернула шапку. Но&#160;Леша нырял дальше.
+</p><p>— Ну ее и&#160;с шапкой… Старая… — решил он. Наконец, пролез. Вздохнул, как&#160;следует.
+</p><p>И&#160;видит, прямо на&#160;него идут пионеры стройными рядами. Впереди высокий знамя песет; а&#160;сзади маленький с&#160;новым барабаном.
+</p><p>— Лешка!..
+</p><p>Оглянулся — Федька с&#160;деревенскими ребятами несутся за&#160;пионерами.
+</p><p>— Урра!.. — кричали ребятишки.
+</p><p>Леша не&#160;выдержал — и&#160;за ними.
+</p><p>Там, впереди, мелькало, рделось знамя пионеров. Никого он&#160;больше не&#160;Видел, даже горластого Федьки. Толкая всех на&#160;пу щ и&#160;обгоняя, он&#160;бежал и&#160;бежал без&#160;шапки, спотыкался и&#160;кричал:
+</p><p>— Урра!.. Урра!..
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-11---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/a/af/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-11---.jpg" decoding="async" width="293" height="390" class="mw-file-element" data-file-width="282" data-file-height="375" /></a><figcaption></figcaption></figure>
+<p>А&#160;позади народу, народу!..
+</p><p>Все сильнее, задорнее гремела музыка…
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ГОРШОК_МОЛОКА"><span id=".D0.93.D0.9E.D0.A0.D0.A8.D0.9E.D0.9A_.D0.9C.D0.9E.D0.9B.D0.9E.D0.9A.D0.90"></span>ГОРШОК МОЛОКА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit&amp;section=6" title="Редактировать раздел «ГОРШОК МОЛОКА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="I">I</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit&amp;section=7" title="Редактировать раздел «I»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Семья Ланшиновых выехала в&#160;поле убирать свою полоску.
+</p><p>Тараска в&#160;первый раз попал на&#160;жнитво.
+</p><p>— Поедем, сынок, в&#160;поле. Дуньку качать тебе придется… — сказал отец, укладываясь в&#160;телегу.
+</p><p>Ну, и&#160;жаркое лото наступило! Пшеница уродилась высокая, густая. Отливалась словно чистым золотом.
+</p><p>Отец, пригибаясь, ловко без&#160;остановки взмахивал серпом и&#160;подкашивал колосья.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-12---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/1/1d/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-12---.jpg" decoding="async" width="487" height="160" class="mw-file-element" data-file-width="468" data-file-height="154" /></a><figcaption></figcaption></figure>
+<p>Мать в&#160;красном платке, в&#160;короткой холщовой юбке догоняла отца.
+</p><p>Когда отец выпрямлялся, он&#160;собирал серпом пшеницу и&#160;увязывал большие снопы.
+</p><p>— Эх, и&#160;снопы тяжелые! Ни&#160;за&#160;что их Тараска не&#160;поднимет!
+</p><p>Мать сделала из&#160;снопов тень, чтобы солнце не&#160;жгло, установила люльку.
+</p><p>Тараска — нянька. Отгонял от&#160;Дуньки всяких мошек и&#160;букашек.
+</p><p>Станет Дунька нюни разводить, чаем из&#160;соски поит.
+</p><p>Вот Дунька уснула — Тараска к&#160;отцу. Кобылка зеленая, большая сиганула в&#160;пшеницу.
+</p><p>— Беги, беги за&#160;ней!.. — кричит отец.
+</p><p>Тараска прыгал.
+</p><p>На&#160;третий день отец крякнул, отирая пот с&#160;лица.
+</p><p>— Ну и&#160;жарища… Все. тело стянуло…
+</p><p>И&#160;вправду у&#160;отца вся спина рубахи побелела: испарина в&#160;соль превратилась, п рубаха становилась жесткой, корявой.
+</p><p>— Пьешь, пьешь эту воду, и&#160;все пить хочется… Хоть&#160;бы&#160;кваску достать или&#160;кислого молока…
+</p><p>Отец покосился на&#160;Тараску.
+</p><p>— А&#160;но&#160;сбегаешь&#160;ли&#160;ты, Тараска, на&#160;деревню?.. Прямо к&#160;тетке Аксинье?..
+</p><p>— Не найдет, пожалуй, дорогу, — ответила мать, суя грудь Дуньке. Дунька, проголодавшись, ухватилась за&#160;мать и&#160;жадно сосала.
+</p><p>— Ну, не&#160;найдет… Такой-то&#160;орел?.. Разве он&#160;не Ланшинова Егора сын?
+</p><p>— Найду, тятька!
+</p><p>— Ну, вот. Завтра поедут на&#160;деревню Никифоровы — соседи. И&#160;тебя захватят. Придешь, прямо к&#160;тетке Аксинье. Скажи: Ланшинов к&#160;тебе послал… У&#160;ней теперь в&#160;погребе молоко-то&#160;понапашено…
+</p><p>— Да&#160;не&#160;снесет он. Верст, чай, пять будет, — опять возразила мать.
+</p><p>— А&#160;ты какую полегче крынку тащи. Тараска, ты оттелева дорогу найдешь?..
+</p><p>— Чай, найду, тятька!
+</p>
+<div class="mw-heading mw-heading3"><h3 id="II">II</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit&amp;section=8" title="Редактировать раздел «II»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Утром мать опять наказала Тараске, как&#160;уезжал с&#160;соседом Никифоровым:
+</p><p>— Ты расспроси хорошенько дорогу, как&#160;обратно пойдешь… Игнатий! — обратилась она к&#160;соседу, — покажи Тараске оттуда дорога к&#160;нам. А&#160;то&#160;еще парнишка заблудится…
+</p><p>— Ладно, садясь, Тараска!..
+</p><p>Взмахнул Игнат кнутом — и&#160;поехали.
+</p><p>Тетка Аксинья встретила радостно.
+</p><p>— Прибежал, родной… Ах, ты, батюшка мой…
+</p><p>— Тятька прислал к&#160;тебе молока испросить…
+</p><p>— А&#160;я&#160;как раз и&#160;припас…
+</p><p>Тетка Аксинья босиком. Пошли к&#160;погребу.
+</p><p>— Скоро дожнут у&#160;вас?..
+</p><p>— Тятька говорит, что&#160;скоро…
+</p><p>Вынесла холодную крынку, отчего весь горшок покрылся крупными и&#160;мелкими каплями.
+</p><p>Тетка отерла его своим фартуком.
+</p><p>— И&#160;ты испробуй молочко…
+</p><p>Пока Тараска хлебал молоко из&#160;другой посуды, она увязала сверху горшок тряпкой и&#160;затянула бечевкой.
+</p><p>— Вот тебе ручку сделала. Так и&#160;неси… Ловко тебе будет… — Захочется еще — прибегай. Ну, иди с&#160;богом! Ты дорогу-то&#160;знаешь?..
+</p><p>— Знаю… Указывали…
+</p><p>— Ну иди, иди… И&#160;кланяйся матери… Приходи еще, как&#160;вздумается…
+</p><p>Проводила его за&#160;ворота и&#160;долго стояла, смотрела, как&#160;Тараска бойко шагал к&#160;околице.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="III">III</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit&amp;section=9" title="Редактировать раздел «III»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Еще до&#160;вечера далеко. Солнце, пожалуй, еще не&#160;сядет, как&#160;Тараска дойдет.
+</p><p>Только добежать до&#160;пригорка, а&#160;там налево к&#160;пруду.
+</p><p>Сзади что-то&#160;громыхало. Оглянулся: ехали порожняком подводы четыре. На&#160;передней в&#160;соломенной шляпе спал парень-возчик.
+</p><p>— Эй. подвези!.. — закричал. Тараска, отбегая от&#160;пыли, что&#160;клубилась по&#160;дороге за&#160;подводой.
+</p><p>Парень поднял голову.
+</p><p>— Садись, — придержал он&#160;лошадь.
+</p><p>Тараска взобрался с&#160;горшком на&#160;последнюю подводу.
+</p><p>— Ишь ты, как&#160;все вышло хорошо, — подумал Тараска — не&#160;устану и&#160;скоро доеду.
+</p><p>Горшок с&#160;молоком поставил на&#160;солому.
+</p><p>— Пусть стоит…
+</p><p>Телега громыхала, оставляя далеко позади пыль.
+</p><p>Вдруг Тараска обомлел. Вместо горшка в&#160;соломе насквозь дыра оказалась. Оглянулся, а&#160;позади, на&#160;дороге, горшок остался.
+</p><p>Спрыгнул, подбежал и&#160;ахнул. Одни черепки. Белое, тягучее молоко с&#160;пылью перемешалось. Тряпочка еще осталась.
+</p><p>— Что&#160;я&#160;теперь буду делать?
+</p><p>Заревел благим матом, приседая на&#160;корточки.
+</p><p>— Ой, горе-то&#160;какое… Тетка Аксинья… Мамка…а...а…
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-13---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/c/cf/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-13---.jpg" decoding="async" width="167" height="274" class="mw-file-element" data-file-width="161" data-file-height="264" /></a><figcaption></figcaption></figure>
+<p>Долго рыдал над&#160;черенками. Утер слезы и&#160;по знает, куда итти назад к&#160;тетке или&#160;на жнитво? Место незнакомое. Овраг какой-то. И&#160;горы нет…
+</p><p>Оглянулся — никого по&#160;дороге не&#160;видно: ни&#160;сзади, ни&#160;спереди.
+</p><p>— Пойду прямо…
+</p><p>Дневной жар стал спадать. Солнце краснело и&#160;укладывалось на&#160;горизонте.
+</p><p>Тараска идет версту, две. Про&#160;горшок с&#160;молоком никак не&#160;забыть.
+</p><p>— И&#160;как&#160;это я&#160;не догадался?.. Выпустил его из&#160;рук?.. Отец похвалил, доверил, а&#160;теперь в&#160;дураках.
+</p><p>Какая-то&#160;птица пронеслась над&#160;головой и, пискнув, унеслась вдаль.
+</p><p>Тараска вздрогнул. Стало совсем темно. Дорога вела куда-то&#160;вправо, а&#160;ему надо влево, к&#160;пруду. И&#160;при&#160;том дорога не&#160;широкая, а&#160;малоезжая.
+</p><p>Заплакать, отреветься, да&#160;разве горю этим поможешь? Тараска слышал, как&#160;отец иногда бранил мать:
+</p><p>— Слезами горю не&#160;поможешь. Если ты дура, так по-дурацки и&#160;будешь весь свой век делать…
+</p><p>Еще раз оглянулся Тараска. Нет, никто не&#160;едет. С&#160;полей кузнецы затянули мурзилку.
+</p><p>— Фр…р...и… Фр… р…и...и…
+</p><p>Где-то&#160;далеко перепелки, спрятавшись, голосисто кричали:
+</p><p>— Спать пора… Спать пора…
+</p><p>И&#160;опять тихо, тихо.
+</p><p>Тараска бежал, бежал без&#160;оглядки.
+</p><p>Вон как&#160;раз впереди блеснул огонек.
+</p><p>— Костер…
+</p><p>Вдруг откуда-то&#160;кинулось под&#160;ноги черное, лохматое.
+</p><p>— Ав!.. ав!.. — и&#160;заплясало перед&#160;Тараской.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-14---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/5/54/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-14---.jpg" decoding="async" width="269" height="205" class="mw-file-element" data-file-width="259" data-file-height="197" /></a><figcaption></figcaption></figure>
+<p>— Ай!..
+</p><p>Люди у&#160;костра завозились. — Кто там?..
+</p><p>— Ай-ай!.. Собака!..
+</p><p>— Трезор!.. Трезор!.. Замолчи ты там!.. Пошел вон!.. Кто там?..
+</p><p>Подбежали люди, схватили Трезора.
+</p><p>— Ишь ты, не&#160;видишь, на&#160;кого бросаешься?.. Мальчонку испужал… — ругался бородатый мужик на&#160;собаку.
+</p><p>Та, обнюхав Тараску со всех сторон, вильнула хвостом и&#160;побежала к&#160;костру.
+</p><p>— Ты откуда, малец? Чей?
+</p><p>— Лаишинов… Заблудился я…
+</p><p>— А, сын Егора? Как&#160;же ты заблудился?..
+</p><p>У&#160;костра в&#160;тулупе сидел вихрастый паренек.
+</p><p>— Тараска!.. — закричал он, — это я, Тимоха!..
+</p><p>Тут только Тараска заприметил, что&#160;это Тимоха, и&#160;признал и&#160;деда Ипполита, и&#160;Трезора признал…
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-15---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/4/46/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-15---.jpg" decoding="async" width="480" height="284" class="mw-file-element" data-file-width="461" data-file-height="273" /></a><figcaption></figcaption></figure>
+<p>— Ты как&#160;же это?..
+</p><p>— Ды я… Меня тятька посылал к&#160;тетке Аксинье… А&#160;я&#160;дорогу позабыл…
+</p><p>— Эх. да&#160;здесь недалече… Вот так прямо пойдешь… — дед Ипполит махнул куда-то&#160;в темноту, — а&#160;там налево свернешь…
+</p><p>— А&#160;мне сейчас как&#160;дойти?..
+</p><p>— Разве ты хочешь гати?.. Оставайся с&#160;нами. Куда пойдешь ночью? Кашу сейчас будем заваривать…
+</p><p>— Нет… Меня тятька ждет…
+</p><p>Тимошка удивленно привскочил на&#160;тулупе.
+</p><p>— А&#160;волки-то?.. Не боишься?..
+</p><p>Но&#160;Тараскино горе сильнее волков.
+</p><p>— Ну иди, иди. если ты такой заботливый… Гак по&#160;дороге и&#160;иди… Пройдешь так с&#160;четверть версты и&#160;сворачивай налево…
+</p><p>Тараска опять нырнул в&#160;темноту. Особенно темно сразу как&#160;от костра отошел.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="IV">IV</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit&amp;section=10" title="Редактировать раздел «IV»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Стало холоднее. Под&#160;ногами сырая трава, хлестала по&#160;коленкам.
+</p><p>— Эх, зря ушел от&#160;Тимошки… Заблужусь, поди… Пи дороги, ни&#160;огней, ни&#160;пруда
+</p><p>— А&#160;волки-то?.. — вспомнил он&#160;вопрос Тимошки.
+</p><p>Далеко-далеко будто скрипят колеса. Прислушался. Так и&#160;есть… Бежать к&#160;ним…
+</p><p>Вот, наконец, перед&#160;ним вырос огромный воз, точно дом. Колыхаясь из&#160;стороны в&#160;сторону, ехало несколько подвод, нагруженных снопами.
+</p><p>— Дядя!.. Дяденька!..
+</p><p>— Тпру…
+</p><p>— Дяденька, куда мне итти к&#160;пруду?. Мне надоть к&#160;Ланшинову…
+</p><p>— Ась?.. Что&#160;говоришь? — перегнулась голова с&#160;воза. — Кого тебе? Да, тпру… окаянная… не&#160;стоится тебе.
+</p><p>Возы перестали скрипеть. Остановились.
+</p><p>— Эй ты, парень!.. Лезь сюда, на&#160;воз… Лезь но&#160;веревке…
+</p><p>Упираясь ногами в&#160;снопы, Тараска полег: наверх по&#160;веревке. Сильная рука втащила его на&#160;воз.
+</p><p>— Ты чей?
+</p><p>Тараска рассказал, кто он&#160;и как&#160;заблудился.
+</p><p>— Ваших-то&#160;я знаю, где они, да&#160;теперь далеко. Ты не&#160;найдешь… Нно!..
+</p><p>Мягко и&#160;тепло на&#160;возу. И&#160;укачивает, вроде в&#160;люльке…
+</p><p>Ехали долго. Сухие, неподмазанные колеса наигрывали скучную мурзилку.
+</p><p>— Урли…и... Урли…и...
+</p><p>Тараскино горе тоже сверлит, не&#160;забывается.
+</p><p>Мужик, согнувшись, раньше изредка встряхивал вожжей, теперь совсем задремал.
+</p><p>А&#160;колеса свистят, наводя тоску.
+</p><p>— Урли…и... Урли…и...
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-16---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/0/09/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-16---.jpg" decoding="async" width="344" height="140" class="mw-file-element" data-file-width="331" data-file-height="135" /></a><figcaption></figcaption></figure>
+<p>Возы съехали с&#160;дороги. Колеса врезались в&#160;мягкую, рыхлую пашню,
+</p><p>— Тпру… Приехали, — качнулся мужик, — давай слезать.
+</p><p>Было так темно, как&#160;будто все небо выкрасили в&#160;черно-расчерные чернила.
+</p><p>Стали распрягать. Лошади встряхивали с&#160;себя усталость и&#160;пыль. Лезли мордами к&#160;мужикам и&#160;подбирали на&#160;ходу колосья.
+</p><p>Мужики ругались — лошади не&#160;давали себя спутать.
+</p><p>— Эхо кто такой? — подошел другой к&#160;Тараске, собирая сбрую на&#160;земле.
+</p><p>— Не трожь… Ланшинова Егора парнишка… Дорогой подобрали…
+</p><p>Лошадей отпустили, и&#160;они. встряхивая гривой. запрыгали от&#160;стана.
+</p><p>— Ну, пойдем ужин готовить…
+</p><p>Одни мужик разгреб палкой золу. На&#160;серой кучке сверкнули незаглохшие искры.
+</p><p>Нарвал, наложил сухую траву.
+</p><p>Прилег на&#160;землю и&#160;стал раздувать. Трава затрещала, черными кружевами заклубился дым, и&#160;костер ярко вспыхнул.
+</p><p>— Стенай, давай!.. Стань… картошку!..
+</p><p>Степан, молодой работник, налил в&#160;ведро
+</p><p>из&#160;бочки воды, поднес к&#160;костру. Потом он&#160;нашел палку, сунул в&#160;ведро и&#160;начал мешать.
+</p><p>— Ты что&#160;ото делаешь? — спросил Тараска.
+</p><p>— Картошку чищу… Не видел, как?..
+</p><p>Степан рассказал ему, что&#160;едоков много, и&#160;варить надо много. Чистить поясом Очень долго. Помешан так палкой в&#160;ведре, картошка молодая, шелуха сама но&#160;себе и&#160;отстанет.
+</p><p>Слив грязную воду и&#160;налив свежую, Степан подвесил ведро к&#160;чагану.
+</p><p>— Ну, теперь готово, — проговорил он, бросая в&#160;ведро целую горсть соли, — подкладывай только дрова…
+</p><p>Мужики расселись вокруг костра. Начали свертывать цыгарки.
+</p><p>Тот мужик, который подвез Тараску, был старше всех, и&#160;его звали Федорычем.
+</p><p>— Пробуй, сварилась&#160;ли&#160;картошка?.. — указал он.
+</p><p>— Сейчас… Режь хлеб…
+</p><p>Степан расстелил дерюгу около костра, принес большой каравай хлеба и&#160;мешочек соли. Вкусна как&#160;картошка, особенно молодая, да&#160;еще с&#160;жару! А&#160;как&#160;пахнет, когда от&#160;нее идет пар!
+</p><p>У&#160;Тараски так и&#160;потекли слюни…
+</p><p>Обжигаясь, перекидывая картошку с&#160;руки на&#160;руки, мужики ели молча.
+</p><p>Съели весь хлеб. Вытаскали всю картошку, и&#160;опять закурили.
+</p><p>— Идем спать, а&#160;то поздно, — встал Федорыч.
+</p><p>Отойдя от&#160;костра, Тараска невольно вздрогнул от&#160;холода.
+</p><p>Спали на&#160;больших скирдах.
+</p><p>Тараска сразу&#160;же кувыркнулся в&#160;снопы, Федорыч прикрыл его чапаком.
+</p><p>Мужики долго перед&#160;сном калякали.
+</p><p>— Ты, Федрыч, расскажи, как&#160;к белым лопал, — позевывая, проговорил Степан.
+</p><p>Замолчали. Потом Федорыч начал:
+</p><p>— Выгнал я&#160;коров в&#160;поле, а&#160;гнать надо за&#160;овраг, к&#160;лесу. Уже полдень. Глядь, ко&#160;мне конные скачут. Двое с&#160;винтовками, и&#160;все как&#160;честью. Подлетели и&#160;кричат:
+</p><p>— Стой!
+</p><p>— Стою, — говорю, — милые мои, никуда не&#160;иду.
+</p><p>Балякают они&#160;промеж себя, да&#160;оглядываются.
+</p><p>— А&#160;кто вы такие будете? — спрашиваю их.
+</p><p>Мы, — говорят, — из&#160;отряда. Коров у&#160;тебя должны для&#160;отряда забрать…
+</p><p>— Коровы, мил мой, опчествены… Как&#160;же так?..
+</p><p>— Нам, — отвечают, — Совет разрешил взять.
+</p><p>Чудно больно мне показалось. Чего&#160;же из&#160;Совету никто не&#160;пришел?
+</p><p>— Как&#160;же я&#160;вам отдам? — объясняю я&#160;им, — дойдем до&#160;Совету, али сейчас погоню скотину домой.
+</p><p>Разозлились они, плетью замахали.
+</p><p>— Некогда нам, дескать, с&#160;тобой антимонию разводить… Отбирай скотину.
+</p><p>Обмер я&#160;с испугу.
+</p><p>Ну, думаю, что-то&#160;будет?..
+</p><p>А&#160;они, братцы мои, и&#160;вправду заехали, отобрали штук десять, самых ни&#160;на есть лучших, и&#160;погнали вдоль овражку…
+</p><p>Федорыч остановился. Затаили мужики дыхание. И&#160;Тараска уши навострил из-под&#160;чанана.
+</p><p>А&#160;Федорыч, выждав минуту, продолжал:
+</p><p>— Да. Угнали. А&#160;меня страх пробирает. Как&#160;скажу опчеству?.. Кто угнал — не&#160;знаю.
+</p><p>Дай, думаю, прослежу, куды погнали, авось, оправдание какое-нибудь будет мне.
+</p><p>Перекрестился и&#160;тихонечко пошел. Иду вдоль овражка, следы примечаю. К&#160;Марьевке так и&#160;есть погнали…
+</p><p>Кто&#160;же это за&#160;люди были?..
+</p><p>Стал пересекать овраг, а&#160;оттуда опять какие-то&#160;люди… С&#160;винтовками… В&#160;окопах, кажись, сидели.
+</p><p>— Стой!.. — кричат, — что&#160;за человек? Красный или&#160;белый?..
+</p><p>Окружили меня, а&#160;я, братцы мои дорогие, и&#160;не знаю, что&#160;говорить. Хлопаю глупыми глазами, как&#160;баран, бормочу.
+</p><p>Ну, схватили меня.
+</p><p>— Это, — говорят, — шпеён. Тащи в&#160;штаб.
+</p><p>Тут я&#160;и понял, что&#160;белые, наверно, подошли.
+</p><p>Приводят меня в&#160;штаб ихний. Начальник — офицер с&#160;саблей и&#160;красным картузом. Казак.
+</p><p>— Кто такой?..
+</p><p>— Так и&#160;так, ваша милость. Пастух я…
+</p><p>— Врешь!.. Какой ты пастух?.. Шпеён ты… Расстрелять его!..
+</p><p>Тараске страшно стало за&#160;Федорыча. Лежит не&#160;дышит.
+</p><p>— Ишь ты. сволочи!.. — но&#160;выдержав, выругался Степан вслух.
+</p><p>— Да, друзья мои… — продолжал Федорыч. — Затряслись у&#160;меня ноги, дух захватило.
+</p><p>— Что&#160;вы, люди добрые, — кричу, — какой я&#160;вам шпеён…
+</p><p>— Расстрелять, и&#160;больше ничего!.. И&#160;повели меня, да&#160;винтовками в&#160;спину.
+</p><p>— Господи, боже мой! И&#160;не&#160;вижу сырой земли под&#160;собой…
+</p><p>Вдруг, глядь, на&#160;дороге Андреев Анисим, наш бывший староста?.. Небось, помните?..
+</p><p>— Знаем, знаем! — отозвались слушающие. — Анисим теперь куды-то&#160;провалялся. Наверно, убег с&#160;белыми…
+</p><p>— Здорово, Федрыч, — говорит. — Тебя что?..
+</p><p>— Шлеёна. — отвечают, — ведем расстреливать…
+</p><p>Анисиму, вишь, чудно.
+</p><p>— Зря, говорит, ведете. И&#160;вправду он&#160;пастух. Я&#160;его знаю.
+</p><p>Анисим, вишь, у&#160;них начальником каким-то&#160;был.
+</p><p>Ну, мне влепили плетей десять и&#160;отпустили на&#160;все четыре стороны.
+</p><p>— Иди, говорят, старый чорт, да&#160;по попадайся…
+</p><p>— И&#160;на&#160;это спаси Христос…
+</p><p>Больше ничего не&#160;слышал Тараска. Свежая ночь и&#160;пахучие снопы убаюкали измученного парня.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Малец, а&#160;малец, вставай!.. Уже разгулялось…
+</p><p>Тараска открыл глаза и&#160;тут лее зажмурился, до&#160;того сильно и&#160;ярко хлестало солнце.
+</p><p>Федорыч запрягал лошадей.
+</p><p>— Вставай, а&#160;то мы&#160;сейчас уедем…
+</p><p>Быстро вскочил с&#160;теплого места.
+</p><p>Федорыч указал ему дорогу.
+</p><p>Не успел Тараска пройти шагов двести, как&#160;сразу, с&#160;боку засверкал и&#160;пруд. Вон и&#160;полоса отца. Вон и&#160;мать в&#160;люльке Дуньку качает.
+</p><p>Побежал, сломя голову.
+</p><p>Мать как&#160;увидела, так и&#160;ахнула.
+</p><p>— Кормилицы!.. Да&#160;где&#160;же ты был? Вся душа истомилась…
+</p><p>Отец бросил жать, подошел, отирая нот.
+</p><p>— Ну п напугал! Мать-то&#160;ревела всю ночь…
+</p><p>— Молоко-то&#160;я… Молоко…
+</p><p>— Ну, что&#160;молоко?..
+</p><p>— Разбил… Горшок разбил…
+</p><p>— Ну его к&#160;шуту и&#160;молоко… Сам-то, слава богу, жив вернулся…
+</p><p>— Хотел было я&#160;тебе уши драть, — угрюмо проговорил отец. — Где ты был, сучий сын?.. Разиня…
+</p><p>Тараска стал рассказывать, а&#160;отец ответил вставая:
+</p><p>— Зря тебя волки не&#160;слопали!
+</p><p>— А&#160;я, тятька, не&#160;боюсь!.. Я&#160;теперь бедовый!.. А&#160;ты слышал, как&#160;Федорыч был у&#160;белых и&#160;как его хотели расстрелять?..
+</p><p>— Нет. Ты нешто знаешь? — удивился отец.
+</p><p>— А&#160;я&#160;знаю! Вот ужо расскажу. Мама, давай Дуньку качать!..
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-17---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/b/b2/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-17---.jpg" decoding="async" width="320" height="241" class="mw-file-element" data-file-width="308" data-file-height="232" /></a><figcaption></figcaption></figure>
+<div class="mw-heading mw-heading3"><h3 id="РАСЧЕТНАЯ_КНИЖКА"><span id=".D0.A0.D0.90.D0.A1.D0.A7.D0.95.D0.A2.D0.9D.D0.90.D0.AF_.D0.9A.D0.9D.D0.98.D0.96.D0.9A.D0.90"></span>РАСЧЕТНАЯ КНИЖКА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit&amp;section=11" title="Редактировать раздел «РАСЧЕТНАЯ КНИЖКА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Хорошо на&#160;заводе. Целый город. Трубы до&#160;неба, дымятся без&#160;конца.
+</p><p>По&#160;двору, по&#160;рельсам-узколейке ползет паровоз.
+</p><p>Постоянный, беспрерывный гул. Это в&#160;цехах. В&#160;литейной или&#160;прокатной тяжело дышат печи, мигают пламенем. Визжат краны-подъемники, и&#160;вдруг с&#160;грохотом срываются цепи и&#160;железо. И&#160;долго эхо разносит этот грохот по&#160;всему заводу.
+</p><p>Кто не&#160;знает завода, страшно покажется.
+</p><p>Петровна, мать Данилки, работает в&#160;болтовом цехе. Длинный, прокопченый корпус. Согнувшись над&#160;прессами, работницы следят не&#160;отрываясь, как&#160;машина ровно постукивает:
+</p><p>— Так-так… Так-так…
+</p><p>Отлетают в&#160;сторону гайки, болты. Работа не&#160;очень трудная, сидеть, следи только, чтоб болт правильно и&#160;во время в&#160;ямку под&#160;пресс попал.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>— Петровна, кончай!.. — блестит зубами комсомолка Наташа.
+</p><p>Все работницы в&#160;серой, грубой прозодежде. От&#160;работы вся прозодежда почернела. Блестят металлической копотью и&#160;лица.
+</p><p>— Ой, бабоньки, не&#160;выгоню норму… — охает Петровна, — недужится мне…
+</p><p>— Да&#160;что&#160;с тобой? — подскочила Наташа.
+</p><p>— Надорвалась она, — объяснила соседка, бойко отбивая гайки. — Шутка&#160;ли, заставляют оттаскивать ящики по&#160;четыре пуда в&#160;каждом…
+</p><p>Заговорились работницы. Не женская работа, вишь. Здесь. При&#160;старом хозяине-французе бабы не&#160;работали. Война началась, их стали принимать. После уж, кто без&#160;мужа и&#160;вовсе остался — с&#160;фронта не&#160;вернулся. Кормиться надо, так на&#160;заводе и&#160;пришлось остаться.
+</p><p>Петровна в&#160;большом уважении. У&#160;ней муж Павел Кузнецов большевиком оказался, за&#160;революцию погиб.
+</p><p>Раньше бедно жил, а&#160;грамотный был. Как&#160;пошли Советы защищать, первый в&#160;отряд красноармейцев пошел. А&#160;теперь большой красный дом, что&#160;напротив завода — клуб — в&#160;честь товарища Кузнецова прозывается.
+</p><p>«Отдохнуть&#160;бы… Подмоги нет…», думает, и&#160;мысль о&#160;детях (дома трое остались) затуманила усталую голову.
+</p><p>Ходит по&#160;цеху мастер. Злой. Бритый, ровно англичанин. Трубкой дымит, скользит взглядом из-под&#160;густых бровей по&#160;работницам.
+</p><p>Давно&#160;бы&#160;уволил Петровну, слаба совсем, норму не&#160;выгоняет в&#160;последнее время, да&#160;ячейка раз навсегда наотрез ему приказала:
+</p><p>— Кузнецова Анисья не&#160;подлежит сокращению. Ей и&#160;вовсе пособие нужно давать… У&#160;ней дети…
+</p><p>Задымил еще пуще трубкой мастер. Ничего не&#160;сказал.
+</p><p>Как&#160;завыл гудок на&#160;смену, ровно сорвалось что. Выходили беспорядочной кучей из&#160;черной двери табельной и&#160;веером рассыпались по&#160;улице.
+</p><p>Петровна охала. Поправив платок, она последней протискалась к&#160;выходу.
+</p><p>Итти трудно.
+</p><p>Перед&#160;мостом, переходя через&#160;железную дорогу мальчишки, сцепившись, волтузили друг друга.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-18---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/2/28/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-18---.jpg" decoding="async" width="450" height="369" class="mw-file-element" data-file-width="432" data-file-height="354" /></a><figcaption></figcaption></figure>
+<p>— Батюшки!.. Кого это?.. Разойдитесь!..
+</p><p>Но&#160;мальчишки, увлеченные дракой, продолжали лупцовать кулаками. Норовили ударить особенно одного.
+</p><p>— Петровна! Гляди, твоего Данилку бузуют!..
+</p><p>— Ах, вы… Разойдитесь!.. Вот петухи-то…! Рабочие, закуривая на&#160;ходу, посмеивались:
+</p><p>— Ловко! Да&#160;что&#160;вы, ребята, одного колышмачите… Вы разделитесь на&#160;две стороны…
+</p><p>Данилка, раскрасневшийся, без&#160;шапки, не&#160;бежал, когда вырывался, а&#160;налетал сам на&#160;своих врагов, как&#160;ястреб.
+</p><p>Рабочие подзадоривали:
+</p><p>— Молодец, молодец Данилка! Один на&#160;всех… Дай, дай им!..
+</p><p>Комсомолка Наташа к&#160;рабочим:
+</p><p>— Как&#160;не&#160;стыдно… Вместо того, чтоб разнять, смеетесь…
+</p><p>Наташе помогли расцепить ребят. Когда Петровна схватила Данилку за&#160;руку, так тот, еще в&#160;горячах, кинулся с&#160;кулаками и&#160;на мать.
+</p><p>— Что&#160;ты, ополоумел?..
+</p><p>Петровна заохала.
+</p><p>— Бабоньки, ох!.. Из&#160;дома ведь убежал! Что&#160;там теперь делается!..
+</p><p>Данилка опомнился. Глаза сверкают — все порывался догнать Петьку Буржуя. Насолил он&#160;ему сильно: больно дерется.
+</p><p>— Батюшки!.. У&#160;него вся рожа содрана! Ну. что&#160;я буду делать с&#160;такими охальниками?.
+</p><p>Данилка. но&#160;слушая причитания матери, огрызался.
+</p><p>Не приставам Еще ты лезешь…
+</p><p>— Стыда на&#160;тебе нет!.. Бессовестный… Без&#160;отца ведь…
+</p><p>— Не вой!.. А&#160;то&#160;убегу, ей-богу убегу…
+</p><p>Заплакала мать: пропащий.
+</p><p>Данилки вырвался и&#160;убежал.
+</p><p>— Но&#160;пойду домой и&#160;все…
+</p><p>Соседки, которые в&#160;том&#160;же доме-коммуне жили, встретили:
+</p><p>— Петровна! Что&#160;у&#160;тебя в&#160;квартире крик-то&#160;какой?..
+</p><p>— Ох, Данилка проклятый убежал… Бросил…
+</p><p>Из-за&#160;дверей волчатами выли голодные ребятишки. Данилка схитрил: запер их на&#160;замок.
+</p><p>— Детки мои… Пришла, пришла… По&#160;войте… Сейчас…
+</p><p>Какое «не&#160;войте»! Как&#160;заслышали мать, еще пуще.
+</p><p>Открыла, наконец, дверь.
+</p><p>Лизка, распустив слюни, уцепившись за&#160;Володьку, голосила истошным голосом. А&#160;Володька совсем охрип от&#160;рева.
+</p><p>Воду разлили. Со стола скатерть смахнули.
+</p><p>— Ох!.. Ну, пришла, пришла… Данилка, Данилка!.. Где ты?.. Ах, силушки-то&#160;нет…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>С&#160;того дня Петровна совсем свалилась. Приходил доктор. Осмотрел. Приказал: работать, никак нельзя.
+</p><p>— Из&#160;страхкассы получайте пособие…
+</p><p>Стали Лизка и&#160;Володька полуголодные около
+</p><p>больной матери подвывать.
+</p><p>Каждый день заходили то&#160;одна, то&#160;другая соседка. Кудахтали:
+</p><p>— Вот времячко-то&#160;привалило…
+</p><p>— Мужа отняли… Помощница не&#160;выросла. Что&#160;теперь делать?..
+</p><p>— Революцию сделали, а&#160;мужьев всех побили, проклятые!.. Ну, что&#160;твоему — клуб какой-то&#160;назвали, а&#160;кто этих голодранцев будет кормить и&#160;поить?.. Этот, что&#160;ли, прохвост? — указали на&#160;Данилку: — какой из&#160;него, прости господи, матери помощник!..
+</p><p>Угрюмый сидел Данилка: болтовня соседей по&#160;сердцу режет.
+</p><p>— Ну ты!.. — на&#160;Марью Ивановну. — Языком-то&#160;не больно ляскай! Об&#160;отце не&#160;болтан. Не понимаешь — баба!..
+</p><p>— Вот сопливый! Он-то, гляди, понимает!..
+</p><p>— Говорю, молчи!..
+</p><p>— Данилка. а… Ох… Хоть ты-то&#160;не кричи!..
+</p><p>Завозилась мать на&#160;постели, застонала.
+</p><p>Оскалился Данилка, уперся взглядом в&#160;угол.
+</p><p>— А&#160;чего она расстраивает?.. Отец за&#160;революцию погиб!
+</p><p>— Твой отец!.. — обернулись Марья Ивановна. — А&#160;ты-то&#160;кем будешь? По&#160;улицам собак гонять…
+</p><p>— И&#160;я&#160;буду, как&#160;отец!.. — заорал вдруг Данилка, как&#160;зарезанный, и&#160;стукнул кулаком. — А&#160;ты молчи, ведьма! Что&#160;душу всю воротишь?..
+</p><p>— Ох… Перестань, Данилка!..
+</p><p>Такая обида! Будто он&#160;не понимает. Ну, отца нет, мать больна. Нет, так всюду и&#160;тычут:
+</p><p>— Данилка, Данилка…
+</p><p>А&#160;про&#160;отца — приятно. Как&#160;ни&#160;ругают его, чтоб он&#160;ни сделал, а&#160;как посмотрят на&#160;большой красный кирпичный долг, что&#160;против завода — сердце запрыгает. Клуб имени товарища Кузнецова. Про&#160;отца. Афиша&#160;ли&#160;какая висит, собрание&#160;ли — все про&#160;клуб или&#160;в клуб имени Кузнецова. А&#160;то, бывало, скажет Данилка про&#160;отца — крыть ребятам нечем. Ни&#160;у&#160;кого такого не&#160;было. Иногда так накатит на&#160;Данилку думка про&#160;отца-героя, баловаться не&#160;хочется.
+</p><p>Больно все не&#160;унимается Марья Ивановна. Злит. Весь день бубнит: «мать, мать». Ладно, ведь помогают им, с&#160;голоду все равно семья не&#160;сдохнет. Хуже жили, и&#160;то ничего. Из&#160;дому, что&#160;ли, совсем убежать?..
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Прошмыгнул через&#160;табельную Данилка В&#160;ячейку зашел. Знали его многие; в&#160;клуб, в&#160;завком и&#160;ячейку пропускали. Подлез к&#160;столу. «Крокодил» журнал стал рассматривать.
+</p><p>Председатель завкома Марьянов заприметил его.
+</p><p>— Данил! Как&#160;мать-то? Хворает?
+</p><p>— Лежит… — буркнул тот.
+</p><p>Приходили рабочие. Ругались. Писали заявление. Председатель все звонил по&#160;телефону.
+</p><p>Надоело зря сидеть Данилке. Весь журнал просмотрел. Вздумал уходить.
+</p><p>— Эй, ты, парень, постой! — окликнул председатель, — скоро у&#160;нас школа открывается. Будет набор в&#160;ученики. Тебя хотим записать…
+</p><p>Данилка сначала не&#160;понял. Объяснил председатель, что&#160;в фабзавуч он&#160;попадет. Завком и&#160;ячейка постановили его в&#160;первую очередь взять.
+</p><p>— Пойдешь, что&#160;ли?..
+</p><p>— А&#160;чего не&#160;пойти? Пойду.
+</p><p>— Ну, вот. Чем можем, тем и&#160;помогаем. Кузнецова Павла помним. Ступай, матери скажи…
+</p><p>— Ладно. — Шапку на&#160;голову.
+</p><p>Затикало сердце непонятной радостью. А&#160;матери не&#160;сказал. В&#160;себе надолго затаил.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Стала меньше Петровна стонать. Видно еще не&#160;время умирать: ребята не&#160;подросли.
+</p><p>Данилка будто притих. Матери как-то&#160;намекнут.
+</p><p>— Работу хотят мне дать. Пообещались… Больше ничего не&#160;объяснил. Мать и&#160;не расспрашивала.
+</p><p>В&#160;фабзавуче у&#160;Данилки новая жизнь началась. Старик учитель Мартын Егорыч объяснил, что&#160;будут учить.
+</p><p>— Кто сообразительней будет, того в&#160;разряд старший будем переводить, — добавил учитель.
+</p><p>В&#160;первые&#160;же дин Данилка с&#160;товарищами пе д терпел — подрался.
+</p><p>Пока в&#160;классе — тихо. Все-таки новое кругом. а&#160;как на&#160;улицу вышли, давай возиться. С&#160;радости&#160;ли, н так рука уже чешется, только Петьке Буржую здорово доставалось.
+</p><p>Петька, дурак, вздумал итти к&#160;учителю жаловаться а&#160;он просто им в&#160;ответ:
+</p><p>— Хочешь драться — дерись. Ко&#160;мне не&#160;лезь жаловаться. Ты теперь, брат, такой&#160;же рабочий. Член профсоюза. Строитель социалистического государства. Во!.. Понял?..
+</p><p>Ребята так и&#160;разинули рты. Понравилось. Лестно.
+</p><p>Но&#160;учиться Данилка тоже любил. Особенно, когда Мартын Егорович про&#160;дроби начнет рассказывать.
+</p><p>Инструменты дали. В&#160;мастерской работали. Вымажешься, как&#160;чушка, а&#160;хорошо. Зато сам старый замок починил, зажигалку, всякую такую штуку смастеришь.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Матери полегчало. Встала с&#160;постели, стала порядок по&#160;дому наводить. Белье постирала. Лизку, Володьку приодела. (Сама, чай, рада, что&#160;ноги подняли.
+</p><p>Данилка с&#160;утра, как&#160;захватит кусок хлеба, так на&#160;весь день.
+</p><p>Завод, дымные высокие трубы, треск и&#160;лязг железа, учитель Мартын Егорович, мастерская-школа — захватили всего Данилку. Будто все озорство в&#160;энергию и&#160;смекалку трудовую ушло. Работал, вертелся на&#160;заводе не&#160;четыре часа, как&#160;фабзайчик. а&#160;больше, пока не&#160;выгоняли.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-19---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/8/8b/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-19---.jpg" decoding="async" width="318" height="279" class="mw-file-element" data-file-width="306" data-file-height="268" /></a><figcaption></figcaption></figure>
+<p>Председатель завкома заботился:
+</p><p>— Данил, получи талоны на&#160;обед.
+</p><p>И&#160;то&#160;хорошо. С&#160;материнских харчей долой.
+</p><p>Домой идет Данилка — руки грязные, лицо усталое, потное.
+</p><p>— Мотри-ка и&#160;в самом деле работает… — удивлялась Марья Ивановна, — Петровна, никак твой Данилка за&#160;работу взялся?
+</p><p>— Ходит на&#160;завод…
+</p><p>— Ишь ты…
+</p><p>— Ладно, не&#160;приставай… — отмахивался нехотя притихший Данилка.
+</p><p>Вытянулся, похудел, а&#160;видать — рад. Глаза живые, с&#160;огоньком.
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>Как-то&#160;раз Петровна, управившись, сидела и&#160;зачиняла штаны ребятам. Подумывала уж на&#160;завод сходить проведаться. Хоть доктор и&#160;наказал подольше отдохнуть, да&#160;разве усидишь?..
+</p><p>Шумно распахнулась дверь — Данилка влетел. Тяжело дышал, видно, бежал.
+</p><p>— Что&#160;ты! Не подрался&#160;ли&#160;опять?..
+</p><p>Данилка по-взрослому шагнул вперед, снял размашисто шапку, сбросил пиджак.
+</p><p>— Ну, мать, поздравляй…
+</p><p>— С&#160;чем это?..
+</p><p>— А&#160;вот увидишь…
+</p><p>Подмигнул, полез в&#160;карман. Выгреб и&#160;прямо в&#160;руки.
+</p><p>— Получай…
+</p><p>Блеснуло серебро в&#160;сморщенных, дрогнувших руках матери.
+</p><p>— Четырнадцать рублей, писят две копейки…
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-20---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/1/1a/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-20---.jpg" decoding="async" width="292" height="255" class="mw-file-element" data-file-width="281" data-file-height="245" /></a><figcaption></figcaption></figure>
+<p>— Ой, да&#160;что ты?.. — вскрикнула мать не&#160;то от&#160;страху, не&#160;то от&#160;радости.
+</p><p>— Считай… Сорок восемь копеек учли в&#160;союз, и&#160;прочее там…
+</p><p>Прижала к&#160;тощей груди мать первые заработанные деньги ее кровным сыном. Блестели росой слезы, катились медленно по&#160;бледным, изможденным щекам матери.
+</p><p>— Ой. Данилка! Правда&#160;ли?..
+</p><p>А&#160;сын, отвернувшись, улыбался хитро, шарил за&#160;пазухой.
+</p><p>— Вот, погляди…
+</p><p>С&#160;гордостью развернул какую-то&#160;книжечку.
+</p><p>— Читай: «Расчетная книжка № 1375. Фамилия- Кузнецов, имя — Данил, с-пеци…цы… а…льнысть… специальность — ученик фабзавуча, разряд 1-й». Видишь? Здесь вот написано: расчет за&#160;полный месяц −16&#160;рублей.
+</p><p>Повертел еще раз в&#160;руках, подошел к&#160;столу в&#160;бережно положил на&#160;стол, посредине.
+</p><p>Лизка и&#160;Волоцька, завидя яркие серебряные полтинники, лезли к&#160;матери.
+</p><p>— Данилка! Садись, поешь. Я&#160;картошки нажарила, — затумашилась мать.
+</p><p>Данилка, помыв руки, присел к&#160;столу.
+</p><p>— Давай… Проголодался…
+</p><p>Мать спрятали деньги в&#160;платок, уселась к&#160;окну с&#160;ребятами.
+</p><p>Чудилось ей, что&#160;кто-то&#160;теперь пришел к&#160;ней большой. Помощником стал.
+</p><p>А&#160;Данилка, уписывая картошку, часто оглядывался на&#160;стол, где посредине лежала расчетная книжка № 1375 Кузнецова Данила
+</p><p>Он&#160;верил, что&#160;теперь он&#160;встал на&#160;честную, на&#160;отцовскую дорогу.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ИЗ-ЗА_ЯБЛОК"><span id=".D0.98.D0.97-.D0.97.D0.90_.D0.AF.D0.91.D0.9B.D0.9E.D0.9A"></span>ИЗ-ЗА ЯБЛОК</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;action=edit&amp;section=12" title="Редактировать раздел «ИЗ-ЗА ЯБЛОК»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Минька! Минька!.. Подожди, и&#160;я!..
+</p><p>Ганька догонял ребят. Бежал по&#160;улице, размахивая руками.
+</p><p>— Подожди, и&#160;я!..
+</p><p>Минька — коновод. Озорной, бойкий. Одним словом — рвач. Из&#160;школы его чуть было но&#160;исключили, да&#160;мать упросила.
+</p><p>Шли купаться. Жарко было.
+</p><p>— Ребята!.. — вдруг остановился Минька, — вот что! Купаться успеем, а&#160;пойдем лучше за&#160;яблоками…
+</p><p>— Куда это?
+</p><p>Минька шмыгнул носом.
+</p><p>— В&#160;сад к&#160;моему дяде. Он&#160;у&#160;меня там заведующий…
+</p><p>Переглянулись ребята: врет, поди.
+</p><p>— Минька, а&#160;этот сад, где дядя, далеко?. спросил Ганька. Вспомнил: мать просила дрова натаскать, да&#160;из дома не&#160;уходить.
+</p><p>— Рукой подать!.. Вон, через&#160;плотину и&#160;напротив… Видишь?.. Ох, и&#160;яблоки!.. Дядя меня сколько раз кликал, да&#160;мне одному не&#160;больно хочется…
+</p><p>Шли сначала выгоном, а&#160;потом пошли по&#160;заросшей травой дороге, которая вилась зигзагами п пропадала в&#160;садах.
+</p><p>— Успею… — решил Ганька про&#160;себя. — Не один, ведь, пошел. И&#160;Петька, и&#160;Колька, и&#160;Шурка идут…
+</p><p>Бесконечно тянулся серый, обвитый вьюнами и&#160;травой забор.
+</p><p>Чем дальше от&#160;реки, тем тише. Людей совсем не&#160;видно. Наверху, на&#160;каком-то&#160;большом дереве отчаянно плакал и&#160;надрывался птенец. Прилетела птица-матка с&#160;кузнечиком в&#160;клюве и&#160;юркнула в&#160;темную гущу листьев. Тогда не&#160;только один, а&#160;сразу пять-шесть голосов запищали на&#160;разные лады. Оглушили визгом сад.
+</p><p>Минька несколько раз советовался с&#160;Петькой, оглядывался по&#160;сторонам. Еще&#160;бы. за&#160;плетнем так ярко рдела наливная крупная вишня.
+</p><p>— Ребята, лезь за&#160;мной!..
+</p><p>— Куда?..
+</p><p>А&#160;Минька, перепрыгнув канаву, лез в&#160;какую-то&#160;дыру в&#160;заборе.
+</p><p>— Разве можно? — невольно переспросил Ганька, — куда ото мы&#160;пойдем?..
+</p><p>— Лезь скорей!.. — толкнул его Колька сзади. — Чего боишься?.. А&#160;еще пионер!..
+</p><p>Последнее здорово подтолкнуло Ганьку.
+</p><p>— Разве я&#160;боюсь?.. Я&#160;спрашиваю…
+</p><p>— Не спрашивай… Лезь!..
+</p><p>— Тише!.. — командовал Минька.
+</p><p>Ганька хорошо знал, что&#160;этот сад попа
+</p><p>Троицкого. А&#160;потом сад отобрал Совет. Совхозом стал.
+</p><p>— Тише!.. — опять приказал Минька.
+</p><p>Присев на&#160;корточки, он, как&#160;заяц, прислушивался к&#160;тишине.
+</p><p>Остальные тоже притихли.
+</p><p>Яблони с&#160;белыми стволами замерли в&#160;жаркой истоме.
+</p><p>Яблоки, желтые, наверно сладкие уже. подрумяненные солнцем, они&#160;манили к&#160;себе!
+</p><p>— Никого нет…
+</p><p>Вожак Минька прополз ящерицей но&#160;земле несколько саженей, вдруг вскочил п побежал вглубь, все время виляя и&#160;прячась за&#160;деревья.
+</p><p>Ребята за&#160;ним.
+</p><p>Уж сколько они&#160;бежали, Ганька не&#160;помнит. Только назад, к&#160;плетню, дорогу не&#160;найти. Сбились у&#160;большой яблони. А&#160;яблок до&#160;того много, что&#160;унизанные ветви тяжело склонялись к&#160;земле.
+</p><p>— Ребята, я&#160;полезу, стану трясти, а&#160;вы сбирайте…
+</p><p>Минька ловкий, как&#160;белка, повис на&#160;дереве. Качнул яблоню, и&#160;с грохотом зашлепали яблоки в&#160;рыхлую землю.
+</p><p>На&#160;коленках быстро, торопясь, сто&#160;ли&#160;подбирать, совать за&#160;пазуху.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-21---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/9/90/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-21---.jpg" decoding="async" width="365" height="152" class="mw-file-element" data-file-width="351" data-file-height="146" /></a><figcaption></figcaption></figure>
+<p>Распухли неуклюже животы. Петька столько насовал, как&#160;станет нагибаться за&#160;одним, а&#160;сзади из-под&#160;ремня посыплется десяток.
+</p><p>— Еще, еще… Вот антоновых… — топотом, приказывал Минька. Глаза у&#160;него разгорелись, как&#160;у кошки. Коршуном по&#160;сторонам.
+</p><p>— Ты, чего, Ганька мало сбираешь…
+</p><p>— Минька, довольно… Айда… — тихо звал Петька, а&#160;сам не&#160;оторвется.
+</p><p>Не повернуться от&#160;яблок, а&#160;все сует…
+</p><p>Вдруг Ганька ясно расслышал чьи-то&#160;голоса. Миньку не&#160;проведешь. Легкий, без&#160;груза, бац с&#160;дерева и&#160;притих.
+</p><p>— Эй, кто там?..
+</p><p>И&#160;вслед из-за&#160;гущи сада:
+</p><p>— Ах, вы, жулики… Держи их!..
+</p><p>Ганька рванулся в&#160;сторону, чуть было на&#160;сук не&#160;напоролся.
+</p><p>— Лови, лови их!.. — неслось откуда-то.
+</p><p>Оглянулся. Видит, Минька давал стрекача влево. Петька, Колька — за&#160;ним. Яблоки по&#160;дороги врассыпную… Не до&#160;этого.
+</p><p>Ганька и&#160;туда, и&#160;сюда — запутался. Одинаковый кругом сад.
+</p><p>Остановился, перевел дух.
+</p><p>«Что&#160;теперь делать?» заныло в&#160;груди.
+</p><p>Чу!.. Опять шаги. Все ближе и&#160;ближе. Некуда итти.
+</p><p>— Стой! Кто ты такой?..
+</p><p>И&#160;страшно, и&#160;рад.
+</p><p>— Дяденька, прости. Я… Я… Это все Минька…
+</p><p>— Ага, попался… Ну-ка идем к&#160;заведующему Пилосову… Он&#160;тебе покажет…
+</p><p>Мужик страшный. С&#160;ружьем, и&#160;руки сильные, жесткие.
+</p><p>— С&#160;этих лет по&#160;чужим садам лазить. Вот мы&#160;сейчас тебя крапивой… Ну, иди…
+</p><p>Ганька оправился. Положим; крапивой не&#160;имеешь права, а&#160;насчет прочего отбрехаться надо…
+</p><p>— Пойдем! Где заведующий?.. Да&#160;не&#160;держи за&#160;руку!.. Не убегу и-так!
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-22---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/3/34/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-22---.jpg" decoding="async" width="320" height="320" class="mw-file-element" data-file-width="308" data-file-height="308" /></a><figcaption></figcaption></figure>
+<p>Подошли к&#160;даче. На&#160;цепи около дерева лохматая. большая собака.
+</p><p>Из&#160;раскрытого сарая сильно пахло фруктами, особенно вишней.
+</p><p>— Осип Петрович!.. Вот жулика привел…
+</p><p>Заведующий Осип Петрович моложе сторожа. в&#160;белой широкой рубахе с&#160;растегнутым. воротом, в&#160;туфлях. С&#160;книгой и&#160;карандашом в&#160;руке.
+</p><p>— Какого жулика?..
+</p><p>— А&#160;вот что&#160;давеча лазили…
+</p><p>Строго посмотрел на&#160;пленника.
+</p><p>— Ты чей?.. Ба!.. да&#160;ты пионер?.. — и&#160;рукой за&#160;красный галстук.
+</p><p>«Эх, дурак, ну зачем дома его не&#160;оставил!»
+</p><p>— Товарищ заведующий, я, право слово, не&#160;виноват… Это все Минька Шаталов…
+</p><p>— Нет, друг!.. Да&#160;еще на&#160;других сваливать!..
+</p><p>— Осин Петрович, они&#160;ветви поломали!.. — вставил сторож и&#160;покосился, — чистые разбойники!.. Не впервой уж…
+</p><p>— Еще этот здесь. — подумал Ганька.- злой какой…
+</p><p>— Совхоз, думаешь, казенный сад, так и&#160;лазить можно воровать… Ты&#160;бы&#160;пришел, да&#160;попросил у&#160;меня или&#160;вот у&#160;Шувалова. Здесь ведь работают сообща, коммуной. А&#160;вы налет сделали…
+</p><p>— Ветви, говорю, поломали, — бурчал Шувалов.
+</p><p>Просит Ганька освободить его, нет-разные лекции ему читают… Не хорошо, плохо…
+</p><p>— Ладно!.. Говорю, не&#160;виноват…
+</p><p>Не стал больше малину разводить заведующий, повернулся к&#160;сараю и&#160;на ходу:
+</p><p>— Проводи его, Шувалов!.. А&#160;после в&#160;отряд их зайду…
+</p>
+<div style="font-size:100%;margin-top:1em;text-align:center">*  *  *</div>
+<p>В&#160;клубе душно. Трещат пионерские голоса… На&#160;скамейках, на&#160;окнах, у&#160;дверей, везде — красные галстуки.
+</p><p>На&#160;сцене стол. Над&#160;столом портрет Ленина… Поглядывает хитро на&#160;ребят. У&#160;стены, где галдеж, большая афиша. Крупными буквами:
+</p><p>…СОСТОИТСЯ СУД НАД ПИОНЕРОМ ОТРЯДА ГАНЕЙ ГЛАЗКОВЫМ…
+</p><p>Затрещали барабаны. Звено «Красная Звезда» под&#160;такт барабана на&#160;сцену вышло.
+</p><p>— Встать! Суд идет!..
+</p><p>Знамя поставили. Застыли часовые. Вожатый, товарищ Свободин, с&#160;портфелем вышел. Сел за&#160;стол. Рядом с&#160;ним присяжные:
+</p><p>Надя и&#160;Гора.
+</p><p>Звонок. Притихли.
+</p><p>Кашель председателя.
+</p><p>— Глазков!
+</p><p>Сразу все головы вытянули вперед. С&#160;мест повскакали.
+</p><p>— Гляди, Ганя!.. Ганька!..
+</p><p>В&#160;переднем ряду он. маленький, без&#160;задора.
+</p><p>— Выйди на&#160;сцену!
+</p><p>Хлопают дверью. Лезут… Битком уже.
+</p><p>— Рассказывай, как&#160;было дело…
+</p><p>Проглотил слезы. Только&#160;бы&#160;не заплакать.
+</p><p>Коленки дрожат, но&#160;начал.
+</p><p>— Пошли купаться… Минька Шаталов уговорил… итти в&#160;сад… Будто к&#160;своему дяде… Ну, и&#160;так далее…
+</p><p>— Как&#160;же ты не&#160;узнал, что&#160;это дядин сад или&#160;совхоз?
+</p><p>Провалиться&#160;бы, да&#160;некуда! А&#160;вожатый вопросом, как&#160;иголкой:
+</p><p>— После узнал?.. А&#160;почему не&#160;принял меры?.. Активист ведь ты…
+</p><p>— Виноват, товарищи!..
+</p><p>Только&#160;бы&#160;не заплакать!.. Закусил губы.
+</p><p>Зашумели ребята.
+</p><p>— Думал удрать!.. Пройдет!..
+</p><p>— Теперь «прости»…
+</p><p>— Тише!..
+</p><p>Звонок председателя.
+</p><p>Прокурор Боря Лурье, худой, черноволосый, звонким, чеканным голосом обвинял:
+</p><p>— Глазков в&#160;пионерской среде сделал большое моральное преступление… В&#160;тот момент, когда яблоки такие сочные и, можно так сказать, красивые манили наших неорганизованных ребят. товарищ Глазков позабыл, что&#160;у него на&#160;шее красный галстук… Обвиняемый сейчас, мы&#160;видим; стоит и&#160;просит прощения. Можем&#160;ли&#160;мы его простить? Нет! Никогда! Я&#160;требую от&#160;суда для&#160;обвиняемого Глазкова высшей меры наказания- исключение его из&#160;нашего отряда!..
+</p><p>Прокурор тяжело опустился на&#160;стул. Аплодисменты пробежали по&#160;скамейкам.
+</p><p>Трещит звонок председателя.
+</p><p>А&#160;потом, через&#160;полчаса, когда суд снова вышел уже с&#160;приговором, все тотчас&#160;же притихли. Отдавая пионерский салют, в&#160;жуткой тишине слушали, как&#160;судья громко, отчетливо читал:
+</p><p>— От&#160;имени пионеров СССР товарищеский суд постановил: Глазкова Ганю, как&#160;опозорившего своим поступком отряд, звания пионера лишить…
+</p><p>По&#160;залу, несдержанно пробежало:
+</p><p>— Оо… о… Здорово…
+</p><p>— …временно, сроком на&#160;три месяца… Па прочтении настоящего приговора с&#160;Глазкова пионерский галстук спять и&#160;сдать в&#160;отряд…
+</p><p>Помощник вожатого Вася быстро подошел к&#160;онемевшему Ганьке, развязал галстук и&#160;передал товарищу Свободину.
+</p><p>— Вот тебе и&#160;яблоки дядины!..
+</p><p>— Хорошо, что&#160;временно!..
+</p><p>Ганьке головы не&#160;поднять.
+</p><p>Шумели все. Кто во&#160;что — не&#160;слышит.
+</p><p>— Ребята идем! Шура, запевай!..
+</p><p>— Здравствуй, милая картошка…,
+</p><p>— затянула босоногая, веселая Шура, тряхнув, кудрями. А&#160;за&#160;ней все:
+</p><p>— Картошка, тошка, тошка…
+</p><p>— Все мы&#160;бьем тебе челом,
+</p><p>— Челом!..
+</p><p>И&#160;залилась песнь за&#160;дверь, по&#160;улице:
+</p><p>Наша дальняя дорожка
+</p><p>Нам с&#160;тобою нипочем…
+</p><p>На&#160;скамейке, в&#160;пустом клубе, сидел Ганька один и&#160;смотрел волком, как&#160;по коридору топали босые ноги…
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-23---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/5/52/Minaew_k_a_text_1925_nazarka-ataman_text_1925_nazarka-ataman-23---.jpg" decoding="async" width="283" height="224" class="mw-file-element" data-file-width="272" data-file-height="215" /></a><figcaption></figcaption></figure>
+<center>---------------------------------------------------</center>
+<p><i>Источник текста: Назарка-атаман. Рассказы / К. Минаев; Рис. А. Баранского. — М.; Л.: Гос. изд., 1925. — 80 с.; ил.; 18&#160;см. — (Новая дет. б-ка. Младший и&#160;сред. возраст)</i>
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐7b454bf66b‐vxw6f
+Cached time: 20260216200723
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.172 seconds
+Real time usage: 0.267 seconds
+Preprocessor visited node count: 245/1000000
+Revision size: 105178/2097152 bytes
+Post‐expand include size: 9175/2097152 bytes
+Template argument size: 1137/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.057/10.000 seconds
+Lua memory usage: 1807428/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  150.751      1 -total
+ 98.21%  148.048      1 Шаблон:Отексте
+  1.20%    1.815      1 Шаблон:License
+  1.10%    1.656     14 Шаблон:***
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1015774:|#|:idhash:canonical and timestamp 20260216200723 and revision id 5306143. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Назарка-атаман_(Минаев)&amp;oldid=5306143">https://ru.wikisource.org/w/index.php?title=Назарка-атаман_(Минаев)&amp;oldid=5306143</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Категория:Детская литература">Детская литература</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2" title="Категория:Константин Андреевич Минаев">Константин Андреевич Минаев</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1925_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1925 года">Литература 1925 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_100" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 100</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2" title="Категория:Импорт/az.lib.ru/Константин Андреевич Минаев">Импорт/az.lib.ru/Константин Андреевич Минаев</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 25 февраля 2025 года в 03:09.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0-%D0%B0%D1%82%D0%B0%D0%BC%D0%B0%D0%BD_(%D0%9C%D0%B8%D0%BD%D0%B0%D0%B5%D0%B2)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Назарка-атаман (Минаев)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-48th7","wgBackendResponseTime":125,"wgPageParseReport":{"limitreport":{"cputime":"0.172","walltime":"0.267","ppvisitednodes":{"value":245,"limit":1000000},"revisionsize":{"value":105178,"limit":2097152},"postexpandincludesize":{"value":9175,"limit":2097152},"templateargumentsize":{"value":1137,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  150.751      1 -total"," 98.21%  148.048      1 Шаблон:Отексте","  1.20%    1.815      1 Шаблон:License","  1.10%    1.656     14 Шаблон:***"]},"scribunto":{"limitreport-timeusage":{"value":"0.057","limit":"10.000"},"limitreport-memusage":{"value":1807428,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Константин Андреевич Минаев\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"''Рассказы''.\u003Cbr\u003E\\\nНазарка-атаман. \u003Cbr\u003EОбида. \u003Cbr\u003EЗа дровами. \u003Cbr\u003EРыбаки. \u003Cbr\u003EГоршок молока. \u003Cbr\u003EРасчетная книжка. \u003Cbr\u003EИз-за яблок.\",\n    [\"published\"] = \"1925\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/m/minaew_k_a/text_1925_nazarka-ataman.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Назарка-атаман\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.codfw.main-7b454bf66b-vxw6f","timestamp":"20260216200723","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

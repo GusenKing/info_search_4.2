@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Из жизни глухих улиц (Моррисон; Анненская)/МБ 1897 (ДО) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"9553e4b9-546b-487c-9f49-51e4a7dde536","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Из_жизни_глухих_улиц_(Моррисон;_Анненская)/МБ_1897_(ДО)","wgTitle":"Из жизни глухих улиц (Моррисон; Анненская)/МБ 1897 (ДО)","wgCurRevisionId":5600107,"wgRevisionId":5600107,"wgArticleId":1006762,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-RusEmpire","Дореформенная орфография","25%","ДАТАПУБЛИКАЦИИОРИГИНАЛА меньше ДАТАПУБЛИКАЦИИ","Страницы без сканов","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 200","Импорт/lib.ru","Импорт/az.lib.ru/Артур Моррисон","Переводы с английского языка","Артур Джордж Моррисон","Александра Никитична Анненская","Проза","Сборники рассказов","Литература 1891 года","Публикации в журнале «Мир Божий»"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Из_жизни_глухих_улиц_(Моррисон;_Анненская)/МБ_1897_(ДО)","wgRelevantArticleId":1006762,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5600107,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":100000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Из жизни глухих улиц (Моррисон; Анненская)/МБ 1897 (ДО) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Из_жизни_глухих_улиц_Моррисон_Анненская_МБ_1897_ДО rootpage-Из_жизни_глухих_улиц_Моррисон_Анненская skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%98%D0%B7+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8+%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85+%D1%83%D0%BB%D0%B8%D1%86+%28%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD%3B+%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%9C%D0%91+1897+%28%D0%94%D0%9E%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%98%D0%B7+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8+%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85+%D1%83%D0%BB%D0%B8%D1%86+%28%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD%3B+%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%9C%D0%91+1897+%28%D0%94%D0%9E%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%98%D0%B7+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8+%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85+%D1%83%D0%BB%D0%B8%D1%86+%28%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD%3B+%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%9C%D0%91+1897+%28%D0%94%D0%9E%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%98%D0%B7+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8+%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85+%D1%83%D0%BB%D0%B8%D1%86+%28%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD%3B+%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%9C%D0%91+1897+%28%D0%94%D0%9E%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-ИЗЪ_ЖИЗНИ_ГЛУХИХЪ_УЛИЦЪ."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ИЗЪ_ЖИЗНИ_ГЛУХИХЪ_УЛИЦЪ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>ИЗЪ ЖИЗНИ ГЛУХИХЪ УЛИЦЪ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ИЗЪ_ЖИЗНИ_ГЛУХИХЪ_УЛИЦЪ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ВВЕДЕНІЕ._Улица."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ВВЕДЕНІЕ._Улица.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>ВВЕДЕНІЕ. Улица.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ВВЕДЕНІЕ._Улица.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-За_занавѣсками."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#За_занавѣсками.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>За занавѣсками.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-За_занавѣсками.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Неблагодарный_Симмонсъ."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Неблагодарный_Симмонсъ.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Неблагодарный Симмонсъ.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Неблагодарный_Симмонсъ.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Обращеніе."
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Обращеніе.">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Обращеніе.</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Обращеніе.-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Из жизни глухих улиц (Моррисон; Анненская)/МБ 1897 (ДО)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%98%D0%B7+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8+%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85+%D1%83%D0%BB%D0%B8%D1%86+%28%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD%3B+%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%9C%D0%91+1897+%28%D0%94%D0%9E%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;oldid=5600107" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_%28%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD%3B_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%9C%D0%91_1897_%28%D0%94%D0%9E%29&amp;id=5600107&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2598%25D0%25B7_%25D0%25B6%25D0%25B8%25D0%25B7%25D0%25BD%25D0%25B8_%25D0%25B3%25D0%25BB%25D1%2583%25D1%2585%25D0%25B8%25D1%2585_%25D1%2583%25D0%25BB%25D0%25B8%25D1%2586_%28%25D0%259C%25D0%25BE%25D1%2580%25D1%2580%25D0%25B8%25D1%2581%25D0%25BE%25D0%25BD%3B_%25D0%2590%25D0%25BD%25D0%25BD%25D0%25B5%25D0%25BD%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F%29%2F%25D0%259C%25D0%2591_1897_%28%25D0%2594%25D0%259E%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2598%25D0%25B7_%25D0%25B6%25D0%25B8%25D0%25B7%25D0%25BD%25D0%25B8_%25D0%25B3%25D0%25BB%25D1%2583%25D1%2585%25D0%25B8%25D1%2585_%25D1%2583%25D0%25BB%25D0%25B8%25D1%2586_%28%25D0%259C%25D0%25BE%25D1%2580%25D1%2580%25D0%25B8%25D1%2581%25D0%25BE%25D0%25BD%3B_%25D0%2590%25D0%25BD%25D0%25BD%25D0%25B5%25D0%25BD%25D1%2581%25D0%25BA%25D0%25B0%25D1%258F%29%2F%25D0%259C%25D0%2591_1897_%28%25D0%2594%25D0%259E%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_%28%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD%3B_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%9C%D0%91_1897_%28%D0%94%D0%9E%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_%28%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD%3B_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%9C%D0%91_1897_%28%D0%94%D0%9E%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_%28%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD%3B_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%9C%D0%91_1897_%28%D0%94%D0%9E%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_%28%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD%3B_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%9C%D0%91_1897_%28%D0%94%D0%9E%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_%28%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD%3B_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%9C%D0%91_1897_%28%D0%94%D0%9E%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_%28%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD%3B_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%29%2F%D0%9C%D0%91_1897_%28%D0%94%D0%9E%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" id="pre-reform"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%94%D0%BE%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Викитека:Дореформенная орфография"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yat-round-icon1.jpg/40px-Yat-round-icon1.jpg" decoding="async" width="32" height="32" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yat-round-icon1.jpg/60px-Yat-round-icon1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Yat-round-icon1.jpg/120px-Yat-round-icon1.jpg 2x" data-file-width="150" data-file-height="150" /></a></span></div><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Из жизни глухих улиц</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">авторъ <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D1%80%D1%82%D1%83%D1%80_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6_%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD" title="Автор:Артур Джордж Моррисон">Артур Джордж Моррисон</a></span>, пер. <span id="ws-translator"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F" title="Автор:Александра Никитична Анненская">Александра Никитична Анненская</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Оригинал:  <span id="ws-original&#95;lang" data-langcode="en">англ.</span> <i><span id="ws-original&#95;title">Tales of Mean Streets</span></i>, опубл.: <span id="ws-original&#95;published">1891</span>.&#160;— Перевод опубл.: <span id="ws-published">1897</span>. Источникъ: <span class="ws-source">«<a href="/wiki/%D0%9C%D0%B8%D1%80_%D0%91%D0%BE%D0%B6%D0%B8%D0%B9" title="Мир Божий">Міръ Божій</a>», № 8, 1897.  <a rel="nofollow" class="external text" href="http://az.lib.ru/m/morrison_a/text_1891_tales_of_mean_streets-oldorfo.shtml">az.lib.ru</a></span>  • Улица<br />За&#160;занавесками<br />Неблагодарный Симмонс<br />Обращение<br />Текст издания: журнал «Міръ Божій», № 8, 1897.</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%90%D1%80%D1%82%D1%83%D1%80_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6_%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD" title="Автор:Артур Джордж Моррисон">Артур Джордж Моррисон</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение было опубликовано до 7 ноября 1917 года (по новому стилю) на территории <a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" class="extiw" title="w:Российская империя">Российской империи</a> (<a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" class="extiw" title="w:Российская республика">Российской республики</a>), за исключением территорий <a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D1%81%D0%BA%D0%BE%D0%B5" class="extiw" title="w:Великое княжество Финляндское">Великого княжества Финляндского</a> и <a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5" class="extiw" title="w:Царство Польское">Царства Польского</a>, и не было опубликовано на территории <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" class="extiw" title="w:Советская Россия">Советской России</a> или других государств в течение 30 дней после даты первого опубликования.
+<p>Поскольку Российская Федерация (Советская Россия, РСФСР), несмотря на историческую преемственность, юридически не является полным правопреемником Российской империи, а сама Российская империя не являлась страной-участницей <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D1%85_%D0%B8_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9" class="extiw" title="w:Бернская конвенция об охране литературных и художественных произведений">Бернской конвенции об охране литературных и художественных произведений</a>, то согласно статье 5 конвенции это произведение <b>не имеет страны происхождения</b>.
+</p><p>Исключительное право на это произведение не действует на территории Российской Федерации, поскольку это произведение не удовлетворяет положениям статьи 1256 Гражданского кодекса Российской Федерации о территории обнародования, о гражданстве автора и об обязательствах по международным договорам.
+</p><p>Это произведение находится также в <a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Справка:Общественное достояние">общественном достоянии</a> в США (<i><a href="https://en.wikisource.org/wiki/Help:Public_domain" class="extiw" title="en:Help:Public domain">public domain</a></i>), поскольку оно было опубликовано до 1 января 1931 года.
+</p>
+</td>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Russia.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/60px-Flag_of_Russia.svg.png" decoding="async" width="60" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/120px-Flag_of_Russia.svg.png 1.5x" data-file-width="900" data-file-height="600" /></a></span>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="ИЗЪ_ЖИЗНИ_ГЛУХИХЪ_УЛИЦЪ."><span id=".D0.98.D0.97.D0.AA_.D0.96.D0.98.D0.97.D0.9D.D0.98_.D0.93.D0.9B.D0.A3.D0.A5.D0.98.D0.A5.D0.AA_.D0.A3.D0.9B.D0.98.D0.A6.D0.AA."></span>ИЗЪ ЖИЗНИ ГЛУХИХЪ УЛИЦЪ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;action=edit&amp;section=1" title="Редактировать раздел «ИЗЪ ЖИЗНИ ГЛУХИХЪ УЛИЦЪ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<center>Разсказы <b>Артура Моррисона.</b></center>
+<center>(Переводъ съ англійскаго <b>А. Анненской).</b></center>
+<div class="mw-heading mw-heading3"><h3 id="ВВЕДЕНІЕ._Улица."><span id=".D0.92.D0.92.D0.95.D0.94.D0.95.D0.9D.D0.86.D0.95._.D0.A3.D0.BB.D0.B8.D1.86.D0.B0."></span>ВВЕДЕНІЕ. <br />Улица.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;action=edit&amp;section=2" title="Редактировать раздел «ВВЕДЕНІЕ. Улица.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Наша улица находится на&#160;восточной сторонѣ, на&#160;Эстъ-Эндѣ. Нечего говорить на&#160;восточной сторонѣ чего, это само собой разумѣется. Эстъ-Эндъ большой городъ, пользующійся извѣстностью не&#160;менѣе всякаго другого города, построеннаго человѣческими руками. Но&#160;кто знаетъ Эстъ-Эндъ?
+</p><p>— Да&#160;это тамъ, за&#160;Корнгиллемъ, пройдя Леденгаль-стритъ, — скажетъ одинъ; — это прегадкое мѣсто: я&#160;ходилъ туда разъ съ однимъ священникомъ; тамъ масса грязныхъ улицъ, на&#160;которыхъ копошатся какія-то&#160;человѣческія существа; тамъ развратные мужчины и&#160;женщины живутъ однимъ только джиномъ, воротники и&#160;чистыя рубашки — неизвѣстная роскошь, всѣ ходятъ съ подбитыми глазами, и&#160;никто никогда не&#160;причесываетъ волосъ.
+</p><p>— Эстъ-Эндъ, — скажетъ другой, — это мѣсто, гдѣ живутъ рабочіе безъ работы. А&#160;рабочіе безъ работы — это существа, не&#160;выпускающія&#160;изо рта глиняной трубки <i>и</i> ненавидящія&#160;мыло; они&#160;иногда появляются цѣлыми толпами въ Гайдъ-паркѣ и&#160;постоянно судятся въ сосѣднихъ полицейскихъ судахъ за&#160;преступленія, совершенныя въ пьяномъ видѣ.
+</p><p>Третій знаетъ Эстъ-Эндъ, какъ то&#160;мѣсто, изъ котораго приходятъ просительныя письма разныхъ попрошаекъ. Тамошнимъ жителямъ вѣчно не&#160;хватаетъ денегъ на&#160;покупку угля и&#160;теплаго платья и&#160;всѣмъ имъ почему-то&#160;всегда надобно съѣздить на&#160;нѣсколько дней въ деревню. Много у&#160;людей разнообразныхъ, болѣе или&#160;менѣе туманныхъ представленій объ Эсть-Эндѣ, но&#160;каждое изъ этихъ представленій содержитъ въ себѣ лишь нѣкоторое подобіе истины. Правда, въ Эстъ-Эндѣ есть грязныя улицы, такъ&#160;же какъ и&#160;въ Вестъ-Эндѣ; правда, тамъ есть бѣдность и&#160;нищета, какъ она есть вездѣ, гдѣ скучено много людей, борющихся за&#160;существованіе, но&#160;нельзя сказать, чтобы жители Эстъ-Энда въ общемъ охотно выставляли на&#160;показъ свою нищету.
+</p><p>Наша улица имѣетъ около 150 ярдовъ и&#160;всѣ дома на&#160;ней построены по&#160;одному образцу. Они&#160;не&#160;красивы на&#160;видъ. Небольшой грязноватый кирпичный домъ въ 20 ф. высоты, съ тремя квадратными отверстіями для&#160;оконъ и&#160;однимъ увеличеннымъ для&#160;не представляетъ привлекательнаго зрѣлища; каждая сторона улицы состоитъ изъ нѣсколькихъ десятковъ такихъ домовъ, стоящихъ рядомъ, стѣна&#160;объ стѣну, и&#160;очень похожихъ на&#160;хлѣвы.
+</p><p>Въ концѣ улицы, за&#160;угломъ, есть булочная, свѣчная лавка и&#160;пивная. Ихъ не&#160;видно изъ квадратныхъ отверстій, представляющихъ окна, но&#160;каждый обыватель знаетъ ихъ и&#160;знаетъ, что&#160;свѣчной торговецъ ходитъ по&#160;воскресеньямъ въ церковь и&#160;платитъ за&#160;свое мѣсто. Другой конецъ улицы упирается въ узкій проулокъ, который приводитъ къ улицамъ, менѣе приличнымъ: тамъ на&#160;окнахъ нѣкоторыхъ домовъ виднѣются надписи: «Здѣсь катаютъ бѣлье» и&#160;двери такихъ домовъ остаются открытыми; въ другихъ грязныя женщины сидятъ на&#160;подъѣздахъ, изъ третьихъ дѣвушки въ бѣлыхъ передникахъ ходятъ работать на&#160;фабрикахъ. Нѣсколько такихъ болѣе или&#160;менѣе приличныхъ проулковъ соединяютъ нашу улицу съ сосѣдними.
+</p><p>Жители нашей улицы не&#160;очень шумный и&#160;безпокойный народъ. Они&#160;не&#160;ходятъ въ Гайдъ-паркъ со знаменами и&#160;рѣдко дерутся. Можетъ быть, нѣкоторые изъ нихъ, вслѣдствіе стеченія несчастныхъ обстоятельствъ, и&#160;задолжали поставщикамъ угля и&#160;теплаго платья, но&#160;они скорѣе готовы умереть, чѣмъ объявить открыто объ этомъ позорящемъ обстоятельствѣ.
+</p><p>Нѣкоторые изъ обывателей нашей улицы работаютъ въ докахъ, другіе на&#160;газовомъ заводѣ, третьи на&#160;корабельныхъ дворахъ, уцѣлѣвшихъ около Темзы. Обыкновенно въ каждомъ домѣ помѣщаются двѣ семьи, такъ какъ въ немъ 6 комнатъ; иногда принимаютъ молодыхъ людей жильцами, иногда взрослые сыновья платятъ за&#160;комнату и&#160;столъ. Взрослыя дочери обыкновенно очень рано выходятъ замужъ. Поступать къ кому-нибудь въ услуженіе считается униженіемъ, всякое званіе ниже модистки или&#160;портниха не&#160;совмѣстимо съ личнымъ достоинствомъ. Только въ проулкахъ на&#160;концѣ улицы, тамъ, гдѣ катаютъ бѣлье, можно встрѣтить молодыхъ служанокъ, а&#160;фабричныя дѣвушки живутъ еще дальше, на&#160;самой окраинѣ. Каждое утро, въ половинѣ шестого, на&#160;улицѣ происходитъ странное явленіе. Раздается громовой стукъ у&#160;каждой двери и&#160;изнутри на&#160;него отвѣчаетъ глухой ударъ. Этотъ стукъ производитъ ночной сторожъ или&#160;полицейскій, или&#160;оба вмѣстѣ и&#160;съ помощью его они&#160;оповѣщаютъ рабочихъ, что&#160;пора идти въ доки, на&#160;газовый заводъ, на&#160;корабельный дворъ. Рабочій, желающій чтобы его будили такимъ образомъ, долженъ заплатить за&#160;это 4 пенса въ недѣлю и&#160;изъ за&#160;этихъ четырехъ пенсовъ ведется ожесточенная борьба между ночнымъ сторожемъ и&#160;полицейскимъ. Но&#160;настоящему должность будильника принадлежитъ по&#160;праву ночному сторожу, но&#160;ему приходится уступать часть получки, такъ какъ не&#160;можетъ онъ одновременно, ровно въ половинѣ шестого постучать во&#160;всѣ двери на&#160;пространствѣ ¾ мили. Когда замолкнутъ эти стуки и&#160;удары, поднимается шумъ отворяемыхъ и&#160;затворяемыхъ дверей, рабочіе расходятся по&#160;докамъ, газовымъ заводамъ и&#160;корабельнымъ дворамъ. Нѣсколько позже двери снова отворяются и&#160;множество маленькихъ ножекъ отправляется вдоль мрачныхъ улицъ въ мрачное зданіе безплатной школы. Затѣмъ среди улицы водворяется тишина, прерываемая лишь возней какой-нибудь опрятной хозяйки да&#160;пискомъ больныхъ дѣтей. Черезъ нѣсколько часовъ снова шаги маленькимъ ножекъ, которыя несутъ отцамъ въ доки, на&#160;газовые заводы и&#160;на корабельные дворы обѣдъ, завязанный въ красный платокъ, и&#160;потомъ возвращаются въ школу. Въ домахъ идетъ глухая возня и&#160;перебранки хозяекъ, иногда замѣчается попытка украсить квадратное отверстіе, представляющее окно, и&#160;заботливая рука льетъ воду на&#160;цвѣточный горшечекъ съ тощимъ растеньицемъ. Затѣмъ маленькія&#160;ножки направляются къ продолговатымъ отверстіямъ домовъ, а&#160;за ними слышатся болѣе тяжелые шаги рабочихъ, возвращающихся домой; по&#160;всей улицѣ распространяется запахъ копченыхъ селедокъ; темнѣетъ; мальчики дерутся среди улицу, иногда и&#160;взрослые мужчины затѣваютъ драку на&#160;углу около пивной; всѣ ложатся спать. Такъ проходитъ день на&#160;нашей улицѣ, и&#160;каждый день съ безнадежнымъ однообразіемъ повторяется предъидущій.
+</p><p>Каждый день, исключая только воскресенья. Въ воскресенье утромъ запахъ печенаго хлѣба распространяется изъ полуоткрытыхъ дверей булочной и&#160;маленькія&#160;ножки шагаютъ по&#160;улицѣ, таща свертки съ мясомъ, съ зеленью и&#160;съ пуддингомъ, у&#160;отца хорошій заработокъ, онъ принесъ домой всѣ полученныя деньги, и&#160;маленькія&#160;ножки счастливы и&#160;щеголяютъ въ воскресныхъ сапожкахъ; а&#160;какъ зато жалки ножки въ истоптанныхъ башмачкахъ, поддерживающія маленькія фигурки въ поношенныхъ, будничныхъ платьяхъ: у&#160;отца нѣтъ работы, или&#160;онъ боленъ, или&#160;запилъ, и&#160;воскресный обѣдъ готовится дома, а, можетъ быть, и&#160;совсѣмъ не&#160;готовится.
+</p><p>Въ воскресенье, утромъ, двое или&#160;трое отцовъ семейства появляются въ удивительно парадныхъ черныхъ сюртукахъ съ побѣлѣвшими швами. Около и&#160;сзади нихъ выступаютъ неутомимыя маленькія&#160;ножки и&#160;изъ подъ старенькихъ бархатныхъ шапочекъ и&#160;соломенныхъ шляпокъ выглядываютъ необыкновенно торжественныя личики, лоснящіяся отъ усиленнаго мытья. Разодѣтые такимъ образомъ, они&#160;важнымъ шагомъ направляются по&#160;мрачнымъ переулкамъ въ мрачную молельню диссидентовъ, гдѣ встрѣчаютъ другихъ людей, одѣтыхъ такъ&#160;же нарядно и&#160;выступающихъ такъ&#160;же важно; часа два проводятъ они&#160;въ молельнѣ, слушая, какъ проповѣдникъ грозитъ имъ всѣми муками ада.
+</p><p>Большинство мужчинъ проводитъ воскресное утро лежа въ постели полуодѣтыми и&#160;читая воскресную газету; впрочемъ, нѣкоторыхъ изъ нихъ хозяйки выгоняютъ изъ дома, чтобы они&#160;не мѣшали домашней работѣ, и&#160;они стоятъ кучкой на&#160;углу улицы и&#160;ждутъ, когда откроется пивная. Такъ проходитъ воскресенье на&#160;этой улицѣ, и&#160;каждое воскресенье похоже на&#160;всѣ остальныя, однообразіе будней прерывается однообразіемъ праздниковъ. Для&#160;женщинъ, впрочемъ, воскресенье не&#160;отличается отъ другихъ дней, а&#160;если отличается, то&#160;только лишнею работою; для&#160;нихъ однообразное теченіе жизни прерывается днями стирки бѣлья.
+</p><p>Никакое событіе внѣшняго міра не&#160;отражается на&#160;нашей улицѣ. Государства могутъ возвышаться и&#160;распадаться; а&#160;здѣсь безцвѣтное сегодня идетъ своимъ чередомъ въ теченіе 24 часовъ точно такъ&#160;же, какъ шло вчера и&#160;пойдетъ завтра. Во&#160;внѣшнемъ мірѣ, можетъ быть, происходятъ борьба партій, войны, ожиданія&#160;войны, общественныя торжества; здѣсь шаги маленькихъ ножекъ не&#160;ускоряются и&#160;не останавливаются. Маленькія женщины — дѣвочки, съ материнскою заботливостью относящіяся ко&#160;всѣмъ мальчикамъ и&#160;дѣвочкамъ моложе себя, по&#160;прежнему ходятъ на&#160;рынокъ съ большими корзинами и&#160;считаютъ цѣну на&#160;свинину самымъ важнымъ міровымъ вопросомъ. Ничто не&#160;волнуетъ нашей улицы, ничто, кромѣ развѣ забастовки.
+</p><p>Никто здѣсь не&#160;смѣется; жизнь представляется всѣмъ слишкомъ серьезнымъ дѣломъ, никто не&#160;поетъ. Одинъ разъ здѣсь появилась женщина, которая пѣла, молодая женщина изъ деревни. Но&#160;у&#160;нея родились дѣти и&#160;голосъ ея ослабѣлъ. Потомъ ея мужъ умеръ, и&#160;она перестала пѣть. Ее выгнали изъ дома; она собрала своихъ дѣтей и&#160;навсегда ушла изъ этой улицы. Прочія&#160;женщины относились къ ней презрительно; онѣ называли ее «безпомощной».
+</p><p>Одно изъ квадратныхъ отверстій на&#160;этой улицѣ, отверстіе, находящееся въ нижнемъ этажѣ, оказывается при&#160;ближайшемъ разсмотрѣніи&#160;не похожимъ на&#160;остальныя. Очевидно, его пытались превратить въ окно магазина. Полдюжины свѣчей, нѣсколько свертковъ сахару, нѣсколько копченыхъ селедокъ, мотокъ шнурковъ и&#160;двѣ три связки растопокъ составляютъ весь запасъ товара, который по&#160;ночамъ освѣщается маленькой керосиновой лампочкой или&#160;свѣчей. Здѣсь живетъ высокая сухопарая вдова съ впалыми красными глазами. У&#160;нея есть и&#160;другіе источники дохода, кромѣ торговли свѣчами и&#160;шнурками: она днемъ стираетъ бѣлье, а&#160;ночью шьетъ дешевыя рубашки. Двое «молодыхъ жильцовъ» занимаютъ верхнія комнаты ея дома, дѣти ея спятъ въ задней комнатѣ, а&#160;сама она, повидимому, нигдѣ не&#160;спитъ. Полицейскій не&#160;стучитъ утромъ у&#160;ея дверей: вдова сама будитъ своихъ жильцовъ, и&#160;когда вся улица уже спить, въ ея окнѣ все еще свѣтится огонь и&#160;иголка ея быстро двигается. Это молчаливая женщина, она рѣдко разговариваетъ съ сосѣдями, у&#160;нея и&#160;безъ того много дѣла; женщина съ твердымъ характеромъ, благотворителямъ было&#160;бы&#160;неудобно, даже, пожалуй, небезопасно, предложить ей угля или&#160;теплое одѣяло. Именно она-то&#160;и выказывала наибольшее презрѣніе къ безпомощной женщинѣ, которая пѣла; это недружелюбіе имѣло отчасти и&#160;личную подкладу: по&#160;дорогѣ на&#160;рынокъ пѣвшая женщина раза два встрѣтила вдову у&#160;дверей кассы ссудъ.
+</p><p>Въ общемъ нашу улицу нельзя назвать грязною. Домъ вдовы одинъ изъ самыхъ чистыхъ домовъ и&#160;ея дѣти тоже очень чисты. Другой домъ, еще болѣе опрятный, управляется одною деспотическою шотландкой, которая не&#160;пускаетъ ни&#160;одного разносчика ступить на&#160;свою выбѣленную лѣстницу и&#160;вытираетъ ручку дверей всякій разъ, какъ кто-нибудь до&#160;нея дотронется. Шотландка нѣскольке разъ пыталась отдавать комнаты «молодымъ жильцамъ», во&#160;всѣ эти попытки оканчивались бурными ссорами.
+</p><p>На&#160;нашей улицѣ нѣтъ ни&#160;одного дома безъ дѣтей, и&#160;число дѣтей постоянно увеличивается. Девять десятыхъ визитовъ врача имѣютъ отношеніе именно къ этому увеличенію, служащему темой для&#160;таинственныхъ бесѣдъ женщинъ около заборовъ. Безпрестанно являются на&#160;свѣтъ новыя маленькіе пришельцы, чтобы вести такую&#160;же плоскую и&#160;безцвѣтную жизнь, какую ведетъ вся улица. Дежурный акушеръ входить въ дверь одного изъ прямоугольныхъ строеній, слабый крикъ заявляетъ, что&#160;родился новый человѣчекъ, и&#160;этотъ человѣчекъ будетъ въ потѣ лица таскать жалкое существованіе по&#160;старой избитой колеѣ. Черезъ нѣсколько лѣтъ послышатся шаги маленькихъ ножекъ въ школу; потомъ лучъ солнца освѣтитъ молодую жизнь, такъ какъ любовь заглядываетъ даже въ нашу улицу; послѣ этого шаги маленькихъ ножекъ, уже новыхъ ножекъ, стирка, домашніе хлопоты, пустой горшокъ цвѣтовъ; конецъ утомительнаго трудового дня; послѣднее возвращеніе домой; ночь, сонъ.
+</p><p>Лучъ любви, освѣщающій какой-нибудь уголокъ нашей улицы, обыкновенно является въ раннюю пору жизни и&#160;бываетъ очень блѣднымъ. Онъ является рано, потому что&#160;это единственная свѣтлая точка, какую видитъ улица, на&#160;нее всѣ смотрятъ, о&#160;ней всѣ говорятъ. Мальчики и&#160;дѣвочки ходятъ подъ руку взадъ и&#160;впередъ по&#160;улицѣ въ такомъ возрастѣ, когда у&#160;нихъ еще естественно не&#160;исчезъ интересъ къ игрѣ въ шары и&#160;въ куклы. Они «водятъ компанію», по&#160;мѣстному выраженію и&#160;обычаю. Молодые люди обыкновенно начинаютъ съ того, что&#160;ходятъ парами. При&#160;этомъ они&#160;не обмѣниваются обѣщаніями, не&#160;принимаютъ на&#160;себя никакихъ обязательствъ, не&#160;объясняются въ любви. Они&#160;шагаютъ взадъ и&#160;впередъ по&#160;улицѣ обыкновенно молча или&#160;болтая о&#160;пустякахъ. Никакія танцовальныя собранія, никакія катанья и&#160;пикники не&#160;устраиваются для&#160;сближенія&#160;ихъ; имъ приходится или&#160;ходить по&#160;улицѣ, или&#160;совсѣмъ не&#160;быть знакомыми. Если какой-нибудь парѣ надоѣстъ ходить вмѣстѣ, она расходится и&#160;каждый начинаетъ ходить съ кѣмъ-нибудь другимъ. Когда такимъ образомъ юноша найдетъ себѣ подходящую подругу, онъ покупаетъ кольца и&#160;сватается по&#160;настоящему. Но&#160;до&#160;этого сватанья молодые люди нѣсколько мѣсяцевъ гуляютъ вмѣстѣ. Оба періода ухаживанья одинаково называются «вести компанію», но&#160;заинтересованныя лица строго различаютъ ихъ одинъ отъ другого. Впрочемъ, и&#160;въ періодъ совмѣстнаго гулянья считается безчестнымъ гулять не&#160;съ однимъ или&#160;съ одною, а&#160;съ нѣсколькими заразъ. По&#160;сравненію съ любовью въ другихъ мѣстахъ, любовь въ нашей улицѣ кажется очень жалкой. Она и&#160;начинается, и&#160;кончается слишкомъ скоро.
+</p><p>Никто изъ нашей улицы не&#160;ходитъ въ театръ. Идти въ театръ далеко; кромѣ того, это стоитъ денегъ, а&#160;на деньги лучше купить хлѣба, или&#160;пива, или&#160;сапоги. Кромѣ того, тѣ обыватели, которые по&#160;воскресеньямъ облекаются въ черные сюртуки, считаютъ театръ грѣхомъ. Никто у&#160;насъ не&#160;читаетъ ни&#160;романовъ, ни&#160;поэтическихъ произведеній. Самыя слова эти здѣсь неизвѣстны. Воскресная газета, получаемая въ нѣкоторыхъ домахъ, доставляетъ запасъ чтенія, удовлетворяющій всѣ улицы. Случалось иногда, что&#160;среди вещей какой-нибудь подроставшей дѣвушки находили дешевенькій романъ, но&#160;его тотчасъ&#160;же конфисковали. Воздухъ этой улицы неблагопріятенъ для&#160;идеальныхъ стремленій.
+</p><p>Въ какой части Эстъ-Энда находится наша улица? Во&#160;всѣхъ. Она составляетъ одно звено въ длинной, прочно спаянной цѣпи, одинъ изъ переходовъ запутаннаго лабиринта. Эта улица съ своими квадратными окнами тянется на&#160;нѣсколько сотъ миль. Мы, правда, изображаемъ ее въ небольшомъ масштабѣ, но&#160;на всемъ свѣтѣ нѣтъ улицы, которую съ большимъ правомъ можно&#160;бы&#160;назвать единственною въ своемъ родѣ, вслѣдствіе ея утомительнаго однообразія, полнаго отсутствія&#160;въ ней чего-либо выдающагося, чего-либо составляющаго красу жизни.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="За_занавѣсками."><span id=".D0.97.D0.B0_.D0.B7.D0.B0.D0.BD.D0.B0.D0.B2.D1.A3.D1.81.D0.BA.D0.B0.D0.BC.D0.B8."></span>За&#160;занавѣсками.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;action=edit&amp;section=3" title="Редактировать раздел «За занавѣсками.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Улица, гдѣ онѣ жили, ничѣмъ не&#160;отличалась отъ прочихъ улицъ Эстъ-Энда: тѣ же два параллельныхъ ряда кирпичныхъ домовъ съ отверстіями для&#160;оконъ и&#160;дверей. Но&#160;въ концѣ одного изъ рядовъ, тамъ, гдѣ, по&#160;мнѣнію архитектора, не&#160;хватило мѣста для&#160;дома въ шесть комнатъ, онъ построилъ странный маленькій домикъ — въ три комнаты съ прачечной. Въ домикѣ была зеленая дверь съ превосходно вычищеннымъ молоткомъ, а&#160;въ нижнемъ окнѣ красовался подъ стекляннымъ колпакомъ конусообразный букетъ восковыхъ плодовъ винограда и&#160;яблоковъ.
+</p><p>Хотя домикъ былъ меньше остальныхъ, но&#160;онъ всегда пользовался нѣкоторымъ уваженіемъ. Уже одно то, что&#160;онъ отступалъ отъ общаго образца, придавало ему значеніе. Домъ, хотя и&#160;маленькій, но&#160;въ которомъ живетъ всего одна самья, занимаетъ обыкновенно почетное мѣсто среди домовъ, въ которыхъ ютятся по&#160;двѣ и&#160;болѣе семьи. Въ данномъ случаѣ почетное мѣсто домика, по&#160;общему мнѣнію, особенно укрѣплялось за&#160;нимъ, благодаря восковымъ плодамъ на&#160;окнѣ. Когда жильцы-хозяева занимаютъ однѣ цѣлый домъ и&#160;содержатъ его чисто; когда они&#160;не стоятъ у&#160;дверей и&#160;не сплетничаютъ съ сосѣдками на&#160;задверкахъ; когда на&#160;окнѣ ихъ красуется чисто обметенный стеклянный колпакъ, прикрывающій плоды, въ особенности, когда эти хозяева двѣ женщины, никому не&#160;разсказывающія&#160;о своихъ дѣлахъ, — онѣ прослывутъ за&#160;особъ, пользующихся благосостояніемъ, на&#160;нихъ смотрятъ отчасти съ почтеніемъ, отчасти съ завистью, за&#160;ними наблюдаютъ.
+</p><p>Сосѣди знали въ общихъ чертахъ исторію Перкинсовъ, матери и&#160;дочери, а&#160;разныя подробности этой исторіи&#160;при случаѣ сами сочиняли. Перкинсъ при&#160;жизни былъ корабельнымъ плотникомъ; въ то&#160;время корабельные плотники считались аристократами среди рабочихъ и&#160;работали не&#160;болѣе трехъ, четырехъ дней въ недѣлю. Перкинсъ работалъ не&#160;больше остальныхъ; женился на&#160;дочери ремесленника и&#160;тратилъ деньги, не&#160;скупясь. Вскорѣ послѣ его смерти, вдова и&#160;дочь его переѣхали жить въ маленькій домикъ и&#160;держали въ комнатѣ надъ прачечной школу для&#160;дочерей лавочниковъ. Но&#160;когда увеличилось число безплатныхъ школъ и&#160;лавочники перестали глядѣть на&#160;нихъ съ презрѣніемъ, число ученицъ въ школѣ миссисъ Перкинсъ стало падать и&#160;дошло до&#160;двухъ — трехъ. Въ это время съ миссисъ Перкинсъ случилось несчастіе. Какой-то&#160;прохожій напалъ на&#160;нее вечеромъ на&#160;улицѣ, ударилъ ее по&#160;лицу, толкнулъ въ грудь, повалилъ на&#160;землю, билъ и&#160;топталъ ногами минутъ пять. Впослѣдствіи&#160;онъ оправдывался тѣмъ, что&#160;въ темнотѣ принялъ ее за&#160;свою мать. Изъ жителей улицы одна только миссисъ Вебстеръ — диссидентка — выразила опредѣленное мнѣніе по&#160;поводу этого происшествія: она нашла, что&#160;это наказаніе за&#160;гордость, такъ какъ миссисъ Перкинсъ ходила въ церковь, а&#160;не въ диссидентскую молельню. Послѣ этого никто изъ сосѣдей никогда больше не&#160;видалъ миссисъ Перкинсъ. Докторъ сдѣлалъ для&#160;несчастной все, что&#160;можно было, и&#160;оставилъ ее навсегда прикованной къ постели, въ самомъ безпомощномъ состояніи. Ея дочь была дѣвушка лѣтъ 30, съ энергичнымъ лицомъ и&#160;тощей фигурой, на&#160;которой неизмѣнное, черное платье висѣло, какъ на&#160;вѣшалкѣ; нѣкоторые сосѣди называли ее миссисъ Перкинсъ, такъ какъ не&#160;могли обращаться съ этимъ именемъ къ ея матери. Между тѣмъ школа окончательно перестала существовать, хотя миссъ Перкинсъ дѣлала попытки возобновить ее и&#160;даже стала для&#160;этой цѣли&#160;ходить въ диссидентскую молельню.
+</p><p>Затѣмъ, однажды, надъ вѣткою восковымъ плодовъ появился въ окнѣ билетикъ съ надписью: «Уроки фортепіано». Улица посмотрѣла на&#160;это съ неодобреніемъ. Это было публичнымъ заявленіемъ того, что&#160;у Перкинсовъ есть фортепіано, когда у&#160;другихъ нѣтъ. Кромѣ того, это показывало жадность со стороны людей, которые одни нанимали цѣлый домъ съ красными занавѣсками и&#160;съ букетомъ восковыхъ плодовъ на&#160;окнѣ въ гостиной, людей, которые имѣли&#160;возможность закрыть школу вслѣдствіе разстроеннаго здоровья. Никто никогда не&#160;заявлялъ желанія&#160;брать уроки музыки, кромѣ дочери одного отставного офицера; она платила 6 пенсовъ за&#160;урокъ, чтобы посмотрѣть, можетъ&#160;ли&#160;выучиться играть, и&#160;черезъ три недѣли&#160;бросила уроки. Билетикъ красовался на&#160;окнѣ еще недѣли&#160;двѣ, и&#160;никто изъ сосѣдей не&#160;видалъ, какъ однажды ночью подъѣхала телѣга и&#160;увезла старое фортепіано съ разбитыми клавишами, которое Перкинсъ купилъ 20 лѣтъ тому назадъ. Миссисъ Кларкъ, вдова, сидѣвшая по&#160;ночамъ за&#160;шитьемъ, можетъ быть, слышала шумъ и&#160;выглянула изъ окна, но&#160;она, во&#160;всякомъ случаѣ, никому ничего не&#160;сказала. Билетикъ былъ снятъ съ окна на&#160;слѣдующее утро, но&#160;плоды по&#160;прежнему гордо красовались на&#160;немъ. Послѣ этого занавѣски на&#160;окнахъ стали плотно сдвигаться, такъ какъ дѣти, игравшія&#160;на улицѣ, часто прикладывали лица къ нижней части стекла и&#160;дѣлали свои замѣчанія&#160;по поводу фортепіано, креселъ, обитыхъ шерстяной матеріей, антимакассаровъ, украшеній на&#160;шкафу и&#160;ломбернаго стола, на&#160;которомъ лежала фамильная библія&#160;и альбомъ.
+</p><p>Вслѣдъ затѣмъ Перкинсы совсѣмъ перестали покупать что-либо въ лавкахъ, по&#160;крайней мѣрѣ, въ сосѣднихъ. Онѣ никогда не&#160;были щедры на&#160;покупки, говорили, что&#160;миссъ Перкинсъ становится еще скупѣе, чѣмъ была ея мать, которая всегда отличалась скупостью. Образъ жизни Перкинсовъ, очевидно, измѣнялся къ худшему: въ немъ замѣчалось обидное стремленіе замкнуться, уединиться отъ остальной улицы. Разъ какъ-то&#160;къ нимъ зашелъ настоятель молельни, какъ онъ обыкновенно заходилъ къ своимъ прихожанамъ; его не&#160;пустили дальше двери; онъ ушелъ въ негодованіи&#160;и не&#160;повторялъ своего визита. Миссъ Перкинсъ тоже перестала ходить въ молельню.
+</p><p>Потомъ сдѣлано было еще открытіе. Тощая фигура миссъ Перкинсъ рѣдко появлялась на&#160;улицѣ и&#160;то по&#160;большей части вечеромъ; при&#160;этомъ она обыкновенно несла какіе-то&#160;свертки разной величины. Одинъ разъ среди бѣлаго дня она шла, держа въ рукахъ что-то&#160;тщательно завернутое въ газетную бумагу, и, проходя мимо окна магазина, гдѣ стояли миссисъ Вебстеръ и&#160;миссисъ Джонсъ, какъ-то&#160;заторопилась, наступила на&#160;оторванную подошву своего башмака и&#160;упала. Газета разорвалась и&#160;хотя бѣдной женщинѣ удалось собрать и&#160;снова завернуть все, что&#160;она несла, но&#160;свидѣтельницы ея паденія&#160;успѣли&#160;разсмотрѣть, что&#160;это были дешевыя рубашки, скроенныя и&#160;приготовленныя для&#160;шитья. Вся улица узнала это въ тотъ&#160;же часъ и&#160;всѣ рѣшили, что&#160;со стороны людей, имѣющихъ средства, стыдъ и&#160;срамъ отнимать хлѣбъ у&#160;неимущихъ, что&#160;этому надобно положить конецъ. Миссисъ Вебстеръ, всегда готовая вмѣшаться во&#160;всякое дѣло, взялась развѣдать, откуда получается эта работа, и&#160;замолвить кому слѣдуетъ словечко не&#160;поводу ея.
+</p><p>Между тѣмъ никто не&#160;замѣчалъ, что&#160;гораздо больше вещей выносилось изъ дому, чѣмъ вносилось въ него. Даже ручной катокъ былъ вынесенъ какъ-то&#160;вечеромъ незамѣтно, потому что&#160;дверь домика выходила на&#160;уголъ, а&#160;въ этотъ часъ почти всѣ сидѣли&#160;по домамъ. Разъ, утромъ, миссъ Перкинсъ шла быстрымъ шагомъ по&#160;одной изъ сосѣднихъ улицъ и&#160;держала въ рукахъ какую-то&#160;большую треугольную вещь, завернутую въ тряпку, какъ вдругъ на&#160;встрѣчу ей вышелъ изъ-за&#160;угла агентъ комитета попеченія&#160;о бѣдныхъ. Этотъ агентъ имѣлъ свой кодексъ этикета, который ему приходилось нѣсколько нарушать ради Перкинсовъ. Онъ обыкновенно привѣтствовалъ своихъ знакомыхъ женскаго пола (не&#160;тѣхъ, съ которыми имѣлъ дѣла по&#160;своей профессіи) любезнымъ кивкомъ головы. При&#160;встрѣчѣ съ женой священника онъ приподнималъ шляпу и&#160;тотчасъ&#160;же хмурился, если видѣлъ, что&#160;за нимъ наблюдаетъ чей-либо насмѣшливый глазъ. Относительно Перкинсовъ онъ чувствовалъ, что&#160;онѣ заслуживаютъ больше чѣмъ простой кивокъ головой, хотя, конечно, было&#160;бы&#160;нелѣпо&#160;равнять ихъ съ женой священника. Вслѣдствіе этого, онъ придумалъ такой компромиссъ: онъ прикладывалъ два пальца къ полямъ шляпы и&#160;затѣмъ быстро опускалъ руку. На&#160;этотъ разъ онъ приготовился сдѣлать такой&#160;же поклонъ, какъ вдругъ, къ его удивленію, миссъ Перкинсъ, замѣтивъ его приближеніе, покраснѣла, отвернулась и&#160;быстро прошла мимо него, все время глядя на&#160;стѣну дома. Агентъ благотворительнаго комитета опустилъ руку, не&#160;успѣвъ коснуться шляпы, остановился и&#160;смотрѣлъ ей вслѣдъ, пока она завернула за&#160;уголъ, стараясь держать свой свертокъ ближе къ стѣнѣ. Послѣ этого онъ вскинулъ за&#160;плечо зонтикъ и&#160;пошелъ своей дорогой, высоко поднявъ голову и&#160;гордо оглядываясь по&#160;сторонамъ: благотворительные агенты не&#160;привыкли встрѣчать такое невѣжливое обращеніе.
+</p><p>Вскорѣ послѣ этого въ домикъ зашелъ мистеръ Кручъ, домовладѣлецъ. Онъ рѣдко заходилъ туда, такъ какъ въ послѣднее время миссъ Перкинсъ обыкновенно приносила миссисъ Кручъ каждую субботу вечеромъ свои 5 шиллинговъ квартирной платы. Онъ съ удовольствіемъ посмотрѣлъ на&#160;чисто вымытый подъѣздъ и&#160;на плоды въ окнѣ, за&#160;которыми занавѣсы были плотно задвинуты и&#160;сколоты булавкой. Онъ повернулъ за&#160;уголъ и&#160;поднялъ блестящій молотокъ. Миссъ Перкинсъ пріотворила дверь, остановилась на&#160;порогѣ и&#160;начала что-то&#160;говорить.
+</p><p>Онъ смутился.
+</p><p>— Извините, пожалуйста, я&#160;забылъ… Я&#160;не&#160;зайду сегодня… пусть останется до&#160;будущей недѣли… не&#160;безпокойтесь!.. — и&#160;онъ пустился чуть не&#160;бѣгомъ по&#160;улицѣ пыхтя, отдуваясь, тараща глаза.
+</p><p>— Эта женщина положительно напугала меня, — объяснялъ онъ миссисъ Кручъ. — У&#160;нея что-то&#160;неладное въ глазахъ и&#160;лицо точно у&#160;мертвеца. Она не&#160;приготовила платы за&#160;квартиру, я&#160;это замѣтилъ прежде, чѣмъ она начала говорить, и&#160;потому поскорѣй ушелъ отъ нея.
+</p><p>— Не случилось&#160;ли&#160;чего-нибудь со старой лэди? — замѣтила миссисъ Кручъ; — во&#160;всякомъ случаѣ, я&#160;надѣюсь, онѣ заплатятъ!
+</p><p>Мужъ былъ тоже увѣренъ, что&#160;заплатятъ.
+</p><p>Никто не&#160;видалъ Перкинсовъ за&#160;слѣдующей недѣлѣ. Плоды по&#160;прежнему стояли на&#160;окнѣ, но&#160;какъ будто запылились послѣ вторника. Несомнѣнно, что&#160;подъѣздъ и&#160;лѣстница не&#160;были вымыты. Пятница, суббота и&#160;воскресенье потонули въ густомъ темномъ туманѣ, среди котораго люди теряли дорогу, падали въ доки, натыкались на&#160;углы зданій. Точно огромное пятно легло на&#160;эти дни и&#160;вычеркнуло ихъ изъ календаря. Въ понедѣльникъ, утромъ, туманъ нѣсколько разсѣялся, и&#160;въ то&#160;время, когда женщины начали выходить на&#160;улицу и&#160;вытирать ступеньки своихъ лѣстницъ, мистеръ Кручъ появился у&#160;зеленой двери. Онъ поднялъ молотокъ, потускнѣвшій и&#160;отсырѣвшій отъ тумана, и&#160;тихонько постучалъ. Отвѣта не&#160;было. Онъ постучалъ еще разъ погромче и&#160;ждалъ, прислушиваясь. Но&#160;внутри не&#160;замѣтно было ни&#160;движенія, ни&#160;звука. Онъ три раза со всей силы ударилъ молоткомъ и&#160;подошелъ къ окну. Плоды стояли на&#160;прежнимъ мѣстѣ, стекляный колпакъ какъ-будто немного потускнѣлъ, занавѣси сзади него были тщательно заколоты булавками, такъ что&#160;черезъ нихъ ничего нельзя было видѣть. Онъ постучалъ пальцами въ окно и&#160;обошелъ съ другой стороны дома, чтобы заглянуть въ окно второго этажа. На&#160;этомъ окнѣ были полосатыя сторы и&#160;красивая коротенькая занавѣска; но&#160;человѣческаго лица не&#160;видно было и&#160;тамъ; женщины, мывшія&#160;лѣстницы, бросили работу и&#160;смотрѣли, чѣмъ кончится дѣло, а&#160;одна изъ сосѣдокъ, жившая напротивъ домика, пришла и&#160;заявила, что&#160;уже цѣлую недѣлю не&#160;видала миссъ Перкинсъ и&#160;что сегодня, утромъ, навѣрно никто не&#160;выходилъ изъ домика. Мистеръ Кручъ взволновался и&#160;сталъ смотрѣть сквозь замочную скважину.
+</p><p>Въ концѣ концовъ открыли съ помощью ножа задвижку оконной рамы, отодвинули плоды и&#160;вошли. Комната была совершенно пуста, ихъ шаги и&#160;голоса раздавались точно въ необитаемомъ домѣ. Прачечная была также совсѣмъ пуста, но&#160;чисто вымыта и&#160;окно ея было завѣшано сторой. Въ маленькомъ корридорчикѣ и&#160;на лѣстницѣ ничего не&#160;было. Въ задней комнатѣ наверху стояла ставня отъ окна и&#160;ничего больше. Въ передней комнатѣ съ полосатыми сторами и&#160;коротенькой занавѣской была устроена постель изъ тряпокъ и&#160;старыхъ газетъ; кромѣ того тамъ, стоялъ деревянный сундукъ. На&#160;постели и&#160;на сундукѣ лежали трупы мертвыхъ женщинъ.
+</p><p>Обѣ онѣ умерли, по&#160;опредѣленію доктора, отъ истощенія вслѣдствіе недостатка пищи. Женщина на&#160;постели, питавшаяся нѣсколько лучше, умерла на&#160;одинъ или&#160;на два дня раньше. У&#160;другой замѣтно было такое съуженіе пищеварительныхъ органовъ, какого докторъ не&#160;встрѣчалъ никогда раньше въ своей практикѣ. Было произведено судебное слѣдствіе и&#160;улица стала знаменитостью на&#160;цѣлый день: газеты помѣстили рисунки съ изображеніемъ домика, передовыя статьи требовали отмѣны чего-то. Потомъ все вошло въ обычную колею. Неизвѣстно, выручилъ&#160;ли&#160;мистеръ Кручъ за&#160;восковые плоды и&#160;за оконныя занавѣси причитавшуюся ему квартирную плату за&#160;двѣ недѣли.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Неблагодарный_Симмонсъ."><span id=".D0.9D.D0.B5.D0.B1.D0.BB.D0.B0.D0.B3.D0.BE.D0.B4.D0.B0.D1.80.D0.BD.D1.8B.D0.B9_.D0.A1.D0.B8.D0.BC.D0.BC.D0.BE.D0.BD.D1.81.D1.8A."></span>Неблагодарный Симмонсъ.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;action=edit&amp;section=4" title="Редактировать раздел «Неблагодарный Симмонсъ.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Гнусный поступокъ Симмонса съ женой до&#160;сихъ поръ приводитъ въ глубокое недоумѣніе всѣхъ сосѣдей. До&#160;тѣхъ поръ женщины считали его образцовымъ мужемъ, а&#160;что миссисъ Симмонсъ была примѣрно добросовѣстной женой, это не&#160;подлежало сомнѣнію. Она трудилась для&#160;этого человѣка, она заботилась о&#160;немъ больше, чѣмъ можетъ требовать какой-либо мужъ, — утверждали всѣ женщины нашей улицы. Должно быть, на&#160;него просто нашелъ припадокъ безумія!
+</p><p>Прежде чѣмъ выйти замужъ за&#160;Симмонса, миссисъ Симмонсъ была вдовой мистера Форда. Фордъ поступилъ кочегаромъ на&#160;одинъ океанскій пароходъ, и&#160;пароходъ этотъ погибъ вмѣстѣ со всѣмъ экипажемъ. Вдова его находила, что&#160;это достойное наказаніе Форду за&#160;его строптивый нравъ; именно благодаря этой строптивости онъ и&#160;взялъ мѣсто простого кочегара, хотя по&#160;своимъ способностямъ могъ&#160;бы&#160;быть машинистомъ. Прошло уже цѣлыхъ двѣнадцать лѣтъ съ тѣхъ поръ, какъ мистеръ Фордъ покинулъ ее бездѣтною вдовой; отъ мистера Симмонса у&#160;нея также не&#160;было дѣтей.
+</p><p>Всѣ находили, что&#160;для Симмонса большое счастье имѣть такую дѣятельную жену. Онъ былъ не&#160;дурной плотникъ и&#160;столяръ, но&#160;человѣкъ не&#160;практичный, не&#160;умѣвшій самъ о&#160;себѣ заботиться. Неизвѣстно, что&#160;сталось&#160;бы&#160;съ Томми Симмонсомъ, если&#160;бы&#160;миссисъ Симмонсъ не&#160;взяла его на&#160;свое попеченіе. Это былъ тихій, спокойный человѣкъ съ моложавымъ лицомъ и&#160;рѣдкими бакенбардами. У&#160;него не&#160;было никакихъ пороковъ (послѣ женитьбы онъ бросилъ даже курить) и&#160;миссисъ Симмонсъ привила ему нѣсколько новыхъ добродѣтелей. Каждое воскресенье онъ въ своей высокой шляпѣ торжественно шелъ въ молельню и&#160;бросалъ на&#160;подносъ пенни, который выдавался ему для&#160;этой цѣли&#160;изъ его собственнаго жалованья. Затѣмъ подъ надзоромъ миссисъ Симмонсъ онъ снималъ праздничное платье и&#160;тщательно чистилъ его. Въ субботу послѣ обѣда&#160;онъ терпѣливо и&#160;добросовѣстно чистилъ ножи, вилки, сапоги, кастрюли и&#160;мылъ окна. Во&#160;вторникъ вечеромъ онъ носилъ бѣлье на&#160;катокъ, а&#160;въ субботу, вечеромъ, сопровождалъ миссисъ Симмонсъ за&#160;рынокъ и&#160;несъ ея покупки.
+</p><p>Миссисъ Симмонсъ съ раннихъ лѣтъ отличалась многочисленными добродѣтелями. Она была удивительная хозяйка. Каждый пенни изъ 36 или 38 шиллинговъ, которые Томми получалъ въ недѣлю, тратились съ пользой, и&#160;Томми никогда не&#160;смѣлъ спросить, какую часть этихъ денегъ она откладываетъ на&#160;черный день. Ея опрятность была просто поразительна. Когда Симмонсъ возвращался домой, она встрѣчала его у&#160;подъѣзда; онъ долженъ былъ снять сапоги и&#160;надѣть туфли, причемъ неловко топтался на&#160;одной ногѣ на&#160;холодныхъ плитахъ тротуара. Это дѣлалось потому, что&#160;она мыла лѣстницу и&#160;сѣни&#160;поочередно съ верхней жилицей, а&#160;коверъ на&#160;лѣстницѣ былъ ея собственный. Она зорко присматривала за&#160;мужемъ, когда онъ умывался послѣ работы, чтобы онъ не&#160;забрызгалъ стѣнъ, а&#160;если, не&#160;смотря на&#160;ея бдительность, на&#160;стѣнѣ появлялось пятно, она, не&#160;уставая, напоминала объ этомъ Симмонсу и&#160;подробно объясняла ему, какъ онъ неблагодаренъ и&#160;себялюбивъ. Первое время она всегда сама ходила съ нимъ въ магазинъ готоваго платья и&#160;выбирала ему одежду: вѣдь мужчины такъ глупы, и&#160;продавцы всегда берутъ съ нихъ, что&#160;хотятъ. Но&#160;вскорѣ она отказалась отъ этихъ покупокъ. На&#160;углу одной улицы она нашла человѣка, который дешево продавалъ остатки матерій, и&#160;задумала сама шить платье Симмонсу. Рѣшимость была одною изъ ея основныхъ добродѣтелей и&#160;въ тотъ&#160;же вечеръ она распорола пару стараго платья и&#160;принялась по&#160;ней кроить новую изъ удивительнаго клѣтчатаго твида. Мало того: къ воскресенью платье было готово; Симмонсъ, пораженный удивленіемъ, былъ всунутъ въ него и&#160;отправленъ въ молельню, прежде чѣмъ онъ успѣлъ очнуться. Ему представлялось, что&#160;платье сидитъ на&#160;немъ не&#160;совсѣмъ ловко: панталоны плотно облегали его колѣни&#160;и широко висѣли&#160;внизу ногъ; а&#160;сидя, онъ чувствовалъ подъ собой жесткіе швы и&#160;складки. Воротникъ жилетки подпиралъ ему затылокъ, воротникъ сюртука доходилъ до&#160;самыхъ плечъ, изъ подъ короткаго жилета выставлялось бѣлье. Когда платье обносилось, оно стало нѣсколько удобнѣе, онъ къ нему привыкъ, но&#160;къ чему онъ не&#160;могъ привыкнуть, такъ это къ насмѣшкамъ товарищей; между тѣмъ миссисъ Симмонсъ кроила новыя платья по&#160;старымъ образцамъ собственнаго издѣлія&#160;и такимъ образомъ случайные недостатки перваго произведенія&#160;все упрочивались и&#160;усиливались. Напрасно намекалъ ей Симмсонъ — онъ-таки рѣшился одинъ разъ намекнуть — что&#160;если&#160;бы&#160;она не&#160;брала на&#160;себя лишнюю работу, что&#160;шитье портитъ глазва, то&#160;на Миль-Эндъ-родѣ есть очень дешевый портной, что&#160;можно!!!!
+</p><p>— Толкуй, толкуй себѣ! — прервала она его, — ты думаешь, я&#160;не вижу, что&#160;ты лжешь мнѣ прямо въ глаза! Очень ты заботишься о&#160;моей лишней работѣ! Тебѣ только&#160;бы&#160;сорить деньгами. Ты готовъ, ничего не&#160;зная, бросать ихъ первому встрѣчному портному, а&#160;я-то&#160;дрожу надъ каждымъ пенсомъ, да&#160;мучаюсь цѣлые дни, чтобы не&#160;истратить ничего лишняго. Хороша благодарность, нечего сказать! Другой подумаетъ, что&#160;для тебя деньги разбросаны на&#160;улицѣ, только нагибайся, да&#160;поднимай! И&#160;изъ-за&#160;чего я, право, стараюсь! Лучше&#160;бы&#160;я цѣлые дни валялась на&#160;постели, какъ иныя нѣкоторыя!
+</p><p>Послѣ этого Томасъ Симмонсъ никогда больше не&#160;заговаривалъ о&#160;портныхъ и&#160;даже не&#160;ропталъ, когда она рѣшила сама стричь ему волосы.
+</p><p>Такимъ образомъ мирное счастіе его продолжалось нѣсколько лѣтъ. И&#160;вотъ однажды, въ прекрасный лѣтній вечеръ, миссисъ Симмонсъ взяла корзинку и&#160;отправилась за&#160;какими-то&#160;мелкими покупками, а&#160;Симмонса оставила дома. Онъ перемылъ и&#160;убралъ чайную посуду и&#160;затѣмъ сталъ раздумывать о&#160;новой парѣ панталонъ, конченныхъ сегодня и&#160;висѣвшихъ за&#160;дверью гостиной. Вонъ они&#160;красуются, короткіе въ ногахъ, широкіе въ шагу, кажется, безобразнѣе всѣхъ прежнихъ! Пока онъ смотрѣлъ на&#160;нихъ, въ груди его проснулся и&#160;заговорилъ маленькій демонъ первороднаго грѣха. Ему стало стыдно самого себя, онъ зналъ, какъ онъ долженъ быть благодаренъ женѣ за&#160;эти панталоны и&#160;за всѣ ея прочія&#160;благодѣянія. Но&#160;маленькій демонъ не&#160;умолкалъ и&#160;нашептывалъ ему, какой градъ насмѣшекъ встрѣтитъ его въ мастерской, если онъ придетъ туда въ этихъ панталонахъ.
+</p><p>— Брось ихъ въ помойную яму, — совѣтовалъ, наконецъ, чортикъ, — они&#160;для этого только и&#160;годятся.
+</p><p>Симмонсъ отвернулся, ужасаясь собственной порочности, и&#160;подумалъ, не&#160;перемыть&#160;ли&#160;еще разъ посуду въ видѣ наказанія. Потомъ онъ перешелъ въ заднюю комнату, но&#160;тутъ замѣтилъ, что&#160;дверь на&#160;улицу открыта; вѣроятно, ее забылъ запереть мальчикъ верхнихъ жильцовъ. Миссисъ Симмонсъ никогда не&#160;допускала, чтобы дверь на&#160;улицу стояла открытой, она считала это непорядочнымъ. И&#160;вотъ Симмонсъ спустился внизъ, чтобы она не&#160;разсердилась на&#160;него, когда вернется; запирая дверь, онъ окинулъ взглядомъ улицу.
+</p><p>Какой-то&#160;человѣкъ стоялъ на&#160;троттуарѣ и&#160;пытался заглянуть въ дверь. У&#160;него было смуглое лицо, онъ держалъ руки засунутыми въ карманы панталонъ, а&#160;шляпа его — остроконечная шляпа съ кисточкой на&#160;верхушкѣ, такая, какую моряки носятъ на&#160;берегу, — была сдвинута на&#160;затылокъ. Онъ приблизился на&#160;одинъ шагъ къ двери и&#160;спросилъ:
+</p><p>— А&#160;что, дома миссисъ Фордъ?
+</p><p>Симмонсъ пристально смотрѣлъ на&#160;него секундъ пять.
+</p><p>— Что&#160;такое? — переспросилъ онъ.
+</p><p>— Миссисъ Фордъ бывшая, нынѣшняя миссисъ Симмонсъ, дома она?
+</p><p>— Нѣтъ, — отвѣчалъ Симмонсъ, — ея нѣтъ дома.
+</p><p>— А&#160;вы не&#160;мужъ&#160;ли&#160;ея будете?
+</p><p>— Да, мужъ.
+</p><p>Незнакомецъ вынулъ трубку изо рта и&#160;долго молча усмѣхался.
+</p><p>— Ну, — сказалъ онъ, наконецъ, — вы, кажется, именно такой человѣкъ, который долженъ былъ придтись ей по&#160;вкусу, — и&#160;онъ снова усмѣхнулся. Затѣмъ, видя, что&#160;Симмонсъ намѣревается запереть дверь, онъ поставилъ ногу на&#160;порогъ, а&#160;рукой ухватился за&#160;скобку.
+</p><p>— Не спѣшите, товарищъ, — сказалъ онъ, — я&#160;пришелъ сюда, чтобы поговорить съ вами, какъ слѣдуетъ мужчинѣ съ мужчиной. Понимаете вы меня? — и&#160;онъ мрачно нахмурилъ брови.
+</p><p>Томми Симмонсъ чувствовалъ безпокойство, но&#160;дверь нельзя было эапереть, и&#160;онъ принужденъ былъ начать переговоры.
+</p><p>— Что&#160;вамъ надо? — спросилъ онъ. — Я&#160;васъ не&#160;знаю.
+</p><p>— Ну, такъ позвольте мнѣ, какъ говорится, представиться вамъ, — проговорилъ незнакомецъ, съ притворнымъ смиреніемъ снимая шляпу. — Я&#160;Бобъ Фордъ, вернулся, можно сказать, съ того свѣта. Я&#160;уѣхалъ, пять слишкомъ лѣтъ тому назадъ, на «Мултанѣ». А&#160;теперь вернулся провѣдать жену.
+</p><p>Во&#160;время этой рѣчи лицо Томаса Симмонса вытягивалось больше и&#160;больше. Подъ конецъ ея онъ запустилъ пальцы въ волоса, посмотрѣлъ внизъ на&#160;коверъ, вверхъ на&#160;крышу, потомъ на&#160;улицу, потомъ на&#160;посѣтителя. Онъ не&#160;придумалъ сказать ни&#160;слова.
+</p><p>— Вернулся провѣдать жену, — повторилъ посѣтитель. — Ну, обсудимъ теперь это дѣло промежъ себя, какъ слѣдуетъ мужчинѣ съ мужчиной.
+</p><p>Симмонсъ медленно закрылъ ротъ, который до&#160;сихъ поръ держалъ открытымъ, и&#160;машинально повелъ гостя наверхъ, продолжая почесывать голову. Мало-по-малу пониманіе истиннаго положенія&#160;дѣла проникало въ его мозгъ и&#160;въ то&#160;же время маленькій демонъ снова просыпался въ немъ. А&#160;что, если этотъ человѣкъ, дѣйствительно, Фордъ? Что, если онъ заявитъ свои права на&#160;жену? Будетъ&#160;ли&#160;это для&#160;него, Симмонса, особенно тяжелымъ ударомъ? Онъ подумалъ о&#160;панталонахъ, о&#160;чайной посудѣ, о&#160;ножахъ, кастрюляхъ и&#160;окнахъ, подумалъ какъ человѣкъ, готовый забыть свой домъ. Взойдя на&#160;лѣстницу, Фордъ схватилъ его за&#160;руку и&#160;спросилъ хриплымъ шепотомъ:
+</p><p>— А&#160;скоро она вернется домой?
+</p><p>— Такъ, черезъ часъ, <i>я</i> думаю, — отвѣчалъ Симмонсъ, мысленно сдѣлавъ самому себѣ тотъ&#160;же вопросъ. Онъ открылъ дверь въ гостиную.
+</p><p>— Ага! — сказалъ Фордъ, оглядывая комнату, — вы не&#160;дурно устроились. Эти стулья и&#160;эти всѣ вещи, — онъ указывалъ на&#160;нихъ своей трубкой, — были ея, т. е. мои, говоря по&#160;правдѣ, какъ мужчина съ мужчиной.
+</p><p>Онъ сѣлъ, задумчиво пустилъ нѣсколько клубовъ дыма изъ своей трубки и&#160;затѣмъ продолжалъ:
+</p><p>— Да, вотъ я&#160;и опять здѣсь, я, старый Бобъ Фордъ умершій, погибшій на «Мултанѣ». Только я&#160;не погибъ, понимаете? — и&#160;онъ ткнулъ трубкой въ жилетъ Симмонса. — Отчего я&#160;не погибъ? Оттого, что&#160;меня подобрало одно нѣмецкое судно и&#160;привезло меня во&#160;Фриско. Тамъ я&#160;околачивался все это время, а&#160;теперь, — онъ пристально посмотрѣлъ на&#160;Симмонса, — теперь я&#160;пріѣхалъ провѣдать жену.
+</p><p>— Она, она не&#160;любитъ, когда здѣсь курятъ, — сказалъ Симмонсъ, чтобы сказать что-нибудь.
+</p><p>— Нѣтъ, не&#160;любитъ, я&#160;знаю, — отвѣчалъ Фордъ, вынувъ трубку изо рта и&#160;опустивъ ее. — Ну, какъ вы съ ней поживаете? Заставляетъ она васъ мыть окна?
+</p><p>— Что-жъ, — неохотно подтвердилъ Симмонсъ, — я, конечно, иногда помогаю ей.
+</p><p>— Да, да. И&#160;ножи чистить, и&#160;кастрюли? Знаю я&#160;это. Что&#160;это? — онъ всталъ и&#160;нагнулся посмотрѣть на&#160;голову Симмонса сзади. — Она, кажется, и&#160;волосы вамъ остригла? Чортъ возьми! отъ нея станется!
+</p><p>Онъ сталъ со всѣхъ сторонъ оглядывать краснѣвшаго Симмонса. Затѣмъ онъ приподнялъ конецъ панталонъ, висѣвшихъ на&#160;стѣнѣ.
+</p><p>— Побьюсь объ закладъ, — сказалъ онъ, — что&#160;эти панталоны ея работы. Чортъ побери! они&#160;не лучше тѣхъ, что&#160;на васъ!
+</p><p>Маленькій демонъ снова началъ свои нашептыванья. Если этотъ человѣкъ возьметъ обратно жену, можетъ быть, и&#160;панталоны придется носить ему?
+</p><p>— Э, — продолжалъ Фордъ, — она какая была, такая и&#160;осталась! Ишь какую штуку смастерила!
+</p><p>Симмонсъ начиналъ чувствовать, что&#160;это до&#160;вето не&#160;касается. Очевидно, Аннеръ жена этого другого человѣка, онъ не&#160;можетъ не&#160;признавать этого факта. Маленькій демонъ подсказывалъ, что&#160;онъ обязанъ признать его.
+</p><p>— Ну, — вдругъ заговорилъ Фордъ, — времени у&#160;насъ немного, надобно поговорить о&#160;дѣлѣ. Я&#160;не&#160;хочу притѣснять васъ, товарищъ. Мнѣ бы&#160;по настоящему слѣдовало предъявить свои права, но&#160;я вижу, что&#160;вы, такъ сказать, порядочный молодой человѣкъ, и&#160;живете вы хорошо, по&#160;семейному, ну и&#160;Богъ съ вами, я&#160;не буду вамъ мѣшать; я&#160;вамъ, какъ мужчина мужчинѣ, скажу, сколько мнѣ надо, ни&#160;больше, ни&#160;меньше. Дайте мнѣ пять фунтовъ, и&#160;я уйду.
+</p><p>У&#160;Симмонса не&#160;было даже пяти пенсовъ, не&#160;то, что&#160;пяти фунтовъ, и&#160;онъ поспѣшилъ заявить объ этомъ.
+</p><p>— Да&#160;мнѣ и&#160;не хочется становиться между мужемъ и&#160;женой, — прибавляетъ онъ, — ни&#160;за что&#160;не хочется. Хоть мнѣ и&#160;тяжело будетъ, но&#160;я знаю, что&#160;долженъ сдѣлать, я&#160;уйду.
+</p><p>— Нѣтъ, постойте! — поспѣшно заговорилъ Фордъ, хватая его за&#160;руку. — Не дѣлайте этого. Я&#160;возьму съ васъ дешевле. Хотите три фунта? Вѣдь это не&#160;дорого? Подумайте, за&#160;три фунта я&#160;уйду навсегда, уйду туда, гдѣ, какъ говорится, дуютъ буйные вѣтры, и&#160;никогда больше не&#160;увижу своей собственной жены, никогда, ни&#160;въ горѣ, ни&#160;въ радости, Говорю вамъ, какъ мужчина мужчинѣ: три фунта и&#160;я ухожу. Хорошо?
+</p><p>— Это очень хорошо, — съ чувствомъ отвѣчалъ Симмонсъ. — Мало сказать хорошо, это благородно, прямо скажу — благородно. Но&#160;я&#160;не хочу быть подлецомъ и&#160;пользоваться вашимъ великодушіемъ, мистеръ Фордъ. Она ваша жена и&#160;я не&#160;долженъ стоять между вами. Простите меня. Оставайтесь здѣсь, вы законный мужъ. А&#160;я&#160;долженъ уйти и&#160;уйду.
+</p><p>И&#160;онъ сдѣлалъ шагъ къ двери.
+</p><p>— Да&#160;постойте вы! — вскричалъ Фордъ и&#160;сталъ между Симмонсомъ и&#160;дверью. — Чего вы спѣшите! Подумайте, какъ вамъ будетъ плохо, у&#160;васъ не&#160;будетъ своего угла, никто не&#160;будетъ заботиться о&#160;васъ и&#160;все такое. Это вѣдь ужасно. Я&#160;еще спущу, давайте два фунта, ну, не&#160;будемъ спорить, давайте одинъ, говорю, какъ мужчина мужчинѣ, и&#160;я изъ этихъ денегъ еще ставлю вамъ угощеніе. Одинъ фунтъ вамъ не&#160;трудно достать, можете часы продать. Ну, давайте одинъ фунтъ, и&#160;я…
+</p><p>Послышался громкій двойной ударъ молотка во&#160;входную дверь.
+</p><p>— Кто это? — тревожно спросилъ Бобъ Фордъ.
+</p><p>— Я&#160;посмотрю, — отвѣчалъ Томасъ Симмонсъ и&#160;быстро сбѣжалъ съ лѣстницы.
+</p><p>Бобъ Фардъ услышалъ, какъ отворяется наружная дверь. Онъ подошелъ къ окну и&#160;прямо подъ собой увидѣлъ верхушку чепчика. Чепчикъ исчезъ и&#160;до его слуха долетѣли&#160;звуки хорошо знакомаго женскаго голоса:
+</p><p>— Куда&#160;же это ты идешь и&#160;безъ шляпы? — спрашивалъ голосъ рѣзкимъ тономъ.
+</p><p>— Да&#160;такъ… мнѣ надо, Аннеръ… тамъ… наверху сидитъ одинъ человѣкъ, который хочетъ повидаться съ тобой, — отвѣчалъ Симмонсъ.
+</p><p>Бобъ Фордъ ясно видѣлъ, какъ какая-то&#160;мужская фигура быстрыми шагами прошла по&#160;улицѣ и&#160;скрылась въ темнотѣ. Онъ догадался, что&#160;это былъ Томасъ Симмонсъ, и&#160;въ три прыжка выскочилъ въ сѣни. Жена его все еще стояла у&#160;входной двери, съ недоумѣніемъ глядя на&#160;убѣгавшаго Симмонса.
+</p><p>Бобъ Фордъ бросился въ заднюю комнату, растворилъ окно, спустился съ крыши прачечной на&#160;задній дворъ, перелѣзъ черезъ заборъ и&#160;исчезъ. Ни&#160;одна живая душа не&#160;видала его. Вотъ почему бѣгство Симмонса прямо изъ подъ носа жены до&#160;сихъ поръ вызываетъ удивленіе сосѣдей.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Обращеніе."><span id=".D0.9E.D0.B1.D1.80.D0.B0.D1.89.D0.B5.D0.BD.D1.96.D0.B5."></span>Обращеніе.</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;action=edit&amp;section=5" title="Редактировать раздел «Обращеніе.»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Нѣкоторымъ людямъ обстоятельства постоянно мѣшаютъ вести хорошую жизнь, такъ, по&#160;крайней мѣрѣ, увѣряютъ они&#160;со слезами на&#160;глазахъ добродушныхъ миссіонеровъ. Обстоятельства были всегда противъ Скьюдди Ланда, вора по&#160;профессіи.
+</p><p>Его настоящее имя было Джонъ, но&#160;это имя всѣ давно забыли. Прозваніе «Скьюдди» ничего собственно не&#160;значитъ, не&#160;происходитъ ни&#160;отъ какого особеннаго слова и, повидимому, не&#160;было придумано никакой опредѣленной личностью. Но&#160;Джона обыкновенно всѣ такъ называли и&#160;многіе изъ его знакомыхъ носили такія&#160;же прозвища неизвѣстнаго происхожденія. Скьюдди отличался чувствительнымъ сердцемъ, онъ былъ способенъ умилиться до&#160;слезъ какою-нибудь трогательной пѣсенкой, и&#160;вотъ почему миссіонеры не&#160;отчаялись въ его исправленіи.
+</p><p>Это былъ человѣкъ лѣтъ 26, маленькаго роста, худощавый, моложавый на&#160;видъ, съ выдавшимся подбородкомъ, желтоватымъ лицомъ и&#160;хитрыми глазами, на&#160;лицѣ его виднѣлись лишь слабые признаки растительности, но&#160;зато голова его была покрыта цѣлою шапкою густыхъ, жесткихъ, всклоченныхъ волосъ.
+</p><p>Несчастія Скьюдди Ланда начались рано. Онъ первый разъ поддался искушенію, когда былъ еще въ школѣ, но&#160;это кончилось ничѣмъ. Затѣмъ, онъ поступилъ мальчикомъ въ колоніальный магазинъ; тутъ у&#160;него вышли непріятности изъ-за&#160;выручки и&#160;онъ былъ вызванъ на&#160;судъ полиціи. Во&#160;время разбирательства дѣла, мать его, сидя среди публики, не&#160;знала, куда дѣваться отъ стыда, а&#160;онъ обвинялъ въ своемъ проступкѣ большихъ мальчиковъ, которые подъучили его украсть; его отпустили, прочитавъ ему наставленіе о&#160;вредѣ дурного общества. Одинъ добродѣтельный филантропъ нашелъ ему мѣсто за&#160;городомъ, гдѣ онъ былъ удаленъ отъ дурныхъ вліяній. Тамъ онъ жилъ довольно долго, дольше, чѣмъ его предшественникъ, который долженъ былъ уйти вслѣдствіе пропажи нѣсколькихъ денежныхъ писемъ. При&#160;немъ денежные пакеты тоже стали пропадать и&#160;въ концѣ-концовъ ему пришлось снова каяться передъ другимъ судьей, которому онъ искренне обѣщалъ исправиться, если его проступокъ будетъ прощенъ. Въ этотъ разъ онъ увѣрялъ, что&#160;причиной его несчастія&#160;былъ тотализаторъ на&#160;скачкахъ. Судья принялъ во&#160;вниманіе, какъ трудно слабохарактерному молодому человѣку устоять противъ пагубнаго вліянія тотализатора, и&#160;приговорилъ его всего къ одному мѣсяцу заключенія, тѣмъ болѣе, что&#160;за него ходатайствовалъ и&#160;его хозяинъ, ничего не&#160;знавшій о&#160;колоніальномъ магазинѣ и&#160;о дѣлѣ съ выручкой.
+</p><p>Отсидѣвъ свой мѣсяцъ, Скьюдди превратился въ вора по&#160;профессіи; онъ снова занялся выручкой, но&#160;не выручкой въ какомъ-нибудь опредѣленномъ магазинѣ, а&#160;всѣми выручками вообще, во&#160;всѣхъ магазинахъ, куда можно было проникнуть незамѣтно. Онъ занимался этимъ нѣсколько времени, пока не&#160;сообразилъ, что&#160;спокойнѣе и&#160;безопаснѣе стоять на&#160;улицѣ и&#160;посылать вмѣсто себя на&#160;работу мальчика. Кромѣ того, онъ обратилъ вниманіе на&#160;багажъ пассажировъ и&#160;забиралъ на&#160;желѣзнодорожныхъ станціяхъ всякіе свертки и&#160;чемоданы, оставленные безъ призора. Дѣло шло удачно, пока-одинъ разъ онъ, неся въ рукахъ тяжелый саквояжъ, встрѣтился лицомъ къ лицу съ собственникомъ этого саквояжа. Теперь онъ сталъ обвинять въ своемъ паденіи пьянство. Его погубило, взволнованннымъ голосомъ говорилъ онъ, пьянство; паденіе его началось съ того дня, когда одинъ лицемѣрный другъ уговорилъ его выпить стаканчикъ за&#160;компанію; онъ былъ&#160;бы&#160;честнымъ, правдивымъ, порядочнымъ человѣкомъ, если&#160;бы&#160;не проклятое вино. Съ этой минуты онъ къ нему не&#160;прикоснется. Его присудили къ тремъ мѣсяцамъ тюремнаго заключенія&#160;съ принудительными работами, но&#160;миссіонеръ продолжалъ возлагать на&#160;него надежды: человѣкъ, который такъ ясно сознаетъ причину своего паденія, можетъ исправиться.
+</p><p>Послѣ тюрьмы Скьюдди нѣсколько времени жилъ спокойно, не&#160;затрудняя себя большой работой, занимаясь то&#160;выручками, то&#160;чемоданами, а&#160;иногда и&#160;квартирами. Правда, эта послѣдняя работа имѣла свои непріятныя стороны, когда окно было слишкомъ высоко, а&#160;подручный мальчикъ недостаточно ловокъ. Нерѣдко приходилось спасаться бѣгствомъ. Но&#160;голодъ не&#160;свой братъ и, чтобы добыть себѣ пропитаніе, Скьюдди готовъ&#160;бы&#160;взяться за&#160;всякое дѣло, не&#160;слишкомъ тяжелое и&#160;не очень опасное. Удивительно, сколько вещей можно незамѣтно присвоить себѣ на&#160;улицахъ и&#160;задворкахъ Лондона, не&#160;подвергаясь при&#160;этомъ оскорбленію дѣйствіемъ. Такъ шла жизнь Скьюдди, прерываясь случайными несчастіями, въ родѣ мѣсячнаго или&#160;даже шестимѣсячнаго заключенія. Миссіонеры продолжали надѣяться на&#160;его исправленіе, такъ-какъ онъ всякій разъ увѣрялъ, что&#160;причиной его несчастія&#160;былъ или&#160;голодъ, или&#160;жажда, или&#160;игра, или&#160;внезапное искушеніе, или&#160;что-либо совершенно исключительное, и&#160;онъ дѣйствительно всякій разъ искренне раскаивался. Онъ такъ трогательно вспоминалъ свое невинное дѣтство, былъ такъ благодаренъ за&#160;всякій добрый совѣтъ, за&#160;всякій ничтожный подарокъ!
+</p><p>Однажды Скьюдди сдѣлалъ смѣлую попытку вступить на&#160;лучшій путь. Онъ рѣшилъ отказаться отъ воровской дѣятельности и&#160;стать полицейскимъ сыщикомъ или&#160;шпіономъ. Работа была не&#160;трудная, не&#160;влекла за&#160;собой тюремнаго заключенія&#160;и съ помощью ея онъ могъ загладить свое прошлое. Но&#160;какъ только онъ началъ дѣятельность шпіона, нѣкоторые изъ обывателей Кэтъ-Стрита напали на&#160;него и&#160;избили его до&#160;полусмерти. Это было непріятно; очевидно, неумолимыя обстоятельства снова возставали противъ него. Къ этому присоединилась еще одна неудача; теперь уже на&#160;одинъ изъ мальчиковъ не&#160;соглашался «работать» для&#160;него. Встрѣчая его они&#160;всѣ громко кричали: «Вонъ идетъ Скьюдди Ландъ, полицейскій шпіонъ!» Вся Цвѣточная и&#160;вся Церковная улица была противъ него. Скьюдди чувствовалъ себя плохо.
+</p><p>Съ тяжелымъ сердцемъ бродилъ онъ однажды, вечеромъ, по&#160;улицамъ; въ карманѣ у&#160;него ничего не&#160;было, кромѣ кусочка угля, который онъ носилъ на&#160;счастье. Дѣла его шли очень дурно: точно будто весь свѣтъ зналъ его и&#160;былъ на&#160;сторожѣ. Лавочники мрачно стояли въ дверяхъ своихъ магазиновъ. Пассажиры упорно сидѣли&#160;на грудахъ своего багажа и&#160;нельзя было подступиться ни&#160;къ одному чемодану. Всѣ дворы были пусты, всѣ двери наглухо заперты. Всѣ тѣ бездѣлушки, которыя обыкновенно такъ легко захватить, пройдя милю или&#160;полторы по&#160;улицамъ города, какъ будто исчезли съ лица земли, и&#160;Скьюдди повернулъ на&#160;Бэкеръ-рау въ самомъ грустномъ настроеніи. Отчего однимъ живется на&#160;свѣтѣ такъ легко, а&#160;другимъ такъ тяжело? Развѣ онъ виноватъ въ своей жизни, онъ человѣкъ, умѣющій чувствовать и&#160;понимать. Отчего другіе могутъ жить спокойно, не&#160;боясь никакой полиціи? И&#160;потомъ, отчего другимъ выпадаетъ такое счастье, что&#160;они сразу могутъ хапнуть полсотни фунтовъ, а&#160;онъ не&#160;можетъ! Нѣтъ, что&#160;говорить, много несправедливаго дѣлается на&#160;землѣ, и&#160;онъ несчастная жертва этой несправедливости! Онъ шелъ все дальше и&#160;дальше, погруженный въ самыя печальныя размышленія.
+</p><p>На&#160;одномъ углу собралась толпа около женщины, которая пѣла подъ аккомпавиментъ шарманки. Скьюдди остановился послушать. Она пѣла надтреснутымъ голосомъ грустную пѣсеньку о «чужой сторонѣ» и&#160;о «мирномъ домѣ».
+</p><p>Пѣсенка какъ-то&#160;странно гармонировала съ настроеніемъ Скьюдди. Онъ взглянулъ на&#160;небо. Вечерняя звѣзда сіяла на&#160;потемнѣвшемъ сводѣ сквозь дымъ фабричной трубы. Откуда-то&#160;доносился пріятный запахъ копченой колбасы. Все это были впечатлѣнія, способныя растрогать чувствительное сердце. Онъ попытался думать о «домѣ», о «мирномъ, родномъ домѣ» и&#160;чувство умиленія наполнило сердце его. Какое это было хорошее, пріятное чувство!
+</p><p>Онъ перешелъ черезъ улицу и&#160;завернулъ въ переулокъ. Хромая старуха сидѣла на&#160;тротуарѣ и&#160;продавала; рядомъ съ ней маленькій темный проходъ велъ въ молельню миссіонеровъ. У&#160;входа въ пассажъ стоялъ одинъ изъ членовъ миссіи; онъ внимательно оглядывался по&#160;сторонамъ и&#160;зазывалъ прохожихъ. Положивъ руку на&#160;плечо Скьюдди, онъ сказалъ ему:
+</p><p>— Другъ мой, не&#160;хотите&#160;ли&#160;придти къ намъ и&#160;послушать слово Божіе?
+</p><p>Скьюдди остановился: звукъ органа и&#160;пѣнія&#160;многихъ голосовъ слабо доносился до&#160;него изъ пассажа. Это подходило къ его настроенію. Ему захотѣлось еще разъ испытать пріятное умилевіе и&#160;онъ рѣшилъ войти.
+</p><p>— Бараньи ноги! — предлагала ему хромая старуха съ заискивающимъ взглядомъ, но&#160;онъ отвернулся отъ нея и&#160;вошелъ въ пассажъ, между тѣмъ какъ она снова занялась своимъ товаромъ. Въ пассажѣ пѣніе раздавалось еще громче; когда онъ открылъ дверь въ концѣ его, онъ ясно услышалъ слова гимна:
+</p><p>Усталый путникъ, кто&#160;бы&#160;ты ни&#160;былъ,
+</p><p>Отецъ зоветъ тебя домой.
+</p><p>Онъ благъ, спѣши къ нему скорѣй!
+</p><p>Человѣкъ, стоявшій у&#160;дверей, тотчасъ призналъ въ немъ чужого и&#160;нашелъ ему мѣсто. Пѣніе гимна кончилось и&#160;проповѣдникъ, руководившій собраніемъ, невысокій человѣкъ съ блестящими глазами, непокорными волосами и&#160;низкимъ голосомъ, объявилъ, что&#160;отецъ Спайерсъ произнесетъ молитву.
+</p><p>Спайерсъ выступилъ впередъ; это былъ высокій, широкоплечій работникъ съ красной шеей, огромными руками и&#160;всклоченной бородой; вѣроятно, какой-нибудь кузнецъ или&#160;каменщикъ. Когда онъ молился, все тѣло его приходило въ движеніе. Онъ широко распростиралъ руки, откидывалъ голову назадъ, опускалъ ее на&#160;грудь и&#160;страстно выкрикивалъ несвязныя фразы своей молитвы. Жилы за&#160;его шеѣ натянулись, изъ горла его вылетали судорожныя, отчаянныя рыданія, потъ крупными каплями покрывалъ лицо его.
+</p><p>Онъ просилъ у&#160;Бога благодати, молилъ его теперь&#160;же, въ этотъ самый часъ, призвать къ своему стаду всѣ заблудившіяся души и&#160;ниспослать имъ даръ вѣры; если нельзя спасти всѣхъ, то&#160;хоть нѣкоторыхъ, хоть немногихъ. Наконецъ, хоть одну, хоть единственную несчастную душу избавить отъ огня вѣчнаго. Произнося съ видимымъ усиліемъ свои молитвенныя возванія, онъ какъ будто весь переродился, онъ былъ великолѣпенъ.
+</p><p>Съ разныхъ сторонъ послышалось «аминь», произнесенное взволнованными голосами; раздались вздохи, стоны, рыданія. Скьюдди Ландъ, увлеченный общимъ потокомъ чувства, стоналъ вмѣстѣ съ другими. Послѣ молитвы снова запѣли&#160;гимнъ. Кто-то&#160;сунулъ въ руки Скьюдди открытую книгу гимновъ, но&#160;онъ почти не&#160;замѣтилъ этого. Поддаваясь гипнотическому вліянію толпы, пѣвшей вокругъ него, онъ испытывалъ необычайное волненіе и&#160;наслаждался имъ. Онъ слышалъ пѣніе, и&#160;самъ присоединялъ свой голосъ къ прочимъ, но&#160;ничего не&#160;понималъ, онъ только чувствовалъ.
+</p><p>Послѣ гимна всѣ сѣли&#160;и проповѣдникъ началъ свою рѣчь; онъ говорилъ сначала спокойно, а&#160;затѣмъ съ такимъ&#160;же одушевленіемъ, какъ и&#160;человѣкъ произносившій молитву, но&#160;въ другомъ родѣ. Проповѣдникъ былъ краснорѣчивъ и&#160;рѣчь его текла потокомъ, только вслѣдствіе сильнаго волненія. Онъ говорилъ о&#160;вѣрѣ, о&#160;спасеніи посредствомъ вѣры, онъ жестикулировалъ, умолялъ, повелѣвалъ. «Приходите! Приходите! Настало время! Одно только нужно — вѣра! Вѣрьте и&#160;приходите, приходите скорѣй!» Страстный тонъ мольбы, которымъ были произнесены эти слова, вдругъ смѣнился повелительнымъ, угрозами вѣчныхъ каръ, и&#160;затѣмъ снова перешелъ въ жалостливый, въ просительный; онъ говорилъ дрожащимъ голосомъ, вздыхалъ, показывалъ вверхъ за&#160;небо, простиралъ руки, съ мольбой протягивалъ ихъ: «Придите! о, придите скорѣй!».
+</p><p>Въ нѣсколькихъ мѣстахъ раздались рыданія. Одна женщина опустила голову и&#160;раскачивалась во&#160;всѣ стороны, а&#160;плечи ея судорожно вздрагивали. Лицо брата Спайерса сіяло радостью. Всѣхъ присутствующихъ охватила какая-то&#160;нервная дрожь.
+</p><p>Передъ концомъ своей рѣчи проповѣдникъ еще разъ обратился къ слушателямъ, страстно заклиная ихъ не&#160;отвергать милости Божіей. Затѣмъ уже болѣе спокойнымъ тономъ онъ пригласилъ тѣхъ, на&#160;кого въ этотъ вечеръ снизошла благодать, встать и&#160;подойти.
+</p><p>Его блестящіе глаза устремлялись на&#160;тѣхъ, кто рыдалъ, призывая, притягивая ихъ. Прежде всѣхъ встала женщина, сидѣвшая съ опущенной головой. Заплаканное лицо ея было открыто и&#160;подергивалось судорогой, она все еще плакала, но&#160;въ то&#160;же время ловко пробралась между скамьями и&#160;сѣла на&#160;пустую скамью впереди. За&#160;ней вышла дѣвочка лѣтъ 10, длинноногая, въ коротенькомъ платьицѣ, изъ котораго, очевидно, уже выросла; она шла опустивъ глаза на&#160;свернутый въ комочекъ носовой платокъ, громко рыдала, наталкивалась на&#160;углы скамеекъ, наступала на&#160;ноги и&#160;опустилась на&#160;другой конецъ передней скамьи. Послѣ нея вышелъ Скьюдди Ландъ.
+</p><p>Почему онъ вышелъ — онъ самъ не&#160;зналъ, ему было все равно. Поглощенный какимъ-то&#160;неопредѣленнымъ, сладостнымъ ощущеніемъ, весь въ слезахъ, въ непонятномъ экстазѣ, онъ повиновался приказанію проповѣдника и&#160;вышелъ впередъ, не&#160;чувствуя подъ собой земли, обновленный, проникнутый самыми благородными ощущеніями. Раздалась коротенькая благодарственная молитва и&#160;заключительный гимнъ, въ которомъ присутствующіе съ восторгомъ привѣтствовали раскаявшихся грѣшниковъ. Скьюдди испытывалъ удивительное спокойствіе, какую-то&#160;тихую радость. Возбужденіе его улеглось и&#160;оставило послѣ себя не&#160;лишенное пріятности оцѣпенѣніе.
+</p><p>Служба кончилась; молящіеся толпой вышли изъ двери; но&#160;Скьюдди продолжалъ сидѣть за&#160;своемъ мѣстѣ, такъ какъ проповѣдникъ хотѣлъ сказать новообращеннымъ нѣсколько словъ прежде чѣмъ отпустить ихъ домой. Онъ пожалъ руку Скьюдди Ланду и&#160;говорилъ о&#160;спасеніи&#160;его души, какъ о&#160;дѣлѣ рѣшенномъ. Брать Спайерсъ тоже пожалъ ему руку и&#160;приглашалъ его снова придя сюда въ воскресенье.
+</p><p>На&#160;холодномъ воздухѣ въ пустынномъ пассажѣ обычное настроеніе Скьюдди начало возвращаться къ нему; но&#160;онъ продолжалъ испытывать тихую радость. Какія&#160;у него были хорошія, благородныя чувства! Ощупывая кусокъ угля у&#160;себя въ карманѣ, онъ раздумывалъ, что&#160;сегодняшній день никакъ нельзя назвать несчастнымъ, вполнѣ чернымъ. Выйдя на&#160;улицу, онъ замѣтилъ, что&#160;хромая старуха — кромѣ нея, не&#160;видно было никого — поднялась на&#160;своемъ костылѣ и&#160;стоитъ къ нему спиной, закрывая свой товаръ бѣлой тряпкой. На&#160;выступѣ дома сзади нея лежала кучка мѣдныхъ монетъ, которыя она только, что&#160;сосчитала. Опытный глазъ Скьюдди Ланда сразу сообразилъ всѣ обстоятельства. Двумя большими шагами на&#160;ципочкахъ онъ дошелъ до&#160;мѣдныхъ монетъ, тихонько взялъ ихъ и&#160;быстро перешелъ на&#160;другую сторону улицы. Онъ не&#160;побѣжалъ, такъ какъ, во-первыхъ, торговка была хромая, а&#160;во-вторыхъ, она не&#160;слышала, какъ онъ подходилъ. Нѣтъ, рѣшительно этотъ день нельзя назвать чернымъ. Вотъ теперь у&#160;него будетъ горячій ужинъ.
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐65fd76f4cc‐z85bn
+Cached time: 20260217084029
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.123 seconds
+Real time usage: 0.199 seconds
+Preprocessor visited node count: 153/1000000
+Revision size: 102942/2097152 bytes
+Post‐expand include size: 14247/2097152 bytes
+Template argument size: 2632/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 2297533/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  160.882      1 Шаблон:Отексте
+100.00%  160.882      1 -total
+  1.26%    2.034      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1006762:|#|:idhash:canonical and timestamp 20260217084029 and revision id 5600107. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Из_жизни_глухих_улиц_(Моррисон;_Анненская)/МБ_1897_(ДО)&amp;oldid=5600107">https://ru.wikisource.org/w/index.php?title=Из_жизни_глухих_улиц_(Моррисон;_Анненская)/МБ_1897_(ДО)&amp;oldid=5600107</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B_%D1%81_%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0" title="Категория:Переводы с английского языка">Переводы с английского языка</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%80%D1%82%D1%83%D1%80_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6_%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD" title="Категория:Артур Джордж Моррисон">Артур Джордж Моррисон</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F" title="Категория:Александра Никитична Анненская">Александра Никитична Анненская</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1891_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1891 года">Литература 1891 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_%D0%B2_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B5_%C2%AB%D0%9C%D0%B8%D1%80_%D0%91%D0%BE%D0%B6%D0%B8%D0%B9%C2%BB" title="Категория:Публикации в журнале «Мир Божий»">Публикации в журнале «Мир Божий»</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-RusEmpire" title="Категория:PD-RusEmpire">PD-RusEmpire</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%BE%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Категория:Дореформенная орфография">Дореформенная орфография</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%90%D0%A2%D0%90%D0%9F%D0%A3%D0%91%D0%9B%D0%98%D0%9A%D0%90%D0%A6%D0%98%D0%98%D0%9E%D0%A0%D0%98%D0%93%D0%98%D0%9D%D0%90%D0%9B%D0%90_%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%D0%B5_%D0%94%D0%90%D0%A2%D0%90%D0%9F%D0%A3%D0%91%D0%9B%D0%98%D0%9A%D0%90%D0%A6%D0%98%D0%98" title="Категория:ДАТАПУБЛИКАЦИИОРИГИНАЛА меньше ДАТАПУБЛИКАЦИИ">ДАТАПУБЛИКАЦИИОРИГИНАЛА меньше ДАТАПУБЛИКАЦИИ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95_%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5_200" title="Категория:Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 200">Импорт/lib.ru/Длина текста в параметре ДРУГОЕ более 200</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%90%D1%80%D1%82%D1%83%D1%80_%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD" title="Категория:Импорт/az.lib.ru/Артур Моррисон">Импорт/az.lib.ru/Артур Моррисон</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 7 августа 2025 года в 13:55.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%98%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%B3%D0%BB%D1%83%D1%85%D0%B8%D1%85_%D1%83%D0%BB%D0%B8%D1%86_(%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD;_%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F)/%D0%9C%D0%91_1897_(%D0%94%D0%9E)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Из жизни глухих улиц (Моррисон; Анненская)/МБ 1897 (ДО)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-65fd76f4cc-z85bn","wgBackendResponseTime":551,"wgPageParseReport":{"limitreport":{"cputime":"0.123","walltime":"0.199","ppvisitednodes":{"value":153,"limit":1000000},"revisionsize":{"value":102942,"limit":2097152},"postexpandincludesize":{"value":14247,"limit":2097152},"templateargumentsize":{"value":2632,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  160.882      1 Шаблон:Отексте","100.00%  160.882      1 -total","  1.26%    2.034      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.069","limit":"10.000"},"limitreport-memusage":{"value":2297533,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Артур Джордж Моррисон\",\n    [\"license\"] = \"PD-RusEmpire\",\n    [\"origLang\"] = \"en\",\n    [\"origPublished\"] = \"1891\",\n    [\"origTitle\"] = \"Tales of Mean Streets\",\n    [\"other\"] = \"Улица\u003Cbr/\u003EЗа занавесками\u003Cbr/\u003EНеблагодарный Симмонс\u003Cbr/\u003EОбращение\u003Cbr/\u003EТекст издания: журнал «Міръ Божій», № 8, 1897.\",\n    [\"published\"] = \"1897\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"«[[Мир Божий|Міръ Божій]]», № 8, 1897.  [http://az.lib.ru/m/morrison_a/text_1891_tales_of_mean_streets-oldorfo.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Из жизни глухих улиц\",\n    [\"translator\"] = \"Александра Никитична Анненская\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-65fd76f4cc-z85bn","timestamp":"20260217084029","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

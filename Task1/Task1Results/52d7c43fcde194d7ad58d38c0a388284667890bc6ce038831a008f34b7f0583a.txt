@@ -1,0 +1,961 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Избранная проза (Гуро) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"e05e5301-3789-45db-a75a-4794f3899889","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Избранная_проза_(Гуро)","wgTitle":"Избранная проза (Гуро)","wgCurRevisionId":5650251,"wgRevisionId":5650251,"wgArticleId":1005183,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru/Страницы с внешними ссылками","Импорт/lib.ru/Тег br в параметре ДРУГОЕ","Импорт/lib.ru","Импорт/az.lib.ru/Елена Гуро","Проза","Сборники рассказов","Елена Гуро","Литература 1910 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Избранная_проза_(Гуро)","wgRelevantArticleId":1005183,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5650251,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Избранная проза (Гуро) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Избранная_проза_Гуро rootpage-Избранная_проза_Гуро skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F+%D0%BF%D1%80%D0%BE%D0%B7%D0%B0+%28%D0%93%D1%83%D1%80%D0%BE%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F+%D0%BF%D1%80%D0%BE%D0%B7%D0%B0+%28%D0%93%D1%83%D1%80%D0%BE%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F+%D0%BF%D1%80%D0%BE%D0%B7%D0%B0+%28%D0%93%D1%83%D1%80%D0%BE%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F+%D0%BF%D1%80%D0%BE%D0%B7%D0%B0+%28%D0%93%D1%83%D1%80%D0%BE%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-Избранная_проза"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Избранная_проза">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Избранная проза</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Избранная_проза-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-В_ПАРКЕ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#В_ПАРКЕ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>В ПАРКЕ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-В_ПАРКЕ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-МЕЛОЧИ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#МЕЛОЧИ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>МЕЛОЧИ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-МЕЛОЧИ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ДЕТСКОЕ_УТРО"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ДЕТСКОЕ_УТРО">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>ДЕТСКОЕ УТРО</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ДЕТСКОЕ_УТРО-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-НЕИЗРЕЧЕННОЕ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#НЕИЗРЕЧЕННОЕ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>НЕИЗРЕЧЕННОЕ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-НЕИЗРЕЧЕННОЕ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-СОН_ВЕГЕТАРИАНЦА"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#СОН_ВЕГЕТАРИАНЦА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>СОН ВЕГЕТАРИАНЦА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-СОН_ВЕГЕТАРИАНЦА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ДОМАШНИЕ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ДОМАШНИЕ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>ДОМАШНИЕ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ДОМАШНИЕ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ПОДРАЖАНИЕ_ФИНЛЯНДСКОМУ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ПОДРАЖАНИЕ_ФИНЛЯНДСКОМУ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>ПОДРАЖАНИЕ ФИНЛЯНДСКОМУ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ПОДРАЖАНИЕ_ФИНЛЯНДСКОМУ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-МЕЧТА"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#МЕЧТА">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>МЕЧТА</span>
+			</div>
+		</a>
+		
+		<ul id="toc-МЕЧТА-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-КОНЦЕРТ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#КОНЦЕРТ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>КОНЦЕРТ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-КОНЦЕРТ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ДЕТСТВО"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ДЕТСТВО">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">11</span>
+				<span>ДЕТСТВО</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ДЕТСТВО-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Избранная проза (Гуро)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F+%D0%BF%D1%80%D0%BE%D0%B7%D0%B0+%28%D0%93%D1%83%D1%80%D0%BE%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;oldid=5650251" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29&amp;id=5650251&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2598%25D0%25B7%25D0%25B1%25D1%2580%25D0%25B0%25D0%25BD%25D0%25BD%25D0%25B0%25D1%258F_%25D0%25BF%25D1%2580%25D0%25BE%25D0%25B7%25D0%25B0_%28%25D0%2593%25D1%2583%25D1%2580%25D0%25BE%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%2598%25D0%25B7%25D0%25B1%25D1%2580%25D0%25B0%25D0%25BD%25D0%25BD%25D0%25B0%25D1%258F_%25D0%25BF%25D1%2580%25D0%25BE%25D0%25B7%25D0%25B0_%28%25D0%2593%25D1%2583%25D1%2580%25D0%25BE%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_%28%D0%93%D1%83%D1%80%D0%BE%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Избранная проза</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%93%D1%83%D1%80%D0%BE" class="mw-redirect" title="Автор:Елена Гуро">Елена Гуро</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1910</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/g/guro_e/text_0030.shtml">az.lib.ru</a></span>  • В&#160;парке<br />
+Мелочи<br />Детство<br />Примирение</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%93%D1%83%D1%80%D0%BE" class="mw-redirect" title="Автор:Елена Гуро">Елена Гуро</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading3"><h3 id="Избранная_проза"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D0.B0.D1.8F_.D0.BF.D1.80.D0.BE.D0.B7.D0.B0"></span>Избранная проза</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit&amp;section=1" title="Редактировать раздел «Избранная проза»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Оригинал здесь — <a rel="nofollow" class="external free" href="http://elenaguro.narod.ru/prose.html">http://elenaguro.narod.ru/prose.html</a>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="В_ПАРКЕ"><span id=".D0.92_.D0.9F.D0.90.D0.A0.D0.9A.D0.95"></span>В&#160;ПАРКЕ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit&amp;section=2" title="Редактировать раздел «В ПАРКЕ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Голубенькие незабудки вылупились прямо из&#160;неба. Из&#160;тенистой травы — белый ландыш. Но&#160;из&#160;напряженной зари весенней — сиреневая перелеска; потому такая ранняя, почти мокрая от&#160;дождя. Также вылупилось сегодня и&#160;розовое утро из&#160;черных елок.
+</p><p>Из&#160;земли зеленые рогатые травки, росточки вылезали еще совсем земляные беленькие с&#160;прилипшими комками песку.
+</p><p>А&#160;наверху стояли сосны и&#160;дачи. Дачи отсырели от&#160;весенней воды, пахли рогожами, сосновыми иглами и&#160;кошками.
+</p><p>На&#160;дачах всю зиму жил ветер. Стекла так долго проветривались в&#160;безлюдье, что&#160;и сейчас в&#160;них переливы ветра и&#160;гортанные голоса сосен. Иногда мелькают в&#160;них тучевые лица и&#160;рожи растягивают по-лесному. Их здесь всю зиму не&#160;спугивали.
+</p><p>В&#160;дачи, пока что, переехали мыши с&#160;нахальными хвостиками. Прошлогодний крокетный шар линялым боком улыбается солнцу.
+</p><p>Кот также хотел поселиться на&#160;дачке, но&#160;побоялся, чтоб у&#160;него не&#160;отсырел хвостик; ему рассказали, что&#160;на дачках очень сыро. Он&#160;также собрался было поохотиться сегодня, но&#160;день был такой добрый, мягкий и&#160;теплый, что&#160;он раздумал, сразу положил свой ватный животик на&#160;согнутые лапки и&#160;понюхал балконный столбик, точно за&#160;тем только и&#160;приходил. А&#160;у&#160;самого даже от&#160;веселой теплоты темечко и&#160;шейка пахли рябчиками.
+</p><p>Внизу… Внизу мимо решетки катались дамы на&#160;веселых желтых и&#160;красных колесах, облепленных сырым песком. В&#160;корсетах, греческих стилизованных прическах и&#160;перчатках по&#160;локоть.
+</p><p>Красные и&#160;желтые, по-весеннему катились колеса.
+</p><p>А&#160;мне было так весело, что&#160;я подошла к&#160;дамам в&#160;колясках и, желая поделиться с&#160;ними богатством, очень учтиво предложила выучить их писать стихи. Это самое весеннее на&#160;свете! А&#160;ведь они&#160;ради весеннего выехали за&#160;город.
+</p><p>Стихи? Сафо! Ах, пожалуй, это будет интересно, и&#160;даже в&#160;греческом вкусе!
+</p><p>— Да&#160;ведь это очень просто! Возьмите комок черной земли, разведите его водой из&#160;дождевой кадки или&#160;из канавки, и&#160;из этого выйдут прекрасные стихи. Но, главное, если хотите увидать чудо, наклонитесь к&#160;самой земле и&#160;смотрите в&#160;самоё теплую землю, и&#160;все прекрасно устроится.
+</p><p>Впрочем, девочки с&#160;крайней дачки мне дали еще другой рецепт: вместо воды, можно употребить просто слюни, вероятно, это выходит тоже очень недурно. Дождевые кадки, кот и&#160;елки кое-что&#160;знают об&#160;этом, они&#160;все здесь сегодня видели поэта. У&#160;него ладони были в&#160;земле. На&#160;минуту вода в&#160;кадке струила наклоненное лицо, точно весеннее пятно зари меж елками, и&#160;пятна темных волос кинулись, метнувшись с&#160;кругами воды, и&#160;за ними светлый заревой лоб. Хохотали белые пузырики, плясали, точно их гнал дождик.
+</p><p>А&#160;другие видели его согнутую спину, убегавшую в&#160;чащу скачками. Сыпалась хвоя. Ему в&#160;волосы попадали червячки с&#160;березы, совершенно зеленые, как&#160;молодые листочки. Разорвал себе платье о&#160;колючие пальчики крыжовника.
+</p><p>Перелески выглядывали на&#160;него из-под&#160;елок; на&#160;сырой земле лежали их сиреневые кусочки неба, а&#160;из канавы пахло вечерней водой.
+</p><p>Потом он&#160;удирал на&#160;своем колесе. Озябший к&#160;вечеру воздух подгонял его.
+</p><p>А&#160;из-под&#160;вечерней зари вылезла темнота, пахла черноземом, цветами и&#160;водой. Большое бархатное лицо наклоняла над&#160;землей и&#160;шептала. Точно ночные крылья шевелились.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r5158936">.mw-parser-output .align-right{text-align:right}.mw-parser-output div.align-right{margin-top:0;margin-right:0;margin-bottom:0;margin-left:auto}.mw-parser-output span.align-right{display:inline-block;width:100%}</style><div class="align-right">(Из книги «Шарманка», 1909)</div>
+<div class="mw-heading mw-heading3"><h3 id="МЕЛОЧИ"><span id=".D0.9C.D0.95.D0.9B.D0.9E.D0.A7.D0.98"></span>МЕЛОЧИ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit&amp;section=3" title="Редактировать раздел «МЕЛОЧИ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="ДЕТСКОЕ_УТРО"><span id=".D0.94.D0.95.D0.A2.D0.A1.D0.9A.D0.9E.D0.95_.D0.A3.D0.A2.D0.A0.D0.9E"></span>ДЕТСКОЕ УТРО</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit&amp;section=4" title="Редактировать раздел «ДЕТСКОЕ УТРО»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Расцвели под&#160;окошком пушистые одуванчики. Раскрылся желтый лютик, и&#160;стало утро. Блестящие чашечки унизали лужок. Собрали чашечки лютика и&#160;еще синие и&#160;сделали чайный столик. Из&#160;лучей волчок бегал по&#160;полу.
+</p><p>Пошли воевать с&#160;темной елкой: отвоевать белую кружечку. В&#160;это время дома выросли грибы на&#160;полках, деревянные, лакированные и&#160;с красными шапочками. Увидав это, желтые соломенные стулья заплясали по&#160;комнате.
+</p><p>А&#160;мы&#160;стали гоняться. Хотели поймать желтый солнечный пушок и&#160;посадить его на&#160;сосновыю полку. Гонялись, гонялись и&#160;не поймали. Так и&#160;пробегали по&#160;солнечным окнам до&#160;завтрака.
+</p><p>А&#160;с&#160;сосновой полочки смолка веселыми слезками падала.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="НЕИЗРЕЧЕННОЕ"><span id=".D0.9D.D0.95.D0.98.D0.97.D0.A0.D0.95.D0.A7.D0.95.D0.9D.D0.9D.D0.9E.D0.95"></span>НЕИЗРЕЧЕННОЕ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit&amp;section=5" title="Редактировать раздел «НЕИЗРЕЧЕННОЕ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Точно маленькая желтая улыбка. Неожиданно утром на&#160;дорожке прилип желтый листик. Над&#160;дорожкой точно кто-то&#160;белокурый приподнял ресницы.
+</p><p>Погоди, это приближенье. На&#160;коричневый мох рассыпались желтые треугольнички. Точно кто-то&#160;идет в&#160;конце дорожки — но&#160;его нет. Сверху льются лазоревые стеклышки и&#160;светло-зеленые. Встревожился воздух, стал холодноватый.
+</p><p>Точно кто-то&#160;встревоженный и&#160;просветленный приподнял ресницы. Точно будет приезд. Приедет сюда дивная страна, далекая, с&#160;блаженной жизнью. Ее привезут на&#160;коляске с&#160;кожаным верхом, и&#160;чуть-чуть будут по&#160;песку пищать колеса. Точно обеими ногами подпрыгнули от&#160;земли и&#160;поплыли над&#160;землей.
+</p><p>Сверху льются лазоревые стеклышки и&#160;зеленое серебро. Лучатся спелые соломинки у&#160;ступеней.
+</p><p>Прозвенела стеклянная дверь балкона.
+</p><p>Рамы стекольные и&#160;жердочки просветлели. Все это не&#160;сегодня — а&#160;завтра… Погоди!..
+</p>
+<div class="mw-heading mw-heading3"><h3 id="СОН_ВЕГЕТАРИАНЦА"><span id=".D0.A1.D0.9E.D0.9D_.D0.92.D0.95.D0.93.D0.95.D0.A2.D0.90.D0.A0.D0.98.D0.90.D0.9D.D0.A6.D0.90"></span>СОН ВЕГЕТАРИАНЦА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit&amp;section=6" title="Редактировать раздел «СОН ВЕГЕТАРИАНЦА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Это был сон.
+</p><p>Было утро. Тонкие четкие веточки виснули с&#160;берез, точно нежные вещицы. Точно их создали осторожно и&#160;с любовью. Тонкая сеть над&#160;землей серебрилась перламутром.
+</p><p>На&#160;балконе сухонький старичок в&#160;детских воротничках читал внимательно книгу. Совсем тихо и&#160;долго, так что&#160;плед у&#160;него свалился с&#160;плеч на&#160;колени. Тихий, внимательный, осенний. Прозрачная рябь на&#160;него набегала — и&#160;убегала. Точно излучался: не&#160;то смеялся, не&#160;то струился.
+</p><p>Какой-то&#160;серебряный комочек прикатился, ласкаясь к&#160;его ногам, мигая серебряными ресничками.
+</p><p>Вкруг сухонького старичка зеленели, смеялись нежные мшинки. Гладкие тянулись светлые половицы, на&#160;них насорились сосновые иглы. От&#160;чайного стакана желтый зайчик сидел на&#160;стене; прыгал, смеялся и&#160;упал в&#160;лучинную корзинку у&#160;стены. Стал розовым.
+</p><p>Взглянули кроткие голубые глазки. Светлые стружки кто-то&#160;строгал, они&#160;свернулись на&#160;досках кудрявым руном.
+</p><p>Надо всем осеннее небо стояло недвижным, доверчивым озером, бледное до&#160;блаженной пустоты, — нежно сияло. В&#160;нем легко и&#160;безгрешно плыла земля, — и&#160;не было берегов…
+</p><p>Грезили создавшие. Радовались создания.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ДОМАШНИЕ"><span id=".D0.94.D0.9E.D0.9C.D0.90.D0.A8.D0.9D.D0.98.D0.95"></span>ДОМАШНИЕ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit&amp;section=7" title="Редактировать раздел «ДОМАШНИЕ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Приходили на&#160;большой дом недели дождя. Могучий ливень скатывался на&#160;крышу. Огромные елки разговаривали, но&#160;за шумом сплошной воды их не&#160;было слышно. В&#160;чуланном окошке стекло сияло подводным изумрудом. Длинное, как&#160;вязанный чулок, тянулось послеобеда. Вышли из&#160;стен Заветные, засели совещаться в&#160;чуланчик, рядом с&#160;буфетной. По&#160;длинному коридору кто-то&#160;похаживал, точно крупные капли падали. За&#160;обоями коридора жил совсем серый, запачканный паутиной, стенной мужик Терентий, ростом с&#160;кошачью лапку, тарантил и&#160;плел кружево из&#160;сенинок.
+</p><p>Из&#160;голых досок чулана, из&#160;темных сучков подсматривали глазки. Все Домашние вылезли из&#160;стен и&#160;строили ушки. Под&#160;шумом ливня им было уютно, как&#160;под навесом. Сплошная водяная борозда висела перед&#160;окном.
+</p><p>Они&#160;принесли любимые богатинки, талисманы. Хвастались накопленными сокровищами: ожерелья из&#160;слов, круглых и&#160;длинных, жемчуга из&#160;смолки. Один принес в&#160;коробочке словечко: елки в&#160;бурю и&#160;огоньки в&#160;окнах его слушались. У&#160;другого были нанизаны дни разных цветов, пестренькие, как&#160;ситцы. Все Домашние оказались богатыми, — и&#160;были очень довольны. Спорили какого цвета сделать эту Субботу: — синей, — или&#160;с полосками? Потом совещались о&#160;темных, что&#160;поселились в&#160;углу коридора, около детской и&#160;пугали любимчиков. О&#160;том, какие в&#160;детскую послать сны: летающие одеяла — или&#160;лошадей самолеток. Решили посоветоваться об&#160;этом с&#160;детскими кошками.
+</p><p>Дождик серый. Остроухие сидят кружком, в&#160;буфетной и&#160;сторожат покой большого дома.
+</p><p>Калачиком свернулся за&#160;обоями пыльный Терентий. По&#160;корилору маленькие шаги, точно каплют капли. Из&#160;пространств глушат и&#160;шумят необъятные дожди. В&#160;чуланном окошечке стеклушко поседело. Все занавесилось сивой бородой.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="ПОДРАЖАНИЕ_ФИНЛЯНДСКОМУ"><span id=".D0.9F.D0.9E.D0.94.D0.A0.D0.90.D0.96.D0.90.D0.9D.D0.98.D0.95_.D0.A4.D0.98.D0.9D.D0.9B.D0.AF.D0.9D.D0.94.D0.A1.D0.9A.D0.9E.D0.9C.D0.A3"></span>ПОДРАЖАНИЕ ФИНЛЯНДСКОМУ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit&amp;section=8" title="Редактировать раздел «ПОДРАЖАНИЕ ФИНЛЯНДСКОМУ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Целый день провалялся я&#160;за гумном…
+</p><p>Ничего нет весеннего вереска милее! Мне сказала судьба: «Полежи еще, увалень; ты проспишь свое счастье».
+</p><p>И&#160;когда я&#160;встал и&#160;вышел на&#160;дорогу, у&#160;меня еще солома сидела в&#160;волосах.
+</p><p>Ничего нет весеннего вереска милее! И&#160;кричали мне вслед: «Экий неряха идет!» Да, захотел, так и&#160;встал.
+</p><p>Высоко растут сосны!
+</p><p>И&#160;я&#160;рыл целый день, ворочал и&#160;гнул, так, что&#160;скрипели суставы. И&#160;я&#160;стрелял судьбу мою в&#160;высоте.
+</p><p>Высоко растут сосны.
+</p><p>И&#160;я&#160;вырыл из&#160;глубины лесной мою судьбу и&#160;понес на&#160;плечах. И&#160;я&#160;вырыл большое счастье, и&#160;было, чем хвастаться:
+</p><p>«Захочу, так и&#160;встану я!» Да, совсем еще бурый вереск был.
+</p><p>Ничего нет весеннего вереска краснее! И&#160;стояла девушка с&#160;белым цветком в&#160;руках. И&#160;стояла девушка, взявшись за&#160;концы платка… И&#160;сказал я&#160;девушке — будь моей!
+</p><p>Ничего нет весеннего вереска милее! А&#160;большое счастье пусть постоит! И&#160;уж покраснела она и&#160;отвернулась прочь… Но&#160;тут меня треснула по&#160;шее судьба, так что&#160;в канаву ткнулся я&#160;головой, — а&#160;канава была с&#160;весенней водой.
+</p><p>Ничего нет весеннего вереска милее. А&#160;когда я&#160;вылез, девушки не&#160;было, только прятался быстрый смех в&#160;кустах. И&#160;я&#160;нес добытое счастье на&#160;плечах, и&#160;соседи мне удивлялись и&#160;снимали шапки. И&#160;ворчала судьба: «Сыночек образумился!» Но&#160;я&#160;тихомолком от&#160;нее соображал: «Ведь она тогда отвернулась, покраснев». Ничего нет весеннего вереска краснее! И&#160;я, таки, думал: — Весна придет опять, весна придет опять.
+</p><p>И&#160;смех дразнил, исчезал в&#160;кустах. «Ничего нет весеннего вереска милее!»
+</p>
+<div class="mw-heading mw-heading3"><h3 id="МЕЧТА"><span id=".D0.9C.D0.95.D0.A7.D0.A2.D0.90"></span>МЕЧТА</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit&amp;section=9" title="Редактировать раздел «МЕЧТА»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="КОНЦЕРТ"><span id=".D0.9A.D0.9E.D0.9D.D0.A6.D0.95.D0.A0.D0.A2"></span>КОНЦЕРТ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit&amp;section=10" title="Редактировать раздел «КОНЦЕРТ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right">(Из книги «Шарманка», 1909)</div>
+<div class="mw-heading mw-heading3"><h3 id="ДЕТСТВО"><span id=".D0.94.D0.95.D0.A2.D0.A1.D0.A2.D0.92.D0.9E"></span>ДЕТСТВО</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;action=edit&amp;section=11" title="Редактировать раздел «ДЕТСТВО»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right">[Op. 2]</div>
+<p>Меж темных елок стояла детская комната, обитая теплой серой нанкой. Она летала по&#160;ночам в&#160;межзвездных пространствах.
+</p><p>Здесь жили двое: «Я», много дождевых духов над&#160;умывальником и&#160;железная круглая печка, а&#160;две кровати ночью превращались в&#160;корабли и&#160;плыли по&#160;океану.
+</p><p>За&#160;окнами детской постоянно шумел кто-то&#160;большой и&#160;не страшный. Оттого еще теплей и&#160;защитней становились стены.
+</p><p>Ввечеру на&#160;светлом потолковом кругу танцевали веселые мухи. Точно шел веселый сухой дождик.
+</p><p>В&#160;детскую, солнечной рябью по&#160;стенам, приходили осенние утра и&#160;звали за&#160;собой играть.
+</p><p>Там! Ну — там — дальше, желтые дворцы стояли в&#160;небе, и&#160;на осиновой опушке, за&#160;полем, никли крупные росины по&#160;мятелкам, по&#160;курочкам и&#160;петушкам. Никли, водяные, и&#160;было знобно и&#160;рано.
+</p><p>Это оно! Оно! Идем к&#160;нему на&#160;встречу.
+</p><p>Ах, какие наутро были ласковые серебряные паутинки! Откуда они&#160;пришли? Ничего не&#160;знали — от&#160;них лежал свет, и&#160;все прощала зеленая полоса, бледная, над&#160;крайними березками.
+</p><p>Светились травы прядями льняных волосков, что&#160;собрать в&#160;косичку осенней лесной девочки и&#160;пойти с&#160;ней за&#160;рябиной.
+</p><p>Где-то&#160;молотили, собирали и&#160;готовили перед&#160;зимой. Оттого переполнена светом и&#160;спелым тишина. Оттого празднична дорожка к&#160;гумну и&#160;амбару, и&#160;осыпанные росой пахнут спелой землей полосы пашни. И&#160;не&#160;уходя стоит в&#160;поле осенний веселый со светлой головой из&#160;неба.
+</p><p>Подходила перемена, и&#160;маленькие елочки и&#160;рябины, зная это, улыбались кверху, ждали, просияв насквозь иглами солнца и&#160;водяного неба, и&#160;до того душа танцевала с&#160;солнечными пятнышками, что, съежившись, смеялись — думали: это от&#160;красных кистей рябины и&#160;оттого, что&#160;печку затопят вечером.
+</p><p>Ночи стали черные, как&#160;медведь, а&#160;дни поблекли, как&#160;овес.
+</p><p>И&#160;еще был ранний час утра, с&#160;радужными паутинными кружками на&#160;оконных стеклах.
+</p><p>Это оно! Это оно, бежим ему навстречу!
+</p><p>И&#160;белый чайный фарфор столовой был такой настояще-утренний, что&#160;не обманывались.
+</p><p>Второпях не&#160;знали, в&#160;кого играть: в&#160;фею, как&#160;она прядет золотые волокна, или&#160;в путешественников, накрыв стулья верблюжьим одеялом.
+</p><p>Это китайцы в&#160;узорных кофтах сидели на&#160;соломенных циновках на&#160;берегу лазурного, лазурного моря.
+</p><p>Висел над&#160;их головами мамин лук, и&#160;порей сушился пучками. Все удалилось за&#160;лазурную полосу, и&#160;соломенное солнце и&#160;колокольчики китайских беседок качались в&#160;стеклянном небе.
+</p><p>Пришли шелковые, с&#160;завитушками, двоюродные сестры. Стал сразу издожденный балкон с&#160;осенними столбами, и&#160;матросские костюмчики.
+</p><p>Состязались, кто лучше выдует прозрачный шарик, а&#160;в призы с&#160;собой принесли светлые зернышки бисера.
+</p><p>И&#160;стало такое волненье, такое волненье, что, замирая, садились на&#160;корточки и&#160;радовались.
+</p><p>В&#160;летучих шариках опрокидывались маленькие китайские деревья, вниз головой, и&#160;перламутровое небо было маленьким, маленьким, розовым.
+</p><p>Пролетая, в&#160;них отражался вверх ногами забор, и&#160;они лопались.
+</p><p>Уж пошушумывал мохнатый вечер в&#160;окна. Уж громадно было за&#160;окнами, чудно и&#160;чуждо, и&#160;сине, и&#160;сладко, жутко.
+</p><p>Управляющий в&#160;высоких голенищах спрашивал — «Что, если будем пахать завтра?»
+</p><p>..................................................
+</p><p>У&#160;реки жил еловуй лесной царь, его венчанные ветви берегли белок и&#160;птичек. У&#160;него был на&#160;носу, между глаз, сучок, а&#160;из глазок иногда смола вытекала. И&#160;весь лесной царь пахнул смолой.
+</p><p>Сюда приходили только на&#160;поклонение и&#160;приносили малининки и&#160;землянику на&#160;листиках и&#160;клали к&#160;подножию царя.
+</p><p>Милый царь! Царь благословлял, а&#160;мурашики уносили малинку: царь принимал жертву.
+</p><p>И&#160;еще любили очень духа березы, у&#160;него был белый атласный лобик и&#160;глаза из&#160;мха.
+</p><p>Его по&#160;утрам целовали в&#160;атласный лобик.
+</p><p>Он&#160;светлый, давний; еще и&#160;никого и&#160;ничего не&#160;было, а&#160;лобик атласного духа был.
+</p><p>По&#160;атласу сквозь тени пробегает золотце.
+</p><p>Собираются идти за&#160;мохом и&#160;красными ягодками брусники для&#160;зимних рам.
+</p><p>Придет оно! Придет оно! Ах, бежим, бежим скорее ему навстречу.
+</p><p>У&#160;сложенных дров сияют светлые щепки.
+</p><p>Уж в&#160;колеях ломкие белые звезды, и&#160;стучит обледенелое ведро у&#160;колодца утром, и&#160;готовят уроки.
+</p><p>Меж роялью и&#160;камином стоят вигвамы из&#160;буйволовых шкур, украшенные перьями сойки и&#160;жемчугом, и&#160;до самого ковра гостиной, под&#160;светом лампы, тянется Патагония.
+</p><p>На&#160;берегах Эри и&#160;Онтарио краснеет брусника.
+</p><p>Когда пролетают вожди гордых Павнисов на&#160;долгогривых конях мимо окон столовой — видят звезды.
+</p><p>Кровати уже отплыли, и&#160;кто-то&#160;большой и&#160;не страшный шумел за&#160;стеной.
+</p><p>А&#160;комната летела меж крупными звездами, в&#160;синих бархатах, и&#160;летели вместе темные башни елок хороводом стражей.
+</p><p>Большие прекрасные бегемоты, оставляя животами дорожку по&#160;золотому топазовому песочку, подходили к&#160;цветущим медовым деревьям, и&#160;прозрачные, полные соком медовые плоды падали им в&#160;рот.
+</p><p>Стороной, стороной проходили, звеня, олени.
+</p><p>Над&#160;вигвамами кувыркались бисерные птицы.
+</p><p>В&#160;мглистом, мягком небе были опрокинуты дворцы.
+</p><p>А&#160;с&#160;дворцов звенели колокольчики, потому что&#160;за мглистым небом убегали излучистые, меж садами розовыми, голубые дорожки.
+</p><p>Голубые, голубые, голубые.
+</p><p>..................................................
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right">(Из сборника «Садок Судей — I» op. 1, 1910)</div>
+<p><b>ПРИМИРЕНИЕ</b>
+</p><p>Я&#160;обидел непоправимо человека, который не&#160;жаловался. Я&#160;предательски отнял у&#160;него самое его нежно и&#160;терпеливо любимое. После была длинная ночь. Утром мне было так стыдно и&#160;больно, что&#160;я побежал объясняться, несмотря на&#160;мое самолюбие.
+</p><p>Ах, иногда чаша осени поднимается к&#160;бледному небу, переполнена золотом радости, медом и&#160;пурпуром счастья, купленного бессонными ночами подлинней моих и&#160;твоих, и&#160;о которых никто так и&#160;не узнает никогда.
+</p><p>По&#160;его стыдливо согнутым лопаткам я&#160;понял, что&#160;мне уже незачем просить прощенья у&#160;ограбленного мною, он&#160;уже простил меня, и&#160;об этом, значит, можно было совсем не&#160;говорить. И&#160;сначала я&#160;обрадовался. Мы&#160;шли рядом, как&#160;прежде. Но&#160;через&#160;минуту мне стало жутко с&#160;ним от&#160;того, что&#160;было пережито им в&#160;молчании, от&#160;того, — чего он&#160;так никогда и&#160;не рассказал мне. Какую длинную ночь! Я&#160;с&#160;неловкостью и&#160;жутью смотрел на&#160;согнутую спину, покорно вытянутую шею. Мы&#160;шагали рядом. В&#160;липах дорожки шел тихий дождь желтых листьев. А&#160;я&#160;больше не&#160;имел смелости быть его другом. Теперь мне было пора сделать ему еще одну гадость. По&#160;своей вине я&#160;заслужил предать его дружбу и&#160;оставить его одного. И&#160;я&#160;знал, что&#160;он переживет горькое недоумение и&#160;не осудит меня.
+</p><p>Я&#160;отомстил ему за&#160;это и&#160;охладел к&#160;нему.
+</p><p>О, ты заслужил свое одиночество, слышишь, слышишь, нестерпимо добрый! Ты заслужил свое одиночество. Самая глупая молитва, это твоя молитва о&#160;Чаше!
+</p><p>Так будет, пока наш, нами устроенный, мир не&#160;претворит себя и&#160;не омоется в&#160;слезах.
+</p><p>Вот молодые рябинки жертвенно покраснели и&#160;стоят на&#160;хвойной стене, уже готовые; пламенеющие чаши осени.
+</p><p>Выбирай любую. А&#160;осень знает все и&#160;про тебя, и&#160;про ночь, и&#160;про нас — твоих палачей.
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5c9fc7f974‐p7cx7
+Cached time: 20260216065619
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.084 seconds
+Real time usage: 0.146 seconds
+Preprocessor visited node count: 232/1000000
+Revision size: 30799/2097152 bytes
+Post‐expand include size: 7939/2097152 bytes
+Template argument size: 1299/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1252/5000000 bytes
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 1551148/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  124.190      1 -total
+ 94.30%  117.114      1 Шаблон:Отексте
+  5.44%    6.758      4 Шаблон:Right
+  1.33%    1.648      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1005183:|#|:idhash:canonical and timestamp 20260216065619 and revision id 5650251. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Избранная_проза_(Гуро)&amp;oldid=5650251">https://ru.wikisource.org/w/index.php?title=Избранная_проза_(Гуро)&amp;oldid=5650251</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%93%D1%83%D1%80%D0%BE" title="Категория:Елена Гуро">Елена Гуро</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1910_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1910 года">Литература 1910 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Импорт/lib.ru/Страницы с внешними ссылками">Импорт/lib.ru/Страницы с внешними ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru/%D0%A2%D0%B5%D0%B3_br_%D0%B2_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B5_%D0%94%D0%A0%D0%A3%D0%93%D0%9E%D0%95" title="Категория:Импорт/lib.ru/Тег br в параметре ДРУГОЕ">Импорт/lib.ru/Тег br в параметре ДРУГОЕ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%93%D1%83%D1%80%D0%BE" title="Категория:Импорт/az.lib.ru/Елена Гуро">Импорт/az.lib.ru/Елена Гуро</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 11 сентября 2025 года в 16:42.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B7%D0%B0_(%D0%93%D1%83%D1%80%D0%BE)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Избранная проза (Гуро)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5c9fc7f974-p7cx7","wgBackendResponseTime":384,"wgPageParseReport":{"limitreport":{"cputime":"0.084","walltime":"0.146","ppvisitednodes":{"value":232,"limit":1000000},"revisionsize":{"value":30799,"limit":2097152},"postexpandincludesize":{"value":7939,"limit":2097152},"templateargumentsize":{"value":1299,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1252,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  124.190      1 -total"," 94.30%  117.114      1 Шаблон:Отексте","  5.44%    6.758      4 Шаблон:Right","  1.33%    1.648      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":1551148,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Елена Гуро\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"В парке\u003Cbr\u003E\\\nМелочи\u003Cbr\u003EДетство\u003Cbr\u003EПримирение\",\n    [\"published\"] = \"1910\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/g/guro_e/text_0030.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Избранная проза\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-5c9fc7f974-p7cx7","timestamp":"20260216065619","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>

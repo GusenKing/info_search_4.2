@@ -1,0 +1,1172 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Краткие замысловатые повести (Курганов) — Викитека</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )ruwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"4fdd7a84-29c5-4773-bebf-185cbcab33ed","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Краткие_замысловатые_повести_(Курганов)","wgTitle":"Краткие замысловатые повести (Курганов)","wgCurRevisionId":5586647,"wgRevisionId":5586647,"wgArticleId":1014091,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PD-old-70","25%","Страницы без сканов","Импорт/lib.ru","Импорт/az.lib.ru/Николай Гаврилович Курганов","Проза","Философия","Сборники рассказов","Педагогика","Николай Гаврилович Курганов","Литература 1869 года"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Краткие_замысловатые_повести_(Курганов)","wgRelevantArticleId":1014091,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikisource","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":5586647,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":200000,"prpProofreadPageBookNamespaces":[0],"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]},"wgTestKitchenUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[],"coordinator":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","ext.wikisource.download","site","mediawiki.page.ready","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.referenceTooltips","ext.gadget.OCRincEditNotice","ext.gadget.extWikiLinksMarker","ext.gadget.wikificator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.xLab","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.15">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Краткие замысловатые повести (Курганов) — Викитека">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Викитека (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikisource.org/wiki/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Викитека — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Краткие_замысловатые_повести_Курганов rootpage-Краткие_замысловатые_повести_Курганов skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Перейти к содержанию</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Сайт">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Главное меню" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Главное меню"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Главное меню</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Главное меню</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Навигация
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Викитеки"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список последних созданных страниц"><span>Новые страницы</span></a></li><li id="n-Авторы" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B"><span>Авторы</span></a></li><li id="n-Литература" class="mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0"><span>Литература</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная страница</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Викитека" src="/static/images/mobile/copyright/wikisource-wordmark-ru.svg" style="width: 9.125em; height: 1.5625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Искать в Викитеке [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Искать в Викитеке" aria-label="Искать в Викитеке" autocapitalize="none" spellcheck="false" title="Искать в Викитеке [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Служебная:Поиск">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Найти</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Персональные инструменты">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Измените внешний вид страницы, размер, ширину и цвет шрифта." >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Внешний вид"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Внешний вид</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru" class=""><span>Пожертвовать</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5+%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5+%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8+%28%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно." class=""><span>Создать учётную запись</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5+%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5+%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8+%28%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o" class=""><span>Войти</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Больше возможностей" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Персональные инструменты"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Персональные инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="Пользовательское меню" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikisource.org&amp;uselang=ru"><span>Пожертвовать</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5+%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5+%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8+%28%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Создать учётную запись</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5+%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5+%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8+%28%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Сайт">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Содержание" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Содержание</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">скрыть</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Начало</div>
+			</a>
+		</li>
+		<li id="toc-КРАТКИЕ_ЗАМЫСЛОВАТЫЕ_ПОВЕСТИ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#КРАТКИЕ_ЗАМЫСЛОВАТЫЕ_ПОВЕСТИ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>КРАТКИЕ ЗАМЫСЛОВАТЫЕ ПОВЕСТИ</span>
+			</div>
+		</a>
+		
+		<ul id="toc-КРАТКИЕ_ЗАМЫСЛОВАТЫЕ_ПОВЕСТИ-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Содержание" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Краткие замысловатые повести (Курганов)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Данная статья существует только на этом языке. Добавьте статью для других языков"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">Добавить языки</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=ruwikisource&amp;page=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5+%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5+%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8+%28%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%29" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Пространства имён">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Текст</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница не существует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Изменить вариант языка"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">русский</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Просмотры">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)"><span>Читать</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Инструменты"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Инструменты</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Инструменты</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">скрыть</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Больше возможностей" >
+	<div class="vector-menu-heading">
+		Действия
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)"><span>Читать</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit" title="Редактировать данную страницу [e]" accesskey="e"><span>Править</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=history"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Общие
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)&amp;oldid=5586647" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%28%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%29&amp;id=5586647&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259A%25D1%2580%25D0%25B0%25D1%2582%25D0%25BA%25D0%25B8%25D0%25B5_%25D0%25B7%25D0%25B0%25D0%25BC%25D1%258B%25D1%2581%25D0%25BB%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2582%25D1%258B%25D0%25B5_%25D0%25BF%25D0%25BE%25D0%25B2%25D0%25B5%25D1%2581%25D1%2582%25D0%25B8_%28%25D0%259A%25D1%2583%25D1%2580%25D0%25B3%25D0%25B0%25D0%25BD%25D0%25BE%25D0%25B2%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikisource.org%2Fwiki%2F%25D0%259A%25D1%2580%25D0%25B0%25D1%2582%25D0%25BA%25D0%25B8%25D0%25B5_%25D0%25B7%25D0%25B0%25D0%25BC%25D1%258B%25D1%2581%25D0%25BB%25D0%25BE%25D0%25B2%25D0%25B0%25D1%2582%25D1%258B%25D0%25B5_%25D0%25BF%25D0%25BE%25D0%25B2%25D0%25B5%25D1%2581%25D1%2582%25D0%25B8_%28%25D0%259A%25D1%2583%25D1%2580%25D0%25B3%25D0%25B0%25D0%25BD%25D0%25BE%25D0%25B2%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Печать/экспорт
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Скачать EPUB-версию этой работы" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%28%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%29"><span>Скачать EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Скачать MOBI-версию этой работы" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=ru&amp;page=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%28%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%29"><span>Скачать MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Скачать PDF-версию этой работы" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=ru&amp;page=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%28%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%29"><span>Скачать PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Открыть форму выбора других форматов, шрифтов и т. д." href="https://ws-export.wmcloud.org/?lang=ru&amp;title=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%28%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%29"><span>Другие форматы</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		В других проектах
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Инструменты для страниц">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Внешний вид">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Внешний вид</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">переместить в боковую панель</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">скрыть</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=ru&amp;page=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%28%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%29","rel":["nofollow"],"label":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","title":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c EPUB-\u0432\u0435\u0440\u0441\u0438\u044e \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Скачать EPUB-версию этой работы' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=ru&amp;page=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%28%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Скачать</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">Материал из Викитеки — свободной библиотеки</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div class="ws-noexport" style="display:none"><span id="textquality" class="25%"></span></div><div id="headertemplate"><table id="title&#95;line" class="headertemplate notheme ws-noexport" style="clear:both"><tbody><tr><td class="header&#95;backlink searchaux"><span id="headerprevious"></span></td><td class="header&#95;title"><span id="header&#95;title&#95;text" style="font-weight:bold"><span id="ws-title">Краткие замысловатые повести</span><span id="ws-subtitle"></span></span><br /><span id="header&#95;author&#95;text" style="font-style:italic"><span id="ws-author">автор <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2" title="Автор:Николай Гаврилович Курганов">Николай Гаврилович Курганов</a></span></span></td><td class="header&#95;forelink searchaux"><span id="headernext"></span></td></tr></tbody></table><div id="sub&#95;nav"></div><table class="notheme header&#95;notes ws-noexport"><tbody><tr valign="top"><td>Опубл.: <span id="ws-published">1869</span>. Источник: <span class="ws-source"><a rel="nofollow" class="external text" href="http://az.lib.ru/k/kurganow_n_g/text_1869_kratkie_zamyslovatye_povesti.shtml">az.lib.ru</a></span>  • Второе «привосокупление» к «Письмовнику».</td></tr></tbody></table><div id="ws-footer" class="ws-noexport" style="display:none"><br clear="all" />
+<table class="headertemplate ws-noexport" style="margin-top:-1px"><tbody><tr style="line-height:120%"><td class="header&#95;backlink searchaux" style="overflow:hidden;text-align:left;width:30%"></td><td class="header&#95;title" style="font-size:90%;overflow:hidden;text-align:center;width:40%"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2" title="Автор:Николай Гаврилович Курганов">Николай Гаврилович Курганов</a></td><td class="header&#95;forelink searchaux" style="overflow:hidden;text-align:right;width:30%"></td></tr></tbody></table>
+<table class="licensetemplate ws-noexport notheme" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td style="width:35px; padding:0.5em;"><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png" decoding="async" width="64" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>
+</td>
+<td>Это произведение перешло в <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Викитека:Общественное достояние">общественное достояние</a></b> в России согласно <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1281" title="Гражданский кодекс РФ/Глава 70">ст. 1281 ГК РФ</a>, и в странах, где срок охраны авторского права действует на протяжении жизни автора плюс 70 лет или менее, или оно было обнародовано анонимно или под псевдонимом и личность автора не была раскрыта в этот срок.
+<p>Если произведение является переводом, или иным <a href="/wiki/%D0%93%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81_%D0%A0%D0%A4/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_70#Статья_1260" title="Гражданский кодекс РФ/Глава 70">производным произведением</a>, или создано в соавторстве, то срок действия исключительного авторского права истёк для всех авторов оригинала и перевода. 
+</p>
+</td></tr></tbody></table></div><br clear="all" /></div><div class="text">
+<center>Краткие замысловатые повести</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-1.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/thumb/8/80/Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-1.jpg/500px-Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-1.jpg" decoding="async" width="338" height="453" class="mw-file-element" srcset="//upload.wikimedia.org/wikisource/ru/thumb/8/80/Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-1.jpg/677px-Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-1.jpg 1.5x" data-file-width="677" data-file-height="908" /></a><figcaption></figcaption></figure>
+<p><i>Текст печатается по&#160;изданию: «Письмовник, содержащий в&#160;себе науку российского языка со многим присовокуплением разного учебного и&#160;полезнозабавного вещесловия. Седьмое издание, вновь выправленное, приумноженное и&#160;разделенное на&#160;две части профессором и&#160;кавалером Николаем Кургановым». Ч.&#160;1, 2. СПб., 1802, 1803.</i>
+</p>
+<center>Иллюстрации. 1976&#160;г.</center>
+<center>Издательство «Художественная литература».</center>
+<center>«ПОЛЕЗНОЗАБАВНОЕ ВЕЩЕСЛОВИЕ»</center>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-2---.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/thumb/8/89/Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-2---.jpg/120px-Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-2---.jpg" decoding="async" width="83" height="50" class="mw-file-element" srcset="//upload.wikimedia.org/wikisource/ru/thumb/8/89/Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-2---.jpg/167px-Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-2---.jpg 1.5x" data-file-width="167" data-file-height="100" /></a><figcaption></figcaption></figure>
+<style data-mw-deduplicate="TemplateStyles:r5158936">.mw-parser-output .align-right{text-align:right}.mw-parser-output div.align-right{margin-top:0;margin-right:0;margin-bottom:0;margin-left:auto}.mw-parser-output span.align-right{display:inline-block;width:100%}</style><div class="align-right"><i>Чтение письмовника долго было любимым моим упражнением. Я знал его наизусть и, несмотря на то, каждый день находил в нем новые незамеченные красоты. После генерала Племянникова, у которого батюшка был некогда адъютантом, Курганов казался мне величайшим человеком.<br /></i>
+А. С. Пушкин. История села Горюхина<i></i></div>
+<p>Существует рассказ, что&#160;Пушкин хотел написать биографию Курганова, но&#160;отказался от&#160;своего намерения из-за&#160;скудости собранных о&#160;нем сведений. Не оттого&#160;ли&#160;в «Истории села Горюхина» устами автора «Истории» он&#160;говорит: «Я&#160;расспрашивал о&#160;нем у&#160;всех, и, к&#160;сожалению, никто не&#160;мог удовлетворить моему любопытству, никто не&#160;знал его лично, на&#160;все мои вопросы отвечали только, что&#160;Курганов сочинил Новейший письмовник, что&#160;твердо знал я&#160;и прежде. Мрак неизвестности окружал его как&#160;некоего древнего полубога; иногда я&#160;даже сомневался в&#160;истине его существования. Имя его казалось мне вымышленным и&#160;предание о&#160;нем пустою мифою, ожидавшею изысканий нового Нибура».
+</p><p>Конечно, знаменитый и&#160;никому не&#160;известный Курганов должен был заинтересовать Пушкина. Николай Гаврилович Курганов (1725—1796) — талантливый самородок, солдатский сын, пробившийся благодаря своим способностям и&#160;трудолюбию в&#160;науку и&#160;в двадцать лет получивший звание «ученого подмастерья», а&#160;в тридцать девять — профессора математики и&#160;навигации, — не&#160;был профессиональным литератором. Он&#160;оставил много книг учебного содержания; его «Универсальная арифметика» сменила знаменитую «Арифметику» Магницкого, по&#160;которой постигал науку Ломоносов. «Письмовник» — это его отдохновение от&#160;профессорских трудов, любимое дело, в&#160;которое он&#160;вложил, кроме знаний, много душевной теплоты и&#160;не переставал от&#160;издания к&#160;изданию дополнять и&#160;совершенствовать.
+</p><p>Ведь и&#160;судьба «Письмовника» была необычной: при&#160;объеме книги в 800 страниц с 1769&#160;года до&#160;года смерти Пушкина — 1837 — «Письмовник» издавался одиннадцать раз.
+</p><p>Он&#160;стал настольной книгой многих поколений русских людей на&#160;протяжении четырех царствований — от&#160;Екатерины до&#160;Николая Первого.
+</p><p>Добрым словом вспомянул о «Письмовнике» Герцен в «Записках одного молодого человека»: «…между прочим, отрыл и „Письмовник“ Курганова — этот блестящий предшественник нравственно-сатирической школы в&#160;нашей литературе. Богатым запасом истин и&#160;анекдотов украсил Курганов мою память; даже до&#160;сих пор не&#160;забыты некоторые, например: „Некий польский шляхтич ветрогонного нрава, желая оконфузить одного ученого, спросил его, что&#160;значит обол, парабол, фарибол? Сей отвечал ему…“ и&#160;т. д. Можете в&#160;самом источнике почерпнуть острый ответ»<sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>. Тон Герцена слегка иронический: за&#160;семьдесят лет дедовская мудрость «Письмовника» основательно устарела.
+</p><p>Затеян был «Письмовник» для&#160;домашней пользы: Курганов «вздумал детей своих поучить правилам нашего языка по&#160;преждеизданной Русской Грамматике, но&#160;она показалась ему для&#160;них многотрудною, то&#160;принужден он&#160;ее преобразить», — сказано в&#160;предисловии.
+</p><p>Но&#160;почему&#160;же книга названа «Письмовником», когда в&#160;ней помещено всего одно-единственное письмо — это «Перевод прошения в&#160;стихах, кое Акцизный Секретарь Ганкен подавал польскому Королю»?
+</p><p>Русским словом «письмовник» перевел Курганов греческое «грамматика». Это была эпоха, когда в&#160;русскую речь хлынула лавина иноязычных слов и&#160;выражений, и&#160;патриотически настроенные люди почитали своим долгом искать в&#160;своем родном языке слова, эквивалентные иностранным. Иногда это удавалось, иногда нет. В&#160;словаре Курганова приводится немало таких придуманных слов, которые так и&#160;не привились в&#160;русском языке: браслет — зарукавье, жесты — телокривия, этимология — словородие, овал — яйцеподобие, параллель — одномежда, парадокс — недоверство, перпендикуляр — прямостой, пульс — жилобой, актер — представщик, архивариус — письмоблюд, клистир — задослаб, микроскоп — мелкозор.
+</p><p>Вместе с&#160;Сумароковым Курганов считает, что «довольно наш язык имеет слов» и&#160;что «восприятие иностранных слов, а&#160;особливо без&#160;нужды есть не&#160;обогащение, но&#160;порча языка». Автор «Письмовника» не&#160;раз возвращается к&#160;этой теме, высмеивая ломаную модную речь петиметров: «Я&#160;в&#160;дистракции и&#160;дезеспере, аманта моя сделала мне инфиделите…» — и&#160;прочее. Или&#160;рассказывает в&#160;грамматических примерах, как «некто кандидат говорит полурусски так: служил-де я&#160;сорок лет, а&#160;капиталу нет, и&#160;де я&#160;о том юристов просил, но&#160;они-де не&#160;азардируют ныне на&#160;аксиденцию, точию-де по&#160;новомодной поведенции очень политично екскузуяся завтренят», — и&#160;пр.
+</p><p>В&#160;те&#160;же годы Н. И. Новиков в&#160;своем «Кошельке» шутя предлагал установить штраф в&#160;пятачок за&#160;каждое иностранное, без&#160;крайней нужды вымолвленное слово — и&#160;собранные деньги отсылать в&#160;Воспитательный дом в&#160;подаяние.
+</p><p>Воспитанник основанной Петром Первым Навигационной школы, затем Морской академии, профессор математики и&#160;навигации, Курганов в&#160;вопросах грамматики как&#160;дилетант и&#160;практик весьма радикален и&#160;за сто пятьдесят лет до&#160;орфографической реформы без&#160;колебаний высказывается за&#160;упразднение буквы «ять»: «…предписанное затруднение в&#160;различении е от&#160;ять кажется совсем излишним и&#160;обходимым мудрованием… Лучше&#160;бы&#160;остаться при&#160;одной букве е, уничтожая… различие слов, кое по&#160;смыслу речи само собою вразумительно».
+</p><p>Пожалуй, самая интересная часть «Грамматики» — это примеры на&#160;применение правил, в&#160;которых слышна живая речь той эпохи: «Я, дискать, туда ходил, да&#160;ничего не&#160;получил; до&#160;бога, дискать, высоко, а&#160;до царя далеко». Или&#160;пример на&#160;употребление частицы <i>де:</i> «Сидор в&#160;допросе показал, что&#160;пришед к&#160;нему Карп, говорил такую небылицу: это-де зело обидно, что-де у&#160;них маломощных постой всегда; у&#160;иных иногда, а&#160;у многих никогда; да&#160;к тому-де, что&#160;с одного, то&#160;и с&#160;десетерного двора, ходит одна дубина и&#160;десятина, а&#160;тому-де причиною…» Пример на&#160;употребление предлогов: «…недавно куль муки был по&#160;пяти или&#160;в пять рублей; а&#160;в старину по&#160;сороку алтын без&#160;полугривны, или&#160;без полугривны в&#160;сорок. Французская водка по&#160;девяти гривен штоф, а&#160;сивухи или&#160;псинухи многим несносно в&#160;три рубля ведро».
+</p><p>Грамматикой начинается и&#160;кончается учебная часть «Письмовника», а&#160;затем следуют разнообразные <i>присовокупления</i>, которые автор щедро умножает, «ведая, что&#160;различность веселит, обогащает мысли и&#160;просвещает разум, ибо в&#160;них есть много нравоучительного и&#160;то, что&#160;послужит полезно-приятным упражнением». Эти-то&#160;присовокупления и&#160;создали «Письмовнику» великую славу среди читателей. «Письмовник» причудливо обрастает всяческим «полезно-забавным вещесловием», так что&#160;в итоге получается некая энциклопедия по&#160;самым различным областям знаний. На&#160;титульном листе книги недаром написано: <i>«Духовный&#160;ли, мирской&#160;ли&#160;ты? Прилежно се читай, все найдешь здесь, тот и&#160;другой: но&#160;разуметь смекай».</i>
+</p><p>В&#160;присовокуплении первом дается «Сбор разных пословиц и&#160;поговорок». Как&#160;всегда, дивишься нестареющей силе и&#160;образности коренной народной речи, рядом с&#160;которой книжный язык составителя кажется архаичным.
+</p><p>Среди пословиц многие звучат вольномысленно, и&#160;подбор их обнаруживает демократический и&#160;антиклерикальный дух автора: <i>Земля любит навоз, конь овес, а&#160;бара принос. Как&#160;лапотника не&#160;станет, так и&#160;бархотник не&#160;встанет. И&#160;по&#160;рылу знать, что&#160;не простых свиней. Не сули царства небесного да&#160;не бей кнутом. Молебен пет, а&#160;пользы нет. Иуменья за&#160;чарку, а&#160;сестры за&#160;ковши. Нашед чернец клобук не&#160;скачет, а&#160;потеряв не&#160;плачет. Поп да&#160;петух и&#160;не евши поют. Близ царя, близ чести, близ царя, близ смерти. Из&#160;одного дерева икона и&#160;лопата. Худо овцам, где волк воевода.</i>
+</p><p>В&#160;похвалу Курганову следует отметить, что&#160;это одна из&#160;самых ранних публикаций русских пословиц.
+</p><p>Второе присовокупление — это «Краткие замысловатые повести», которые составляют содержание нашей книги. А&#160;далее следует разнообразнейший дивертисмент, как-то: «Различные шутки», «Разномысленные предложения», «Достопамятные речи», «О&#160;женщинах и&#160;о браке», «Определения и&#160;сравнения или&#160;уподобления», «Хорошие мнения», «Опись качеств знатнейших европейских народов».
+</p><p>Это кладезь премудростей, излагаемых в&#160;афористической форме: <i>Леность есть ржа разума. Ревнование есть лихоманка амура. Стар прелюбодей есть гора Этна, коей верх покрыт снегом, а&#160;внутри пламя. О&#160;породе детей лучше знают матери, нежели отцы. Душевное украшение несравненно полезнее телесного. Всякая вещь от&#160;редкого употребления приятна. Четыре вещи скрыты быть не&#160;могут: любовь, кашель, огонь и&#160;печаль.</i>
+</p><p>Авторы «Кузьмы Пруткова», сочиняя его «Мысли и&#160;афоризмы», несомненно, держали в&#160;памяти эти и&#160;подобные афоризмы из «Письмовника».
+</p><p>«О&#160;женщинах и&#160;о браке»: <i>Женщина произведена в&#160;земном раю, а&#160;не мужчина, и&#160;благороднейшим образом. Бог не&#160;взял ее из&#160;его головы, опасаясь быть ей гордою, ни&#160;из его ног, чтоб не&#160;была презираемою; но&#160;из его ребра, дабы он&#160;ее утоварищал. Вот для&#160;чего оне нам нравятся!</i>
+</p><p><i>Жен немцы господа, англичане слуги, французы товарищи, италианцы тюремщики, ишпанцы мучители, россияне посредственно.</i>
+</p><p>А&#160;вот это из «Описи качеств знатнейших европейских народов». <i>Голландцы народ грубый; жены у&#160;них госпожи. Голландия есть такая земля, где четыре стихии ни&#160;к чему годны и&#160;там золотой демон сидит на&#160;сырном троне в&#160;табачной короне.</i>
+</p><p>Присовокупление третье содержит в&#160;себе «Древние исправленные и&#160;приумноженные апофегмы», «Епиктитово нравоучение» и «Рассуждение Сенекино».
+</p><p>Из «Древних апофегм»:
+</p><p><i>ДИОГЕН злую любовь называл упражнением людей гуляющих, что&#160;и стихотворец Овидий утверждает: «Иже без&#160;промысла всегда гуляют, Ничто&#160;же добро деюще, о&#160;зле помышляют. Предивно похоть нежится в&#160;гулянии. Трудись, ежели не&#160;хочешь быть в&#160;прелюбодеянии».</i>
+</p><p><i>ПИТТАК философ говаривал, что&#160;прощение гораздо лучше мщения, для&#160;того, что&#160;первое свойственно кроткой природе, а&#160;последнее зверской. На&#160;вопрос, что&#160;верно? Земля. Что&#160;неверно? Море.</i>
+</p><p>Присовокупление четвертое содержит в&#160;себе «Разные учебные разговоры». 1. «Разговор между книжником и&#160;мальчиком». 2. «Разговор, называемый УТРО, между Бодрым и&#160;Сонливым». 3. «Разговор Кевита, ученика Сократова о&#160;Картине или&#160;образе жития человеческого, ради юношества сокращенный; и&#160;оный так, как&#160;и Епик-титово учение, по&#160;их полезности почти на&#160;всех европейских языках имеется», 4. «Разговор о&#160;любомудрии», в&#160;котором в&#160;форме вопросов и&#160;ответов даются сведения о&#160;явлениях природы: Что&#160;такое метеор? Что&#160;есть ветр? Дождь? роса? град? радуга? Что&#160;есть прилив и&#160;отлив морской? 5. «Разговор о&#160;навигации». 6. «Разговор о&#160;геральдике». 7. «Разговор о&#160;мифологии или&#160;митологии». 8. «Разговор о&#160;различии изречения и&#160;писания» — все это в&#160;вопросах и&#160;ответах. Вопрос: <i>Нужно&#160;ли&#160;обучаться поэзии?</i> Ответ: <i>Сие знание всякому приятно, и&#160;видно, что&#160;в древности великие разумы в&#160;нем единственно упражнялись. Однако, несмотря на&#160;то, оно почитается ныне за&#160;последнюю науку, и&#160;к которой прилично только прилежать неспособным для&#160;иного лучшего упражнения, или&#160;кто к&#160;сему искусству отменную склонность и&#160;дарование имеет.</i>
+</p><p>Как&#160;видно, спор между физиками и&#160;лириками и&#160;тогда уже имел место, и&#160;профессор математики и&#160;навигации Курганов был, конечно, на&#160;стороне физиков.
+</p><p>Впрочем, для&#160;желающих «иметь в&#160;примерах разные стиходейства» «Письмовник» рекомендует сатиры Кантемира, сочинения в&#160;стихах Ломоносова, Сумарокова и&#160;Тредьяковского и&#160;прочих «стихописателей, как&#160;здешнего (т. е. петербургского. — <i>Н. К.)</i>, так и&#160;московского Парнаса». Имя Державина не&#160;упоминается: он&#160;стал известен позднее — в 80-х годах.
+</p><p>Вторая часть «Письмовника» открывается присовокуплением пятым — «Собранием разных стихотворств». Здесь приводятся образцы разных родов поэзии: оды, элегии, эклоги, стансы, гимны, мадригалы, эпиграммы и&#160;пр. Особенно обширен раздел: «Светские песни, или&#160;Дело от&#160;безделья». Здесь собраны «томны эхи» любовной лирики XVIII&#160;века:
+</p><p><i>О, коль счастливы желты те песчинки</i>,
+</p><p><i>В&#160;кои ступала ты ногой!</i>
+</p><p><i>Ах и&#160;прекрасны мягкие травинки</i>,
+</p><p><i>Кои лежали под&#160;тобой!</i>
+</p><p><i>Глаза мои пленены</i>
+</p><p><i>Всегда к&#160;тебе хотят</i>
+</p><p><i>И&#160;мысли обольщенны</i>
+</p><p><i>Всегда к&#160;тебе летят.</i>
+</p><p><i>Всеночно дорогая</i>
+</p><p><i>Мне зришься ты во&#160;сне:</i>
+</p><p><i>Вседневно обольщая</i>,
+</p><p><i>Ты множишь страсть во&#160;мне.</i>
+</p><p>Есть также первые записи народных песен и «киевокалекских» кантов. Есть сатирические вирши против карточной игры и&#160;против франкмасонов:
+</p><p><i>Полны, лжи ваши законы</i>
+</p><p><i>Оказались, франкмасоны;</i>
+</p><p><i>В&#160;том тайна ваша и&#160;честь</i>,
+</p><p><i>Что 666.</i>
+</p><p>Затем следует присовокупление шестое: «Всеобщий чертеж наук и&#160;художеств», состоящий из&#160;небольших главок, в&#160;которых даются сжатые сведения по&#160;ряду разнообразнейших вопросов: о&#160;происхождении человеческих знаний, о&#160;поэзии и&#160;философии, о&#160;свойствах души и&#160;об употреблении наук, о&#160;предузнавании погод и&#160;о системе мира, наказ врачебный и&#160;рудомет немецкий. Сто тридцать пять нравоучительных афоризмов, взятых из&#160;сочинения канцлера графа Оксенстирны снова предлагают читателю солидную порцию житейской мудрости:
+</p><p><i>Лжец есть хранилище ветра, эхо диавола и&#160;присяжный враг всея честности. История в&#160;рассуждении дел великих мужей бывает часто как&#160;микроскоп в&#160;рассуждении зримых в&#160;оный вещей. Гордость есть самое первейшее бытие в&#160;свете и&#160;всеобщее из&#160;всех развращений: но&#160;при том ничего нет безумнее и&#160;смешнее оного. Добродетельный человек есть в&#160;рассуждении своего отечества, подобно как&#160;луна в&#160;рассуждении ночи: он, выводя его из&#160;тьмы, дает ему сияние, коего б оно не&#160;имело без&#160;его заслуг. Игрок есть вор, который ворует, не&#160;опасаясь наказания правосудного. Надеяться на&#160;похвалу людей есть не&#160;иное что, как&#160;полагаться на&#160;ведреные дни весны и&#160;осени. Кто в&#160;счастии подвергается своевольству, тот скорыми шагами поспешает к&#160;своему падению.</i>
+</p><p>В&#160;следующем далее «Кратком повестном летописце» сообщается, что&#160;первым царем Ассирийской монархии был НЕМВРОД, а&#160;у галлов первый король назывался ФОРАМУНД, в&#160;Ишпании — АФГАУЛФУС, в&#160;Польше — ЛЕХУС, а&#160;в Богемии — ЦЕХУС.
+</p><p>Русская хронология начинается с&#160;Рюрика, а&#160;кончается сообщением не&#160;то всерьез, не&#160;то в&#160;шутку, что&#160;с 1762&#160;года Директором Морского Шляхетского кадетского корпуса состоит Виц-Адмирал, Генерал-Казначей и&#160;Кавалер Иван Логинович Голенищев-Кутузов. Возможно, что&#160;Курганов, преподававший в&#160;Морском корпусе математику, захотел почтить таким манером своего непосредственного начальника.
+</p><p>Есть что-то&#160;чрезвычайно трогательное в&#160;том усердии, с&#160;каким Курганов старается выложить на&#160;пользу и&#160;поучение читателей все свои сведения образованного и&#160;бывалого человека.
+</p><p>Следует еще седьмое присовокупление: «Словарь разноязычный», «Толкование имен человеческих», «Толк седмичным дням и&#160;месяцам», «Мнения о&#160;цветах», «Объяснение словаря». Любопытно, на&#160;теперешний взгляд, что&#160;в словаре дается толкование таким ныне общеизвестным словам, как&#160;бутылка — сулейка, стклянка; картина — рисунок, образ; почта — ям, подстава; портрет — образ, подобие; стул — седалище, кресло; студент — ученик высоких наук; табурет — скамейка; школа — училище; суп — похлебка, жижа.
+</p><p>Сумароков, осуждая тех, «Кто русско золото французской медью медит, Ругает свой язык и&#160;по французски бредит», вопрошает: «Безмозглым кажется язык российский туп: Похлебка&#160;ли&#160;вкусняй, или&#160;вкусняе суп?» Слово суп было тогда новым малоизвестным иноязычным словом.
+</p><p>«Мнения о&#160;цветах»: какой цвет что&#160;означает. Например, алый означает приятство, брусничный — ласкательство, голубой — постоянство, желтый — сомнение, малиновый — лицемерство, серый — непостоянство, а&#160;дымчатый — услужность.
+</p><p>В&#160;пояснении к&#160;словарю Курганов рекомендует вниманию читателей новиковский «Трутень» и «Адскую почту» Эмина — «обе оные книги между прочим забавно объясняют разные человеческие плутни и&#160;заблуждения».
+</p><p>В&#160;восьмое и&#160;последующие издания уже после смерти автора «Письмовника» был внесен большой раздел: «Неустрашимость духа, геройские подвиги и&#160;примерные Анекдоты русских и&#160;иностранных великих мужей и&#160;проч. особ». К&#160;чести Курганова надо отметить, что&#160;его «Краткие замысловатые повести» обнаруживают неизмеримо больше вкуса в&#160;выборе и&#160;изложении; язык его повестей, даже в&#160;тех случаях, когда он&#160;их пересказывает с&#160;иностранных источников — краток и&#160;выразителен, слог&#160;же позднейших анекдотов — вял и&#160;многословен.
+</p><p>Долгая и&#160;устойчивая популярность «Письмовника» свидетельствовала о&#160;появлении нового читателя из&#160;мещан и&#160;разночинцев. Н. И. Новиков, имевший большой опыт в&#160;издании книг, писал, что «у&#160;нас те только книги четвертым и&#160;пятым изданием печатаются, которые этим простосердечным людям, по&#160;незнанию ими чужестранных языков, нравятся».
+</p><p>Курганов нашел своего читателя, угадав его вкус и&#160;потребности. Автор «Письмовника» проявил себя талантливым педагогом, сумев в&#160;живой и&#160;занимательной форме сообщить уйму сведений и&#160;приобщить жаждущего знаний простеца-читателя к&#160;наукам и&#160;словесности.
+</p><p>Поистине — удивительны судьбы книг!
+</p><p>Перелистывая сейчас «Письмовник», думаешь, что&#160;вот ведь даже Льву Николаевичу Толстому не&#160;удалось свой «Круг чтения» сделать, как&#160;ему мечталось, настольной книгой мудрости для&#160;многих поколений, а&#160;вот — дилетант в&#160;литературе, «обсерватор, навигатор, астроном» Курганов своим «Письмовником» питал умы русских читателей чуть не&#160;сто лет. Я&#160;так и&#160;представляю восторженного любителя поэзии тургеневского Лунина с «Письмовником» в&#160;руках, а&#160;простодушный дьякон Ахилла из «Соборян» Лескова, свою песенку про «Купидона» почерпнул, конечно, из&#160;того&#160;же источника: она напечатана в «Соборе разных стихотворств».
+</p><p>С&#160;каждым годом «Письмовник» Курганова опускался все ниже по&#160;ступеням общественной лестницы. Теперь его читателями становятся грамотеи из&#160;народа, ученые на&#160;медные деньги. Вот что&#160;писал о&#160;них автор «Библиографической хроники» «Отечественных записок» в 1841&#160;году: «У&#160;нас есть особый класс читателей: это люди только что&#160;начинающие читать, вместе с&#160;переменою национального сермяжного кафтана на&#160;что-то&#160;среднее между купеческим длиннополым сюртуком и&#160;фризовою шинелью. Обыкновенно они&#160;начинают с „Милорда Английского“ и „Потерянного рая“ (неистовым образом переведенного прозою с&#160;какого-то&#160;реторического французского перевода), „Письмовника“ Курганова, „Душеньки“ и „Басен“ Хемницера, — этими&#160;же книгами и&#160;оканчивают, всю жизнь перечитывая усладительные для&#160;их грубого и&#160;необразованного вкуса творения. Потому-то&#160;эти книги и&#160;издаются почти ежегодно нашими сметливыми книжными торговцами»<sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В. Даль обнаружил «Письмовник» в&#160;нищенском наследстве варнака-ссыльного, который «жил бобылем и&#160;не оставил полтинника на&#160;еловую домовину»: «Пару глиняных чашек своей работы, пару ложек, тулуп, стеганый поддевок, два полукафтана — один плохой, другой получше, три рубахи и&#160;пару сапог роздали мы&#160;таким&#160;же голышам, каким был заживо тот, на&#160;которого мы&#160;справили теперь деревянный тулуп и&#160;отмежевали вотчину в&#160;косую сажень, письмовник Курганова и&#160;небольшую кипу листов, исписанных рукою покойника, я&#160;взял с&#160;собою»<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Ныне «Письмовник» Курганова книга редкая, особенно в&#160;хорошем, незачитанном состоянии. Обычно&#160;же внешний его вид свидетельствует о&#160;том, что&#160;побывал он&#160;во многих руках, много раз читан и&#160;перечитан и&#160;равнодушием читателя не&#160;обижен. После длительных поисков мне удалось приобрести «Письмовник». Мой экземпляр — издание девятое, выпущенное в 1818&#160;году «иждивением Ивана Глазунова, вновь выправленное, приумноженное и&#160;разделенное на&#160;две части».
+</p><p>Беллетристическая часть «Письмовника» — «Краткие замысловатые повести», им книга эта больше всего обязана своей популярностью. Это собрание всевозможных историй и&#160;кратких притч, добродушных и&#160;веселых, язвительных и&#160;острых, занимательных и&#160;лаконичных.
+</p><p>Герцен называет Курганова «блестящим предшественником нравственно-сатирической школы в&#160;нашей литературе». Его демократические взгляды, его ненависть к&#160;феодально-крепостническому строю проявляется и&#160;в выборе этих анекдотов, в&#160;их тоне и&#160;общей направленности. С&#160;удивлением и&#160;даже некоторой оторопью читаем мы&#160;в этой народной хрестоматии XVIII&#160;века такой «якобинский» анекдот: "Италианец, будучи вопрошен французом, у&#160;кого&#160;бы&#160;он лучше хотел быть в&#160;подданстве, у&#160;короля&#160;ли&#160;французского или&#160;у ишпанского, «Я&#160;бы&#160;желал видеть одного, повешена на&#160;кишках другого». Эту антимонархическую формулу мы&#160;найдем позднее среди потаенных стихотворений, приписываемых Пушкину, в&#160;несколько иной, более резкой редакции:
+</p><p>Мы&#160;добрых граждан позабавим
+</p><p>И&#160;у&#160;позорного столпа
+</p><p>Кишкой последнего попа
+</p><p>Последнего царя удавим.
+</p><p>Во&#160;многих из&#160;этих кратких повестей мы&#160;находим отклики на&#160;злобы тогдашнего дня. Есть в&#160;них и&#160;фольклор: о&#160;церковном погребении собаки; прелестный разговор двух нищих московских старушек; диспут шляхтича со слугою о&#160;черной и&#160;белой кости; новобрачный, разочарованный первой ночью; богомольная старушка, ставящая свечу бесу.
+</p><p>В&#160;анекдоте о&#160;ловком царедворце рассказан прозрачно замаскированный случай при&#160;дворе Екатерины; в&#160;этом и&#160;подобных анекдотах современники узнавали живых действующих лиц.
+</p><p>Так, в&#160;повести про&#160;спор именитого и&#160;заносчивого судьи с&#160;неродовитым «славным витием» мы&#160;угадываем в&#160;последнем Ломоносова по&#160;его ответу: «Ежели&#160;бы&#160;вы были сыном моего отца, то&#160;бы вы и&#160;поныне еще <i>ловили с&#160;ним моржей».</i> Вообще, характерные черточки быта и&#160;нравов мы&#160;находим здесь во&#160;множестве.
+</p><p>Беллетристическая часть «Письмовника» особенно привлекательна для&#160;иллюстратора богатством типажей и&#160;ситуаций. Это пестрое карнавальное шествие, где появляются короли и&#160;папы, спесивые вельможи и&#160;придворные дамы, челобитчики и&#160;подьячие, астрологи и&#160;календарщики, волокиты и&#160;пригожие вольнодумки, скупцы и&#160;моты, худогласные певцы и&#160;гнуснообразные откупщики, знатные чужехваты и&#160;брюшистые монахи, рифмачи и&#160;лекари, музыканты и&#160;игрослушатели, рогатые мужья и&#160;лукавые жены, воры и&#160;нищие, арлекины и&#160;коломбины.
+</p><p>Мне показалось заманчивым вернуть из&#160;забвения эти достойные внимания миниатюры, в&#160;которых так выпукло отразился русский восемнадцатый век — убогий и&#160;нарядный, грубый и «щепетильный», дикий и&#160;изысканный.
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r5158936" /><div class="align-right"><i>Н. КУЗЬМИН</i></div>
+<div class="mw-heading mw-heading3"><h3 id="КРАТКИЕ_ЗАМЫСЛОВАТЫЕ_ПОВЕСТИ"><span id=".D0.9A.D0.A0.D0.90.D0.A2.D0.9A.D0.98.D0.95_.D0.97.D0.90.D0.9C.D0.AB.D0.A1.D0.9B.D0.9E.D0.92.D0.90.D0.A2.D0.AB.D0.95_.D0.9F.D0.9E.D0.92.D0.95.D0.A1.D0.A2.D0.98"></span>КРАТКИЕ ЗАМЫСЛОВАТЫЕ ПОВЕСТИ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)&amp;action=edit&amp;section=1" title="Редактировать раздел «КРАТКИЕ ЗАМЫСЛОВАТЫЕ ПОВЕСТИ»"><span>править</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Стряпчий, видя себя презираемого от&#160;президента ради его младости, сказал: «Правда, сударь, я&#160;молод, однако читал старые книги».
+Некто, будучи превеликий усилок, а&#160;в одно время ни&#160;за что&#160;столь осерчал, что, позабыв себя, пришел в&#160;бешенство. Тогда один мудрец, ему знакомый, увидя его в&#160;таком состоянии, спросил, что&#160;ему сделалось, и&#160;уведомил-ся, что&#160;он осердился за&#160;бранное слово: «Как! Неужели сей бедняк в&#160;состоянии нести тысячу фунтов, не&#160;может понести одного слова».
+Франциск I, король французский, захотя посмеяться престарелой госпоже, бывшей великой красавице, сказал: «Давно&#160;ли, сударыня, вы возвратились из&#160;царства красот?» Отвечала она: «В&#160;тот&#160;же день, как&#160;ваше величество прибыли из&#160;Павии», — где он&#160;потерял баталию против императора Карла V, был там пленником и&#160;оттуда отправлен в&#160;Ишпанию.
+Молодой звездочет, будучи в&#160;беседе, уверял, что&#160;солнце, а&#160;не земля обращается, и&#160;хотя выдти; тогда один шутник ему сказал: "Пожалуй, побудьте с&#160;нами немного, я&#160;хочу доказать противное вашему мнению. Знаете&#160;ли, что&#160;солнце оживотворяет, греет и&#160;печет все на&#160;земле? « — „Правда“, — отвечал на&#160;то звездарь. „Так видно, — продолжал шут, — что&#160;не солнце, да&#160;земля вертится; ибо когда жарят птиц, тогда вертят их, а&#160;не очаг“. — „Это правде подобно, — сказал другой, — но&#160;весьма далеко от&#160;мнения многих ученых мужей и&#160;от истины, и&#160;я знаю таких писателей, кои разумно утверждаются на&#160;том мнении“. — „Может статься, — отвечал шут. — Да&#160;веришь&#160;ли, что&#160;правда в&#160;вине?“ — „Слыхал…“ — „Хорошо, так напейся&#160;же допьяна, тогда увидишь, что&#160;земля, а&#160;не солнце вертится“.
+</p><p>То&#160;же доказано в&#160;следующих стихах:
+</p><p>Случились вместе два астронома в&#160;пиру
+</p><p>И&#160;спорили весьма между собой в&#160;жару.
+</p><p>Один твердил: земля, вертясь, круг солнца ходит.
+</p><p>Другой, что&#160;солнце все с&#160;собой планеты водит:
+</p><p>Один Коперник был, другой слыл Птоломей,
+</p><p>Тут повар спор решил усмешкою своей.
+</p><p>Хозяин спрашивал: ты звезд теченье знаешь?
+</p><p>Скажи, как&#160;ты о&#160;сем сомненье рассуждаешь?
+</p><p>Он&#160;дал такой ответ: что&#160;в том Коперник прав;
+</p><p>Я&#160;правду докажу, на&#160;солнце не&#160;бывав,
+</p><p>Кто видел простяка из&#160;поваров такова,
+</p><p>Который&#160;бы&#160;вертел очаг кругом жаркова?
+Велезрячий, идучи вместе на&#160;охоту с&#160;кривым, молвил оному: „Сказывают, что&#160;ты более, нежели я, ловишь“. — „Правда, — отвечал кривой, — понеже я&#160;больше тебя вижу“. — „Нельзя статься“, — сказал другой. А&#160;кривой ему: „О&#160;чем ты ни&#160;изволишь биться, я&#160;выиграю, потому что&#160;я у&#160;тебя вижу два глаза, а&#160;ты у&#160;меня один“.
+Стряпчий, очень гнусного виду и&#160;весьма курнос, не&#160;мог почти окончить своим чтением некоего дела в&#160;суде. Тогда советник, имеющий сановитый нос, сказал: „Нет&#160;ли&#160;у кого очков для&#160;сего господина?“ Но&#160;он, не&#160;сердясь, на&#160;то отвечал: „Да&#160;пожалуйте, сударь, уже ссудите меня и&#160;вашим носом“.
+Богатого отца сын, гуляя по&#160;кладбищу, говорил сыну бедняка: „Могила моего батюшки выкладена мрамором, надпись положена золотыми словами, и&#160;вокруг пребогатая ограда, а&#160;могила твоего отца земляная, покрытая дерном“. Тогда бедный сказал: „Молчи, прежде нежели твой отец может поворотить свои камни в&#160;день суда, тогда уже мой будет в&#160;раю“.
+В&#160;некоей беседе говорили, что&#160;докторы ни&#160;к чему годны. Тогда один стряпчий сказал: „Неправда, они&#160;по крайней мере надобны для&#160;убавки многолюдства“. — „Но&#160;я, не&#160;защищая себя, скажу, — врач молвил, — что&#160;на меня никто не&#160;жалуется“. — „Статься может, — повторил сутяга, — ибо ты своих соперников отправил на&#160;тот свет“.
+</p><p>Старуха, хватя добрую чарку вина, пришла к&#160;вечерне и&#160;там, задремав, всхрапнула; другие толкнули ее, чтоб проснулась, тогда она возгласила: „Подносите внучке, а&#160;я более не&#160;стану“.
+Подьячий, при&#160;допросе некоего раскольника, говорил: „Буде у&#160;тебя совесть столь велика, как&#160;твоя борода, так сказывай правду“. — „Государь мой, — отвечал суевер, — ежели вы совести бородами измеряете, то, видно, вы бессовестны — для&#160;того что&#160;голобороды“.
+Школьник, принеся чинить сапоги, у&#160;коих пробились запятки, говорил сапожнику: „О&#160;ты, куриозный транслатер, немалым трудом и&#160;потом в&#160;науке и&#160;искусстве такого явного совершенства в&#160;починках обветшалых калькументов достигший, приставь мне два семицыркула к&#160;моим суппедиторам“.
+Поп свидетельствовал мальчика в&#160;катехизисе, который отвечал ему изрядно и&#160;после спросил самого учителя: „Отче, пожалуй, истолкуй мне один вопросец!“ — „Какой?“ — „У&#160;нас есть мерин, кто его сделал?“ — „Бог“. А&#160;малый: „Никак. Бог сделал его жеребцом, а&#160;мерином его мой бачко создал“.
+Некогда глупому дьякону случилось придти исходатайствовать себе священства; и&#160;как узнали — неуч, спросил его епископ: „Как! ты осмелился вступить в&#160;священный чин, ведая себя столь безумна?“ Он&#160;отвечал: „Богу так угодно было“. А&#160;тот: „Да&#160;не&#160;ложно есть в&#160;Писании, что&#160;и в&#160;осле была ему нужда“.
+Понеже кофе служит главным лекарством от&#160;печали, то&#160;некая госпожа, уведомясь, что&#160;ее муж убит на&#160;войне, — „Ах, бессчастна!“ — вскричала она, — скоро подайте кофию», — и&#160;тотчас стала весела.
+Диоген говорил, что&#160;в рассуждении философии, политики и&#160;медицины человек есть преразумное животное в&#160;свете, но, смотря на&#160;угадчиков и&#160;толкователей, снова можно его почесть за&#160;преглупую скотину.
+Сестра, журя своего брата за&#160;картежную игру, от&#160;которой он&#160;промотался: «Когда ты перестанешь играть?» — говорила ему. «Тогда, когда перестанешь любиться», — отвечал он. «О&#160;бессчастный! Видно, тебе играть по&#160;смерть свою».
+Одноглазый, встав рано, пошел в&#160;поле и&#160;на пути встретился с&#160;горбатым, которого он, поздравя с&#160;добрым утром, промолвил, насмехаясь: «Рано ты поднялся с&#160;своею ношею». — «Правда, — отвечал горбатый, — я&#160;нагрузился прежде, нежели у&#160;тебя еще одно окно было открыто».
+Некто философ говаривал, что&#160;при царских дворах есть четыре добрые матери, имеющие четверых пренегодных детей, а&#160;именно: правда, рождающая ненависть; счастие — гордость; строгость — опасность; а&#160;любимчество рождает презрение.
+</p><p>Трое иезуитов утром ехали сквозь лес и, как&#160;нападши на&#160;них воры, спрашивали, кто они&#160;таковы, то&#160;один из&#160;отцов отвечал: «Мы&#160;Иисусовой компании». — «Неправда, — сказали воры, — ибо у&#160;Иисуса никогда не&#160;было конницы, однако покажите ваши подорожные». — «На&#160;что&#160;такие вопросы? Вы можете нас признать по&#160;платью», — отвечали отцы. «Хорошо, мы&#160;знаем, что&#160;вы притворные беглецы, долой с&#160;коней, мы&#160;вам даруем жизнь, спасайтесь!»
+У&#160;некоторого государя просил нищий богатого подаяния, называясь его братом. Царь&#160;же, рассмеясь, спросил его: «Как&#160;то&#160;могло статься и&#160;кто твой был отец?» — «Адам, — отвечал, — он&#160;есть всем нам общий отец». Тогда царь чрез своего лакея велел ему подать одну копейку. Но&#160;нищий с&#160;досадою сказал, что&#160;это не&#160;царебратское подаяние. На&#160;сие государь отвечал: «Если я&#160;всех таковых братьев по&#160;стольку наделю, то&#160;принужден буду продать все мое владение, и&#160;того&#160;бы&#160;для большей милостыни мало стало; поди, если всякий брат твой даст тебе столько&#160;же, то&#160;ты богатее будешь меня».
+Велизарий о&#160;истреблении корыстолюбия сказал, что&#160;без некорыстолюбия нет прямой добродетели и&#160;что надежнейший способ к&#160;обузданию пороков есть уменьшение надобностей и&#160;роскошества. «Я&#160;некогда, — продолжал он, — спросил одного пастуха, отчего собаки его так ему верны». — «Оттого, — отвечал он&#160;мне, — что&#160;я-де кормлю их одним хлебом, а&#160;ежели&#160;бы&#160;кормил я&#160;их мясом, то&#160;бы они&#160;были волки».
+Вор, пред судьями будучи в&#160;расспросе, стал плевать, кашлять и&#160;сморкать не&#160;переставая, тогда один из&#160;них сказал: «О, какой мерзкий!» — «Ваша милость, я&#160;стараюсь себя очистить». Другой подхватил: «Экой ты плут!» А&#160;тот: «Нет, — (и&#160;покашляв): — ваше милосердие». Третий: «Каналья ты». А&#160;он: «Как&#160;ваше благоутробие сказали, так било два».
+Мужик жаловался начальнику университета так: «Боярин! Меня обидели некоторые сего дому бездельники, а&#160;сказывают, что&#160;ты у&#160;них главный» и&#160;пр.
+Подьячий сказал одному челобитчику: «Твой соперник дело свое перенес в&#160;другой приказ». А&#160;тот отвечал: «Пусть переносит хоть в&#160;ад; мой поверенный за&#160;деньги и&#160;туда за&#160;ним пойдет».
+Госпожа хвалилась своим слугам — я-де сверзила своего соперника. Тогда один из&#160;них молвил: «Хорошо, сударыня, а&#160;то он, свинья, взял было тя за&#160;уши».
+Проповедник негде в&#160;республике ради несогласия между судьями сказал в&#160;предике: «Боже, подаждь милость твою нашим приказным, дабы они&#160;союзно висели». Но&#160;глупец, тут будучи, вскричал: «Подай, боже, и&#160;что скорее, то&#160;лучше, всех добрых людей та молитва». Тогда он: «Благочестивые слушатели! Я&#160;не&#160;в той силе говорю, как&#160;сей мужик думает, я&#160;прошу, чтоб они&#160;висели на&#160;конкорде». А&#160;тот примолвил: «Что&#160;нужды? Как&#160;ни&#160;гордо, лишь&#160;бы&#160;удавились».
+Неученый молодчик, желая написать письмо к&#160;своей любовнице и&#160;не зная его сочинить, купил книгу писем и&#160;читал ее довольное письмо, кое, списав, послал к&#160;ней. Но&#160;как&#160;у ней была такая&#160;же книга и&#160;в коей она, нашед то&#160;письмо с&#160;ответом, написала своему любителю так: «Государь мой, я&#160;письмо ваше получила, и, оборотя лист, увидите ответ».
+Боярыня, по&#160;пожаловании мужа ее в&#160;воеводы, в&#160;первое воскресенье, стоя в&#160;церкви, увидела (будучи сама в&#160;задумчивости), что&#160;все люди и&#160;поп, пад на&#160;колени, стали молиться о&#160;дожде, и&#160;сказала почти всем вслух: «Когда я&#160;не умру и&#160;пока мой муж будет воеводою, то&#160;всем я&#160;вам услужу».
+Некий царь спросил одного мудреца, для&#160;чего философы прибегают к&#160;государям, а&#160;не видно, чтоб государи искали философов. Он&#160;на&#160;то: «Для&#160;того, что&#160;философы знают их нужду, а&#160;такие цари не&#160;признавают своего недостатка в&#160;добродетели, мудрости и&#160;в добром совете и&#160;не думают поискать тех, кто&#160;бы&#160;их мог в&#160;том поправить».
+Франциск I наложил у&#160;себя некую новую подать. Тогда ему донесли как&#160;об оскорблении величества, что&#160;народ, несмотря на&#160;его особу, очень ропщет. На&#160;то&#160;он, смеясь, сказал: «Пусть они&#160;говорят, надобно им за&#160;свои деньги иметь некое утешение».
+Во&#160;время обеда некто, захотя посмеяться над&#160;шутом, стоящим по&#160;другую сторону стола, спросил его: «Какая есть разность между тобою и&#160;дураком?» Шут ответствовал: «Только стол».
+Женщина, не&#160;хотя терпеть подлипалу, докучающего ей о&#160;любви, отказала ему разумно так: «Когда я&#160;была ребенком, тогда повиновалась моей матери, на&#160;возрасте слушалась моего отца, а&#160;теперь покорна моему мужу. Так ежели ты от&#160;меня чего хочешь, то&#160;посоветуй с&#160;ним».
+Некий шут, будучи вопрошен о&#160;числе всех глупых в&#160;городе, отвечал: «Это весьма трудно, но&#160;лучше&#160;бы&#160;меня спросили об&#160;умных, коих очень немного».
+Некто пришел на&#160;исповедь и&#160;между прочими грехами покаялся, что&#160;он теперь лишь побил свою жену. Духовник спросил тому причину. Но&#160;тот сказал, я-де к&#160;сему привык, потому что&#160;мало памятен, и&#160;не могу упомнить всех грехов, а&#160;когда побью мою жену, то&#160;она мне выговорит все, что&#160;я худого в&#160;жизни сделал, и&#160;чрез то&#160;легко могу исповедаться.
+Француз, захотя посмеяться русаку, приезжему в&#160;Париж, спросил: «Что&#160;такое значит парабол, фарибол и&#160;обол?» Но&#160;тот вскоре ему отвечал: «Парабол есть то, что&#160;ты не&#160;разумеешь; фарибол то, что&#160;ты говоришь, а&#160;обол — чего ты стоишь».
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-3.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikisource/ru/thumb/c/c0/Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-3.jpg/330px-Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-3.jpg" decoding="async" width="304" height="322" class="mw-file-element" srcset="//upload.wikimedia.org/wikisource/ru/thumb/c/c0/Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-3.jpg/500px-Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-3.jpg 1.5x, //upload.wikimedia.org/wikisource/ru/thumb/c/c0/Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-3.jpg/609px-Kurganow_n_g_text_1869_kratkie_zamyslovatye_povesti_text_1869_kratkie_zamyslovatye_povesti-3.jpg 2x" data-file-width="609" data-file-height="645" /></a><figcaption></figcaption></figure>
+<p>Философ, будучи на&#160;море во&#160;время великого шторма с&#160;худыми людьми, призывающими тогда бога, дабы их спас от&#160;потопа, сказал им: «Молчите, чтоб он&#160;забыл, если то&#160;станется, что&#160;вы здесь».
+Никакой народ не&#160;получает столько имен при&#160;крещении, как&#160;ишпанцы. Случилось одному ишпанцу, пришедшему ночью в&#160;сильный дождь, который его пробил до&#160;кожи, в&#160;корчме просить ночлега и&#160;стучаться у&#160;ворот. Тогда хозяин, встав, спросил: «Кто?» А&#160;он&#160;отвечал: «Дон Санхо Ал фоне Рамир Педро Карлос Франциск Доминик Стунига» — и&#160;прочее. Хозяин, имея у&#160;себя только одну порожнюю постелю, отвечал грубо, что&#160;у него для&#160;такой ватаги ночлега нет, и&#160;опять лег спать, а&#160;тот глупец принужден брести далече до&#160;другой корчмы.
+Некий богач, говоря о&#160;философах: «Не знаю, — сказал, — что&#160;их за&#160;книги и&#160;к чему годна их философия и&#160;мудрость; понеже оные люди так&#160;же часто стучатся у&#160;моих ворот, как&#160;и неученые».
+Некоторый король докучал одной знатной госпоже о&#160;любви. Она ему на&#160;то разумно ответствовала: «Ваше величество! Женою вашею быть я&#160;очень бедна, а&#160;полюбовницею — знатна».
+Некий господин, в&#160;яснодневие послав своего садовника в&#160;сад на&#160;работу, захотел сам посмотреть. Вошед туда, обзирал всюду, дабы увидеть работника, и, не&#160;усмотря его нигде, пошел под&#160;деревья, где и&#160;нашел его спящего и, оного разбудя, сказал ему: «Так-то&#160;ты работаешь, бездельник? Ты не&#160;заслуживаешь дневной пищи и&#160;не достоин солнечного освещения». — «Я&#160;то&#160;сам, сударь, признаваю и&#160;для того лежал под&#160;тенью».
+Государь, смеясь одному своему вельможе, который ему служил во&#160;многих посольствах, сказал: «Ты походишь на&#160;осла». А&#160;он&#160;ему на&#160;то: «Я&#160;на&#160;кого похожу, не&#160;знаю, токмо ведаю, что&#160;я имел честь вас представлять во&#160;многих случаях».
+Некий поселянин, приехав в&#160;город к&#160;своему сродственнику, между прочим спросил его, какую он&#160;имеет должность, но&#160;тот отвечал: «Великую…» — «Однако какую?» — «Жену с&#160;девятерыми детьми».
+</p><p><br />
+</p><p>Некоторый министр недальнего ума, будучи на&#160;пирушке, стал глумиться толщине своего брюха и, ударяя по&#160;нем, хвалился, что&#160;оно многого стоило обществу. Тогда некая госпожа на&#160;то сказала: «Гораздо&#160;бы&#160;было полезнее, когда&#160;бы&#160;такое иждивение потрачено было для&#160;головы сего столповщины».
+Химик, издав на&#160;имя папы Леона X такую книгу, в&#160;коей хвастал научить способу, как&#160;делать золото, и&#160;ожидал за&#160;то великого награждения, но&#160;папа, послав к&#160;нему пустой большой кошелек, приказал сказать, что&#160;ему теперь в&#160;том только и&#160;нужда, во&#160;что&#160;бы&#160;класть оное сокровище.
+</p><p>На&#160;обиженного купца плутами негде напали воры и&#160;спрашивали у&#160;него денег, то&#160;он им очень учтиво отвечал: «Государи мои, я&#160;теперь лишь повстречался с&#160;такими честными людьми, как&#160;и вы, меня лишили кошелька и&#160;денег».
+Некая баба прегнусной фигуры спрашивала мужа: «Кого из&#160;твоей родни тебе угодно, чтоб я&#160;посещала?» Он&#160;на&#160;то: «Друг мой, кого поволишь, только я&#160;отсутствием твоим весьма буду доволен».
+</p><p><br />
+</p><p>Некоторая госпожа, разговаривая с&#160;одним кавалером, между прочим сказала ему, что&#160;она хочет знать его полюбовницу. Но&#160;он&#160;несколько отговаривался и&#160;наконец во&#160;удовольствие ее любопытства обещался ей прислать портрет. Наутро получила от&#160;него сверток с&#160;небольшим зеркалом и, в&#160;оное поглядясь, узнала любовь его к&#160;себе.
+Мужик весьма слезился и&#160;пришел в&#160;отчаяние оттого, что&#160;его жена удавилась на&#160;груше в&#160;его огороде; тогда сосед, увидя его в&#160;такой печали, подошед к&#160;нему, сказал тихонько на&#160;ухо: «Как&#160;тебе не&#160;стыдно о&#160;сем крушиться, ты&#160;бы&#160;радовался! Дай мне прививочек той груши посадить в&#160;моем саду, авось либо и&#160;у меня будут таковые&#160;же плоды».
+</p><p>Ишпанец, будучи на&#160;корабле, одержимом великою бурею, и&#160;когда капитан для&#160;сбавки грузу приказал бросать в&#160;море все беспокойные и&#160;тягчайшие вещи, тогда он, схватя свою жену, хотел ее повергнуть в&#160;море. Но&#160;как&#160;начальник спросил тому причину, то&#160;он отвечал: «Я&#160;ничего беспокойнее и&#160;тягостнее не&#160;имею, кроме моей жены, и&#160;для того хочу ею ваше командирское приказанье исполнить».
+Некто несносный рифмач, начав только читать некоему своего сочинения поэму, спросил слушателя: «Которые стихи из&#160;сих лучше?» — «Те… коих ты еще не&#160;читал, потому что&#160;они меня не&#160;беспокоили».
+Двое пажей, гуляя по&#160;городу, встретясь с&#160;мужиком, бьющим крепко своего осла, сказали ему оба: «Как&#160;ты не&#160;сжалишься, муча толь бедную скотину?» Тогда мужик, сняв шляпу, сказал: «Прости меня, господин осел, я&#160;не думал, что&#160;ты им знаком и&#160;имеешь у&#160;себя таких приятелей».
+К&#160;забавному бедняку пришли ночью воры; тогда он, нимало не&#160;осердясь, сказал им: «Не знаю, что&#160;вы можете, братцы, найти здесь в&#160;такое время, где я&#160;и днем сам почти ничего не&#160;нахожу».
+Некоторый царь спросил мудреца: «Сколько ты богат?» — «Столько&#160;же, как&#160;и ты, — отвечал он, — ибо ты и&#160;я живем на&#160;божием иждивении: отходя от&#160;сего света, никто с&#160;собою лишнего не&#160;возьмет».
+Хромой негде встретился с&#160;горбатым и, захотя ему посмеяться, сказал: «Здравствуй, брат, нет&#160;ли&#160;чего нового в&#160;твоем чемодане?» — «Тебе, — отвечал горбатый, — надобно более знать, ибо ты всегда то&#160;туда, то&#160;сюда ходить изволишь».
+Некогда императору Августу сказал придворный: слух-де носится, что&#160;ваше величество вознамерены меня чем-то&#160;пожаловать. Он&#160;на&#160;то: «Как&#160;можно опасайся тому верить!»
+</p><p>Некоему ишпанскому адмиралу в&#160;торжественный день захотелось посетить королевские галеры в&#160;намерении оказать свое милосердие освобождением некоторых невольников, и&#160;спросил их, для&#160;чего они&#160;здесь? Тогда всякий извинялся разными оправданиями и&#160;силился его уверить о&#160;своей невинности; но&#160;один из&#160;них, откровенно ему признаваясь во&#160;всех своих винах, говорил, что&#160;я-де достоин гораздо больше сего наказания, какое теперь претерпеваю. «Сгоните сего негодного человека, — сказал адмирал, дав ему свободу, — дабы от&#160;него не&#160;заразились все те честные люди».
+Гасконец, пришед в&#160;сапожный ряд, выбрал сапоги и, надев, сказал, что&#160;теперь-де у&#160;меня денег нет. Продавец стал просить сапоги, но&#160;тот, вздумав их унесть, побежал по&#160;рынку, а&#160;за ним хозяин, крича: «Держи». Некоторые хотели было оного вора одержать, но&#160;как он&#160;им сказал, не&#160;мешайте, у&#160;нас-де заклад, кто кого выпередит, я-де в&#160;сапогах, а&#160;он в&#160;лаптях, тогда всем рынком закричали: «Ура! Сапоги выиграли».
+Юпитер, изготовя пир, позвал к&#160;себе прочих богов; тогда Купидон и&#160;Момус, встретясь при&#160;дверях палатных, долго спорили о&#160;предшествии. Первый начал тому говорить с&#160;великою учтивостью, но&#160;другой, почтя его за&#160;ребенка, стал его ругать, и&#160;дошло до&#160;драки, в&#160;коей Момус, не&#160;разумея никогда шуток, выцарапал глаза Купидону, который ходил жаловаться богам, кои рассудили, что&#160;когда Купидон от&#160;Момуса лишился зрения, то&#160;пусть он&#160;будет его вечным руковождем. Сего для&#160;с того времени глупость везде предводительствует Амуру, или&#160;любви.
+Шляхтич, собравшись ехать рано на&#160;охоту, приказал слуге разбудить себя в 6 часов. Слуга, встав за&#160;час, увидел боярина своего еще спящего и, разбудя его, сказал: «Извольте, сударь, поскорее выспаться, уже один только час вам опочивать остался».
+Двое ученых, один русак, а&#160;другой пруссак, спорили о&#160;старом и&#160;новом штиле. Пруссак многими доводами доказывал, что&#160;григорианское счисление вернее старого, говоря, что&#160;в 1592&#160;году от&#160;искусных математиков найдено 10 дней излишка в&#160;старом календаре, считая от&#160;Юлия Кесаря по&#160;сие время. «Тем для&#160;нас лучше, — отвечал русак, — ибо, когда новое счисление верно, то&#160;последний суд будет у&#160;вас ранее, нежели у&#160;нас, и&#160;когда дойдет до&#160;нас, то&#160;уже ад будет полон».
+Дворянин, ехав из&#160;села в&#160;другое и&#160;встретясь на&#160;дороге с&#160;пригожею крестьянкой, коя перед&#160;собою гнала осла, сказал ей: «Куда ты идешь, красавица?» Она ему на&#160;то — в&#160;такое-то&#160;село. «Знаешь&#160;ли, дружок, там такую-то&#160;барышню?» — молвил он. «Знаю, сударь». — «У&#160;себя&#160;ли&#160;она теперь? Так, пожалуй&#160;же, прошу тебя, — сказал он&#160;и хотел ее поцеловать, — отнеси ей мой поцелуй». Но&#160;она на&#160;то: «Извольте сие послать с&#160;моим ослом, он&#160;туда прежде меня придет».
+Кавалер, будучи жестоко влюблен в&#160;некую девицу и&#160;некогда гуляя в&#160;саду и&#160;увидясь с&#160;ней, спросил вдруг: «Позвольте сказать, сударыня, каким средством можно дойти до&#160;вашей спальни?» — «Церковью», — отвечала она.
+Некоему господину случилось с&#160;своею молодою супругою быть в&#160;одной беседе. Но&#160;как&#160;прочие барыни между собою говорили, то&#160;захотелось показать себя и&#160;сей госпоже, которая стала рассказывать о&#160;всех хитростях, какие некий полюбовник употребил для&#160;входу ночью в&#160;спальню к&#160;любимой им барыне в&#160;небытность ее мужа, и&#160;по несчастию, когда они&#160;были наедине, то&#160;вдруг муж начал стучаться у&#160;ворот: «Так представьте себе, матушки, в&#160;каком я&#160;находилась тогда смущении».
+</p><p><br />
+</p><p>Некая княгиня, будучи у&#160;одного посла и&#160;увидя предорогую картину, весьма расхвалила. Посол в&#160;знак любви послал оную к&#160;ней. Но&#160;она, получа ее, показала своему мужу, который на&#160;оную очень пристально смотрел. «Что&#160;вы скажете, душа моя, — молвила она, — о&#160;сем подарке, полученном мною от&#160;такого-то&#160;посла?» — «Я&#160;не&#160;имею, друг мой, более на&#160;то сказать, — отвечал князь, удивляясь сам доброте оной картины, — как&#160;сие: или&#160;оный посол очень глуп, либо я».
+</p><p><br />
+</p><p>Молодец, женясь незаведомо на&#160;весьма непостоянной девке и&#160;узнав то, всячески старался ее исправить, но, усмотря в&#160;том худой успех, жаловался ее отцу, с&#160;тем что&#160;он с&#160;нею хочет развестись. Тесть во&#160;утешение ему сказал: «Должно тебе, друг, потерпеть, ибо мать ее была такова&#160;же, и&#160;я не&#160;мог так&#160;же найти никакого средства, да&#160;после, на 60-м году, собою исправилась, и&#160;так думаю, что&#160;и дочь ее в&#160;таких летах будет честною, и&#160;уверяю тебя в&#160;том быть благонадежну».
+Юноша за&#160;столом попросил кушанья, а&#160;отец ему сказал: «Это неучтиво — просить самому, ты должен ждать, что&#160;тебе дадут». Голодный мальчик видит, что&#160;все едят, а&#160;ему ничего не&#160;дают, молвил своему отцу: «Батюшка, пожалуйте соли». — «На&#160;что&#160;тебе?» — отвечал отец. «Посолить кушанье, кое вы пожалуете». Тогда отец, увидя у&#160;него пустую тарелку, дал ему кушанье без&#160;дальной его просьбы.
+Мужик просил своего соседа, чтоб его ссудил ослом. Сосед на&#160;то: «Я-де его послал другому и&#160;сожалею, что&#160;ты не&#160;сказал прежде». Но&#160;в&#160;то время осел заблеял. «А! — молвил сосед, — вот и&#160;твой осел говорит, что&#160;это неправда, видно, брат, как&#160;ты ссудлив». — «Как&#160;тебе, дураку, не&#160;стыдно, — молвил другой, — что&#160;ты более веришь ослу, нежели мне!»
+Случилось за&#160;столом говорить об&#160;астрологах, что&#160;они много предсказывают, а&#160;ничего не&#160;сбывается. Хозяин&#160;же сам сказал: «Неложно, господа, таких угадчиков всегда почитают за&#160;безмозглых скотов». Слуга, услыша то, нес телячью голову на&#160;стол и&#160;дорогою съел из&#160;нее мозг; но&#160;как хозяин, осмотря, спросил, что&#160;это за&#160;безмозглая голова, — «телячья, сударь, — отвечал малый, — ибо теленок был астролог».
+Глупенькая старушка, будучи в&#160;церкви и&#160;выменя две свечки, одну поставила пред образом святого Михаила, а&#160;другую, не&#160;рассмотря, — пред пораженным демоном. Дьячок, увидя, сказал ей: «Ах! Что&#160;ты делаешь, бабушка, ведь ты эту свечку ставишь перед&#160;дьявола». Она на&#160;то: «Не замай, батюшка, не&#160;худо иметь везде друзей, в&#160;раю и&#160;в муке, мы&#160;еще не&#160;знаем, где будем».
+Некогда спросили Александра Великого, каким средством он&#160;дошел до&#160;такой степени славы и&#160;величества? Он&#160;отвечал: «Добрыми моими поступками с&#160;моими злодеями и&#160;старанием, кое мною употреблено для&#160;снискания непременной ко&#160;мне любви в&#160;моих приятелях».
+Скоморох, неся под&#160;плащом вязанку дров, сказал сошедшему с&#160;ним мужику: «Дале, глупец, ты изломишь мою лютню». Мужик остановился, а&#160;игрок не&#160;успел отойти десяти шагов, как&#160;у него выпало полено, что&#160;тот, увидя, вскричал ему: «Господин, подыми у&#160;падшую струну от&#160;вашей лютни».
+Трое мудрецов: один грек, другой индиец, третий из&#160;Персии — между прочим рассуждали о&#160;том, какое человеческое состояние есть самое беднейшее. Тогда грек сказал: «Старость, угнетаемая болезнями и&#160;нищетою». Индиец: «Быть в&#160;нестерпимой болезни». Но&#160;когда персидский мудрец молвил: «Умереть без&#160;добрых дел», — тогда и&#160;прочие в&#160;том согласились.
+У&#160;молодых господичев часто бывают такие учители, кои их более ласкают, нежели исправляют. Шляхтич, оконча науки, спросил своего слуги: «Что&#160;я&#160;лучше выучил?» Слуга на&#160;то: «Ездить верхом, потому что&#160;лошади ласкать не&#160;умеют».
+Один другого назвал вором, а&#160;доказать не&#160;мог, и&#160;так сия правда тому была досаднее лжи. Вор, взяв свидетелей, позвал того пред судью, который присудил, чтоб он&#160;то доказал или&#160;признал его за&#160;честного человека. Но&#160;тот, выдумав избежать неправды, двойным обиняком: «Это правда, он&#160;честный человек, я&#160;солгал».
+Некая княжна, будучи девицею во&#160;всю свою жизнь, и&#160;на преклонном своем веку ослепла. Негде нищий слепец ее улуча, вскричал: «Милостивая государыня, сжальтесь над&#160;бедным человеком, лишившимся светских веселостей». Она, слыша то, спросила у&#160;своей рабы: «Какой это человек, не&#160;евнух&#160;ли?» — «Нет, сударыня… Нищий слепой». — «Ах, бедный человек! А&#160;я&#160;думала другое».
+Некто неженатый советовал мудрецу Епиктиту жениться, представляя, что&#160;это весьма пристойно философам. «Когда так, — сказал он, — то, пожалуй, выдай за&#160;меня дочь свою».
+Некая госпожа, беспокойная в&#160;своем болтании, спросила лекаря, отчего у&#160;ней зубы падают. Он&#160;ей на&#160;то: «Оттого, сударыня, что&#160;ты их часто своим языком колотить изволишь».
+Император Конрад III, взяв с&#160;великим трудом город Мунич, думал приказать рубить на&#160;голову всех мужчин, а&#160;женщинам дозволить выдти из&#160;города, взявши с&#160;собою что&#160;получше. Жены, пользуясь сим дозволением, взяли своих мужей за&#160;корташки и&#160;понесли на&#160;себе, говоря, что&#160;только у&#160;нас и&#160;свету в&#160;очью и&#160;лучшего сокровища. Сей вымысел так убедил государя, что&#160;он простил всех тех жителей и&#160;их царя, которого хотел было вовсе разорить.
+</p><p>Немец просил своего пастора о&#160;наставлении: какую молитву читать поутру, вставая с&#160;постели? Он&#160;ему на&#160;то: «Говори: Владыко господи, сохрани меня от&#160;злого дворянина, от&#160;бессовестного подьячего, от&#160;алгвазила, от&#160;откупщика, от&#160;лекарей и&#160;аптеки, от&#160;слушающих каждое утро по&#160;две обедни и&#160;от стряпчих».
+Некий поп вздумал по&#160;духовенству пожурить линьком одну женщину за&#160;ее грехи, но&#160;муж ее, будучи с&#160;нею, сказал: «Батюшка, она очень нежна, и&#160;ежели угодно, то&#160;я за&#160;нее сие вытерплю». Духовник начал отправлять свою должность, а&#160;баба вскричала: «Бей его, друга, крепче, ради меня — окаянной многогрешницы».
+Некоторый воевождь стал лагерем в&#160;весьма неспокойном месте и, слыша ропот от&#160;неких воинов, сказал им: «Когда вы хотите бранить своего начальника, то&#160;отойдите подале от&#160;его ставки, чтоб он, услыша, не&#160;велел вас за&#160;то наказать».
+Поп, поссорясь с&#160;одной бабой на&#160;пирушке, грозил ее за&#160;то поколотить. Но&#160;она, ударяя себя по&#160;бедре, сказала: «Дай боже ей здоровье, я&#160;тебя нимало не&#160;боюсь». Поп: «Поди ну к&#160;черту, плёха», — а&#160;она закричала: «Извольте, господа, прислушать, он&#160;открыл мою исповедь».
+Некоторый командир никогда не&#160;жаловал просьб о&#160;награждениях, то&#160;некто подчиненный вздумал ему доложить так: «Я, нижайший, по&#160;службе моей признаю себя достойным награды, но&#160;ведая, что&#160;вы по&#160;просьбе ничего не&#160;делаете, а&#160;о не&#160;смеющих сим вас трудить не&#160;вспомните, так прошу вашего благоутробия, дать наставление, как&#160;мне в&#160;том поступить». — «Экой нетерпеливый, — сказал начальник, — позови нашего дьяка, я&#160;сейчас велю тебя в&#160;том удовольствовать».
+Зело брюшистого монаха, идущего улицею, спросила некая насмешница: «Отче святый, когда вы родите?» — «Когда найду повивальную бабку», — отвечал он.
+Император Адриян спросил Епиктита, для&#160;чего представляется Венера нагая. «Для&#160;лучшего к&#160;ней почтения, — отвечал философ, — а&#160;более для&#160;того, что&#160;она обыкновенно делает тех почти нагими, кто ее веселостью очень страстно пленяется».
+Одна юношка, покушав чрезмерно плодов, получила запор. Лекарь хотел было поставить ей клистир, но&#160;ей казалось сие столь противно, что&#160;она лучше хотела умереть. Мать&#160;же ее сказала, что&#160;неотменно то&#160;надобно сделать. Бедная девка не&#160;могла более отговориться, заплакав, молвила: «Теперь-то&#160;я знаю, как&#160;безвинные страдают за&#160;виноватых».
+Матроса, идущего на&#160;корабль, отправляющийся в&#160;Шпицберген, спросил философ: «Постой, братец, скажи мне, где твой отец умер?» — «В&#160;потоплении корабля…» — «А&#160;дед?» — «Потонул&#160;же, ловя рыбу в&#160;бурную погоду…» — «А&#160;прадед?» — «Так&#160;же пропал с&#160;кораблем…» «Как&#160;же ты смеешь вдаваться морю, ведая, что&#160;все твои предки там погибли, это признак безрассудной отваги?» — «Господин мудрец, — отвечал матрос, — как&#160;то ни&#160;есть, однако и&#160;я имею не&#160;меньше причин; пожалуй, скажите, как&#160;ваши предки преставились?» — «Весьма блаженно на&#160;своих ложах!» — «Ах, для&#160;чего&#160;же вы не&#160;боитесь ложиться на&#160;вашу постелю?»
+Случилось одному епископу прийти к&#160;папе, а&#160;в то&#160;время считали у&#160;него множество червонных. Тогда папа сказал: «Видишь, что&#160;церковь ныне не&#160;в том веке, когда говорили — не&#160;имею ни&#160;злата, ни&#160;сребра». (Деяние, 2.) «Правда, святой отец, — отвечал епископ, — да&#160;и тщетно ныне сказать расслабленному — восстани и&#160;ходи».
+Некоторый оратор, чрезмерный толстяк, вышел для&#160;оказывания речи во&#160;время мятежа, тогда народ, увидя его, засмеялся. «Господа! — сказал он. — Вижу, что&#160;вы смеетесь моему дородству, но&#160;жена моя еще меня толще, однако когда мы&#160;в согласии, то&#160;довольно нам одной постели, а&#160;когда побранимся, тогда нам и&#160;всего дому мало». И&#160;тем укротил народный мятеж.
+</p><p>Музыкант жаловался на&#160;игрослушателя, который обещал, а&#160;ничего ему за&#160;то не&#160;дал. Но&#160;тот сказал: «Мы&#160;просты, ибо ты утешал мой слух приятным звуком, а&#160;я тебя моим обещанием».
+Некий знатный господин, будучи в&#160;великих долгах, и&#160;при смерти своей сказал духовнику: «Я&#160;прошу бога хотя продолжить мою жизнь, пока выплачу долги». Поп, думая то&#160;вправду, отвечал: «Это хорошее обещание, авось-либо бог и&#160;услышит твою молитву?» — «Ежели&#160;бы&#160;бог явил такую милость, — молвил больной, оборотясь к&#160;своему приятелю, — то&#160;бы я&#160;никогда не&#160;умер».
+Некто хвалился своею храбростию, а&#160;во время битвы убежал. Другой, увидя, спросил: «Где та бодрость?» — «В&#160;ногах», — отвечал трус. А&#160;тот: «Правда, ему всякая рана смертельна, потому что&#160;он весь сердце».
+Некто шляхтич, известный неублюдок, вздумав посмеяться над&#160;Цицероном, что&#160;он был из&#160;подлого рода, спросил у&#160;него: «Кто&#160;бы&#160;такой был твой отец?» Но&#160;Цицерон, переворотя его вопрос, сказал: «Твоя мать сделала так, что&#160;тебе весьма трудно угадать, кто&#160;бы&#160;такой был твой отец».
+Француз говорил, что&#160;многие русаки портятся в&#160;чужестранных землях. «Это правда, — отвечал русак, — но&#160;всякий иноземец исправляется в&#160;России».
+Сикст V достал папежство таким средством: делался часто больным и&#160;большую часть года жил в&#160;своих деревнях, а&#160;для лучшего притворства ходил сугорбясь и&#160;кашлял, ведая, что&#160;обычно избирают в&#160;папы престарелых и&#160;дряхлых кардиналов, дабы можно многим дойти до&#160;сего достоинства. Как&#160;скоро тогдашний папа умер, так прочие кардиналы избрали Сикста главою духовенства, думая, что&#160;он очень хвор. Но&#160;после того вскоре стал он&#160;ходить прямо и&#160;казаться здоров. Тогда один его любимец спросил: «Отче святый, отчего вы спрямились, сделавшись папою?» — «Оттого, — отвечал понтиф, — ибо я, будучи кардиналом, горбился для&#160;сего, чтоб сыскать ключи святого Петра, а&#160;теперь я&#160;их уже нашел».
+Ишпанский вельможа захотел при&#160;себе иметь ученого человека для&#160;разговору, приятель его представил ему стихотворца, который, будучи вопрошен, знает&#160;ли&#160;он делать стихи, отвечал: «Вы можете увидеть из&#160;моих трудов». И&#160;наутро принес к&#160;нему великое число романов (сказок и&#160;басен) и&#160;прочих ишпанских стихов всякого рода. Вельможа, увидя то, сказал приятелю: «Сей рифмач мне не&#160;нравится». — «Для&#160;чего?..» — «Потому что&#160;не знать стихотворства надобно быть великому невежде, а&#160;наделать столько, что&#160;он мне показывал своего сочинения, должно быть глупцу». Сия повесть есть добрая сатира на&#160;тех, кто единственно упражняется в&#160;стихотворстве.
+Некто грек сделался мусульманином. По&#160;прошествии шести месяцев соседи, приметя, что&#160;он не&#160;отправляет ежедневно обыкновенных пяти молитв, привели его пред судью, чтоб за&#160;то наказать. Судья спросил тому причину. Он&#160;отвечал: «Государь мой! Когда я&#160;сделался мусульманином, не&#160;вы&#160;ли&#160;сами тогда мне говорили, что&#160;я стал так чист, как&#160;переродился?» — «Это правда…» Но&#160;он: «Когда так, а&#160;понеже нет более шести месяцев, как&#160;я в&#160;вашей вере, так можно&#160;ли&#160;требовать молитвы от&#160;полугодовалого младенца».
+Мудреца прегнусной фигуры Езопа некто шутник взял за&#160;руку и, приведя к&#160;резчику, сказал: «Как&#160;это, разумеешь&#160;ли?» И&#160;после ушел. Философ, удивясь сему, спросил о&#160;причине. Резчик на&#160;то: «Тот господин просил меня вырезать черта, а&#160;я ему отказал за&#160;неимением у&#160;себя образца, так знай, как&#160;он тебе насмеялся».
+</p><p><br />
+</p><p>На&#160;некий пир пришел шут, коего увидя, дворецкий стал его высылать как&#160;незваного гостя, говоря ему, что&#160;он лишний. Но&#160;шут ему отвечал: «Ошибаешься, друг мой, перечти снова, начиная с&#160;меня, так узнаешь, что&#160;я не&#160;лишний».
+Нуманцы, народ весьма храбрый, были обращены в&#160;бег от&#160;Сципиона. Старики их, увидя сие, стали их порицать трусостию, говоря: "Разве вы бились не&#160;с теми&#160;же римскими овцами, коих мы&#160;многократно прогоняли? " — «Это правда, — отвечал один воин, — что&#160;овцы те&#160;же, но&#160;пастух у&#160;них другой».
+</p><p>Грек, находясь в&#160;службе у&#160;Дария, держался своего закона. Тогда царь, призвав его пред себя, стал ему повелительно советовать о&#160;принятии их веры. «На&#160;что&#160;вам это? — сказал грек. — Ибо когда я&#160;богу солгу, то&#160;как могу быть верен моему государю?»
+Некто насмеялся чужеземцу, что&#160;у них за&#160;морем нет хороших язычных учителей. Тот ему доказал: «Потому что&#160;у вас наши перукмахеры, кучеры и&#160;цирюльники часто бывают почетными учителями».
+Фалес-мудрец, на&#160;вопрос, сколько далеко отстоит правда от&#160;лжи, отвечал: «Как&#160;глаза от&#160;ушей», — то&#160;есть гораздо то&#160;вернее, что&#160;видим, нежели — что&#160;слышим.
+Цицерон говаривал, что&#160;ложные друзья подобны ласточкам, кои летом появляются, а&#160;зимою улетают. Так и&#160;те толпами приходят в&#160;счастии, а&#160;в несчастии все отбегают. А&#160;непостоянство фортуны похоже на&#160;молодую девку, коя, оставя прежних своих полюбовников, ищет помоложе.
+</p><p>Некто пришел к&#160;славному живописцу и, увидя его детей непригожих, сказал: «Удивительно, что&#160;ты портреты делаешь хорошие, а&#160;детей дурных». Маляр ему на&#160;то: «Что&#160;вам дивно? Ведь портреты-то&#160;я делаю днем, а&#160;детей ночью».
+Бережливый вопрошен, для&#160;чего он, будучи в&#160;глубокой старости, живет скупо? «Для&#160;того, — отвечал он, — чтоб по&#160;смерти лучше оставить что-нибудь неприятелям, нежели заживо лишиться приятелей». Разумел он: где деньги, там и&#160;друзья.
+Камбис, грозный государь и&#160;гонитель неправды, приказал с&#160;одного своего судьи и&#160;любимца содрать с&#160;живого кожу за&#160;взятки и&#160;неправосудие и&#160;покрыть ею стул; и, пожаловав сына того в&#160;судьи, велел ему всегда садиться на&#160;том стуле.
+Антигон царь, будучи вопрошен, как&#160;можно победить своих неприятелей, отвечал: «Силою и&#160;храбростию, и&#160;ежели недостанет львиной кожи, то&#160;надобно пришить к&#160;ней и&#160;лисью».
+Некая пожилая госпожа, будучи в&#160;беседе, крепко спорила, что&#160;ей нет более сорока лет от&#160;роду. Тогда хозяин, знав, что&#160;ей больше пятидесяти лет, сказал: «Можно сему поверить, потому что&#160;она уже более десяти лет нас о&#160;том уверяет».
+Сократ советовал молодым людям смотреться в&#160;зеркало для&#160;того, что&#160;ежели они&#160;пригожи, то&#160;опасались&#160;бы&#160;то делать, что&#160;несходно с&#160;их красотою, а&#160;когда они&#160;дурны, то&#160;бы старались наградить телесные недостатки лучшею добродетелью и&#160;разумом. Чего ради должно им держаться юности честного зерцала, то&#160;есть учения честного жития (книжка на&#160;русск.).
+Некто Диогена, идущего дорогою, спросил: «Откуда ты идешь, куда, зачем?» Он&#160;отвечал: «Из&#160;кадки, к&#160;друзьям, за&#160;деньгами».
+Стряпчий и&#160;лекарь негде спорились о&#160;том, кому наперед идти, и&#160;избрали Диогена в&#160;третьи, который тотчас в&#160;пользу стряпчего решил: «Вору надобно идти наперед, а&#160;палачу за&#160;ним».
+</p><p>Старик говорил: «Когда дети бывают остроумны в&#160;юношестве, то&#160;под старость делаются великими глупцами». А&#160;ему на&#160;то сказали: «Ежели это правда, то&#160;ты был младенцем превосходный разумник».
+Александр Великий спросил у&#160;одного славного пирата (морского разбойника), взятого в&#160;полон: «Для&#160;чего ты разбойничаешь?» — «Для&#160;своей пользы, — отвечал пират, — равно как&#160;и ты обык то&#160;же делать, а&#160;разбойником меня называют потому, что&#160;я имею один капер (мореходное судно), а&#160;вас, имеющего великое войско, величают царем». Сей смелый ответ столь царю понравился, что&#160;он без&#160;всякого наказания его отпустил.
+Князю Ромодановскому случилось судить одно дело, в&#160;опровержении которого подьячие, отважась, представляли ему, что&#160;он и&#160;сам претерпел многие обиды от&#160;неправой сей стороны. «Оставьте это, — сказал нелицемерный судья, — и&#160;говорите о&#160;вашем деле, я&#160;здесь сужу не&#160;для себя, но&#160;для общества».
+Женщины, сидя в&#160;осеннее время при&#160;долине на&#160;травке и&#160;увидя мимо идущего седого старика, сказали ему во&#160;издевку: «Разве уже на&#160;горах есть снег?» — «Статься может, — отвечал старец, — уже и&#160;коровы сошли на&#160;мураву в&#160;долины».
+Афинские посланники, бывшие у&#160;Филиппа, по&#160;возвращении своем хвалили сего государя за&#160;то, что&#160;он пригож, велеречив и&#160;много может пить. «Эта похвала, — сказал один мудрец, — государю неприлична, ибо первое дарование пристойно женщинам, второе — риторам, а&#160;третье — грецким губкам».
+Турецкого посла посетили многие придворные дамы, чрезмерно разрумяненные. Тогда он, будучи вопрошен, которая ему кажется пригожее других, отвечал: «Сего я&#160;сказать не&#160;могу, ибо я&#160;в живописи неискусен».
+Афинодор-мудрец, отъезжая от&#160;Кесаря Августа в&#160;свое отечество, дал ему последнее наставление: «Кесарь, когда ты осердишься, то&#160;помни, чтоб тебе не&#160;делать ничего до&#160;тех пор, пока не&#160;прочтешь всех азбучных букв».
+Диогена бранили за&#160;то, что&#160;люди ему так, как&#160;скоту дивятся. «Неправда, — отвечал Диоген, — но&#160;скоты мне удивляются так, как&#160;человеку».
+</p><p>Друзья Сократовы оказывали неудовольствие в&#160;том, что&#160;один человек, которого он&#160;поздравил, не&#160;отдал ему поклона. «На&#160;что&#160;сердиться? — сказал мудрец. — Видите, что&#160;я его учтивее».
+Мужик, будучи обижен от&#160;соседа, пошел к&#160;воеводе жаловаться и&#160;подарил ему кувшин молока, а&#160;виноватый, снеся поросенка, выкрутился. Тот, сожалея, спросил подьячего: «Ах! Где-то&#160;мое молоко?» Подьячий, открыв тайну, сказал: «Выпил поросенок». — «Эка мерзкая скотина, пострел ил о&#160;бы ее горой».
+Двое стряпчих спорились об&#160;остроте своего разума и&#160;проворстве, и&#160;один сказал: «Я&#160;тебя сто раз могу продать, нежели ты меня однажды». — «Это правда, — отвечал другой, — потому что&#160;ты ничего не&#160;стоишь».
+Некто, насмехаясь одной госпоже, которая величалась должною знатностию и&#160;высокоречием, сказал при&#160;ней своему слуге: «Господин мой лакей, доложи господину моему кучеру, чтоб он&#160;изволил господ моих лошадей заложить в&#160;госпожу мою карету».
+Филипп, слыша негодование от&#160;сына своего Александра, что&#160;он имел многих братьев от&#160;разных матерей, сказал: «Александр! Когда ты видишь многих себе сверстников и&#160;преемников империи, то&#160;старайся быть столь добродетельным и&#160;храбрым, чтоб ты мог получить скипетр лучше чрез свое достоинство, нежели чрез мою милость».
+Некоторый старик имел много у&#160;себя детей и, будучи при&#160;смерти, призвал их пред себя и, раздав им по&#160;пучку прутьев, спросил: «Можете&#160;ли&#160;вы оные разом переломить?» Но&#160;как&#160;они от&#160;того отказались, называя то&#160;невозможным делом, тогда отец им сказал: «Отселе научитеся, мои детки, что&#160;ежели вы станете жить единодушно, то&#160;будете счастливы и&#160;страшны вашим неприятелям, а&#160;если несогласно, то&#160;ослабеете и&#160;легко можете быть в&#160;порабощении».
+Мудрецу малопитущему сказано: «Ежели все люди так будут пить, то&#160;вино весьма одешевлеет». Он&#160;отвечал: «Еще дороже, когда всяк будет так пить, как&#160;хочет, а&#160;я пью, сколько хочу».
+Глупенький молодчик, захотев посмеяться пожилому человеку при&#160;одной красавице, спросил его, как&#160;он стар. «Я&#160;то&#160;не очень помню, — отвечал муж, — а&#160;только знаю, что&#160;двадцатилетний осел гораздо старее шестидесятилетнего человека».
+Некий мореходец вопрошен, какое&#160;бы&#160;морское судно было безопаснейшее. Отвечал он: «Которое уже в&#160;гавани назначено в&#160;ломку».
+Спросили одной профессорши, для&#160;чего она бездетна, имея у&#160;себя давно молодого и&#160;дородного мужа. Отвечала она: «Признаюсь, что&#160;муж мой искусен математике, да&#160;несилен в&#160;мултипликации».
+Некоторый поп очень больно подрался с&#160;женою. Сродники ее стали его журить, что&#160;ему паче всех должно утолять свои страсти и&#160;быть примером благожития. «Да&#160;ведь я&#160;то и&#160;делаю, — сказал им пресвитер, — подражая апостольскому учению: наказую плоть мою и&#160;в послушание пленяю, ибо муж и&#160;жена суть два в&#160;плоть едину».
+</p><p>Некий судья счастливыми в&#160;свете называл докторов потому, что&#160;их удачливые случаи видит солнце, а&#160;ошибочные земля скрывает. Он&#160;же одному врачу, который хвастался, что&#160;его искусство прибыльнее, сказал: «Правда, твое ремесло выгоднее моего потому, что&#160;ты хотя и&#160;многих на&#160;тот свет отправил, однако за&#160;такое убийство еще не&#160;повешен и&#160;ни однажды ничем не&#160;сечен».
+Платон одному из&#160;своих слуг, который достоин был наказания, погрозил так: «Быть&#160;бы&#160;тебе биту, глупец, ежели&#160;бы&#160;я не&#160;осердился».
+Некоторый шутник спросил у&#160;другого, который час. Тот отвечал ему: «Теперь такой час, в&#160;котором в&#160;Ишпании ослы купаются». — «Я&#160;очень дивлюсь, — молвил первый, — что&#160;ты еще не&#160;в воде».
+</p><p><br />
+</p><p>Вельможа порицал своего любимца тем, что&#160;он часто лжет. «Это правда, — отвечал лицемер, — что&#160;я, хваля тебя, много погрешил».
+Диоген, будучи вопрошен, в&#160;котором часу должно обедать, отвечал: «Богатый, когда хочет, а&#160;убогий, когда может». Однажды он&#160;назвал себя собакою. Тогда некто спросил, для&#160;чего он&#160;себя так порицает. «Для&#160;того, — сказал мудрец, — что&#160;я злых кусаю, на&#160;не подающих мне ничего лаю, а&#160;благодетелей ласкаю».
+Ему ж случилось, сидя на&#160;улице, обедать, то&#160;собравшийся около него народ стал ему смеяться и&#160;называть собакою. «Врете вы, — сказал он, — разве те собаки, которые, около меня стоя, ждут, чтоб я&#160;им что-нибудь бросил».
+Антисфен вопрошен: «Каким образом должно ко&#160;двору приходить?» — «Как&#160;к&#160;огню, — отвечал мудрец, — не&#160;очень близко, чтоб не&#160;ожечься, и&#160;не очень далеко, чтоб не&#160;озябнуть».
+Диоген, идучи дорогою, поклонился одному судье, а&#160;он перед&#160;ним и&#160;шапки своей не&#160;помял. «Я&#160;думаю, — сказал мудрец, — что&#160;наш судья либо с&#160;рогами, или&#160;коростоглав, потому что&#160;он свою голову обнажить стыдится». Его ж спросили: «Кому подобен скупой?» Он&#160;отвечал: «Свинье, ибо она бывает нам гораздо полезнее после своей смерти».
+</p><p><br />
+</p><p>Некто спросил у&#160;одного мота, проигравшего деньги и&#160;с себя платье и&#160;стоящего у&#160;трактира в&#160;великой печали: «Что&#160;тебе сделалось?» — «Нет&#160;ничего», — отвечал он. «О&#160;чем&#160;же ты тужишь?» — «О&#160;том-то&#160;и тужу, что&#160;нет ничего, кроме рубахи».
+Некто разумно уподоблял карты и&#160;кости к&#160;лекарским пилюлям, ибо как&#160;от пилюль очищаются желудок и&#160;кишки, так карты опустошают карманы и&#160;сундуки.
+Некий простяк, пришед к&#160;одному мудрецу, живущему во&#160;уединении, спросил: "Кто так один может жить, как&#160;ты живешь? " Философ на&#160;то: «Я&#160;один жить начал с&#160;самого того времени, как&#160;ты ко&#160;мне пришел». Мудрец тогда считается один, когда он&#160;бывает между невеждами.
+Некий господин, увидя на&#160;улице женщину, идущую за&#160;стадом ослов, сказал ей: «Прости, ослова матушка». Она ему на&#160;то: «Прости, мое любезное дитятко».
+</p><p>Сократ, вопрошен, какие люди могут назваться из&#160;всех благороднейшими, отвечал: «Те, кои убожество, бесчестие, труд и&#160;смерть терпеливо сносят, а&#160;противное сему презирают». Он&#160;же женщин называл подобиями смерти, потому что&#160;они за&#160;бегущими от&#160;них сами гоняются, а&#160;от тех, кои их ищут, удаляются.
+Некоторый рифмач, по&#160;приказанию одного епископа описав в&#160;стихах семь добродетелей и&#160;столько&#160;же противных им пороков, принес к&#160;нему и, чтоб побудить его к&#160;награждению яко скупого человека, сказал: «Не прикажете&#160;ли, ваше благоутробие, приписать и&#160;оный порок, называемый „неблагодарность“?» Епископ, узнав, что&#160;то до&#160;него касается очень изрядно, сказал ему: "Но&#160;не&#160;забудь и&#160;к добродетели приписать осьмую, называемую «терпение».
+</p><p><br />
+</p><p>Некий царь сказал тем, которые ему выговаривали, что&#160;простое его одеяние неотлично от&#160;своих подданных: «Я&#160;желаю лучше, чтоб моя слава и&#160;добродетели отличали меня от&#160;моих подданных, нежели корона и&#160;порфира».
+Некоторому государю донесено, что&#160;некий пленный вождь, видя к&#160;себе великие царские милости, его не&#160;любит. «Я&#160;хочу, — отвечал царь, — оказать ему столько благодеяния, что&#160;я его принужу и&#160;поневоле меня любить». Он&#160;же говаривал, что&#160;больше мух ловят одною медовою ложкою, нежели десятью уксусными бочками.
+Некий мудрец, вопрошен, для&#160;чего он&#160;очень мало пьет вина, отвечал: «И&#160;Александр Великий по&#160;охоте к&#160;вину помрачил много сияния своей славы, ибо оное затмевает разум и&#160;добродетель и&#160;притом имеет прескаредных дочерей: ярость и&#160;скотскую любовь».
+Карл V говаривал: «Для&#160;составления хорошего войска желал&#160;бы&#160;я, чтоб италианцы представляли голову, ишпанцы — руки, россы — грудь по&#160;причине их верности и&#160;силы, а&#160;прочие государства составляли&#160;бы&#160;живот и&#160;ноги».
+</p><p><br />
+</p><p>Некая женщина вопросила другую благонравную госпожу о&#160;средстве, каким входит она в&#160;любовь у&#160;своего мужа. "Таким, — отвечала ей, — я&#160;делаю все то, что&#160;ему нравится, и&#160;все то&#160;терпеливо сношу, что&#160;мне худо кажется ".
+Некий полководец выхвалял в&#160;присутствии своего государя чины военные, а&#160;статские хулил. «Молчи, — сказал ему царь, — и&#160;знай, что&#160;ежели&#160;бы&#160;статские хорошо отправляли свои должности, то&#160;бы мы&#160;не имели нужды в&#160;военных людях».
+Генерал после некоторой баталии поносил волонтера тем, что&#160;якобы его не&#160;было в&#160;сражении. «Я&#160;вам докажу, — сказал ему гордо тот рыцарь, — что&#160;я там находился, да&#160;еще на&#160;таком месте, где вы не&#160;смели показаться». Вождь, будучи тронут таким поносительным словом, грозил ему за&#160;то жестоким отмщением. Но&#160;трус, видя, что&#160;генерал пришел в&#160;великую запальчивость, утолил его гнев сими словами: «Я&#160;был, сударь, при&#160;обозе, где ваша храбрость не&#160;дозволяла вам находиться».
+Мужик, слыша, что&#160;один подлый чужестранец хвалился своим благородством, весьма тому хохотал, говоря: «Славны бубны за&#160;горами». Иноземец, рассердясь, сказал ему: «Тебе&#160;ли, скотине, знать, на&#160;ком основано благородство». — «Очень, сударь, знаю, — отвечал он, — я&#160;думаю на&#160;том, которому в&#160;своем отечестве жить невместно: бывают иные из&#160;вашей братии корноухи и&#160;затаврены».
+Некоторому вельможе, бывшему в&#160;тяжбе, казалось за&#160;столом всякое кушанье невкусно. А&#160;как&#160;он за&#160;то рассердился на&#160;своего повара, то&#160;его приятель сказал: «Кушанье, братец, вкусно и&#160;хорошо изготовлено, но&#160;разве ваши соперники вам не&#160;по вкусу».
+Некто женился на&#160;девушке, которая вскоре родила другую, и, по&#160;разнесшемуся слуху, иные новобрачному смеялись, что&#160;он женился на&#160;кобыле с&#160;жеребенком. Другие говорили, что&#160;плод его очень рано поспел. Но&#160;некто сказал ему: «Не погневайтесь, сударь, вы очень поздно сыграли вашу свадьбу».
+</p><p>Спросили горбатого, что&#160;ему лучше нравится, то&#160;ли чтоб бог его сделал как&#160;прочих людей, или&#160;чтоб они&#160;были такие&#160;же горбуны. Отвечал он: «Когда уже нельзя быть без&#160;горба, то&#160;я&#160;бы&#160;с таким&#160;же приятством желал их видеть, с&#160;каким они&#160;на меня смотрят».
+Александр VIII, избран в&#160;папы на 79&#160;году от&#160;рода и&#160;который чрез три недели произведя многих своих сродников, спросил одного своего любимца, что&#160;о нем говорят. Тот отвечал: «Говорят, что&#160;вы не&#160;медлите в&#160;произвожде-нии своей родни». Папа сказал: «Oh! oh! sono vinti tre hЖre emezza: уже 23 часа с&#160;половиною».
+</p><p>Рифмач, призвав лекаря, говорил: «Что-то, братец, у&#160;меня есть на&#160;сердце и&#160;приводит всего в&#160;слабость и&#160;подирает всю кожу, кидая в&#160;озноб». Врач, знав его и&#160;будучи человек забавный, спросил: «Нет&#160;ли&#160;у тебя каких стихов, коих ты еще никому не&#160;читал?» Рифмач в&#160;том признался и&#160;принужден их прочесть. По&#160;окончании того лекарь ему сказал: «Хорошо, теперь ты здоров, а&#160;то тебя мучили сии стихи».
+Тамерлан, воюя против Баязета, опустошил наилучшую империю в&#160;свете, наконец полонив оного, приказал привести пред себя и, увидя его, рассмеялся. Баязет на&#160;то: «Не смейся моему несчастию, бог раздает и&#160;снимает короны, невеликодушное дело насмехаться несчастным». — «Я&#160;смеюсь не&#160;твоему несчастию, — сказал Тамерлан, — но, увидя тебя, пришло мне в&#160;ум, что, видно, скипетры у&#160;бога не&#160;в великом почтении, когда он&#160;раздает их столь гнусным людям, каковы мы: тебе — негодному кривцу, а&#160;мне — бедному хромцу».
+Некто старый вождь идучи в&#160;походе со многими молодыми князьями, коим было то&#160;новым танцем. Тогда один князь, имея в&#160;команде лучший полк, сказал сему старику: «Я&#160;по&#160;вашей команде имею таких людей, кои уже отступать не&#160;знают». — «А&#160;от&#160;меня они&#160;не научатся», — отвечал вождь. Князь, признав то&#160;за обиду, видя под&#160;ним невзрачную лошаденку, с&#160;насмешкою сказал: «Господин предводитель, удивительно, что&#160;вы напред сего были добрым кавалером, а&#160;теперь походите на&#160;вологонца». — «Ваше сиятельство, недивно мне походить на&#160;такого, понеже я&#160;столько телят веду на&#160;бойню».
+Король Пиррус, выиграв две баталии против римлян и&#160;видя, что&#160;его войско в&#160;великом упадке: «Я&#160;пропал, — сказал он, — ежели таким&#160;же образом выиграю третью».
+</p><p>Некая госпожа спросила сенатора об&#160;своем деле, на&#160;которое он&#160;не знал, что&#160;отвечать. Она на&#160;то: «Когда ты не&#160;знаешь, что&#160;ответствовать, для&#160;чего ж ты в&#160;такой должности, и&#160;видно, что&#160;иждивение и&#160;милости царские весьма худо заслуживаешь». — «Я… достоин того за&#160;то, что&#160;знаю, и&#160;сенатор, а&#160;не за&#160;то, чего я&#160;совсем не&#160;знаю».
+Филиппу, царю Македонскому, некоторые из&#160;его придворных доносили в&#160;злословии его величества на&#160;одного воевождя. «Надобно прежде знать, — сказал Филипп, — не&#160;я&#160;ли&#160;тому причиною». И&#160;у&#160;ведав, что&#160;тот не&#160;видел от&#160;него никакой почести, хотя того был и&#160;весьма достоин, послал ему великие подарки. Но&#160;после того король, услыша, что&#160;тот&#160;же воин превозносит его великими хвалами: «Видите, — сказал тогда Филипп тем&#160;же любимцам, — я&#160;лучше знаю, нежели вы, средство, как&#160;укрощать злословие».
+</p><p><br />
+</p><p>Некто чужехват добивался в&#160;воеводы, то&#160;его приятели советовали ему для&#160;счастливого в&#160;том успеху просить бога. «Нет, — отвечал он, — я&#160;сего весьма опасаюсь, мне надобно, чтоб он&#160;о том не&#160;ведал».
+Негде одного малого вора вели на&#160;виселицу, тогда духовник его между прочим спросил: «Не сожалеешь&#160;ли&#160;о том, что&#160;тебя за&#160;такую вину осудили повесить?» — «Мне гораздо прискорбнее то, — отвечал шишимора, — что&#160;я столько не&#160;наворовал, чтоб мог подкупить моих судей».
+</p><p>Агезилай смотрел в&#160;окно, тогда несколько солдат, совсем израненных, представ пред него, говорили, что&#160;раны доказывают нашу храбрость в&#160;бою. «Друзья мои, — сказал им царь, — я&#160;бы желал еще лучше иметь в&#160;службе моей тех, кто вас так изувечил». То&#160;один из&#160;них молвил: «Их уже нет, ибо они&#160;стоили нашей жизни».
+Некто имел великий достаток и, не&#160;хотя по&#160;смерти своей учинить никого наследником, все свое богатство расточил, думая, что&#160;он более не&#160;проживет 80-ти лет; но&#160;после, живя еще 6&#160;лет, ходил по&#160;миру, прося так: «Подайте что-нибудь мне, бедному, который столь долго жить не&#160;думал».
+Турка скупой, садясь обедать, всегда говорил дважды: «Бисмалаг», — то&#160;есть: «Во&#160;имя божие». Некогда его жена спросила тому причину, а&#160;он на&#160;то: «Чтоб первым словом отженить демона, а&#160;вторым — объедальщиков».
+Думный дьяк назвал своего секретаря — «экой ты дурак». Тот, оборотясь, молвил: «Это правда, сударь, я&#160;то&#160;же хочу сказать».
+</p><p><br />
+</p><p>Шляхтич, увидя пришедшего из&#160;другого села пастушонка, который на&#160;него очень похож, спросил: «Не жила&#160;ли&#160;твоя мать здесь?» — «Нет, сударь, — отвечал малый, — но&#160;отец мой часто пребывал в&#160;вашем селе».
+</p><p><br />
+</p><p>Разговор о&#160;любви между Арлекином и&#160;Коломбиною. <i>К.:</i> «Без&#160;шуток — любишь&#160;ли&#160;ты меня?» <i>А.:</i> «Верно, люблю тебя так, как&#160;подьячие взятки и&#160;попить; а&#160;ты меня любишь?». <i>К.:</i> «Я&#160;тебя люблю, как&#160;скупые любят деньги». <i>А.:</i> «А&#160;я, как&#160;врачи любят больных». <i>К.:</i> «Но&#160;я, как&#160;попы любят похороны и&#160;как шляхтичи любят помотать, погулять и&#160;презирать недворян». <i>А.:</i> «А&#160;я, как&#160;начальники любят своенравство». <i>К.:</i> «Но&#160;я, как&#160;комедианты любят большие собрания». <i>А.:</i> «Ах! Стой, довольно, я&#160;уже не&#160;могу более сего любить».
+Некто обвинял одного автора в&#160;краже лучших сочинений из&#160;других книг. Тот ему отвечал: «Что&#160;за&#160;важность, ведь они&#160;крали&#160;же у&#160;прежде их бывших писателей, а&#160;добрым выбором народ лучше пользуется».
+Некоторый худой живописец, не&#160;могущий кормиться своею работою, уехал в&#160;чужие края и&#160;сделался лекарем. Но&#160;там, об&#160;сей перемене будучи вопрошен его земляком, сказал: «Мне захотелось промышлять искусством таким, в&#160;котором все погрешности покрываются землею».
+Людовик XI, король французский, спросил у&#160;своих министров, чем&#160;бы&#160;они присудили подарить английских послов без&#160;дальнего себе убытка. Тогда один из&#160;них сказал: «Еще прибыль получите, ваше величество, ежели подарите им ваших комедиантов, коих содержание вам очень дорого становится».
+Некоторый пастор, приказав своему слуге Давиду взять в&#160;долг у&#160;мясника для&#160;обеда кишок, сам пошел в&#160;кирку. Будучи в&#160;оной, приводил он&#160;для изъяснения своей проповеди многих пророков и&#160;в заключение сказал громко: «Посмотрим, слушатели, что&#160;нам скажет на&#160;то Давид». Слуга лишь пришел тогда в&#160;кирку и, думая, что&#160;поп говорит ему, закричал: «Батько! Ведь Мамлеев не&#160;дает без&#160;денег кишок».
+Шут, будучи летом в&#160;одной беседе с&#160;пастором, спросил его: «Не грешно&#160;ли, батюшка, бить мух?» Поп на&#160;то отвечал: «Какой грех, эту негодную тварь я&#160;разрешаю бить, где&#160;бы&#160;она ни&#160;была». Шут, увидя муху на&#160;его лбу, подошел к&#160;нему и&#160;дал ему такой пляск, что&#160;тем всю беседу рассмешил.
+</p><p><br />
+</p><p>Нередко худогласные и&#160;безграмотные певцы бывают великие охотники петь. Некто подьячий в&#160;Гурьев день пел на&#160;правом крилосе так жалобно, что&#160;сколь часто он&#160;ни возглашал, тогда пастух, будучи в&#160;церкви, принимался плакать. Сие он&#160;приметя, думал, что, конечно, приятность голоса трогает простяково сердце и&#160;его прослезяет. И&#160;так по&#160;окончании обедни захотелось ему по&#160;любопытству у&#160;мужика спросить, для&#160;чего он&#160;так слезился. «Ах, батюшка, — отвечал пастух, — как&#160;мне не&#160;плакать, у&#160;меня у&#160;бедного недавно волки съели такого богатого козла, что&#160;я&#160;бы&#160;не продал его ни&#160;за какие деньги, и&#160;как я&#160;об нем ни&#160;вспомню, то&#160;прихожу в&#160;слезы, и&#160;потому-то, сударь, как&#160;вы запевали, то&#160;мне чудилось, что&#160;блеет та бедная животина, ибо ее голос совсем походил на&#160;ваш».
+</p><p>Некоторый вор, будучи вопрошен, признавается&#160;ли&#160;он в&#160;том, в&#160;чем его обвиняют, отвечал: «Я&#160;еще гораздо больше виноват, что&#160;дал себя поймать».
+Некий лекарь призвал коновала для&#160;совета, как&#160;бы можно вылечить его лошадь. Конный медик сказал ему, что&#160;надобно ей давать больше пить и&#160;бросать кровь. После лекарь стал было ему дарить за&#160;труды, но&#160;коновал отозвался: «Мы, сударь, не&#160;берем денег с&#160;нашей одноремесленной братии».
+Некоторый воин, будучи в&#160;беседе, хвалился тем, что&#160;он никогда не&#160;имел страху. «Конечно, — сказал другой, — ты не&#160;сощикал горящей свечи своими пальцами, ибо побоялся&#160;бы, чтоб не&#160;ожечься».
+</p><p><br />
+</p><p>Некий шляхтич, будучи на&#160;кладбище и&#160;увидя несколько головных черепьев, из&#160;коих одни были белые, а&#160;другие черные, сказал своему слуге: «Знаешь&#160;ли&#160;ты, Пахомка, различие сим головам? Ведь белые-то&#160;дворянские, а&#160;черные — разночинские». Но&#160;после случилось оному шляхтичу с&#160;тем&#160;же слугою в&#160;семик быть в&#160;убогом дому, где из&#160;множества человечьих черепьев больше было белых, что&#160;увидя, Пахомка спросил своего господина: «Не все&#160;ли&#160;это, сударь Фалелей Егупьич, дворянские головы?» Но&#160;помещик, осердясь, не&#160;знал, что&#160;ему на&#160;то отвечать.
+</p><p>Шляхтич, во&#160;время бывшей у&#160;него пирушки, увидя, что&#160;лакей его несет блюдо, спросил: «Что&#160;ты нам несешь?» — «Цыпленка, сударь», — отвечал слуга. По&#160;исходе гостей помещик, призвав к&#160;себе того слугу, сказал ему: "Федул! Ты глуп, когда я&#160;тебя спросил, что&#160;ты несешь, а&#160;ты мне отвечал «цыпленка», — этим ты меня обесчестил; ты&#160;бы&#160;должен то&#160;же сказать во&#160;множественном числе: «цыплят». После того случилось опять обедать ему с&#160;своими друзьями; Федул нес блюдо похлебки с&#160;говядиною и&#160;бараниной, господин, то&#160;увидя, спросил: «Что&#160;ты нам несешь, Федул?» Слуга, хотя простяк, но, памятуя помещичье наставление, отвечал ему: «Быков и&#160;баранов, господин сударь».
+Двое, русак да&#160;поляк, будучи в&#160;трактире, спросили ужинать. Хозяйка им сказала, что&#160;у ней только осталось небольшой кусок вареной баранины и&#160;одна жареная куропатка. Каждому хотелось поесть дичинки и, долго о&#160;том между собою ссорясь, напоследок согласились покушать баранины, а&#160;куропатку съесть завтра тому, кому изних привидится лучший сон, и&#160;пошли спать. Русак, приметя, где положена была та птица, и&#160;встав ночью, ее убрал. Поляк, выдумав поутру сказать великолепный сон: «Я, брат, был ангелами взят на&#160;небо в&#160;вечное блаженство, и&#160;тебе не&#160;удастся видеть такого хорошего сна». — «А&#160;я&#160;видел, как&#160;ты полетел в&#160;рай, — отвечал русак, — и&#160;после того съел куропатку, думая, что&#160;ты уже оттуда не&#160;возвратишься».
+Негде палач приказал одному плотнику сделать виселицу для&#160;криминального колодника. Но&#160;плотник отказался, что&#160;мне-де не&#160;заплачено и&#160;за прежние три виселицы. Но&#160;как&#160;экзекуция за&#160;тем остановилась, то&#160;судья, при
+</p><p>звав плотника, учинил ему жестокий выговор за&#160;то, что&#160;не послушался его приказа, сказанного чрез ката. «Правда, сударь, я&#160;отказался делать виселицу, потому что&#160;за прежние еще не&#160;получал, но&#160;когда&#160;бы&#160;знал, что&#160;она надобна для&#160;вас, то&#160;бы я, оставя другую работу, ее давно поставил».
+</p><p><br />
+</p><p>Некоторому именитому судье, случившемуся быть вместе на&#160;пиру с&#160;славным витием, который из&#160;подлого отродья произошел в&#160;известное достоинство чрез знатные свои заслуги отечеству, весьма обидно показалось то, что
+он&#160;отважился противоречить его мнениям. «Ты&#160;бы, братец, — сказал гневный величавый, — прежде вспомнил свою породу!» — «Я&#160;очень ее помню, — отвечал ему мудрец, нимало не&#160;сумнясь, — и&#160;знаю, что&#160;ежели&#160;бы&#160;вы были сыном моего отца, то&#160;бы вы и&#160;поныне еще ловили с&#160;ним моржей или&#160;пасли у&#160;него свиней». Ибо подлая природа такого человека не&#160;унижает, но&#160;возвышает блистание его качеств.
+Двух кокеток поссорившихся спросил их знакомец: «О&#160;чем вы бранитесь?» — «О&#160;честности», — отвечали они. «Жаль, что&#160;вы ни&#160;за что&#160;взбесились».
+Мужик покупал из&#160;своего дневного промысла по&#160;пяти хлебов в&#160;неделю и&#160;вопросившему, для&#160;чего так он&#160;делает, сказал: "Один я&#160;беру (то&#160;есть для&#160;себя), другой бросаю (то&#160;есть дает своей теще), третий отдаю (то&#160;есть возвращаю моему отцу), а&#160;остальные два даю взаймы (то&#160;есть для&#160;пропитания его сыновей в&#160;надежде, что&#160;они ему их когда-нибудь отдадут).
+</p><p><br />
+</p><p>Муж говорил своей жене, что&#160;он очень любит книги. Она ему на&#160;то: «Я&#160;бы&#160;сама желала сделаться книгою, чтоб быть предметом такой вашей страсти». Но&#160;он&#160;молвил: «Так я&#160;бы хотел тебя иметь календарем, дабы можно его ежегодно переменять».
+Курносый богач подал нищему полушку. «Сохрани бог ваше зрение», — сказал бедный. Но&#160;скупец спросил его о&#160;причине сей молитвы. «Для&#160;того, — отвечал он, — когда притупеют ваши глаза, то&#160;вам уже нельзя будет носить очков».
+</p><p>Некоторый царь вопросил одного мудреца: 1. В&#160;чем состоит неоспоримая правда? 2. Кто больше льстец в&#160;свете? 3. Какая пища вкуснее всех кушаний? 4. Кто больший лжец? 5. Кто всех богатее? 6. Кто всех беднее? 7. Кто всех спесивее? 8. Кто всех умнее? 9. Кто всех глупее? Но&#160;он&#160;отвечал — на 1. Родящиеся умирают. 2. Живописец. 3. Первый кус голодному. 4. Стихотворец. 5. Кто малым и&#160;то нужным доволен. 6. Завистливый и&#160;богатый скупец. 7. Кто из&#160;подлости сделается великим господином. 8. Кто бешеному и&#160;дураку уступает. 9. Муж, положившийся вовсе на&#160;верность своей жены.
+Альфонс-король некогда был у&#160;ювелира со многими придворными и&#160;по выходе их из&#160;лавки купец, выбежав, жаловался царю о&#160;пропаже тогда пребогатого алмаза. Король, возвратясь к&#160;нему, велел принести чашу отрубей и&#160;приказал каждому положить в&#160;отруби сжатый кулак, а&#160;вынимать ладонь. Начавшу ему все последовали, и&#160;по высыпке отрубей нашелся тот алмаз, только с&#160;общим им бесчестием.
+</p><p><br />
+</p><p>Некий король показал стихи одному придворному, который его спросил: «Какой это дурак делал?» — «Я&#160;сам», — отвечал он. «Так, конечно, вы, — сказал тот, — захотели худо сделать то, в&#160;чем вы совершенно успели. Ваше величество имеет дар творить все, что&#160;хочет». И&#160;тем он&#160;изрядно выкрутился.
+</p><p><br />
+</p><p>Некая добродетельная госпожа просила своего мужа, гульливого ратсгера, за&#160;одну бедную вдову так: «Помилуй, батюшка! Долго&#160;ли&#160;не решить дело такой-то&#160;сирой вдовы и&#160;проч. Я&#160;слышала, что&#160;она уже лет десять за&#160;ним таскается». Муж ей отвечал: «Друг мой, я&#160;всей душою рад, да&#160;нет времени о&#160;том и&#160;подумать, ведь тебе известно, что, кроме многих праздников, крестин, родин, именин и&#160;прочих вечеринок, бываем то&#160;на опере, маскераде, в&#160;комедии, на&#160;куртаге, то&#160;на бале, а&#160;летом на&#160;рекреации, и&#160;прочее». — «Ей, душа моя! — сказала она. — Такие веселости приличны больше нашему полу и&#160;придворным, ибо я&#160;слыхала, что&#160;славные римские судьи едва&#160;ли&#160;когда сим забавлялись».
+Зело брюшистый дьяк, осужденный на&#160;хлеб да&#160;на воду, предлагал своему начальнику, что&#160;он от&#160;такого искуса по&#160;непривычке может захворать. Но&#160;судья ему на&#160;то сказал: «Не бойся, ты теперешним в&#160;себе запасом можешь прожить, неделю не&#160;евши, и&#160;по испущении из&#160;себя излишних жирных и&#160;винных паров будешь здоровее прежнего». То&#160;же сказал некий епископ одному толстому монаху, осужденному за&#160;его вину на&#160;дровопильню или&#160;мукосейню.
+Две нищие старушки А. и&#160;Б. по&#160;давнем несвидании, встретясь на&#160;Красной площади, поздоровались, и&#160;старуха <i>А.</i> спросила: «Выдала&#160;ли, мой друг, свою дочку?»
+<i>Б.:</i> «Выдала, матушка». <i>А.:</i> «За&#160;кого, голубушка?» <i>Б.:</i> «За&#160;переводчика, мой свет». <i>А.:</i> «Ну счастливо, сестрица, а&#160;где он&#160;у места?» <i>Б.:</i> «Он, друг, из&#160;места в&#160;место, а&#160;наверно со Вшивой горки на&#160;Арбат слепых переводит».
+Один придворный, вышед из&#160;доверенности у&#160;всех заимодавцев, просил у&#160;своего государя то, что&#160;ему ничего не&#160;стоит. «Так прошу ваше величество, — сказал он, — меня сим пожаловать — ударить своею рукою любимчески по&#160;моему плечу при&#160;многих». Царь сделал ему то&#160;удовольствие. Тогда народ того бедняка почел за&#160;великого фаворита; а&#160;он чрез то&#160;мог занять великие деньги и&#160;сделался знатнейшим и&#160;богатым господином.
+</p><p><br />
+Мароккский король, смеясь своему шуту, сказал: «Ты, брат, великий король над&#160;дураками». Но&#160;он&#160;ему на&#160;то: «О! Когда&#160;бы&#160;я был таким царем, то&#160;бы мое владение составляло превеликое государство, и&#160;вы&#160;бы&#160;при мне были главный вельможа».
+</p><p><br />
+</p><p>Портной, кроя себе платье и&#160;употребя сукна больше надлежащего, сказал своей жене, вопрошающей о&#160;причине: «Чтоб не&#160;потерять доброй моей привычки в&#160;надлежащем воровстве».
+Некто, женясь на&#160;кокетке и&#160;захотя посмеяться одному мудрецу, сказал: «Хотя тебя почитают за&#160;преученого, но&#160;не думаю, чтоб ты мог что-либо совершенно знать». —
+«Обманываешься, друг, — отвечал он, — ибо я&#160;совершенно знаю то, что&#160;ты с&#160;рогами».
+</p><p>Извинение одной непостоянницы своему мужу:
+</p><p>Я&#160;друга твоего люблю, зрак твой любя.
+</p><p>Его целуючи, целую я&#160;тебя:
+</p><p>Едина в&#160;вас душа, известно мне то&#160;дело;
+</p><p>Так думается мне, одно у&#160;вас и&#160;тело.
+Судья сказал своему челобитчику: «Я&#160;из&#160;твоего дела не&#160;вижу никакой тебе пользы». Но&#160;тот, уразумев сии слова, вынул из&#160;своего кармана два червонца и, дав их судье, молвил: «Так вот, сударь, я&#160;дарую вам хорошую пару очков».
+Некий богатый и&#160;гнуснообразный откупщик заказал себя написать стоящего в&#160;природной величине и&#160;после не&#160;хотел заплатить того, что&#160;живописец требовал. Мастер сказал: «Хорошо, сударь! Я&#160;ваш образ возьму к&#160;себе». Мужик спросил: «Что&#160;тебе в&#160;нем?» — «Мне убытка не&#160;будет, — отвечал он, — когда я&#160;приделаю к&#160;нему хвост, то&#160;будет портрет одетой обезьяны, или&#160;положу на&#160;нем железную решетку с&#160;подписью: „Подайте бедному заключенному“, — то&#160;я знаю, кому оный продать».
+</p><p>По&#160;смерти откупщик, сошед в&#160;подземную страну,
+</p><p>И&#160;став пред сатану,
+</p><p>Просил: скажи, мой друг сердечный,
+</p><p>Не можно ль откупить во&#160;аде муки вечной.
+</p><p>Я&#160;вспомни, как&#160;на свете жил;
+</p><p>Всем сердцем я&#160;тебе и&#160;всей душой служил.
+</p><p>Пожалуй, дедушка, уступи это внуку;
+</p><p>Я&#160;множил цену там, а&#160;здесь умножу муку.
+Некий князь спросил одного мужика, что&#160;об нем говорят. «Ни&#160;добро, ни&#160;худо», — отвечал он. Тогда князь, дав ему несколько червонных и&#160;ударив по&#160;спине своею тростию раз пять, сказал: «Теперь ты можешь говорить обо мне добро и&#160;худо».
+Некогда во&#160;Франции играли комедию в&#160;присутствии короля о&#160;ученых людях. И&#160;как&#160;дошло по&#160;игре до&#160;великого порицания ученых тунеядцев, тогда один комедиант, нарядясь так, что&#160;был очень похож на&#160;одного парижского славного профессора, и&#160;выйдя на&#160;театр, вскричал к&#160;актерам: «Непристойно вам так смеяться над&#160;мудрецами, вы дадите в&#160;том ответ». И&#160;после стал к&#160;ним гневно приставать, чтоб они&#160;тотчас перестали играть такую негодную комедию. «А&#160;я&#160;хочу, чтоб они&#160;играли», — возгласил король, думая, что&#160;то подлинно был тот профессор и&#160;отважился при&#160;нем так кричать. Но&#160;когда узнали, что&#160;это был комедиант, то&#160;все стали больше смеяться, так&#160;же и&#160;сам король о&#160;сей шутке, в&#160;коей он&#160;обманулся.
+Мудрец, будучи вопрошен, для&#160;чего он&#160;не член такого-то&#160;училища, отвечал: «Мне, как&#160;Катону, сей вопрос приятен, которого спросили, для&#160;чего ему не&#160;поставят статуи, отвечал — для&#160;меня сие честнее, нежели спросили&#160;бы, для&#160;чего поставлены».
+Некий бессильный судья, будучи в&#160;беседе, хотел, как&#160;и прочие, поцеловать пришедшую туда госпожу, но&#160;она, его удержав, сказала: «Потише, вам не&#160;так скоро дается поцелуй, вы знаете, что&#160;это для&#160;вас последнее удовольствие».
+</p><p><br />
+</p><p>Негде один календарщик, будучи вопрошен, для&#160;чего его предсказания погод не&#160;столь сбываются летом, как&#160;зимою, отвечал: «Для&#160;того что&#160;летом обыкновенно молебствуют либо о&#160;дожде, либо о&#160;ведре, а&#160;зимою нет».
+Живописец срисовал больного человека и&#160;так его представил, что&#160;один медик, не&#160;видав никогда оригинала, сказал, что&#160;он имел лихоманку. Вопрошается: кто из&#160;них был искуснее в&#160;своем ремесле?
+Медик говорил своему приятелю про&#160;другого врача: «Как&#160;ты вверил свою жизнь человеку, не&#160;знающему ни&#160;по-латыни, ни&#160;по-гречески?» Он&#160;ему на&#160;то: «Этот дурак по-гречески и&#160;по-латыни, но&#160;он меня пользует по-русски».
+Арлекин говорил, что&#160;ежели&#160;бы&#160;Адам был с&#160;приписью подьячий или&#160;бы купил комиссарский чин, то&#160;бы мы&#160;были благородные, а&#160;когда&#160;бы&#160;он слыл Мурза, то&#160;бы — сиятельные.
+Некоторого купца, обыкшего часто говорить сию поговорку «благодаря бога и&#160;вас», спросил воевода, сколько у&#160;него детей. «Пятеро, — отвечал простяк, — благодаря бога и&#160;вас».
+Мужик, едучи с&#160;возом, пустил свою лошадь переехать грязь, а&#160;сам пошел по&#160;дорожке, но&#160;как она там остановилась, то&#160;он кричал: «Ну, матушка, ну, друг, голубка, ну, одер, пострел». Но&#160;тем не&#160;пронявшись, молвил: «Помози боже», а&#160;сам, не&#160;пособляя, стоит на&#160;суше. Почти у&#160;всех нас такое богопризывание.
+Некий мызный пастор похоронил на&#160;кладбище любимую свою собаку. Епископ хотел было его наказать за&#160;такое беззаконие. Но&#160;поп, ведая, что&#160;он корыстолюбив, объявил: «Ваше преподобие! Ежели&#160;бы&#160;вы знали, как&#160;эта собака была умна, вы&#160;бы&#160;ее почли за&#160;разумное животное: она сделала духовную, по&#160;которой вам оставила серебряную чашу, из&#160;коей она ела, и&#160;так я&#160;вам ее вручаю». Епископ, убежденный сим подарком, предал тот грех забвению.
+Вождь, командуя воинами, бедно одетыми, увидев неприятельское войско в&#160;новых однорядках, сказал, ведя своих на&#160;бой: «Друзья, постарайтесь хорошо одеться».
+Жизнь папы Бонифатия VIII была такого худого поведения, что&#160;наконец сказано было, что&#160;он вступил на&#160;папство, как&#160;лисица, жил, как&#160;лев, а&#160;умер, как&#160;собака.
+Некоторый турецкий пират велел казнить Ибрагима, который отдал ему город Магилию, а&#160;во оправдание свое перед&#160;ним в&#160;том, что&#160;он ему прежде взятия того города обещал даровать жизнь и&#160;наградить его довольно, сказал: «Никто не&#160;обязан держать своего слова тому, кто изменил своему отечеству».
+Некто подлого и&#160;нищего отца сынок, женясь на&#160;служанке своего командира, вышел в&#160;подьячие и, наживя оным ремеслом лучше, нежели профессорством, со тьму денег, построил огромный дом, как&#160;слоновий двор, и&#160;оградил его обширным оплотом. Некогда он&#160;показывал его своему приятелю, водя оного по&#160;всем покоям, вдруг сказал: «Видишь (указывая ему в&#160;окно на&#160;палисадник), уже три тычинки сворованы». — «Так, как&#160;и весь дом», — отвечал приятель.
+Фоннару, прилежащему только к&#160;рюмкам да&#160;картам, а&#160;величавшемуся своим родословием, сказал умный дворянин: «Мне кажется, ваша генеалогия есть древнее, нежели вы думаете, и&#160;старее Адама». «Как&#160;же так?» — спросил простяк. «Так, — отвечал он, — понеже многие животные сотворены до&#160;Адама, так может быть, вы произошли от&#160;козлов, либо от&#160;ослов».
+Дурная и&#160;старая госпожа была на&#160;опере, нарядившись, как&#160;молодая. Некто иноземец, сидя подле ее сына и&#160;увидя оную, спросил, смеючись, не&#160;знав его: "Не смешна&#160;ли&#160;тебе кажется эта старуха в&#160;таком уборе? " — «Я&#160;бы&#160;о том так&#160;же подумал, — отвечал он, — когда б она не&#160;была моя мать».
+Колумбу, первому открывателю Америки, случилось быть на&#160;пиру, где многие его похваляли за&#160;изобретение той новой земли, а&#160;один невежда сказал: «Всяк&#160;бы&#160;то&#160;же сделал, ежели&#160;бы&#160;так&#160;же на&#160;то снабжен был». Услыша сие, Колумб усмехнулся и, взяв с&#160;блюда яйцо, дал ему, говоря: «Можешь&#160;ли&#160;ты это яйцо поставить на&#160;столе прямо и&#160;без всякой иной подпоры?» Но&#160;тот, подумав несколько, отвечал: «Это невозможно, да&#160;ты и&#160;сам того не&#160;сделаешь». Колумб, взяв у&#160;него яйцо и&#160;бережно оное пугою приплюснувши к&#160;столу, сказал: «Видишь&#160;ли, я&#160;думаю, теперь и&#160;всякий может то&#160;же сделать, но&#160;прежде редкий сего догадается». Примолвя сие, что&#160;удобнее перенять, нежели самому выдумать.
+Симонид-мудрец, будучи обнесен от&#160;некоего человека, что&#160;его дочь непотребным своим поведением ему наводила посрамление, отвечал так: «Ошибаешься ты, братец! Она не&#160;больше мне наносит бесчестия своими пороками, как&#160;и я&#160;ей чести моими добродетелями».
+Карл II, английский король, укорял стихотворца, что&#160;он в&#160;подписанном ему панегирике выхвалял больше Кромвеля. Но&#160;он&#160;на то: «Ваше величество! Мы&#160;в&#160;поэзии лучше удаем наши мечтания, нежели истину».
+Некая благоразумная девица, будучи вопрошена от&#160;подружек своих, которая краса всех других приятнее кажется, отвечала: «Та, коя происходит от&#160;стыдливости».
+Спартанцы на&#160;угрозительные письма царя Македонского ответствовали двумя словами, написанными на&#160;большом листе: «Ведь Дионисий в&#160;Коринфе». Вместо: вспомни ты о&#160;том, как&#160;Дионисий, за&#160;свою предерзость будучи изгнан из&#160;государства, отъехал в&#160;Коринф, где он&#160;завел детское училище, переменя скипетр на&#160;лозу ради своего пропитания. Так-то&#160;и мы&#160;тебя до&#160;того ж приведем, ежели нам угрожать не&#160;престанешь.
+Негде во&#160;врачебную должность производили только из&#160;иностранных, хотя они&#160;были и&#160;не искусны. Так некто того места уроженец сказал своему ослу: «О! Как&#160;ты несчастлив, подъяремник мой! Ежели&#160;бы&#160;ты родился или&#160;бы поучился за&#160;морем, то&#160;бы подлинно был и&#160;ты у&#160;нас либо доктор, либо профессор».
+Картезий рассказывал своему приятелю о&#160;некоем деле, а&#160;тот, слушая, ни&#160;в чем не&#160;спорил и&#160;все похвалял, за&#160;что он, осердясь, сказал ему: «Выговори мне, пожалуй, хоть малое что&#160;вопреки, дабы не&#160;казалось, что&#160;будто&#160;бы&#160;я один сам с&#160;собою только говорю».
+Тимон Афинский, вельможа, прозванный Великолепным, так однажды сдурачился, что&#160;тем ослам, кои при&#160;бывшей карусели (конском ристалище) почесть ему доставили, велел состроить великолепную гробницу подле своей. Но, услышав то, один мудрец сказал: "О! Когда&#160;бы&#160;в той&#160;же гробнице самого Тимона положили, то&#160;бы можно на&#160;ней написать: «Здесь лежат три победоносные скотины, два осла с&#160;их господином».
+Некий вельможа, больше именитый своею породою, нежели разумом, будучи у&#160;королевы, коя его спросила, здорова&#160;ли&#160;его жена. Он&#160;на&#160;то: «Она очень тяжела». — «Когда&#160;же родит?» — сказала она. «Когда угодно будет вашему величеству». Не искусный&#160;ли&#160;сей царедворец?
+</p><p>Некто астролог, увидя впервые Сократа и&#160;рассуди по&#160;виду лица его, сказал: «Сей человек, конечно, есть самый злейший в&#160;свете?» Ученики его, услышав то, чуть было за&#160;оный лживый прогностик его не&#160;прибили, но&#160;Сократ, удержа их от&#160;того, сказал: «Он&#160;говорил правду — я&#160;природою был таков, токмо уже после исправился моею философиею».
+Искусный проповедник окончание своей проповеди заключил так: «Уповаю, благочестивые слушатели! что&#160;сего поучения для&#160;безграмотных довольно, а&#160;для ученых излишне, ибо они&#160;только примечают красоту и&#160;порядок речи, зная Священное писание, и&#160;когда уже они&#160;ему не&#160;последуют, то&#160;меня&#160;ли&#160;грешного послушают? Аминь».
+Двое, из&#160;коих один ходил на&#160;деревяшке, посещали вместе некую вдову; и&#160;как она показалась с&#160;плодом, то&#160;они вступили в&#160;прение — чье будет дитя. Хромой сказал: «Ежели он&#160;родится с&#160;деревяшкою, то&#160;будет мой, а&#160;без нее — твой».
+Горбун, сидя в&#160;кирке, слышал, как&#160;пастор в&#160;своей проповеди говорил: «Что&#160;бог ни&#160;сотворил, то&#160;хорошо сотворено». Сие показалось ему сомнительно и&#160;для того, дождав попа у&#160;дверей, спросил: «Отче! Вы говорили, что&#160;все вещи хорошо сотворены, а&#160;видите, каков я?» Пастор ему на&#160;то: «Друг мой! Ты совсем человек и, как&#160;быть горбуну, изрядно устроен».
+Дионисий-тиран весьма гнушался суеверием и&#160;идолопоклонством, бывшим в&#160;его время у&#160;греков, и, пришед в&#160;одно капище, оказав то&#160;забавным видом, говорил: «Я&#160;думаю, не&#160;грешно то&#160;употреблять, что&#160;богам не&#160;нужно», — и&#160;снял золотую епанчу с&#160;статуи Олимпийского Юпитера и&#160;надел на&#160;нее шерстяную, примолвя: «Вещь золотая зимою не&#160;греет, а&#160;летом тяжела». А&#160;отрубя золотую бороду у&#160;Эскулапиевой статуи, сказал: «Непристойно иметь сыну бороду, когда отец его Аполлон был безбородый».
+Кадис, турецкий судья, допрашивая при&#160;султане одного магометанина, который называл себя пророком, требовал, чтоб он&#160;свою миссию доказал чудесами. Мнимый пророк сказал: «Я&#160;могу воскрешать мертвых». — «Хорошо, — примолвил судья, — да&#160;надобно то&#160;показать на&#160;самом деле». — «Когда ты не&#160;веришь, — сказал он, — так вели дать мне саблю, то&#160;я, отрубя твою голову, могу тебя воскресить». Тогда султан спросил кадиса: "Что&#160;ты на&#160;то скажешь? " — "Не надобно, — отвечал он, — иного чуда, я&#160;верю, что&#160;он пророк ".
+</p><p><br />
+</p><p>Некая принцесса, разговаривая с&#160;мароккским послом, между прочим смеялась многоженству, позволенному магометанам. «Мы&#160;бы, государыня, — сказал разумно посол, — имели по&#160;одной, ежели&#160;бы&#160;они все таковы были, как&#160;вы».
+Людовик XII, будучи герцог, получил многие озлобления и&#160;досады от&#160;двух придворных господ, бывших в&#160;милости при&#160;прежнем короле. То&#160;некто из&#160;его любимцев побуждал его к&#160;оказанию им гнева и&#160;отмщения. «Недостойно королю, — отвечал он, — мстить обиды, оказанные герцогу».
+</p><p><br />
+</p><p>Одному придворному смеялись, что&#160;он бессилен, а&#160;он нимало не&#160;хотел в&#160;том признаться и, некогда встретившись с&#160;одним насмешником, сказал: «Знаете&#160;ли, негодные порицатели, что&#160;моя жена недавно родила мне сына». — «Поздравляю, государь мой, — отвечал тот, — да&#160;о вашей жене никогда и&#160;не сомневались».
+</p><p>Напрасно муж грустишь и&#160;сердцем унываешь,
+</p><p>Что&#160;я&#160;люблю других, ведь ты не&#160;убываешь,
+</p><p>Робяток полон дом, спокойся и&#160;нишкни,
+</p><p>Какая убыль то, когда не&#160;сей и&#160;жни?
+Султан, услышав, что&#160;славный воевождь Скандербег имел саблю, коею он&#160;сразу отрубал голову у&#160;претолстого вола, ее потребовал, но, получа, учинил неудачный опыт и&#160;возвратил ее с&#160;выговором за&#160;такую насмешку. «Ваше величество, — отвечал он, — я&#160;послал к&#160;вам мою саблю, а&#160;не мои рамена».
+Одна знатная девица читала любовный роман и&#160;между прочим попала на&#160;нежный разговор, происходивший долгое время наедине у&#160;волокиты с&#160;его полюбовницею, кои равно пылали страстию друг к&#160;другу. «Куда как&#160;глупо сказано, — вскричала она, бросая ту книгу, — на&#160;что столько разговоров, когда они&#160;уже были вместе, а&#160;притом и&#160;наедине».
+К&#160;некоторому умирающему помещику пришли с&#160;объявлением о&#160;решении одного судного дела в&#160;его пользу. Тогда он&#160;на то&#160;сказал: «Такие вести мне теперь не&#160;нужны, но&#160;моим неприятелям», — признавая так своих наследников, ждущих его кончину.
+Молодец, женясь, сказал своей жене на&#160;первой ночи: «Ежели&#160;бы&#160;я тебя так знал прежде, то&#160;бы никогда на&#160;тебе не&#160;женился». — «Это правда, — отвечала она, — я&#160;сама то&#160;думала, потому что&#160;меня прежде раз пять уже обманули, и&#160;я опасалась более в&#160;такой обман вдаться».
+Некто, ездя непрестанно по&#160;чужим краям, дал такой ответ смеющимся ветреному его обычаю: «Я&#160;пота буду странствовать, пока найду такую землю, в&#160;коей&#160;бы&#160;власть и&#160;доверенность были в&#160;руках честных людей и&#160;в которой&#160;бы&#160;заслуги награждались». — «Конечно, вам умереть в&#160;дороге», — примолвили они.
+Некоторому придворному шуту погрозил один царедворец так: «Я&#160;тебя до&#160;смерти прибью, негодный». Шут, испугавшись, прибежал к&#160;государю и&#160;ему пожаловался. Царь ему на&#160;то: «Ежели он&#160;тебя убьет, то&#160;я велю его повесить». — «Я&#160;того не&#160;хочу, — отвечал шут, — но&#160;того желаю, чтоб вы приказали его повесить прежде, пока я&#160;жив».
+Некоторый повар, находясь во&#160;услужении у&#160;скупого, не&#160;захотел более ему служить, а&#160;как его спросили о&#160;причине, то&#160;отвечал он, что&#160;ежели я&#160;буду долее у&#160;него жить, так позабуду совсем мое ремесло.
+</p><p>Во&#160;всю готовит жизнь имение скупой,
+</p><p>И&#160;веселится, лишь пожиток числя свой:
+</p><p>Не тратит ничего, по&#160;смерть живет убого,
+</p><p>Чтоб только при&#160;конце сказать: осталось много.
+Некто разумный человек, не&#160;находясь ни&#160;при какой должности и&#160;проведав, что&#160;имеется порожнее место, просил об&#160;оном своего государя. Царь отказал ему в&#160;том наотрез, нисколько его не&#160;обнадежа. Проситель, поблагодаря весьма униженно царя, пошел вон. Но&#160;государь, ведая, что&#160;он человек ученый, подумал, что, конечно, он&#160;не понял того отказа, и, возвратя его, спросил: «Хорошо&#160;ли&#160;ты выслушал то, что&#160;тебе сказано?» — «Очень внятно, ваше величество», — отвечал он. «Что&#160;же я&#160;тебе сказал?» — примолвил царь. «Вы мне изволили отказать в&#160;той надобности, о&#160;которой я&#160;ваше величество утруждал». — «Для&#160;чего ж ты меня благодарил?» — спросил он. «Для&#160;того, что&#160;вы мне скоро отказали и&#160;не принудили меня более беспокоиться как&#160;утруждением, ваше величество, так и&#160;ласканием себя тщетною надеждою». Царь так был доволен его ответом, что&#160;тогда ж пожаловал его в&#160;ту должность.
+Некий философ взял за&#160;себя жену весьма малого роста. Приятели его спросили у&#160;него, для&#160;чего он, будучи человек разумный, выбрал себе такую карлицу. «Друзья мои! — сказал он&#160;им. — Я, признав за&#160;надобность жениться, заблагорассудил выбрать сколько возможно из&#160;зол самое меньшее».
+Италианец, будучи вопрошен французом, у&#160;кого&#160;бы&#160;он лучше хотел быть в&#160;подданстве, у&#160;короля&#160;ли&#160;французского или&#160;у ишпанского: «Я&#160;бы&#160;желал видеть одного, повешена на&#160;кишках другого».
+Простяк, очень болящий одним глазом, спросил шута, не&#160;знает&#160;ли&#160;он, чем оный пользовать. Тот отвечал: «У&#160;меня прошлого году болел зуб, то&#160;я велел его вырвать и&#160;тем вылечился, так советую и&#160;вам употребить то&#160;же лекарство».
+Престарелая вдова, любя одного шляхтича, подарила ему богатую деревню. А&#160;другая, молодая госпожа, будучи той своя, спорилась с&#160;ним о&#160;том подарке, не&#160;по правам ему доставшемся. «Государь мой! — ему сказала она в&#160;суде. — Вам досталась эта деревня весьма за&#160;дешевую цену». Шляхтич ей отвечал: «Сударыня! Я&#160;вам ее уступлю, буде вы изволите, за&#160;такую ж цену».
+</p><p><br />
+</p><p>Откупщик сказал своей жене, что&#160;он слышал, будто все мужья в&#160;их посаде почитаются за&#160;рогоносцев, выключая только одного. «Как&#160;бы&#160;ты думала, душенька, кто&#160;бы&#160;таков это был?» — спросил он&#160;ее. «Его трудненько узнать, друг мой», — отвечала она.
+Генрих VIII, английский король, будучи в&#160;ссоре с&#160;Франциском I, королем французским, назначил отправить к&#160;нему послом одного епископа с&#160;весьма грубым и&#160;угрозительным выговором. Епископ ему представлял, что-де мне живому не&#160;быть, ежели толь гордому государю повеленное выговорю, и&#160;просил от&#160;того увольнения. «Не бойся ничего, — сказал ему Генрих, — ежели он&#160;тебя сказнит, то&#160;я ему отплачу головами многих французов, кои у&#160;нас находятся». — «Я&#160;тому верю, — сказал, усмехаясь, епископ, — да&#160;изо всех тех ни&#160;одна ко&#160;мне так хорошо не&#160;пристанет, как&#160;эта», — указывая на&#160;свою.
+Претолстая попадья случилась на&#160;пиру сидеть за&#160;столом возле сухощавого старика, который, будучи ею потеснен, сказал: «Матушка! На&#160;что&#160;вам такое тело?» — «Для&#160;прикрытия ваших костей», — отвечала она.
+Некоторый поп, будучи болен и&#160;за неимением своих денег, послал занять у&#160;достаточного богадельника. Приятель ему сказал: «Как&#160;не&#160;стыдно занимать у&#160;такого человека?» — «Нет, ничего, это для&#160;платы лекарю». Каковы деньги, таковы и&#160;люди.
+Арлекина, любящего одну худощавую кокетку, спросили, что&#160;его привязало к&#160;такой сухопарой, мог&#160;бы&#160;найти потельнее. «Когда она суха, — отвечал он, — то&#160;ближе к&#160;ее сердцу и&#160;короче туда дорога».
+Некоторый господин не&#160;любил одного из&#160;своих сыновей, который был малорослее и&#160;дурнее других. Некогда оное дитя, видя своего отца, с&#160;презрением на&#160;него смотрящего, сказал: «Батюшка! Ведь карла разумный предпочитается глупому и&#160;грубому великану, не&#160;все, что&#160;толсто и&#160;велико, то&#160;драгоценно. Овца мала, да&#160;мила, а&#160;слон велик, да&#160;гадок».
+</p><p>Знатный чужехват, приехав в&#160;лавку и&#160;выбрав богатую шляпу, сказал купцу: «Эй, брат! Я&#160;эту шляпу возьму, а&#160;ты деньги получишь после». Купец отвечал: «Нельзя, сударь». А&#160;тот: «Как&#160;ты смеешь мне не&#160;верить в&#160;такой безделице». — «Не погневайтесь, сударь, — молвил купец, — мне нужда в&#160;деньгах, и&#160;притом я&#160;не привык всякий день бродить на&#160;поклон к&#160;моей шляпе».
+Купец, получа великий убыток в&#160;торгу, заказал своему сыну никому о&#160;том не&#160;сказывать. Сын, обещаясь то&#160;исполнять, спросил его о&#160;пользе сего молчания. «Та, — отвечал отец, — что&#160;вместо несчастия не&#160;понесем трех: одно есть наш ущерб, второе — лишение кредита, а&#160;третье есть порадование наших завистников».
+</p><p><br />
+</p><p>Некто, будучи вопрошен от&#160;своей жены, для&#160;чего он&#160;не сходит в&#160;лотерею и&#160;не положит что-нибудь, отвечал: «Друг мой! Там одни рогоносцы бывают счастливы». — «Ах батюшка! — вскричала она. — Пожалуй, отведай своего счастия, я&#160;крепко надеюсь, что&#160;нам хороший лот выйдет».
+Некоторый епископ обличал одного короля, что&#160;он в&#160;своей должности поступает более политически, нежели христиански. Король ему на&#160;то: «Я&#160;вижу, батюшка, что&#160;вы читали только Священное писание, а&#160;не Книгу царств».
+Волокита, разговаривая наедине с&#160;одною молодою и&#160;пригожею вольнодумкою, вздумал для&#160;объявления ей своего желания положить себе червонец на&#160;один глаз, а&#160;на нее смотреть другим. Она, узнав его намерение, сказала ему: «Государь мой! Любовь — вещь не&#160;кривая, но&#160;слепая».
+Господин Дидерот продал свою библиотеку за 15 000 ливров императрице российской. Сия государыня приказала его просить оную хранить и&#160;быть ее библиотекарем во&#160;Франции и&#160;за то&#160;получать 1000 ливров пенсии. Но&#160;как&#160;он чрез полтора года ничего не&#160;получил, то&#160;вскоре потом она отписала к&#160;нему так: «Желая, чтоб вы никогда не&#160;терпели такого замедления в&#160;вашей пенсии, указала оную за&#160;пятьдесят лет вперед вам выдать».
+Некий грубого свойства кавалер, увидя дорогой алмаз на&#160;руке пригожей госпожи, сказал: «Для&#160;меня перстень приятнее руки». Дама, смотря на&#160;него, отвечала: «А&#160;мне нравится ольстра лучше скотины».
+Француз, славный питух, никогда не&#160;любил пить воды, но&#160;при смерти попросил большой стакан ее, говоря, что&#160;теперь должно проститься с&#160;своими неприятелями. Марциал описывает пьяного старика Аппия так:
+</p><p>На&#160;белых волосах у&#160;Аппия зима
+</p><p>И&#160;лето на&#160;глазах, горящих от&#160;вина.
+</p><p>Как&#160;пьет, то&#160;по носу фиалки расцветают,
+</p><p>И&#160;точно тем весны средину представляют.
+</p><p>Как&#160;в&#160;осень щеки все брусники полны зрелой,
+</p><p>Не всяк&#160;ли&#160;видит — год изображен тут целый.
+</p><p>Принц Мавриций для&#160;битвы, учиненной под&#160;Нью-портом, приказал отвесть от&#160;берега свой флот, который мог&#160;бы&#160;служить убежищем его войску. И&#160;после, ведучи оное к&#160;сражению, сказал: «Храбрые мои воины, видите, что&#160;позади вас стоит неприятельский Ньюпорт, по&#160;левую руку у&#160;вас море, по&#160;правую — река, а&#160;впереди — неприятели, итак, остается вам одна дорога, коя состоит в&#160;таком затруднении, чтоб пройти напролом сквозь нее». Сей ободрительною речью выиграл он&#160;победу, коя была спасением республики.
+Один стихотворец суеверу, укоряющему его в&#160;изуверстве, сказал так:
+</p><p>Пожалуй, не&#160;зови меня безверным боле,
+</p><p>За&#160;то, что&#160;к вере я&#160;не причитаю врак,
+</p><p>Я&#160;верю божеству, покорен вышней воле.
+</p><p>И&#160;верю я&#160;еще тому, что&#160;ты дурак.
+</p><p>Преподлый суевер от&#160;разума бежит,
+</p><p>И&#160;верит он&#160;тому, чему не&#160;надлежит,
+</p><p>Кто вздору всякому старается поверить, Стремится пред самим он&#160;богом лицемерить.
+</p><p>У&#160;Офризы была дочка, коей она издетска внушала всякие добродетели; прямая набожность, прилежание к&#160;трудам, благочиние, воздержание и&#160;мудрость составляли ее качества. Клоя лишилась своей достойной матери и&#160;с нею небольшого имения, на&#160;кое надеялась. Не могла вступить в&#160;монастырь, решилась жить уединенно от&#160;мужского шума, в&#160;комнатке, трудами своих рук, что&#160;едва могло ей доставлять на&#160;самонужное содержание. Клоя молода и&#160;пригожа, а&#160;сие скудость делает опасною. Молодой Лезидор влюбился в&#160;нее и, уведомясь о&#160;жалком ее состоянии, считал оную в&#160;числе своих побед, но&#160;обрел невозможность к&#160;ней доступить и&#160;к себе склонить. Нежные письма, подарки все великодушно были презрены. Толикая упорность лишь более раздражала страсть в&#160;Лезидоре, и&#160;он, все то&#160;преодолев, женился на&#160;Клое. Целомудрие заставило себя почитать порока.
+</p><p><br />
+</p><p>Голландец спросил француза: «Для&#160;чего вам иные чужеземцы во&#160;всем, как&#160;обезьяны, слепо подражают? Оставя прямое благочиние, многие ходят неглиже, а-ля тур, а-ля кок, а-ля пижон, с&#160;рогами и&#160;заражаются произношением в&#160;нос?» Француз отвечал: «Тебе&#160;ли&#160;знать политику, мужик! Ведь в&#160;переменном поведении наилучшее удовольствие состоит».
+Вор, будучи в&#160;Париже, пришел ввечеру к&#160;купцу, имевшему в&#160;своей конторе много серебряных шандалов, с&#160;умыслом, чтоб несколько оных украсть. Он&#160;просил показать некие товары, и&#160;пока их отыскивали, вступил в&#160;разговор с&#160;хозяйкою и&#160;с другими, тут бывшими, довел речь о&#160;хитрости мошенников и&#160;притом сказал: «Господа, вы удивитесь, как&#160;один плут украл два серебряных шандала из&#160;конторы почти похоже на&#160;оные на&#160;глазах многих на&#160;него зрителей». — «Нельзя тому статься», — говорили другие. «Да&#160;я&#160;сам тут был, а&#160;вот каким образом… — и&#160;начал представлять то&#160;действие, — он, как&#160;теперь я, положил свою шляпу на&#160;стол, схватил два подсвечника и, погася огонь, вынес их под&#160;полою». Сей рассказчик, то&#160;же учиня, выбежал на&#160;улицу и&#160;скоро скрылся от&#160;своих слушателей, кои признали свою ошибку, да&#160;поздно было за&#160;ним бежать.
+При&#160;польском короле Августе XII был шут, который, вздумав посмеяться придворным дамам, нарядился во&#160;французский кафтан и&#160;в штаны без&#160;задних половинок; и&#160;во время, как&#160;король вышел в&#160;большую залу, то&#160;он, ему представ, оборотясь спиною к&#160;дамам, начал низко кланяться. Они, увидя необычное, стали закрываться. Король, на&#160;них смотря, спрашивал тому причины, а&#160;шут между тем скрылся.
+Некая госпожа, имея одного сына и&#160;видя умирающего, весьма о&#160;том крушилась. Священник во&#160;утешение говорил ей: «Вспомните об&#160;Аврааме, коему бог приказал заколоть своего сына, и&#160;он послушался без&#160;роптания». <i>«Ах, батюшка! — отвечала она. — Бог никогда&#160;бы&#160;не потребовал сей жертвы от&#160;матери».</i>
+Некая молодая и&#160;пригожая барыня, будучи в&#160;беседе, говоря о&#160;дамских уборах, сказала: «Так ныне все дорого, что&#160;приходит нам ходить нагим». То&#160;один забавник примолвил: «Это&#160;бы&#160;для нас, сударыня, было приятнейшим предметом».
+Кривой бился об&#160;заклад со зрячим, что&#160;он больше видит, нежели тот, и&#160;оный выиграл, потому что&#160;кривой у&#160;него видит два глаза, а&#160;он у&#160;кривого только один.
+Некая красота имела многих полюбовников и&#160;каждого уверяла о&#160;своей верности. Но&#160;незапно Амур отнял повязку с&#160;одного ее миляка и&#160;ему открыл ее непостоянство, он&#160;стал ее тем укорять. «Ах! Государь мой, — отвечала ему, смеясь, — когда вы прозрели, так прошу меня не&#160;беспокоить: я&#160;принимаю к&#160;себе только слепых».
+Во II столетии Година, славная по&#160;своей красоте и&#160;добродетели жена герцога английского Мерси, оказала свою любовь к&#160;подданным отменным действием. Муж ее наложил тяжкую подать на&#160;жителей города Ковентри. Она неотступно его просила, чтоб сие отменить, но&#160;он напоследок на&#160;то согласился с&#160;таким условием, чтоб проехала она нагая чрез весь город. Година подверглась сему стыду с&#160;запрещением жителям на&#160;нее смотреть под&#160;смертною казнию. Села на&#160;коня и&#160;проехала все улицы, не&#160;имея никакого покрывала, опричь своих длинных волос. Некто гражданин по&#160;любопытству открыл окно, но&#160;тотчас был убит, и&#160;в память сего бытия была поставлена в&#160;оном граде на&#160;том&#160;же месте статуя в&#160;образе смотрящего человека.
+</p><p>Епископ, презирая некоего простовидного и&#160;скудного попа, говорил ему: «Я&#160;думаю, что&#160;ты не&#160;смыслишь и&#160;первых начал катехизиса и&#160;сколько есть главных грехов?» — «Восемь», — отвечал поп. «Так, — сказал владыко, — я&#160;не обманулся во&#160;мнении о&#160;твоем знании. Скажи мне, пожалуй, какой осел-епископ поставил тебя в&#160;попы и&#160;какие суть те восемь грехов?» — <i>«Я&#160;посвящен в&#160;сие достоинство вашим высокопреподобием, а&#160;что касается до&#160;главных грехов, то&#160;к семи, кои всякому известны, надобно прибавить восьмой, то&#160;есть — презирать бедных священников».</i>
+</p><p><br />
+«Не стыдно&#160;ли&#160;тебе, — сказал прохожий нищему, просящему милостыню, — ты можешь работать». Тот ему отвечал: «Государь мой, <i>мне нужда в&#160;деньгах, а&#160;не в&#160;твоем совете».</i>
+К&#160;некоему генералу, готовящемуся к&#160;сражению, пришел офицер, просил дозволения в&#160;последние повидаться с&#160;своим отцом издыхающим, чтоб о&#160;нем постараться и&#160;получить благословение. «Поди, — сказал сей предводитель, ведая причину сей отлучки, — <i>почитай отца и&#160;мать, чтоб тебе долголетни быть на&#160;земле».</i>
+</p><p>В&#160;некую пригожую и&#160;постоянную мещанку крайне влюбясь, великий господин говорил ей: «Ваши качества есть все то, что&#160;мне в&#160;вас любезно». — «Так, — отвечала ему, — <i>пожалуй, не&#160;подвергайте меня опасности лишиться всего того, что&#160;вы любите».</i>
+Некто, видя неудовольствие от&#160;своего приятеля в&#160;неправом требовании, сказал ему: «Когда твоя дружба мне бесполезна, так мне она и&#160;не нужна». — <i>«Да&#160;и&#160;мне твоя</i>, — <i>отвечал правдивый друг</i>, — <i>потому что&#160;неможно ее хранить справедливостью».</i>
+В&#160;деревне принесли в&#160;кирку окрестить младенца. Поп, пришед подпивши с&#160;своими друзьями несколько побольше обыкновенного и&#160;не могущий в&#160;своей книге служебнике найти правила крещения, говорил, перебирая в&#160;ней листы: <i>«О, как&#160;трудно крестить сего ребенка!»</i>
+Напоследок предлагаю сию достопамятную повестцу: Некоторый разумный человек о&#160;кончине жизни говорил так: «День приближается, в&#160;который я&#160;уже не&#160;буду господин моему имению и&#160;с досадою увижу, что&#160;я семена свои для&#160;других посеял. Скоро, скоро пойму ясно, что&#160;располагал я&#160;богатством не&#160;собственным моим, но&#160;заемным. Час придет, и&#160;кто знает, коль скоро? Когда я&#160;любезнейшим моим буду причиною страха, печали и&#160;плача? Каково будет моему сердцу, когда моя вдова, мои сироты и&#160;сродники станут около моего одра и&#160;то о&#160;себе, то&#160;обо мне начнут плакать? Как&#160;возмогу я&#160;стерпеть взгляды и&#160;слезы тех, кои без&#160;меня, может быть, в&#160;бедности останутся? Каково мне тогда будет, когда от&#160;меня врач скрывать, а&#160;священник ясно смерть предвозвещать станет? Что&#160;я&#160;тогда подумаю, когда мне объявят, что&#160;я уже должен от&#160;всех веселостей сего света отказаться, со всеми расстаться, позабыть свою честь и&#160;только помышлять об&#160;одной вечности?»
+</p><p>Впадете вскоре,
+</p><p>О&#160;невские струи! в&#160;пространное вы море
+</p><p>Пройдете навсегда,
+</p><p>Не возвратитеся из&#160;моря никогда.
+</p><p>Так наши к&#160;вечности судьбина дни приводит.
+</p><p>И&#160;так оттоле жизнь обратно не&#160;приходит.
+</p><p><br />
+</p>
+<style data-mw-deduplicate="TemplateStyles:r4837660">.mw-parser-output .hr-custom{height:1px;width:40em;margin-left:auto;margin-right:auto;margin-top:5ex;margin-bottom:5ex}</style><hr class="hr-custom" style="width:8em;margin-left:0ex; margin-right:auto; margin-top: 2ex; margin-bottom: 2ex;" /><div class="references-small" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">А. И. Герцен. Собр. соч. в 30-ти томах, т. I, М., Изд-во&#160;АН СССР, 1954, с.&#160;266.</span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">«Отечественные записки», 1841, № 5. Библиографическая хроника, с.&#160;4.</span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">В. Даль. Картины из&#160;народного быта. «Варнак». — «Русская беседа», 1857, Кн. 8, с.&#160;34—35.</span>
+</li>
+</ol>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5c9fc7f974‐9q7qh
+Cached time: 20260215213746
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.129 seconds
+Real time usage: 0.205 seconds
+Preprocessor visited node count: 288/1000000
+Revision size: 205023/2097152 bytes
+Post‐expand include size: 9794/2097152 bytes
+Template argument size: 1748/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2141/5000000 bytes
+Lua time usage: 0.061/10.000 seconds
+Lua memory usage: 2051673/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  158.020      1 -total
+ 89.42%  141.307      1 Шаблон:Отексте
+  4.76%    7.519      1 Шаблон:Примечания
+  4.31%    6.806      2 Шаблон:Right
+  2.86%    4.517      1 Шаблон:---
+  1.65%    2.600      1 Шаблон:License
+-->
+
+<!-- Saved in parser cache with key ruwikisource:stable-pcache:1014091:|#|:idhash:canonical and timestamp 20260215213746 and revision id 5586647. Rendering was triggered because: unknown
+ -->
+</div><noscript><img src="https://ru.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikisource.org/w/index.php?title=Краткие_замысловатые_повести_(Курганов)&amp;oldid=5586647">https://ru.wikisource.org/w/index.php?title=Краткие_замысловатые_повести_(Курганов)&amp;oldid=5586647</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B7%D0%B0" title="Категория:Проза">Проза</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F" title="Категория:Философия">Философия</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%B8_%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2" title="Категория:Сборники рассказов">Сборники рассказов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0" title="Категория:Педагогика">Педагогика</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Николай Гаврилович Курганов">Николай Гаврилович Курганов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_1869_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Литература 1869 года">Литература 1869 года</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:PD-old-70" title="Категория:PD-old-70">PD-old-70</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:25%25" title="Категория:25%">25%</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Страницы без сканов">Страницы без сканов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/lib.ru" title="Категория:Импорт/lib.ru">Импорт/lib.ru</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%BF%D0%BE%D1%80%D1%82/az.lib.ru/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2" title="Категория:Импорт/az.lib.ru/Николай Гаврилович Курганов">Импорт/az.lib.ru/Николай Гаврилович Курганов</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 30 июля 2025 года в 21:06.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru">Условия использования</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Викитеки</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D0%B0:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikisource.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.wikisource.org/w/index.php?title=%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B5_%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B8_(%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Поиск</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Искать в Викитеке">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Служебная:Поиск">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Найти</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Содержание" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Отобразить/Скрыть содержание"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Отобразить/Скрыть содержание</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Краткие замысловатые повести (Курганов)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>Добавить языки</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Добавить тему</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-f79556446-ksj86","wgBackendResponseTime":137,"wgPageParseReport":{"limitreport":{"cputime":"0.129","walltime":"0.205","ppvisitednodes":{"value":288,"limit":1000000},"revisionsize":{"value":205023,"limit":2097152},"postexpandincludesize":{"value":9794,"limit":2097152},"templateargumentsize":{"value":1748,"limit":2097152},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2141,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  158.020      1 -total"," 89.42%  141.307      1 Шаблон:Отексте","  4.76%    7.519      1 Шаблон:Примечания","  4.31%    6.806      2 Шаблон:Right","  2.86%    4.517      1 Шаблон:---","  1.65%    2.600      1 Шаблон:License"]},"scribunto":{"limitreport-timeusage":{"value":"0.061","limit":"10.000"},"limitreport-memusage":{"value":2051673,"limit":52428800},"limitreport-logs":"table#1 {\n    [\"author\"] = \"Николай Гаврилович Курганов\",\n    [\"license\"] = \"PD-old\",\n    [\"origLang\"] = \"\",\n    [\"other\"] = \"Второе «привосокупление» к «Письмовнику».\",\n    [\"published\"] = \"1869\",\n    [\"quality\"] = \"1\",\n    [\"source\"] = \"[http://az.lib.ru/k/kurganow_n_g/text_1869_kratkie_zamyslovatye_povesti.shtml az.lib.ru]\",\n    [\"style\"] = \"text\",\n    [\"title\"] = \"Краткие замысловатые повести\",\n}\neditions = nil\ntranslations = nil\n"},"cachereport":{"origin":"mw-web.eqiad.main-5c9fc7f974-9q7qh","timestamp":"20260215213746","ttl":2592000,"transientcontent":false}}});});</script>
+</body>
+</html>
