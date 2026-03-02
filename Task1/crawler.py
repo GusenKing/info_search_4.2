@@ -80,7 +80,6 @@ class WebCrawler:
 
     def crawl(self):
         if self.is_successful():
-            downloaded_pages = []
             index = {}
             urls_to_crawl = {self.start_url}
             page_number = 0
