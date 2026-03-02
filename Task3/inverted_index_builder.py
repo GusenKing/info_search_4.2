@@ -3,7 +3,7 @@ import json
 import utils
 from collections import defaultdict
 
-TOKEN_FILENAME_SUFFIX = '_токены.txt'
+LEMMA_FILENAME_SUFFIX = '_леммы.txt'
 
 
 def build_inverted_index(folder_path):
@@ -12,22 +12,28 @@ def build_inverted_index(folder_path):
         raise FileNotFoundError(folder_path)
 
     listed_files = os.listdir(folder_path)
-    listed_files.remove("index_токены.txt")
+    listed_files.remove("index_леммы.txt")
 
-    token_files = filter(lambda x: x.endswith(TOKEN_FILENAME_SUFFIX), listed_files)
-    token_files = list(token_files)
+    lemma_files = filter(lambda x: x.endswith(LEMMA_FILENAME_SUFFIX), listed_files)
+    lemma_files = list(lemma_files)
 
-    for filename in token_files:
+    for filename in lemma_files:
         filepath = os.path.join(folder_path, filename)
 
         if not os.path.isfile(filepath):
             raise FileNotFoundError(filepath)
 
         with open(filepath, "r", encoding="utf-8") as f:
-            tokens = f.read().lower().split()
+            for line in f:
+                line = line.strip().lower()
 
-            for token in tokens:
-                inverted_index[token].add(filename[:-len(TOKEN_FILENAME_SUFFIX)])
+                if not line:
+                    continue
+
+                lemma = line.split()[0]
+
+                document_name = filename[:-len(LEMMA_FILENAME_SUFFIX)]
+                inverted_index[lemma].add(document_name)
 
     return dict(inverted_index)
 
