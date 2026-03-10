@@ -63,11 +63,10 @@ def compute_tf(documents):
     tf = {}
 
     for doc, tokens in documents.items():
-        total_terms = len(tokens)
         counts = Counter(tokens)
 
         tf[doc] = {
-            term: count / total_terms
+            term: count
             for term, count in counts.items()
         }
 
@@ -90,18 +89,6 @@ def compute_idf(documents):
     }
 
     return idf
-
-
-def compute_tfidf(tf, idf):
-    tfidf = {}
-
-    for doc, terms in tf.items():
-        tfidf[doc] = {
-            term: value * idf[term]
-            for term, value in terms.items()
-        }
-
-    return tfidf
 
 
 def calculate_tf_and_idf_for_tokens(input_dir):
